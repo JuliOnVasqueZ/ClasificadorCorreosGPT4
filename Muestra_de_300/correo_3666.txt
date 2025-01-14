@@ -1,0 +1,1159 @@
+__________________________________________________
+Do You Yahoo!?
+Yahoo! Shopping - Thousands of Stores. Millions of Products.
+Before you go mail me your house keys and tell me where you've hidden my 
+Christmas presents.  Sorry we won't get to see you for Christmas.  Hope you 
+like Chicago.  Maybe you'll make it back by Easter 
+Ruston was good.  The game was awesome!!  It was so loud in there my ears 
+were ringing when I left.  We lost but it was a much closer game than I 
+expected.  My favorite part was when Pat Summitt was whining and the crowd 
+starting chanting "Sit down, Pat 
+Keith and Susan was crazy as usual.  I had a blast over there 
+Talk to ya later.  Good luck with your trip.
+Paul Rodrigue  Please respond to paul_rodrigue@bigfoot.com
+So how is Ruston? Anything exciting going on?
+I'm heading to Chicogo this week. (St. Charles
+actually) I'm hoping that I will even make it. The
+weather is so bad up there that they are cancelling
+flights now. And what am I supposed to do once I'm
+there? Do you think that this poor little Texas boy
+has ice and snow clothes? What use would I have for a
+wool coat down here. I'm going to freeze my tushy off.
+__________________________________________________
+Do You Yahoo!?
+Yahoo! Shopping - Thousands of Stores. Millions of Products.
+So is that a yes now or is it still a no?
+Gabriel Monroy
+03/05/2001 11:04 AM
+Lupe's sounds good for my craving. You know I love Fajitas from there. What 
+made you think I did not like Lupe's?   The reason I don't want to go is me 
+disrupting your conversations of accounting. 
+Gabriel 
+Congrats on finally accomplishing something.  Have got some good gossip, but 
+I almost got busted a minute ago so you're gonna have to wait!!
+Robin
+Brian/Kathy,
+I have attached a copy of a report that is given to John Lavorato every 
+morning.  This report shows basis positions by trader for specific points Please let me know if the positions we are reporting for the Canadian traders 
+are correct.  If you unhide columns C-S you will find the curves that are 
+added in each section.  The curves highlighted in green are used for 
+intramonth positions and the white are the basis curves.   The intra-month 
+position that shows is a combination of  physical and gas daily.  All other 
+time periods are only basis notional.  If you have any questions give me a 
+call 
+Thanks,
+Robin
+Robin Rodrigue
+10/23/2000 11:42 AM
+Vern,
+I am now responsible for publishing the EES Gas Position Report.   It seems 
+that the websave version that I received in the attached email is not updated 
+to publish the EES report.  Could you please send me an updated version or 
+let me know what I need to do so that I can publish this report?
+Thank you,
+Robin
+x57478
+Gabriel Monroy
+10/20/2000 07:56 AM
+Attached is the latest version of the Add-In for publishing Executive 
+Reports.  It contains the "Pulp & Paper P&L", "Pulp & Paper Position", "Pulp 
+& Paper Price", "Emissions Summary", and "Natural Gas Net Fixed Price 
+Positions By Book (Ignores Correlation)" subroutines.
+John Lavorato is expecting to see these publish reports in the updated viewer 
+tomorrow morning!
+To use this latest version of the Add-In:
+Close all instances of Excel.
+Detach the attached websave2.xla file into the Microsoft Office's Library 
+directory.  Usually this is C:\Program Files\Microsoft Office\Office\Library
+Launch Excel.
+Under the Tools menu selection, select Add-Ins In the "Add-Ins available" list, look for "Websave."  If present, uncheck 
+it.  This is the old version of the add-in.
+There should be a "Websave2" in the list.  This is the current version of the 
+add-in.  Check it and click the OK button.
+I've also attached a workbook containing a buttons for the new reports that 
+you can copy and paste into your production workbooks 
+Here are the named range values and the sheet names for the reports:
+Named Range	Sheet Name
+nr_NGFixPB  	Natural Gas Net Fixed
+nr_EmSum  	Emissions Summary
+nr_PPPL  	Pulp & Paper P&L
+nr_PPPos  	Pulp & Paper Position
+nr_PPPrice  	Pulp & Paper Price
+EFF_DT PORTFOLIO_ID DOWN95
+12/8/00  MANAGEMENT-CRD 0
+12/8/00  MANAGEMENT-GAS 3,885,186.
+12/8/00  MANAGEMENT-PWR 348,979.
+12/8/00  AGG-MANAGEMENT 4,068,571.
+I'm here.  My phone's not working(no signal in the woods), but I'll call you 
+when I go to Ruston tomorrow afternoon.  Have a good weekend.
+Robin
+Here's an example of the GRMS spreadsheet 
+Are you kidding me?????  I'll be 2008 before we know who won this election 
+Gabriel Monroy
+12/08/2000 03:41 PM
+FL Sup. Court overruled the Appellate Court decision. They are going to do a 
+full had recount in all FL. counties. 
+How about that??
+If we'd known that we could have stayed longer and had a few drinks.  I 
+haven't accomplished anything since I've been back so it wouldn't have 
+mattered to me.
+What's going on?
+Did you get caught sneaking in late?  I didn't.  I don't think anyone knew I 
+was gone.
+Gabriel Monroy
+12/08/2000 12:00 PM
+When do you want to go?
+Let me know. I'll go whenever you want. 
+Here you go.  This is the P&L we reported as of 3/2/01.
+Let me know if you have any questions.
+Robin
+Kathy Reeves
+03/02/2001 11:17 AM
+Robin,
+Could you please send me Canada's p&L that you are reporting.  The same file 
+that you sent last month is fine.  This is what our income should be.
+Kathy
+Kathy,
+I am attaching a copy of the NGPL that was reported as of this morning.  If 
+you look at the by Trader P&L, we are off from your spreadsheet by 
+approximately $3.6 million USD for December and approximately $7.6million 
+year to date.  The $7.6 consists of the December variance and the $4 million 
+variance that we discussed earlier (originations).  However, I spoke with the 
+Chris Able from the Controls group, what we are reporting for originations 
+and for Canadian p&l ties to the DPR.   This leads me to believe that either 
+our number already includes the origination adjustment or the origination 
+adjustment was never made to the DPR.  To help resolve the December variance, 
+I have added a tab to your file to show what we have reported each day for 
+December 
+Remember the p&l we are reporting by trader excludes originations.  Give me a 
+call when you have time and we can try to resolve these variances.
+Thanks,
+Robin
+Kathy Reeves
+12/07/2000 06:46 PM
+Robin
+I would like to make sure before year end that the p&l being reporting for 
+Canada ( trading profits only) equals what I think it is as per attached:
+Would you let me know what you are currently reporting for Canada.
+Thanks
+Kathy
+Thank goodness she's in when Congress will be a complete deadlock on every 
+issue that is brought up!!  I really don't want  a government that can't even 
+manage their money or make a decision in under a year deciding what doctor I 
+can see.  It probably will reduce medical cost significantly.  People will 
+just die before they can wade through the red tape to go to the doctor 
+Later,
+Robin
+What CRAP!!!  They have no political voice and the machines are old, give me 
+a break!  They didn't have a problem electing more blacks to their 
+legislature, so I guess they weren't denied the right to vote.  That last 
+quote by Jackson!!!  Oh my goodness, cry me a river 
+I can't believe they can even say all this crap with a straight face.  But 
+then I'm sure I'm prejudice 
+Don't send me any more of this crap today.  I'm trying to enjoy my Friday I'm headed to Ruston this weekend.  I'm going to see Tech and Tennessee.  I 
+think I told you that already.  I'm going to visit Fake family while I'm 
+there of course 
+Talk to ya later,
+Robin
+I have to clean out my inbox every few minutes so someone doesn't see my 
+email pop and see all the emails from you!!  Our "privacy" is definitely not 
+going to last long.
+I think this is a good chance to get back on our Monday schedule.  Not that I 
+don't want to have Spanish, but.....  If we didn't have Spanish you and I 
+could go to lunch.
+Robin
+Gabriel Monroy
+12/08/2000 08:31 AM
+That was the whole purpose of it, so maybe you'll change your mind and stay 
+(he he). No honestly, have lots of fun. We'll talk later. I still need to 
+think if we are going to have Spanish or not. Fridays and Spanish don't get 
+along. 
+Gabriel
+You're so sweet.  You're making me miss you already.
+I definitely have time.  Give me a call when you want to go.
+Gabriel Monroy
+12/07/2000 12:50 PM
+I am planning on going downstairs to grab a sandwich?   Do you have time? If 
+you are doing something don't worry (honestly).  I did finish, but it was 
+funny the way I finished it. 
+Thanks for asking. You are so nice!
+How's everything going?  Did you finish on time?
+Most of the time we meet these deadlines.  Several days the P&L hasn't been 
+exported by 7:20 b/c I was waiting for the Management p&l changes, so that 
+there wouldn't be such large changes between our preliminary and final 
+p&l's.  If you rather I didn't wait let me know.  There have been a couple of 
+days I've just forgotten, but that's not a regular occurance 
+Robin
+Jeffrey C Gossett
+12/07/2000 10:48 AM
+Are we missing any of these "deadlines" and, if so, Why?
+Over the past few weeks, we have not been receiving information from the risk 
+management groups on a timely basis.    This memo serves to convey our 
+deadlines to you and to reiterate deadlines for the risk management group.
+Our reporting is as follows (Houston time):
+7:45 - posting of preliminary DPR to website (needed to be done prior to RAC 
+8am meeting)
+7:45 - 2:00 - preparation of the violation/notification memos
+2:00 - finalization of the DPR & memos
+In order to meet these deadlines we need the risk management departments to 
+meet the following deadlines (Houston time):
+before leaving to go home (Houston): officialization of books (to ensure 
+information is captured in VAR engine and Credit AGG)
+4:00 (London):  officialization and sending of feeds to IT
+7:20 (all): export of preliminary information
+7:20-3:00: support on explanations of violations/notification memos
+11:00 (London only): export of final information (needed at that time for 
+Merchant Asset group)
+12:00 (Houston only): export of final information
+Everyday at least one group misses the deadline, which is unacceptable Please ensure deadlines are met going forward.  Remember, the DPR cannot go 
+out until all information is received and final so one group holds up the 
+whole process.
+Thank you,
+Shona Wilson
+No Problem!
+Hope everything's okay today 
+Talk to ya later,
+Robin
+EFF_DT PORTFOLIO_ID DOWN95
+12/6/00  MANAGEMENT-CRD 0
+12/6/00  MANAGEMENT-GAS 4,433,359.
+12/6/00  MANAGEMENT-PWR 353,366.
+12/6/00  AGG-MANAGEMENT 4,638,876.
+Here are my accomplishment.  Let me know if you need anything else before 
+tomorrow afternoon 
+Thanks,
+Robin
+Is it time to go home yet?  I still haven't finished my accomplishments.
+Robin
+Here is the Reserve schedule.  There were no reserves for the Financial, 
+Central, East, or Texas desks 
+If you have any questions give me a call.
+Robin
+What's up?  I want out of the building.  Do you have time for a quick lunch 
+somewhere other than Enron?
+RR
+EFF_DT PORTFOLIO_ID DOWN95
+12/5/00 MANAGEMENT-CRD 0
+12/5/00 MANAGEMENT-GAS 3595275.
+12/5/00 MANAGEMENT-PWR 339919.
+12/5/00 AGG-MANAGEMENT 3768435.
+Yeah, I'm still here.  Still trying to tie out the basis.  I'll let you 
+know.  I'm beginning to think I'll just tell them I haven't accomplished 
+anything and be done with it.  There's no chance I'll get promoted 
+anyway...my PRC rep doesn't even know I'm a girl.  In the email he sent 
+Gossett he kept saying summarize "his" accomplishments, and "his" strengths, 
+etc.  Goss thought it was hilarious.
+I'll let you know how everything's going, or I'll call you when I leave.
+RR
+What did you charge $1,000 for?  I haven't gotten anywhere on my 
+accomplishments.  Right after I emailed you we discovered some major issues 
+with the basis report, so it looks like I'll be doing accomplishments 
+tonight.  I'm still hoping I can come to your game though.  It doesn't start 
+until 8:45 right?
+Bye,
+Robin
+How do you come up with all this?  Did someone teach you how to write 
+accomplishments?  This is awesome.  I hadn't thought about integrating my 
+goals into my accomplishments.  And you consider me an overachiever!!
+Thanks.
+Please remove me from your distribution list as I have moved to a new group.
+Thanks,
+Robin
+Susan D Trevino
+03/09/2001 04:56 PM
+The attached book request is complete.  Please contact me if you have any 
+questions.
+Thank you,
+Susan Trevino
+x3-1462
+Here's the list.
+John Lavorato
+Louise Kitchen
+Jeffrey Gossett
+David Baumbach
+Frank Hayden
+Hunter Shively
+Scott Neal
+John Arnold
+Tom Martin
+Phillip Allen
+Mike Grigsby
+Binh Pham
+Bradley Jones
+Bilal Bajwa
+Robin Rodrigue
+Binh Pham or Bilal Bajwa will be the people publishing the report.
+Hi Robin,
+Who all initially need access to the new report?
+Who will be publishing the report?
+Thanks,
+Annemieke
+How did you start your accomplishments?  About the only thing I'm coming up 
+with is "Once upon a time I didn't work in risk and I had a life."  There's 
+probably a better way to do it though.
+Yeah you're gonna have to explain that one...I'm confused.  I didn't go last 
+year so I don't know how they check everyone at the door 
+I know what you meant in your earlier email.  That was kind of strange Hopefully I'll get out of here at a decent time.  And if I can get my 
+accomplishments done during the day today that would be fabulous.  Maybe I 
+could even come watch you play soccer.   But all that hinges on my 
+accomplishments.  And of course since I put it off until today, we violated 
+every limit we have this morning!  Well we didn't violate p&l, just VAR and 
+positions.  So I'm sure I'll spend most of the day answering questions.
+See you at lunch.
+Robin
+Gabriel Monroy
+12/05/2000 07:51 AM
+I have a question. Do you think it is possible to RSVP for the X-mas Party you and your invitee- then your invitee shows up without you? Do you think 
+they'll let him/her get in?
+I'll explain what I am trying to do at lunch or Brown Bag.
+Gabriel
+Robin Rodrigue
+10/23/2000 11:42 AM
+Vern,
+I am now responsible for publishing the EES Gas Position Report.   It seems 
+that the websave version that I received in the attached email is not updated 
+to publish the EES report.  Could you please send me an updated version or 
+let me know what I need to do so that I can publish this report?
+Thank you,
+Robin
+x57478
+Gabriel Monroy
+10/20/2000 07:56 AM
+Attached is the latest version of the Add-In for publishing Executive 
+Reports.  It contains the "Pulp & Paper P&L", "Pulp & Paper Position", "Pulp 
+& Paper Price", "Emissions Summary", and "Natural Gas Net Fixed Price 
+Positions By Book (Ignores Correlation)" subroutines.
+John Lavorato is expecting to see these publish reports in the updated viewer 
+tomorrow morning!
+To use this latest version of the Add-In:
+Close all instances of Excel.
+Detach the attached websave2.xla file into the Microsoft Office's Library 
+directory.  Usually this is C:\Program Files\Microsoft Office\Office\Library
+Launch Excel.
+Under the Tools menu selection, select Add-Ins In the "Add-Ins available" list, look for "Websave."  If present, uncheck 
+it.  This is the old version of the add-in.
+There should be a "Websave2" in the list.  This is the current version of the 
+add-in.  Check it and click the OK button.
+I've also attached a workbook containing a buttons for the new reports that 
+you can copy and paste into your production workbooks 
+Here are the named range values and the sheet names for the reports:
+Named Range	Sheet Name
+nr_NGFixPB  	Natural Gas Net Fixed
+nr_EmSum  	Emissions Summary
+nr_PPPL  	Pulp & Paper P&L
+nr_PPPos  	Pulp & Paper Position
+nr_PPPrice  	Pulp & Paper Price
+EFF_DT PORTFOLIO_ID DOWN95
+12/4/00  MANAGEMENT-CRD 0
+12/4/00  MANAGEMENT-GAS 2,989,591
+12/4/00  MANAGEMENT-PWR 336,966
+12/4/00  AGG-MANAGEMENT 3,189,446
+Chris Abel
+08/11/2000 11:38 AM
+The attached list includes all Liquids book administrators, their respective 
+files and their phone numbers.  Please use this list to contact the 
+appropriate person when any originations issue arises 
+John Swinney
+08/11/2000 11:17 AM
+Admin   DPR   Phone #
+John Swinney  BAS0800  3-9111
+SpecII0800 
+Spec0800
+Metals0800
+Pat Stafford  0800dbrc  5-8638
+0800dist
+0800dist2
+0800rprc
+USUK0800
+Michelle Nelson 0800blrc  5-8091
+0800cfrc
+RES0800
+FRT0800
+Sony Wilson  Ngl_0800  3-7729
+EGLI0800
+Anjali Abraham  0800btx   3-7434
+0800plas
+Shifali Sharma  wti0800   3-5170
+wti_prepay_0800
+0800CAN
+I think this is it.  If you need anything else, let me know
+John
+I hadn't even thought of that...that must be what he was doing 
+Dawn C Kenne
+12/04/2000 03:53 PM
+No way..I missed it.  He was probably giving my performance review 
+Robin Rodrigue
+12/04/2000 03:32 PM
+Dawn,
+I can't believe it...I just saw Phillip Allen laugh!!!  Like laugh out loud Shocking isn't it?  I don't know what caused this phenomenon but I thought 
+you'd like to know about it.
+Later,
+Robin
+Tom,
+I would like to attend.
+Thank you,
+Robin
+Tom Wilbeck@
+12/04/2000 03:09 PM
+Thank you to those who have already RSVP'd for this informative brown bag 
+session.  This is one of the last opportunities you'll have to gain more 
+insight into our business.  Please RSVP ASAP, Okay?
+Jen Fraser, Director of Origination in EGM - December 5 from 12 to 1 in 30C1
+Of course I remember.  I have a great Spanish teacher.   I'm RSVPing as soon 
+as I send this so I'll see you tomorrow at lunch if not before.
+Robin
+Dawn,
+I can't believe it...I just saw Phillip Allen laugh!!!  Like laugh out loud Shocking isn't it?  I don't know what caused this phenomenon but I thought 
+you'd like to know about it.
+Later,
+Robin
+Hey,
+Do you want to go to the brown bag tomorrow 
+RR
+Gwen,
+My new address is:  958 W. Cuyler Apt 1S
+Chicago, IL  60613
+Let me know if you need any additional information.
+Thanks,
+Robin
+Gwendolyn Gray@
+03/05/2001 09:46 AM
+Do you have your new address in Chicago yet?  If so please let me know so 
+that I can update SAP.  Thanks.
+Te quiero tambien.
+Gossett officially asked me for my accomplishments today.  I have to have 
+them done by tomorrow night.  So I guess that's what I'll be doing the rest 
+of the day(not that I've had that many accomplishments just that it'll take 
+me that long to think of something.)  I knew I might as well add that last 
+crack b/c if I didn't you would have!
+Robin
+I wish you would have sent me this BEFORE I ran into her today.  I had no 
+idea if you'd talked to her or not so I wasn't going to say anything and make 
+her made at you.  Anyway, I guess she's going to be good at keeping in quiet 
+b/c I didn't know if she knew or not.  And as for the admitting in front of 
+other people, I did tell you about this.  She asked me if you had left for 
+Austin yet and I said no.  And then someone asked me what I was doing for the 
+weekend and I said I was going Christmas shopping in San Marcos.  No mention 
+of you or Austin.   Oh well, I guess we'll see how long the "secret" lasts Was she mad at you?
+Talk to ya later,
+Robin
+EFF_DT PORTFOLIO_ID DOWN95
+12/1/00  MANAGEMENT-CRD 0
+12/1/00  MANAGEMENT-GAS 1,152,305
+12/1/00  MANAGEMENT-PWR 340,158
+12/1/00  AGG-MANAGEMENT 1,376,639
+You really want to leave badly, don't you?  I don't think I have anything you 
+can do though.  I packed when I went home for my nap, so as soon as I can get 
+out of here I'm ready to go.  So go home and watch a couple of movies and 
+then I should be ready to go.
+What you talkin' bout Willis?  Actually I just got back about 3.  I went home 
+and took a little nap!!  It was awesome.  But to answer your question yeah 
+I'm ready to go.  I probably shouldn't leave, but I'm definitely ready 
+Gabriel Monroy
+12/01/2000 03:41 PM
+Are you almost done with everything?  Ready to go!. HE HE HE
+You don't have me beat.  We have them delivered at least a couple times a 
+year.  The first time I saw the lobby filled with Krispy Kreme's I thought I 
+must have died and that was heaven.  They were handing out boxes to people as 
+they got of the elevators.  If they did that everyday I would be more excited 
+to get here. of course then I'd have to take the freight elevator b/c 
+anything else would be too small.  I got to work at 3:45 this morning, so I'm 
+actually going to leave pretty soon.  Unfortunately I'll be back later.  One 
+of our people is on vacation so I'm covering the night shift tonight.  So it 
+should be a nice 20 hour day today. 
+I'm going Christmas shopping this weekend, so let me know if you still need 
+something for mom.  Not that I have any great ideas, but I'm hoping I can 
+find her some clothes.  If all else fails I'll get her blue earrings!!  I'm 
+tempted to find somewhere where I can buy blue and red earrings in bulk and 
+give her a couple dozen pairs of each 
+Are you watching CNN right now?  One of the protestors is holding a sign that 
+has Gore's name written with the communist sickle as the G.  It's pretty 
+funny.  I also like the Sore Loserman signs 
+Enjoy a doughnut for me.
+Robin
+Paul Rodrigue  Please respond to paul_rodrigue@bigfoot.com
+I have you beat. Krispy Kreme delivers ;) We must have
+had over 50 dozen delivered here this morning. yum yum yum 
+__________________________________________________
+Do You Yahoo!?
+Yahoo! Shopping - Thousands of Stores. Millions of Products.
+EFF_DT PORTFOLIO_ID DOWN95
+11/30/00 MANAGEMENT-CRD 0
+11/30/00 MANAGEMENT-GAS 1,170,267
+11/30/00 MANAGEMENT-PWR 219,559.
+11/30/00 AGG-MANAGEMENT 1,255,081.
+I will be there.  And I'll be bringing a guest.
+It's been how long...all of maybe a day since you picked on me.  Besides you 
+have the whole weekend to look forward to.
+Gabriel Monroy
+11/30/2000 09:22 AM
+Be careful not to work to hard to miss my class.  I am looking forward to 
+picking on you. It's been too long since the last time I laughed at you 
+See ya in class.
+Hey Girlie,
+Well, it's official.  I'm moving to Chicago.  This is my last week in 
+Houston.  I start work up there on March 12th.  If your free for lunch 
+sometime this week let me know 
+Robin
+Unfortunately I'm afraid that your last estimate is probably the most 
+realistic.  Today is my favorite day of the month...we're rolling everything 
+today!!!  Let me  rephrase that I'M rolling everything tonight.  Maybe that 
+way I won't have to reroll it in the morning!!
+Gabriel Monroy
+11/30/2000 08:43 AM
+Let me rewind.... HI, Good Morning, ready for a full  10 hour shift? Knowing 
+how things are down there, you might just be starting your day. Ready for 
+another 10-11 hours 
+Robin Rodrigue
+10/23/2000 11:42 AM
+Vern,
+I am now responsible for publishing the EES Gas Position Report.   It seems 
+that the websave version that I received in the attached email is not updated 
+to publish the EES report.  Could you please send me an updated version or 
+let me know what I need to do so that I can publish this report?
+Thank you,
+Robin
+x57478
+Gabriel Monroy
+10/20/2000 07:56 AM
+Attached is the latest version of the Add-In for publishing Executive 
+Reports.  It contains the "Pulp & Paper P&L", "Pulp & Paper Position", "Pulp 
+& Paper Price", "Emissions Summary", and "Natural Gas Net Fixed Price 
+Positions By Book (Ignores Correlation)" subroutines.
+John Lavorato is expecting to see these publish reports in the updated viewer 
+tomorrow morning!
+To use this latest version of the Add-In:
+Close all instances of Excel.
+Detach the attached websave2.xla file into the Microsoft Office's Library 
+directory.  Usually this is C:\Program Files\Microsoft Office\Office\Library
+Launch Excel.
+Under the Tools menu selection, select Add-Ins In the "Add-Ins available" list, look for "Websave."  If present, uncheck 
+it.  This is the old version of the add-in.
+There should be a "Websave2" in the list.  This is the current version of the 
+add-in.  Check it and click the OK button.
+I've also attached a workbook containing a buttons for the new reports that 
+you can copy and paste into your production workbooks 
+Here are the named range values and the sheet names for the reports:
+Named Range	Sheet Name
+nr_NGFixPB  	Natural Gas Net Fixed
+nr_EmSum  	Emissions Summary
+nr_PPPL  	Pulp & Paper P&L
+nr_PPPos  	Pulp & Paper Position
+nr_PPPrice  	Pulp & Paper Price
+You mean I'm not half-way yet???!!  I was planning to go home about 11.
+You didn't expect me to be awake in Spanish did you?
+Gabriel Monroy
+11/30/2000 08:23 AM
+4:15 am?? wow, you are you pretty much getting ready for your mid-day break?
+Would you copy the code from the macro you use to push your spreadsheets into 
+the Executive reports and send it to me (you can send it in a Word document)?
+Thanks.
+Dave
+EFF_DT PORTFOLIO_ID DOWN95
+11/29/00 MANAGEMENT-CRD 0
+11/29/00 MANAGEMENT-GAS 1,212,593
+11/29/00 MANAGEMENT-PWR 199,079
+11/29/00 AGG-MANAGEMENT 1,249,461
+I just might have that movie.  I can't quite seem to remember 
+RR
+Gabriel Monroy
+11/29/2000 05:05 PM
+You are right 
+Take care.  I am planning on watching a movie tomorrow..... and I was 
+planning on watching Notting Hill.  By AAANNYYY coincidence, would you happen 
+to have that movie. (He he he).
+See ya!
+Gabriel
+I'm going home!!!!!   Yippee 
+Gabriel Monroy
+11/29/2000 04:45 PM
+Maybe exercising those options (M.A. Rodriguez) wasn't that bad after all. 
+Gabriel
+Debbie,
+Thank you for returning my call.  I went to the eRequest to submit a request 
+for Risktrac but the only option was to get access to the application.  I 
+already have the application I merely need access to the VAR module Therefore, I did not submit an eRequest.  Please let me know what I need to 
+submit to ensure I get the proper access.
+Thank you,
+Robin
+Now's the time to buy stock...before we report this year's earnings!!
+Vlady,
+Here is the P&L breakout you requested.  If you have any questions give me a 
+call.
+Robin
+x57478
+Was that a real no or an I'm going to make you think it's no and then give 
+you crap later?
+Just kidding.
+I didn't think you'd come when you found out where we were going 
+R
+EFF_DT PORTFOLIO_ID DOWN95
+11/28/00 MANAGEMENT-CRD 0
+11/28/00 MANAGEMENT-GAS 241,112.
+11/28/00 MANAGEMENT-PWR 198,780.
+11/28/00 AGG-MANAGEMENT 341,097.
+My morning was great...no problems, everything nice and quiet the way I like 
+it.  But this afternoon has been a little hectic.  Oh, well, it's making time 
+go much faster.  Well except for the meeting with disable...that dragged on 
+and on.  I'm so excited about getting out of here at a decent time.  If 
+people will quit asking me questions so I can finish changing formulas on the 
+basis report I'm going to get out of here by 3...that's my goal anyway 
+Talk to ya later,
+Robin
+Ps Congrats on realizing that you're a really smart guy and that it's your 
+boss causing your stress!
+RR
+Gabriel Monroy
+11/28/2000 12:59 PM
+He he, I sent you a call from somebody with a really weird name. Your friend 
+Kathy wants to see a report.  Now I know who you are talking about.  Isn't 
+she annoying 
+A meeting with Disable.... can't wait to have that much fun?
+My day has been great. Well, more and more I realize that my stress is all my 
+boss' fault.   Now that I have the associate with me I realize that he (my 
+boss) does not explain things the way they should be explained.  The 
+associate does not understand a lot of things because our boss hasn't come up 
+with many of the assumptions needed for the project we are working on and I thought it was all my lack of knowledge.  Anyways, I think I just need 
+to learn how to work with my new boss. I need to come up with my own 
+assumptions. 
+Hey, did those initials mean something? or were you just typing?  How is your 
+day??  Are you excited you are going to get out of here at a descent time?
+GM (is that better?)
+I was trying to tell you that the blonde chick from Donna's group is down 
+here.  The woman that's always whining about something.  She's driving me 
+nuts.  That and the fact that I had a long meeting this morning with your 
+other buddy, Chris Disable.  All we did was go in circles for about 45 
+minutes.
+How's your day going?
+REALTRORARR (I just wanted to have as many initials as you.)
+I thought Bilal was still looking at the Enovate books. 
+Robin
+Bilal Bajwa
+11/22/2000 11:54 AM
+Robin,
+Don't make the changes to the portfolios yet. We have been looking at these 
+books already- for we need to actually take Enovate out of Agg-gas IV as 
+opposed to adding it in Agg-Gas Lets talk about it before we add these books!
+Thanks,
+Bilal
+What is the status here?
+Thanks,
+Frank
+Robin Rodrigue@ECT
+11/22/2000 11:50 AM
+Ramesh,
+Here is the reconciliation of the portfolios.  The third sheet shows what 
+books need to be added to Agg-gas and what needs to be added to Agg-Gasiv.
+Thanks,
+Robin
+Ganapathy Ramesh
+11/22/2000 11:29 AM
+- Democratic Seal.jpg
+Mike,
+Thank you for you help.
+Robin
+Hi Robin,
+I have set you up for access to our closing price report.  Your User ID is
+enronrobin and your password is amerex.  You will be prompted to change this
+password upon your first login attempt.
+Thank you,
+Mike Prokop
+Michael Prokop
+Vice President and CIO
+Amerex Natural Gas
+Ph:   281-340-5290
+Fax:  281-634-8879
+EFF_DT PORTFOLIO_ID DOWN95
+11/27/00 MANAGEMENT-CRD 0
+11/27/00 MANAGEMENT-GAS 1,286,103
+11/27/00 MANAGEMENT-PWR 198,698
+11/27/00 AGG-MANAGEMENT 1,284,305
+You might as well write your name as to put your initials 
+All I know is no one is here to answer my questions and they are all in the 
+same PRC meeting.  I don't know if it's just the leads or if it's an HR 
+meeting for all the departments.
+Interesting though isn't it?
+All of the leads are in a PRC meeting today...do you think that means we 
+don't need to do our accomplishments?
+Actually I already have plans with the "girls" from Accounting.  I think 
+we're going to Lupe's.  You are invited if you want to come.  But give me a 
+definite yes or no...none of this "I'd like to" crap 
+We're going to leave at 11:30.
+Robin
+Try not to pester you new associate to death with all your questions Congrats on getting help.  Maybe this means the hazing is over.
+RR
+Gabriel Monroy
+11/27/2000 01:01 PM
+Aleluya, my boss talked to one associate in the group so he can sit by me and 
+help me in case I have any questions. ANY??? Maybe he can sit by me and just 
+explain everything from scratch. Anyways, just wanted to let you know. 
+Bye. 
+Brooklyn,
+What's going on?  How was your holiday?  I thought about you this weekend We had fried turkey.  It was sooo yummy.  I was going to bring you some, but 
+there weren't even crums left 
+Well, I just wanted to brag.  So I'll leave you alone.
+By the way, how was your trip to Kinder?  Did you have trouble finding the 
+hotel or resturant?
+Later,
+Robin
+Sorry to hear you're being hazed today.  I'm glad to know he thinks you are 
+worth something.  You can be pretty certain I won't be coming to join your 
+new group when I rotate.  I think I'm going to rotate to the Controls group 
+so I don't have to do anything.
+Yeah, I was way too excited to sleep last night.  Just thinking about all the 
+fun I'd have this week.  Oh, here a highlight for your day.  I was excited 
+today b/c I'd only have to work one shift this week.  I forgot Binh has today 
+off too.  She won't be back until tomorrow, so I have another two shift 
+day...YUCK!!!  And to top it off Irena just came by with the December 
+calendar.  Binh has a week off and Rock has the last week of Dec through the 
+first week of Jan off.  I'm sooo excited 
+Enough whining for now.  Are we having Spanish class today?
+Bye-bye.
+Robin
+Gabriel Monroy
+11/27/2000 09:37 AM
+I am glad everything is fine on your side.  I am sorry you did not get much 
+sleep.  It is a mistery why sometimes you have those nights where you wake up 
+looking at the clock. I am sure your problem was due to your  excitement to 
+come back to work. You could not wait any longer. Well, I am definitely not 
+glad... the hazing started again, and I think it doubled.  If we look at it 
+in an optimistic way, having me do these exercises that are really hard mean 
+his expectations have not been lowered.  He still thinks I am worth 
+something. 
+Talk to you later. I am being subdued right now.
+Gabriel
+Robin Rodrigue
+11/27/2000 08:23 AM
+What...A tax book not helpful?  Aren't you glad you didn't have to suffer 
+through that class?  Everything went fine this morning.  I just had to 
+rebuild the bench and the basis report but that's all!!  Lavo seemed happy 
+with everything this morning.  No screaming anyway.   And no I didn't get 
+much sleep last night, but it wasn't really your fault.  Even after I went to 
+bed I just kept waking up.  It was one of those nights where you wake up and 
+look at the clock at least once every hour.  I feel a little dazed but other 
+than that I'm okay.
+And no I'm not glad to be back at work.  Are you?
+Talk to ya later,
+Robin
+Gabriel Monroy
+11/27/2000 07:58 AM
+Hi!
+How is it possible that my Financial Statement Analysis book was more helpful 
+than your Tax book as far as how to handle NOL accounts?
+It was not even worth carrying that heavy book. Just kidding, thank you very 
+much anyways.  Was everything ok this morning?
+I felt bad I left really late last night. I hope you got some good rest. 
+Glad you are back at work?
+Gabriel 
+What...A tax book not helpful?  Aren't you glad you didn't have to suffer 
+through that class?  Everything went fine this morning.  I just had to 
+rebuild the bench and the basis report but that's all!!  Lavo seemed happy 
+with everything this morning.  No screaming anyway.   And no I didn't get 
+much sleep last night, but it wasn't really your fault.  Even after I went to 
+bed I just kept waking up.  It was one of those nights where you wake up and 
+look at the clock at least once every hour.  I feel a little dazed but other 
+than that I'm okay.
+And no I'm not glad to be back at work.  Are you?
+Talk to ya later,
+Robin
+Gabriel Monroy
+11/27/2000 07:58 AM
+Hi!
+How is it possible that my Financial Statement Analysis book was more helpful 
+than your Tax book as far as how to handle NOL accounts?
+It was not even worth carrying that heavy book. Just kidding, thank you very 
+much anyways.  Was everything ok this morning?
+I felt bad I left really late last night. I hope you got some good rest. 
+Glad you are back at work?
+Gabriel 
+EFF_DT PORTFOLIO_ID DOWN95
+11/22/00 MANAGEMENT-CRD 0
+11/22/00 MANAGEMENT-GAS 1,269,998
+11/22/00 MANAGEMENT-PWR 200,555
+11/22/00 AGG-MANAGEMENT 1,270,367
+Other than coming down to entertain me there's really nothing you can do.  Go 
+Home and get some sleep so you can drive tomorrow!!
+I'll call you later.
+Robin
+Gabriel Monroy
+11/22/2000 02:48 PM
+Hey, 
+I can go home now !!!! Everybody is getting ready to leave here !    Let's 
+go!   he he. 
+Well, let me know if you need to do anything before we leave tomorrow.  I can 
+actually help you since I am pretty much done. Well, there is always 
+something. 
+Gabriel
+Are you thinking that there's a problem with Canada's position?
+Brian, please see the file below.  It  represent an example of a spreadsheet 
+that we use on a regular basis for uploading positions.  I am sure that you 
+guys are familiar with the format and what goes where.  The important thing 
+is to have the book name and the reference dates and the delta positions all 
+correct.  Call me if any questions.
+BM
+No Problem.  One question though, why are we taking Enovate out of Agg-gas?
+Bilal Bajwa
+11/22/2000 11:54 AM
+Robin,
+Don't make the changes to the portfolios yet. We have been looking at these 
+books already- for we need to actually take Enovate out of Agg-gas IV as 
+opposed to adding it in Agg-Gas Lets talk about it before we add these books!
+Thanks,
+Bilal
+Ramesh,
+Here is the reconciliation of the portfolios.  The third sheet shows what 
+books need to be added to Agg-gas and what needs to be added to Agg-Gasiv.
+Thanks,
+Robin
+Ganapathy Ramesh
+11/22/2000 11:29 AM
+Debbie,
+I would like to have access to the VAR reports in RisktRac.  I am responsible 
+for preparing the Gas Benchmark and the VAR report that is given to ENA 
+management each morning.   Therefore I already have access to the VAR 
+information.  Please let me know what I need to do to be granted this access.
+Thank you,
+Robin
+x57478
+EFF_DT PORTFOLIO_ID DOWN95
+3/2/01  MANAGEMENT-COAL 0
+3/2/01  MANAGEMENT-CRD 0
+3/2/01  MANAGEMENT-GAS 844,045.
+3/2/01  MANAGEMENT-PWR 173,922
+3/2/01  AGG-MANAGEMENT 969,159
+Kathy/Brian,
+As I'm sure you know we are trying to determine what is causing the Canadian 
+VAR to be so high.  One possible cause that we would like your help 
+investigating is the Curve Codes that are being loaded in the position files 
+that are manually loaded into the system each night.  It is my understanding 
+that positions will be correct even if the curves loaded are spelled  
+incorrectly. However, incorrect curve names will result in the positions not 
+being captured in the VAR calculation.  Please verify that all the curves are 
+spelled correctly in all position files 
+Please give me a call if you have any questions.
+Thanks,
+Robin
+Will,
+Please send me the official book names so that I can set this up in the 
+bench.  If you have a copy of the book request that should have all the 
+information I need.  Also, please let me know what trader is responsible for 
+this position 
+Thanks,
+Robin
+EFF_DT PORTFOLIO_ID DOWN95
+11/21/00 MANAGEMENT-CRD 0
+11/21/00 MANAGEMENT-GAS 1,353,409
+11/21/00 MANAGEMENT-PWR 199,788
+11/21/00 AGG-MANAGEMENT 1,339,756
+Market East needs to recognize $24,200 of Middle Market -East Originations 
+granted by the Pipe Options book.
+Thanks,
+Robin
+BOOK ID    AGG-GASII LOCATION
+FT-CAND-EGSC-OPT-BAS   FT-CANADA-BAS
+FT-CAND-EGSC-OPT-PRC   FT-CANADA-PRC
+FT-HPLC-BAS    IM-TEXAS-BAS
+FT-HPLC-PRC   IM-TEXAS-PRC  
+FT-INT-CEN-MKT-GDL  IM-CENTRAL-PHY
+FT-US/CAND-ERMS-GDL  FT-CANADA-GDL
+Susan D Trevino
+11/21/2000 03:51 PM
+Robin - please let me know where to place these books.  Per Bilal, they need 
+to be done today.
+Thanks,
+Susan
+Bilal Bajwa
+11/21/2000 03:40 PM
+I compared the different portfolios in RisktRac and came up with the 
+following changes. Hopefully this would help eliminate some of the 
+differences amongst the different portfolios 
+FT-Peoples needs to be removed from P Keavey - Currently it is being double 
+counted in P Keavey and J Williams.
+The following books to be added to AGG-GASII
+FT-CAND-EGSC-OPT-BAS 
+FT-CAND-EGSC-OPT-PRC 
+FT-HPLC-BAS 
+FT-HPLC-PRC
+FT-INT-CEN-MKT-GDL
+These books to be added to AGG-GASIV, AGG-GASIII and Canada
+FT-US/CAND-ERMS-GDL (Under J_McKay - Robin please confirm)
+Please let me know if you have any other suggestions/comments to help solve 
+this problem as soon as possible.
+Bilal
+Bilal Bajwa
+11/21/2000 03:40 PM
+I compared the different portfolios in RisktRac and came up with the 
+following changes. Hopefully this would help eliminate some of the 
+differences amongst the different portfolios 
+FT-Peoples needs to be removed from P Keavey - Currently it is being double 
+counted in P Keavey and J Williams.
+The following books to be added to AGG-GASII
+FT-CAND-EGSC-OPT-BAS 
+FT-CAND-EGSC-OPT-PRC 
+FT-HPLC-BAS 
+FT-HPLC-PRC
+FT-INT-CEN-MKT-GDL
+These books to be added to AGG-GASIV, AGG-GASIII and Canada
+FT-US/CAND-ERMS-GDL (Under J_McKay - Robin please confirm)
+Please let me know if you have any other suggestions/comments to help solve 
+this problem as soon as possible.
+Bilal
+They belong to Jason Williams.
+Susan D Trevino
+11/21/2000 03:11 PM
+Which trader does this book belong to?
+ST
+Bilal Bajwa
+11/21/2000 03:02 PM
+The following books are being counted under both J_Williams and P_Keavey and 
+need to be removed from one of the traders 
+FT-PEOPLES-BAS
+FT-PEOPLES-PRC
+Bilal
+They should be removed from Keavey's portfolio.
+Bilal Bajwa
+11/21/2000 03:02 PM
+The following books are being counted under both J_Williams and P_Keavey and 
+need to be removed from one of the traders 
+FT-PEOPLES-BAS
+FT-PEOPLES-PRC
+Bilal
+EFF_DT PORTFOLIO_ID DOWN95
+11/20/00 MANAGEMENT-CRD 0
+11/20/00 MANAGEMENT-GAS 2,010,184
+11/20/00 MANAGEMENT-PWR 196,977.
+11/20/00 AGG-MANAGEMENT 2,036,711
+July Firm  -7,306
+July Intramonth  2,634
+Kathy Reeves
+11/20/2000 07:21 PM
+Robin,
+There is a significant difference (640K) in July.  Can you further break it 
+out by intramonth and term.
+Kathy
+Robin Rodrigue
+11/20/2000 06:10 PM
+Here is what we reported for consolidated Canada as of Nov. 17.   Listed 
+amounts are in thousands.
+Jun July Aug Sept Oct Nov  YTD
+274 -4,672 5,115 990 -2,517 -6,708  27,552
+I'm still working on the first half of the year.
+Thanks,
+Robin
+Vern,
+I spoke with Annemieke and she said that you would be the person to contact 
+about adding a report to the executive viewer.  We need to add a gas report The title of the Report will be Natural Gas Basis by Trader.  I am attaching 
+a copy of the report that will be published.  Please let me know if you need 
+any additional information 
+Thank you for your help,
+Robin
+x57478
+Jan Feb Mar Apr May
+2,191 9,084 6,261 4,304 12,984
+Robin Rodrigue
+11/20/2000 07:10 PM
+Here is what we reported for consolidated Canada as of Nov. 17.   Listed 
+amounts are in thousands.
+Jun July Aug Sept Oct Nov  YTD
+274 -4,672 5,115 990 -2,517 -6,708  27,552
+I'm still working on the first half of the year.
+Thanks,
+Robin
+Here is what we reported for consolidated Canada as of Nov. 17.   Listed 
+amounts are in thousands.
+Jun July Aug Sept Oct Nov  YTD
+274 -4,672 5,115 990 -2,517 -6,708  27,552
+I'm still working on the first half of the year.
+Thanks,
+Robin
+Brian,
+This file look good.  Are you still using the FTCD file?  If you are, please 
+let me know to what trader to assign the P&L 
+Thanks.
+Robin
+Brian Gillis
+11/20/2000 10:59 AM
+Robin, let me know if this works - if so, I'll go out and save it on your 
+drive right now.
+Jon,
+Attached you will find a copy of the basis positions as reported to John 
+Lavorato for November 17.  The positions listed represent the entire Canadian 
+office position at each point.  The attached includes only those points that 
+John Lavorato has requested be reported by trader, not every point at which 
+you have positions.
+If you have any questions please let me know.
+Robin
+713-345-7478
+EFF_DT PORTFOLIO_ID DOWN95
+11/17/00 MANAGEMENT-CRD 0
+11/17/00 MANAGEMENT-GAS 2,922,796
+11/17/00 MANAGEMENT-PWR 196,716
+11/17/00 AGG-MANAGEMENT 2,993,595
+I spoke with Bilal.  It is our understanding that the morning VaR report 
+regarding Canada represents how we are capturing positions right now.  We are 
+currently decomposing/reconstructing Disturnal's book to capture by region 
+code (overall positions would remain the same).  This would impact Disturnal 
+positions which will be moved to either McKay or Lambie.   From our side we 
+are waiting on  the  IT resolution..  We have set a deadline of the last week 
+in November to get this in motion.   On Monday, Bilal will give you a detail 
+breakout of the deadline for Canada.
+Regarding the the Canadian P&L report, I left a message for Gillis to get the 
+numbers out there.
+Additionally, last week we resolved the Canadian derived curve problem 
+(derived curves were improperly mapped and position was not be captured We re-ran VaR and the e-mail below summarizes the breakout.  Overall, desk 
+VaR decreased because Canadian VaR increased (hedges out portfilio).
+Hope this gives you an idea of our progress.
+Frank
+PS. We will be moving Enovate out of Hunter Shively's VaR and give it is own 
+place on the bench. This will probably impact the Central Desk VaR by approx. 
+200K
+Bilal Bajwa@ECT
+11/17/2000 06:43 PM
+Below is the new var after the derived curve/primary-secondary mapping issue 
+in RisktRac was resolved. 
+EFF_DT PORTFOLIO_ID DOWN95     NEW VAR
+11/16/2000 CANADA  7,411,853.    10,723,189
+11/16/2000 AGG-GASIV  36,777,800.    30,861,483
+11/16/2000 AGG-GASIII  36,777,800.    -30,861,483
+11/16/2000 AGG-GAS  37,015,232.    -31,053,419.
+EFF_DT PORTFOLIO_ID NEW  OLD
+11/16/00 LAVORATO-FIN -36,060,600. -36,060,600.
+11/16/00 LAVORATO-TEXAS -6,716,337. -6716337.
+11/16/00 LAVORATO-CND -10,455,397. -7,411,853.
+11/16/00 LAVORATO-CNT -7,823,233. -7,479,112.
+11/16/00 LAVORATO-WEST -29,332,789. -29,332,789.
+11/16/00 LAVORATO-EAST -14,962,485. -14,962,485
+Bilal
+Jeff,
+I took care of the Executive Viewer.  I talked to Frank and apparently 
+Lavorato wants to see the Canadian breakout next week.  I already have 
+everything set up to do the positions, but we need to work on Canada to get 
+the P&L.  Intra-Canada has a breakout but it's only in Canadian dollars.  I 
+left a message for Kathy to call me.  Just wanted to give you a heads up.
+Talk to you Monday.
+Robin
+Jeffrey C Gossett
+11/18/2000 12:40 PM
+John J Lavorato@
+11/18/2000 12:28 PM
+Jeff
+My management line is hidden on my hard copy report but not on the executive 
+viewer.  Make sure its hidden on the executive viewer.
+Don't worry there's no rush.  Take your time and exhaust all your other 
+options...don't worry it doesn't hurt my feelings that you are trying 
+desparately to get out of spending the holidays with me.  Just kidding 
+Have a good weekend.
+Robin
+Me polite??  I think you have me confused with someone else.  You  are 
+definitely invited.  And as for my family and friends, if you think you can 
+stand them you're welcome to come along.  Some of my friends usually end up 
+at my parents house anyway.  There's only one friend that'll I'll probably 
+try to catch up with over Thanksgiving and we usually just go to dinner and 
+catch a movie, so you are welcome to come 
+What'cha doing for lunch?
+Robin
+Gabriel Monroy
+11/17/2000 11:26 AM
+Robin, 
+I thought you were just being polite and you felt bad because it was going to 
+be a lonely Thanksgiving for me.  So, you were serious about it?   I really 
+appreciate that you still keep me in mind, and I apologize for not having 
+told you anything. I am sure you probably need to know to plan ahead. 
+Ok, here is the plan. Let me make a few phone calls b/c  my best friend  from 
+Cd. Juarez (border with El Paso, TX) said he  was going to Austin for that 
+weekend  but nothing is for sure. Also, Ramiro was planning a trip, but I 
+don't feel that bad If I decline b/c you know he loves finding foreigners to 
+travel with. He actually already found somebody 
+Honestly, I did think about it, and I was a little worried that maybe you 
+want to spend quality time with family and friends and I will be a perfect 
+stranger there. (Ok, here is your chance to say "yeahh,  maybe you are right" 
+"I want to spend time with my F & F)  Or if you are still being polite, then 
+let me get bactk to you on that after I make those phone calls. 
+THank you.
+Gabriel
+Robin Rodrigue
+11/17/2000 10:35 AM
+Have you thought any more about coming with me for Thanksgiving?
+Have you thought any more about coming with me for Thanksgiving?
+EFF_DT PORTFOLIO_ID DOWN95
+3/1/01  MANAGEMENT-COAL 0
+3/1/01  MANAGEMENT-CRD 0
+3/1/01  MANAGEMENT-GAS 920,278
+3/1/01  MANAGEMENT-PWR 174,427
+3/1/01  AGG-MANAGEMENT 1,051,128
+Time spent actually typing, procrastinating, or staring blankly into space I spent the most of the morning Wed. on evaluations.  Of course I had five to 
+do and plenty of little tasks thrown in the middle.  So it probably took me 
+about 20 minutes per evaluation.  Some I had to think about a little harder 
+than others.  It all depends on how many comments you write.  Mine took me 
+the longest and I'm still not happy with it 
+Have fun bowling.  I'd love to see your shirt!!
+Robin
+Gabriel Monroy
+11/17/2000 10:19 AM
+I promise I won't bug you again.  I just need to plan ahead. How long did it 
+take you to finish PEP (avg. time spent  per person 
+Sounds like you have a wild night planned.  I don't think I'm up to that kind 
+of partying tonight.  I've actually finished the evaluations, but I haven't 
+submitted them yet.  I'll do that today.  Thanks for the warning though 
+How late were you here last night?  How did everything turn out with your 
+boss yesterday?
+Later,
+Robin
+Gabriel Monroy
+11/17/2000 09:37 AM
+Did you finish all your evaluations 
+I haven't .  I called  PEP and they are going to shut the system down at 
+midnight tonight.  Just wanted to let you know in case you are planning on 
+having an awesome friday afternoon like I am.  I am going to bring popcorn 
+and a good CD. 
+EFF_DT PORTFOLIO_ID DOWN95
+11/16/00 MANAGEMENT-CRD 0
+11/16/00 MANAGEMENT-GAS 2,266,862
+11/16/00 MANAGEMENT-PWR 195,997
+11/16/00 AGG-MANAGEMENT 2,336,884
+Thanks.
+Susan D Trevino
+11/16/2000 04:08 PM
+Burton - Please add Robin to your book distribution list 
+Robin - I have already added your name to my list 
+Thanks,
+Susan
+Kathy/Brian,
+Here is the new text file format.  This will enable you to send only one text 
+file each night.  If you have any questions give me a call.
+Thanks,
+Robin
+57478
+Outside of moving the deals to another book, I don't think you can avoid 
+liquidating at the end of the month.  So I'm going to leave these in the 
+portfolio.
+Thanks for the info.
+Robin
+Robin, the book for Todd Richardson is technically dead.  We are the deals 
+that are in there monthly.  Is there a better way to do this?  We hate having 
+to remember to liquidate it at the end of the month.  I think it deals in 
+there until Aug 2001.
+Dave
+Robin Rodrigue
+11/16/2000 02:32 PM
+Please review the attached file.  The books listed for each trader are marked 
+for removal from the portfolio.  If you are currently using one of these 
+books or will be using it in the future please highlight the book id in 
+YELLOW.  If the book is no longer used please highlight the book id in BLUE When you have finished please return the file to me.
+Thanks for your help,
+Robin 
+Please review the attached file.  The books listed for each trader are marked 
+for removal from the portfolio.  If you are currently using one of these 
+books or will be using it in the future please highlight the book id in 
+YELLOW.  If the book is no longer used please highlight the book id in BLUE When you have finished please return the file to me.
+Thanks for your help,
+Robin 
+=7F
+ A married man left work early one Friday afternoon.
+ Instead of going home, he squandered the weekend and his
+ paycheck partying with the boys, never calling his wife.
+ When he finally returned home on Sunday night, he ran into
+ a furious wife.  After a couple of hours of yelling and
+ screaming his wife asked, "How would you like it if you
+ didn't see me for a couple of days?" He responded, "That
+ would suit me just fine!"

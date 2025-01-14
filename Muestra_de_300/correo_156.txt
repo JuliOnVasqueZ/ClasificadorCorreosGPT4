@@ -1,0 +1,449 @@
+Sandy:
+Susan Bailey passed on to me your comments to the ISDA draft and I can
+respond
+to some but not all of such comments at this point:
+1.   With respect to your Canadian securities rep, I am checking with our
+counsel in Canada about whether we can use your language instaed of ours.
+2.   With respect to the Options rep and the ESP rep in part %, Section
+(b),
+I
+believe that both parties need to make such reps.  The rep in Part 5
+(b)(g)(ii)
+is to cover the Trade Option exemption and it is different from the ESP rep
+below it.
+3.   With respect to the language in Part 5, Section (a), this is different
+from
+the setoff language.    What this is saying is that if a party has
+fulfilled
+all
+of its payment obligations and an Event of Default occurs with respect to
+it
+(the "Defaulting Party"), the other party cannot withhold any payment that
+it
+owes to the Defaulting Party.  This is different from the exercise of
+setoff
+rights.
+4.   I would like to discuss with you or your legal representative the
+removal
+of the arbitration language as it is Enron's policy to have arbitration
+apply.
+5.   We would prefer to keep the Termination Currency specified in US
+Dollars.
+6.   Our tax group believes that we need the language in Part 3(a)(i),
+(ii).
+Why do you want to delete it?
+I look forward to hearing from you.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+E-Mail Carol.St.Clair@
+Snady:
+Here is what our internal counsel in Canada is recommending.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+=09Mark Powell\CAL\ECT
+=09Sent by: Mark Powell
+=0905/25/2000 02:25 PM
+=09=09=20
+Hi Carol,
+Peter has asked me to respond to your inquiry as to whether or not we can=20
+agree to the request of Weyerhaeuser Company Limited ("WCL") in order to=20
+replace the existing securities representations (as found near the bottom of=20
+this e-mail) in the ISDA to:
+"It is a Qualified Party within the meaning of the Ontario Securities=20
+Commission, Rule 91-505 Over-the-Counter Derivatives."
+From my perspective, there are four main reasons why this amendment would not=20
+be appropriate.  They are as follows:
+1.  Proposed Rule 91-504 - Over-The-Counter Derivatives ("91-504") and the=20
+corresponding companion policy have yet to be formally adopted.  At this=20
+time, 91-504 is merely a proposal.  In addition to checking the Ontario=20
+Securities Commission ("OSC") website, I have contacted the lawyer who first=20
+brought the "securities representation" issue to our attention and he has=20
+confirmed that 91-504 is not yet in place and there have been no recent=20
+announcements by the OSC with respect to an anticipated timeline for such=20
+adoption.
+2.  Even though the WCL may trade through an office in Toronto, any trade=20
+with Enron Canada Corp. ("Enron Canada") is likely to be considered a "trade=20
+within Alberta" under Alberta securities law (due to the fact that the head=20
+office and the mind and management of Enron Canada are in Alberta).  As a=20
+result, it is important that we get representations which address Alberta=20
+securities law.
+3.  In a similar vein to point number 2 above, a "trade" can take place in a=20
+number of jurisdictions depending upon the particular facts of the trade. =20
+Although it may seem unlikely, it is possible that trades could possibly be=20
+made in jurisdictions other than Alberta and Ontario.  With the exception of=20
+British Columbia, I am not aware of other provinces of Canada adopting=20
+similar "blanket orders", "policies" or "rules" with respect to this issue. =20
+However, it is usually Ontario, Alberta and British Columbia which are at the=20
+forefront of Canadian securities law development (with the remaining=20
+jurisdictions eventually following the leaders).   I expect that, once 91-504=20
+is in place, we will see some movement from the remaining jurisdictions. =20
+Regardless, it would seem prudent to leave the reference to British Columbia=20
+in place at this time.
+4.  I think it is worthwhile to have the parties to the ISDA acknowledge the=20
+fact that a transaction under the ISDA will constitute an "OTC Derivative"=20
+(and thus, have the applicable prospectus and registration exemptions=20
+potentially available to them).  I can think of no reason why it would be=20
+beneficial to either party to remove this representation.
+With respect to our physical agreements, we have addressed points 1, 2 and 3=20
+above (as well as the fact that the exemptions we are relying upon are=20
+provided by blanket orders and policies {as opposed to the Securities Act=20
+(Alberta), Securities Act (British Columbia) or Securities Act (Ontario)} and=20
+are, thus, more likely to be {and more easily} amended) with the following=20
+clause:
+"(i) each Transaction shall constitute a =01&commodity contract=018 or an =01&OTC=20
+derivative=018 or such other similar term as defined pursuant to the securities=20
+legislation in force in Alberta or British Columbia or pursuant to the=20
+securities legislation of any other jurisdictions having application to the=20
+Transaction, and (ii) it is a =01&Qualified Party=018 within the meaning of=20
+paragraph 9.1 of Alberta Securities Commission Order Doc.#394043 and=20
+paragraph 1.1 of the British Columbia Securities Commission Blanket Order=20
+BOR#91-501, in either case, as amended, restated, replaced or re-enacted from=20
+time to time, and pursuant to any equivalent order or other enactment made=20
+pursuant to the securities laws of Alberta, British Columbia or any other=20
+jurisdictions having application to the Transaction;"
+I understand that similar language has not been adopted in the ISDA due to=20
+the "open-ended" nature of the above-mentioned clause.  If we want to refer=20
+to 91-504 and only to the blanket orders and policies currently in place, I=20
+would suggest that we amend the existing clause, which states:
+Canadian Securities Acts.  (i) Each Transaction shall constitute an =01&OTC=20
+Derivative=018 as defined in the Securities Act (Alberta) and the Securities Act=20
+(British Columbia) which have application to such Transaction and (ii) it is=20
+a =01&Qualified Party=018 within the meaning of paragraph 9.1 of Alberta Securities=20
+Commission Order Doc#394043 and/or paragraph 1.1 of the British Columbia=20
+Securities Commission Blanket Order BOR#91-501(BC), as in effect on the date=20
+hereof.
+to:
+Canadian Securities Legislation.  (i) Each Transaction shall constitute an=20
+"OTC derivative" within the meaning of paragraph 4 of Alberta Securities=20
+Commission Order Doc#394043 ("ASC 394043"), paragraph 1.1 of British Columbia=20
+Securities Commission Blanket Order BOR#91-501(BC) ("BCSC 91-501") and/or=20
+paragraph 1.1 of [proposed] Ontario Securities Commission Rule 91-504 =01)=20
+Over-The-Counter Derivatives [as published by the Ontario Securities=20
+Commission on January 7, 2000] ("[Proposed] OSC 91-504"), as applicable to=20
+such Transaction, (ii) it is a "Qualified Party" within the meaning of=20
+paragraph 9.1 of ASC 394043 and/or paragraph 1.1 of BCSC 91-501, as in effect=20
+on the date hereof, and (iii) it is a "qualified party" within the meaning of=20
+paragraph 1.1 of [Proposed] OSC 91-504.
+Once 91-504 is formally adopted by the OSC, the bold and square bracketed=20
+language above should be deleted and you may want to amend the ISDAs which=20
+were drafted using such language.   Similarly, if there are amendments to the=20
+Alberta or British Columbia orders or a province (other than Ontario, Alberta=20
+or British Columbia) which could possibly have/claim some jurisdiction with=20
+respect to a transaction under the ISDA issues a similar order or policy, you=20
+may want to amend the clause (and possibly, the pre-existing ISDAs).
+I hope this discussion is useful for you.  If you have any questions, please=20
+do not hesitate to give me a call.  I can be reached directly at (403)=20
+974-6708.
+Mark.
+Gauarav and Bill:
+Here are the names of our outside counsel that will be helping us out.  I 
+have forarded to them what you sent to me today.
+Scott Avitabile
+212-424-8491
+savitabi@llgm.com
+John McGreevy
+212-424-8361
+jmcgreevy@llgm.com
+Please add them to the distribution list.
+Carol 
+Rhett:
+Let me know what you think.
+carol
+steven.kessler@db.com
+05/25/2000 05:10 PM
+Hi Carol:
+Enclosed is redlined version of ISDA Schedule and CSA, marked against the
+July 7, 1999 version (please note that open items I left as is unless
+otherwise indicated).
+Also note that the Indemnifiable Tax clause is a head office policy
+issue--DB's position is that, in cross-border transactions, the Payee may
+not be in a position to learn of a Tax imposed due to a Change in Tax Law
+in the Payor's jurisdiction which is based upon the Payee's connection with
+the Payor's jurisdiction, no matter how tenuous that connection.  In such a
+situation, the Tax would not be an IndemnifiableTax and therefore would not
+be grossed-up.  Further, although such a change would be a Tax Event and
+therefore the Payee could terminate the Agreement upon learning of the Tax,
+the Payee, because of its inability to learn of the tax law change might
+not be able to terminate in a  timely manner and would be precluded from
+choosing not to enter into the Transaction. The worse-case scenario would
+be a Transaction entered into shortly prior to the Change in Tax Law, in
+which case the Tax would not be grossed-up because it is not an
+Indemnifiable Tax, and the Payee could not terminate the Transaction
+because a Tax Event is triggered off of a Change in Tax Law occurring on or
+after the Transaction has been entered into.  We think this risk is
+reciprocal in cross-border transactions. The Indemnifiable Tax revision
+simply shifts this incremental risk from the Payee to Payor.  I can also
+provide alternative language whereby we maintain the same gross-up
+provisions as in the standard ISDA Master, but extend the "notice" period
+to sixty days prior to the date a Transaction is entered into (rather than
+on the date in which a Transaction is entered into), thus providing a
+window for learning of legislation in other jurisdictions.
+On other open issues, I believe you are to check on (i) CEUM, (ii) the
+Event of Default, (iii)  Payment Netting, (iv) Securities Act Reps (v)
+Transfer language, and (vi) Arbitration. I need to review your comments on
+(i) the Guarantee and (ii) your new L/C Agreement.
+I look forward to hearing from you soon.
+,
+Steve
+(See attached file: enron schedule.doc)(See attached file: ENRON PARAGRAPH
+13.doc)
+- enron schedule.doc
+- ENRON PARAGRAPH 13.doc
+Jeff:
+Does this response incliude Alicia's comments that she sent to you, some of 
+which had not been raised yet by me or others?
+Carol  
+Mark and Jeff:
+Trina and i talked about the issue that you raised with me today.  Our 
+preference is to structure the language so that it would only trigger an 
+Event of Default under the Swap if the Enron merger caused an Event of 
+Default under the Revolver.  At the end of the day, we both felt that this is 
+a call that someone on the commercial side should make, such as either Ben 
+Glisan or Mike Jakubik.
+Carol 
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+steven.kessler@db.com
+05/25/2000 05:10 PM
+Hi Carol:
+Enclosed is redlined version of ISDA Schedule and CSA, marked against the
+July 7, 1999 version (please note that open items I left as is unless
+otherwise indicated).
+Also note that the Indemnifiable Tax clause is a head office policy
+issue--DB's position is that, in cross-border transactions, the Payee may
+not be in a position to learn of a Tax imposed due to a Change in Tax Law
+in the Payor's jurisdiction which is based upon the Payee's connection with
+the Payor's jurisdiction, no matter how tenuous that connection.  In such a
+situation, the Tax would not be an IndemnifiableTax and therefore would not
+be grossed-up.  Further, although such a change would be a Tax Event and
+therefore the Payee could terminate the Agreement upon learning of the Tax,
+the Payee, because of its inability to learn of the tax law change might
+not be able to terminate in a  timely manner and would be precluded from
+choosing not to enter into the Transaction. The worse-case scenario would
+be a Transaction entered into shortly prior to the Change in Tax Law, in
+which case the Tax would not be grossed-up because it is not an
+Indemnifiable Tax, and the Payee could not terminate the Transaction
+because a Tax Event is triggered off of a Change in Tax Law occurring on or
+after the Transaction has been entered into.  We think this risk is
+reciprocal in cross-border transactions. The Indemnifiable Tax revision
+simply shifts this incremental risk from the Payee to Payor.  I can also
+provide alternative language whereby we maintain the same gross-up
+provisions as in the standard ISDA Master, but extend the "notice" period
+to sixty days prior to the date a Transaction is entered into (rather than
+on the date in which a Transaction is entered into), thus providing a
+window for learning of legislation in other jurisdictions.
+On other open issues, I believe you are to check on (i) CEUM, (ii) the
+Event of Default, (iii)  Payment Netting, (iv) Securities Act Reps (v)
+Transfer language, and (vi) Arbitration. I need to review your comments on
+(i) the Guarantee and (ii) your new L/C Agreement.
+I look forward to hearing from you soon.
+,
+Steve
+(See attached file: enron schedule.doc)(See attached file: ENRON PARAGRAPH
+13.doc)
+- enron schedule.doc
+- ENRON PARAGRAPH 13.doc
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+Carol St Clair
+04/26/2000 04:41 PM
+Rod:
+Here are their credit issues:
+1. In the cross-default language that want to add language that basically 
+says that even if a cross-default occurs, unless the Non-Defaulting 
+determines in good faith that performance by the Defaulting Party of its 
+obligations under the Master is "endangered", then no cross default is 
+triggered.
+2. In Credit Event Upon Merger we had commented that instaed of the 
+"materially weaker" standard we wanted to specify that it meant being rated 
+below BBB- by S&P.  Do you feel strongly about this?  Alos, we usually have 
+language that says that if an event like merger occurs and the transferee 
+provides collateral to the other party in an amount that is satisfactory to 
+such party, then a Credit Event Upon Merger is not triggered.  They did not 
+want to add this carve-out.  Are you okay with this?
+3. They want a separate Event of Default that gets triggered if a MAC (below 
+BBB-) occurs.  We requested that it be out in the collateral threshold 
+language.
+4. They are saying that for "operational" purposes, they cannot agree to 
+"netting".
+5. They want as a category of Eligible Collateral governmental securities 
+with a maturity of less than 1 year, valued at 98%.
+6. In the CSA, if a dispute occurs with respect to either the calculation of 
+Exposure or the calculation of the value of any colateral in connection with 
+a party's request either for the transfer or return of collateral, normally 
+the following procedures apply:
+a. the disputing party notifies the other party of the nature of the dispute 
+by the close of business on the day following the day that the collateral 
+request was made.
+b. the undisputed amount is transferred to the party making the request
+c. the parties attempt to resolve the dispute by the "Resolution Time" and if 
+a resolution is not reached, a recalculation of the Exposure is made and 
+market quotations have to be obtained.
+We normally say that the Resolution Time is 3 Business Days after the dispute 
+notice is given.  DB wants to shorten this period to 1 Business Day after the 
+dispute notice is given which gives the parties less time to resolve the 
+dispute on their own.  What do you think?
+7. If a party holds cash as collateral, we normally say that interest earned 
+is transferred on the first day of the month.  They want to change first to 
+last.
+Let me know what you think.  I was hoping that some of these you could 
+resolve with your counterpart at DB.
+Carol  
+Susan:
+It's not clear to me what needs to be done on the file.  Has Paul contacted 
+them about his note on 4/7?  If not, call Paul and find out if he wants you 
+to make that call as that seems like the logical next step to take.  As far 
+as their other comments, we cannot delete the Recording language on page 6 
+and in the Confirmation language let's offer up 5 Business days.
+Carol 
+Sara:
+Here is what CWT prepared for us some time ago.
+Carol
+Russell:
+We have received excerpts from Global's LLC Agreement.  Its members are 
+Global Petroleum Corp., YPF Distribution Company and Montello Oil 
+Corporation.  It is managed by a Board of 3 reps selected by each member and 
+for this purpose, Global and Montello are treated as 1 member and YPF is 
+treated as 1 member.  I still need to talk to you about why we want an 
+ownership change trigger in the ISDA and if we do, at what level.
+carol
+Suzanne:
+I may be in tomorrow but I will leave you a voice mail message one way or 
+another.  If I don't come in and I haven't used my discretionary day, please 
+use that, otherwise treat it as a vacation day.  Hope you have a great 
+weekend.  Be safe!  If it is slow tomorrow afternoon, I have no problem with 
+you leaving around 4:30 or so.
+Carol
+Suzanne:
+Please schedule the following meetings for either today or tomorrow:
+Molly Harris - 45 minutes to talk about margin issues
+Richard Sanders and Sara - 30 minutes  - to talk about arbitration issues
+Rod Nelson 30 minutes - to talk about Idacorp and deutsche Bank issues (this 
+one I would like to do today)
+Thanks.
+Carol
+Jeff:
+I am assuming that someone on the Enron Corp. side has signed off on the new 
+"jurisdiction" language that has now been inserted into the swap assignment 
+and schedule as this language is a fairly radical change from what we had in 
+there before.  Please confirm.
+Carol 
+John:
+Per ypur voice mail this is the lateset version of the ETA amendment letter 
+without Leslie's chnages.  Please confirm that this part of it is opkay with 
+you and your counsel.  Thanks.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+Jeff:
+Thanks.  I think that a call would be a great idea.  Please let me know when.
+Carol
+Sara:
+Sempra Energy Trading Corp. has requested that in lieu of them signing every 
+single confirm that we send them that they sign periodically a statement that 
+lists all of the outstanding deals where they acknowledge that they agree to 
+the terms of such deals.  Do you see any problem with that?
+Carol
+Russell:
+I spoke with the contact that you left me last week and she indicated that 
+the ISDA had not yet been signed but that in all likelihood it would be 
+signed in a few days.  I asked Susan bailey to send you the certificate with 
+resolutions that you requested along with a new draft of the Transfer 
+Agreement which has a blank for the date.  My thought was that everything 
+would become effective on the date that we insert in the Transfer Agreement 
+and I would ask that you coordinate with Susan bailey when you know what that 
+date will be so that we can make sure that our systems reflect when the 
+trades are to be confirmed under the Utilicorp Master.  Thanks.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+Sandy:
+Thanks for all of your messages.  I will give the new mark-up of the ISDA 
+Schedules to susan bailey and she will coordinate with you in getting it 
+executed.  Susan direct number is 713-853-4737.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+"Morrison, S.L. (Sandy)"  	05/26/2000 02:46 PM
+Carol,
+My tax group is fine with the below language for Part 3a.  I look forward to
+receiving the execution copies of the ISDA and Schedule.
+Please let me know if there are any further changes or if you have any
+questions.
+Thanks,
+Sandy Morrison
+Weyerhaeuser Company Limited
+Sandy:
+On point #6, our tax dept. is recommending the following:
+- delete 3(a)(ii) in its entirety
+- in 3(a)(i), replace the reference to form 1001 with a reference to Form
+W-8-BEN
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+"Morrison,
+05/25/2000
+11:13 AM
+Carol,
+I spoke to our in house counsel about the arbitration clause and they are
+willing to leave it in.
+So, to sum up here are our responses your original eMail:
+1.  Canadian Securities Rep:  Please have your Canadian counsel review our
+language which our outside Canadian counsel prepared.
+2.  Ok.
+3.  We're ok with this now.
+4.  We're ok to leave this in.
+5.  Ok.
+6.  Please see my comments below.
+Thanks,
+Sandy Morrison
+Weyerhaeuser Company Ltd.
+Carol,
+My tax department is ok with the forms in Part 3 a i) and ii) of ths
+schedule, but ask that 3 a)ii) be changed to "...before December 31st of
+each third succeeding year..." (ie, the same as part 3a)i 
+Also they have asked that we obtain the proper mailing address and contact
+name for these forms.
+Plese let me know if there is a problem with this requested change.
+Thank you,
+Sandy Morrison
+Weyerhaeuser Company Limited
+Carol,
+Sheri's number in Washington is 253-924-3184.
+Thank you,
+Sandy
+Sandy:
+I have not yet contacted our tax group about this.  I think that the
+easiest thing to do is for you to give me Sheri's phone number and I will
+ask someone from our tax group to contact her.  It probably will be Rhett
+Jackson.
+Carol
+"Morrison,
+05/24/2000
+09:14 AM
+Carol,
+Further to our conversatiaon yesterday, I would like to get Sheri Dunn,
+from
+the Weyerhaesuer tax group and a tax representative from Enron on the phone
+sometime (hopefully today).  Sheri is available at 10:30 Pacific time
+(=1:30
+est,  12:30 Central)  today.  Do you think we can work with that?
+Thanks,
+Sandy Morrison
+Weyerhaeuser Company Limited
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)

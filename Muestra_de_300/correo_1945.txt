@@ -1,0 +1,4 @@
+It copies itself to the Windows System directory as a file
+called "Mawanella.vbs" and e-mails itself to all recipients
+in the Microsoft Outlook address book.
+Click here for more information.

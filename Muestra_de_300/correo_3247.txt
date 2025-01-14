@@ -1,0 +1,167 @@
+______________________________________________________
+Get Your Private, Free Email at  
+Mom,  Could you send me a list of eveyone's email address.  What to take a 
+poll on activities in Estes that everyone might be interested in.
+I am doing fine.  Hope you guys are doing well.
+Clement,  I had sent you a draft of a guaranty by Enron Corp. for ECS 
+Compression Company, L.L.C. earlier.  Have you had a chance to review and 
+obtain execution yet.  Please let me know the status.  Thanks for your help
+Attached is Ron's email and my response to him.
+Gerald Nemec
+04/19/2000 02:06 PM
+Ron,  Couple of comments  1.  Enitity Name - You noted that Trailblazer is a limited partnership.  The 
+name should designate limited partnership in some form (e.g. Trailblazer 
+Pipeline  Company, L.P.)  Also for an LP the General Partner will need to 
+sign to make it binding.  The signature block should read as follows:
+Trailblazer Pipeline Company, L.P.
+by its General Partner, _________________________
+2.  The limitation on consequential damages limits any remedy under this 
+agreement.  The only types of damages in a situation like this is really consequential.  I think it would benefit both parties to leave this 
+limitation out of the agreement.
+If you would like to discuss these issues, please contact me at (713) 
+853-3512.  Thank You.
+My comments are shown redlined.  Let me know if you have any problems with
+my changes.
+Per Jaime Ginsberg's request, I am forwarding our form of Confidentiality
+Agreement for your review.
+(See attached file: TrailBlazerCA.doc)
+- TrailBlazerCA.doc
+Attached are the revised O&M Agreement Amendments with the new fee structure.
+Robert D Morgan
+04/18/2000 12:12 PM
+In the short-term, I need two agreements:
+1)  A delivery point from LRC to SkyGen Energy LLC at the Cosmar plant in=20
+Ascension Parish, La.  Bridgeline Holdings will install, own, and operate=20
+5369' of 8" and the 100MM/D measurement station.  Next week would be okay.
+2)  A bi-directional point between HPL and Tejas. The details are still being=20
+negotiated.  If possible, I would like it Wedesday EOB.
+Item      Install  Own  Operate
+11mile of 16 Header     Tejas  Tejas  Tejas
+12 on 30 Hot Tap for Texoma   HPL  HPL  HPL
+1600=01, of 16 between Texoma and M&R   Tejas  HPL  HPL
+Check Measurement (Flow Computer, SCADA)  Tejas  Tejas  Tejas
+OPP to protect HPL    Tejas  HPL  HPL
+Custody Measurement    Tejas  HPL  HPL
+Flow/Pressure Control    Tejas  HPL  HPL
+Over-Ride Control     Tejas  Tejas  Tejas
+Easement for Hot Tap    Tejas  HPL  HPL
+ROW for 1600'     Tejas  HPL  HPL
+Easement for Measurement    Tejas  HPL  HPL
+Fax number is (713) 646-3490 
+Gerald,
+Could you give me your fax number so I can fax this agreement back to you Thanks,
+Mark - how's your schedule look - mine is filling up fast 
+,
+Bill Tipton
+Manager, Product Management
+Attached is the form of confidentiality agreement for the Colonial project.
+Per
+Mark Knippa's request I am forwarding for your review.
+(See attached file: FlowserveCA1.doc)
+Attached for your review and discussion at the transport review meeting this 
+Thursday are the following:
+1.  Revised Goals for Interruptible Contract Revision Process
+2.  Flow Chart of Current Interruptible Transport documentation Process
+These items will be revised as we work through the processs.
+Brad,  Attached is your form of lease with my comments incorporated.  Please 
+note that I have added Mariner Energy, Inc. as a Party to the agreement since 
+Mariner is performing all operations and maintenance for the facilities owned 
+by MEGS 
+Please note the Mariner also will need to review and comment on  this 
+document and I am forwarding it to them concurrently 
+Please contact me at (713) 853-3512 with questions.
+Greg,  Attached is the document we discussed.  Please review.  Mariner is a 
+party to this agreement since Mariner is performing all operations and 
+maintence functions for the MEGS assets and this is consistent with the 
+Operation and Maintance Agreement between Mariner and MEGS.  Please call me 
+at (713) 853-3512 with questions.
+FYI
+Jim,
+As discussed, attached are the two interconnect agreements with the requested 
+changes for your further handling. 
+Eric Gillaspie
+x5-7667  
+Hi Katie,  How are you doing?  Did you survive all your projects and 
+presentations?  Haven't heard from you in a while and just wanted to see if 
+you made it through.  Hope everything is going OK 
+Gerald
+FYI.  I think there was a temp here the day I sent this letter out.
+I received my copy of ECS's April 13 letter to TW and noticed it was 
+addressed to the wrong Susan Scott.  She usually does forward me the mail she 
+receives by mistake.  But since the information that we occasionally send 
+each other thru interoffice mail for these compressor deals is more important 
+than most, I thought I'd let you know my correct room # is 4788.  Also, when 
+sending e-mail make sure you address it to Susan Scott at ET&S, not ECT This will ensure I receive everything you send me.  Thanks!
+Dan L Junk@_DEVELOPMENT
+04/26/2000 01:52 PM
+Funny
+Check this out. You need speakers on your computer to get the full effect.
+< 
+Bob Williams
+Texaco Global Information Services
+Telecommunication Division
+Tel: (713) 432-6564
+Fax: (713) 432-2241
+email: willirw@texaco.com
+The change order #4 for the compression was Fedexed to Ralph Townsend today I am holding Change Order #5 the Dew Point Plant until we have the 
+specifications.  Let me know if you have any questions.
+Lal Echterhoff
+06/17/99 08:04 AM
+Gerald,
+Where are we with this and the plant doc.  I know we are still working on the 
+plant spec and scope, but I thought we were ready to go with the compressor 
+change order.
+Lal
+Attached is a draft Change Order for the Electric Drive Compressor Station Please review. Specifically note the Compressor Contract Price Sheet and how 
+Merrick Modified the Target Price definition.  Also I envision using this 
+same format for the Dew Point Plant Change Order
+.
+Dan L Junk@_DEVELOPMENT
+04/26/2000 01:53 PM
+Eric, this is a hoot!
+in brief summation, this about a couple of guys at Heathrow Airport who
+pretended they couldn't pronounce some weird names so they had the PA flight
+announcement dude do it for them.   Unfortunately, it sounded like something
+else in english.   I love this one.
+Bob Williams
+Texaco Global Information Services
+Telecommunication Division
+Tel: (713) 432-6564
+Fax: (713) 432-2241
+email: willirw@texaco.com
+- AirportAnnoncements.doc
+Per your request.  Enjoy.
+Sorry,  Sent you the wrong one last time.  I will try it again
+Lost my number eh?   A likely story.  Just kidding.  Sounds like you were 
+pretty busy with family.  I had a pretty good Easter as well.  Mostly just 
+hung out with friends and enjoyed the weather.  Of course I worked in a 
+little jam session with my friends 
+The week is going pretty well.  Been in a lot of meetings and those just suck 
+up the time.  I am leaving today at lunch to go to Enron Field.  The Cubs are 
+in town and it is an afternoon game.  Should be fun.  The Astros really stink 
+this year but the field is pretty awesome.  I am not a huge baseball fan and 
+but outdoor baseball in Houston is pretty cool.
+Good luck on the remainder of your schoolwork.  My numbers are:
+(713) 942-8066 Home
+(713) 853-3512 Work
+(281) 772-9250 Cell
+Take care,
+Gerald
+Katie McMahon  How wierd!
+I just logged on and was about to e-mail you.  We must be on the same
+wave length or something.
+Yes, I survived.  I have a take home final due next Tues. and a 1 page
+abstract due tomorrow, but that is it!
+I went home this weekend for Easter and was going to call you to see
+how you were doing.  I could not find your # though anywhere.  I know
+you gave it to me once, but I don't know what I did with it.  What is
+your #?  Did you have a good Easter.  It ends up that I wouldn't have
+been able to see you.  I came in late Fri. night, spent all day Sat.
+doing yard work, went out with my dad and sisters Sat. night, and spent
+time with the family on Sun.  Just wanted to let you know that I am not
+trying to avoid you.
+How is your week going?  My dad asked about you this weekend.  I told
+him we were still e-mailing each other.  He seems to like you.
+Have a good day,
+Katie
+Gerald Nemec wrote:
