@@ -1,0 +1,152 @@
+Chris Germany
+04/13/2000 11:31 AM
+Seen this one?
+I think Alicia fixed this last week.  Take a look and let me know.
+Jeff A Crook
+04/29/2000 10:51 AM
+David,
+As per my conversation with Chris Germany on Friday, 04/28, we these volumes 
+are only being billed under FirstEnergy.  Please make appropriate changes in 
+Sitara.
+Let me know if you need further information.
+Thanks,
+Jeff
+Jeff,
+Can you make sure that we aren't doubling a deal with Belden.  If not we will 
+pay them 2.649.
+Thanks,
+David
+Belden sold their Marketing company to FirstEnergy.  My sale to Belden for 
+2,500/day TZ4 @ $2.649/Dth was part of that sale to FirstEnergy. 
+John
+David Oliver@ECT
+03/29/2000 03:48 PM
+John,
+Can you please help with this deal.  The original CES information shows a 
+purchase from equitable and a sale to Belden at the price of 2.649.  Has 
+First Energy bought Belden, or is the First Energy deal different.
+Thanks,
+David
+Jeff A Crook
+03/27/2000 12:39 PM
+Customer is short paying on deal 157848.  ENA billed 72,500 @ $2.76 and 
+customer is paying at rate of $2.649.  As per Dcaf and Sitara rate should be 
+IF-CGAS-Appalachia-MI which is equal ot $2.76.  Please confirm rate for this 
+deal.
+Thank you,
+Jeff
+It appears that the evergreen function on certain Transport contracts is not 
+working.  Take a look at deal 98243.  I just had to extend the date for May 
+31, 2000.
+Tetco is going to start scheduling Lambertville.  Lambertvile is in Tetco M3 
+(in New Jersey).  This means that anyone flowing gas through Lambertville on 
+a secondary basis will probably strart getting curtailed.  Lambertville on 
+Tetco will be just like Linden on Transco Z6 
+The following LDC's/points are downstream of Lambertivlle E Town
+N Jersey
+PSE&G
+Con Ed
+Lilco
+Bug
+Belle Mead (interconnect with Transco)
+Hanover (interconnect with Algonquin)
+Leidy is considered upstream of Lambertville.  Also, deliveries to Algonquin 
+at Lambertiville is considered upstream of the constraint.
+Tetco will not give me any indication as to how much gas may be cut or how 
+much secondary will be allowed to flow through Lambertville.
+Meredith, when you get a chance, please confirm which points are downstream 
+of Lambertiville.
+CGLF contracts 66680 and 66681 ended effective 3/31/2000.
+thanks
+dkinney@columbiaenergygroup.com on 04/28/2000 11:13:45 AM
+Chris and Scott--Here are CES's final May '00 baseload FOM volumes.   Please
+call me if you have questions/problems.
+Please note the increase in the Transco ESS storage injection for May.
+Thanks.
+Doug Kinney
+Ph:  703-561-6339
+Fax:  703-561-7317
+- May00_FOM_Final.xls.xls
+FYI
+Scott Neal
+04/27/2000 06:05 PM
+please get together so that we will have the appropriate forward quantities 
+re: CES retail  in the book.
+Here's the first one that was sent to Mark F. on 3/1/00.
+Mark,
+We need to put the forward deal volumes in the books for the CES Retail term 
+deal (for April 2000 forward) as soon as possible.  For your information, 
+Chris Germany has the final spreadsheet that has all the term volumes and 
+prices in it.  I discussed this with Scott Neal and, although CES has a 10% 
+swing in the volumes they may nominate from month to month, he does want to 
+put those index positions into the appropriate books at the levels provided 
+to us by CES 
+Please talk to Chris before entering any of the East Desk deals, since he 
+indicated that he may want to enter these deals because of the complexity of 
+them; however, I want to make sure they get run through TAGG, etc.  Anyway, 
+there are very few Central Desk deals and they definitely need to be put in 
+by your group (I think you're the right one).  Again, those deals should be 
+on the final Exhibit that Chris Germany can provide to you.  In addition, I 
+showing their nominations for March--it will probably be a good idea to 
+compare the Exhibit to what they gave us for March just to make sure things 
+are matching up.  I'll e-mail that list to you separately.
+If you have any questions or if I need to give this to someone else, please 
+advise.
+Has this been addressed?
+Brenda H Fletcher
+03/27/2000 11:53 AM
+The invoiced rate on this contract is for  interruptible gathering but the 
+information on the deal reflects a Firm contract. How do you suggest handling 
+so the contract type, rate schedule and firmness are consistent with the 
+pipeline?
+Also, there are 10 contracts that we were invoiced for processing charges 
+that are not on the Service List in Path Manager for Feb.
+Are you working on getting contracts and deals added?
+Thanks,
+Brenda
+They are all in really bad shape.  May is looking pretty good though.
+Brenda H Fletcher
+04/24/2000 11:58 AM
+Jeanne, Terri and I need to begin comparing  the April Spreadsheets to the 
+Demand Service P/L Report for flash purposes.  Please provide feed back as to 
+current status of accuracy of spreadsheets.
+Thanks,
+Brenda
+- Waasszup.mpg
+Do you know if this has been addressed?
+Stephanie Sever   03/27/2000 04:51 PM
+Chris,
+Per my phone message, please see below.
+Thanks,
+Stephanie x33465
+Jeff A Crook
+03/27/2000 12:39 PM
+Customer is short paying on deal 157848.  ENA billed 72,500 @ $2.76 and 
+customer is paying at rate of $2.649.  As per Dcaf and Sitara rate should be 
+IF-CGAS-Appalachia-MI which is equal ot $2.76.  Please confirm rate for this 
+deal.
+Thank you,
+Jeff
+Sandra Dial
+04/05/2000 01:04 PM
+- PLAYBOY.PPS
+"Moths"
+A man and a woman meet at bar one day and are getting along really
+well. They decide to go back to the woman's house where they engage in
+passionate love making.
+The woman suddenly cocks her ear and says, "quick my husbandjust got
+home, go hide in the bathroom!" So the man runs into the bathroom.
+Her husband comes up into the bedroom and looks at her. "Why are you
+naked?" he asks.
+Well, I heard you pull up outside, so I thought I would come up here
+and get ready to recieve you."
+"Okay." the man replies "I'll go get ready."
+He goes into the bathroom before his wife can stop him and sees a
+naked man standing there clapping his hands.
+"Who the fuck are you?" the man asks
+"I am from the exterminator company, your wife called me in to get rid
+of the moths you are having problems with."
+The husband exclaims, "But you are naked!"
+The man then looks down and jumps back in surprise.
+"Those little bastards!"
+*

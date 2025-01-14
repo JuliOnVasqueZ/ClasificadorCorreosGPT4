@@ -1,0 +1,1107 @@
+The happiest of people don't necessarily have the best of everything; they
+ just make the  most of everything that comes along their way.  Happiness
+ lies for those who cry, those who hurt, those who have searched, and those
+ who have tried, for only they can appreciate the importance of people who
+ have touched their lives.
+ Love begins with  a smile, grows with a kiss, and ends with a tear The
+ brightest future will always be based on a forgotten past, you can't go on
+ well in life until you let go of your past failures and heartaches.
+ When you were  born, you were crying and everyone around you was smiling.
+ Live your life so that when you die,
+ you're the one who is smiling
+ and everyone around you is crying.
+You're probably gone anyway.  I'll think of this as "my note in a bottle".
+Stumpy and his wife Martha went to the state fair every year. Every year
+Stumpy would say, "Martha, I'd like to ride in that there airplane." And
+every year Martha would say, "I know Stumpy, but that airplane ride costs
+ten dollars, and ten dollars is ten dollars."
+One year Stumpy and Martha went to the fair and Stumpy said, "Martha, I'm
+71 years old. If I don't ride that airplane this year I may never get
+another chance." Martha replied, "Stumpy that there airplane ride costs ten
+dollars, and ten dollars is ten dollars."
+The pilot overheard them and said, "Folks, I'll make you a deal. I'll take
+you both up for a ride. If you can stay quiet for the entire ride and not
+say one word, I won't charge you, but if you say one word it's ten
+dollars."
+Stumpy and Martha agreed and up they go. The pilot does all kinds of twists
+and turns, rolls and dives, but not a word is heard. He does all his tricks
+over again, but still not a word.
+They land and the pilot turns to Stumpy, "By golly, I did everything I
+could think of to get you to yell out, but you didn't." Stumpy replied,
+"Well, I was gonna say something when Martha fell out, but ten dollars is
+ten dollars."
+Jim asked me to forward this to you.  We should probably discuss this 
+Scott--
+Something for you to consider:
+If the transport people are to have their own books, my belief is that the 
+curve setting used for the transport values ought to be as unbiased as 
+possible.  This means using as few "formula based" curves as possible and as 
+many Gas Daily publication postings as possible.  I'm not sure how you or 
+your traders feel about the following postings, (how realistic they are), but 
+I think they bear watching to see if they could be used for calculating 
+transport p&l.  In Gas Daily, under Citygate, Pooling Point Prices, there are 
+Mid Atlantic Citygates postings for both CNG and Columbia Gas.  These could 
+potentially be used for CNG North & South Citygates and TCO citygates.  The 
+only thing I have to confirm is how these would load since there is no index 
+posted each day--it is a range of prices instead.
+Historically TCO and CNG citygate postings haven't been much of an issue 
+because we haven't held much transport on CNG and TCO, but with the CES 
+business in our portfolio, the times have changed.  Currently we are using 
+"formula based" curves set by the traders to calculate CNG and TCO transport 
+p&l, and there sure seems to be a huge difference between the postings and 
+how we are marking the curves.  For example, today's Gas Daily postings 
+compared to our curve markings are as follows:
+GAS DAILY   GAS DAILY SPREAD   SPREADS per TRADERS CURVES
+TCO pool $2.985   $1.565     $.10
+TCO citygate $4.55
+CNG North $3.39   $  .585     $.16
+CNG South $3.305   $  .670     $.16~
+CNG Citygate $3.975
+Obviously there are huge differences, so someone must be wrong.  There are 
+two solutions that I see.  One is to switch to the Gas Daily posting, which 
+in my mind is preferable if you believe the postings are accurate; the other 
+solution is to have the traders change their curves more often to more 
+closely reflect the actual spreads in the marketplace.  That's up to you Obviously if we believe the postings are completely off base and our spreads 
+are more accurate, then nothing needs to be done, but if you want to know 
+what you're really making on your transport (and you now have a lot of it we need to focus on it being accurate.
+Anyway, let me know what you decide and I'll either forget about it or work 
+on getting the Gas Daily postings pulled into the calculations.
+Colleen,
+Mark wanted me to let you know where a few city gate points are settling 
+daily:
+CNG North City Gate = GD CNG North +.16
+CNG South City Gate = Settles at what the intra-month trader sets their 
+intra-month curve at.
+TECO Citygate = GD CGT/App +.10
+Please note that CNG North City and TECO City settle prices come in at a one 
+day lag.  After we receive gas daily settles, we reload prices for any 
+derived curves.
+If you have any questions please let me know.
+David
+x3-4231
+Alain and I are meeting for a little drink (maybe dinner too) tomorrow after 
+work.  I won't be in the office tomorrow.
+Alain, my pager number is 1-800-978-1788.  You can leave a voicemail or a 
+numeric message.
+I will call you tomorrow afternoon around 3 or 4 pm.
+Brian with CES just called me and asked if we could take the cut at 
+Colonial?  Let me know.
+Chris Germany
+02/01/2000 11:16 AM
+Robin only bought 2074 dt's for the 2nd.  According to the sheet, the Tenn Z6 
+volumes were 2220 dt's.  I told Brian at CES we were going to short Energy 
+North by 146 dt's (the requested 1227 dt's but we only have 1081 dt's 
+Please let me know how you sourced the gas.
+We bought 8000 (deal 160324) and sold it to CES in CPA 4-25 (deal 160327) for 
+the 2nd.
+My mistake - we are talking about the 2nd 
+Brian, do we need to do anything for the 1st?
+only for 2/2.  for it to flow for 2/1 i would need anr/paulding.  Let me 
+know 
+Chris Germany@ECT
+02/01/2000 10:16 AM
+Opps - for gas flow day 2/1/2000 
+Chris Germany
+02/01/2000 10:15 AM
+Per my discussion with Joann, it looks like we have covered this 240 dth at 
+meter 80-03 on CGAS.
+We drinking beer tonight?  You called me to late yesterday.
+Robin only bought 2074 dt's for the 2nd.  According to the sheet, the Tenn Z6 
+volumes were 2220 dt's.  I told Brian at CES we were going to short Energy 
+North by 146 dt's (the requested 1227 dt's but we only have 1081 dt's 
+Please let me know how you sourced the gas.
+Opps - for gas flow day 2/1/2000 
+Chris Germany
+02/01/2000 10:15 AM
+Per my discussion with Joann, it looks like we have covered this 240 dth at 
+meter 80-03 on CGAS.
+Per my discussion with Joann, it looks like we have covered this 240 dth at 
+meter 80-03 on CGAS.
+CES was cut 7314 at WGL on CGAS for the 1st.  I sold CES the gas on TRCO for 
+the 1st and the 2nd (deal 159474).
+Reminder
+Heather Choate
+01/21/2000 09:55 AM
+Please plan to attend a meeting to discuss Calp Transport Setup  
+February 1, 2000
+at 3pm in EB3013
+Call x33278, should a conflict arise. 
+Thank you. 
+I just updated the transport rate and corrected some of the points.
+Chris Germany
+01/31/2000 03:36 PM
+I created deal 159513 to capture the IT gas we are flowing on IROQ for Jan 
+and Feb.  Here is how it works.
+Rate Comment
+$.2855 1.  Schedule gas on our IT contract from Waddington to Canjahorie
+$.004 2.  Flow gas through our parking contract at Canajoharie
+$.4727 3.  Schedule gas on our IT contract from Canajoharie to Brookfield
+$.004 4.  Flow gas through parking at Brookfield
+$.2409 5.  Schedule gas on our IT contract from Brookfield to S Commack.
+The total cost is about $1.00.  I will follow up with the exact cost later.
+I believe you did a fixed priced deal with Craig Taylor.  The price is 
+$3.06.  Could you get me the meter numbers?  This is what I have so far
+COH Mrkt Area Monthly Vol Meter
+7 5  700
+7 1  1141
+7 1  682
+7 5  1993
+7 5  2881
+8 5  5534
+9 5  12309
+5 2  1577
+Hey Chris,
+Sorry about the phone call -- kinda difficult being discreet around here you know!
+Yes! I'd definitely like to meet anytime this week.  Lunchtime might be
+kinda rough for
+you and me both, eh?  So,....maybe dinner one or more nights this week??
+I'm available
+any evening this week.  Just let me know!
+I also spoke with Marde @ EES.  She says that "Tom Hermanic" from her group
+will
+be calling me soon as well.  It appears that they could use a good
+Northeast/CNG
+scheduler in the Commodity Risk Management group ASAP.  I applied for the
+position via
+Marde and the Job# as is posted on the Enron company job site (online).
+Just reading
+over the qualifications and pre-reqs,.....I like the position and feel that
+I could contribute
+immediately.
+Let's keep in touch, Chris!  Thanks for calling me!
+Sincerely,......Alain
+I'm almost positive I approved of this deal and I didn't tell you.  Do you 
+have any comments to add?  I'm going to forward this to Scott and Dick and 
+ask them how they would like for me to handle this.   Do not share any of 
+this with CES.  Thanks.
+bperron@columbiaenergygroup.com on 01/31/2000 02:27:19 PM
+Possible penalty for Saturday's gas is below.
+Marianne Stiles
+01/31/2000 03:14 PM
+CDC could invoke $30 per dth penalty plus the tariff cost.   I will not know 
+if
+they will invoke this until after they close the month.
+Brian Perrone
+01/31/2000 03:11 PM
+What are the penalties for Saturday?
+Marianne Stiles
+01/31/2000 07:47 AM
+Over the weekend we requested 767 dth additional (just rolled the deal from 
+the
+27th and 28th) to bring up the deliveries to match the MDQ.   However, Enron
+did not realize the deal was through the whole weekend.   They only did it for
+the 27th and 28th even though there are plenty of e-mails.     When I ran my
+TCO reports on Friday afternoon the noms were not there.   I called Joann
+(Enron scheduler) and she said she did not have time to put them in yet and
+that she would get to it later as she was extremely busy with February.   I 
+did
+not find out that the 29th did not get scheduled until Sunday morning.   I ran
+my TCO reports and it was not on there.   I then paged Joann (Enron scheduler)
+to find out why.    She did question the deal with Chris on Friday after I
+called stating the weekend was missing.   She said she was told the deal was
+only for two days (27th and 28th).   I told her that was incorrect as it was
+through the entire weekend.   However, she did agree to put in the noms for
+Sunday and Monday with the understanding that Chris G. would call Brian this
+morning to negotiate price.   I told her the price would have calculated last
+week.
+To make a long story short,  we were cut 767 dth going to CKY on the 29th
+(during and OFO/OMO).   Any penalties should be passed along to Enron Brian,
+expect a call from Chris this morning.
+It's ok to increase.  I spoke with Kate about it.  Increase your Emporia 
+volumes.
+chris, i think this is the deal you were asking about.  in order for this to 
+flow i would need
+mstiles@columbiaenergygroup.com on 01/31/2000 11:04:11 AM
+Effective, 2/1 we need to increase Suburban (67-1) 99 dth per day.   I will 
+now
+need a total of 150 dth per day.   Please advise of a contract number when it
+is available.   Thanks.
+I don't know if this meeting is still on.  I'll let you know.
+The meeting will be Tuesday, November 21 , 3:00- 5:00, in EB 49C1
+Edward Terry
+11/15/2000 07:20 AM
+Please check schedules and set up a meeting between East Desk Commercial and 
+Logistics for next Tuesday at 3:00.  Advise the Commercial Desk and myself of 
+place and time.
+thank You.
+Hi team.  Guess what day it is 
+Chris Germany
+12/30/99 12:16 PM
+Chris Germany
+11/23/99 08:34 PM
+Hey team!  I probably won't be here when these are due.  After you finish 
+working on the sheet, print one copy for Kim Brown 
+Thanks 
+I just sold CES 8980 day for 1st and 2nd at the CGAS pool for International 
+Paper - deal 159101.
+We still have CGLF and CGAS contracts showing up as CES and Columbia Market 
+in Navigator.  Scott and I will look at contracts 42789, 63115, and 66278 Please let Scott know if you need any of the remaining contracts moved over 
+to ENRON N A.
+Thanks.
+Please set up the following Sonat contract with ENA as agent for CES
+Pipeline Southern Natural
+k#  SSNG10
+Firmness Firm\
+Service Type CSS
+Rate  CSS
+Term  Term 
+DAtes  1/1/2000 - 1/31/2000
+Hey, we made a mistake and set up tetco contract 892510 as FTS.  I killed 
+deal 155389 and created deal 158412.  sorry
+Sherry is waiting to make the payment - you guys tell me how to set this up 
+(CES - Cove Point or Cove Point 
+Linda and Sylvia....this is the counterparty that we spoke about yesterday 
+that we have not yet received the signed consent form on so that all trades 
+done prior to January (settled in January) need to settle through the CES Cove Point......any additional info you have on this?   Are the 3 storage 
+contracts new in 2000 and would be as Cove Point....where as December trades 
+settle as CES - Cove Point when the consent has not been received....your 
+thoughts?...mgg
+Chris Germany
+01/26/2000 04:48 PM
+I understand we have the CES Cove Point  storage contracts set up as CES-Cove 
+Point in global.  What is the status of the paperwork and who is following up 
+Brenda H Fletcher
+01/26/2000 08:24 AM
+Per Sherry, Global Counterparty is recognizing CES - Cove Point as the 
+counterparty  instead of Cove Point for the January payment The reason is lack of the appropriate paperwork executed by the 
+counterparty 
+Brenda
+Could you find the deal ticket for Trco k#2.7055?
+May
+Nope 
+How about we move it to ENA.
+Sylvia A Campos
+01/28/2000 12:56 PM
+No.
+Chris Germany
+01/28/2000 12:53 PM
+Has CES global contract  96030669 / 65071 been transferred from CES to ENA?
+Has CES global contract  96030669 / 65071 been transferred from CES to ENA?
+We bought 1800 from CES/Allied Signal (deal 158112) and sold to EES (deal 
+158120) for the 29th-31st.  This gas is coming from Allied Signal.  Lee 
+Tippet thought the contract number was 62672.
+Joany, would you verify that, thanks.
+Just wanted to make sure you received this.
+Kara/Heidi, please give this to Brian and Melissa.
+Because the burns significantly increased on 1/24 from the forecasted amount 
+(+16749). Contract #63281 was over-run and Storage #51407 was over-withdrawn. 
+Contract over-run is $.21 per dkt and storage over-withdrawls are $10 per dkt.
+Because the forecast was lower, I let Joann use the extra space for CES 
+Enduser Market. TCO will let me cut gas to CES Enduser Markets as a retro. 
+Not sure if you want this gas to flow or try to make it up over the weekend. 
+If you need the gas to flow because of OFO penalties, maybe the storage 
+over-withdrawal is cheaper than incurring OFO penalties. Please tell me what 
+you want me to do. Need to do the retro's ASAP while TCO is still feeling 
+generous.
+FYI, the traders at Enron talked to Noel Bartlo on Tuesday. Noel said any 
+costs over the space that retail had (134,710 for choice), Enron had the 
+right to pass on the costs. I really hope the Noel communicated that to CES 
+Retail. I would hate to have a huge misunderstanding between Enron and CES 
+Retail. Remember, we schedulers are caught in the middle... and don't try to 
+cause unnecessary pain.
+63281/236 coh 7-1  2934/2872
+63281/170 coh 7-5  1922/1881
+63281/99 coh 5-2  427/418
+63281/221 cpa8-35 1639/1604
+63281/220 cpa8-35 511/500
+Total    7433/7275
+We have a 2500 dt/day supply from Equitable in Tenn Z4.  This deal is matched 
+with a term sale to FirstEnergy (deal 145648 for Jan and deal 157848 for Feb 
+and Mar).  This is a John Singer deal.  I have no idea what the price is on 
+the sale to FirstEnergy.
+This is ok.  I sold them 767 for the 27th and 28th.  I told Bryan to make 
+sure he doesn't need the 767 for the 29th - 31st.
+mstiles@columbiaenergygroup.com on 01/28/2000 06:52:20 AM
+I am requesting an additional 33 dth per day starting today going to the above
+referenced ldc.   Please let me know the k# as soon as possible.   Thanks.
+I just created a deal for TRCO contract 3.3433 (deal 157600).  This is the 
+master contract for all ENA deals on rate schedule FTSR.  We will be doing 
+nominations under this contract.
+Chris Germany
+12/27/99 02:28 PM
+Setting these up in Sitara will be part of my night job.  I must have peace 
+and quiet to focus on Transco.
+Sylvia A Campos
+12/27/99 02:16 PM
+The following contracts are set up in Global.
+Sylvia
+Chris Germany
+12/23/99 09:36 PM
+Linda, Sylvia,  I need you to set up the Transco contracts as outlined 
+below 
+As agent for CES unless specified otherwise, Firmness = Firm, Service Type Transportation-Release
+K# K Type  Rate Term    Comment
+1.1703 TRANSP FT-R 1 month then evergreen  ENA's .7537 contract
+2.1439 TRANSP FTL-R 1 month then evergreen  ENA's 2.2390 contract, we need 
+to create new Rate Sched
+2.7425 TRANSP FTS-R 1 month then evergreen  Special z4 to z4 contract.  ENA 
+does not have one like this.
+2.7423 TRANSP FTCH-R  1 month then evergreen ENA's 2.7055, also used for z4 
+to z4
+2.7479 Storage WSR 1 month then evergreen  Washington Storage.
+2.7502 Storage ESR 1 month then evergreen  Eminence Storage
+2.1432 TRANSP FT-R 1 month then evergreen  As agent for CEM.  ENA's .7537 
+contract.
+We will be billed commodity on the 4 contracts listed above.  We will be 
+billed demand on the contracts listed below.
+3.3053 CAPACI FT-R 1/1/00 - 1/31/00   schedule on 1.1703
+3.3096 CAPACI FT-R 1/1/00 - 1/31/00   schedule on 1.1703
+3.3039 CAPACI FT-R 1/1/00-  1/31/00   schedule on 1.1703
+3.3109 CAPACI FTS-R 1/1/00 - 1/31/00   schedule on 2.7425
+3.3085 CAPACI FTCH-R 1/1/00 - 1/31/00   schedule on 2.7423
+3.3114 Storage ESR 1/1/00 - 1/31/00   schedule on 2.7502
+3.3115 Storage WSR 1/1/00 - 1/31/00   schedule on 2.7479
+2.4899 CAPACI FTL-R 1/1/00 - 5/31/08   schedule on 2.1439
+2.7160 CAPACI FTL-R 1/1/00 - 5/31/08   schedule on 2.1439
+2.8607 CAPACI FTL-R 1/1/00 - 5/31/08   schedule on 2.1439
+3.3014 CAPACI FT-R 1/1/00 - 1/31/00   schedule on 1.1703
+3.3022 CAPACI FT-R 1/1/00 - 1/31/00   CEM capacity.  schedule on 2.1432
+I'm sure I made a few typo's 
+thanks 
+I'm sure I asked this question before - ENA will be paying all transport cost 
+for January, even if we did not get set up as agent, correct?
+dkinney@columbiaenergygroup.com on 01/27/2000 02:39:19 PM
+Chris--The attached file contains updated February Volume Reqs. for CES.
+Changes from the file that I sent you onTuesday are highlighted in red.  All
+other values are unchanged.
+Doug Kinney
+Ph:  703-561-6339
+Fax:  703-561-7317
+- Feb'00 CES 01_27_00updat.xls
+I replaced deal 155238 with 157242 and I fixed the metered volumes for the 
+last day on deal 155244.
+Robert Allwein
+01/27/2000 10:46 AM
+Chris Germany
+01/26/2000 04:52 PM
+All purchases are from COH or CPA
+Dates  Supply deal Market Deal
+26th & 27th 156378  156379 sale to EES
+27th  155240  155244  sale to EES
+27th  155238  155237 sale to CES
+26th & 27th 156465  156477  sale to AllEnergy
+26th & 27th 156486  156489 sale to EES
+27th  156494  156495  sale to EES
+26th  156440  156505  sale to EES
+I'm sure I made a few mistakes.
+Bought from CPA (deal 157219) sold to CES (deal 157220) for the 29th-31st.
+Purchased gas from COH and CPA (deals 157211 & 157213) and sold to EES 157210 
+for the 28-31st.
+I took the CGAS deal 157147 volume to 0 and created TRCO deal 157182.
+bperron@columbiaenergygroup.com on 01/27/2000 11:55:46 AM
+This was my fault, I mistakenly bought the gas I thought Heidi needed.  I'm
+redirecting the gas to BGE.
+Heidi Boyd
+01/27/2000 12:40 PM
+what is this??
+did Fred request this?
+Joann_Collins@ on 01/27/2000 12:32:08 AM
+Please respond to Joann_Collins@
+Heidi, i have scheduled the 1000dth delivery to 30cs-34 for 1/28 only.
+k64231/123
+thanks
+joann
+Call Me
+Sold 1,000 to CES Mrkt 34, deal 157147.  we are using emporia supply
+For the 28th- 31st Bought from COH (deal 156477) and sold to AllEnergy (deal 
+156477).
+Sold 767 for 27th and 28th to CES at 18-12, deal 157042.
+Sold Op 8 stuff to CES (deal 155238)  28th thru 31st.  Bought 28th-31st  from 
+CPA (deal 155237)
+All purchases are from COH or CPA
+Dates  Supply deal Market Deal
+26th & 27th 156378  156379 sale to EES
+27th  155240  155244  sale to EES
+27th  155238  155237 sale to CES
+26th & 27th 156465  156477  sale to AllEnergy
+26th & 27th 156486  156489 sale to EES
+27th  156494  156495  sale to EES
+26th  156440  156505  sale to EES
+I'm sure I made a few mistakes.
+I understand we have the CES Cove Point  storage contracts set up as CES-Cove 
+Point in global.  What is the status of the paperwork and who is following up 
+Brenda H Fletcher
+01/26/2000 08:24 AM
+Per Sherry, Global Counterparty is recognizing CES - Cove Point as the 
+counterparty  instead of Cove Point for the January payment The reason is lack of the appropriate paperwork executed by the 
+counterparty 
+Brenda
+dkinney@columbiaenergygroup.com on 01/25/2000 05:13:12 PM
+Chris--The attached file contains the February first of month volume estimates
+Please call me if you have questions or problems.
+Doug Kinney
+Ph:  703-561-6339
+Fax:  703-561-7317
+- CES Feb'00 FOM Volumes.xls
+I hear we are staying at 68 for tomorrow at O&R.
+where are you?
+Thanks.
+Sorry Emily.  I usually just type "ALLW" to get Robert 
+Chris Germany
+11/20/2000 11:19 AM
+I deleted 2 meters from deal 418282 for 12/1/2000 - 3/31/2001.  Please make 
+sure the risk assignment is still ok.
+Thanks
+Chris Germany
+01/25/2000 01:30 PM
+Here is the phone number for the kennel 281-449-3027.  Here's how you get 
+there.  Take JFK (South - away from the airport) accross Beltway 8 to 
+Aldine-Bender (next major intersection after the beltway).  Take a right on 
+Aldine-Bender and go to the 2nd street which is Milner.  There are no lights 
+at Milner and Aldine - you just have to watch for the road.  Go 1 block to 
+Renton.  Take a left on Renton and its the 2nd or 3rd house down.
+Hey!!  Where are you?  I'm about to go get my Dad a chocolate malt.  Today is 
+his long day at the hospital.  He's probably still there.
+How about Monday, Jan 31st for dinner??
+Do we dare start this again.
+let me know some dates.
+thanks
+bob
+If it ever comes up, I do call Susan's number first - i get no anwser then I 
+call Steve.
+I thought you were taking care of all that Tiger??
+Colleen has signed the letter and it has been FedX for arrival at TCO 
+tomorrow.
+Susan Wade is presently upset that we are using Team 3 and not her  Team. She 
+overheard Chris Germany talking to Steve Stonestreet today. She overheard 
+Cindy Burnette working on Union Camp for me yesterday. We need someone from 
+Enron to smooth this over with her.
+Please decide who will be giving Susan Wade the courtesy call about the 
+change. Not sure what timing is best... today or tomorrow.
+Thank you.
+Here is the phone number for the kennel 281-449-3027.  Here's how you get 
+there.  Take JFK (South - away from the airport) accross Beltway 8 to 
+Aldine-Bender (next major intersection after the beltway).  Take a right on 
+Aldine-Bender and go to the 2nd street which is Milner.  There are no lights 
+at Milner and Aldine - you just have to watch for the road.  Go 1 block to 
+Renton.  Take a left on Renton and its the 2nd or 3rd house down.
+We bought 4385 from CPA (deal 155237) and sold it to CES (deal 155238).
+We bought 1249 from CPA (deal 155240) and sold it to EES (deal 155244).
+Do the emails help??  Is this the way you guys want ot see this?
+We bought 500 from COH (deal 155197) and sold it to CES (deal 155195) for the 
+26th.  This deal was done without Brian's approval.  He seemed mildly annoyed 
+but I think he will forget about it.
+Gloria G Barkowsky
+01/25/2000 09:34 AM
+Are you here?  Or are you ignoring me again?
+Gloria G Barkowsky
+01/24/2000 11:54 AM
+I know where I stand Yes, just go ahead and ignore all those emails, and lets start over, ok 
+1) What is the status of CNG Producing Company  - Deal #77755?  The contract  
+was called Trag 110, 
+and I see that in the service list on CNG Transmission, but it needs to be 
+pathed starting 07/99 through current.
+Also, the rates are showing up as:
+Transportation       $.19910     but should be $.06
+ACA                           $.00220     Should not be paying ACA
+Compression          $.00000    Should be $.22
+2)   What is the status of CNG Field Services - Deal #125711 (Marco Pipeline) 
+- Coronado Pipeline  Enterprises?
+I have more, but do you think that we could get these 2  taken care of 
+today?  Let me know.  Thanks, Gloria 3-7118
+Chris Germany
+01/22/2000 10:40 PM
+I bet you think I have been ignoring you, right?  Does this mean I don't have 
+to read all those emails you sent me?
+Carrie Hollomon
+01/20/2000 01:39 PM
+To summarize the policy set forth below 
+1.  We are going to discontinue correcting rates in Unify/Sitara for for 
+production months older than 12/1999.  This allows us to focus our efforts on 
+current month.  Per Bryce, applaud here! 
+2.  Any adjustments that are required prior to 12/1999 production will be 
+handled directly in UNIFY using manual line items and will not be corrected 
+in SITARA tickets or UNIFY rate tables.
+3.  Beginning with 12/1999 production, all rate issues must be corrected 
+within the SITARA transport tickets and the UNIFY rate tables.
+4.  Do not adjust Unify/Sitara rates issues for periods prior to 12/1999 
+unless agreed upon by Volume Management coordinator.  Changes should be made 
+effective 12/1999 production forward 
+Please let me or rates coordinator know if you have any questions.  If 
+necessary, please forward to your teams.
+Thanks,
+Carrie
+Per our discussion this morning, we are going to discontinue correcting rates 
+in Unify/Sitara for for production months older than 12/1999.  (Applause 
+here!)  Any adjustments that are required prior to 12/1999 production will be 
+handled via a manual line item 
+Manual line items must be entered in the correct contract, production date, 
+etc. and must reflect the correct fee type.  For example, if you are 
+correcting demand, the fee type should be demand, not commodity.  Same 
+applies to cashouts and commodity.
+All Service invoices for all production months through 11/1999 must be 
+corrected manually and finaled by the end of 1/2000 accounting.  Any 
+exceptions need to be discussed with me before we close.  The Rates team will 
+also not make any adjustments on Monday, 1/31.  This should allow you time to 
+redraft and see if any additional manual need to be entered to insure that we 
+close with everything finaled.
+Beginning with 12/1999 production, all rate issues must be corrected within 
+Unify/Sitara.  Any line items booked because the adjustment wasn't made by 
+the Rates team in time to pay the invoice must be corrected in the system and 
+reversed by the end of the same accounting month.  For items that have been 
+identified as manuals that won't be reversed, an explanation needs to be 
+provided to me at the end of the month.
+The rates team will not adjust Unify/Sitara for periods prior to 12/1999 
+unless agreed upon by the Rates coordinator and the Volume Management 
+coordinator.  They will make their changes effective dated 12/1999 production 
+forward 
+Upcoming goal -- we will be working to clear all 1999 tranport OA issues by 
+the end of 2/2000 accounting...  Once the numbers booked in Unify are final, 
+we should be able to resolve the PMA issues we have had outstanding.
+We sold Cove Point gas to CES, the volume is 228 dth - deal 155139.
+I deleted 2 meters from deal 418282 for 12/1/2000 - 3/31/2001.  Please make 
+sure the risk assignment is still ok.
+Thanks
+I'm forgot, what do you need at Tenn O&R for tomorrow?
+We will deliver 46 dth to Tenn NYSEG meter 020221on contract 31533 at first 
+of the month prices.
+Also, we are selingl you the 600 dth of CNG delivered at $5.00 for the rest 
+of the month.
+How many days do you need this CNG Nimo gas?
+Sylvia - Please set up the following contracts 
+Pipe:Southern Natural
+Contract:  FSNG236
+ENA-IM EAST agent for City of Huntsville
+FT umbrella
+Rec:  Zone 0
+Del:  Zone 2
+Term:  1/8/2000--10/31/2019
+Pipe:  Southern Natural
+Contract FSNG262
+ENA-IM East agent for City of Decatur
+FT Umbrella
+Rec:  Zone 0
+Del Zone 2
+Term:  1/8/2000--10/31/2019
+Thank you,  Please page me at 800-467-8971
+Scott Goodell
+We purchased gas from COH (deal 154530) and sold it to CES (deal 154531).
+We bought gas from CPA (deal 154508) and sold it to CES (deal 154516).  The 
+upstream contract number is 38095.
+CES just purchased 8580 dth for 25th and 26th for Union Camp - deal 154286.
+I just sold CES 515 dth in Mrkt area 12.  We can use IT to flow this gas deal 154200.
+We also sold CES 5000 dth at BG&E, I am entering this deal as a Transco 
+sale.  However, we may move it to CGAS.  I'll keep you posted.
+Please set up the following CES contract with ENA as agent
+Pipeline CGAS
+Firmness IT
+Rate Sched IT
+Type  Transportation
+Term  1/1/2000 - 1/31/2000 evergreen
+k#  38295
+Thanks
+I'd like to set up a meeting with the two of you (and whoever else you think 
+needs to be there) to go over the booking of various deals.  For example, 
+Dayton P&L--we pay out to them a big demand charge each month, but the desk 
+should be getting an annuity payment back.  Where will they see this in their 
+p&l?
+CALP is another example.  Are you two available Tuesday around 12:00 to 
+discuss?
+I will make sure someone from the East Desk is there as well.  If there are 
+any in the Central Region that are like this, let me know and I'll round up 
+someone from that desk, too (unless you think they already know how theirs is 
+working).
+Thanks.
+I can't remember, should the VNG demand charges be on I'm VNG or East and 
+Market East?
+Scott Goodell@
+11/15/2000 09:00 AM
+Carol Herman said the mdq is 10,000 and the rate is $4.9473 Chris please look at the deal in sitara, I copied the October deal that had a 
+reservation volume of 360,000.
+Scott
+Scott Goodell
+11/14/2000 11:59 AM
+I entered the VNG Cove Point contract FPS1001 in sitara. 
+The deals are as follows:
+484681  IM VNG
+484687 Im Market East
+484689 Im East
+I have a call into Transco's Carol Herman to get the correct rate. 
+We extended the date and changed this to evergreen.
+Thanks
+Robert Allwein
+01/23/2000 09:42 AM
+Chris, We are nomming for January. - Rob
+Chris Germany
+01/22/2000 10:56 PM
+Should this deal be extended?
+Brenda H Fletcher
+01/14/2000 02:59 PM
+Chris,
+Does this deal end 11/30/99 or should the stop date be extended?
+Thanks,
+Brenda
+I was just denied access to deal 145893???  What's up?
+This looks like IT stuff to me.
+Twyla_S_Strogen@CNGT.CNG.COM on 01/14/2000 01:07:30 PM
+Preview of a soon - to - come EBB posting 
+Twyla S. Strogen
+01/14/2000 02:05 PM
+NOTICE TO ALL SHIPPERS:
+There will be a mandatory E-SCRIPT upgrade on Tuesday, February 8, 2000.
+This upgrade will take approximately 45 min. to download via the Internet
+using a 33.6 Kb modem connection (which is typical for dialup customers).
+Please note that Altra customers will require additional time to upgrade.
+If you prefer, you may call the E-SCRIPT Help Line at 1-800-895-8899 to 
+request
+software for this upgrade. We will need you to leave your company
+name, contact person, mailing address and whether you need a set of diskettes
+or a CD.
+The upgrade will include the following E-SCRIPT modification:
+Users will be able to enter volumes in Nominations via the Daily Volumes Tab
+for nominations in normal mode.  This will allow nominations for different 
+days
+of the month on an activity, rather than 'retrieving' data for each day from 
+the
+main tab.
+As always, please call the E-SCRIPT Help Line with any problems, questions
+or suggestions.
+Thank you,
+Twyla Strogen
+Manager, Business Technology Services
+Should this deal be extended?
+Brenda H Fletcher
+01/14/2000 02:59 PM
+Chris,
+Does this deal end 11/30/99 or should the stop date be extended?
+Thanks,
+Brenda
+I think we chatted about this the other day.  I'm waiting to see if we 
+actually get the retail deal before I send any notification.
+Hopefully we will know the first or second week in Feb.  I wouldn't tell 
+Steve its not a done deal yet.  Just tell him we are still working things out.
+Since you never work anymore.... ha.. ha..... decided to e-mail you.
+Where are we at in this process? Steve Stonestreet was asking me. He just 
+doesn't want to upset the apple cart. Steve said that you've been calling him 
+directly about questions, but he has not heard the official word fromTCO yet.
+Thanks.
+You must have put a lot of thought in this.  P 
+Would you send me an amtel at 3:00pm Wed, Jan 26 about my review?
+Thanks
+Your review will be Wednesday, Jan. 26 at 4:00, in EB 3084.
+What did we do about this?  I'm thinking we let it flow.
+kdestep@columbiaenergygroup.com on 01/20/2000 08:04:34 AM
+Joann,
+WGL (Shenandoah Gas) is under gas in/gas out restrictions through Monday.
+Please bring in an extra 128 dth/day for 1/20 through 1/24 to CES EU.  For
+today I've talked to WGL and we can bring the extra in on Cove Point.
+Per my voice mail please let me know that today's increase will flow as soon 
+as
+possible as I have a customer that is waiting to see if he has to burn 
+propane.
+Thank you!
+I bet you think I have been ignoring you, right?  Does this mean I don't have 
+to read all those emails you sent me?
+Carrie Hollomon
+01/20/2000 01:39 PM
+To summarize the policy set forth below 
+1.  We are going to discontinue correcting rates in Unify/Sitara for for 
+production months older than 12/1999.  This allows us to focus our efforts on 
+current month.  Per Bryce, applaud here! 
+2.  Any adjustments that are required prior to 12/1999 production will be 
+handled directly in UNIFY using manual line items and will not be corrected 
+in SITARA tickets or UNIFY rate tables.
+3.  Beginning with 12/1999 production, all rate issues must be corrected 
+within the SITARA transport tickets and the UNIFY rate tables.
+4.  Do not adjust Unify/Sitara rates issues for periods prior to 12/1999 
+unless agreed upon by Volume Management coordinator.  Changes should be made 
+effective 12/1999 production forward 
+Please let me or rates coordinator know if you have any questions.  If 
+necessary, please forward to your teams.
+Thanks,
+Carrie
+Per our discussion this morning, we are going to discontinue correcting rates 
+in Unify/Sitara for for production months older than 12/1999.  (Applause 
+here!)  Any adjustments that are required prior to 12/1999 production will be 
+handled via a manual line item 
+Manual line items must be entered in the correct contract, production date, 
+etc. and must reflect the correct fee type.  For example, if you are 
+correcting demand, the fee type should be demand, not commodity.  Same 
+applies to cashouts and commodity.
+All Service invoices for all production months through 11/1999 must be 
+corrected manually and finaled by the end of 1/2000 accounting.  Any 
+exceptions need to be discussed with me before we close.  The Rates team will 
+also not make any adjustments on Monday, 1/31.  This should allow you time to 
+redraft and see if any additional manual need to be entered to insure that we 
+close with everything finaled.
+Beginning with 12/1999 production, all rate issues must be corrected within 
+Unify/Sitara.  Any line items booked because the adjustment wasn't made by 
+the Rates team in time to pay the invoice must be corrected in the system and 
+reversed by the end of the same accounting month.  For items that have been 
+identified as manuals that won't be reversed, an explanation needs to be 
+provided to me at the end of the month.
+The rates team will not adjust Unify/Sitara for periods prior to 12/1999 
+unless agreed upon by the Rates coordinator and the Volume Management 
+coordinator.  They will make their changes effective dated 12/1999 production 
+forward 
+Upcoming goal -- we will be working to clear all 1999 tranport OA issues by 
+the end of 2/2000 accounting...  Once the numbers booked in Unify are final, 
+we should be able to resolve the PMA issues we have had outstanding.
+Kim, please send Victor and myself an amtel message at 11:00am AND at 1:30pm 
+on Feb 1 to attend the meeting below.  Please include the room and time on 
+the amtel.  I think it will be a busy day.
+Thanks
+Chris Germany
+01/22/2000 10:35 PM
+We should chat about CALP and Dayton Power & Light Victor, should we invite Joany?
+Heather Choate
+01/21/2000 09:55 AM
+Please plan to attend a meeting to discuss Calp Transport Setup  
+February 1, 2000
+at 3pm in EB3013
+Call x33278, should a conflict arise. 
+Thank you. 
+I LOVE MY SWEATS!
+We should chat about CALP and Dayton Power & Light Victor, should we invite Joany?
+Heather Choate
+01/21/2000 09:55 AM
+Please plan to attend a meeting to discuss Calp Transport Setup  
+February 1, 2000
+at 3pm in EB3013
+Call x33278, should a conflict arise. 
+Thank you. 
+Do you mean an ENA sale to Keyspan?
+Chris, besides the dealticket i mention below, another one is missing.
+Keyspan on 1/14/00 for 900dth to COH7-1 
+thanks
+joann
+Chris, i cannot find this dealticket in Sitara??????which means i cannot path
+Please look at the "highlighted red" below.
+thanks
+joann
+FOR 1/19 ONLY:
+K38021  NOW=14163
+kdestep@columbiaenergygroup.com on 01/18/2000 09:31:33 AM
+That's when the deal was done apparently.  I don't care when I get the gas as
+long as it's before the month's over.  I guess you didn't know about it??
+Joann_Collins@ on 01/18/2000 10:23:16 AM
+Please respond to Joann_Collins@
+the date is 1/13 
+kdestep@columbiaenergygroup.com on 01/18/2000 09:19:36 AM
+On 1/13 Brian Perrone bought 14,163 dth from Chris Germany at COH 7-5 at
+$2.60.
+Please let me know when/how you would like to deliver this gas.
+Thank you Joann.
+Deal 150348.  I have it in Sitara as  833 day for the 15th-31st.  This deal 
+is secondary recallable, which means the gas don't flow if secondary 
+transport gets cut.
+Chris, i cannot find this dealticket in Sitara??????which means i cannot path
+Please look at the "highlighted red" below.
+thanks
+joann
+FOR 1/19 ONLY:
+K38021  NOW=14163
+kdestep@columbiaenergygroup.com on 01/18/2000 09:31:33 AM
+That's when the deal was done apparently.  I don't care when I get the gas as
+long as it's before the month's over.  I guess you didn't know about it??
+Joann_Collins@ on 01/18/2000 10:23:16 AM
+Please respond to Joann_Collins@
+the date is 1/13 
+kdestep@columbiaenergygroup.com on 01/18/2000 09:19:36 AM
+On 1/13 Brian Perrone bought 14,163 dth from Chris Germany at COH 7-5 at
+$2.60.
+Please let me know when/how you would like to deliver this gas.
+Thank you Joann.
+Brenda H Fletcher
+01/21/2000 12:07 PM
+The following Deal #'s have been created  with Demand fees for the 3 Cove 
+Point contracts:
+Deal #   Contract #
+153770   96032397
+153775   96032399 
+153786   96032402
+Let me know if there are in problems.
+BF
+I'm at work, where are you??
+I made a couple of changes.  This worksheet will be your top priority for 
+Friday.
+Hi guys.  We need to add the CES demand charges to the East Desk P&L.  The 
+impact to the desk is ($694,399).  This includes the demand charge paid to 
+CALP and the reimbursements for the Penn Fuel capacity.  It does not include 
+any demand charges paid to Dayton Power & Light.  How are we accounting for 
+that?
+The file is under o:/logistics/capacity/east/ne/ces/2000ces01.xls  Use tab 
+CES WHOLESALE.  All the demand charges under CES RETAIL are reimbursed.
+I sure we are missing some things.  Scott Goodell will be going through this 
+worksheet tomorrow.
+uo
+Please check on the actual storage capacity volume on FSS contract 63304 I'm showing 7,503,838 dth and I'm thinking it might be closer to 7,000,000.
+Thanks
+I forgot about this deal.
+Tricia Bowen
+01/20/2000 10:00 AM
+Chris
+New Tu ticket capturing fuel and the 13 cent rate you told me to add:
+152845
+check it out.
+Trish
+I missed you too.
+Hey, I'm too tired to think so I started going thru my emails.  Here is what 
+your buddy wrote up and its not exactly correct.
+Clayton Vernon@
+12/16/99 02:05 PM
+Chris-
+Here's my paraphrase of our meeting I sent to Vince and Vasant, VP's of 
+Research. I hope it's basically accurate.
+Clayton
+Clayton Vernon
+12/16/99 01:59 PM
+Vince and Vasant:
+Here is a brief summary of my meeting with Chris Germany, Capacity Trader at 
+the East Desk, related to gas transmission:
+Typically, pipelines lease capacity billed on a monthly basis. An example 
+might be the pipeline between South Texas and Brooklyn, where you might pay 
+$12.00 per month per 10,000 decatherms of capacity ($0.40 per day), a fixed 
+payment. Variable charges are 6% for fuel costs ("shrinkage") and 6.5% for 
+overhead expenses.  A gas trader might call South Texas and be quoted a 
+delivery price tomorrow of NYMEX - $0.10 ("basis"), and might call Brooklyn 
+and be quoted a delivered price of NYMEX + $0.25 .  The trader's spread is 
+$0.35, and variable costs of transmission are $0.125, so the trader would 
+offer the leaseholder of capacity up to $0.225 for firm capacity tomorrow As for the distinction betweem firm and interruptible, the leaseholders have 
+an excellent knowledge of the firm-equivalent of interruptible capacity. 
+Also, many pipelines don't discount firm capacity from the tariff maximum 
+("it's not worth their time to haggle") (There is a further issue of 
+"secondary markets" not important to the model yet).  For South Texas and 
+Brooklyn, there are several different routes the gas can physically take 
+(pipelines of Enron, Texas Eastern, etc).  And, once the trade is in the 
+system traders can cover the (Enron) positions on each end of the pipeline, 
+in so doing freeing up the capacity for other contracts.
+Clayton
+Sorry it took so long.  I believe this was the last email I sent out.
+Chris Germany
+09/23/99 12:34 PM
+Please wire $584,689.36 to Enron Corp for the Elec settlement.
+No!
+Chris Germany
+09/22/99 06:12 PM
+And the anwser is Chris Germany
+09/02/99 04:09 PM
+Mark, David;
+Enron Corp is expecting 590,609.20 ($463,609.20 + $127,000.00) from ECT Scott Neal wants to see what impact, if any, this will have on the East Desk 
+P&L.  I'm hoping we didn't show any of this as East Desk revenue.
+Summary
+Earlier this year, ECT received a credit from Transco in the amount of 
+$463,609.20.  This credit was the result of reallocations on Enron 
+Louisiana's PVR replacement contract for 9612 and 9701 production months ECT nominated the replacement gas and paid all transport expense associated 
+with this contract.  Scott Neal has agreed to pass this money on to 
+corporate.  The net effect to ECT is $0.00.  Enron Corp is also expecting 
+$127,000.00.  This is for a similar adjustment ECT received in 1997 that was 
+written off on 1998 (see below).  The actual amount for the 1997 adjustment 
+is $121,080.16 
+Enron Corp has had a $600,000.00 receivable (from Transcanada) on their books 
+since Enron Louisiana was sold to Transcanada.  Enron Corp and Transcanada 
+thought Transco was going to send the credits to Transcanada instead of ECT. 
+Chris,
+In order for the I/C imbalance between ECT and ELEC be resolved by August 
+month-end close,  a wire or check made payable to Co.366 needs to be prepared 
+by the end of this week 
+Please advise me the amount that needs to be made so that I can prepare a 
+manual wire/check this week.  I'll contact Inez Haberl regarding the payee's 
+bank information.
+Thanks,
+Vivien
+X3-9558 
+The offsetting dollar amount for the 9612 production adjustment 
+(K#016-21045-306C) was $121,080.16.  This adjustment however was reversed 
+from Enron Louisiana's account and reclassed to Enron Liquid Services in 
+11/97 GL and subsequently written off in 01/98 GL at the time the company was 
+sold.  I do have a copy of the write off entry at my desk should you need it.
+I've discussed with Darron regarding the difference between the amount we are 
+going to make to Co.366 ($463,609.20) and the actual dollars in the system 
+($498,824.82).  He thought it would be better for audit trail purpose to 
+write off this difference since the volume in the system is correct 
+Chris, please let me know when to prepare the wire/check to Co.366 and what 
+the amount would be.  Thanks,
+Vivien
+X3-9558
+Melba A Bowen
+08/04/99 11:26 PM
+The 9612 production adjustment received from Transco was a reduction in 
+volume of (33,517).  There was a ($2,734.99) Commodity adjustment and a 
+($124,582.69) Cash Out adjustment for a total credit from Transco of 
+($127,317.68).  ECT took this credit.  This volume adjustment was entered in 
+the sales system in 10/97 reducing the sales volume to Enron Louisiana from 
+284,890 to 251,373 on K#016-21045-306C.  I don't know what the offsetting 
+dollar amount would be for the sales adjustment but someone in Client 
+Services should be able to get this info 
+Chris Germany
+08/04/99 03:01 PM
+I spoke with Tracy Geaccone after our meeting yesterday.  Tracy is expecting 
+to receive about $590,000.00, the $463,609.20 we discussed in yesterday's 
+meeting plus a $127,000.00 adjustment we processed  in mid to late 1997.
+Melba told me this morning that  the $127,000.00 was for a 9612 production 
+month adjustment.  What I need to know is how this adjustment was applied to 
+Enron Louisiana's account, did we 1) write it off, 2)  pass it through to 
+some other Enron entity via check, wire transfer, or journal voucher or 3) 
+cut a check to Trans Canada?  Who do I talk to about this?
+Also, Inez Habel (works for Tracy) said the money should go to company 366 Gary, Darron, I believe someone in your group should probably talk to Inez Her extension is 3-7720.
+Next question, should we pass on the $463,609.20 to Tracy or should we wait 
+until we find out what happened to the $127,000.00?  I believe it depends on 
+how long it will take to research the $127,000.00.
+Comments, Questions?
+At the request of Melba Bowen the following meeting has been set:
+To discuss the handling of funds due Enron Louisiana as the result of 
+reallocations on Transco.
+Date:  Tuesday, August 3rd
+Time:  3 p.m.
+Location:  EB37C1
+If you have a scheduling conflict , you can reach me at X36890.  If you have 
+a question regarding this meeting you can reach Melba at X35004.
+Thanks,
+Cecilia
+This is the way I show the Dayton Power exchange deal starting 1/21/2000, 
+please let me know if this is incorrect.
+ENA delivered gas to Dayton's TGT citygate.  In return, Dayton is giving ENA 
+gas at various CGAS citygates.  There are no fees for this transaction.  The 
+TGT deal is 152766, the CGAS deal is 153213.  The volumes on these deals 
+should match.  Also, Dayton should not be using any ENA supply (pool gas or 
+ENA storage) to supply the CGAS citygate volume.
+Comments/questions?
+Victor, I did not put a meter number on the CGAS deal 
+Also, it's time to introduce Steve Gillespie to Sitara.
+Here are the buy/sells we did after lunch.
+Supply Deal Market Deal
+153071  153057
+153096  153135
+153109  153109
+The purchases are from CPA and the sells are to CES.  Originally these deals 
+were done for the 21st, I just extended the date and the volumes through the 
+24th.
+Let me know if you have any questions.
+My good buddy Scott set up contract .9047 in Sitara.  Please note:  do  not 
+schedule gas on this contract.  This contract was set up for accounting 
+purposes only.
+I'm throwing away anything on my desk with Gatherco.  I'm assuming you and 
+Ms. Jordan are taking care of everthing on that.  Also, if you ever need to 
+send transport contracts to Houston, its best to send it to Sylvia Campos She is the transport contract Queen and she absolutly loves paper.  So send 
+her allllll of your paper.
+FYI
+Noel Bartlo would talk to the Fuel Management Reps and work deals to use the 
+idle capacity. Listed below is what is currently idle.
+Who     Contract # Rec Delivery Cap Idle
+International Paper/Union Franklin 62076  A03 CGV1-34 755 755
+International Paper/Union Franklin 62077  A03 CGV1-34 7400 7400
+International Paper/Union Franklin 62077  A01 CGV1-34 7400 393
+Aristech Chem    63895  Leach COH3-15 18500 18184
+Bethlehem    no idle capacity (spot deals using it right now)
+Allied Signal    no idle capacity
+Alliance Tubular   no idle capacity
+Since Enron is not using all of CES contracts, did not look at Columbia Gulf 
+(Mainline 
+Fuel Management Reps for CES:
+Fred Lombardo  Int Paper/Bethlehem Steel 724-873-1300
+John Whited  Aristech Chem   724-873-1300
+Lee Tippet  Allied Signal   614-481-1160
+Before doing deals, please check with me to ensure this capacity is still 
+available.
+Let me know if you need anything else. 
+Same as below with the following exceptions
+Pipeline CGAS
+Contract 64031
+Firmness IT
+Service Type Park & Loan
+Rate  PAL
+Term Type Term
+Eff Date  1/1/2000 - 1/31/2000  Evergreen
+Pipeline CGAS
+Contract 64041
+Firmness IT
+Service Type Park & Loan
+Rate  PAL
+Term Type Term
+Eff Date  1/1/2000 - 1/31/2000  Evergreen
+Chris Germany
+01/18/2000 07:08 PM
+Please set up the following CGAS contracts.  Please note; ENA is agent for CES
+Pipeline CGAS
+Contract 64031
+Firmness IT
+Service Type Storage Service
+Rate  ISS
+Term Type Term
+Eff Date  1/1/2000 - 1/31/2000  Evergreen
+Pipeline CGAS
+Contract 64041
+Firmness IT
+Service Type Storage Service
+Rate  ISS
+Term Type Term
+Eff Date  1/1/2000 - 1/31/2000  Evergreen
+I understand that contract 63304 is the retail FSS contract with a total 
+capacity of 7,503,838.  I bill CES Retail for the demand charges on this What is FSS contract 51407?
+Gloria G Barkowsky
+01/17/2000 05:18 AM
+Chris - Deal #103857 in Sitara have 0 volumes expected, but actuals have come 
+in
+on the direct meters.  It should show volumes in Sitara for 09/99.
+Can you correct these?  We need them done asap.  Sorry!  Let me know.
+Thanks, Gloria 3-7118
+Now that's funny!
+Gloria G Barkowsky
+01/17/2000 06:23 AM
+Chris - What do I need to do to get this deal set up?  I have got to pay it 
+and
+Bryce does not want to do a manual on it.  Please help!  Thanks, Gloria 3-7118
+Gloria G Barkowsky
+01/17/2000 06:31 AM
+Brenda - All that is coming through to settlements on this is a demand 
+charge.  I have actualized
+receipts and deliveries, and in "offered services" it says billing basis is 
+on delivery, which it should be,
+except on mcf's not dth's, but it's still not coming through to settlements What do I need to do?   Let 
+me know.  Thanks, Gloria 3-7118
+Gloria G Barkowsky
+01/17/2000 06:35 AM
+Chris - has there been any progress on this?  I still don't see
+it in path manager under CNG Field Services.  Let me know.
+Thanks,  Gloria 3-7118
+Don't hate me for all these emails!
+Please set up the following CGAS contracts.  Please note; ENA is agent for CES
+Pipeline CGAS
+Contract 64031
+Firmness IT
+Service Type Storage Service
+Rate  ISS
+Term Type Term
+Eff Date  1/1/2000 - 1/31/2000  Evergreen
+Pipeline CGAS
+Contract 64041
+Firmness IT
+Service Type Storage Service
+Rate  ISS
+Term Type Term
+Eff Date  1/1/2000 - 1/31/2000  Evergreen
+deals 151877 and 151878
+I have not been ignoring you, I'm just swamped with CES stuff.  We will be 
+talking soon I hope.
+CNG Transport from NIMO
+Contract  5A1866
+Term  11/1/99 - 3/31/00
+MDQ  15957
+Rate Sched FTNN
+Demand Dec $5.7690       Jan  $5.7500      Feb 5.7510
+Commodity $.0456 (CNG does not bill the commodity part of GRI, also the 
+commodity rate does not change during the term of the deal)
+Fuel  2.28 %
+Note  This should be valued at generic North to North space.
+CNG
+Marq Demand $6.2500
+Volume  15957
+Note:  We have no value for this much MARQ.  We might be able to use about 
+3,000 dth of this.  I have a call in to Greg Synder at CNG.  Greg is in the 
+rates group.  I believe it works like this; we pay max IT for gathering $.1980 for Jan),  If you have MARQ, the rate drops to $.1440.  IT is a pain 
+to nominate.  I will verify that this is the way it works with Greg.
+CGAS
+Contract 65403
+Term  11/1/99 - 4/30/2001
+MDQ  19293
+Rate  $4.8621
+Rec Point Leach
+Del Point BG&E
+We bought gas from Keyspan at $5.00 intraday today.  We are shipping that IT 
+to Emporia,  Fuel is 1.52%.  I estimated $.07 for fuel and $.17 for 
+commodity.  See deal 118105.
+Test
+Check out this website 
+ Subject: OU/A&M Game
+ Date: Mon, 13 Nov 2000 09:34:46 -0800

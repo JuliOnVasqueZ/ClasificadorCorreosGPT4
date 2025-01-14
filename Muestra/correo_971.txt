@@ -1,0 +1,2 @@
+AIR FARE 1281.00      TAX 71.23           TOTAL USD        1352.23
+                                               SVC FEE USD          15.00

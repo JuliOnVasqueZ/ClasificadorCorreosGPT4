@@ -1,0 +1,347 @@
+05/30/2000 04:02 PM
+Sharon Tanner@
+Sharon Tanner@
+Sharon Tanner@
+05/30/2000 04:02 PM
+05/30/2000 04:02 PM
+fyi Thanks.
+GPG DSS
+05/08/2000 11:06 AM
+To All DSS Users,
+Currently there is no mechanism for changing your password on DSS 
+On May 15, 2000, we will be putting a new procedure into effect that will 
+function similarly to the LAN change password procedure.  Passwords for DSS 
+users will begin to expire in early June, and every 60 days thereafter.  You 
+will be receiving 5 Password Expiration e-mails as the deadline approaches Each of these messages will notify you that your DSS password will expire in 
+the specified time interval.
+These e-mails will be sent as follows:
+E-mail  #1 - 2 weeks before expiration date
+#2 - 1 week before expiration date
+#3 - 2 days before expiration date
+#4 - 1 day before expiration date
+#5 - The day the password expires
+We now have a new module that will allow you to change your password.  When 
+this module is executed, a window will display which will prompt you for your 
+current password, New password, and repeat New password.  There are certain 
+criteria that the new password must meet for it to successfully change Follow the instructions on this window to choose a new password.  You may run 
+this module anytime, but once you change your password, the module must be 
+closed before it can be run again.
+Please Detach (double-click) the following module and save it in the location 
+that you normally save your DSS modules/databases.  This may be on your hard 
+(C:) drive or personal (H:) drive.  As long as you remember where it is, it 
+really doesn't matter where you save it.  When the time comes, Execute 
+(double-click) the module to change your DSS password.
+If you have any questions or problems, please call the DSS HelpDesk at 
+x31555, option 6 OR Lotus Notes e-mail at GPG DSS.
+Thank you.
+Rebecca Sanchez
+05/17/2000 09:42 AM
+There now can you leave me alone so I can get some work done 
+Claudette Montgomery 281-580-2156 2111 Union Mill Rd     Houston, TX 77067
+Ethel Ford
+Elaine King
+Joe Stewart
+Joseph Davis
+Thomas Wallace
+- Fartmachine.exe
+I will be out of the office on vacation Monday and Tuesday of next week 3/27 
+& 3/28.
+deb.shanks@worldnet.att.net
+1 (800) 993-3226
+Policy# and Claim#
+ATT 20045107
+Claims Adjuster
+Craig Chance Ext. 4342
+His managers name is:
+Tammy Gregory
+Hwy 290 and I-610 is where this appraisal place for the car is located.
+The physical address is 
+2900 North Loop West
+Suite 150
+Hours of Operation
+8am to 5pm
+Hours that you can go in without and appointment are:
+Mon - Fri
+8am to 11am
+The telephone # to comfirm this is:  713 956-5327  Ask for Julietta @ ext.205 
+or dial "0" for the operator.
+Denise, Caroly, Claudette -
+What do you think about me forwarding Marilyn's message to the prayer ministry
+Good morning ladies,
+The ballet is still on for Tuesday.  I had originally planned to pick
+up each girl, however, I am on special assignment on the Southwest side of
+time.  So, if you would, please have take them to Carolyn Ashley's house by
+6:15 pm.  The ballet begins at 7:30 pm.  If they are not able to go, please
+let me know, so I can make arrangements to take another girl.
+Denise
+Ok.  What's the problem.  I'm bored and I need some more of those funny 
+e-mails.  NOTHING nasty, just funny.  Get busy please.
+12 Jan 2000 14:13:58 -0600
+- att1.htm
+- Jan1st20.exe
+- Helpdesk.exe
+- Cokegift.exe
+- Buttons.exe
+Rufino should be here to assist you. 
+Thanks
+dd
+Positive Living Tip of the Day
+Monday January 29, 2001
+Your Environment  
+Do you live or work in an environment that creates undue stress in your life?
+If so, realize your environment plays an important role in your life. Hostile 
+environments create defensiveness, and an individual's negative behavior can 
+directly affect others who are trying to maintain a healthy attitude.
+For example, if you are working with a supervisor who constantly berates 
+those under him/her in front of others, this negative behavior affects 
+everyone in the office. And hanging around negative friends and family 
+members can reinforce your own negative traits. (For example, your temper is 
+under control as long as you are not around your older brother.) In addition, 
+negative people can induce others into developing the same negative attitudes 
+and behaviors that they possess. It is true the company you keep is a 
+reflection on you and can influence your behavior. Steer clear of negative 
+environments and begin building a positive life.
+- CG, Licensed Clinical Professional Counselor
+Hey Dana,
+?
+I have used this one before.? It's pretty  good...see what you think.? There 
+is another one that I like better, but I  can't find it.?? I will forward 
+when I come across it.
+?
+Bonnie
+?
+? 
+- Spiritual Gifts Discovery Tool.url
+larrygilbert@dpnet.net (Church Growth Institute) on 02/20/2001 11:34:08 AM
+Dear Friend,
+A friend of yours, Bonnie Abraham, just took the Spiritual Gifts Analysis
+Test at the Church Growth Institute web site. Your friend thought it was
+very valuable and wanted to tell you about this unique FREE service!
+Point your browser to the following web address, take the Spiritual Gifts
+Analysis Test, and within minutes you'll know your dominant spiritual
+gift and what you can do with it to minister to others. Here's the address:
+I do hope you'll take advantage of this unique opportunity to learn about
+yourself and how the Lord has gifted you!
+Sincerely,
+Larry Gilbert
+President, Church Growth Institute
+PS: Here's what your friend wanted to say to you:
+Dana, Here is another inventory that I have taken in the past.
+It's a very good one. Let me know what you think. BA 
+I forgot to give you money for parking I am so embarrased and sorry.  I'll 
+give it back to you this evening.  I have a  meeting at 11am and a class from 
+1pm to 2pm today so if you call or email me within those time frames and I 
+don't respond for a while, that's why.
+Hello Dana,
+I trust that all is well for you and yours.  I'm e-mailing you to get a
+message to Kevin for me about Lay Speaker's School.  As Kevin may be
+aware there is a two year membership rule within the book of discipline
+before an individual can apply for the ordained ministry within the
+United Methodist connection.  Until such time that he has been a member
+for  two years he may want to attend the Lay Speaker's School on March
+17th and 25th that will give him some training in some strategic areas of
+ministry that will provide him with some additional tools to use in his
+quest for the ministry.
+If he is interested please ask him to contact me for more information.
+I've been meaning to tell him directly but everytime we are together I
+forget about it.  So since I'm at the computer I decided to e-mail you so
+that you can remember (smile).
+Thanks for everything!
+________________________________________________________________
+GET INTERNET ACCESS FROM JUNO!
+Juno offers FREE or PREMIUM Internet access for less!
+Join Juno today!  For your FREE software, visit:
+Hey Dana,
+?
+I have used this one before.? It's pretty  good...see what you think.? There 
+is another one that I like better, but I  can't find it.?? I will forward 
+when I come across it.
+?
+Bonnie
+?
+? 
+- Spiritual Gifts Discovery Tool.url
+Basically I'm doing the job now. I key monthly journal entries for my current 
+dept. I also perform various clerical duties such as filing , archiving, 
+running errands making copies, etc. as well. 
+I have been doing clerical/acctng clerk type work for more than 3 years and I 
+have been with Enron for a total of 5 years.
+I have been doing clerical/acctng clerk type work for more than 3 years and I 
+have been with Enron for a total of 5 years.
+I know the basics of Excel, Word and SAP
+Hey Pat -
+I have to look for the 49,317.37 but the 460,060.97 will be in the mail 
+Tuesday.  Is that good?
+Pat Johnson@
+02/16/2001 04:06 PM
+Hey, Dana 
+I hope your Friday is going well.  When you have a chance on Tuesday, can you 
+tell me if these have come across your desk yet?  I think the $460k was wired 
+on Wed, 2/14.
+Thanks for your help.  Have a nice holiday weekend!
+Pat
+5-3369
+I have revised 
+Jennifer Reed
+12/08/2000 11:38 AM
+Please help me friend with the questions below.  She is getting it ready for 
+my mom this weekend.  I am attaching your order so please find out & send 
+back to me.  She wants to make sure that she gets the correct stuff.
+Your Order:
+Dana Davis (work):
+2  acne treatment gels
+2  cleaners #2
+1  oil control lotion #3
+2  purifying bars 
+1 revitalizing mask #2
+2  mahogany bronze #2 make-up
+1  bronze loose powder
+2  light bronze loose powders
+2  conditioning eye make-up remover
+3pkg sponges
+1 under-eye cover cream (ivory)
+2 blushed ivory #2
+1 cleanser #1
+HEIDIMVALERIUS@aol.com on 12/08/2000 11:25:19 AM
+got your email.  i need help figuring out dana davis.  you put 2 purifying 
+bars revitalizing masks.  is that 2 bars and 2 masks, or what.  also she has 
+1 bronze loose powder and then 2 light bronze loose powders.  is that the 
+same thing?  all we have is bronze loose powder.  and i am assuming that 
+mahogany bronze is the foundation, correct?  just let me know and i will get 
+this to your mother this weekend.  thanks bunches.  love you, heidi
+Lola Willis @ ENRON
+02/16/2001 10:21 AM
+Only in Texas!!
+- tex_31.jpg
+Yes I am but not to busy to respond to you.
+Have you sent in the sign up sheet yet?  Who is that one person?
+So far I only have one person that would like to attend this afternoon's 
+class.  Is there anyone else that would like to go?   Please let me know as 
+soon as soon as possible as I will be sending the sign up sheet for today's 
+class shortly 
+Nicole
+Please let me know if you would like to attend any of the following classes I will send in a cumulative list.
+Nicole
+Magdelena Cruz
+02/15/2001 09:59 AM
+Nicole 
+Below are the dates I have available for training:
+February 16th  2:30-3:30pm EB564
+February 20th  8:30-9:30am EB564
+February 20th  1:00-2:00pm EB572
+Februarty 23rd  10-11:00am EB572
+To register for a class, please email me with the below information:
+Class:
+Date of Class:
+Time:
+Your name:
+SSN#
+Location:
+Ext:
+Company #
+Cost Center
+Manager's Name
+If you have any questions, please call me.
+Thanks,
+Maggie
+x3-9571 or x3-1816
+ClickAtHome@
+02/15/2001 08:40 PM
+Sent by: Clickathome@
+Want a NEW high speed computer?
+866 MHz Pentium III Processor FAST enough?
+Want High Speed internet?
+Broadband,
+Cable Modem,
+DSL,
+Satellite.
+Then Get READY All Eligible U.S. Employees get innovative at HOME beginning March, 2001.
+Go to   to LEARN more about the offerings.
+Non-U.S. Eligible Employees get innovative at home beginning late 2001 and 
+2002.
+We had a last minute going away lucheon for one of the accountants that's 
+leaving the group.  Right after that another lady in the group is getting 
+married next week (I think) so we gave her a wedding shower.  Sorry that I 
+had to cancel and that it took so long for me to get back with you.  I been 
+over here working my tail off too 
+Bobby Jackson  Work Work. Ya finally made it back from your emergency 
+What's happening over there?
+What's happening over there?
+Lola -
+You know that I wouldn't be asking you this but this is ONLY if  it's 
+possible.  Some how I've gotten myself into a crunch and I need to know if I 
+can get some money from you.  I'm not quite sure of what our balance is but 
+is there any way I can get $40 or $50 from you?  My electric bill is $320 and 
+it was due yesterday.  I called them and told them that I could pay half b/c 
+my car note is due this pay period too.  Let me know if you can help.
+Jacque' call me after you get this.
+Daily-Blessings  10:51:04 PM
+Daily-Blessing
+Mathematical Equation
+Equation 
+Want to work from home?  Be your own boss, set your own hours  
+home 
+Need ink?  Buy from the folks that are reliable, low cost, and reputable  
+* To remove yourself from this mailing list, point your browser to:
+* Enter your email address (dana.davis@) in the field
+provided and click "Unsubscribe". The mailing list ID is "dailyblessings".
+OR 
+* Reply to this message with the word "remove" in the subject line.
+This message was sent to address dana.davis@
+X-PMG-Recipient: dana.davis@
+Well what about this?.
+tony.sumbler@weatherford.com on 02/15/2001 09:55:38 AM
+Just a friendly reminder:
+"We are hard pressed on every side, but not crushed; perplexed, but not in
+despair; persecuted, but not abandoned; struck down, but now destroyed."
+II Corinthians 4:8-9
+Jacque' call me after you get this.
+Rebecca Sanchez
+02/15/2001 09:33 AM
+- KINGOFPOP.JPG
+Daily-Blessings  10:51:04 PM
+Daily-Blessing
+Mathematical Equation
+Equation 
+Want to work from home?  Be your own boss, set your own hours  
+home 
+Need ink?  Buy from the folks that are reliable, low cost, and reputable  
+* To remove yourself from this mailing list, point your browser to:
+* Enter your email address (dana.davis@) in the field
+provided and click "Unsubscribe". The mailing list ID is "dailyblessings".
+OR 
+* Reply to this message with the word "remove" in the subject line.
+This message was sent to address dana.davis@
+X-PMG-Recipient: dana.davis@
+Hey Tony!  I liked that.  Below is one for you too.  Just double click on the 
+1st web address below.  ENJOY!
+Daily-Blessings  10:51:04 PM
+Daily-Blessing
+Mathematical Equation
+Equation 
+Want to work from home?  Be your own boss, set your own hours  
+home 
+Need ink?  Buy from the folks that are reliable, low cost, and reputable  
+* To remove yourself from this mailing list, point your browser to:
+* Enter your email address (dana.davis@) in the field
+provided and click "Unsubscribe". The mailing list ID is "dailyblessings".
+OR 
+* Reply to this message with the word "remove" in the subject line.
+This message was sent to address dana.davis@
+X-PMG-Recipient: dana.davis@
+I really do love you.
+Bobby Jackson  I'll be at a training session from 10:30 - 11:30am today. Don't freak out  
+Did you park at the lot where I normally park?  If so, do you want me to meet 
+you there?
+Well, why aren't you here?  I'm ready to go!  Of course when ever you are.
+Bobby Jackson  No I'm not. I left at 12pm 
+Lola Willis @ ENRON
+02/14/2001 01:52 PM
+Sending this back to you w/love.
+? May today there be peace within  you.
+??May you trust your inner feelings that you are exactly  where
+ you are meant to be.
+ "I believe that friends are quiet  angels who lift us to our feet when our
+ wings have trouble remembering  how to fly."
+ Just send this to (4) people and see what happens on the  fourth day.
+ Do not break this, please. There is no cost, but lots of  rewards.

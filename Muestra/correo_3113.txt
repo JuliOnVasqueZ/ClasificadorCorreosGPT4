@@ -1,0 +1,1087 @@
+584125 has been changed to Mirant.
+Kerri Thompson@
+04/17/2001 02:36 PM
+disregard 584137, broker has on peak
+Kerri Thompson
+04/17/2001 04:20 PM
+584137
+broker has light load
+584125
+should be mirant
+thanks
+These are all done.
+Kate
+Lester Rawson
+04/17/2001 01:53 PM
+Kate,
+Please approve and auotschedule annuities.
+# 442038 9/30/2000
+# 584331 10/31/2000
+#584337  11/30/2000
+Les
+Chris just entered these deals.
+Evelyn Metoyer@
+04/17/2001 01:58 PM
+BLOOMBERG
+All deals are o.k 
+PREBON WEST
+Jeff Richter/Chris Mallory
+I am missing:
+1) Enron sells to Calpine 25 mw of Q3'01 SP at $380
+2) Enron buys from Reliant 25mw of Q3'01 Sp at $379
+AMEREX WEST
+All deals are o.k.
+It's that time again! Enjoy 
+Kate
+djenergy   - MeadMktplace (2).xls
+djenergy   - Cob.xls
+djenergy   - MidC.xls
+djenergy   - SP 15 pages.xls
+djenergy   - NP 15 pages.xls
+djenergy   - Palo.xls
+Both deals have been changed to reflect a flat $15 fee. And thanks so much 
+for following up with the IT request for a default change in EnPower. Just 
+let me know when you hear back.
+Kate
+Evelyn Metoyer@
+04/17/2001 03:24 PM
+deal 582589 and 582423
+Can you please adjust the fees to reflect $15.00 flat.  FYI please select 
+flat instead per mw in the field to the right of currency field.
+Thanks
+That is the commission for those trades. The rate that Bloomberg Powermatch
+now charges for cash trades is $15 per trade.
+Yes - I was also going to mention that I talked with Christian Yoder about 
+this, and he confirmed that the counterparty name in the contract is The City 
+of Oakland, a municipal corporation acting by and through its Port of Oakland 
+board, and on and on and on. So we'll be using that name, NOT the Port of 
+Oakland, when doing deals with this counterparty. And out of curiosity, does 
+anyone you know of trade with simply the Port of Oakland?
+Thanks for following up,
+Kate
+Stephanie Piwetz   04/17/2001 03:26 PM
+all looks good, I verballed the deal with Wing, as The City Of 
+Oakland.....thanks sp 
+Kate Symes                04/17/2001 03:22 PM
+I've changed the counterparty name to The City of Oakland - and the contact 
+is Wing Lau. His number is (510) 627-1457. According to Stewart Rosman, the 
+middle marketer who did this deal, City of Oakland is the same entity as Port 
+of Oakland; however, City is the counterparty name in the system which is 
+linked with the correct contact info. I tried to look up the contract in 
+Livelink, but I keep getting an error message. Is there any way you can check 
+on this contract to make sure we're entering these deals with the correct 
+counterparty name?
+Thanks,
+Kate
+Stephanie Piwetz   04/17/2001 01:17 PM
+Please ask Bob for a contact, if you place it in the comment section we can 
+add it Port Of Oakland 
+Thank you
+No - I left all of that Christmas Party stuff at Theresa's desk when I first 
+moved. If there ever was a business card, it would be there. Sorry!
+Kate
+Mollie Gustafson
+04/17/2001 04:05 PM
+Do you have a business card for Robert Hicks band?
+For some reason, the time management function on eHRonline won't allow me to 
+log in. It says the user is locked and to please notify the person 
+responsible. I'm using the user ID and password you gave me, so I don't know 
+what I'm doing wrong. This is not an urgent matter - just respond whenever 
+you have time.
+Bob Badeer changed the time zone in one of these deals - apparently that's 
+what was throwing off the MW totals. So 458406 and 458405 should match now. 
+Please let me know if there is anything else.
+Thanks,
+Kate
+Kerri Thompson@
+11/15/2000 03:07 PM
+458406 
+i don't think this deal is entered correctly, the hours are not matching the 
+other deals.  can you pls check on this deal
+thanks
+Here's what I've come up with so far on these deals. There are just two more 
+that are going to require a little bit more attention - 566426 and 566391 the SP-15 deals for 4/2. I'm sorry it's taken me a few days to get back to 
+you on this. Please let me know what you think, and we'll go from there.
+Thanks,
+Kate
+Trading Support
+503-464-7486
+That sounds awesome! You guys are seriously already planning that party? Yes, 
+are you kidding, I LOOOOVED Robert Hicks. He was so......umm, peppy.
+Mollie Gustafson
+04/17/2001 04:24 PM
+He's going to do our party again this year!  Did you like him?
+We are having the party inJanuary at the Portland Art Museum!  It is a 
+beautiful room and worth waiting until Jan. for,
+Kate Symes                04/17/2001 04:09 PM
+No - I left all of that Christmas Party stuff at Theresa's desk when I first 
+moved. If there ever was a business card, it would be there. Sorry!
+Kate
+Mollie Gustafson
+04/17/2001 04:05 PM
+Do you have a business card for Robert Hicks band?
+These, as well as the Grays Harbor deal you sent me, have been approved and 
+re-scheduled. They should show in the CARP report now, but let me know if 
+they don't, and I'll look into it.
+Thanks,
+Kate
+Lester Rawson
+04/17/2001 01:53 PM
+Kate,
+Please approve and auotschedule annuities.
+# 442038 9/30/2000
+# 584331 10/31/2000
+#584337  11/30/2000
+Les
+582324 - Grays Harbor Paper Mill 
+582322 - Las Vegas Cogeneration
+I've added the unit names to the deals and reminded Les that they need to be 
+in the comments section. He was under the impression that the guideline sheet 
+he sent out re: unit names spelled out the answers, but I took another look 
+at it and it doesn't seem to really answer anything. I've attached it just in 
+case you don't have it anymore - but please let me know if this assists you 
+guys in ANY way. If it doesn't, I can probably get him to draw up something 
+more useful.
+Thanks,
+Kate
+From Les Rawson:
+Here's the list of current Service's Desk customers we sell as Unit 
+Contingent. We want to confirm the sales but not the purchases.
+Lv Cogen. located within Nevada Power service territory.
+Unit ID: LV Cogen. unit located in North Las Vegas
+Could be sold at Nevada Power system, Mead 230, Navajo, McCullough, Red Butte.
+Saguaro Power Company located within Nevada Power service territory.
+Unit ID: Saguaro Power unit located in Henderson Nevada.
+Sale Points: Nevada System, Mead 230, Navajo, McCullough, Red Butte.
+Grays Harbor Paper L.P. located in BPA service territory. Behind Grays Harbor 
+PUD.
+Unit ID: Grays Harbor Paper unit located in Haquiam, WA.
+Sale Points: Entire Northwest interconnect.
+Willamette Ind. located in PacifiCorp's service territory.
+Unit ID; Willamette Ind. Albany Paper mill, located in Albany, Or.
+Sale Points: Entire Northwest interconnect.
+I think we ran into this problem before where the California schedulers, for 
+whatever reason, didn't pull the .8 Riverside deal into their sheet, and 
+therefore I didn't see it or add it to the EES sheet. Let me just check with 
+Phil on this to make sure he didn't do it for a reason; then I can amend the 
+sheet and re-send it. 
+And on the Wed./Thurs. generation volumes - I can only assume that Phil spoke 
+with Riverside at some point about the change to .55, but again I need to 
+speak with him to verify this. He should be in the office soon, and I'll let 
+you know as soon as I find out.
+Thanks,
+Kate
+Daniel Kang@EES
+04/18/2001 06:47 AM
+Hey Kate,
+For 4/15 and 4/16, our schedules that we sent you show a Riverside 
+Generatioin component of 0.8 every hour (SP15).  This is not reflected in 
+your current April update.  The EnPower columns for these days should be 
+increased by 0.8 for every hour.  Right?
+Also, The generation component that I sent you for Wednesday and Thursday 
+(which I sent Monday morning) had a generation component of 0.8.  In reality, 
+it was actually 0.55.  I didn't have the generation schedule from Riverside 
+and had to assume a value so I assumed it would be 0.8 because that's where 
+it had been for a while.  In your current file, you have the correct value of 
+0.55.  How did you know this?  Did Riverside call you to tell you they were 
+at 0.55 instead of 0.8?  Let me know.  Thanks.
+Dan
+Here you go, Kim. I've added a couple more counterparty names to your list, 
+and made a few minor changes that I thought might clarify the reasoning 
+behind and origination of these "no confirm" deals. The one counterparty name 
+I couldn't recall was Bonneville - do you remember who requested that we not 
+confirm these? 
+Please let me know if you have any questions on the additions.
+Thanks,
+Kate
+Kimberly Hundl@
+04/17/2001 02:43 PM
+Hi everyone!
+I have begun to document all special situations and counterparties that are 
+exceptions to our "not to be confirmed" rules.  Thus, in the future, when we 
+need to answer questions regarding why certain deals are unconfirmed, there 
+will be no confusion about where the directives not to do so originated.
+Please review this document carefully.  Go ahead and make any changes that 
+you'd like -but please change your font color so that I will know which items 
+you have added.  I will incorporate all of your edits to the master document 
+and save it to a common drive where it can be accessed and updated whenever 
+necessary.
+If you can think of any additional "not to be confirmed" 
+exceptions/situations, or more specific details  -please add them.  Please 
+let me know if you have any questions.
+Thanks for your input,
+Kimberly Hundl x31647
+Hey Kysa - I hope you're still at your computer. Amy's number is 464-7404. 
+I'll try to call you in a minute and make sure you got this. And yes, 
+dinner's still on, even though I'm feeling motivated to make toast or 
+something equally effortless, so come without an appetite. (Just kidding but I'm seriously open to suggestions.)
+Kate
+464-7486
+Hi Kate - I emailed Amy this morning.? I was going to give her a call today, 
+would you mind c-lling me w/ her number.? Call my cell 503-706-5308.? Hope 
+you are having a good day.? Is dinner still on tonight, 7:30pm?? Kysa
+This is approved and auto-scheduled. And don't worry about all the end of the 
+month changes - they're very simple to make.
+Thanks,
+Kate
+Lester Rawson
+04/18/2001 10:46 AM
+kate,
+I have another annuity for you to approve and autoschedule. This one is for 
+LV Cogen. for March 31 He 1 #585141. Sorry about all the changes it's the end 
+of the month and we're paying everybody.
+Les
+I see the deal showing a price of $119.76, which matches the sheet for 4/9. 
+I'm sending you the sheet I'm looking at in case you don't have the latest 
+version. Please let me know if you still don't see the correct price.
+Thanks,
+Kate
+Judy Dyer@EES
+04/18/2001 10:37 AM
+This deal should be $119.76 according to your spead sheet I received for 
+04/08/01.  You are showing $109.76 
+Thanks for your help 
+Judy
+Just a heads up from Chris Foster -
+The APX called me today.  They are concerned we are sending them confirms on 
+deals that we are doing with them.  Legally this is incorrect as we are 
+transacting purusuant to the APX Master, not the Enron Master.  So, please 
+try to remember to check the box for no confirms when you transact with the 
+APX.
+C
+This deal is definitely on peak, says Matt Motley. It's a spread trade with 
+Natsource, and both are logged in his book as on peak. Let me know if the 
+broker still disputes this.
+Kate
+Kerri Thompson@
+11/20/2000 01:11 PM
+462066
+matt m
+broker has off peak
+Judy -
+I just heard from Kim Hundl in Confirms that you had a discrepancy regarding 
+a Short Term West Hourly deal entered for 4/4/01. Deal 570892 was originally 
+entered as a buy of 5 MW for hour ending 11. Then the trader extended the 
+deal, which is something Real Time traders do often, but when they do they 
+rarely modify the deal in EnPower Deal Entry. They simply make the change in 
+Scheduling. Because of that, unfortunately, you can only see the true total 
+volume of the deal in our scheduling system.
+At any rate, I've corrected the Real Time sheet for 4/4 to show the correct 
+volumes for the correct hours; and I'm terribly sorry for the confusion. 
+Please feel free to call me or e-mail any questions you have regarding EPMI's 
+coverage of EES's load. I'm noticing that nine times out of ten, the 
+discrepancies originate when Real Time is hurriedly sending spreadsheets to 
+you guys and not making sure that they match the deals we have in EnPower. 
+Also, I was wondering if you could tell me what database or report you're 
+looking at to tie out our deals with your records. I think if I knew more 
+about your perspective, I'd be able to help more efficiently.
+Attached is the revised Real Time spreadsheet for 4/4. And again, please call 
+with questions.
+Thanks,
+Kate
+So, I got the scoop from Phil, and he says that YOU called him and told him 
+the Riverside deal would be decreased to .55 from the usual .8 - go figure! 
+Also, it looks like Jeremy just missed the .8 mw of generation in the 4/15 
+and 4/16 sheets, which in turn I did not include in your sheet. I've revised 
+it and attached the spreadsheet, but please let me know if you have any other 
+questions.
+Daniel Kang@EES
+04/18/2001 06:47 AM
+Hey Kate,
+For 4/15 and 4/16, our schedules that we sent you show a Riverside 
+Generatioin component of 0.8 every hour (SP15).  This is not reflected in 
+your current April update.  The EnPower columns for these days should be 
+increased by 0.8 for every hour.  Right?
+Also, The generation component that I sent you for Wednesday and Thursday 
+(which I sent Monday morning) had a generation component of 0.8.  In reality, 
+it was actually 0.55.  I didn't have the generation schedule from Riverside 
+and had to assume a value so I assumed it would be 0.8 because that's where 
+it had been for a while.  In your current file, you have the correct value of 
+0.55.  How did you know this?  Did Riverside call you to tell you they were 
+at 0.55 instead of 0.8?  Let me know.  Thanks.
+Dan
+Melissa -
+I think we've finally reached a conclusion on the long term PX Index deals. 
+I've entered the following comment in the six deals still in the system with 
+Constellation at the old index:
+Constellation and EPMI have agreed to leave deal at PX Index. Counterparties' 
+positions tie out - index price should not be relevant; however, index offset 
+will. Per Bob Badeer, 4/18/01. KS
+This is exactly how Bob explained it to me, and he said it was exactly as 
+Constellation understood it as well. So if this sounds good to you, I think 
+we're set. If not, please let me know and we can make whatever changes are 
+necessary.
+The deal numbers, for reference, are 453152/453175/453294/462109/471888/471889
+Thanks for your patience on this,
+Kate
+Melissa Ann Murphy
+04/17/2001 11:02 AM
+Hello, I guess if he wants to leave the deals as they are in the system then 
+the accounting group will see zero for an index price and they will see the 
+index off set price.  If he and Constellation both agree to do nothing to 
+these trades (not to revise the confirms or change the index on the trades) 
+then we can put notes in the trades explaining that.  I just want to make 
+sure that Constellation agrees with however we handle this.
+Thanks for your help,
+Melissa
+Kate Symes                04/17/2001 12:28 PM
+I asked Bob about these this morning, and he said he's still got to work this 
+out with Constellation. The way he explained it, our position is flat with 
+Constellation, so for settlements purposes we're okay - i.e. We've bought the 
+same volumes that we've sold, and we end up losing a bit due to the index 
+offset - but otherwise the index price won't make a difference.  But I 
+suspect he's not thinking of the problem from the confirmation standpoint. 
+Could you tell me exactly what needs to happen to clear this up on your end 
+so that I can explain it to Bob in a way that might make him DO something? 
+I'm sorry for the delay on this - I'm getting ready to call Bob's contact at 
+Constellation for him.
+Let me know what your ideal solution would be. Should we get Constellation to 
+agree to the Dow Jones index? Or should we change the deals to forward fixed 
+price? We'll fix this today - I promise.
+Thanks,
+Kate
+Melissa Ann Murphy
+04/17/2001 08:12 AM
+Hello, any news on these Constellation Cal PX trades Thanks,
+Melissa
+I just talked to Bob, and I don't know if he's responded yet, but I thought 
+I'd fill you in anyway. He's been talking to his contact at Constellation 
+about changing these deals over, but hasn't received a concrete answer yet. 
+I've reminded him and he said he WILL talk to the guy and resolve it today. 
+I'll keep on it, and let you know when these deals have been changed.
+Thanks,
+Kate
+Melissa Ann Murphy
+03/29/2001 11:13 AM
+Hello, I hate to bug you with this.  Whenever you can spare a second would 
+you ask Bob about this?  I am afraid it is going to slip through the cracks.
+Thanks for your help!
+Melissa
+Melissa Ann Murphy
+03/26/2001 10:34 AM
+Hi Bob, I was wondering if you have contacted Constellation about the 6 
+trades that are in the system with the Cal Px as the index price.  All of 
+these trades start flowing in July of this year.
+The deal numbers are as follows:
+453152.01
+453175.01
+453294.01
+462109.01
+471888.01
+471889.01
+Let me know if Constellation agrees to change these deals to the Dow Jones so 
+I can send a letter for them to sign.
+Thanks,
+Melissa
+I've changed deals 581499 and 581605 to Sierra Pacific Power. They're suposed 
+to be transmission deals, they were just in with the wrong counterparty name. 
+And thanks again for working so hard to finalize this Sierra Pacific Holding 
+Co. thing.
+Kate
+Rhonda L Denton
+04/18/2001 01:39 PM
+Kate, I am changing the forwards to the HOlding Company.  There are 2 
+transmission deals with Sierra Pacific Industries that I think should be 
+Buy/Resales.  We do not have transmission with either entity.  Can you check 
+and see if the counterparty should be changed or they should be Buy/Resales Thanks.
+No - they won't be calcing for another half an hour or so. 
+Rhonda L Denton
+04/18/2001 02:07 PM
+Can I change my deals or are they calcing in risk?
+Kate Symes                04/18/2001 03:56 PM
+I've changed deals 581499 and 581605 to Sierra Pacific Power. They're suposed 
+to be transmission deals, they were just in with the wrong counterparty name. 
+And thanks again for working so hard to finalize this Sierra Pacific Holding 
+Co. thing.
+Kate
+Rhonda L Denton
+04/18/2001 01:39 PM
+Kate, I am changing the forwards to the HOlding Company.  There are 2 
+transmission deals with Sierra Pacific Industries that I think should be 
+Buy/Resales.  We do not have transmission with either entity.  Can you check 
+and see if the counterparty should be changed or they should be Buy/Resales Thanks.
+Yes, it should have been Sierra Pacific Power Co. I've changed it in EnPower. 
+These traders' heads are starting to spin with all the variations on 
+counterparty names, as I'm sure yours is as well!
+Thanks,
+Kate
+Rhonda L Denton
+04/18/2001 02:25 PM
+One more question, I promise.  Bob Badeer did this deal and entered it as 
+Sierra Pacific Industries and I just changed it to Holding Company.  Should 
+it have been Sierra Pacific Power Company because the delivery is Palo Verde 
+and the Holding Co. deals are all SP15 
+BLOOMBERG
+585337 - changed to APS
+I can't remember - did we decide to use APS as CTPY name with Bloomberg only 
+until they change it to Pinnacle in their system? This won't mess up confirms 
+later?
+AMEREX
+585230 - del. point is palo, says Driscoll - he's calling his broker to clear 
+this up
+Thanks,
+Kate
+Evelyn Metoyer@
+04/18/2001 02:35 PM
+PREBON WEST
+All o.k.
+BLOOMBERG
+Mike Swerzbin
+deal 585337
+Bloomberg shows cp as Arizona Public 
+AMEREX
+Mike Driscoll
+deal 585230
+I confirmed Palo Verde as the del. point and Amerex Webcheckout has SP-15 Can you double check location with MIke on this deal.
+I've auto-scheduled deals 566424 and 566426, and I'm including the Real Time 
+spreadsheet for 4/9. The volumes I see in this sheet match the deals in our 
+Scheduling system exactly (deal in question was 576512). Please let me know 
+if this sheet is different than the one you were given, or if we've got 
+another problem. And let me know if those first two deals show up on your 
+CARP report.
+on this,
+Kate
+Kate,
+Thanks for the update.  The changes you have made to deals 566424.1 and 
+566426.1 are not reflected on the carp report - maybe these need to be 
+auto-scheduled??  As for 576512.1 I've added the hours in question to the 
+spreadsheet.  If you need more clarification, please give me a call.
+Thanks
+Brooklyn
+713.853.1909
+Thanks for fixing that stuff, Stan. Do you need me to autoschedule the deals?
+Kate
+Stanley Cocke
+04/19/2001 09:16 AM
+Audrey,
+Concerning deal #579038:  This was a mistake on my part, the price should in 
+fact be $80 (as the APX is showing).  I've fixed the price in Enpower.
+Concerning deal #581335:  This trade did take place between Enron and Sierra 
+Pacific Industries (not the APX).  I mistakenly put that deal in under the 
+wrong counterparty.  I've fixed the counterparty in Enpower.
+I will ask Fran Chang to autoschedule both deals.  Let me know if I need to 
+do anything further.
+Thanks,
+Stan
+Audrey Cook
+04/19/2001 08:50 AM
+Kate & Stan,
+Deal #579038.1
+Enron is showing $85 for the offpeak load on 4/13 & 4/14..... APX is showing 
+$80 for offpeak on 4/13 & 4/14....please verify and correct if necessary.  I 
+have also attached APX invoice per the internet website below for both days.
+Deal 581335.1
+APX is currently not showing that this deal occurred for 4/16 for offpeak 
+load (see screen  below at the bottom).  Please verify if this is some other 
+c/p's deal.  Thanks.
+ajc
+Note:
+Please include Godfrey Hyde on your response since I will be out of the 
+office on leave beginning Monday.  Thank you.
+54
+Chris Foster has requested that we set up a new broker - the Automated Power 
+Exchange, in EnPower. It is the same counterparty we already have in EnPower, 
+with the same name and contact information. Melissa, I believe you said we 
+could pretty easily add the name in the broker list if it was the same as in 
+the counterparty list, which Chris has verified it is. Please let me know if 
+you need anymore information.
+Thanks,
+Kate
+I'm so stoked you're going to Buena Vista Social Club. I can't believe you 
+are such a rotten "bik" that you didn't invite me. What's up with that?
+My advice on the Outward Bound thing is to hold off. Not for selfish, 
+wine-swilling reasons, of course; but because I know how tiring it gets to be 
+living out of a suitcase with no dinero for a period of time. I have to say 
+that sticking around Portland for the last six months has given me a renewed 
+sense of mental health. Granted, I'm not totally sane yet, but at least I can 
+imagine what it would be like. If you came home and turned right around and 
+went to Colorado, you'd feel unprepared and maybe a little overwhelmed. Think 
+carefully about how much Outward Bound would pay you in comparison with how 
+much money you actually need to get by. Then add $500/month to that figure, 
+and you'll be about right. It always sounds easier than the reality - I'm 
+only speaking from Maui experience here. 
+If you want to do a whirlwind Denver thing and have a great, rustic, totally 
+broke time, then totally go for it. But if you feel like you're getting to 
+the end of your rope with scraping by and feeling unsettled - which it kind 
+of sounds like you are - then hang in P-town for awhile. Like I said, I'd 
+feel SOOOO much better about taking off on my next adventure NOW than I would 
+have even a couple months ago. And it's only been six months since I got back 
+- that's not really too long to wait. In the meantime, you don't have to live 
+with mom. The Malachowsky's room will be open, although for all the help I've 
+given them I wouldn't be surprised if they don't want a Symes there anymore. 
+Then there's always my future apartment. I'm thinkin' downtown for sure.
+Anyway, we'll talk more about it in Mexico. Don't stress - whatever you're 
+meant to do, you'll end up doing whether you like it or not.
+Love,
+Kate
+These are done.
+Lester Rawson
+04/19/2001 11:09 AM
+Kate,
+Please approve and autoschedule
+3/31 Annuity 586477
+3/31 Annuity 586498
+3/31 Transmission 586421
+Les
+P.S. I mentioned this to you, Melissa. But just a reminder that we need the 
+default broker fee on this to be $.03.
+Thank you!
+Chris Foster has requested that we set up a new broker - the Automated Power 
+Exchange, in EnPower. It is the same counterparty we already have in EnPower, 
+with the same name and contact information. Melissa, I believe you said we 
+could pretty easily add the name in the broker list if it was the same as in 
+the counterparty list, which Chris has verified it is. Please let me know if 
+you need anymore information.
+Thanks,
+Kate
+I just entered these deals for Mark 
+586761 - sell pac
+586763 - sell bp
+Thanks,
+Kate
+Stephanie Piwetz   04/19/2001 01:43 PM
+Prebon shows:
+enron sells pacificorp  palo verde  4/23-4/30  25 mws   215.00
+enron sells bp energy  4/23-4/30  palo verde   212.00
+thanks
+These have been changed - and I changed the broker fee in 586569 to $15 flat.
+Stephanie Piwetz   04/19/2001 02:19 PM
+Please ch cp name for 2 bloomberg trades from Pinnacle to Arizona w/ contact names
+586507.01  Leaf H.
+586569.01 Tom A.
+Thanks
+It looks like both of these are in with Pacificorp. Were they corrected?
+Kate
+Stephanie Piwetz   04/19/2001 02:41 PM
+586761.01   586762.01  should be Pacificorp.
+thanks
+I just spoke with Heather Dunton in Risk, and she said they've had problems 
+valuing index forward deals that settle at the last 5-day NYMEX average. So 
+to remedy the situation, they're taking a fifth of the volume out of the deal 
+each day, beginning five days prior to the expiry date. In this case, the 
+expiry date is 4/25/01, so they began with taking 5 MW out of deal 585480 and 
+putting it into a fixed price forward deal - 586775. Each day Heather will 
+take another fifth of the volume in 585480 and put it into 586775, and she'll 
+average the fixed prices each day to eventually end up with the last 5-day 
+average. That's the long and short of why this new forward deal - 586775 doesn't need to be confirmed. Our position with Deseret stays the same - it's 
+just split between two deals temporarily. 
+Please call Heather or me with any questions. She's going to add another 
+comment in both deals to indicate the changes she'll be making, so it should 
+be apparent to everyone that 586775 does not need to be confirmed at any 
+point. When we get to the expiry date, Heather will kill that fixed forward 
+deal, since the index price will pull into the system and 585480 will value 
+properly.
+Sorry for the winded explanation, but I thought it was better to give you 
+more than less!
+Thanks,
+Kate
+Can you check and see why we are not confirming this deal with Deseret?  It 
+is on the not to be confirmed list.
+Thanks!
+Thanks a lot, Dave.
+Kate
+David Poston
+04/20/2001 08:57 AM
+Andrew, please add Kate Symes to your list of California Schedulers who need 
+an H: drive in Houston.
+ID = KSYMES
+Thanks,  Poston
+587415 - changed to Bloomberg
+All the rest of these were just entered, except last deal 
+Tom buys AEP
+May
+PV
+283.00
+Tom does not recognize this trade - is APB sure of the terms?
+Kerri Thompson@
+04/20/2001 01:27 PM
+587415
+not apb
+missing deals
+mark f
+buy srp
+217.00
+25 mw
+pv
+on peak
+holden
+sell williams
+24-30
+102.00
+25 mw
+pv
+off peak
+holden
+sell williams
+24-30
+100.00
+50 mw
+pv
+off peak
+tom a
+buy pacificorp
+200.00
+23rd
+25 mw
+on peak
+tom a
+buy aep
+283.00
+25 mw
+may
+pv
+on peak
+You're probably right, Sharen, since the counterparty continues to send 
+confirmation letters with FPL Energy Power Marketing instead of Florida Power 
+& Light. Unfortunately, the marketer who contacts our trader to transact 
+identifies himself as being with Florida Power & Light, which is where I 
+believe the confusion is coming from. I'll let the traders know of the 
+correct counterparty name, though. 
+Thanks for the heads up,
+Kate
+Can you check with the trader on this deal.  We have had to change several 
+deals input with this CP name.  I believe it should be FPL Energy Power Mktg. 
+not  Florida Power & Light Company.  I think one is a utility which would be 
+local and one is a marketer, who can trade anywhere.
+Thanks!
+P.S. I changed this deal to FPL.
+Can you check with the trader on this deal.  We have had to change several 
+deals input with this CP name.  I believe it should be FPL Energy Power Mktg. 
+not  Florida Power & Light Company.  I think one is a utility which would be 
+local and one is a marketer, who can trade anywhere.
+Thanks!
+Hi Rhonda -
+I was told you're the person to contact regarding changes in the Enpower 
+counterparty list. Several items are outdated or have gone through many 
+different versions, and it's made somewhat of a confusing situation for the 
+traders and others who do deal entry. My sensitivity to this is heightened 
+because I'm new to the Deal Control position here at the Portland West Desk, 
+and I'm still getting used to which names we use and which we don't. Monica 
+Lande suggested I ask you about it, although she pointed out that if we've 
+ever booked a deal under any of these counterparty names, then they need to 
+stay in the system. 
+I'm wondering if there is any way to weed out some of those extra selections. 
+For example, Duke and El Paso both have five different names in the system; 
+Arizona Public Service Company has become Pinnacle; and other names were just 
+tests that are no longer used. 
+Please let me know whenever you have a free moment - this is certainly not an 
+urgent request, and I completely understand if the list needs to stay as is. 
+Just checking.
+Thanks,
+Kate
+This deal has been changed from Pinnacle West to Arizona Public Service Co.
+Thanks,
+Kate
+I received a message today from one of the brokers at ED&F Mann, who said he 
+was waiting on our payment for a Palo Verde futures contract for April. I 
+remember something like this happening last month, and I remember you two 
+coming to the rescue, which is why I'm asking for your assistance. If either 
+of you get a chance on Monday, let's get together and figure out why this 
+hasn't been paid, or maybe why it HAS been paid and not received.
+I believe the deal in question is 531782 - Long Term Southwest buys from 
+Avista for the month of April, price $196, trade date 2/26. Doesn't this seem 
+eerily reminiscent of the last contract that ED&F Mann didn't receive payment 
+on? Was it Avista that time too?
+The contact at ED&F Mann is Martin, and his number is (212) 566-9329. Just 
+let me know when you have a moment to talk.
+Thanks,
+Kate
+Kate Symes
+Student No. 569430668
+1. The invention of the french fry would result in an increased demand for 
+potatoes - that is, the demand curve for potatoes would shift outward. This 
+would result in an increase in price, and a corresponding increase in supply. 
+As the supply curve comes up to meet the new, higher demand curve, we would 
+actually see an increase in overall demand, supply, AND price. The statement 
+is wrong in assuming that increased supply equals a lower price.
+2. a. The value of one bottle of beer to me between points A and B is 8 
+bottles of soda.
+b. I am therefore indifferent between bundles A and B, because they both 
+allow me the same frequency of use and same level of satisfaction.
+c. Bundle E must include about 216 bottles of soda in order to make me 
+indifferent between it and bundle D. This follows from the logic that, when I 
+have 100 bottles of soda, it would take about 8 more to make me give up one 
+bottle of beer in the bundle. Here I have 200 bottles of soda - I would need 
+AT LEAST 8 bottles of soda to make me give up one more beer in another bundle 
+with the same frequency of use.
+3. Firstly, this legislation produces a disincentive for parents to travel 
+with children on an airplane because it increases the already high costs 
+associated with flying. Add to this the somewhat more relaxed rules of the 
+highway, and you might find more families taking road trips on their next 
+vacation. This is a potential secondary effect of the legislation which could 
+actually increase injuries and fatalities - secondary because it would not be 
+directly associated with injuries caused in airplane crashes, but because it 
+would incent people to find other, possibly more dangerous, modes of 
+transportation.
+4. Auto safety legislation puts constraints on auto makers to make cars as 
+safe as possible while still maintaining a profit. It also narrows consumers' 
+choice sets when buying a new car. A person buying a car in a country with no 
+auto safety legislation might make auto safety a priority in their decision. 
+In a country indoctrinated by Nader's book, the choice between whether to buy 
+a safe or unsafe car is taken away - all cars are made equally safe. Because 
+of this, car-buyers have less incentive to drive safely and more leeway to 
+choose their car for other reasons. Soon, safety in a car becomes a moot 
+point and the car buyer is only concerned with a good price or other 
+incentives. Auto accidents increase because there is no longer an incentive 
+to drive safely - legislation has made cars, in consumers' minds, 
+indestructible. If cars are indestructible, so then are the people in them.
+5. a. My demand curve shows that I would purchase 1 gallon of soda at a price 
+just under $10. So when I purchase 5 gallons at $5 a gallon, I am better of 
+by $12.50.
+b. I can purchase 3 more gallons of Diet Coke when it is priced at $3 a 
+gallon than when it's priced at $5. Therefore, I'm better off by $2.50 - a 
+gain of 3 gallons times a decrease of $2 divided by 2. 
+c. If Diet Coke was free, I'd consume up to 10 gallons of it before it 
+wouldn't be worth it for me to consume anymore. My consumer surplus is $50.
+6. a. A will sell chairs to B. A can make 5 chairs in the time it takes him 
+to build 1 table, while B can only build 3 in the time it takes him to build 
+a table. (A's chair-to-table time ratio is greater than B's - 1/2 to 1/3.)
+b. A will buy tables from C. C can make a table in only twice the amount of 
+time it takes him to build a chair, while A takes five times as long to build 
+a table than a chair. (A's table-to-chair time ratio is greater than C's - 5 
+to 2.)
+c. B will do neither. Since B can make chairs faster (rate of 1/3 for B to 
+1/2 for C), B won't buy chairs from C. And because C can make tables faster 
+(rate of 2 for C to 3 for B), B can't sell tables to C.
+7. a. The equilibrium price is $3.96. 
+-10 + 50P = 200 - 3P
+53P = 210
+P = 210/53
+$3.96
+The quantity is 188 textbooks.
+-10 + (50)(3.96) = 188
+200 - (3)(3.96) = 188
+188
+b. The sticker price becomes $6.79.
+-10 + 50(P-3) = 200 - 3P
+-10 + 50P -150 = 200 - 3P
+360 = 53P
+P = 360/53
+$6.79
+The market quantity stays at 188 textbooks.
+c. The sticker price becomes $3.79.
+-10 + 50P = 200 - 3(P+3)
+-10 + 50P = 200 - 3P - 9
+201 = 53P
+$3.79
+Market quantity decreases marginally to 179 textbooks.
+d. If the seller pays $3 per book in taxes, the seller charges $6.79 and 
+receives $3.79 per book. If the buyer pays $3 per book in sales tax, the 
+buyer pays $3.79 per book. The costs are equal despite which party is paying 
+the tax.
+e. The government collects $564 ($3 tax times 188 books) in tax revenues for 
+this set of terms.
+8. a. The equilibrium price is $42.
+-10 + 5P = 200
+5P = 210
+P = 42
+The market quantity is 200.
+b. The sticker price becomes $210 - t.
+-10 + 5(P-t) = 200
+-10 + 5P + 5t = 200
+P = 210 - t
+c. The government takes in a tax revenue of 200t. There are deadweight costs 
+associated with this tax because the supply is more elastic than the demand 
+for insulin. Therefore, consumers will bear more of the burden of the tax.
+9. a. Affects supply; supply curve will increase; price and quantity 
+exchanged will increase
+b. Affects demand; demand curve will decrease; price and quantity exchanged 
+will decrease
+c. Affects supply: supply curve will decrease: price will and quantity 
+exchanged will decrease
+d. Affects supply: supply curve will increase; price will decrease, quantity 
+exchanged will decrease
+e. Affects supply: supply curve will increase; price will decrease, quantity 
+exchanged will decrease
+f. Affects demand: demand curve will increase; price and quantity exchanged 
+will increase
+g. Affects demand; demand curve will decrease; price and quantity exchanged 
+will increase
+h. Affects supply: supply curve will increase; price will decrease, quantity 
+exchanged will increase
+Sounds great - I'm thinking tomorrow or Wednesday night might be the best, 
+but let me know what works for you. Glad you survived a weekend with the 
+"lesser" of the journalistic species.
+Talk to you soon,
+Kate
+John Enders  Hi. I'm back from Sunriver, and survived a hundred broadcasters. God Still wanna try to get together this week for a beer after work?
+John
+Andrew -
+My login name is "ksymes" and my password is "kajt8kajt." Thank you so much 
+for your attention to this problem.
+Kate
+Michael Tully
+04/23/2001 12:22 PM
+Andrew Hawthorn just called me about your access denied errors that you are 
+getting through Term Server. He would like for you to e-mail him your login 
+username and password so that he may correct this issue.
+Mike Tully
+It's been changed to CAISO energy.
+Thanks,
+Kate
+This deal is in as firm energy with an SP delivery point.
+Thanks!
+Chris is entering those deals right now.
+Thanks,
+Kate
+Evelyn Metoyer@
+04/23/2001 02:22 PM
+BLOOMBERG
+Chris Mallory
+I am missing the following deals:
+1) Enron buys from Mirant 4/25-4/30 NP-15 Light 25mw at $192.00
+2) Enron buys from Mirant 4/25-4/30 NP-15 light 25 mw at $193.00
+AMEREX
+Chris Mallory
+I am missing the following deal:
+1) Enron buys from Dynegy 4/25-4/30 25mw NP Light at $192
+Following are the deal numbers for interdesk swaps between STCA and STWBom 
+for Monday and Tuesday. I'm sorry again for forgetting on Friday.
+587941
+STCA sells 25 to STWBom
+4/23/01
+$231.23
+PGE3
+589743
+STCA sells 25 to STWBom
+4/24/01
+$266.00
+NP-15
+Let me know if you have questions on these. I presume Phil talked to you 
+about why he put the deal in at PGE3 for Monday and NP15 for Tuesday. 
+Apparently it doesn't have any relevance until FSP is up and running, but it 
+may affect you guys differently. Just let us know if it's a problem.
+Thanks,
+Kate
+Mark's changing deal 581615 to APB - he had it in with Bloomberg.
+Thanks,
+Kate
+Kerri Thompson@
+04/23/2001 02:50 PM
+missing deal for mark f
+sell el paso
+25-30
+285.00
+25 mw
+pv
+on peak
+566424 and 566426 have been auto-scheduled - just FYI. And I'm still working 
+on the others.
+Thanks,
+Kate
+See attached file for updates.
+Kate,
+I have not seen the corrected prices for 566424.1 and 566426.1 come through 
+yet - maybe tomorrow.
+Deal 573862.1 .2 @ $107 your sheet has $168.45  please advise which price is 
+correct
+Deal 578856.1 21 @$150 your sheet has $182.92  please advise which price is 
+correct
+Let me know if you need further clarification.
+Thanks
+Brooklyn
+713.853.1909
+Wow! I bet you're sick of explaining that one to all the newcomers. That's 
+about what I figured was going on - an overlap of names used by different 
+members of the Enron family. 
+Thanks so much for taking the time to respond and explain. And thanks for the 
+welcome!
+Kate
+FYI
+Following are the exact definitions of each Dow Jones Index Price in which we 
+participate. This was originally a question Stew had, but I thought it might 
+be helpful for all of you to be able to reference. I'll keep a copy of these 
+definitions at my desk as well.
+Please let me know if you have any questions.
+Thanks,
+Kate
+Kate,
+Enclosed are the definitions as promised.
+Cheers,
+Ernest Onukogu
+Energy Services
+Dow Jones & Company
+P.O.Box 300
+Princeton, N.J. 08543-0300
+609 520-4663
+- COB-def.doc
+- MID-C-def.doc
+- PaloVerde-def.doc
+Kate,
+Ernest Onukogu
+Energy Services
+Dow Jones & Company
+P.O.Box 300
+Princeton, N.J. 08543-0300
+609 520-4663
+- MeadMktPlace-def.doc
+- NP15 SP15 def.doc
+He hadn't mentioned it, but I'd love to meet with him as well. Just let me 
+know when. And keep me up to date on the tomato happenings, will ya!
+Kate
+GRACE RODRIGUEZ
+04/24/2001 08:44 AM
+Kate:
+FYI! Please note that Jesse will be meeting with you for an informal 
+interview either later this afternoon, or tomorrow morning. I'm not sure if 
+he had mentioned it to you 
+-Grace
+GRACE RODRIGUEZ
+04/24/2001 08:38 AM
+Hello all!
+Sorry for the delayed schedule!
+Today's interview with Kate Symes for a position in Real Time is as follows:
+Kate Symes - Cascade conference room
+9:30am - Bill Williams III
+10:00am - Geir Solberg
+10:30am - Chris Foster
+Jesse Bryson will be interviewing Kate either later this afternoon or 
+Wednesday morning.
+I will be distributing copies of this schedule, along with Kate's resume, to 
+the interviewers in just a few moments.
+If you have any questions about this schedule, please let me know.
+Thanks!
+-Grace
+It's been changed to CAISO.
+Thanks,
+Kate
+This deal has an NP15 with firm energy.
+Thanks! 
+It's been changed to SP.
+Thanks,
+Kate
+Kerri Thompson@
+04/24/2001 01:15 PM
+589693
+broker has sp15
+thanks
+I've received a message from the confirms group that the following deals need 
+unit names in the comment section. If you e-mail them back to me, I can enter 
+them into the deals.
+586090 - LADWP
+586092 - EWEB
+587312 - SRP
+587314 - EWEB
+587316 - EWEB
+Let me know if you have any questions or need assistance.
+Thanks,
+Kate
+Andrew -
+I just heard that you've been trying to reach me today with no success. I'm 
+actually sitting at a new desk and periodically checking my old voicemail 
+extension, but the best number to reach me on is (503) 464-3827.
+Thanks,
+Kate
+A suggestion:
+One of the most interesting books I've read recently is called "The River 
+Why," by David James Duncan. I believe he's from the Pacific Northwest. It's 
+about fishing and religion. Check it out.....if your gigantic FINANCE brain 
+can fit it in.
+Kate
+Hey - have you read "Options, Futures, and Other Geeky Things that Finance 
+Nerds Obsess About"?
+Kate,
+The best books I've read recently are 1) "A Random Walk Down Wall Street" by 
+Burton Malkiel and 2) Options, Futures, and other Derivatives" by John Hull Put those in your pipe.
+TA
+Both of these just went in. Let me know if you don't see them yet.
+Kate
+Evelyn Metoyer@
+04/24/2001 02:41 PM
+BLOOMBERG
+I am missing the following deals:
+1) Dianna buys Dynegy  4/26-4/30 25mw NP-15 at $305.00
+2) Matt sells Tractebal Q4'01 Palo Verde 25 mw at $172.00
+PREBON
+all o.k.
+AMEREX
+all o.k.
+I just spoke with Jesse Bryson in Real Time, and he said this should actually 
+be 2 buy-resales - one from Four Corners to ZP-26, and one from ZP-26 to 
+NP-15. Let me know how that sounds to you, and I'll enter the deals.
+Thanks,
+Kate
+Rhonda L Denton
+04/24/2001 03:23 PM
+Should this be NCPA, since we do not have transmission with them.  Or maybe 
+it should be a buy/resale.  let me know.  Thanks.
+Tom neglected to put the broker in on this deal. It's number 463045.
+Thanks,
+Kate
+Stephanie Piwetz   11/20/2000 02:43 PM
+Hello
+I am missing a Tom Alonso Deal
+Bloomberg bro confirm
+11/20/00
+Enron Buys IdahoPower Co
+Palo Verde
+Dec2000
+25mws
+125.00
+on peak
+Thanks 
+Don't worry about it! I got home and had to shower the day off of me, and by 
+the time I got out Dave was (randomly) walking through the front door. Then 
+he and my new roommate Chase and I all had tuna fish sandwiches and 
+milkshakes for dinner. It was sooooooo good. And I am soooooo easily pleased. 
+It's gorgeously sunny and warm here today, so I might have to go for a bike 
+ride after work. Then I've got to ream Amber for being the most pathetic, 
+loser roommate on the face of the earth (more on that later.) So we 
+DEFINITELY need to talk. I'll call you tonight.
+Love,
+Kate
+Anna Symes  Hey,
+Sorry I never called last night.  I kept thinking you would call me, then I
+fell asleep.  But I'll call you when I get home today, kay?
+Anna
+Sharen - These deals have been changed to CAISO.
+Real Time - FYI
+There are several deals that have NP/SP delivery points with firm energy.
+Thanks!
+590527
+590523
+589943
+589942
+589941
+589919
+589909
+I'm sorry about that! It looks like the NW traders were adding to their sheet 
+while I was transferring data from it, so I didn't have the most updated 
+version this morning. This should look better!
+Kate
+So sorry for not getting back to you sooner - it seems I've acquired two new 
+jobs in addition to the full time schedule I already kept. But tonight still 
+works for me - just let me know when and where.
+Kate
+John Enders  Are we on, or off?
+Geir Solberg in Real Time is fixing this right now - I'll let you know the 
+new deal number in just a second.
+Thanks,
+Kate
+Rhonda L Denton
+04/25/2001 01:13 PM
+Can you kill this deal or zero out the volumes?  thanks.
+Kate Symes                04/24/2001 05:27 PM
+I just spoke with Jesse Bryson in Real Time, and he said this should actually 
+be 2 buy-resales - one from Four Corners to ZP-26, and one from ZP-26 to 
+NP-15. Let me know how that sounds to you, and I'll enter the deals.
+Thanks,
+Kate
+Rhonda L Denton
+04/24/2001 03:23 PM
+Should this be NCPA, since we do not have transmission with them.  Or maybe 
+it should be a buy/resale.  let me know.  Thanks.
+Okay - I won't be able to get out of here before 5 p.m., so 6 p.m. might be 
+better. Also, I am car-free these days, and I completely forgot you wanted to 
+meet east of the river. Would it be too much trouble to meet in NE - that's 
+where I live, and there aren't any buses directly from SE to NE, 
+unfortunately. Let me know if this works for you. Sorry for the hassle!
+Kate
+John Enders  Sure. I know busy.
+I suggest the Lucky Labrador Brewing Co., on S.E. Hawthorne at 9th.
+I can do 4 p.m., or 6 p.m. Whichever is best for you.
+John
+Kate.Symes@ wrote:
+ So sorry for not getting back to you sooner - it seems I've acquired two
+ new jobs in addition to the full time schedule I already kept. But tonight
+ still works for me - just let me know when and where.

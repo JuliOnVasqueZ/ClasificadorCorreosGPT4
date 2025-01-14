@@ -1,0 +1,5 @@
+Does this happen using different microphones?
+Brent: Can you swap the mic of an affected user and see if this persists?
+ 2) Many of the users use the ctrl button in their daily
+ activities.  The talk
+ button needs to be changed to an F# key.

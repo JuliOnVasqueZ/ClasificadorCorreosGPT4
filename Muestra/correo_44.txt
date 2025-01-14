@@ -1,0 +1,6 @@
+This document outlines the proposal:
+ This document summarizes the receipt and delivery right assignments.  For
+ simplicity, all of the assignments have been summarized on the worksheet
+ labeled "Consolidated Results."  The remaining worksheets in this workbook
+ are the detailed calculations used to arrive at the individual
+ assignments.

@@ -1,0 +1,582 @@
+This is a Real Time deal, and that desk enters deals a bit differently than I 
+do. When they initially do a deal, they enter it for a certain hour or set of 
+hours. Then, if they agree with a counterparty to extend the deal to flow 
+through more hours, they change the deal in Scheduling, not EnPower. The way 
+to see the true volume of a Short Term West Hourly deal is to look in the 
+"View Actuals" tab. If you look at this deal, you'll see that they extended 
+the initial 5 MW at HE 11 to look like this:
+HE 11 - 5 MW
+HE 12 - 5 MW
+HE 13 - 5 MW
+HE 14 - 4 MW
+HE 15 - 4 MW
+HE 16 - 4 MW
+HE 17 - 5 MW
++__________
+32 MW
+Please let me know if you have any other questions.
+Thanks,
+Kate Symes
+Trading Support
+503-464-7486
+Judy Dyer@EES
+04/16/2001 10:48 AM
+Can you please let me know if there are other deals that go with the deal referenced above?  We have a total of 32 MW but this is only for 5.
+Thanks
+Judy
+BLOOMBERG
+Are you talking about the broker fee?
+TRADESPARK
+Matt's contact is verifying this trade as off-peak.
+AMEREX
+Chris just changed deal 582853 from APB to Amerex
+582894 - changed to 47.75
+PREBON
+Bob said Matt Motley gave him this deal to do. Is that going to fly with 
+Prebon?
+Evelyn Metoyer@
+04/16/2001 01:55 PM
+BLOOMBERG
+deal 582589 and 582423
+Bloomberg shows fee as $15.00 flat on both of these deals.
+TRADESPARK
+Matt Motley
+deal 582856
+Tradespark shows hours as on-peak not off-peak
+AMEREX
+Chris Mallory
+I am missing:
+Enron sells to Duke 4/20-4/30 NP-15 Light 25 mw at $190
+Mike Swerzbin
+deal 582894
+Amerex says price should be $47.75 not $47.25
+PREBON
+Bob Badeer
+deal 582668
+Prebon says this deal should be Matt Motley's
+I've never seen anything but a .005 broker fee on Bloomberg deals. Tom Alonso 
+wanted to know when that fee changed.......we're confused!
+And the Matt-Bob deal swap - I guess it was just a last minute decision on 
+their part, and they should have let the broker know. Matt said the trade 
+needs to stay in Bob's book, and just to check it out as a good trade with 
+EPMI. Let me know if you still have problems with this.
+Thanks,
+Kate
+Evelyn Metoyer@
+04/16/2001 02:16 PM
+BLOOMBERG
+Are you talking about the broker fee?
+Yes the fee is $15.00 Flat per Bloomberg's confirmation on both of these 
+deals.
+PREBON
+Bob said Matt Motley gave him this deal to do. Is that going to fly with 
+Prebon?
+I guess this is o.k. but they were insisting that this deal was done with 
+Matt not Bob. 
+Kate Symes @ ECT                04/16/2001 04:04 PM
+BLOOMBERG
+Are you talking about the broker fee?
+TRADESPARK
+Matt's contact is verifying this trade as off-peak.
+AMEREX
+Chris just changed deal 582853 from APB to Amerex
+582894 - changed to 47.75
+PREBON
+Bob said Matt Motley gave him this deal to do. Is that going to fly with 
+Prebon?
+Evelyn Metoyer@
+04/16/2001 01:55 PM
+BLOOMBERG
+deal 582589 and 582423
+Bloomberg shows fee as $15.00 flat on both of these deals.
+TRADESPARK
+Matt Motley
+deal 582856
+Tradespark shows hours as on-peak not off-peak
+AMEREX
+Chris Mallory
+I am missing:
+Enron sells to Duke 4/20-4/30 NP-15 Light 25 mw at $190
+Mike Swerzbin
+deal 582894
+Amerex says price should be $47.75 not $47.25
+PREBON
+Bob Badeer
+deal 582668
+Prebon says this deal should be Matt Motley's
+That sounds like a good one, mom. Like I've said before, I think it's a great 
+idea and would be perfect for you. Now I think you should start taking steps 
+to make it happen. I know you could get your house sold, no problem. And you 
+should think seriously about putting it on the market soon, as I'm starting 
+to get the feeling it can take quite a while to actually sell a house. Let me 
+know how I can help - for example, Brian has some friends who rent out a 
+great cottage in Kihei for $100 a week. He can also get really good deals on 
+rental cars. If you start shopping around for a cheap ticket now, you could 
+take a scouting trip this spring and make plans to move by the following 
+winter - just in time for whale-watching. 
+Just do it!
+Here you go, Jill - let me know what you think.
+Kate
+503-288-6546 or 503-819-2181
+Amy FitzPatrick
+04/16/2001 11:37 AM
+A position has become available as an Administrative Assistant working in=20
+West Power Trading reporting to Debra Davidson.  You will be responsible for=20
+the following complex administrative duties.
+? Compose memos, reports and other correspondence from a brief outline,=20
+=01&sketchy=018 draft or verbal instruction.
+? Greet external clients.
+? Code invoices, process complex expense reports, and manage employee=20
+timekeeping through SAP.
+? Make travel/meeting arrangements based on minimal instruction and=20
+periodically make independent decisions on details such as travel schedules,=20
+mode of   transportation, and accommodation.
+? Monitor and control filing systems ensuring accuracy and efficient=20
+retrieval of data.
+? Occasionally prepare presentations in Microsoft PowerPoint.
+? Provide backup switchboard support for Receptionist during periods of=20
+absence.
+? Work closely West Power Trading administrative staff to provide coverage=20
+and assistance during periods of employee absences.
+DETM and WAPA have been informed of the possible outcomes.
+I will do that.  Thanks DS
+Darrell,
+I know you're very busy but Ranelle is the new Pricing Desk person and needs info on the southend of the pipe.  I was wondering if you could give her a call and get her up to speed on the area.  Sorry, but you're the best guy for the job.
+Craig                    Ranelle 8287-7063 in Omaha
+HELP!!!  I really need an explanation of how TW, NNG, and El Paso fit together in the South End.  I am so lost.  Do you have any time to just talk to me about a couple of points?  I know you are busy right now, so when you do have a free moment.  Or, is it better if I call Vernon?
+Ranelle
+At the moment the plant is down waiting for delivery of parts to repair
+steam valves.  Parts may arrive this afternoon but there is no guarantee.
+BVZ have no schedule for startup and therefore no gas has been nominated
+for the weekend.
+When the plant is ready to start up, operation will be based on gas
+availability at the time.
+All units should be capable of operating.  Expect to be able to get to base
+load approximately 24 hours after startup.
+This is fyi.  We need to be more careful on this point and refer to the schedule they send us.  Please if you have any questions call.
+DS
+We did manage to avoid a complete plant outage, but the loss of gas
+pressure yesterday morning was still a major upset.
+CT #1 did trip off and then subsequently it took several hours of
+struggling to get back to where we needed to be.  We didn't get back to
+peak load until 2:00 PM in the afternoon.
+I'll send you data on gas usage for yesterday by separate E-Mail for your
+information.
+Your assistance to get all the facts related to this event will be much
+appreciated so we can learn how to not go there again.
+"Schoolcraft,
+We need to keep our communications open to the plant.  I know that
+during their test mode they have had a variance in load projections.
+Hopefully when they become operational their loads will be more steady.
+Ken,
+Sorry about yesterday.  Thanks to your quick responce to our gas control
+so we could correct the problem before the plant
+went down.
+If you have any more questions please call.
+Thanks DS  713-853-4299
+I will be attending.
+DS
+Because a large number of our invitees had conflicting schedules, we are moving the date of our Appreciation Luncheon for the LAST TIME 
+This will be our last attempt to accommodate everyone.  Trust me, the food and games at Jillians will be well worth your patience.
+Steve's main objective was to include as many of  ETS' TW Teams as possible.  We feel that Friday,  the 5th of October would better suit the majority of our teams 
+We thank you for your patience and please respond by September 26 
+Audrey D. Robertson
+Transwestern Pipeline Company 
+email address:  audrey.robertson@
+(713) 853-5849
+(713) 646-2551 Fax
+Gas controllers on duty were Gayle Henley and Bart Mondon.  They both did a great job.
+Thanks DS
+On Tuesday we ran a PII smart pig in section 8 (Station 8 to Station 7) and on Thursday ran the smart pig in section 7 (Station 7 to Station 6).  Both runs appear to be successful.  The data will be forwarded to PII in Houston and a preliminary report will be ready in 2 to 3 weeks.  The final report will take 3 months I would like to thank The teams from Montainair, Roswell and Laguna, the support help from teams Panhandle and Flagstaff, the Albuquerque Corrosion Specialist, and the Roswell Construction & Engineering group for their dedicated efforts to see the project completed.  Long days and short nights don't seem as bad when you've performed well and accomplished the goal.
+I would also like to give special thanks to Darrell and the gas controllers for creating the right gas flows for a constant smooth run when the demand in California wasn't there for the gas.  You did an excellent job!
+Have a great week-end.
+Arnie
+Gas Day September 23, 2001
+Gallup Compressor Station will be doing run testing.  Capacity for San Juan will stay at 
+800,000 mmbtu/d.
+Gas Day September 24, 2001
+Gallup Compressor Station at full load.  Capacity for San Juan will increase to 850,000 
+mmbtu/d. and Mainline Thoreau West System will increase from 1010,000 to 
+1090,000 mmbtu/d.
+Posted to the Transwestern Web Site to the customers Sunday Morning September 23, 2001
+Notes:
+1)  After testing is completed for the day, we are showing Both Units
+Chilled but Unfired at a base condition of 463 MW.
+DETM can schedule more or less than the 463 MW in Real Time, depending on
+the market and gas control agreement.
+2) OK to shut off one CT rather than operate both at reduced load.
+(Embedded image moved to file: pic04966.pcx)
+- pic04966.pcx 
+Gas Day September 23, 2001
+Gallup Compressor Station will be doing run testing.  Capacity for San Juan will stay at 
+800,000 mmbtu/d.
+Gas Day September 24, 2001
+Gallup Compressor Station at full load.  Capacity for San Juan will increase to 850,000 
+mmbtu/d. and Mainline Thoreau West System will increase from 1010,000 to 
+1090,000 mmbtu/d.
+Posted to the Transwestern Web Site to the customers Sunday Morning September 23, 2001
+Changes to Schedule Today:
+1) Delayed startup after 4 hour shutdown by 1 hour.
+2) Reduced MW for first hour after startup from 150 to 125.
+3) Extended operation with Duct Burners at 100% firing for 3 additional
+hours.
+All else remains the same.
+(Embedded image moved to file: pic20055.pcx)
+- pic20055.pcx 
+Note: DETM have requested only 200 MW on Tuesday night.
+(Embedded image moved to file: pic19866.pcx)
+- pic19866.pcx 
+A couple of fyi items:
+SoCal's balance was 151,133 mmbtus at 8/31/01.  Their balance is 300,521 mmbtus at 9/23/01.
+We have received 33,130 mmbtus in payback from Williams through the 23rd which has decreased their balance to 242,260 mmbtus.
+PG&E Topock's balance is 69,727 mmbtus due TW as of 9/23/01.
+The index has decrease by about eighty cents during September which will cause a loss on volumetric oba's.
+RATA Testing today.
+(Embedded image moved to file: pic06077.pcx)
+- pic06077.pcx 
+- Southpoint Gas Model.xls 
+FYI
+ds
+- Southpoint Gas Model.xls 
+Corrected Subject Line
+RATA Testing
+(Embedded image moved to file: pic15498.pcx)
+- pic15498.pcx 
+More RATA Testing
+(Embedded image moved to file: pic15205.pcx)
+- pic15205.pcx 
+Here is the URL to use to get into the CAS Model Office Application. Please pass this on to all who need access to the Model Office environment.
+This is the tournament that I've been asked to play in.  I will be out of the office.
+DS
+REMINDER
+4TH ANNUAL ENERGIZE HOUSTON GOLF TOURNAMENT
+Monday Oct. 1st, 2001
+CYPRESSWOOD GOLF COURSE
+21602 =09Cypresswood Drive
+281-821-6300
+Arrive at Cypresswood by 8:00 am to register, eat donuts and hit some balls on the range.    Shotgun start is at  9am.  Golfers probably should wear colored shirts and kacki or docker type pants or shorts.    Lunch will be provided by Eatzies.  Please make sure you check with the registration booth after completing your game, to see if you have won a raffle item.
+If you have not sent in your registration form and payment by Oct. 1st, you will not be allowed to participate.
+Attached below are the directions to Cypresswood Golf Course.  See you on the Green!
+=20
+I will be there.
+DS
+[Cebryk, Doug]  Gentlemen.
+Are you ready? Original Message 
+REMINDER
+4TH ANNUAL ENERGIZE HOUSTON GOLF TOURNAMENT
+Monday Oct. 1st, 2001
+CYPRESSWOOD GOLF COURSE
+21602 =09Cypresswood Drive
+281-821-6300
+Arrive at Cypresswood by 8:00 am to register, eat donuts and hit some balls on the range.    Shotgun start is at  9am.  Golfers probably should wear colored shirts and kacki or docker type pants or shorts.    Lunch will be provided by Eatzies.  Please make sure you check with the registration booth after completing your game, to see if you have won a raffle item.
+If you have not sent in your registration form and payment by Oct. 1st, you will not be allowed to participate.
+Attached below are the directions to Cypresswood Golf Course.  See you on the Green!
+Please read all the below comments.
+You may get the call.  If you need all the units to run tell them to run all the units.  Let me know by voice mail or e:mail if 
+this happens.
+Thanks DS
+Randy:  I'm the one for PHFFU issues, and I'll let Dennis volunteer someone for Facility Planning.  The general PHFFU rule is:  if you need it, call Darrell.  We can do the accounting (PHFFU to in-service) after-the-fact if you need to run it.  Call or write any time.  Steve
+FYI	Who do we need to talk to about a future plan regarding volumes through P-3 and the HP that needs to be available?   See note below.
+Team Pampa
+09/26/2001 03:08 PM
+Randy
+Our thruput this week at P-3 has been 200mmcf/day. We are running #5 and we have 2,3 and 4 shut down.  #5 is able to move 200mm, but if we lose #5 for whatever reason, 2,3, and 4 together would not be able to make the 200mm order.
+P-2 cannot help us with suction pressure because of the pressure restrictions on the 24" at Canyon, and #1 is in PHFFU and I'm told needs a Major OH if we did take it out of PHFFU If the 200mm orders continue we may need to take #1 out of PHFFU and have it repaired Jerry D
+New Transwestern Commercial account distributions 
+Just in case you receive a call from either JB or David.  They were called yesterday and I spoke with Neal and let them
+know they were going short again after we cleaned up their current imbalance over last weekend and Monday They were short for Wednesday's gas day.  My conversation was with Neal that they make adjustments to their nominated 
+volumes or turn on more gas.  It does not appear they did either one.  I will call them this morning and let them know that 
+they have until ID-1 to turn on more gas or cut their noms or TW will be cutting their market for ID-1.  Maybe this is a 
+good opportunity to discuss park and ride again.  TW covered 7,000 mmbtu/d of Markets according to the scada numbers
+that we see.
+Let me know if you agree.
+Thanks Ds 
+This will be for approximately 8 hrs.
+ds
+We are still planning to take Gallup down on Saturday to inspect the rotor for signs of over heating.
+Hope this is still OK
+Thanks
+Todd
+Jeff will be calling you before they do anything.
+ds
+On October 9th  and 10th, we will be doing the harmonic testing at Bloomfield and Bisti. If you have any questions, please give me a call.
+Jeff
+Mike can you and Danny get with either Gary or myself to get access to change capacities for the MOPS system in 
+NNG Contract Management System. (CAS)  We will show you where and how to do that.
+You will also need to post outages to the NNG Web Site.
+Thanks DS
+FYI
+ds
+All,
+This is what we will be looking for on Saturday.
+Matt,
+I ordered the BNC adapters for the Entronic cards yesterday.
+Thanks, Korey 
+Right now guys we will do our best to keep the station on line however we can't predict what flows will be.  If we don't have 
+the volumes we can't do it.
+The gas prices so far for Oct. look higher going to Cal. border.  We will have to see if we have the volumes next week to 
+run the pigs.  Sure would have been nice to have run pigs this week everyone could see that flows were up and we should
+have taken advantage of this.  Again, we will take a look at all scenario's next week 
+Thanks DS
+fyi - Also we have scheduled an emission test on #5 Trubine at P3, so it is critical we keep the station on line thru Monday.
+Thanks and have a good weekend.
+ww
+Team Pampa
+09/28/2001 02:03 PM
+We have scheduled a pig run next week, should receive on thursday
+Jerry D
+Dear (INSERT NAME HERE)
+I have a small favor to ask. I have friends who are camping their way
+around the States and Canada. They have asked me if I know where they
+might be able to go without spending large amounts of money. I said I
+would
+try my friends and family for accommodations.  They travel light and
+bring all
+their own camping gear, and only require a small place to set up. I have
+already given them your name and address anyway in anticipation that you
+won't mind. I have enclosed a picture to help identify them if they turn
+up. They may bring the green Mercedes or the white one - sometimes they use
+both.
+Thanks in advance.
+Jim
+(See attached file: VisitingFriendsKB_1.jpg)
+(See attached file: VisitingFriendsKB_1.jpg)
+- VisitingFriendsKB_1.jpg 
+This is the one taken by a tourist on top world trade center
+Unbelievable!!
+Orlando A.  Alvarez
+BP Energy, North America Gas &  Power 
+Vice President, Eastern  U.S.
+(Office) (281) 366 - 4996
+(Fax)     (281) 366  - 4929
+(Cell)    (281) 380 -  0407
+alvareoa@ bp.com
+This picture was taken by a tourist atop the World Trade Center.  His camera was found in the rubble, he has not yet been found [IMAGE]
+- ATT209678.jpg 
+Please see the attached.
+I'm afraid its true its true.  Thanks for the laugh!  on a more serious note fyi these meters are supposed to be tested
+every 5 yrs. and they have never been tested or cleaned.  That scares me a bit.  Things just might not go back to-
+gether like it came aprart, but we shall seeeeeeeeee 
+DS
+No way...Geesh Ha-Ha,
+Bev
+Please see the attached.
+I certainly agree.  This should be fine.  Let me know.
+DS
+I would like to set up a conference call for Monday the 8th to discuss this. Let me know if you will be available around 09:30 am CST and I'll set it up. If I have left anyone off the list let me know. 
+Thanks
+RJ
+Gary would you please respond to their question as it is our concern as well.
+ds
+Rich / Rick,
+Operations & the Gas Controllers didn't know about this till yesterday, when alarms started to appear in Houston.
+I'm not sure what is expected from operations. In the last paragraph of Gary's letter, he indicates shutting down
+for 30 minutes, 7 times a month. Is that what he is saying? Let us know what you find out.
+Thanks,
+Korey
+We have added some point to the Scada database that are provided to us
+by Gary Choquette's Peak Power Predictor.  His message below describes
+their function better than I would.
+I've listed the points below with their descriptions, alarm value(s) and
+comment.
+Although these points are listed with the other Analog/Discrete points,
+they are not coming from the field RTU.  They will act like normal
+points so it's easy to put them together.  For those using the intranet
+"Adhoc" reports, they will show up on that.  The key is that the
+Discretes that we receive from Gary all end in ".CC" and the Analogs end
+in ".SC".  We also try to include the (CLC) in the description to depict
+that the information is coming from the Closed Loop Control Systems.
+Register	Description				Alarm Value
+Gary's Comments
+GALP.1901.CC	Tri-State Data Old - site Unavail (CLC)	0 = Normal, 1 Alarm 		(can not retrieve data from Tri-States site)
+GALP.1902.CC	Tri-State Calc Off-Line / Data Error (CLC) 	0 Normal, 1 = Alarm 		(utility is off-line or error in the
+data)
+GALP.1903.CC 	Tri-State Power Peak In Progress (CLC)	0 = Normal, 1 Peak 		(a power peak is currently in progress)
+GALP.7901.SC	Probability % Today is Peak (CLC)     HI = 95  HIHI = 96
+A number between 0 and 100 indicating that today is likely to be a power
+peak day.
+GALP.7902.SC  Probability % Now is Peak (CLC)       HI = 95  HIHI = 96
+A number between 0 and 100 indicating that a power peak is active now.
+GALP.7903.SC	Peak Time (hour.min) (CLC)
+Please let me know if you have any questions,
+Thanks,
+Angela Sayegh
+713-853-5021
+no.  Let me try and catch up with Rich.'
+DS
+Darrell - Did you ever find out what we have on the Atoka points regarding sulfur monitor?
+Lorraine after looking over what volumes we'll be receiving we'll be needing a total sulphur instrument at this location. I understand NGPL has one at the Indian Basin Plant which is an Old Barton Recorder type. These type of instruments will not pick up all the sulphur we're experiencing out of the field in that area. We have instruments that will pick up butyl sulphur along with many others that most other companies equipment can't read at this time. We're also experiencing large amounts of butyl which is a major problem for us in the Atoka field. By receiving this into our system we're having to batch or inject corrosion inhibitor's in our pipelines for protection. This is a cost to operations that we need to get a handle on. Thanks for your help in this matter
+RJ
+Rich Jolly
+10/02/2001 11:07 AM
+Perry I agree with Arnie and the team. In order to keep our pipelines in good shape we need to know what we are receiving, especially from these larger delivery points. It seems like every time we agree to something different than what we require operations has to go back to marketing for dollars or put in equipment to correct the situation. We're trying to cover all bases up front so this doesn't happen in the future.
+Thanks
+RJ
+Perry,
+The Artesia Team and I still have concerns about having no total sulfur monitor at the location.  We are already taking gas that has high total sulfur at Atoka 2.  Since we have started using sulfur instruments that pick up Butyl Sulfur, we are almost always over .75 grains at Atoka 2 into the West Texas lateral.  The instruments that NGPL uses at the Indian Basin plant may not see Butyl Sulfurs.  If this it the case, we may have the same problem that we have at Atoka 2.  If we don't have enough other inputs to blend the gas, this can become a quality problem for deliveries at other locations. 
+Since this is a 50mmcfd input to our system, I sure think we need the protection.
+Thanks,  Arnie
+Laura & Earl:
+Planning and Gas Control can accept control valve operation by NGPL, which is included in the current drawings.  The installation of 2 control would give us problems with them fighting each other.  We have an OBA with NGPL, and we will monitor their future compliance to volume requirements.   We might have to address in this in the future if the fail to comply, but for now we're okay.
+NGPL has basically the same tariff as TW and they feel protected from total sulfur at the tailgate of the Indian Basin Plant.  The Delmar H2S at the NGPL/TW point  will protect us both from H2S.  We may want to grab a sample from the IB plant to baseline the current sulfur content and verify accuracy.  Darrell and myself are comfortable with the current plans, to not install total sulfur at our interconnect with NGPl.  The cost of this new instrument is around $40,000 and I don't believe either company has plans to replace,  NGPL total sulfur instrument.
+Arnie and Terry, please review and let us know if Operations can comply with our findings.  I am sure this can be resolve to our mutual agreement 
+PTF  713-853-0667
+Here are the meeting notes.  ljk
+    - mtg notes on NGP Eddy IC.doc  
+Gas Control Members.
+I have not been able to verify if these gas controllers will come.  However here is the list.
+I will check with them as they are on and let you know.
+Helen Cummings
+Rob Munson
+Jesse Alvarado
+Jeff Moore
+Gayle Henley 
+Bart Mondon
+Thanks DS 
+The attached is the most recent list of operators and numbers.
+Please foward to your Team.
+ds
+This is what Ken sent for gas consumption during the pressure loss.
+Below is Griffith plant gas consumption data for yesterday 9/3/01.
+You can see that from the time of loss of gas pressure, HE 8:00, we did not
+recover until HE 14:00.
+This of course extended our test schedule which required even more gas for
+the day.
+Note: Duct Burner #2 instrumentation is defective, otherwise the data is
+OK.
+(Embedded image moved to file: pic19169.pcx)
+- pic19169.pcx 
+- SUNFLOWER - NNG - HOURLY.xls 
+I did not send one first thing this morning, however I did give the map to Michelle in the morning.  I told her I did not
+fax one down this morning.  Sorry Steve didn't get his copy seems I can't win either way.  He will get one from someone.
+DS
+Darrell, we did not receive the gas day map this morning via fax.
+Would you please make the necessary arrangements to have this document faxed to Steve every morning.  It is essential that we receive this on a regular basis.
+Thanks in advance for your assistance,
+adr
+Audrey D. Robertson
+Transwestern Pipeline Company 
+email address:  audrey.robertson@
+(713) 853-5849
+(713) 646-2551 Fax
+We have been under burning at the Great Lakes - Carlton Interconnect for the past few days.   Gas Control was seeing what appeared to be a good flow rate but due to a calibration error between our Seimens Controller at Carlton and the Great Lakes computer we have actually been under burning.    The Control Tech - Roger Salmi - is performing a calibration now and we should be sync'd up with Great Lakes this afternoon.
+I have passed this to Gas Control and they will make the necessary adjustments to correct the imbalance once Roger has completed the calibration.
+Tks - Mike W. - NNG Measurement Desk - 713-853-7742
+I do thank you for everything you do for the Logistics team.  We will get you what you need in a more timely manner.
+Today I was running at a fast pace with TW, NNG, systems.
+Again thank you.
+DS
+Darrell, you can win!!!  We did receive it when Michelle got back from the morning meeting, but I am responsible for getting it to him first thing when he get's in.   I make sure that he gets what he needs and if that means getting on you, I will do so.....(smile 
+I  heard that Jan Moore can access this map so I will make arrangments with her to get it to him as well, maybe as a backup.
+We enjoyed you guys today and thanks for coming to our outing 
+adr
+Audrey D. Robertson
+Transwestern Pipeline Company 
+email address:  audrey.robertson@
+(713) 853-5849
+(713) 646-2551 Fax
+I did not send one first thing this morning, however I did give the map to Michelle in the morning.  I told her I did not
+fax one down this morning.  Sorry Steve didn't get his copy seems I can't win either way.  He will get one from someone.
+DS
+Darrell, we did not receive the gas day map this morning via fax.
+Would you please make the necessary arrangements to have this document faxed to Steve every morning.  It is essential that we receive this on a regular basis.
+Thanks in advance for your assistance,
+adr
+Audrey D. Robertson
+Transwestern Pipeline Company 
+email address:  audrey.robertson@
+(713) 853-5849
+(713) 646-2551 Fax
+TW
+Socal Window               (Actual)      (Projected Saturday                       688
+Sunday                         709
+Monday                                              728
+California Del.
+Saturday                       947
+Sunday                         960
+Monday                                              964
+San Juan Del. 
+Saturday                       870
+Sunday                         871
+Monday                                              874
+East Del.
+Saturday                      430
+Sunday                        445
+Monday                                              351
+No major problems for the weekend.
+NNG
+Temps.
+Saturday                       39
+Sunday                         43
+Monday                                                53
+System Load Saturday                     1959
+Sunday                       1800
+Monday                                             1675
+Line Pack
+Saturday                     3318
+Sunday                       3400
+Monday                                              3400
+No major problems for the weekend. 
+- Southpoint Gas Model.xls 
+Ron from NNG Gas Control called around 7:00 pm.m informing me that ElPaso has a turbine down creating high pressure, NNG can't deliver the gas at Waha. I confirmed the gas to 0 for the next cycle (eve cycle) in ElPaso. but did not cut any for gas day 10/8/01. The gas for tomorrow is sourcing from Altura so please contact them in the A.M. and let them know the shipper was cut ot zero. Gas Control was able to deliver gas yesterday because the pressure wasn't as high as it is now. Evidently this outage started on the 7th and is scheduled to last through the 12th. NNG probably shouldn't allow nominations at Waha until the outage is completed. 
+NGTS contract 107848 was the only Shipper nominated for tomorrows gas day. EPNG will try to get the pressure down to allow us to flow to them, but won't know that until later, or tomorrow. 
+(Reliant has a nom on NNG side, but not in ElPaso' system)
+Also, Darrell (the allocatin' dude) decided to allocate Linam Ranch (ID2 cycle) down to 100,000 because they were not making rate since last Friday. In cutting the Linam Ranch Point the Hobbs system Group was not allocated on the ID2 cycle. 
+so far my first night back has been rather exicting!!
+There is volume flowing to the plant.  The team is trying to get the Scada back in service.  Will keep you updated.
+Thanks DS
+looks that way but Darrell is inquiring to double check - there is a possibility that the volumes are not coming into SCADA Darrell will let us know 
+There continues to be a need for volumes scheduled as a delivery because this feeds a receipt to California.  As of 10/9, contract #26813 has deliveries of 28,098 and contract #27583 has receipts of 8,709.  Are you also telling me that North Star Steel is not burning anything 
+Why is there currently a nom for delivery to North Star Steele.  It doesn't look like they have taken gas from us in a while since 10/1
+or have they 
+Jason:
+As we talked last week Cannon Interest Houston has called and indicated that they would like to extend the current Base Load Buy / Sell Contract and also their Bammel Storage Contract.  I will be faxing to you this afternoon the existing Contract's that I have marked through with the changes.  A brief summary is as follows:
+The Buy / Sell Contract is where Cannon Interest Houston delivers gas to HPL June - October and receives gas from HPL November - February.
+The purchase price June - October is Houston Ship Channel Index.  The sales price November - February is the June - October Houston Ship Channel 	WACOG plus $.21.  The Term currently goes through February, 2005.  Cannon Interest Houston has proposed that the term be extended through 		February, 2011 and that the sales price November - February of each year be the June - October Houston Ship Channel Index plus $.17.
+The Bammel Storage Contract currently has a term through February 28, 2005.  Cannon Interest Houston would like to extend the term through February 	28, 2011 at a Storage fee of $400,000 per year 
+The individual at Cannon Interest Houston that you need to call if you have any questions is Patrick Locke.  His telephone number is 713-706-4318.  If you have trouble reaching him it may be easier to call his cell phone which is 713-817-5388 
+I would appreciate it if you would call so we can discuss once you have had time to review.  713-853-7705
+Jim Schwieger
+Sarah Palmer
+04/02/2001 04:26 PM
+Jim, I believe you forgot to attach your revised document.  Thanks for your kind comments.
+Jim Schwieger
+04/02/2001 03:10 PM
+Sarah:
+I think you have done a great job on the article.  I know the Weather Group will appreciate the comments.  I did make a few changes and saved them as the same document with a "_Schwieger" behind it.  I have no pride of ownership and Im not a writer so do with it as you see fit!
+Thanks,   Jim Schwieger
+Sarah Palmer
+04/02/2001 02:45 PM
+OK, here's an initial draft of your Enron Business article.  Please review and return your comments to me as soon as possible.  The deadline for changes is noon on Wednesday.
+Mike: please be sure that everyone quoted has a chance to review their quote.  Also, one more question: who is the female in the photo shoot -- you just told me there were no female meteorologists!
+Thanks, guys, for taking the time to meet with me.  I enjoyed writing this one.
+Warm Sarah.
+x39843
+For the first time in 22 years of service for Enron I'm ashamed to admit that I work for Enron!  I have lost all respect for Enron Senior Management and agree with the Financial Analyst when they say that Enron Senior Management can not be trusted.  Ethics and Morals are either something everyone else needs to have except Senior Management or somewhere along the way Senior Management started believing the end justifies the means.  The communication the Employee's have received over the last few years about values such as Respect, Integrity, Communication and excellence must be propaganda intended to get Employee's to believe Senior Management really supported these values so that no one would really notice that their actions represented something just the opposite.
+I can not believe that Senior Management lacks the understanding of human nature to totally ignore the fact that if someone does not trust what you have said in the past you should not try and conceal pertinent information in the future.  Then to allow an Enron Spokesperson to speak for Enron with the statement "It's just a balance-sheet issue"  implies to me that this individual does not know what a Balance Sheet or Income Statement is and certainly should not be speaking to the public.  If you are going to play the game of lying, cheating and stealing at least be intelligent enough to present a plausible story.  To use phrases such as it was a hedge against fluctuating values in some of Enron's broadband telecommunications and other technology investments is a complete insult to my intelligence and to the definition of the word "HEDGE".  A hedge by definition implies that the upside and downside exposure has been limited.  It frightens me that we are out asking customers to let Enron help them "HEDGE" their risk when I'm not sure Enron's Senior Management understands what a hedge means?
+I'm also confused as to the personal financial involvement of Andy Fastow in the investment vehicle that generated this write down.  I must be confused in that as a Trader Enron has asked me to sign documents declaring that I will not have any personal financial involvement in anything involving the Natural Gas Business.  This must be an example of as my father used to say " do as I say not as I do"? I guess we need to have audits performed of Senior Managements financial interest to insure their actions are as good as their word?
+The fact that Senior Management and the ENE Board of Directors knew these transactions were being used to manipulate earnings and the stock price and took advantage of that knowledge to sell their ENE stock options in my opinion is "CRIMINAL".  It provides me no comfort to know that the biggest perpetrators of this fraud have left Enron in recent months.  These individuals have stolen billions of dollars from ENE stockholders and Employees and need to pay the price for such fraudulent activity.  They are set for life, having all the money they could ever need, while Employees and Stockholders have lost their life savings.  You have completely failed at the job you were hired to perform.  If this type of activity would have occurred farther down the organization no one would hesitate to fire the individuals involved and to institute criminal charges.  =20
+I for one can not wait until the All Employee meeting next week.  I do not think anyone wants to hear about third quarter results because how could we trust what is said anyway.  Instead I feel you owe the ENE Employee's a thorough explanation of how you failed to perform your responsibilities, what actions are going to be taken and most of all apologize for the job performance to date.=20
+Pretty neat!
+thank you for your time,
+Yadira Salazar
+EXXONMOBIL Global Services Company
+GIS/IFS/Computer Engineering and Technical Services/Planning and Controls
+713-656-5423
+FB1806
+ > Check it out.
+ > People in New York and DC are going to be having to hit food banks
+hard.
+ > There will be a need in NY for the soup. Below is an easy way to
+ help  > > Campbell's is donating a can of soup to area food banks just by
+clicking
+ on
+ > a football helmet at their website. It's quick, easy, and can be done
+ once
+ a
+ > day.
+ > Go to (  then click on your
+ favorite
+ > team's helmet and Campbell will donated a can of soup. That is it!
+ Please
+ > pass this to a friend or 2,3,4  >

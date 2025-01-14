@@ -1,0 +1,127 @@
+Charlie,
+Here is the Stagecoach contract that I promised you.  Let me know if you have any questions.
+,
+John
+John,
+Based on yesterday's (5/9/01) curves, and applying spreads from our previous quotes, the new updated notionl bid is $4.51/MMBTU.  Let me know if you need any more assistnace.
+Thanks,
+Charlie
+HHV is not the proper terminology, Gross Heat of Combustion is. The following is for Light diesel. First number is min, second is max. Jet fuel should be in the same ballpark as Light Diesel. Gross Heat of Combustion is about 6.4% higher than Net Heat of Combustion (incorrectly referred to as LHV), so divide the Gross numbers by 1.064 to obtain Net numbers. 
+Gross Heat of Combustion, Kcal/Kg	D-240 or D-4868	10,820	10,966	
+Gross Heat of Combustion, BTU/Lbs	D-240 or D-4868	19,520	19,780	
+Marc
+Could you forward this info to Charlie? Copy me.
+Doug,
+Thanks for the info.  I have passed it along.
+I have one more question regarding heating values.  Do you know what the LHV and HHV values are for #2 and jet fuel?  I figure those are parameters that are measured and known but they weren't on the spec sheet 
+Thanks,
+Charlie
+Here's another good article:
+Doug,
+Thanks for the info.  I have passed it along.
+I have one more question regarding heating values.  Do you know what the LHV and HHV values are for #2 and jet fuel?  I figure those are parameters that are measured and known but they weren't on the spec sheet 
+Thanks,
+Charlie
+Mike,
+I noticed that your name was not on the distribution list for these exchanges so I am forwarding them to you to catch you up.  I have faxed the #2 Diesel Fuel specs along with those for jet fuel to Matt Tezyk who has been coordinating the effort to consolidate the spec.  He said he would share these with all the riight parties so the decision can be made as to whether we decide to take regular low-sulphur #2, jet fuel, or pursue some other path.
+Please let me know if you have any questions.
+Thanks,
+Charlie Weldon
+Yesterday I faxed a copy of Colonial Pipeline's specifications for fungible low sulfur diesel fuel (74 grade) to Mark Breese. That spec sheet is indicative of the specs for low sulfur diesel in Florida. It must be remembered that Florida has no refineries nor product pipelines and receives their fuel via barges and vessels from domestic and international refineries and terminals. Will forward Colonial jet fuel (54 grade) specs. 
+Doug,
+Attached is the (long-awaited) spec for the 200K gallons of low-sulphur #2 Fuel Oil to partially refill the tank at the Ft. Pierce facility in Florida.
+As the attached note describes, the final spec is a result of the combined spec requirements by the environmental permit, MHI (Mitsubishi), and Engineering.
+We currently believe that some of these specs may be more stringent than what is commercially available.  In the event that some of these specs are too stringent, we would like you to: 1) identify which specs are not reasonably attainable, and 2) suggest what value of these specs are attainable.   Your feedback will be shared with the appropriate parties and, assuming there are spec change recommendations, these parties will determine how best to proceed 
+Please note that the first attached note requests than any bids we get contain info on density, heating value, and trace contaminants.  Additionally, the second attached note references getting multiple bids for different specs.  I suggest that, for now, we resolve the spec issue internally as described above and then we obtain quotes.   If you have any other suggestions on how best to proceed, your input is welcome.
+Your assistance in this matter is, and has been, greatly appreciated.
+Thanks,
+Charlie Weldon
+Matthew Tezyk@_DEVELOPMENT
+05/09/2001 01:56 PM
+Charles,
+Attached below is the fuel oil specification.  Our Engineering group has reviewed all Vendor and Air Permit requirements, and the sheet labeled "Fuel Oil Spec" is the fuel oil specification.  The sheet labeled "Comparison Specs" is the other data you requested for comparison.  When using the fuel oil specification to purchase fuel, please have the vendors provide the following information:
+Density at reference temperature
+Heating Values at reference temperature
+Maximum trace contaminant limits:
+chromium
+arsenic
+siloxenes
+copper corrosivity
+cetane index
+cetane number
+Thank you,
+Matt
+Ray McPhail
+05/09/2001 09:37 AM
+Matt-
+I talked with Bill Fox and Doug Ottens concerning the fuel spec.  In order for MHI to meet the particulate emissions, we must provide a fuel oil with no ash.  Additionally, vanadium is a catalyst poison, so to meet the CMI needs, I reduced the vanadium.
+I am attaching a revised fuel oil spec matrix, which has four fuel specs included.  The first column meets the minimum requirements of MHI & CMI.  The second column holds the ash at the low value, but allows the vanadium to increase.  The third column holds the low vanadium value, but allows the ash to increase.  The last column allow both the ash and vanadium to increase.
+ENA will need to get bids for column 1 and may want to solicit bids for column 2, 3, & 4 for economic comparison purposes.
+Ray
+Matt,
+Thank you very much for the info.  I have forwarded the specs on to Doug Leach who will be responsible for ordering the fuel oil.  I asked him to identify any spec parameters that are not readily attainable with commercially available #2 Fuel Oil.  For example, I'm fairly certain that 0.0% ash is not normally available.  I have also asked him  to provide information on what grades of fuel oil are available that we should consider.   I will forward any feedback that I receive from Doug to you so we can then have the team determine how best to proceed from that point.
+Thanks again for all your help.
+Charlie
+Matthew Tezyk@_DEVELOPMENT
+05/09/2001 01:56 PM
+Charles,
+Attached below is the fuel oil specification.  Our Engineering group has reviewed all Vendor and Air Permit requirements, and the sheet labeled "Fuel Oil Spec" is the fuel oil specification.  The sheet labeled "Comparison Specs" is the other data you requested for comparison.  When using the fuel oil specification to purchase fuel, please have the vendors provide the following information:
+Density at reference temperature
+Heating Values at reference temperature
+Maximum trace contaminant limits:
+chromium
+arsenic
+siloxenes
+copper corrosivity
+cetane index
+cetane number
+Thank you,
+Matt
+Ray McPhail
+05/09/2001 09:37 AM
+Matt-
+I talked with Bill Fox and Doug Ottens concerning the fuel spec.  In order for MHI to meet the particulate emissions, we must provide a fuel oil with no ash.  Additionally, vanadium is a catalyst poison, so to meet the CMI needs, I reduced the vanadium.
+I am attaching a revised fuel oil spec matrix, which has four fuel specs included.  The first column meets the minimum requirements of MHI & CMI.  The second column holds the ash at the low value, but allows the vanadium to increase.  The third column holds the low vanadium value, but allows the ash to increase.  The last column allow both the ash and vanadium to increase.
+ENA will need to get bids for column 1 and may want to solicit bids for column 2, 3, & 4 for economic comparison purposes.
+Ray
+Doug,
+Attached is the (long-awaited) spec for the 200K gallons of low-sulphur #2 Fuel Oil to partially refill the tank at the Ft. Pierce facility in Florida.
+As the attached note describes, the final spec is a result of the combined spec requirements by the environmental permit, MHI (Mitsubishi), and Engineering.
+We currently believe that some of these specs may be more stringent than what is commercially available.  In the event that some of these specs are too stringent, we would like you to: 1) identify which specs are not reasonably attainable, and 2) suggest what value of these specs are attainable.   Your feedback will be shared with the appropriate parties and, assuming there are spec change recommendations, these parties will determine how best to proceed 
+Please note that the first attached note requests than any bids we get contain info on density, heating value, and trace contaminants.  Additionally, the second attached note references getting multiple bids for different specs.  I suggest that, for now, we resolve the spec issue internally as described above and then we obtain quotes.   If you have any other suggestions on how best to proceed, your input is welcome.
+Your assistance in this matter is, and has been, greatly appreciated.
+Thanks,
+Charlie Weldon
+Matthew Tezyk@_DEVELOPMENT
+05/09/2001 01:56 PM
+Charles,
+Attached below is the fuel oil specification.  Our Engineering group has reviewed all Vendor and Air Permit requirements, and the sheet labeled "Fuel Oil Spec" is the fuel oil specification.  The sheet labeled "Comparison Specs" is the other data you requested for comparison.  When using the fuel oil specification to purchase fuel, please have the vendors provide the following information:
+Density at reference temperature
+Heating Values at reference temperature
+Maximum trace contaminant limits:
+chromium
+arsenic
+siloxenes
+copper corrosivity
+cetane index
+cetane number
+Thank you,
+Matt
+Ray McPhail
+05/09/2001 09:37 AM
+Matt-
+I talked with Bill Fox and Doug Ottens concerning the fuel spec.  In order for MHI to meet the particulate emissions, we must provide a fuel oil with no ash.  Additionally, vanadium is a catalyst poison, so to meet the CMI needs, I reduced the vanadium.
+I am attaching a revised fuel oil spec matrix, which has four fuel specs included.  The first column meets the minimum requirements of MHI & CMI.  The second column holds the ash at the low value, but allows the vanadium to increase.  The third column holds the low vanadium value, but allows the ash to increase.  The last column allow both the ash and vanadium to increase.
+ENA will need to get bids for column 1 and may want to solicit bids for column 2, 3, & 4 for economic comparison purposes.
+Ray
+Soma,
+Per your request, I've calculated a Houston Area notional swap price for 6/01 through 12/04.  I used  the IF-Katy mid curve as of today's close and have not adjusted for any injection or withdrawal charges that may need to be accounted for in your analysis.  If you need any further help, please let me know.
+Thanks,
+Charlie Weldon
+Sent by:	Enron Announcements@
+Version 2.0 of the ClickAtHome Portal is now available 	Log into www.clickathome.net now, from work or home!
+Access the PEP System through the portal 	Choose your reviewers and fill out your evaluations in the comfort and privacy of your home!
+Outlook Web Access and eHRonline will be available SOON 
+The ClickAtHome portal is fully customizable for you 	YOU choose the content on each page, as well as the look and feel! 
+Note: the ClickAtHome portal must be launched through an Internet Explorer browser, 5.0 or higher.
+ Double-click on attachment to see image not so blown-up.

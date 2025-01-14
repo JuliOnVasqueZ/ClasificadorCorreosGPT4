@@ -1,0 +1,209 @@
+I'm having a little online brain drain today...am I correct in my thinking 
+that all these "spreads" are financial 
+Can you provide Stephanie Sever with the Online team view access to the 
+referenced database.  Can you let us know when the access has been granted Thanks!
+This list is all amended counterparties, most of them being opened up for 
+financial power.  My records reflect that all of them were already open for 
+financial products, except the three I have marked.  If you run across any 
+others that you show as not being open for financial, let me know, because 
+all of the counterparties on this list are ok for financial.
+Also, on this list, my records reflect that Superior Natural Gas Corporation 
+was shut down for physical power.  If you records do not reflect the same, 
+can you shut them down...thanks!
+Tana Jones
+09/19/2000 05:19 PM
+This list is all amended counterparties, most of them being opened up for 
+financial power.  My records reflect that all of them were already open for 
+financial products, except the three I have marked.  If you run across any 
+others that you show as not being open for financial, let me know, because 
+all of the counterparties on this list are ok for financial.
+I still haven't received that list you mentioned of counterparties in 
+bankruptcy or workout.  What's the scoop?
+I don't know about you, but I LOVE lists with only one counterparty to 
+approve, how about you 
+I have a database where I maintain my online approval, and my the basis for 
+my approvals/declines.  If you want to review counterparties we have 
+previously approved/disapproved and why, or want to go in and to see what I 
+approved on a specific counterparty, this would be the place to go.  Would 
+you like me to get you access?
+Well, I do believe this makes 450!  A nice round number if I do say so myself!
+Susan Bailey
+09/19/2000 05:30 PM
+We have received an executed Master Agreement:
+Type of Contract:  ISDA Master Agreement (Multicurrency-Cross Border)
+Effective Date:   September 8, 2000
+Counterparty:   Arizona Public Service Company
+Transactions Covered:  Approved for all products with the exception of: 
+Weather
+Foreign Exchange
+Pulp & Paper
+Special Note:  The Counterparty has three (3) Local Business Days after the 
+receipt of a Confirmation from ENA to accept or dispute the Confirmation Also, ENA is the Calculation Agent unless it should become a Defaulting 
+Party, in which case the Counterparty shall be the Calculation Agent.
+Susan S. Bailey
+At a ratio of 10:1, you should have your 4th one signed and have the fifth 
+one on the way 
+Marie Heard@MUNICATIONS
+09/19/2000 05:40 PM
+ONLY 450!  Why, I thought you guys hit 450 a long time ago.
+Marie Heard
+Senior Legal Specialist
+Enron Broadband Services
+Phone:  (713) 853-3907
+Fax:  (713) 646-8537
+Marie_Heard@.net
+Tana Jones@ECT
+09/19/00 05:34 PM
+Well, I do believe this makes 450!  A nice round number if I do say so myself!
+Susan Bailey
+09/19/2000 05:30 PM
+We have received an executed Master Agreement:
+Type of Contract:  ISDA Master Agreement (Multicurrency-Cross Border)
+Effective Date:   September 8, 2000
+Counterparty:   Arizona Public Service Company
+Transactions Covered:  Approved for all products with the exception of: 
+Weather
+Foreign Exchange
+Pulp & Paper
+Special Note:  The Counterparty has three (3) Local Business Days after the 
+receipt of a Confirmation from ENA to accept or dispute the Confirmation Also, ENA is the Calculation Agent unless it should become a Defaulting 
+Party, in which case the Counterparty shall be the Calculation Agent.
+Susan S. Bailey
+It seems like it should be more, but I have review over 1300 counterparties 
+for online trading.
+Straight and to the point!
+Brent Hendry@
+09/19/2000 06:00 PM
+See responses below.  Let me know if you have any other questions or concerns.
+Thanks,
+Brent
+David Forster
+09/19/2000 04:53 PM
+Do you mean we are now approved to use the North American forms of the 
+Electronic Trading Agreement and the Password Application for companies 
+located in Bermuda? Yes
+Does this approval apply to financial products only?  At this time, yes.
+Are there any other restrictions?  No.
+Thanks,
+Dave
+Brent Hendry
+09/19/2000 11:48 AM
+Bermuda has been approved as a jurisdiction for all financial products using 
+the ENA format of GTC with New York Law.
+Please let me know if you have any questions.
+We have received a proposed assignment from PPL Corporation to PPL Energy 
+Plus, LLC wherein they would like to assign their financial transactions 
+(two), any guaranty relating thereto (do we have one covering financial and any master agreement (we have no financial agreement with them).  Is this 
+OK with Credit?  I am having a copy of the assignment walked down to you.  If 
+someone else is going to approve this, let me know.
+I left Bill Ernstaft a message.  Hopefully I'll hear back from him after 
+lunch.
+Janelle Scheuer
+09/20/2000 10:33 AM
+Hi Tana....here's the latest add'l info.  Can we get on this right away, so 
+hopefully we can execute a transaction on Friday.  Thanks.
+Janelle:  My Law people tell me we'll want to use the "Multi-Currency, Cross
+Border" ISDA with the NYPA version of the Confirmation (that I sent to you).
+In addition, they want New York law to govern not Texas law.  Re the
+guaranty,  we want to send you our draft on that account for your review and
+will do so this PM. Can Enron accommodate all this? Thanks, MIKE.
+Hi Mike!
+A parent guaranty is no problem.  I'm attaching a copy, so you know what it
+looks like.
+We have a standard "long form" confirm ourselves, that is used until an
+ISDA is signed.  I attached a draft below so you could see it as well.
+We typically send these standard confirms to all our customers, so it may
+expedite things if NYPA doesn't have any aversion to this confirm.  What
+are your typical procedures? Would you accept our confirm, or should I go
+head and get our documentation people to get started looking over yours?
+Was the annual report on the web site sufficient, or would you like me to
+Fed-Ex one? Let me know what else can do.
+Janelle
+(See attached file: long form financial draft.doc)
+--
+(See attached file: ENRONCORPGUAR.doc)
+=09Sharon Crawford
+=0909/20/2000 12:38 PM
+=09=09=20
+Tana, Peter asked me to e-mail this to you:
+AECO =01&C=018 MONTHLY INDEX (Canadian)
+CONTRACT PRICE:=09The Contract Price, for each delivery Month, shall be a price in=20
+Canadian dollars per GJ equal to the AECO =01&C=018 Monthly Index, minus/plus Cdn.=20
+$____ per GJ, where:  =01&AECO =01&C=018 Monthly Index=018 means the price in Canadian=20
+dollars per GJ in the =01&Avg=018 column published in the table =01&Canadian Natural=20
+Gas Supply Prices=018, in the Canadian Gas Price Reporter, in the row for=20
+=01&Alberta-AECO =01&C=018 & NIT One-Month Spot=018, for the applicable delivery Month.
+=09NOTE:  Please insert appropriate =01&Seller=01,s Payment=018 if =01&minus=018 is used in=20
+Contract Price and if Customer is the Seller.  Do not insert =01&Seller=01,s=20
+Payment=018 if Enron Canada is Seller.
+Janelle Scheuer
+09/20/2000 10:33 AM
+Hi Tana....here's the latest add'l info.  Can we get on this right away, so 
+hopefully we can execute a transaction on Friday.  Thanks.
+Janelle:  My Law people tell me we'll want to use the "Multi-Currency, Cross
+Border" ISDA with the NYPA version of the Confirmation (that I sent to you).
+In addition, they want New York law to govern not Texas law.  Re the
+guaranty,  we want to send you our draft on that account for your review and
+will do so this PM. Can Enron accommodate all this? Thanks, MIKE.
+Hi Mike!
+A parent guaranty is no problem.  I'm attaching a copy, so you know what it
+looks like.
+We have a standard "long form" confirm ourselves, that is used until an
+ISDA is signed.  I attached a draft below so you could see it as well.
+We typically send these standard confirms to all our customers, so it may
+expedite things if NYPA doesn't have any aversion to this confirm.  What
+are your typical procedures? Would you accept our confirm, or should I go
+head and get our documentation people to get started looking over yours?
+Was the annual report on the web site sufficient, or would you like me to
+Fed-Ex one? Let me know what else can do.
+Janelle
+(See attached file: long form financial draft.doc)
+--
+(See attached file: ENRONCORPGUAR.doc)
+I have it, it is in the Swaps library.
+Janelle Scheuer
+09/19/2000 02:08 PM
+Tana... see below laywer is Bill Ernstafht (212) 468-6118
+I don't know of any such beginnings of an ISDA.  It may have been with the
+Fuel's Dept.  Sounds like your Doc person might do better with our
+Lawyer--Bill Ernstafht 212 468-6118.
+Yet another email Hi Mike!
+Our legal/documentations department tells me that we started putting
+together an ISDA with NYPA over a year ago, but never completed it.  What
+we need prior to any deals being executed is a legal opinion that contracts
+are enforcable and statutory authority (I suppose this is compliments of
+Orange County).  Can I have our documents person call you...or is someone
+else there more appropriate
+Janelle
+As usual, you are the best!
+Greg Johnston
+09/20/2000 03:09 PM
+Rick, could you please let me know how I need to set up the execution lines 
+on the two ISDA Master agreements for RBC and Bow Valley.  Does the bank 
+require two signature lines?  What is the wording you need for Bow Valley's 
+execution line (I assume it will be something like "Bow Valley Trust, by its 
+duly appointed Trustee, X"?
+Can you let me know as soon as possible so that I can have the standard forms 
+of the actual ISDA agreement and Credit Support Annex prepared for execution 
+tomorrow.  For logistics, can you also let me know whether the people who 
+will be executing the documents on behalf of RBC and Bow Valley in Calgary or 
+Toronto.
+Thanks
+Greg Johnston
+Bradley Diebner
+09/20/2000 03:53 PM
+The EOL approvals for 09/20/00 are attached below.
+,
+bd
+We have received the executed Assignment and Assumption Agreement dated as of 
+9/1/00 wherein Coral Energy Resources, L.P. assigned to Coral Energy Holding, 
+L.P. an "oops" EOL trade # 40063 it did under the wrong password.  A copy 
+will be sent to Jeff Sorenson.
+That job is with Bob Williams, the litigation attorney for our international 
+company.  Bob is a great guy, probably one of the funniest people I have ever 
+known.  It also might be a good job for you because he promoted his last 
+administrative assistant to paralegal.
+"Patti Young"  	09/20/2000 11:51 AM
+Thanks for writing back.  I could probably do the Saturday evening thing.  I
+will let you know soon.
+If you get a chance, check out Job No. 105738.  Know anything about it??

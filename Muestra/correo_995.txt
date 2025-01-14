@@ -1,0 +1,6 @@
+Accessing Presentation:
+ * Go to  
+ * Click on Conference Participant
+ * Enter Event Number:  x716835
+ * Enter the participant's Name, Company Name & E-mail address
+ * Click Continue to view the first slide of the presentation

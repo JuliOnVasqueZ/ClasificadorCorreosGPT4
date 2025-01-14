@@ -1,0 +1,897 @@
+Jinbaek Kim 
+NETWORK WORLD FUSION FOCUS: PHIL HOCHMUTH
+on LINUX
+Today's focus: Thinking outside the (server) box with Linux
+03/08/00
+Dear Wincenty Kaminski,
+Today's focus: Thinking outside the=20
+(server) box with Linux
+Welcome to the first Network World Fusion Focus newsletter on Linux in
+the enterprise. With the mountains of information available about Linux,
+it can be hard for network professionals to keep up with Linux news that
+is fresh and relevant to their jobs. Here each week, you will find Linux
+industry news, tips and examples of how Linux is being used in
+enterprise networks.  Jumping right in, this week=01,s topic will focus on
+how Linux can be used to turn an old PC into a network router.
+When people talk about a Linux box, what generally comes to mind is
+either a server or client machine running some distribution of Linux.
+One way for users to use Linux outside =01&the box=018 is with the Linux
+Router Project=01,s distribution of the operating system.
+The Linux Router Project (LRP) is a microdistribution of Linux (it fits
+on a 1.44M byte floppy) that can be used along with some extra hardware
+to turn a variety of low-end PCs into practical, useable network gear.
+Additionally, as with most Linux distributions, the software is free.
+A variety of different network devices can be put together using LRP.
+For instance, using just an Intel 486 PC with a floppy drive, 12M bytes
+of RAM and at least two network interface cards, LRP can be used to
+assemble a 10M bit/sec Ethernet router. For higher speeds, a Fast
+Ethernet router can be assembled with a simple Pentium 100 or higher,
+along with 16M bytes of RAM and 10/100M bit/sec network interface cards.
+LRP can also be configured as a secondary Domain Name System firewall, a
+Remote Authentication Dial-In User Service and a WAN router with DSU
+functionality. LRP routers support standard routing protocols, such as
+Routing Information Protocol and Open Shortest Path First. Advanced
+routing protocols are also supported, such as IPX for NetWare networks
+and Token Ring.
+Building a Linux router out of spare parts can be useful when setting up
+a testing environment that requires the simulation of live router
+traffic. It=01,s also more practical than disconnecting your live
+commercial routing equipment for use in testing purposes. LRP can also
+be put into a live production environment as a way to add extra routers
+to a network for a minimal cost.
+Because Linux routers can be built with standard PC components, the
+materials to build one are likely sitting in a storage room or back
+closet somewhere in your office. LRP is a completely free, open source
+operating system  so if you can program, you can add functions such as
+Multi-protocol Label Switching and load balancing to the router by
+writing customized code.
+If you are not a Linux hacker, odds are someone else has already written
+the code for these types of functions. Start at
+to find these kinds of modules. As with many free software products,
+your best source of support for LRP will be the Web. An extensive list
+of FAQs and tips on using LRP can be found at
+Since LRP is developed and distributed mostly by volunteers, download
+access to the software is not always very fast. The easiest way to get
+it is to log on to   which has a search engine
+for Linux documentation and free distributions. Type in =01&Linux Router=018
+in the search field, and it will let you choose what geographical region
+to download the LRP software and source code from for optimal speed. You
+can also try several of these mirror sites to download LRP:
+ftp://ftp.cpwright.com/linux-router/
+ftp://lrp.rutgers.edu/pub/linux/distributions/linux-router/
+ftp://sunsite.unc.edu/pub/Linux/distributions/linux-router/
+ftp://ftp.xtdnet.nl/pub/linux/linux-router/
+ftp://sunsite.ktu.lt/pub/linux/distributions/linux-router/
+ftp://mirror.aarnet.edu.au/pub/linux/linux-router/
+ftp://ftp.clear.net.nz/pub/linux-router/
+ftp://mailtrans.sote.hu/linuxrouter/
+ftp://ftp.di.fct.unl.pt/pub/linux/linux-router/
+ftp://ftp.wipol.uni-bonn.de/pub/mirror/ftp.linuxrouter
+To contact Phil Hochmuth:
+Subscription Services
+To subscribe or unsubscribe to any Network World e-mail newsletters,
+go to:
+To change your email address, go to:
+Subscription questions? Contact Customer Service by replying to this
+message.
+Other Questions/Comments
+Have editorial comments? Write Jeff Caruso, Newsletter Editor, at:
+For advertising information, write Jamie Kalbach, Account Executive,
+at: mailto:jkalbach@nww.com
+Network World Fusion is part of IDG.net, the IDG Online Network.
+IT All Starts Here:
+Shirley,
+No problem.
+Vince
+Shirley Crenshaw
+03/08/2000 03:56 PM
+Vince:
+I would like to take the following days as vacation:
+Wednesday, March 15th
+Friday, March 31st.
+Please let me know if this is ok with you.
+Thanks!
+Shirley
+Angie Collins
+03/08/2000 03:49 PM
+A video conference with the London office has been scheduled for:
+Date: Thursday, March 9
+Time: 8:00 a.m. - 9:00 a.m. (CST)
+Room: 30C1
+Thank you
+Angie
+Paige,
+In this case I shall ask Stinson and Zimin to talk to you next week.
+I am going to prepare and send you an  outline of a document
+we can produce on defining and testing hedging effectiveness.
+Vince
+I am in Portland.  Sorry I am traveling a bunch.
+By the way, thanks for all your attention and questions.  Your group was 
+great to work with 
+Thanks for the message. I am traveling on the days when you offer the class.
+Please, keep me in mind.
+Vince
+The MathWorks  Please respond to training@mathworks.com
+Dear Wincenty Kaminski,
+In response to your requests we have scheduled a week of training in
+Houston. Learn MATLAB, Simulink, and Stateflow as taught by our expert
+trainers.
+We have confirmed a time and place, now we just need your commitment
+to attend.  Please share this information with your collegues 
+Location :
+5555 San Felipe, Suite 1500
+Houston, TX 77056
+Dates :
+4/3, 4/4  MATLAB Training       $990.00
+4/4, 4/6  Simulink Training     $990.00
+4/7         Stateflow Training  $495.00
+How to sign up for a course :
+Use a Credit Card and sign up at our web store :
+or
+Fax your P.O. to 508-647-4468
+Contact Scott Wakefield if you have additional questions.
+Reserve your spot quickly !!!!  Only 12 spots are available and will fill
+quickly.
+Cancellation Policy
+Tuition is fully refundable if we receive written notification (via mail
+or email) of cancellation on or before 7 business days prior to class.
+Cancellations made less than 7 business days prior to class will be
+charged 25% of the class tuition fee. If you fail to show up to class
+without written notice, you will be charged for the full tuition. A
+substitute may be sent in your place to avoid a fee.
+I look forward to helping you attend this valuable training
+Scott Wakefield
+Territory Manager
+The MathWorks
+The MathWorks, Inc.
+Phone: (508) 647-7282
+VANTIVE: 275861
+6314
+Tracy,
+Confirming the meeting tomorrow, Thursday,  1:30p.m.
+Vince Kaminski
+$933  to Dean Witter
+Shirley,
+Please, enroll me in this course.
+Vince
+Chris Strickland  Dear Vince/Grant,
+It was good to meet and talk with you both this morning - very interesting.
+Here are the details of the course (actually there are two seperate
+courses, one on VaR) that I promised you.
+I   both again later in the month.
+.
+Chris.
+COURSE 1:   Energy Derivatives: Pricing and Risk Management
+Course Leaders: Dr Les Clewlow and Dr Chris Strickland
+Houston: 29-30 March 2000
+London:  3-4 April 2000
+Fee : STG 1950 / USD 2950
+This is an intermediate course aimed at the Energy professional who is
+familiar with energy derivative products but who requires the mathematical
+foundations of derivative pricing and an understanding of the pricing and
+risk management of energy derivatives.
+This course assumes that participants are familiar with standard basic
+option pricing theory (the Black-Scholes formula, Monte Carlo simulation,
+and the use of binomial trees for option pricing).
+The format for the course will follow our usual highly practical and
+successful style of alternate sessions of lectures and Excel based computer
+workshops. To facilitate intensive interaction, the course will be limited
+to a maximum of 15 participants so early booking is advisable.
+The Excel based computer workshops deal with oil and gas as well as
+electricity derivatives and contain detailed calculations for pricing and
+risk management. At the end of the 2 days, participants leave with a
+diskette containing answers to all the workshops as well as valuable code
+for pricing and simulation.
+Registration fee includes: pre-course reading, course materials, copies of
+relevant research materials, diskette with fully worked solutions to
+computer workshops, lunch and refreshments.  Additionally, each attendee
+will receive a free copy of Clewlow and Strickland's forthcoming book
+"Energy Derivatives: Pricing and Risk Management" which includes
+valuable contributions from Enron's Vince Kaminski and Grant Masson.
+Upon registration, participants will be sent a pack containing relevant
+pre-course reading.
+COURSE OUTLINE
+Day 1, AM : Introduction to Energy Derivatives Modelling
+Energy derivatives - structures and applications
+Fundamentals of modeling and pricing
+Analysing energy data
+Spot price behaviour
+Building forward curves - assessing available models
+The relationship between the spot price and forward curve dynamics
+Workshop : Analysing the properties of energy data - mean reversion,
+volatility structures, jumps
+Day 1, PM :Spot Price Models and Pricing by Simulation and Trees
+Review of spot price models
+The pros and cons of spot price models
+Pricing standard options, swaptions, caps, floors, and collars
+Simulation for spot price models
+Pricing exotic options (barriers, lookbacks, Asians, etc.)
+Building and using trees for energy derivatives
+Building trees consistent with the forward curve
+Pricing options in trees
+Workshop: Using Simulation and trinomial trees to price energy
+derivatives
+Day 2, AM : Forward Curve Based Models
+Forward curve dynamics and forward curve models
+The relationship to spot price dynamics
+Multi-factor forward Curve Models
+Volatility function interpretation and estimation
+Pricing standard energy options
+Pricing energy swaptions
+Pricing energy exotics using simulation
+Workshop : Using simulation to implement multi-factor models and price
+energy options
+Day 2, PM : Risk Management of Energy Derivatives
+Energy market risk and hedging
+Computing hedge sensitivities
+Determining the hedge instruments
+Hedging a energy derivatives book
+Value-at-Risk in energy markets - the pros and cons of the approaches
+Credit Risk in energy markets - issues and models
+Workshop: Hedging an energy portfolio
+Please feel free to e-mail us to register for this course and we will
+contact you regarding payment.
+Course Leaders: Dr Les Clewlow and Dr Chris Strickland
+Houston: 31 March 2000
+London:  5 April 2000
+Fee : STG 950 / USD 1950
+This is an intermediate course aimed at the Energy professional who is
+familiar with energy derivative products but who requires an understanding
+of the theory and calculation of Value at Risk for energy derivative
+portfolios.
+The format for the course will follow our usual highly practical and
+successful style of alternate sessions of lectures and Excel based computer
+workshops. To facilitate intensive interaction the course will be limited
+to a maximum of 15 participants so early booking is advisable.
+The Excel based computer workshops deal with oil and gas as well as
+electricity derivatives. At the end of the course participants leave with a
+diskette containing answers to all the workshops as well as valuable code
+for pricing and VaR calculations.
+Registration fee includes: pre-course reading, course materials, copies of
+relevant research materials, diskette with fully worked solutions to
+computer workshops, lunch and refreshments.  Additionally, each attendee
+will receive a free copy of Clewlow and Strickland's forthcoming book
+"Energy Derivatives: Pricing and Risk Management".
+Upon registration, participants will be sent a pack containing relevant
+pre-course reading.
+COURSE OUTLINE
+Day 1, AM : Understanding the VaR methodologies and issues
+What is VaR?
+Uses of VaR
+Types of VaR methodologies
+Implications of applying the RiskMetrics assumptions in energy markets
+Delta VaR, historical simulation
+Linear and Non Linear Instruments
+Workshop: Applying simple VaR methodologies in the energy market
+Day 1, PM : Calculation of Energy portfolio VaR using simulation
+Modelling the energy forward curve - single and multi-factor
+Modelling the joint behaviour of different energies simultaneously
+Calculation of covariances and correlations
+Incorporating jumps
+Detailed example VaR calculation for an energy portfolio
+Workshop: Simulating energy forward curves and calculation of VaR for an
+energy portfolio.
+Dr. Les Clewlow and Dr Chris Strickland hold Associate Research Positions
+at both the School of Finance and Economics, University of Technology,
+Sydney and the Financial Options Research Centre, University of Warwick,
+UK.  Together they have over 20 years combined experience in the financial
+and energy derivative markets and have published many articles in academic
+and trade journals.  They are the authors of the book "Implementing
+Derivatives Models" (Wiley, 1998) and editors of "Exotic Options: The State
+of the Art" (ITP, 1998). Their forthcoming book, "Energy Derivatives:
+Pricing and Risk Management," is due to be published during the second
+quarter 2000.  Currently, their interests are concentrated in the energy
+derivatives area, where they have developed a wide range of pricing tools
+for electricity options and other energy derivatives.
+Hi,
+I already sent a copy of this to some of you.
+If any one else is interested, attached is a file which contains 
+Financial Numerical Recipes in C 
+Happy Reading,
+Iris Mack 
+Ravi Thuraisingham@MUNICATIONS on 03/07/2000 11:28:07 AM
+FYI 
+Note that the person mentioned in the text below (Ming Lung Lee) is very 
+experienced in traditional traffic engineering work. He comes from MCI where 
+he was responsible for modeling traffic etc.  It  appears that Sycamore 
+finally got him.  One time they had lost him to Corvis (another optical 
+equipment company), I guess Sycamore went back to him with a better deal!  As 
+soon as this guy is available, I'll set up an all day technical meeting to 
+hash out what needs to be done as far as optimization algorithm development 
+is concerned.  I want to produce a technical requirement document to clearly 
+outline what needs to be done to support dynamic, optical-switched-circuits 
+based trading and streaming media applications, etc.  Having such an industry 
+expert help us will help 'justify' internally all the the effort on the 
+traffic analysis side that John Griebling has asked us to support.  Keep in 
+mind that even though he is an expert in the field, the field that we need to 
+play in has not develop yet. Even the emerging data based traffic (as opposed 
+to voice where blocking of traffic is allowed) analysis is an order of 
+magnitude more difficult (due to uncertain load), let alone trading such load 
+(which we are planning to do 
+Ravi.
+... Sycamore hired a guy per Griebling's request, to work with you on the
+design/planning piece of the business.  He will be contracted out to Enron
+for a period of 6 months initially.  He lives in SF but will be traveling to
+whereever you need him.  Jim, Griebling wanted us to set up a meeting
+between you guys for Wednesday morning, if you have time.  His name is Ming
+Lung Lee and he comes to us from MCI.  Let me know what works.
+Kristin.Bethurem@sycamorenet.com
+03/07/00 09:44 AM
+Hi Ravi.  Fair enough, we will make sure we keep you guys in the loop.  Let
+Barb/me know which items we can offload to you guys.
+First thing to be done is Barb will schedule a call between us and you all
+to gain a better understanding of a number we are trying to back into with
+the metro solutions (there are alot of options on our side and we need some
+guidelines).  I already talked to John about this this morning so we need to
+make some headway on that number.  Also, we are scheduled for a conference
+call Wednesday morning with Griebling to discuss where we are at with
+initial solutions for metro.  Would you like to join us?
+Thursday night, we have a dinner tentatively planned (talk with Griebling
+about who, where, etc.).  Friday we will be meeting all day at the Omni in
+Interlocken.
+Ravi and Jim, per my conversations with John, he is going to run point on
+the metro solutions.  Dorn is swamped with other activities.  As for the
+switching piece, we discussed our routing software on Monday and I think
+that is all we are going to do until Ahi is done then we will set up a
+meeting between our guys and the Ahi folks.  The expectation is that this
+meeting will occur in the next 30 days.
+Also, Sycamore hired a guy per Griebling's request, to work with you on the
+design/planning piece of the business.  He will be contracted out to Enron
+for a period of 6 months initially.  He lives in SF but will be traveling to
+whereever you need him.  Jim, Griebling wanted us to set up a meeting
+between you guys for Wednesday morning, if you have time.  His name is Ming
+Lung Lee and he comes to us from MCI.  Let me know what works.
+The best ways to reach me are my cell phone or text pager.  Cell is
+303-619-2485 and pager is 888-467-6167 -- you can send me a text message
+from either your pager (if you have a 2 way) or press 3 to get an operator.
+thanks, Kristin
+Hi Kristin, Jim and I will be in Broomfield, CO from tueday late ~ 10am
+until
+friday end of day.  We would appriciate being in the loop of any discussion
+that
+you may have with John and Dorn (provided that they can be shared with us).
+Both
+John and Dorn are very busy and you can help alleviate some of the
+congestion by
+send information directly to Jim & me.
+,
+Ravi.
+|        |          Kristin.Bethurem@sycam|
+|        |          orenet.com  |        |          03/05/00 04:34 PM   
+|
+Jim
+Thanks for the info.  We will walk through this information and I am sure we
+(Brett and Barb) will have some questions as we are modeling with our
+potential metro solutions.  When would you and Ravi be available for a
+conference call on Tuesday to discuss?
+Also, as far as a meeting, I am trying to recall what you are referencing.
+Is it in   to this or the switching piece?  Will you two be in Denver
+all week?  We have a call with Griebling tomorrow regarding our routing
+software, so I can talk with him about how he wants to handle this piece.
+Talk to you soon, Kristin
+Kristin
+Attached is the sanitized file promised.
+What is the status on next weeks meeting and more specifically, what is the
+location?
+Jim
+|
+JIM:
+As part of your vendor negotiation requirements.
+Andre F. Bourque
+Enron Broadband Services
+|
+RAVI:
+As per your request, the attached profiles have been sanitized of their
+sources.
+,
+Andre F. Bourque
+Enron Broadband Services
+(See attached file: Pooling Point Profiles.xls)
+Tony,
+Great. I look forward to visiting  you and your wife on April the 22nd.
+No dietary restrictions. 
+Vince
+Vince,
+April 22 is fine. Thanks for accepting the invitation. Do you have any 
+dietary restrictions or preferences? Please it is no trouble to tell us (my 
+wife would be doing the cooking but I can speak for her). Please let me know.
+Thank you,
+Tony.
+Vince J Kaminski@ECT
+03/07/00 10:00 AM
+Anthony,
+Thanks for the invitation. What about April 22? I have committed to different 
+speaking engagements, charities, off-sites etc. for all the Saturdays prior to
+this date.
+Vince
+Vince,
+I hope you are well. Sorry I have not been in touch but I have been swamped 
+trying to build my organization simultaneously as I endeavor to understand 
+EBS and navigate its political terrain. Quite interesting. I shall tell you 
+more later.
+My wife, Elisabeth and I would love to have you for dinner at our house any 
+Saturday at you convenience. Would please let me  know which Saturday would 
+be suitable? We are both looking forward to it so please let me know.
+Thanks,
+Tony
+Shirley,
+Please, add Gary Hickerson to the list.
+Vince
+Shirley Crenshaw
+03/07/2000 10:15 AM
+Hello.
+Vince Kaminski and the Research Group would like to bring Ms. Nurit Krausz
+to Houston for an exploratory interview.  She presently holds a post doctorate
+position in the Mathematics Department at the University of Texas.
+They have done a telephone interview with her and she is only available on
+Tuesdays and Thursdays,  Looking at everyone's schedule the first available
+date would be Tuesday, March 28.
+Would you please set this up with her.  I do not know whether she would want
+to drive or fly into Houston.  The interviewers would be:
+Vince Kaminski
+Stinson Gibner
+Zimin Lu
+Krishna Krishnarao
+Grant Masson
+Paulo Issler
+Vasant Shanbhogue
+Her resume is attached.
+Thanks!
+Shirley
+- RESUME.DOC
+Shirley,
+The file.
+Vince
+Anurag Saksena
+Managing Director, Enterprise Risk
+GMAC - RFC
+8400 Normandale Lake Blvd.
+Suite #600
+Minneapolis, Minnesota 55437
+Tel: (612) 857 - 6133 (o)
+Tel: (612) 943 - 8501 (h)
+10273 Antlers Ridge
+Eden Prairie, MN 55347
+ASaksen@rfc.com
+Anthony,
+Thanks for the invitation. What about April 22? I have committed to different 
+speaking engagements, charities, off-sites etc. for all the Saturdays prior to
+this date.
+Vince
+Vince,
+I hope you are well. Sorry I have not been in touch but I have been swamped 
+trying to build my organization simultaneously as I endeavor to understand 
+EBS and navigate its political terrain. Quite interesting. I shall tell you 
+more later.
+My wife, Elisabeth and I would love to have you for dinner at our house any 
+Saturday at you convenience. Would please let me  know which Saturday would 
+be suitable? We are both looking forward to it so please let me know.
+Thanks,
+Tony
+NETWORK WORLD FUSION FOCUS: JASON MESERVE on
+SECURITY AND BUG PATCH ALERT
+TODAY'S FOCUS: BUG ALERT: WELCOME
+03/06/00
+Dear Wincenty Kaminski,
+Today's Focus: Bug Alert: Welcome
+Welcome to the Security and Bug Patch Alert newsletter!
+Given the recent spate of high-profile denial-of-service and hack
+attacks and the large number of people who have signed up for this
+newsletter before this first edition has been even published, it is
+clear that security is a major concern in the IT community  as it
+should be.
+With technology now being looked upon as a profit rather than cost
+center, IT departments face more pressure to keep critical systems up
+and running  as well as secure. No chief information officer or network
+manager wants to have to tell the CEO that their e-commerce site has
+been broken into and customer credit card data copied. Stories like that
+tend to stick in a potential customer=01,s mind more than an expensive
+Super Bowl ad.
+It=01,s hard enough to keep up with the latest new technologies, never mind
+latest security patch for your operating system or e-commerce
+application. But we=01,re here to help.
+Once a week we=01,ll publish a list of patches and alerts from all the
+major vendors and security organizations with links to the source. We=01,ll
+also provide other (hopefully) useful resources for the security-
+conscious IT manager.
+Comments and suggestions are always welcome! Send mail to
+jmeserve@nww.com.
+Now on with the latest patches and alerts:
+Security glitch hits Foundry switches
+From this week=01,s Network World: A security problem has cropped up in
+Foundry Networks=01, ServerIron switches that make the devices susceptible
+to denial-of-service attacks.
+Read the story:
+Download the patch:
+New version of Apache Web server released
+The Apache Server Project released Version 1.3.12 of the popular Apache
+Web server this week. The new release fixes what Apache calls a cross-
+site scripting problem that could allow malicious HTML tags to be
+inserted into client-side scripts. Download the new version at:
+Problem with Linux htdig package
+Both FreeBSD and Debian are reporting a problem with the htdig package
+that runs on their respective platforms. The problem is with the
+htsearch and could allow a user to read any file on the local machine
+accessible to the user ID that the script is running under (which in
+most cases is =01+nobody=01 
+For more information from Debian:
+to download a patch from FreeBSD:
+nmh Linux package patched
+Versions of nmh prior to 1.0.3 have a vulnerability that could allow
+malicious users to modify the MIME headers in a mail message that may
+cause nmh=01,s mshow command to execute arbitrary commands. A patch is
+available at:
+ftp://ftp.mhost.com/pub/nmh/nmh-1.0.3.tar.gz
+Zombie Zapper 1.1 available
+Zombie Zapper 1.1 helps shut down the Troj_Trinoo denial-of-service
+client on Windows NT and Unix machines. More information at:
+Problem with MySQL password authentication
+According to the makers of FreeBSD, a vulnerability in the MySQL
+database server (prior to Version 3.22.32) could allow anyone that can
+connect to the database to access it without a password. More
+information at:
+To contact Jason Meserve:
+Subscription Services
+To subscribe or unsubscribe to any Network World e-mail newsletters,
+go to:
+To change your email address, go to:
+Subscription questions? Contact Customer Service by replying to this
+message.
+Other Questions/Comments
+Have editorial comments? Write Jeff Caruso, Newsletter Editor, at:
+For advertising information, write Jamie Kalbach, Account Executive,
+at: mailto:jkalbach@nww.com
+Network World Fusion is part of IDG.net, the IDG Online Network.
+IT All Starts Here:
+Ravi Thuraisingham@MUNICATIONS on 03/06/2000 04:29:34 PM
+Hi John, as per our discussion and e-mails, I am suggesting the following 
+dates for the subject offsite:  April 14 & 15 th (Friday & Sat).  Place and 
+agenda to follow once this date is nailed up.   The heads of each group will 
+decide who will attend.  We would also invite Kevin Hannon, Scott Yeager, Tom 
+Gros, Ted Seitz and Jean Mrha once the dates and agenda are agreed upon by 
+the Technical folks.
+As before, the idea is to introduce the two of the most technical groups 
+within Enron and to exchange ideas and issues.  The Enron research team will 
+provide trading and modeling presentations and the Optical Network 
+Engineering team will present networking and components related topics.
+Take away from the two days will be to provide John Griebling's group with 
+better understanding about how the trading markets have developed in general 
+and energy markets in particular via Enron (i.e.,  how the sausage was 
+made!).  Likewise, John's group will provide us with better understanding of 
+optical networking from a technical perspective.  Particularily, how EBS is 
+planning to develop the Puplic Switched Optical Network (PSON) that John has 
+'branded' our pooling point based network!
+Please reply ASAP if these two days (April 14 & 15) will work.  Additionally, 
+John, is the original suggestion to hold it in Scott Yeager's cabin somewhere 
+up in Colorado mts. still holds?  If yes, I should probably let Scott know If not, I'll try to find other places--any suggestions, anyone? 
+,
+Ravi.
+Vince J Kaminski
+03/06/2000 03:32 PM
+Karla,
+Thanks. Here are Helyette's coordinates:
+Helyette Geman
+Universite de Paris-Dauphine
+Place du Marechal de Lattre-de-Tassigny
+75775 Paris CEDEX 16
+Phone: 33 1 44 054 943 (o)
+33 1 46 040 110 (h) (f)
+Fax  : 33 1 44 054 937
+geman@cidmail.services.dauphine.fr
+Helyette.Geman@dauphine.fr
+Vince
+Vince and Stinson,
+I checked the file and the maintenance that automatically renews on 4/1/2000  
+is for the following products:
+All 4 of your @GLOBAL licenses
+SPAV
+SWING
+I will go ahead and contact FEA and see about getting the renewal invoice for 
+these.  I'll send it to Shirley for payment once I have it.
+The products:  @INTEREST, SEAPC, and SEAPP have not been on maintenance for a 
+while.  FEA told us a couple of years ago I believe that they do not have 
+maintenance available for these products any longer.  So, you don't need to 
+worry about cancelling @INTEREST.
+Also, just FYI - your @ENERGY.1 and @ENERGY.2 licenses have maintenance 
+through 10/20/2000.
+If you have any questions, please let me know.  Otherwise, I will proceed 
+with contacting FEA about you renewal of the @GLOBAL, SPAV, and SWING 
+licenses.
+Thanks,
+Karla
+Vince,
+I hope you are well. Sorry I have not been in touch but I have been swamped 
+trying to build my organization simultaneously as I endeavor to understand 
+EBS and navigate its political terrain. Quite interesting. I shall tell you 
+more later.
+My wife, Elisabeth and I would love to have you for dinner at our house any 
+Saturday at you convenience. Would please let me  know which Saturday would 
+be suitable? We are both looking forward to it so please let me know.
+Thanks,
+Tony
+Dear Energy Professional:
+We are pleased to start you today on a FREE TWO-WEEK TRIAL to Platts Energy 
+Trader, providing comprehensive daily market coverage of both natural gas and 
+electricity in the converging North American energy market. Today's issue is 
+attached below.
+Platts Energy Trader is brought to you by the editors of Inside FERC's Gas 
+Market Report and Power Markets Week, both published by Platts, the energy 
+market information division of The McGraw-Hill Companies.
+Platts Energy Trader will put on your desktop each morning the best market 
+reporting available on North American electricity and gas, along with unique 
+coverage such as forward assessments, regional spark spreads and integrated 
+market commentary. It will give you critical context in today's rapidly 
+converging energy marketplace.
+Valuable and Unique Features Include:
+* Daily assessments of the forward electricity market at six key hubs 
+extending out more than a year.
+* Near-term forward power deals-the most data and products covered in the 
+industry.
+* First-of-a-kind spark spreads based on actual efficiency rates for power 
+plants in specific regions, a unique hedging and analysis tool.
+* Expanded daily natural gas spot prices at more than 60 locations, including 
+11 new market area points.
+* 24 on-peak and 21 off-peak daily electricity indexes.
+* The most frequent and comprehensive power outage tables found anywhere.
+* Daily key indicators for national forward electric power prices and 
+national supply area gas prices.
+* Succinct national overview of gas and power markets, and how they're 
+interacting.
+* Three regional sections, providing focused coverage for traders, along with 
+leading news.
+* Cumulative averages of daily prices throughout the calendar month for all 
+gas pricing and all on-peak daily electricity indexes.
+For questions, call our sales department at 877-286-8897 or 212-904-2004; 
+e-mail, info@platts.com.
+Meanwhile, we hope you enjoy your free two-week trial to Platts Energy Trader.
+Sincerely,
+Richard Schwartz
+Platts Marketing Director
+P.S.-Want to subscribe now? Call 877-286-8897 or 212-904-2004. The annual 
+subscription
+price for this comprehensive daily package of both natural gas and 
+electricity market
+intelligence is just $1,495, a $500 savings off the regular subscription rate 
+of $1,995
+(plus applicable sales tax, Canadian GST or VAT).
+If you need to download Acrobat Reader to read this file, go to www.adobe.com.
+To decline free trial of Platts Energy Trader, hit reply and type "stop trial.
+- et032201.pdf
+Jana Phillips
+Marketing Manager
+New York Mercantile Exchange
+1000 Louisiana Street, Suite 1095
+Houston, TX 77002
+Phone: (713) 658 9296
+Fax  : (713) 658 9393
+Jlpnymex@aol.com
+Karla,
+Thanks. Here are Helyette's coordinates:
+Helyette Geman
+Universite de Paris-Dauphine
+Place du Marechal de Lattre-de-Tassigny
+75775 Paris CEDEX 16
+Phone: 33 1 44 054 943 (o)
+33 1 46 040 110 (h) (f)
+Fax  : 33 1 44 054 937
+geman@cidmail.services.dauphine.fr
+Helyette.Geman@dauphine.fr
+Vince
+Vince and Stinson,
+I checked the file and the maintenance that automatically renews on 4/1/2000  
+is for the following products:
+All 4 of your @GLOBAL licenses
+SPAV
+SWING
+I will go ahead and contact FEA and see about getting the renewal invoice for 
+these.  I'll send it to Shirley for payment once I have it.
+The products:  @INTEREST, SEAPC, and SEAPP have not been on maintenance for a 
+while.  FEA told us a couple of years ago I believe that they do not have 
+maintenance available for these products any longer.  So, you don't need to 
+worry about cancelling @INTEREST.
+Also, just FYI - your @ENERGY.1 and @ENERGY.2 licenses have maintenance 
+through 10/20/2000.
+If you have any questions, please let me know.  Otherwise, I will proceed 
+with contacting FEA about you renewal of the @GLOBAL, SPAV, and SWING 
+licenses.
+Thanks,
+Karla
+Stinson,
+What is SPAV? Is it the basket option model?
+Vince
+Vince and Stinson,
+I checked the file and the maintenance that automatically renews on 4/1/2000  
+is for the following products:
+All 4 of your @GLOBAL licenses
+SPAV
+SWING
+I will go ahead and contact FEA and see about getting the renewal invoice for 
+these.  I'll send it to Shirley for payment once I have it.
+The products:  @INTEREST, SEAPC, and SEAPP have not been on maintenance for a 
+while.  FEA told us a couple of years ago I believe that they do not have 
+maintenance available for these products any longer.  So, you don't need to 
+worry about cancelling @INTEREST.
+Also, just FYI - your @ENERGY.1 and @ENERGY.2 licenses have maintenance 
+through 10/20/2000.
+If you have any questions, please let me know.  Otherwise, I will proceed 
+with contacting FEA about you renewal of the @GLOBAL, SPAV, and SWING 
+licenses.
+Thanks,
+Karla
+FYI
+Vince
+Liam Leahy  Please respond to lleahy@hightechbiz.com
+This will confirm our meeting at your office on 16th of March 2000
+at 8AM.
+We will be at the energy expo booth nbr. 931 on the 14th =0F- 16th
+and staying at the Allen Park Inn on Allen Parkway if you need to
+reach us.
+Liam Leahy
+For
+Dr. Robert E. Brooks
+direct line (323) 913-3355
+Main line  (323) 663-4831
+- att1.htm
+Ravi,
+Sounds good.
+Vince
+Ravi Thuraisingham@MUNICATIONS on 03/06/2000 12:44:08 PM
+John can't do it till after April 10th.  So we will shoot for April 13, etc.
+Ravi.
+john_griebling@palm.net
+03/02/00 09:58 AM
+Please respond to john_griebling
+i won't be available until after april 10th.
+Ravi_Thuraisingham@.net wrote on 3/1/00 12:29:
+Hi Shirley, please give me a few dates form end of march to first week
+in April
+to do an offsite for Vince's direct reports (including myself) and
+selected EBS
+research people. This includes, Vince direct report from our research
+group and
+the following people fr
+Jana Phillips
+Marketing Manager
+New York Mercantile Exchange
+1000 Louisiana Street, Suite 1095
+Houston, TX 77002
+Phone: (713) 658 9296
+Fax  : (713) 658 9393
+Jlpnymex@aol.com
+Jana,
+Thanks again for the invitation to join you at the Rodeo. It was a great 
+pleasure
+to meet you and your husband.
+What   about getting together next week for a movie and/or dinner? I shall 
+call you
+later this week to find out when you are free. I have a trip to NYC on 
+Tuesday and 
+Wednesday, but Thursday or Friday should be fine.
+I have  a speaking engagement on April 6 in Florida (a conference organized by
+Florida Power and Light). This means I shall miss the meeting of
+the Symphony Partners on that day. Please, keep me in mind for the following
+meetings and I shall be very glad to join you.
+Vince
+Jlpnymex@aol.com on 03/06/2000 09:27:44 AM
+Vince,
+It was a pleasure to meet you last week at our Rodeo night.  I am glad you
+could join us.
+I am going to fax you the invitation to the Houston Symphony Partners party
+that we discussed.  I hope you can attend.
+Keep in touch and let's get together for lunch and/or seeing "American
+Beauty."
+Jana Phillips
+713-658-9296
+Shirley,
+Voucher # 0100015652  for  $359.78
+Vince
+Stinson,
+Most recent version of my presentation.
+Vince
+VKaminski@aol.com on 03/05/2000 05:21:09 PM
+- options2fin.ppt
+Let me think about a similar publication. Zimin, any ideas?
+Vince
+Gopalakrishnan Subramaniam@_DEVELOPMENT
+03/06/2000 04:34 AM
+Sent by: Subramaniam Gopalakrishnan@_DEVELOPMENT
+Thanx  a  million . The book is just  superb . Would there be any similar 
+literature on the Interest Rate front   
+G.Subbu
+Shirley,
+Please, renew my membership.
+Vince
+Teresa Knight  Just a last reminder that you haven't renewed your 2001 NESA/HEA dues.  We
+are in the process of preparing to publish our annual directory and are
+hopeful that you will take a moment to renew your dues so that you are
+included.  If you have misplaced your form, please visit our website at
+www.nesanet.org and click on WHAT IS NESA, or call the office at
+713/856-6525 and we can update your records over the phone with a credit
+card.  Dues are only $75 and you don't want to be left out!
+Let us hear from you, or if you wish to be deleted, just respond to this
+message.  Thanks for your consideration and we hope you'll renew your dues!
+Teresa Knight
+Vice President, Membership
+NESA/HEA
+(713)856-6525
+Fax (713)856-6199
+Martin,
+Thanks.
+Vince
+I did not find anybody in EBS who seems to know or be involved in any 
+e-procurement issues.  In Enron Corp, however, there is an initiative called 
+iBuyIt.  This is a system that Corp is deploying for e-procurement through 
+Corp and ENA, and will get to EBS sometime late this year.
+John Gillespie is in charge of the iBuyIt initiative.  Perhaps he is the 
+appropriate contact.  I left a voice mail with him, but have not yet received 
+a response.
+Martin
+Vince J Kaminski
+03/22/2001 07:17 AM
+Martin,
+Please, take a look at Question 3.
+Who is the right person at EBS?
+Vince
+Jinbaek Kim  Dr. Kaminski,
+Sorry for the late response,
+it took me some time to coordinate things.
+Finally, it's almost dont It turned out that from June to August
+will be best for me for work at ENRON
+(Say June.4 to August.4)
+But I still need to know several things from your side.
+Could you answer following questions?
+First:
+Is my suggested working period is OK with you?
+If so, let me know what to do for settlement
+during the period.
+Second:
+I got a list of work, I might be able to do for
+DealBench team from Ross and Suresh.
+I'd like to know it is still a valid work list:
+The list he sent is as following:
+ 1.  Write a paper in layman's terms that answers
+ questions like the following:
+ Benefits of auctioning online for both buyers and
+ sellers, particularly in reverse auctions
+ Explanation how multi-variable auctions are not
+ as efficient as price-only auctions (is this true?)
+ How many participants are recommended for a
+ successful live auction
+ What types of goods and services are best suited
+ for live auctions versus sealed bid quotes
+ Opinions on lotting strategies
+ Trends in online private auctions
+ 2.  Identify appropriate recent auction research (3
+ or 4 papers out of the 90+ you provided)and obtain approvals from the
+ authors to post on our site
+ 3. Create a list/bibiliography of relevant auction
+ literature (with hyperlinks?)
+ 4.  Would you be willing to offer auction consulting
+ services to our customers (if they are interested)
+Third:
+There is an e-procurement forum at Haas School of business,
+in May 22. The chair of the forum is my advisor Prof. Arie Segev.
+A person from Wells Fargo Bank will talk about Wells Fargo's role
+in e-marketplace payment initiative,
+where ENRON broadband services is also one of key players
+along with Citibank.
+He asked me whether you can contact a person at
+ENRON broadband services, who's related to the initiative.
+He wants to know whether we will have a speaker from ENRON
+to see ENRON's perspective, in the Forum.
+Here is a link to news related to the initiative,
+Fourth:
+My advisor wants to know whether
+there could be any opportunity to do a case study,
+regarding ENRON's business.
+He is interested in e-procurement and e-marketplaces.
+Business model and System architecture 
+Thanks for reading this long email.
+I'll look forward to your answer..
+I am sorry for giving you so much burden
+to answer those questions possibly not easy to answer.
+Warm Jinbaek
+Go Bears!
+:"'._..---.._      :      a   a      :                 __....._
+:     _.-0-._           : `._`-'_           __    .'      __.'      .'`--..__      _._   
+On Mon, 5 Mar 2001 Vince.J.Kaminski@ wrote:

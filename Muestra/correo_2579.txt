@@ -1,0 +1,400 @@
+(See attached file: Grannyl.mpg)
+- Grannyl.mpg
+3-7376
+home - 281-486-7026
+Cell - 713-819-0765
+Pager - 713-764-9333
+Hi Everyone,
+Please send me at your earliest convenience the following info:
+Extention #
+Home #
+Cell #
+Pager #
+Thanks,
+Vanessa
+Sorry I did not get back with you yesterday.  We have been really busy around 
+here.  I called the person that I gave your resume to and she is on a 
+business trip until early next week.  Her assistant is going to have her call 
+me when she returns.  Apparently she left the day after I gave her the 
+resume.  I will keep you informed.  If you look on our website www.enron.com 
+and you see anything that interests you, let me know and I will put the 
+resume in.  Talk to you soon.
+PL
+I have put all of the liquidations for GD Central in the Fred Liquidations 
+file.  There is a variance of ($13,950) on the gas daily between what we 
+flashed and what detail we now have.  We will have to take this adjustment to 
+the P&L(wil be expense).  I do not have detail for Basis Capacity Hedges or 
+LT Transport.  I am under the impression that these numbers are given to you 
+each month by Cernosek's group.  For Basis Capacity Hedges, we flashed 
+($31,074) and for LT Transport we flashed ($130,735).  The detail in this 
+file plus these three numbers should tie out.  If not, please let me know Shout with any questions.  Thanks for your help.
+PL
+I bid $0 on New Orleans D
+I bid $2 of Miami's D and $1 on Detroit's D
+I passed it off today to someone in the Public Relations dept.  I will also 
+look on our bulletin board and see what if anything is out there.
+PL
+Done.
+PL
+Scott Crowell  Phil,
+I have attached Jenny's resume.  Don't forget to fill out the paperwork
+before you pass the resume along so you get credit.  Please try and do
+this as soon as you can.  Thanks.
+Scott
+- Jenny Resume.doc
+- scott.crowell.vcf
+Cathy please seperate two items from your original list.  TAGG#N50101.C for 
+$897,332 and TAGG#N70687.7 for $659,979.  These two liquidations relate to a 
+NGPL storage deal on the desk that should have variances for several months The net amount of these two liquidations is $237,353.  For now, please  put 
+this item on the backpage on it's own line.  We will reconcile the other 
+storage lines in the next few weeks and see what if anything needs to be 
+added to this line.  At that time we will work out the necessary steps to get 
+this item off of the backpage.  Scott is still looking at TAGG#N38268.L for 
+$1,443,519 for the remainder of the balance for May.  Shout with any 
+questions.
+PL
+Phillip,
+Here is the detail for the open item related to lone liquidations for May for 
+Central region:
+NGPL Sales
+N50101.B  581,059.89 *
+N50101.C  897,332.09
+N50101.D    10,048.22 *
+N50101.E    15,518.59
+Union Gas Sales
+N38268.L  1,443,518.67
+NGPL Purchase
+N50101.X    10,048.22 *
+N50101.Y      4,082.40
+N70658.7  581,059.89 *
+N70687.7  659,978.83
+*offsetting liquidations-but I left them on the list because they were lone 
+liquidations.
+Thanks for your help,
+Cathy
+I like that.
+PL
+Please use the following two files as your detail support for finanical 
+liquidations:
+Previously, I believe you were given the capacity hedges file the 
+pricebasisindex file and the pricebasisindex_revised file.  All three of 
+these equalled the 3.7 million.  You should use the revised and the capacity 
+hedge file.  When you use the two files listed above, you will come up with a 
+variance going the other way of roughly $(817,385).  This amount should be a 
+"desk adjustment".  We have accounted for the variance in our current month 
+(0800) file and will simply reclass between the months.  Please shout with 
+any questions.
+PL
+Macros
+Intra Month Physical Calcs
+Fixed for Floats
+Here is the email reminder of the curve setting process.  After you set your 
+curves(do not hit finished file), go to the GD Pmgr tab and change the date 
+in the left hand corner to two business days out(Friday set for Tuesday Then go to the CurveFetch tab and place your file on automatic calc(can not 
+hit F9).  Then hit fetch Prices button.  Prices should be brought in for 
+current date.  Go to the AutoCurve tab and hit paste curves.  When this is 
+done, hit finished file and the date will be updated so that I know your 
+curves are ready to load in ERMS.  Please feel free to shout with any 
+questions.  Thanks.
+PL
+How about Eric Moulds and Kevin Faulk for Ed McCauffrey, Yancy Thigpen and 
+Mike Cloud
+PL
+Glad to hear your trip was wonderful.  Things are great hear.  We are 
+anxiously awaiting the arrival of football season and our annual trips back 
+to Auburn.  Where is Steve's new job?  Are you guys still planning on going 
+to the Friday night party at Cadillac Bar.  I have to hurry and send in my 
+money for the event.  Talk to you soon.
+PL
+Give me a break...just like last year, I will finish ahead of you again Mean machine will be PLove's bitch again this year.
+PL
+what day?
+Here is the file.  Thanks.
+PL
+Please make the following changes for me please:
+No Vacation on Sept. 11
+Change my late day from sept 12 to sept 19
+schedule vacation on Sept. 18th.
+Please call with any questions.  Thanks.
+PL
+3-7376
+Thanks Bill.
+PL
+Bruce Mills@
+11/30/2000 11:24 AM
+i'm too dumb to figure this version out.  maybe it would help if i read the
+rules 
+- elves2.exe
+Here is the file.
+PL
+Larry Lenning  I could not find the good email.  Sorry.  Can I send you that type of email
+or will you get in trouble? What are you doing for Christmas? Staying in
+Houston?
+Enjoy 
+- Uno.exe
+I just wanted to respond to your email and let you know the thought process 
+of the book move for Ontario.  This move was requested by the trader 10 days 
+ago.  We notified Curtis Smith and Bill Kasemervisz the following business 
+day last Monday - July 24th.  For future reference, please let us know 
+exactly how much notice is required and if you think there are other groups 
+we may have missed notifying so that this does not become a problem again Thanks for your help.
+PL
+FYI - please fix my name on you emails.  They say Phillippe Love.  Thanks.
+PL
+- FingerPig.avi
+Attached is the book request.  Could you please process as soon as possible We are flipping Geoff Storey's book tonight to a us book(price and basis 
+split out) and we will need an index book.  Sorry for the short notice, we 
+were working with IT to get the conversion and just found out today that they 
+did not set up a new index book.  Thanks for your help, and call with any 
+questions. 
+PL
+3-7376
+Brian Hoskins
+10/28/99 06:06 PM
+Ophelia Mottu@ECT
+10/28/99 02:13 PM
+a lil' something to occupy your time 
+philly
+Brent Spiller
+10/28/99 01:20 PM
+An alternative to Solitaire 
+. .(See attached file: frogpult.exe)
+- frogpult.exe
+Attached is the file that I use from Storey to load his curves.  It has quite 
+a few tabs because he uses the model to track his positions and P&L.  The 
+tabs that should be of interest to you are the upload tab - for the curve 
+names and the batch tab for the curve prices.  Please give me a shout with 
+any questions.
+PL
+3-7376
+Kam asked that I email you guys about the FT-ONTARIO book move.  Please move 
+the book for Price, Basis and Index from FT-ONT-CENTRAL to FT-ONTARIO.  This 
+also encompasses splitting out the price and basis and fixing the curves in 
+the curve table.  This needs to be done by Monday night, 7/31.  Thanks for 
+you help and please shout with any questions.
+PL
+Please take both of these amounts and add them to the synthetic storage 
+variance section in Economics.  I have added them to my spreadsheet that I am 
+compiling.  Thanks.
+PL
+This deal is booked correctly.  The external fee, labeled exchange fee is the 
+.145 cents per mm that we owe them for the exchange.  The confirmation letter 
+is wrong.  The fee per Geoff Storey the trader is .145.  This is also known 
+as a spread fee.  If you have any questions, please feel free to call 3-7376.
+PL
+Elizabeth L Hernandez
+12/05/2000 03:09 PM
+You entered these deals in Sitara.  Could you please get with Chuck Jacobs to 
+resolve this issue.  Please see his e mail.
+Elizabeth,
+Can you check out Deal #'s 411921 (Sale) and 411937 (Purchase)?  Looks like a 
+buy/sell where we sold to Consumers Energy in October (1,000,000 total at 
+5.20) and bought it back from them in November.  Both deals have 0 rates so 
+that's not a problem.  The problem is - there's an exchange fee on both deals 
+of $0.0725.  But it's a negative fee on the sales side and a positive fee on 
+the purchase side.  That means I would owe them a netted amount of $145,000 Is that right??  Should the sale side maybe be positive so the two sides net 
+to 0 - or do we owe them this money??
+Also, the confirmation letter for the sales side mentions a "spread fee" to 
+be paid by Seller (ENA) of $155,000.  Could that $145,000 netted amount be a 
+part of that?  And if so, where's the other $10,000?
+So many questions!!  I have copies of the confirms if you need to see them Let me know 
+...Chuck
+Elizabeth L Hernandez
+07/21/2000 04:34 PM
+I was able to change the first deal in Sitara, but the other pricing request 
+I did not feel comfortable making any changes.  Would you please look at this 
+pricing issue for Client Services since they need to get it paid on Monday.
+Jane S Saladino
+07/21/2000 04:10 PM
+Please correct the following deals:
+Enron Canada purchase deal # 121397  Was 4.18427 should be 4.10185  This is 
+due to a Buy/back at Chippawa which reduces our Sithe transport by 
+$70,191.70   I normally book this manually (with Journal entry) but with SAP, 
+it needs to be in Unify and this is the only deal I can book it to.  The 
+Sithe transport is in Canadian dollars and this reduction is in US 
+Also I have the following deals which are scheduled different on our side 
+that Enron Canada and causes me about a $500 out of balance each month.  We 
+have netted this with other out of balances in previous months but with SAP, 
+I can no longer do this. Here is what happens:
+ENA Books:  Purchase Deal 290657  for 30,390  MMBTU per day at 
+Michcon.Citygate.GD.M.I.-.005 = $4,125,442.50
+Sale Deal 290652 for     ( 5,000) MMBTU per day at 
+Michcon.Citygate.GD.M.I.-.0075=    678,375.00
+Total          $3,447,067.50
+Enron Canada Books:
+Sale                  for 20,000 MMBTU per day at 
+Michcon.Citygate.GD.M.I.-.005=   $2,715,000.00
+Sale                  for  5,390 MMBTU per day at 
+Michcon.Citygate.GD.M.I.     =      732,501.00
+Total          $3,447,501.00
+I don't know why we book a purchase and sale but it messes up the deal in 
+SAP.  Can we change the ENA sale deal 290652 to posting -.005 and the ENA 
+purchase deal # 290657 tier it for 25,000 at Posting -.005 and balance at 
+posting.  Let me know as soon as possible.  I need to pay this AM on Monday.
+Thanks, Jane
+Looks like these are released status now.  Please let me know if you have any 
+further questions.
+PL
+Asa & Joy,
+I just wanted to take a minute and thank the two of you for your generosity 
+this past week.  My friends and I had a terrific time and everyone really 
+enjoyed your condo.  The weather was terrific and the fish put up a 
+formidable challenge.  We are very interested in renting the condo from you 
+guys during the season this year.  I requested that the cleaning charges this 
+time be put on my credit card.  Please let me know if  they charge you guys 
+anything.  Thanks again.  We look forward to seeing you guys soon.
+Phillip
+Spoke with Sheetal and she had a similar question.  We are putting our deals 
+in TDS.  We do not have paper tickets.  I understand there is a meeting 
+scheduled for the end of the week to discuss this issue.
+PL
+Nice pic. I don't know if I would let him put his arm around my wife.
+PL
+Jim Little
+07/14/2000 02:04 PM
+I looked into these deal and I have good reason to believe they should have 
+been flashed by economics under CPR PIPELINE EXCHANGE.  They will fall out as 
+a lone liquidation on the COMPARE REPORT, but only because CPR PIPELINE 
+EXCHANGE, while flashed on the desk is not included in the CPR detail for the 
+COMPARE REPORT.  They should be offset by the flashed detail or they should 
+be put into the economics section as an adjustment to the desk.
+Jim
+I've identified the following deals that I believe are synthetic storage that 
+I will assign to Gas Accounting as reclasses to future months.  Please let me 
+know if you disagree:
+Panhandle Eastern NG9695.3 1,479,927.04 looks like turnaround on leg 1 in 
+08/2000
+Northern Natural Gas NG4225.3 59,250.00 looks like turnaround on leg 1 in 
+07/2000
+Northern Natural Gas NG6882.3 29,625.00 looks like turnaround on leg 1 in 
+07/2000
+Northern Natural Gas NH0933.3 177,749.98 looks like turnaround on leg 1 in 
+09/2000
+Northern Natural Gas  NH7769.3 53,016.90 looks like turnaround on leg1 in 
+07/2000
+Northern Natural Gas NI2881.3 29,625.00 turnaround leg 1 07/2000
+Northern Natural Gas NI9625.3 88,874.99 turnaround leg 1 07/2000
+Northern Natural Gas NJ1525.3 29,625.00 turnaround leg 1 07/2000
+Northern Natural Gas NJ6166.3 29,625.00 turnaround leg 1 06/2000
+Thanks for your help.
+Cathy
+Jim Little
+07/14/2000 02:04 PM
+I looked into these deal and I have good reason to believe they should have 
+been flashed by economics under CPR PIPELINE EXCHANGE.  They will fall out as 
+a lone liquidation on the COMPARE REPORT, but only because CPR PIPELINE 
+EXCHANGE, while flashed on the desk is not included in the CPR detail for the 
+COMPARE REPORT.  They should be offset by the flashed detail or they should 
+be put into the economics section as an adjustment to the desk.
+Jim
+I've identified the following deals that I believe are synthetic storage that 
+I will assign to Gas Accounting as reclasses to future months.  Please let me 
+know if you disagree:
+Panhandle Eastern NG9695.3 1,479,927.04 looks like turnaround on leg 1 in 
+08/2000
+Northern Natural Gas NG4225.3 59,250.00 looks like turnaround on leg 1 in 
+07/2000
+Northern Natural Gas NG6882.3 29,625.00 looks like turnaround on leg 1 in 
+07/2000
+Northern Natural Gas NH0933.3 177,749.98 looks like turnaround on leg 1 in 
+09/2000
+Northern Natural Gas  NH7769.3 53,016.90 looks like turnaround on leg1 in 
+07/2000
+Northern Natural Gas NI2881.3 29,625.00 turnaround leg 1 07/2000
+Northern Natural Gas NI9625.3 88,874.99 turnaround leg 1 07/2000
+Northern Natural Gas NJ1525.3 29,625.00 turnaround leg 1 07/2000
+Northern Natural Gas NJ6166.3 29,625.00 turnaround leg 1 06/2000
+Thanks for your help.
+Cathy
+Sorry man, I am swamped today.  Doing my book and Trey's and I have a 6 p.m. 
+flight to Utah.  I will try and get back with you today.  The offer will 
+definitely have to get sweeter to get the 2 pick overall.
+PL
+Attached is the revised model with all of your transport deals from yesterday 
+and the farwell deal.  Please review and let me know if you agree with this If you agree, we will unwind/kill the TAGG deals and book the spreadsheet 
+amounts.  We are still working on the spread option and foreign exchange 
+being included in this model.  For the foreign exchange,  I took an average 
+exchange rate for the life of each deal for now.  Thanks.
+PL
+I just added the swaps to these deals.  Sorry about that.  Thanks for letting 
+me know.
+PL
+Drew Bledsoe - $31
+Panthers D - $6
+49ers D - $3
+Seahawks D - $3
+PL
+I wanted to let you guys know that I changed the files.  I had one deal with 
+FT Central that was in the physical file that was financial.  I transferred 
+the deal to Sheetal's file.  I also added the sitara numbers to the physical 
+file.  Sorry for the mishaps.
+PL
+Shane.Dobbs@fctg.com on 07/11/2000 12:15:11 PM
+________________________________________________________________ 
+YOU'RE PAYING TOO MUCH FOR THE INTERNET! 
+Juno now offers FREE Internet Access! 
+Try it today - there's no risk!? For your FREE software, visit: 
+I am game on both accounts.
+PL
+Here is the revised model.  Let me know what you think.
+PL
+I think we can handle going with 7 if everyone will be there.  Make sure 
+those Texas boys commit to playing and will come back and calc like the rest 
+of us.
+PL
+yes
+Here is the file.  We used Victor's transport model that he uses for all of 
+the other transport deals.  The omicron volatility curve that we used was 11 
+- the same as other Chigate deals.  Give me a shout with any questions.
+PL
+so it last week, pretty funny.  It looks like an actual commercial.  How are 
+things going with you?  Good I hope.  When am I going to get an invite to the 
+new pad?
+PL
+here is the WACOG Delma.  Cathy could you add her to the email.  Thanks.
+PL
+Cathy De La Torre
+07/06/2000 10:32 AM
+Matt Stover, K Bal - $26
+I am for the normal draft - same as last year.
+PL
+I am game for anything late in the day.
+PL
+Please take my name off of your emails, I am no longer in the OA group Please add me to the Ontario email - I am doing risk for that desk.  Thanks.
+PL
+FYI
+Attached are the 05/00 financial liquidations for Denver.  Please refer to 
+the sheet with  "Recon Variances"  tab for the details supporting the summary 
+page.   Please communicate questions or adjustments to Jim Little or myself Thks!
+8/20
+Shane.Dobbs@fctg.com on 06/30/2000 07:17:07 AM
+ Subject: Rocker 
+ > > The Top 15 Signs John Rocker Is Your Stockbroker 
+ > > 15> Threatens to kick your ass for even suggesting that you diversify. 
+ > > 14> All your money is now in "catfish and 'possum futures  > > > 13> Tries to tell you the term "sell short" only refers to Chinese 
+ brokers. 
+ > > 12> You suddenly find yourself the butt of one of Jeff Foxworthy's 
+ "You might be a redneck if..." lines. 
+ > > 11> All your money ends up in NASCAR, not NASDAQ. 
+ > > 10> Bitch slaps you when you want to buy shares in Mitsubishi. 
+ > > 9> The only way to get him to let you invest in China is to 
+ > > convince him you're talking about Franklin Mint commemorative Elvis 
+ plates. 
+ > > 8> When Wall Street has a rally, he shows up in a white hood. 
+ > > 7> He keeps threatening to punch out that Stuart kid. 
+ > > 6> His picks: White Rock Beverages and White Castle Hamburgers; His 
+ pans: Black & Decker and Browning-Ferris 
+ > > 5> Dumps your most profitable stock after misreading it as "EGay  > > > 4> Since "portfolio" sounds too foreign, he prefers the term "bag o' 
+ stocks  > > > 3> You are now the proud owner of a $400,000 retirement nest egg 
+ invested entirely in the Wonder Bread company. 
+ > > 2> Thinks "covering your shorts" is something you do in Greenwich 
+ Village. 
+ > > 1> He puts all your money in "Yahoo!" because there aren't any stocks 
+ called "Dipshit!" or "Stupid Cracker 
+I am going to Austin for the day on the 8th.  Will be back early evening and 
+all day sunday.
+PL
+Bryan Hull
+06/28/2000 05:35 PM
+Alex Saldana
+06/28/2000 02:33 PM

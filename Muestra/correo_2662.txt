@@ -1,0 +1,640 @@
+- DSC00006.JPG   - DSC00010.JPG   - DSC00013.JPG   - DSC00015.JPG   - DSC00017.JPG   - DSC00008.JPG   - DSC00004.JPG  
+No hurry, but it would be great if you could write a letter of reference to this recruiter whenever you get a chance.  Her name is Kristi Thorson and her email address is kthorson@rdstx.com.  Thanks.
+Stephanie
+Stephanie Hopkins
+Enron Net Works
+Risk Management
+(713) 853-5211
+Please move the following six counterparties from NG-Price to Bankruptcy.  Please move only financial deals.  Please let me know when this is complete.  We need to have it done by the time we calc our books today - no exceptions.  Thanks for your help.
+TAGG Short Name:
+TRANSWEST
+VITOL S.A.
+DUKEFSVCMAR
+ENCOREACQCOM
+ENERGYUSA
+ENTERGYKOCTRA
+Thanks again.
+PL
+Attached is a file with the CP's that are terminated per Kim's list and had been sent to IT to move to the bankruptcy book.  There are six CP's on this list.  I will send the legal names to Cecilia to get these moved today(with 7,000 lines, I am afraid it would take at least a day for risk to move manually).  We will then recheck the book tonight.  As you will see on the summary page, the total value of these deals is $(61.6M).  If there are any questions, please let me know, I will bring hard copies to the 11a.m. meeting.  Thanks.
+PL
+See attached file as requested.  These are all of the Financial Terminations that were requested to be moved to the Bankruptcy Book.
+Below is the additional list of termination moves requested yesterday after a reconciliation was done on the Exposure report (from Don Miller) against the termination log.
+CP ID	     Counterparty 
+8	     Amerada Hess Corporation
+64516	     Avista Corporation
+55265	     Avista Energy, Inc.
+65291	     BP Corporation North America Inc.
+23848	     Cabot Oil & Gas Marketing Corporation
+79689	     Calpine Energy Services, L.P.
+5264	     Cargill, Incorporated	
+65599	     CMS Field Services Inc.
+56630	     Consolidated Edison Solutions, Inc.
+52577	     Cornerstone Propane, L.P.
+64141	NJR Energy Services Company	
+151	Northern Illinois Gas Company	
+69121	NRG Power Marketing Inc.	
+63665	Occidental Energy Marketing, Inc 54438	PG&E Energy Trading, Canada Corporation	
+58402	PG&E Energy Trading-Gas Corporation	
+46709	Phibro Inc.	
+55776	Pioneer Natural Resources USA, Inc.	
+33367	PMI Trading, LTD	
+49262	Questar Energy Trading Company	
+65268	Reliant Energy Services, Inc.	
+103469	Sequent Energy Management, L.P.	
+3996	Sithe Energies, Inc.	
+26146	Societe Generale	
+11134	St. Mary Land & Exploration Company	
+81385	The New Power Company	
+37810	Venoco, Inc.	
+96651	Vitol Capital Management Ltd.	
+46924	Vitol S.A.	
+232	Western Gas Resources, Inc.	
+237	Wisconsin Power And Light Company	
+Call with any questions.
+Kim Theriot
+x. 31771
+I'm about to move the deals.  Please hold off the calc until you hear from me.  Thanks.
+Please let me know when you get close to being complete so that we can hold off calcing if necessary.  Thanks.
+PL
+No, it's not done yet cos' I was busy yesterday and just got back from UBS meeting.  Will work on this now.
+Just curious if this got done last night?
+PL
+Cecilia,
+Here is the list of Counterparties that have been requested:
+CP ID	     Counterparty 
+504	     Alabama Gas Corporation
+8	     Amerada Hess Corporation
+64516	     Avista Corporation
+55265	     Avista Energy, Inc.
+68247	     Bankers Trust International PLC
+65291	     BP Corporation North America Inc.
+410	     Burlington Resources, Inc.
+23848	     Cabot Oil & Gas Marketing Corporation
+79689	     Calpine Energy Services, L.P.
+5264	     Cargill, Incorporated
+881	     Central Illinois Light Company	
+65599	     CMS Field Services Inc.
+69	     Columbia Energy Services Corporation
+56630	     Consolidated Energy Solutions, Inc.
+26427	     Consumers Gas Company, LTD.
+74362	     Continental Gas, Inc.
+52577	     Cornerstone Propane, L.P.
+1424	Florida Power Corporation	
+55109	Hess Energy Trading Company LLC	
+3796	Hunt Petroleum Corporation	
+1901	Kaztex Energy Management Inc.	
+2094	Marathon Oil Company	
+53782	National Energy & Trade, L.L.C.	
+5563	New York Mercantile Exchange	
+64141	NJR Energy Services Company	
+155	Noble Gas Marketing Inc.	
+151	Northern Illinois Gas Company	
+69121	NRG Power Marketing Inc.	
+63665	Occidental Energy Marketing, Inc.	
+54438	PG&E Energy Trading, Canada Corporation	
+58402	PG&E Energy Trading-Gas Corporation	
+46709	Phibro Inc.	
+55776	Pioneer Natural Resources USA, Inc.	
+33367	PMI Trading, LTD	
+49262	Questar Energy Trading Company	
+65268	Reliant Energy Services, Inc.	
+187	San Diego Gas & Electric Company	
+103469	Sequent Energy Management, L.P.	
+3996	Sithe Energies, Inc.	
+26146	Societe Generale	
+11134	St. Mary Land & Exploration Company	
+3022	Texaco Natural Gas Inc.	
+81385	The New Power Company	
+37810	Venoco, Inc.	
+96651	Vitol Capital Management Ltd.	
+46924	Vitol S.A.	
+232	Western Gas Resources, Inc.	
+237	Wisconsin Power And Light Company	
+This is complete.  These deals have been moved previously.  Thanks.
+PL
+Per the terms of the 11/14/01 Master Netting Agreement, the following contracts are terminated effective 12/30/01.
+K#96056886,  12/1/00 Enfolio Master Purchase/Sale Firm Agreement
+K#96035737, 12/27/99 Power Bilateral Agreement (Master Energy Purchase/Sale Agreement)
+K#96038365, 10/20/99 ISDA Master Agreement
+Attached are the outstanding (12/1/01 forward) Financial Transactions listed in TAGG for Calpine Energy Services, LP (shortname = CALPINEENESER)
+TAGG did not show any outstanding Physical deals for CALPINEENESER
+We have discovered a problem with physical positions in TDS.  Changed deals potentially can double up the deals volume in TDS.
+The TDS group worked late Monday to try and resolve the issue, but failed.  Please let your traders know that the physical positions
+cannot be completely relied on.
+I have also left a message on you phones to get this message to you.
+Thanks
+Russ
+Jennifer 334-844-1491
+PL
+Hey Phillip, 
+Here's another deal to be flipped to the FT-US/CAND-ERMS book
+Y69315.1  
+Please let me know if you have any questions on this.
+Thanks
+Stacey
+FU
+I have some good news and some bad news.  The good news is that I invested all of the league dues in the stock market over the last few weeks.  The bad news is that I invested it in enron stock.  So, needless to say I am going to have to default on this year's payouts 
+Sorry guys
+2-5, so much for the nice machine
+From the way it is looking now ... I gave my money away anyway.
+I have some good news and some bad news.  The good news is that I invested all of the league dues in the stock market over the last few weeks.  The bad news is that I invested it in enron stock.  So, needless to say I am going to have to default on this year's payouts 
+Sorry guys
+hey you are not wearing your target purple shirt today are you?  I have mine on and I don't want to look silly
+and my team looks good on paper ... they just don't come to play ... RC is going to have to call them out
+2-5, so much for the nice machine
+From the way it is looking now ... I gave my money away anyway.
+I have some good news and some bad news.  The good news is that I invested all of the league dues in the stock market over the last few weeks.  The bad news is that I invested it in enron stock.  So, needless to say I am going to have to default on this year's payouts 
+Sorry guys
+thanks.  We talked with Martin Cuilla last night and he thinks we are missing some transport usage tickets that will offset a major portion of our gain.  Thanks for your help.
+PL
+We agree with the number you are seeing on the deal, Phillip.
+I found it.
+Economics are -$565,067
+Chris, Phillip is wanting to confirm that as of yesterday's calc we show ~$600k loss on Sitara deal #581028 (it's a physical deal at Empress for November) - can you confirm that please?
+I do not unless I start working for you and have to worry about accounting issues.
+PL
+We are setting up SAP for the new UBS sign-on. Do any of you guys need to have SAP?  Let me know by the end of the day so we can set up.  If there is anyone in your group, please let me know about them as well.  Thanks.
+John
+would you prefer me mailing or delivering personally to you?  I was planning on shipping this afternoon.  Just let me know.  I will be out of the office tomorrow.  Let me know whatever you prefer.
+PL
+Philip,
+I made a Paypal payment this morning.  All the shipping information on the
+system is accurate.  I also work downtown if that would be more convenient.
+Jaime
+Congratulations on winning the auction on Ebay for the Enron values cube.
+Please let me know if you will be paying by PayPal(alove@houston.rr.com) or
+money order/cashier's check.  The total is $19.21.  I will need your mailing
+address as well.  I will mail the balls priority mail as soon as I receive
+payment.  Thanks again and use this email address if you reply before this
+evening, alove@housotn.rr.com is my home email and I can not access it from
+work.  Thanks again and look forward to hearing from you soon.
+PL
+most current.
+PL
+here is the location of the file and the person that compiled the file,.  Please let me know if you need anything else, thanks.
+PL
+CPR does not have historical data before Oct. 2000. Please go to O:\_Dropbox\FMA to pick up the file. File name is "enovate.xls".
+Felicia
+Kam Keiser suggested I call you to help with a request I received from our auditors.  Can you give me a list of all of the deals that have been put into Sitara for the Chicago office - the book/counterparty name will be Enovate.  The Arthur Anderson auditors have requested this information.  They are doing an audit of Enovate and want a list of all of the deals since the book started in order to get a sample size for their audit.  you should not have to go back farther than 01/00.  Thanks for your help and shout if you need anymore information.
+PL
+FYI
+FYI regarding day after Thanksgiving (closed) and trading hours (9am-1:30pm) for the rest of the year.
+FOR YOUR INFORMATION
+looks like this deal got zeroed out and rebooked on #1019677 look and see if you see this - CP should now be CPR pipeline exchange.  No variance should occur.  Thanks.
+PL
+I'm still showing an open item for Union Gas Purchases - Liquidation 972214/VU3457.1 in the amount of $635,999.94.  Any info on this yet?
+Thanks!
+The report named: EMW Positions <  published as of 10/30/2001 is now available for viewing on the website.
+we flashed this as Union, they subsequently moved the volumes on GL to CPR pipeline exchange.  you have to look at both to get this to reconcile.  Does this make sense?  If not, give me a call.  Thanks.
+PL
+I do have this deal under CPR Pipeline Exchange but if I move this $635,999 liquidation to Syn Strg I end up with a variance exposure of $1,237,227 on Syn Strg.  Our flash for Syn Strg is volume of (189,279) and ($1,058).  No volumes have been booked yet.  Should there be another liquidation?
+looks like this deal got zeroed out and rebooked on #1019677 look and see if you see this - CP should now be CPR pipeline exchange.  No variance should occur.  Thanks.
+PL
+I'm still showing an open item for Union Gas Purchases - Liquidation 972214/VU3457.1 in the amount of $635,999.94.  Any info on this yet?
+Thanks!
+The report named: EMW P/L <  published as of 10/30/2001 is now available for viewing on the website.
+Per Jad - Done
+PL
+Just a reminder - Don't forget to do fixed price lock ins for October!
+Thanks! 
+sounds good to me.
+PL
+Just a couple of points that I am not sure I mentioned to you:
+1.	I suggested to Glenda in January after Daddy died that she lease the
+house with the option to purchase due to the economy in Haleyville.  She
+obviouly has not done that.
+2.	The day after Daddy died, we went to the bank to get his will to
+take to Jeff's office for him to read to us.  Glenda tried to cash in
+Daddy's CD at that point and told them that she was the executrix of his
+estate.  They refused because she did not have a death certificate and had
+not been formally appointed.
+3.	Glenda told me that she had told Dr. Cashin that she wanted him to
+pay off the note on the purchase of Daddy's practice immediately.  I'm
+surprised that he has not since the interest rate on the note is 9%.
+With regard to Jeff Mobley wanted to work something out without going to
+court, I am fine with that.  However my terms are:
+1.	The money in Daddy's checking account, saving account and CD are put
+back in to the estate.
+2.	The estate 1099's Glenda for the forgiveness of the note.
+3.	The value of Daddy's truck that she gave away comes out of her
+distribution.
+4.	The repayment of the $5,000 that Glenda borrowed from me in April
+1996 is repaid to me at 8% annual interest from Glenda's distribution of the
+estate.
+5.	If the estate is not settled by the first anniversary of Daddy's
+death, that an independent third party is appointed administrator.
+6.	Any excessive administrative fees paid to Glenda for her work as
+executrix of the estate are repaid to the estate.
+7.	Glenda agrees in writing to discontinue her harressment of me and my
+family.
+I am willing to give on the forgiveness of the note to Daddy.  I am willing
+to allow her to continue as executrix until the anniversary of Daddy's
+death.  Twelve months is ample time to settle an estate as simple as his.  I
+will allow her to keep my grandfather's single shot shotgun that Daddy left
+to me, but that she and her husband stole from my father's bedroom while he
+was in the hosptal dying.  I would even be willing to not make her repay the
+value of Daddy's truck or return the extra $1,000 that she sold his car for,
+but that she did not put in the estate.
+I mailed the $1,000 check today.  Sorry for the delay.  I've just been very
+busy.  If we are going to file to remove Glenda as executrix, I'll need a
+new one with the correct date of Daddy's death to execute.
+I'll be in Auburn from tomorrow night until Sunday.
+Dianne
+Dianne
+I have not received any information from Jeff Mobley.   I have  called his
+office as recent as today.  The petition for removal is ready to sign but I
+have got to retain local counsel in Winston County for the purpose of filing
+as it will be cheaper than having me drive to Winston County.  Are you
+familiar with Wyatt Howell or his firm.  That is the firm I would like to
+associate.  Please let me know if this is acceptable to you.
+Tammy
+Just touching base to see where we are with Daddy's estate.
+no response.  I have prepared a petition to have your sister removed.  I
+will get it to you for your review prior to filing same.
+Just touching base to see if you heard from Jeff.
+Legally I cannot contact her since she is represented by an attorney.  I
+will follow up with Jeff.
+I can also provide you with my sister's contact info if you need it.
+I have heard nothing.  I have been out of town for about 12 days and have
+just returned today. I thought there might be a response from Jeff but none.
+I will follow up.
+Tammy,
+I'm just touching base to see if you have heard anything from Jeff.
+We can now calc the price book and we will cross reference the list with a fwd detail of the price book to verify there are no deals with terminated counter parties.  Because of the translation to the bankruptcy book, we can not calc the bankruptcy book for a while, so we will cross reference those in the morning.  I will keep you posted.
+PL
+The deals associated with the counterparties below have been moved to the bankruptcy book.  The deals are currently being retranslated.  There are more than 10,000 deals and it's going to take a while to complete the retranslation.
+Cecilia  
+Here is the updated list, sorry for the confusion.
+Patrick
+Cecilia,
+Here is the list of Counterparties that have been requested:
+CP ID	     Counterparty 
+8	     Amerada Hess Corporation
+64516	     Avista Corporation
+55265	     Avista Energy, Inc.
+65291	     BP Corporation North America Inc.
+23848	     Cabot Oil & Gas Marketing Corporation
+79689	     Calpine Energy Services, L.P.
+5264	     Cargill, Incorporated	
+65599	     CMS Field Services Inc.
+56630	     Consolidated Edison Solutions, Inc.
+52577	     Cornerstone Propane, L.P.
+64141	NJR Energy Services Company	
+151	Northern Illinois Gas Company	
+69121	NRG Power Marketing Inc.	
+63665	Occidental Energy Marketing, Inc 54438	PG&E Energy Trading, Canada Corporation	
+58402	PG&E Energy Trading-Gas Corporation	
+46709	Phibro Inc.	
+55776	Pioneer Natural Resources USA, Inc.	
+33367	PMI Trading, LTD	
+49262	Questar Energy Trading Company	
+65268	Reliant Energy Services, Inc.	
+103469	Sequent Energy Management, L.P.	
+3996	Sithe Energies, Inc.	
+26146	Societe Generale	
+11134	St. Mary Land & Exploration Company	
+81385	The New Power Company	
+37810	Venoco, Inc.	
+96651	Vitol Capital Management Ltd.	
+46924	Vitol S.A.	
+232	Western Gas Resources, Inc.	
+237	Wisconsin Power And Light Company	
+*********      Risk Management CP ID 53447
+absolutely
+PL
+I don't think she will go for it.  I just talked to Jennifer.  Can you do
+lunch on Wednesday of next week at 1pm at Cafe Ibiza at McGowen and Smith?
+sounds good to me.
+PL
+Just a couple of points that I am not sure I mentioned to you:
+1.      I suggested to Glenda in January after Daddy died that she lease
+the
+house with the option to purchase due to the economy in Haleyville.  She
+obviouly has not done that.
+2.      The day after Daddy died, we went to the bank to get his will to
+take to Jeff's office for him to read to us.  Glenda tried to cash in
+Daddy's CD at that point and told them that she was the executrix of his
+estate.  They refused because she did not have a death certificate and
+had
+not been formally appointed.
+3.      Glenda told me that she had told Dr. Cashin that she wanted him
+to
+pay off the note on the purchase of Daddy's practice immediately.  I'm
+surprised that he has not since the interest rate on the note is 9%.
+With regard to Jeff Mobley wanted to work something out without going to
+court, I am fine with that.  However my terms are:
+1.      The money in Daddy's checking account, saving account and CD are
+put
+back in to the estate.
+2.      The estate 1099's Glenda for the forgiveness of the note.
+3.      The value of Daddy's truck that she gave away comes out of her
+distribution.
+4.      The repayment of the $5,000 that Glenda borrowed from me in
+April
+1996 is repaid to me at 8% annual interest from Glenda's distribution of
+the
+estate.
+5.      If the estate is not settled by the first anniversary of Daddy's
+death, that an independent third party is appointed administrator.
+6.      Any excessive administrative fees paid to Glenda for her work as
+executrix of the estate are repaid to the estate.
+7.      Glenda agrees in writing to discontinue her harressment of me
+and my
+family.
+I am willing to give on the forgiveness of the note to Daddy.  I am
+willing
+to allow her to continue as executrix until the anniversary of Daddy's
+death.  Twelve months is ample time to settle an estate as simple as
+his.  I
+will allow her to keep my grandfather's single shot shotgun that Daddy
+left
+to me, but that she and her husband stole from my father's bedroom while
+he
+was in the hosptal dying.  I would even be willing to not make her repay
+the
+value of Daddy's truck or return the extra $1,000 that she sold his car
+for,
+but that she did not put in the estate.
+I mailed the $1,000 check today.  Sorry for the delay.  I've just been
+very
+busy.  If we are going to file to remove Glenda as executrix, I'll need
+a
+new one with the correct date of Daddy's death to execute.
+I'll be in Auburn from tomorrow night until Sunday.
+Dianne
+Dianne
+I have not received any information from Jeff Mobley.   I have  called
+his
+office as recent as today.  The petition for removal is ready to sign
+but I
+have got to retain local counsel in Winston County for the purpose of
+filing
+as it will be cheaper than having me drive to Winston County.  Are you
+familiar with Wyatt Howell or his firm.  That is the firm I would like
+to
+associate.  Please let me know if this is acceptable to you.
+Tammy
+Just touching base to see where we are with Daddy's estate.
+no response.  I have prepared a petition to have your sister removed.  I
+will get it to you for your review prior to filing same.
+Just touching base to see if you heard from Jeff.
+Legally I cannot contact her since she is represented by an attorney.  I
+will follow up with Jeff.
+I can also provide you with my sister's contact info if you need it.
+I have heard nothing.  I have been out of town for about 12 days and
+have
+just returned today. I thought there might be a response from Jeff but
+none.
+I will follow up.
+Tammy,
+I'm just touching base to see if you have heard anything from Jeff.
+The report named: EMW P/L <  published as of 10/31/2001 is now available for viewing on the website.
+The report named: EMW Positions <  published as of 10/31/2001 is now available for viewing on the website.
+Can you do me a favor similar to Kam's previous request:  Can you add to my current profile all the books that Scott Palmer currently has calculation access to.  Could you also set Bruce Mills, Kristen Clause and Edward Brady up like Scott Palmer.  Additionally can you also set up Ashley Worthing like Anne Bike.  Thanks for you help and shout with any questions.
+PL
+Thanks.  It has also been a pleasure working with you.  I am sure our paths will cross again in the near future.  Thanks for all of your help the last year.
+PL
+Hey, just wanted to say CONGRATULATIONS on your move to the EAST!!  I will miss working with you.  Also, you've done a great job of training your  guys on FLASH.  It is getting easier every month!!  (at least for me)
+Thanks again and Best of Luck,
+Natalie Baker
+The report named: EMW Positions <  published as of 11/01/2001 is now available for viewing on the website.
+8 hours
+How much time(in terms of hours) do you guys spend reviewing/correcting/analyzing Settlements forms each month 
+John
+absolutely
+PL
+It turns out that Stepehn Harrington has agreed to buy us a PC to replace our SUN machines.  Are you all ok with that still?
+Kam
+FYI - here is the info I have.  As she said, not exactly the answer we wanted.  I am still waiting on a final list to cross reference with our calcs.
+PL
+Stacey Richardson is researching additional transactions & we are receiving daily updates from legal regarding counterparties who have terminated either their agreements or specific transactions due to the bankruptcy. However, the deal count should begin to reduce.
+Not the answer you were looking for, but the best I can give for today.
+Cyndie
+Is this the last list we are going to get?  Jeff Gossett wants to know if we are done so that we can assure Don Miller that all of the CP's have been taken care of.  Thanks.
+PL
+According to the letters rec'd from Legal, applicable contract status - - - - yes.
+Thank you!
+I just want to be crystal clear on the file you sent.  We need to move all of these deals to the Bankruptcy book?  Thanks for your help.
+PL
+The attached deal list are the deals behind those contracts, for those deals that are currently not included in the bankruptcy books. Please note that there are still several deals that I am trying to reconcile back to Sitara numbers. Assuming that I can do so, I will send supplemental information tomorrow afternoon.
+Please feel free to contact me if you have any additional questions or concerns.
+Thank you,
+Cyndie
+ext. 3-1443
+That is fucking hilarious.  It would be even funnier if it had been you that got kicked out instead of me...I have already talked to the bartender and he understands that in the future, we pour our drinks in the bathroom, not right in front of stadium personnel...Also, next year - he is sitting with you!
+PL
+Guys,
+I had an incredibly fun time...just wish we could have made that phenomenal Bears game!!  Though ya'll might get a kick out of these photos.  The FYI attachment is for the bartender, the fucking fucks is for everyone's appreciation.  Enjoy and stay in touch!
+Carlos D. Giron
+Environmental Professional
+Professional Service Industries, Inc.
+121 Brookhollow Esplande
+New Orleans, LA 70123
+Email:carlos.giron@psiusa.com
+Phone: 504.734.9335
+Fax: 504.733.8161
+Cell: 504.452.3130
+- FYI.jpg   - Fucking Fucks.jpg  
+I will be there PL
+Our game is 9 Wednesday. Let me know if you're in.
+my original response.
+PL
+That is fucking hilarious.  It would be even funnier if it had been you that got kicked out instead of me...I have already talked to the bartender and he understands that in the future, we pour our drinks in the bathroom, not right in front of stadium personnel...Also, next year - he is sitting with you!
+PL
+Guys,
+I had an incredibly fun time...just wish we could have made that phenomenal Bears game!!  Though ya'll might get a kick out of these photos.  The FYI attachment is for the bartender, the fucking fucks is for everyone's appreciation.  Enjoy and stay in touch!
+Carlos D. Giron
+Environmental Professional
+Professional Service Industries, Inc.
+121 Brookhollow Esplande
+New Orleans, LA 70123
+Email:carlos.giron@psiusa.com
+Phone: 504.734.9335
+Fax: 504.733.8161
+Cell: 504.452.3130
+- FYI.jpg   - Fucking Fucks.jpg  
+I really would like to see the contract to verify things are not being booked correctly.  I spoke with Patrice and she does agree that we should not have a large receivable balance.  Try and get me the contract and I will see what I can do.  Thanks.
+PL
+Have you been able to look anymore into this?
+Marlo
+It has been Sylvia's understanding that Nicor Gas Company is a hub which is a storage facility, not the inverse.  We believe there has been a misinterpretation as to what has been stated.  In fact, these contracts have been setup since 1995.
+Attached please find the contracts for Nicor Gas Company and Northern Illinois Gas Company.
+These contracts have existed in the Global Contracts system.  Per the letter dated January 23, 1998, Northern Illinois Gas Company changed its name to Nicor Gas Company.  It indicated that any existing contracts did not have to change its name to Nicor Gas Company.  Thus, the contracts remained under the name Northern Illinois Gas Company.  Further, these existing contracts were Parking, Storage, Transportation and Pooling Service Agreement.
+We suggest that you setup deal tickets and if necessary, we setup new contracts with the service of Balancing ,Wheeling and Loan.  These contracts will feed to Unify accordingly.  Some of the contracts already have deals, which is indicated on the contract title or you can run the Sitara Report to locate the deals behind the contracts 
+If you need our assistance, please do not hesitate to contact us. 
+Thank You.
+Marlene D. Hilliard 
+That will be good going forward if all goes well, however we still need to address the outstanding issues in order to clear the Receivables and Payables.  I will be giving Marlene a copy of the tariff and see if she can get contracts setup.
+Let me know how the test goes.
+Thanks,
+Marlo
+We are changing how we put in these tickets effective November 1 to be on CPR exchange tickets.  When I get my reports for October we will go out and set up storage contracts for what we have right now and start using them accordingly.  Part of the problem has been in the way we have to send Nicor on an EDI process.  I am going to revisit and see if we can test in stage doing it thru CPR tickets and if that works then there should be no problem.  Please keep me posted and anything I can do to be of assistance please let me know. 
+Thanks,
+Cora
+We, Vol Mgmt and Settlements are still trying to get the Nicor/Northerin Illinois Gas deals cleared through Unify.  Kam had tried to help Kathy Kelly and I last year with putting in storage tickets for the deals that address the Balancing/Wheeling/ and Loan volumes that ENA is charged by the Hub every month.  These volumes are coming through the Supply verifications and Sales invoices but are not being paid, nor being sent out and therefore creating issues for Settlements.   I remember that Sylvia Campos had stated that those tickets were not possible to put in because Nicor is an Hub not a storage facility.  My Nicor rep. faxed me copies of their tariff effective July15, 1999 stating they have the capacity for storage and transportation, so I'm a little confused what the problem is that is preventing us setting Nicor up correctly in global and Unify to handle these types of storage deals individually.
+Any assistance with this would be greatly appreciated as we are showing a $4 million receivable outstanding for settlements and a $1.1 million payable on the service side and need to get these cleared as soon as possible.  I can make a copy of the tariff that I have just let me know.
+Thanks,
+Marlo James
+This is just a friendly reminder that the Hours Survey is due tomorrow.  Please feel free to give me a call with any questions or if you need me to help you complete the survey.
+Thanks,
+Roxanne  x 58690
+It's that time again to complete your hours for October 2001.  Please have the Survey completed with your hours and activities by Tuesday, November 6,  2001. Please go to the following path O:\Energy_Ops\OPM Hours Survey\ProdUser_2000 (use ProdUser_97 if you have not converted to Windows 2000) in Access 2000 to access the hours survey.  Also, since we are the beginning of a new quarter, the headcount portion of the survey will need to be completed 
+As a reminder for how we use this data, it is being used as a critical piece of our process in reporting mid office cost analysis to upper management and commercial groups for pricing of mid/back office services.  Feel free to call me if you have any questions or need me to help you complete the survey 
+Thanks,
+Roxanne
+(x 58690)
+This time table of 6 p.m. is not acceptable for risk management.  Most days we are not done calcing the gas books by 6 p.m.  Now we have just learned that Oracle is down and we do not know when we will get to start the calcing process that we normally start at 3:30.  Please adjust accordingly.  Thanks.
+PL
+In preparation for the upcoming move to Enron Center South we are moving your Home Directories to a new trading cluster.
+WHAT YOU NEED TO DO:
+This will occur for you this EVENING after 6PM. =20
+We will need to restart your computer in order to complete this action. =20
+Please log out or your computer by 6PM, if the machine is not logged off we will reboot the machine in order to complete these actions. =20
+Save your data before going home this evening.
+If you have outstanding circumstances that we should address, please reply to this e-mail and we will change our schedule accordingly.
+HERE ARE A FEW OF THE BENEFITS OF THIS ACTION:
+Newer, more stable environment
+More disk space available for common data
+Faster network connections
+HOW THIS WILL EFFECT YOU:
+If you are a laptop user and have to work at home, you should save any work to your 'C:' drive on the laptop.  DO NOT use the "My Documents" folder.  When you return to work and reconnect to the network, any changes made to files/folders in the "My Documents" folder may be deleted from the laptop.
+Laptops reconnecting to the network for the first time will receive a synchronization error.=20
+RESOLUTION:
+Please call the Resolution Center (x3-1411) and they will correct the problem ASAP.
+We will have additional Technicians available on the floor if the Resolution Center has any problems.
+thanks.
+PL
+All,
+We're experiencing some database-related issues at the moment with the ERMT database.  The DBAs are looking into the problem right now & it will be resolved soon.  We'll keep you posted of the status.
+Thanks 
+Karima Husain
+Project Manager, Gas Tactical
+(713) 345-7252
+I actually was just wanting a copy of the confirms or contracts that we/they signed in order to verify the prices and volumes.  I will try and work on asap tomorrow.  Thanks.
+PL
+Darla and I tried to go out on the livelink to view some, but it errored on us and wouldn't let us view them.  I have also requested assistance from Mark Thorne that handles the physical files to see if he can help, but have not heard back from him.  If you have another way of getting a copy you might try it as I am not having much luck today.  The only other thing I have was a copy of the tariff and if you want it let me know.
+Marlo
+I really would like to see the contract to verify things are not being booked correctly.  I spoke with Patrice and she does agree that we should not have a large receivable balance.  Try and get me the contract and I will see what I can do.  Thanks.
+PL
+Have you been able to look anymore into this?
+Marlo
+It has been Sylvia's understanding that Nicor Gas Company is a hub which is a storage facility, not the inverse.  We believe there has been a misinterpretation as to what has been stated.  In fact, these contracts have been setup since 1995.
+Attached please find the contracts for Nicor Gas Company and Northern Illinois Gas Company.
+These contracts have existed in the Global Contracts system.  Per the letter dated January 23, 1998, Northern Illinois Gas Company changed its name to Nicor Gas Company.  It indicated that any existing contracts did not have to change its name to Nicor Gas Company.  Thus, the contracts remained under the name Northern Illinois Gas Company.  Further, these existing contracts were Parking, Storage, Transportation and Pooling Service Agreement.
+We suggest that you setup deal tickets and if necessary, we setup new contracts with the service of Balancing ,Wheeling and Loan.  These contracts will feed to Unify accordingly.  Some of the contracts already have deals, which is indicated on the contract title or you can run the Sitara Report to locate the deals behind the contracts 
+If you need our assistance, please do not hesitate to contact us. 
+Thank You.
+Marlene D. Hilliard 
+That will be good going forward if all goes well, however we still need to address the outstanding issues in order to clear the Receivables and Payables.  I will be giving Marlene a copy of the tariff and see if she can get contracts setup.
+Let me know how the test goes.
+Thanks,
+Marlo
+We are changing how we put in these tickets effective November 1 to be on CPR exchange tickets.  When I get my reports for October we will go out and set up storage contracts for what we have right now and start using them accordingly.  Part of the problem has been in the way we have to send Nicor on an EDI process.  I am going to revisit and see if we can test in stage doing it thru CPR tickets and if that works then there should be no problem.  Please keep me posted and anything I can do to be of assistance please let me know. 
+Thanks,
+Cora
+We, Vol Mgmt and Settlements are still trying to get the Nicor/Northerin Illinois Gas deals cleared through Unify.  Kam had tried to help Kathy Kelly and I last year with putting in storage tickets for the deals that address the Balancing/Wheeling/ and Loan volumes that ENA is charged by the Hub every month.  These volumes are coming through the Supply verifications and Sales invoices but are not being paid, nor being sent out and therefore creating issues for Settlements.   I remember that Sylvia Campos had stated that those tickets were not possible to put in because Nicor is an Hub not a storage facility.  My Nicor rep. faxed me copies of their tariff effective July15, 1999 stating they have the capacity for storage and transportation, so I'm a little confused what the problem is that is preventing us setting Nicor up correctly in global and Unify to handle these types of storage deals individually.
+Any assistance with this would be greatly appreciated as we are showing a $4 million receivable outstanding for settlements and a $1.1 million payable on the service side and need to get these cleared as soon as possible.  I can make a copy of the tariff that I have just let me know.
+Thanks,
+Marlo James
+Can you tell me if this is the last financial list we are going to get?  Jeff Gossett wants to be able to tell Don Miller if we are completely done or not.  Can I also get a master list of all financial CP's we should have moved to the bankruptcy book.  We want to run some reports to make sure IT has gotten them all out of the Price book.  Thanks.
+PL
+Cecilia,
+Here is the list of Counterparties that have been requested:
+CP ID	     Counterparty 
+504	     Alabama Gas Corporation
+8	     Amerada Hess Corporation
+64516	     Avista Corporation
+55265	     Avista Energy, Inc.
+68247	     Bankers Trust International PLC
+65291	     BP Corporation North America Inc.
+410	     Burlington Resources, Inc.
+23848	     Cabot Oil & Gas Marketing Corporation
+79689	     Calpine Energy Services, L.P.
+5264	     Cargill, Incorporated
+881	     Central Illinois Light Company	
+65599	     CMS Field Services Inc.
+69	     Columbia Energy Services Corporation
+56630	     Consolidated Energy Solutions, Inc.
+26427	     Consumers Gas Company, LTD.
+74362	     Continental Gas, Inc.
+52577	     Cornerstone Propane, L.P.
+1424	Florida Power Corporation	
+55109	Hess Energy Trading Company LLC	
+3796	Hunt Petroleum Corporation	
+1901	Kaztex Energy Management Inc.	
+2094	Marathon Oil Company	
+53782	National Energy & Trade, L.L.C.	
+5563	New York Mercantile Exchange	
+64141	NJR Energy Services Company	
+155	Noble Gas Marketing Inc.	
+151	Northern Illinois Gas Company	
+69121	NRG Power Marketing Inc.	
+63665	Occidental Energy Marketing, Inc.	
+54438	PG&E Energy Trading, Canada Corporation	
+58402	PG&E Energy Trading-Gas Corporation	
+46709	Phibro Inc.	
+55776	Pioneer Natural Resources USA, Inc.	
+33367	PMI Trading, LTD	
+49262	Questar Energy Trading Company	
+65268	Reliant Energy Services, Inc.	
+187	San Diego Gas & Electric Company	
+103469	Sequent Energy Management, L.P.	
+3996	Sithe Energies, Inc.	
+26146	Societe Generale	
+11134	St. Mary Land & Exploration Company	
+3022	Texaco Natural Gas Inc.	
+81385	The New Power Company	
+37810	Venoco, Inc.	
+96651	Vitol Capital Management Ltd.	
+46924	Vitol S.A.	
+232	Western Gas Resources, Inc.	
+237	Wisconsin Power And Light Company	
+I approve.  FYI - please let everyone know in EOL of the following changes that are effective as of today - I am now over the East desk, Kam is over the West and Scott Palmer is over Central.  Thanks.
+PL
+Your review and approval of the following product type in the EOL Data manager is needed (for directions on approval, please see steps for approval at the bottom of this e-mail).  Please do not approve before 11 A.M.
+CAN Gas Phy Fwd Firm East Spd < or =3D 1Mo=09(2193)
+Can Gas Phy Spd  Dawn vs Niagara   Nov01           USD/MM
+A Canadian Gas Spread Transaction which is entered into as two physical Tra
+STEPS FOR APPROVAL:
+click the =09START button=20
+select =09PROGRAMS
+select =09TEST APPLICATIONS
+select=09ENRONONLINE CLUSTER(PROD)
+=09PROCEED WITH USUAL LOGIN/PASSWORD=20
+click the=09Enron Online Production Cluster "START" button =20
+select=09EnronOnLine (this is the EOL Datamanager)
+=09PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up=20
+TO APPROVE:  Right mouse click on "Approved"
+CW
+3-7533
+total bill was $230.  Thanks.
+PL
+Just let me know when you find out the final room bill and I'll cut you a check for half.
+Scott Crowell
+Manager - Enron Networks
+1400 Smith Street
+Houston, Texas  77002-7361
+713-345-3638    office
+713-628-1192    cellular
+that is fine.  Shouldn't spend all of your money on booze and tickets to a game that you only watch half of.
+PL
+Do you mind if I get you a check on payday?
+total bill was $230.  Thanks.
+PL
+Just let me know when you find out the final room bill and I'll cut you a check for half.
+Scott Crowell
+Manager - Enron Networks
+1400 Smith Street
+Houston, Texas  77002-7361
+713-345-3638    office
+713-628-1192    cellular
+we will be in an offsite training session all day Thursday.
+PL
+X-INFO: INVALID TO LINE
+ COLLEGE STATION, Texas (AP) - Football practice was delayed on Monday for
+ nearly two hours at Texas A&M University.

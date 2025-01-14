@@ -1,0 +1,3384 @@
+Duuna Richardson
+  IntercontinentalExchange, LLC
+  2100 RiverEdge Parkway, Suite 400
+  Atlanta, GA  30328
+  Tel:    770.738.2137
+  Fax:   770.951.5481
+The resolution giving Robert Cass and Sheri Thomas approval to execute 
+Password Applications as agents and attorneys-in-fact has been executed 
+effective 11/02/00.  I will send a copy down to Frank Davis.  The original 
+goes into the Company's Minute Books maintained in the Corporate Secretary's 
+Office on the 48th Floor.
+We have received the following executed documents from counterparty:
+1.  First Amendment to ISDA Master Agreement dated as of 04/27/99 between ECT 
+and Engage Energy US, L.P. (i) making certain changes to setoff provisions 
+and (ii) changing Counterparty's exposure threshold; and
+2.  ISDA Master Agreement (Multicurrency-Cross Border) between ECT Canada and 
+Engage Energy Canada, L.P. executed 05/03/99, effective as of 01/31/97.
+Copies will be distributed.
+We have received the fully executed Information Services Agreement between 
+Enron Net Works LLC and Kase and Company, Inc. dated 11/1/00.  Copies will be 
+distributed.
+Thanks 
+Marie Heard@MUNICATIONS
+11/03/2000 04:49 PM
+Here are the NDA's.
+Marie Heard
+Senior Legal Specialist
+Enron Broadband Services
+Phone:  (713) 853-3907
+Fax:  (713) 646-8537
+Marie_Heard@.net
+Tana Jones@ECT
+10/31/00 09:11 AM
+Am trying to get copies of the executed NDA's for the counterparties listed 
+below.  When you get this can you call me 	Dovie Keprta@MUNICATIONS
+10/30/2000 04:51 PM
+Clarifications Exodus Communications, Inc. (executed by David Berberian)
+SAP - will send information shortly to get that one going.
+FinancialSettlementMatrix.com - I think this is the full company name.  I 
+will have to clarify tomorrow, if necessary.
+inwarehouse.com - I am in posession of executed NDA done through EBS (they 
+may not have filed their copy yet, just finished last week).  I will forward 
+to you if you'd like
+Everything else looks great 
+Tana Jones@ECT
+10/30/00 04:03 PM
+I checked your list against the EBS list and came up with the information 
+below.  Can you verify the full names of the companies below.  Upon receipt, 
+I will request copies of existing NDA's from EBS.
+Thanks!
+Dovie Keprta@MUNICATIONS
+10/30/2000 02:14 PM
+Tana-
+Here are the companies that we are currently talking with that require an 
+NDA.  I believe that all of these are covered under NDA via EBS.
+I assume it's common practice to have to go through this process due to our 
+group's move from one company to another, but have been asked by one of our 
+originators if there's a way to work around it;  the point being that it's an 
+inconvenience to the counterparty to jump through another hoop because of our 
+situation 
+Let me know if there's anything I can do to help you!
+-Dovie
+Ariba, Inc. - draft sent 8/14/00
+Commerce One, Inc. - bilateral executed
+Exodus-need to know full name of your customer
+Financial Settlement Matrix-nothing
+i2 Technologies-in progress
+Interliant, Inc. - draft sent 5/5/00
+inwarehouse.com-nothing
+Oracle Corporation - executed bilateral
+Sabre Corporation - executed bilateral
+SAP-nothing, need the fully name of your customer
+Thanks Marie!
+Marie Heard@MUNICATIONS
+11/03/2000 04:49 PM
+Here are the NDA's.
+Marie Heard
+Senior Legal Specialist
+Enron Broadband Services
+Phone:  (713) 853-3907
+Fax:  (713) 646-8537
+Marie_Heard@.net
+Tana Jones@ECT
+10/31/00 09:11 AM
+Am trying to get copies of the executed NDA's for the counterparties listed 
+below.  When you get this can you call me 	Dovie Keprta@MUNICATIONS
+10/30/2000 04:51 PM
+Clarifications Exodus Communications, Inc. (executed by David Berberian)
+SAP - will send information shortly to get that one going.
+FinancialSettlementMatrix.com - I think this is the full company name.  I 
+will have to clarify tomorrow, if necessary.
+inwarehouse.com - I am in posession of executed NDA done through EBS (they 
+may not have filed their copy yet, just finished last week).  I will forward 
+to you if you'd like
+Everything else looks great 
+Tana Jones@ECT
+10/30/00 04:03 PM
+I checked your list against the EBS list and came up with the information 
+below.  Can you verify the full names of the companies below.  Upon receipt, 
+I will request copies of existing NDA's from EBS.
+Thanks!
+Dovie Keprta@MUNICATIONS
+10/30/2000 02:14 PM
+Tana-
+Here are the companies that we are currently talking with that require an 
+NDA.  I believe that all of these are covered under NDA via EBS.
+I assume it's common practice to have to go through this process due to our 
+group's move from one company to another, but have been asked by one of our 
+originators if there's a way to work around it;  the point being that it's an 
+inconvenience to the counterparty to jump through another hoop because of our 
+situation 
+Let me know if there's anything I can do to help you!
+-Dovie
+Ariba, Inc. - draft sent 8/14/00
+Commerce One, Inc. - bilateral executed
+Exodus-need to know full name of your customer
+Financial Settlement Matrix-nothing
+i2 Technologies-in progress
+Interliant, Inc. - draft sent 5/5/00
+inwarehouse.com-nothing
+Oracle Corporation - executed bilateral
+Sabre Corporation - executed bilateral
+SAP-nothing, need the fully name of your customer
+Type of Contract:  ISDA Master Agreement (Multicurrency-Cross Border)
+Effective Date:   September 1, 2000
+Counterparty:   H.Q. Energy Services (U.S.) Inc.
+Transactions Covered:  Approved for all products with the exception of: 
+Foreign Exchange
+Governing Law:   New York
+Special Provisions:  The Confirmation section prescribes using the form of 
+confirmation contained in the 2000 ISDA Definitions or the 1993 ISDA Commodity Definitions.  The timing for dispute of confirmations has been 
+amended from the standard 2 days to 3 days.
+Confirmation Desk:  note p.28 of the Schedule to the Master Agreement 
+prescribes the rounding conventions.
+This master agreement is with a U.S. subsidiary of Hydro-Quebec (and contains 
+a Hydro-Quebec guaranty).  You might want to point this out to some of your 
+traders who might be interested in trading under it.
+Tana Jones
+11/03/2000 05:14 PM
+Type of Contract:  ISDA Master Agreement (Multicurrency-Cross Border)
+Effective Date:   September 1, 2000
+Counterparty:   H.Q. Energy Services (U.S.) Inc.
+Transactions Covered:  Approved for all products with the exception of: 
+Foreign Exchange
+Governing Law:   New York
+Special Provisions:  The Confirmation section prescribes using the form of 
+confirmation contained in the 2000 ISDA Definitions or the 1993 ISDA Commodity Definitions.  The timing for dispute of confirmations has been 
+amended from the standard 2 days to 3 days.
+Confirmation Desk:  note p.28 of the Schedule to the Master Agreement 
+prescribes the rounding conventions.
+We just got the executed ISDA Master and guaranty in with the referenced 
+counterparty, a subsidiary of Hydro-Quebec (you may have noticed my email The Counterparty wants to trade with us online immediately.  Can we get them 
+on as an amended counterparty on Monday's list, and can we get them opened to 
+trade financial on Monday?
+Tom Moran
+11/03/2000 05:47 PM
+,
+tm
+exchangeinfo@nymex.com
+11/06/2000 08:33 AM
+Notice No. 00-376
+November 6, 2000
+TO:
+ALL NYMEX MEMBERS AND MEMBER FIRMS
+ALL NYMEX CLEARING FIRMS
+ALL NYMEX OPERATIONS MANAGERS
+FROM: Neal Wolkoff, Executive Vice President
+SUBJECT: MARGIN RATE CHANGE
+Effective Date: Monday, November 6, 2000  (close of business)
+Futures Contracts: California Oregon Border, Palo Verde, and Mid-Columbia 
+Electricity Futures
+Contract Months: All months
+Rate Change:
+NYMEX Division Margins on California Oregon Border, Palo Verde, and 
+Mid-Columbia Electricity Futures Contracts
+Effective Date: Monday, November 6, 2000  (close of business)
+Clearing Member (Maintenance Margin): Old: $5,000      New: $3,000
+Member Customer (Initial Margin): Old: $5,500     New: $3,300
+Non-Member Customer (Initial Margin): Old: $6,750      New: $4,050
+Should you have any questions regarding these changes, please contact Arthur 
+McCoy at (212) 299-2928 or Joe Sanguedolce at (212) 299-2855.  This notice 
+supersedes all previous notices regarding outright margins for the NYMEX 
+California Oregon Border, Palo Verde, and Mid-Columbia Electricity Futures 
+Contracts.
+__________________________________________________
+exchangeinfo@nymex.com
+11/06/2000 08:34 AM
+Notice No. 00-377
+November 6, 2000
+TO:
+ALL NYMEX MEMBERS AND MEMBER FIRMS
+ALL NYMEX CLEARING FIRMS
+ALL NYMEX OPERATIONS MANAGERS
+FROM: Neal Wolkoff, Executive Vice President
+SUBJECT: MARGIN RATE CHANGE
+Effective Date: Monday, November 6, 2000 (close of business)
+Futures Contracts:
+Crude Oil Futures
+Unleaded Gasoline Futures
+Heating Oil Futures
+Contract Months: All Months
+Rate Change:
+NYMEX Division Margins on Crude Oil, Unleaded Gasoline, and Heating Oil 
+Futures Contracts
+Effective Date:  Monday, November 6, 2000
+Clearing Member (Maintenance Margin): Old: $4,000    New:  $3,000
+Member Customer (Initial Margin): Old:  $4,400     New:  $3,300
+Non-Member Customer (Initial Margin): Old:  $5,400   New:  $4,050
+The margin credit for NYMEX Light Sweet Crude/IPE Brent Crude Oil futures 
+spread positions will also be decreased, from $3,500 to $2,500 (at the 
+Clearing Member level), as of Monday, November 6, 2000.  The net margin after 
+the spread will remain unchanged.
+NYMEX Light Sweet Crude/IPE Brent Crude Oil Futures Spread
+Effective Date:  Monday, November 6, 2000
+NYMEX Light Sweet Crude:
+Clearing Member (Maintenance Margin): $3,000
+Member Customer (Initial Margin): $3,300
+Non-Member Customer (Initial Margin): $4,050
+Less: NYMEX Light Sweet/IPE Brent Crude Spread Credit:
+Clearing Member (Maintenance Margin): $2,500
+Member Customer (Initial Margin): $2,750
+Non-Member Customer (Initial Margin): $3,375
+Net Spread Margin:
+Clearing Member (Maintenance Margin): $500
+Member Customer (Initial Margin): $550
+Non-Member Customer (Initial Margin): $675
+Should you have any questions regarding these changes, please contact Arthur 
+McCoy at (212) 299-2928 or Joe Sanguedolce at (212) 299-2855.  This notice 
+supersedes all previous notices regarding outright margins for the NYMEX 
+Crude Oil, Unleaded Gasoline, or Heating Oil Futures Contracts and the margin 
+credit for the NYMEX Light Sweet Crude Oil/IPE Brent Crude futures spread 
+positions.
+__________________________________________________
+Mark Taylor
+10/25/2000 03:34 PM
+My answers below in red.
+Bob Bowen
+10/19/2000 10:39 AM
+I assume you have heard that EOL is soliciting HoustonStreet.com and 
+QuickQuote.com in order to 
+increase their volume and market coverage.  The message below is from Ron 
+Nolte, our IT person
+for the confirmation systems.  I think he is asking some very pertinent 
+questions that may need your
+legal opinion.
+I guess my fear is that you have not been included in the conversations and 
+set-up of EOL's discussions
+with HoustonStreet.com and QuickQuote.com.
+Ron Nolte
+10/16/2000 12:37 PM
+Just came back from a meeting in which Jennifer deBoisblanc Denny and Torrey 
+Moorer informed everyone about the new venture 
+between HoustonStreet.Com and Enron and QuickQuote.com and Enron.   In 90 
+days, HoustonStreet.Com and QuickQuote.com will be offering products offered 
+on EOL.
+I solicit comments from everyone.
+As I understand it, a party wishing to trade gas and power can log onto 
+HoustonStreet.Com and  deals offered on EOL will 
+magically appear. The party might think, "Hey, I can't do better than this on 
+EOL, I'll take this deal".  The deal is transacted and HoustonStreet.Com number is assigned.  As soon as the "Do the Deal button is clicked, the transaction is sent to EOL where
+it is validated.  An EOL deal number is assigned but as far as the party 
+doing the deal is concerned, the deal is a HoustonStreet.Com deal.
+In the case of a gas deal,  the deal will be bridged to both Sitara and 
+TAGG.  The deal at this point would have four deal numbers:
+HoustonStreet.Com Deal #
+EOL Deal #
+Sitara Deal #
+TAGG Deal #
+Based on the meeting, the following requirements surfaced.  If you are in 
+TAGG,  you should be able to access the deal using
+HoustonStreet.Com  Deal #, or the EOL Deal #, or the TAGG Deal 
+If you are in DCAF II,  you should be able to access the deal using 
+HoustonStreet.Com Deal #, or the EOL Deal #, or the Sitara Deal 
+This requirement implies that the capture windows in TAGG and Sitara ( I 
+assume ) will need to be changed to capture both
+the HoustonStreet.Com Deal # and EOL Deal #.  The TAGG Deal number itself  is 
+assigned by the Capture program.
+This will require a database change as well as fairly significant ( it was 
+assumed that there is only one "Originating System")  program modifications 
+to TAGG Deal Capture, TAGG Deal Clearing,  DCAF II, and Enpower Autoconfirm clears Power deals 
+Now for some issues:
+1) Who is the internal party on the deal that is to appear on the 
+confirmation?  Whichever Enron entity  offers that product on EnronOnline 
+will be the party for these trades as well.  Will a HoustonStreet.Com and
+a QuickQuote internal party be set up in Global Counterparty 
+There are implications for Global Counterparty since all address information 
+is set up based on who the external party is doing business with.
+In other words, if there are new internal parties, the address information 
+set up for these same external  parties that do trades on EOL will
+have to be set up again for doing business with the new internal parties.
+2) Is the confirm to sport a HoustonStreet.Com logo and a QuickQuote.com 
+logo? No.  The confirms may reference the platform on which the trade was 
+done but otherwise it should look just like a regular Enron confirmation.
+3) Who is to sign the confirmation letters when signatures are required Same process as exists for EnronOnline transactions.
+4) Contract numbers will have to be set up just as they are for trading under 
+EOL.  But who are the contracts between?  If
+new internal parties are set up for HoustonStreet.Com and QuickQuote.com, 
+then contracts will have to be set up
+between the new internal parties.  But since a HoustonStreet.Com deal goes 
+through EOL, how will the appropriate
+contract be assigned?; i.e., if Koch does a deal through HoustonStreet.Com, 
+is  a different contract assigned 
+in EOL versus if Koch does the deal through EOL itself? Seems to me it 
+should be the same - we only have one agreement with Koch.
+Tana, 
+Please remove my name from this distribution and add Connie  Sutton.  I have 
+changed groups to the Gas Asset Team. 
+Thanks,
+Melissa
+We have received the following executed documents from counterparty:
+1.  First Amendment to ISDA Master Agreement dated as of 04/27/99 between ECT 
+and Engage Energy US, L.P. (i) making certain changes to setoff provisions 
+and (ii) changing Counterparty's exposure threshold; and
+2.  ISDA Master Agreement (Multicurrency-Cross Border) between ECT Canada and 
+Engage Energy Canada, L.P. executed 05/03/99, effective as of 01/31/97.
+Copies will be distributed.
+Per Leslie Hansen, above counterparty will not be approved to trade power 
+online.  She said she spoke to counterparty and they are a distribution 
+company and not FERC approved to sell power.  So we will not change that 
+profile.
+I am looking for the merger documents dated 12/30/99 wherein Devon Energy 
+Corp. merged with Devon Energy Production Company, L.P., and PennzEnergy 
+Exploration and Production Company, L.L.C.  If you've got a copy can you fax 
+it to me via 646-3490.  Thanks!
+Why do we have so many deals from Coral that need to be assigned?
+Kevin Meredith@
+11/06/2000 10:58 AM
+Tana,
+Coral Energy Resources has six more deals from Thursday 11/02/00 that need to 
+be assigned to Coral Energy Holdings.  The deal numbers are as follows:
+Q74176.1
+Q74562.1
+Q74565.1
+Q74569.1
+Q75591.1
+Q75597.1
+These deals will have a status of "Pending - Sent to Legal" until I hear back 
+from you.
+Thank you.
+Kevin
+Can someone talk to Coral so I can get out of the business of assigning 
+"oops" trades 	Kevin Meredith@
+11/06/2000 11:12 AM
+These are all Enron Online deals.  Evidently, the Coral traders are logging 
+into EOL incorrectly.  We have one other deal that Joe Hunter emailed you 
+previously.  I am uncertain whether or not the Coral traders can be prevented 
+from logging in as Coral Energy Resources.
+Why do we have so many deals from Coral that need to be assigned?
+Kevin Meredith@
+11/06/2000 10:58 AM
+Tana,
+Coral Energy Resources has six more deals from Thursday 11/02/00 that need to 
+be assigned to Coral Energy Holdings.  The deal numbers are as follows:
+Q74176.1
+Q74562.1
+Q74565.1
+Q74569.1
+Q75591.1
+Q75597.1
+These deals will have a status of "Pending - Sent to Legal" until I hear back 
+from you.
+Thank you.
+Kevin
+Thanks, I appreciate it!
+Cheryl Johnson@
+11/06/2000 11:11 AM
+Done.
+Marilyn Colbert@ECT
+11/06/2000 10:44 AM
+CJ - Could you please handle fhis for Tana? Thanks! MC
+I am looking for the merger documents dated 12/30/99 wherein Devon Energy 
+Corp. merged with Devon Energy Production Company, L.P., and PennzEnergy 
+Exploration and Production Company, L.L.C.  If you've got a copy can you fax 
+it to me via 646-3490.  Thanks!
+Re: Navajo Tribal Utility Authority:  Per Leslie, not a FERC approved 
+counterparty.  This cpy can have read-only access for US power products Leslie spoke to Dinanna Dechilly at the authority and they are not interested 
+in trading power at this time, but will let her know when they are.  She will 
+have to follow up with them re: their FERC approved status at that time.
+Walter Guidroz@
+11/06/2000 01:53 PM
+Attached are ClickPaper approvals for November 6, 2000.
+We have received the fully executed Unanimous Written Consent of Managers of 
+EnronOnline, LLC  dated 11/6/00, effective as of 10/11/00, which appoints 
+Amita Gosalia, Dale Neuner and Sheri Thomas as agents and attorneys-in-fact 
+to execute Password Applications on behalf of EOL.  This resolution will 
+expire one year from the date of its effectiveness.  When you execute, please 
+sign as "Agent and Attorney-in-Fact".  The original will be filed in the 
+minute book of EnronOnline maintained in the Corporate Secretary's Office on 
+the 48th floor, and a copy will be provided to Lisa Lees and Amita Gosalia.
+We have received the executed Mutual Nondisclosure Agreement dated 10/31/00 
+between the referenced counterparty and Enron Net Works LLC and EnronOnline, 
+LLC.  Copies will be distributed.
+Bradley Diebner
+11/06/2000 05:04 PM
+,
+bd
+Just an update on the status of the signing.  As of Friday, Duke supposedly 
+had signed their documents but wouldn't fax them over because they didn't 
+like the certificate that Enron Corp. provided with respect to the guaranty Clement Abrams,  Enron Corp.'s lawyer, spoke to Duke's lawyer this morning 
+and is preparing an additional certificate that should address their 
+concerns.  He is getting it signed and will then fax it directly to them and 
+give me the original for transmittal.  I'll keep you posted on how things 
+progress 
+Are these physical, financial or both?
+Melissa Ann Murphy
+11/07/2000 09:43 AM
+Hi Tana, I spoke to Dynegy this morning and they would like to assign the 
+trades listed on the above attachment from Dynegy Power Marketing, Inc. to 
+Dynegy Marketing and Trade.
+Let me know if you need any further information.
+Thank you,
+Melissa
+3-1886
+Please try and open up HQ Energy Services ASAP 
+Gaylord Container is shut down by Credit, but it should be open, so it is 
+going to come back thru as an amended counterparty.
+The above counterparty should be coming on tonight's list.  We would like to 
+open them for gas ASAP, and Credit is reviewing the financials now to give 
+them some headroom on power.  If you could let me know ASAP whether you have 
+any issues.
+Thanks for such a prompt response!
+Harry M Collins
+11/07/2000 02:38 PM
+I do not know of any issues with this counterparty.
+Tana Jones
+11/07/2000 02:23 PM
+The above counterparty should be coming on tonight's list.  We would like to 
+open them for gas ASAP, and Credit is reviewing the financials now to give 
+them some headroom on power.  If you could let me know ASAP whether you have 
+any issues.
+Lola Willis@
+11/07/2000 02:48 PM
+Your presence is requested at a  training session of Profiles Mgr. Testing Demo.
+Date                                        10/11/00
+Time                                         3:30-5:30
+Location                                  EB 564
+Thanks 
+Lola
+Please add Mark Taylor to this training.  He has put it on his calendar.
+Lola Willis@
+11/07/2000 02:48 PM
+Your presence is requested at a  training session of Profiles Mgr. Testing Demo.
+Date                                        10/11/00
+Time                                         3:30-5:30
+Location                                  EB 564
+Thanks 
+Lola
+I take it you signed off on this new product.  It is pretty common that we 
+just copy the profile for a similar product for the existing 1500-2000 
+counterparties.  Let me know if you think this is a problem.
+Lisa Lees
+11/07/2000 03:08 PM
+Tana/Karen:
+The product long description below will fall under the new product type US 
+Bandwidth STM-1.  Credit (Tom Moran) has approved copying the profiles for 
+the new product type from the following:
+US Bandwidth DS3 Phy Fwd
+Please respond by 10 a.m. on Wednesday, November 8.
+Thank you.
+Robert B Cass
+10/31/2000 05:38 PM
+Hi Matt 
+SIGMA FACTOR REQUEST:
+Commercial has requested the following new Bandwidth product on EOL.  The 
+product type is similar to a the other Bandwidth products currently listed on 
+EnronOnline.
+New Product TypeCommodity Product Type:   US Bandwidth STM-1 Phy Fwd
+Commodity: Bandwidth 
+Currency:     USD
+Default UOM:   DSO miles
+Country:   USA
+Product: STM-1
+Market Pooling Point Locations: New York to London (NY-LON)
+DS0s: 2016
+Miles: 3471
+Physical Description :
+A US Bandwidth Transaction with Enron Broadband Services, L.P. ("EBS pursuant to which the Seller shall sell and the Buyer shall buy the quantity 
+of Bandwidth Units submitted by Counterparty via the Website. The number of 
+DSO's per STM-1 is 2016. The price shall be as submitted by the Counterparty 
+via the Website. Any party entering into a Transaction to buy or sell 
+Bandwidth Units from or to EBS shall be responsible for connecting to the 
+Demarcation Point located at each Market Pooling Point in order to take 
+physical delivery of such Bandwidth.  In order to achieve such connectivity, 
+a party may incur costs and expenses and may additionally be required to 
+execute certain documentation.
+The Term of the Transaction shall begin at 12:00 a.m. (EST) on the Effective 
+Date and continue to 11:59: 59 p.m. (EST) on the Termination Date. The 
+Effective Date is 01 Nov 2000 and the Termination Date is 30 Apr 2001.
+The Transaction shall be for Bandwidth between the New York Market Pooling 
+Point (111 8th Avenue, Suite 1517, New York, NY 10011, NPA-NXX: 212-462, 
+CLLI: NYCMNY83H62) and the London Market Pooling Point (Telecity 2, 8-9 
+Harbour Exchange, 1st Floor, Room 1T, London, E14 9GE),  for a total of 3,471 
+DSO miles.
+The price is quoted in US Dollars per unit of volume, which will be the 
+Contractual Currency.
+The unit of measure against which the Unit Price is quoted is one DSO mile 
+per month and the quantity shown shall be in number of Bandwidth Units per 
+month. Therefore, the Contract Price will be calculated as follows: Price x 
+the  number of DSO's per Bandwidth Unit x the number of DSO miles x the 
+number of Bandwidth Units.
+OK w/me.
+=09Lisa Lees
+=0911/07/2000 03:12 PM
+=09=09=20
+Tana/Karen:
+The product long description below will fall under the new product type US=20
+Crude Basis Swap.  Credit (Tom Moran) has approved copying the profiles for=20
+the new product type from the following:
+US WTI Fin Swap
+Please respond by 10 a.m. on Wednesday, November 8.
+Thank you.
+Robert B Cass
+10/31/2000 05:13 PM
+Hi Matt-  =20
+SIGMA FACTOR REQUEST:
+Commercial has requested the following new Crude Oil Financial product type=20
+on EOL.  The product type is similar to a gas basis link product type except=20
+that the commodity is Crude.   (Platt's Indices will apply for the fixed and=20
+float pricing 
+New Product TypeCommodity: =20
+Product Type:   US Crude Fin Basis Swap
+Commodity: Crude Oil
+Currency:     USD
+Default UOM:   Barrels
+Country:   USA
+Financial Description (e.g):
+The term of the Transaction shall be from the Effective Date to the=20
+Termination Date. The Effective Date is 01 Jan 2001. The Termination Date is=20
+31 Dec 2001.
+(Note:  The following 3 indices will be applicable)
+(Light Louisiana Sweet)
+The Fixed Price for a Determination Period shall be the mean of the daily=20
+first line quotations for WTI/(MONTH) under the heading "U.S. $/Bbl" in the=20
+Crude Price Assessments section of Platt=01,s Oilgram Price Report for those=20
+issues published for the applicable Calculation Period, modified by the price=20
+submitted by the Counterparty on the website.  The Index for a day shall be=20
+the mean of the daily quotations for LLS under the heading "U.S. $/Bbl" in=20
+the Crude Price assessments section of Platt=01,s Oilgram Price Report for those=20
+issues published for the applicable Calculation Period.=20
+(West Texas Sour)
+The Fixed Price for a Determination Period shall be the mean of the daily=20
+first line quotations for WTI/(MONTH) under the heading "U.S. $/Bbl" in the=20
+Crude Price Assessments section of Platt=01,s Oilgram Price Report for those=20
+issues published for the applicable Calculation Period, modified by the price=20
+submitted by the Counterparty on the website.  The Index for a day shall be=20
+the mean of the daily quotations for WTS under the heading "U.S. $/Bbl" in=20
+the Crude Price assessments section of Platt=01,s Oilgram Price Report for those=20
+issues published for the applicable Calculation Period.
+(Midland Sweet.) =20
+The Fixed Price for a Determination Period shall be the mean of the daily=20
+first line quotations for WTI/(MONTH) under the heading "U.S. $/Bbl" in the=20
+Crude Price Assessments section of Platt=01,s Oilgram Price Report for those=20
+issues published for the applicable Calculation Period, modified by the price=20
+submitted by the Counterparty on the website.  The Index for a day shall be=20
+the mean of the daily quotations for WTI Midland under the heading "U.S.=20
+$/Bbl" in the Crude Price assessments section of Platt=01,s Oilgram Price Report=20
+for those issues published for the applicable Calculation Period.
+The price is quoted in US Dollars per unit of volume, which will be the=20
+Contractual Currency.
+The unit of measure against which the price is quoted shall be Barrels per=20
+month and the quantity shown shall be in Barrels per month.
+Scott,
+Can you pass on Mary Solmonson's memo to the appropriate London lawyer 
+responsible for Norway power contracts.  Mary is the head of Global Contracts 
+here in Houston, and Phillipe Travis works for Mary, and just went over to 
+London to work on getting systems in place for Global Contracts in London.
+Thanks for your help!
+Mary Solmonson
+08/31/99 09:44 AM
+Philippe has uncovered a group of contracts in Norwegian that are not 
+translated in English at all.  Here is his note :
+Norwegian Power Contracts have not been translated into English.  This has 
+not been an issue for the Power Deal Clearing and Documentation Group because 
+Ellen Wallumrod is from Norway.  She is able to make 'confirms' in her native 
+tongue.  However, this is an issue from Global Contracts because no one can 
+speak Norwegian! 
+I have spoken with translation companies regarding translation fees.  It is 
+very costly to have all of the contracts translated.  There are perhaps a 
+dozen contracts.  Should legal cover the translation expenses?  Ian believes 
+that only parts of the contract need to be translated.  But, how do I know 
+which parts need to be translated?  And, with Auditors in mind, shouldn't we 
+have English copies on hand?
+Do we need to have a complete English version ?
+If not, would it be acceptable to translate only certain paragraphs ?
+Should we (Global Contracts) target building a multi-lingual staff for the 
+future - esp. in London office ?
+Got any ideas or opinions ?
+OK for me.
+Lisa Lees
+11/07/2000 03:17 PM
+Tana/Karen:
+The product long description below will fall under the new product type US 
+Gas Phy Index Firm 3-day Flexible non-TX>1Mo<1Yr.  Credit (Tom Moran) has 
+approved copying the profiles for the new product type from the following:
+US Gas Phy Index Firm non-TX>1Mo<1Yr
+Please respond by 10 a.m. on Wednesday, November 8.
+Thank you.
+Your review and approval of the following product type in the EOL Datamanager 
+is needed. This product already exists for products less than 1month 
+Mark:  Stacey Dickson has already approved this language.
+US Gas Phy Index Firm 3-day Flexible non-TX>1Mo<1Yr
+EXAMPLE:
+The Contract Price shall be the price derived from the Index for that 
+calendar month, as adjusted by the price submitted by the Counterparty via 
+the website. The Buyer shall pay the Contract price for each calendar month 
+during the Period  for gas received. The Seller shall pay the Index for each 
+calendar month for gas received.
+The term of the Transaction shall be from the Effective Date of __ ___ 2000 
+to the Termination Date of __  ____ 2000.
+The transaction is for delivery at Columbia, Appalachian. The Period of 
+Delivery shall be from the effective date through the termination date. The 
+Purchase Dates shall be each of no less than three days as designated by 
+Buyer within each calendar month during the Period of Delivery. Buyer shall 
+notify Seller by facsimile of Buyer's designation of a Purchase Date by no 
+later than 10:45 a.m. Central Prevailing Time on the due date of the pipeline 
+nomination for the day on which Buyer desires the gas to flow.
+The Index for each calendar month shall be the Columbia Gas Transmission 
+Corp., Appalachia (W. Va., Ohio, Ky.) price as listed in the section entitled 
+"Prices of Spot Gas Delivered to Pipelines", published in the first issue in 
+such month of Inside Ferc's Gas Market Report.
+The price is quoted in US Dollars per unit of volume, which will be the 
+Contractual Currency.
+The unit of measure against which the price is quoted shall be millions of 
+British thermal units and the quantity shown shall be in millions of BTUs per 
+day.
+OK for me.
+Lisa Lees
+11/07/2000 03:19 PM
+Tana/Karen:
+The product long description below will fall under the new product type US 
+Gas Phy Index Firm 5-day Flexible non-TX>1Mo<1Yr.  Credit (Tom Moran) has 
+approved copying the profiles for the new product type from the following:
+US Gas Phy Index Firm non-TX>1Mo<1Yr
+Please respond by 10 a.m. on Wednesday, November 8.
+Thank you.
+Your review and approval of the following product type in the EOL Datamanager 
+is needed. This product already exists for products less than 1month 
+Mark:  Stacey Dickson has already approved this language.
+EXAMPLE:
+The Contract Price shall be the price derived from the Index for that 
+calendar month, as adjusted by the price submitted by the Counterparty via 
+the website. The Buyer shall pay the Contract price for each calendar month 
+during the Period  for gas received. The Seller shall pay the Index for each 
+calendar month for gas received.
+The term of the Transaction shall be from the Effective Date of __ ___ 2000 
+to the Termination Date of __  ____ 2000.
+The transaction is for delivery at Columbia, Appalachian. The Period of 
+Delivery shall be from the effective date through the termination date. The 
+Purchase Dates shall be each of no less than five days as designated by Buyer 
+within each calendar month during the Period of Delivery. Buyer shall notify 
+Seller by facsimile of Buyer's designation of a Purchase Date by no later 
+than 10:45 a.m. Central Prevailing Time on the due date of the pipeline 
+nomination for the day on which Buyer desires the gas to flow.
+The Index for each calendar month shall be the Columbia Gas Transmission 
+Corp., Appalachia (W. Va., Ohio, Ky.) price as listed in the section entitled 
+"Prices of Spot Gas Delivered to Pipelines", published in the first issue in 
+such month of Inside Ferc's Gas Market Report.
+The price is quoted in US Dollars per unit of volume, which will be the 
+Contractual Currency.
+The unit of measure against which the price is quoted shall be millions of 
+British thermal units and the quantity shown shall be in millions of BTUs per 
+day.
+OK for me.
+Lisa Lees
+11/07/2000 03:20 PM
+Tana/Karen:
+The product long description below will fall under the new product type US 
+Gas Phy Index Firm 10-day Flexible non-TX>1Mo<1Yr.  Credit (Tom Moran) has 
+approved copying the profiles for the new product type from the following:
+US Gas Phy Index Firm non-TX>1Mo<1Yr
+Please respond by 10 a.m. on Wednesday, November 8.
+Thank you.
+Your review and approval of the following product type in the EOL Datamanager 
+is needed. This product already exists for products less than 1month 
+Mark:  Stacey Dickson has already approved this language.
+US Gas Phy Index Firm 10-day Flexible non-TX>1Mo<1Yr
+EXAMPLE:
+The Contract Price shall be the price derived from the Index for that 
+calendar month, as adjusted by the price submitted by the Counterparty via 
+the website. The Buyer shall pay the Contract price for each calendar month 
+during the Period  for gas received. The Seller shall pay the Index for each 
+calendar month for gas received.
+The term of the Transaction shall be from the Effective Date of __ ___ 2000 
+to the Termination Date of __  ____ 2000.
+The transaction is for delivery at Columbia, Appalachian. The Period of 
+Delivery shall be from the effective date through the termination date. The 
+Purchase Dates shall be each of no less than ten days as designated by Buyer 
+within each calendar month during the Period of Delivery. Buyer shall notify 
+Seller by facsimile of Buyer's designation of a Purchase Date by no later 
+than 10:45 a.m. Central Prevailing Time on the due date of the pipeline 
+nomination for the day on which Buyer desires the gas to flow.
+The Index for each calendar month shall be the Columbia Gas Transmission 
+Corp., Appalachia (W. Va., Ohio, Ky.) price as listed in the section entitled 
+"Prices of Spot Gas Delivered to Pipelines", published in the first issue in 
+such month of Inside Ferc's Gas Market Report.
+The price is quoted in US Dollars per unit of volume, which will be the 
+Contractual Currency.
+The unit of measure against which the price is quoted shall be millions of 
+British thermal units and the quantity shown shall be in millions of BTUs per 
+day.
+Sounds to me like you don't need to worry about opening them up for power 	Leslie Hansen
+11/07/2000 03:27 PM
+Tana:
+ANP Power Marketing Company is NOT a current counterparty and is not on my 
+list of FERC approved sellers of power.  Thus, this counterparty is NOT 
+authorized to trade US power.  (It sure sounds like a power marketer.  They 
+are free to call me to discuss if they are FERC approved.)
+Leslie
+Tana Jones
+11/07/2000 02:23 PM
+The above counterparty should be coming on tonight's list.  We would like to 
+open them for gas ASAP, and Credit is reviewing the financials now to give 
+them some headroom on power.  If you could let me know ASAP whether you have 
+any issues.
+Bradley Diebner
+11/07/2000 03:38 PM
+,
+bd
+Adnan Patel@
+11/07/2000 04:13 PM
+Attached is the revised Clickpaper approvals list for 11-06-00
+Note: Counterparty called back and reverified the Legal Name for Delta paper 
+Corporation
+Andy Zipper@
+11/07/2000 04:55 PM
+I spoke with EDF Man president Mary Bergonia and was told that they found our 
+NDA overly broad. Given that they had these problems I aksed them to draft 
+the document, and if we can live with it we will sign it. Please contact 
+their attorneys and  inquire as to when we might receive the document.
+-Andy
+Call Leslie Hansen at x36121.  She is a lawyer and will be able to help you I am a paralegal that assists her.
+Stephen Abbanat@MUNICATIONS
+11/07/2000 05:14 PM
+Tana,
+I may have a need for legal review of a draft MOU and agreement with Oracle 
+in the near future.  Dovie tells me you are our primary contact 
+What is the best process for scheduling time for legal support on an MOU?
+- Steve
+Dovie Keprta
+11/07/00 12:20 PM
+Steve-
+Tana Jones is the legal specialist for our group.  She has handled all of the 
+NDAs and I'm sure she's got info for your MOU purposes 
+Her extension:  713-853-3399
+-dovie
+I haven't heard anything back from you re: this approval.  The EOL people 
+need a sign off ASAP.
+Tana Jones
+11/07/2000 03:12 PM
+I take it you signed off on this new product.  It is pretty common that we 
+just copy the profile for a similar product for the existing 1500-2000 
+counterparties.  Let me know if you think this is a problem.
+Lisa Lees
+11/07/2000 03:08 PM
+Tana/Karen:
+The product long description below will fall under the new product type US 
+Bandwidth STM-1.  Credit (Tom Moran) has approved copying the profiles for 
+the new product type from the following:
+US Bandwidth DS3 Phy Fwd
+Please respond by 10 a.m. on Wednesday, November 8.
+Thank you.
+Robert B Cass
+10/31/2000 05:38 PM
+Hi Matt 
+SIGMA FACTOR REQUEST:
+Commercial has requested the following new Bandwidth product on EOL.  The 
+product type is similar to a the other Bandwidth products currently listed on 
+EnronOnline.
+New Product TypeCommodity Product Type:   US Bandwidth STM-1 Phy Fwd
+Commodity: Bandwidth 
+Currency:     USD
+Default UOM:   DSO miles
+Country:   USA
+Product: STM-1
+Market Pooling Point Locations: New York to London (NY-LON)
+DS0s: 2016
+Miles: 3471
+Physical Description :
+A US Bandwidth Transaction with Enron Broadband Services, L.P. ("EBS pursuant to which the Seller shall sell and the Buyer shall buy the quantity 
+of Bandwidth Units submitted by Counterparty via the Website. The number of 
+DSO's per STM-1 is 2016. The price shall be as submitted by the Counterparty 
+via the Website. Any party entering into a Transaction to buy or sell 
+Bandwidth Units from or to EBS shall be responsible for connecting to the 
+Demarcation Point located at each Market Pooling Point in order to take 
+physical delivery of such Bandwidth.  In order to achieve such connectivity, 
+a party may incur costs and expenses and may additionally be required to 
+execute certain documentation.
+The Term of the Transaction shall begin at 12:00 a.m. (EST) on the Effective 
+Date and continue to 11:59: 59 p.m. (EST) on the Termination Date. The 
+Effective Date is 01 Nov 2000 and the Termination Date is 30 Apr 2001.
+The Transaction shall be for Bandwidth between the New York Market Pooling 
+Point (111 8th Avenue, Suite 1517, New York, NY 10011, NPA-NXX: 212-462, 
+CLLI: NYCMNY83H62) and the London Market Pooling Point (Telecity 2, 8-9 
+Harbour Exchange, 1st Floor, Room 1T, London, E14 9GE),  for a total of 3,471 
+DSO miles.
+The price is quoted in US Dollars per unit of volume, which will be the 
+Contractual Currency.
+The unit of measure against which the Unit Price is quoted is one DSO mile 
+per month and the quantity shown shall be in number of Bandwidth Units per 
+month. Therefore, the Contract Price will be calculated as follows: Price x 
+the  number of DSO's per Bandwidth Unit x the number of DSO miles x the 
+number of Bandwidth Units.
+I heard back from the power lawyer and they do not appear to have a FERC 
+license.  He is going to have to talk to her and clear this up.
+Mary Griff Gray
+11/08/2000 08:29 AM
+Tana --- I talked to Jeff Mansfield this a.m. and he implied that they should 
+be receiving a blessing for transacting power.   I'm not sure where he got 
+that info, but it must not be true, huh?
+Thanks, Griff
+Bradley Diebner
+11/08/2000 08:01 AM
+We approved these guys yesterday for gas.  Our power team is looking at them 
+for power, but a message came down from legal that they will probably be shut 
+down for power.  They are open for gas. 
+Hey guys --- This company wants to be approved for both gas and power 
+transactions.
+Thanks,
+Griff
+Brad,
+Here's another one.  They come in groups you know.  Hopefully, this will be 
+the last credit question for a bit.
+How is the credit part coming on this company's app?  The latest Access data 
+base entry appears to be October 23rd.
+Thanks,
+Griff
+I also noticed the ISDA memo, and was rooting around looking for the 
+attachments that went with it, and couldn't find them.  There was also a few 
+updates in a second memo there to some country opinions.  If and when Mark 
+calls in I was going to ask him if he knows where the attachments went, 
+because the one will cost $100 if we have to order it.
+I'm talking to their lawyer right now.  He's checking with his power team to 
+find out what name their FERC license is in.  However, we still do not have a 
+Credit sign off on power yet, so I am also working with ("nagging") the power 
+Credit person to get me some headroom.  Let's just say ANP is "evolving" as 
+we speak!
+Mary Griff Gray
+11/08/2000 09:17 AM
+Tana 
+Thanks for the prompt response.  Does this mean that eventually they'll be 
+approved for power, but not at this time?  Or, we'll hold up the transaction 
+ID until the power side is approved.
+Griff
+I heard back from the power lawyer and they do not appear to have a FERC 
+license.  He is going to have to talk to her and clear this up.
+Mary Griff Gray
+11/08/2000 08:29 AM
+Tana --- I talked to Jeff Mansfield this a.m. and he implied that they should 
+be receiving a blessing for transacting power.   I'm not sure where he got 
+that info, but it must not be true, huh?
+Thanks, Griff
+Bradley Diebner
+11/08/2000 08:01 AM
+We approved these guys yesterday for gas.  Our power team is looking at them 
+for power, but a message came down from legal that they will probably be shut 
+down for power.  They are open for gas. 
+Hey guys --- This company wants to be approved for both gas and power 
+transactions.
+Thanks,
+Griff
+Brad,
+Here's another one.  They come in groups you know.  Hopefully, this will be 
+the last credit question for a bit.
+How is the credit part coming on this company's app?  The latest Access data 
+base entry appears to be October 23rd.
+Thanks,
+Griff
+US Legal would have no problem doing business with a Connecticut limited 
+liability company (subject, of course, to Credit approval).  There are some 
+legal considerations with respect to certain products.  In order to trade any 
+financial products the counterparty would have to meet the U.S. "eligible 
+swap participant" standards (which sets certain asset and net worth levels) 
+and to trade U.S. power they would need to have a FERC license.  Otherwise, 
+we have no problem with limited liability companies.
+Stephanie Sever
+11/08/2000 08:52 AM
+Anna Gardiner
+11/08/2000 07:06 AM
+Claudia/Stephanie
+Please could you let me know who would be the best person in Houston Legal to 
+contact about this customer.
+Thanks
+Anna
+Robert Quick
+08/11/2000 11:58
+Anna I have no problem but cd you also check with ENA Legal in Houston. 
+Subject to anything they might say, I approve for all products,including 
+metals (but subject to the Segregation letter) except US power, weather and 
+credit. tks
+Anna Gardiner
+07/11/2000 14:31
+Robert
+In Justin's absence, please could you let me know if we would be able to 
+consider an application from a Limited Liability Company organized under the 
+laws of the State of Connecticut, USA?  If possible, could you provide me 
+with an answer on this today or latest tomorrow as this customer is coming in 
+to the office on Thursday?  The history behind this customer is that the 
+original company that Mr Papaeconomou wanted to trade under (NEWCO) was 
+incorporated in Liberia.  As we do not have the relevant documentation to 
+support trading from Liberia we rejected his application.  This would be a 
+good customer for Andy James (Seafreight) to get online and Mr Papaeconomou 
+is obviously very keen to obtain execute access as soon as possible through a 
+viable company.
+Thanks
+Anna
+Dear Mrs. Gardiner,
+Thank you very much for your message dated November 6, 2000.  Given the
+present legal constraints concerning companies incorporated in Liberia,
+would EnronOnline consider an application by a Limited Liability Company
+organized under the laws of the State of Connecticut?  If yes would you
+please provide the relevant documentation for such entity?
+I am looking forward to hearing from you.
+,
+Lambros Papaeconomou, Director
+New York Freight Exchange, Inc.
+Tel: (203) 961-8848
+Fax: (203) 961-8858
+papaeconomou@nyfex.com
+PS.  I will be in London on Thursday November 9 and have an appointment to
+meet with Andy James of Enron Shipping at 3PM.  Should you be available
+before or after my appointment, I would very much appreciate to meet you in
+person and further discuss the requirements for opening a trading account
+with EnronOnline (beyond the company jurisdiction requirement which I hope
+would now be solved!)
+Walter Guidroz@
+11/08/2000 09:18 AM
+Attached are ClickPaper approvals for November 8, 2000.
+Thanks for the good word!
+Mary Griff Gray
+11/08/2000 09:42 AM
+thanks again for keeping me in the know --- I really appreciate your 
+continuous, prompt help, Tana.
+I'm talking to their lawyer right now.  He's checking with his power team to 
+find out what name their FERC license is in.  However, we still do not have a 
+Credit sign off on power yet, so I am also working with ("nagging") the power 
+Credit person to get me some headroom.  Let's just say ANP is "evolving" as 
+we speak!
+Mary Griff Gray
+11/08/2000 09:17 AM
+Tana 
+Thanks for the prompt response.  Does this mean that eventually they'll be 
+approved for power, but not at this time?  Or, we'll hold up the transaction 
+ID until the power side is approved.
+Griff
+I heard back from the power lawyer and they do not appear to have a FERC 
+license.  He is going to have to talk to her and clear this up.
+Mary Griff Gray
+11/08/2000 08:29 AM
+Tana --- I talked to Jeff Mansfield this a.m. and he implied that they should 
+be receiving a blessing for transacting power.   I'm not sure where he got 
+that info, but it must not be true, huh?
+Thanks, Griff
+Bradley Diebner
+11/08/2000 08:01 AM
+We approved these guys yesterday for gas.  Our power team is looking at them 
+for power, but a message came down from legal that they will probably be shut 
+down for power.  They are open for gas. 
+Hey guys --- This company wants to be approved for both gas and power 
+transactions.
+Thanks,
+Griff
+Brad,
+Here's another one.  They come in groups you know.  Hopefully, this will be 
+the last credit question for a bit.
+How is the credit part coming on this company's app?  The latest Access data 
+base entry appears to be October 23rd.
+Thanks,
+Griff
+Can we open up ANP for gas ASAP.  They have been dying to trade.  They want 
+to trade power but so far Credit has not given them any headroom for power 
+and they do not appear to have a FERC license in this name.  We are working 
+with them trying to figure out how they can trade power.
+Coral Energy Holdings is where we have the financial master.  Are you OK with 
+this assignment?
+Kevin Meredith@
+11/06/2000 10:58 AM
+Tana,
+Coral Energy Resources has six more deals from Thursday 11/02/00 that need to 
+be assigned to Coral Energy Holdings.  The deal numbers are as follows:
+Q74176.1
+Q74562.1
+Q74565.1
+Q74569.1
+Q75591.1
+Q75597.1
+These deals will have a status of "Pending - Sent to Legal" until I hear back 
+from you.
+Thank you.
+Kevin
+Can you please respond to Diane.  Thanks.
+Diane Anderson@
+11/08/2000 11:17 AM
+Hi Tana,
+For our ISDA with the above referenced counterparty, can you tell me
+if we (ENA) are supposed to be the confirming party or is it Soc Gen?
+They've been sending us a lot of their confirms lately (in the Emerging
+Products world, that is....Weather transactions) and are expecting us
+to sign their confirms.   I'd like to confirm that our ISDA says We confirm
+before I go back to them.
+Thanks,
+Diane
+Walter Guidroz@
+11/08/2000 05:21 PM
+Attached is a ClickPaper approval for November 9, 2000.  Also, I will be out 
+of the office in a training class Thursday and Friday.  For ClickPaper credit 
+assistance on those days please call the Credit Hotline at 3-1803.  Thanks.
+Walter
+Bradley Diebner
+11/08/2000 06:01 PM
+,
+bd
+We do have an ISDA Agreement in place between Koch Energy Trading and ENA, 
+but Anthony is correct on a number of accounts.  First, we could not put Oslo 
+trades under this master.  It is a Local Currency form and could not be used 
+for any non US transaction. Second, it is quite old and our forms have 
+evolved since then and we would not want to replicate this form.  Lastly, it 
+has the old "ERMS" style collateral annex, and we would want to use an ISDA 
+Credit Support Annex on a going forward basis.  I would suggest contacting 
+Matt Dawson in London Legal and Rod Nelson in London Credit and getting a new 
+master based off our current form.
+Tana Jones, Houston Legal
+Matthew Allan
+11/09/2000 06:43 AM
+Hi Yumi,
+Yes I realise the entities are going to be different if this turns out to be 
+a ENA ISDA but the by already having an ISDA with the counterparty we can 
+quicken the negotiation process, i.e. 'mirroring' the contract as you say, 
+and having the correct entities in place. Thats what I am proposing we do. 
+This is something we'll need to work with Martin on.
+Thanks
+Matthew
+Yumi Takei
+09/11/2000 12:38
+Hi Matt,
+I believe we may need to set up a new ISDA since ECTRIC is a different entity 
+than ENA.  In the past we have mirrored an existing ENA ISDA in order to 
+create one between the CP and ECTRIC.  However, I'll wait to turn in any 
+requests until I hear what we already have with Koch.
+Thank you,
+Yumi
+Hi Anthony,
+Can you do me a favour and take a look into this ISDA. The traders in our 
+Oslo office have done a weather deal with Koch Energy Trading Inc.  The 
+counterparty mentioned they had an ISDA in place with ECTRIC. We are trading 
+as ECTRIC.   But maybe the CP was confused and thought it was ECTRIC instead 
+of ENA.
+The trader here said she plans to do many more future trades with Koch, and 
+has been asking if we can amend the ENA ISDA to cover Oslo.
+If you can just confirm what you've got, whats covered etc and if possible 
+send through a copy and I can liaise with Oslo and our legal dept to get them 
+covered.
+Thanks
+Matthew
+830 36840
+Enron Europe
+Matt,
+I spoke to Matthew Dawson, and he said there is an old ISDA out there, with 
+an effective & contract date of 23 May 1994 with ECT.
+It was apparently negotiated in Houston, and the contact there is Tana Jones.
+There is no copy here in London, but Matt said he would ask Tana, if we could 
+see one.
+Stephen  (Ext:34716)
+Steve,
+Do we have anything out there for this....should be an ISDA.
+Dig out anything and everything we've got and send it through 
+cheers
+matt
+I'm passing on for response.
+Date:  08/30/1999  12:46 pm  (Monday)
+Did we ever get a signed agreement with Avista?  The question has been asked 
+and the last I have is a copy of the docs sent to Avista by you in
+10/98.  Thanks
+A fellow from Western Publishing Company called Anthony Camppos in Global 
+Contracts and said something to the effect that that wanted to terminate the 
+master with us and trade(s) thereunder.  He referenced Deal No. EK9839.1 I'm not sure by this note if the company is being liquidated or just this 
+trades, but you might want to give them a call.  Jim McClymont at (308) 
+532-7118
+At the request of Bob Shults, I am enclosing our proposed form of 
+Non-Disclosure Agreement for each of Amerex Natural Gas I, Ltd. and Amerex 
+Power, Ltd.  Please call me at (713) 853-3399 or Bob at (713) 853-0397  if 
+you have any comments or questions.
+Tana Jones
+11/09/2000 10:24 AM
+At the request of Bob Shults, I am enclosing our proposed form of 
+Non-Disclosure Agreement for each of Amerex Natural Gas I, Ltd. and Amerex 
+Power, Ltd.  Please call me at (713) 853-3399 or Bob at (713) 853-0397  if 
+you have any comments or questions.
+Will attend.
+Lola Willis@
+11/09/2000 11:01 AM
+You are invited to attend a Profiles Manager Meeting
+Date                                                               11/10/00
+Time                                                                3:00- 5:00
+Location                                                           Training 
+Room EB 572
+This counterparty is approved for all financial.
+Robert Jones appears to be a VP of Enron Net Works, but not EnronOnline. 
+By copy of this email to Deb Korkmas, I would like to confirm that the above 
+is correct, and if it is, can we please get Robert Jones added as a VP of 
+EnronOnline.
+Thanks!
+Leslie Hansen
+11/09/2000 01:00 PM
+Tana:
+Does Robert Jones, HR VP, have signatory authority for Net Works and 
+EnronOnline?   Per Michelle Cash, he needs it since he signs employment 
+contracts, ect.  If he does not, we'll need to have some retroactive 
+resolutions prepared.
+Please let me know.
+Leslie
+I'm interested!  Would it be OK to invite one of my new business people from 
+London, she doesn't know anyone in Houston yet?
+"Patti Young"  	11/09/2000 04:01 PM
+Miss Tana,
+Are you interested in going to the Nutcracker Market this Saturday morning
+and being there for the early bird special (8 a.m.)??  It costs $25 to get
+in early, but that covers $10 admission, $5 parking, coffee and
+refreshments.  Otherwise, you can go at 10 a.m., pay $10 to get in with the
+rest of the crowd and $5 for parking.  I think I am going to plan to be
+there around 7:40-7:45.  Let me know if you are interested.
+Patti
+We have received the executed Confidentiality Agreement dated October 31, 
+We have a really old agreement with the referenced counterparty and I don't 
+think we use it to trade under anymore.  I spoke to the Confirm Desk and it 
+appears all of our trading is under Dynegy Marketing and Trade.  If you 
+concur, I would like to inactive that master, since I'm afraid it might get 
+attached for online trading.
+?
+Deb Korkmas
+11/09/2000 03:27 PM
+I will prepare Unanimous Consent electing Robert Jones.  What do we want to 
+use as effective date?  Please advise.  Thanks, Deb
+Deb Korkmas
+Tana Jones
+11/09/2000 01:09 PM
+Robert Jones appears to be a VP of Enron Net Works, but not EnronOnline. 
+By copy of this email to Deb Korkmas, I would like to confirm that the above 
+is correct, and if it is, can we please get Robert Jones added as a VP of 
+EnronOnline.
+Thanks!
+Leslie Hansen
+11/09/2000 01:00 PM
+Tana:
+Does Robert Jones, HR VP, have signatory authority for Net Works and 
+EnronOnline?   Per Michelle Cash, he needs it since he signs employment 
+contracts, ect.  If he does not, we'll need to have some retroactive 
+resolutions prepared.
+Please let me know.
+Leslie
+I noticed the memo too, and looked around this morning for the attachments 
+that went with them, but couldn't find them.  When Mark calls in I'll ask him 
+what happened to the attachments.
+Leslie Hansen
+11/08/2000 09:26 AM
+Rob:
+I understand from speaking with Andy Zipper that he has invited you to submit 
+a preferred form of NDA in light of your objections to the "overly broad" 
+nature of our NDA.  Andy asked me to follow up with you to touch base and 
+find out when we should expect to see an NDA 
+Thanks,
+Leslie Hansen
+(713) 853-6121
+Per my conv. w/Tanya, the above master should be inactived (which I have 
+already done in Lotus Notes) and taken off the executed Master List.  All the 
+Dynegy Trading is done out of Dynegy Marketing and Trade.
+Thanks.
+Peter, I hate to say, but I had the same thought earlier this morning.  Is 
+there not one thing we can do in this country without having a lawyer in the 
+middle of it.  We've all lost our common sense and direction.
+It sure makes for good TV, though!  I sat all last night flipping from news 
+station to news station getting their spin on what's going on.  I can't say 
+I've ever paid this much attention to a presidential election before.  I've 
+been telling everybody your spin on the electoral college and the 3 party 
+system.  That was a good thought. 
+Peter Keohane
+11/09/2000 04:37 PM
+Congratulations.  It is now official.  The media and trial lawyers officially 
+govern the United Staes of America.  (I suppose it could be worse.  You could 
+live in the Peoples Republic of Canada, or have some appendage to an armbag 
+running the show.)
+Dear Mr. Dune,
+At the request of Dovie Keprta, I am enclosing our proposed form of 
+Non-Disclosure Agreement.  I have also enclosed a blacklined draft showing 
+the changes from the NDA you executed with Enron Broadband.  If the enclosed 
+meets with your approval, please have an authorized officer execute two 
+copies and return them to me for execution by Enron.  If you have any 
+comments or questions, please do not hesitate to call me at (713) 853-3399.
+Bradley Diebner
+11/10/2000 07:54 AM
+,
+bd
+It's just you and me tomorrow.  Soma is having furniture delivered from Star 
+and they said they could only come between 8-12.  So shall we drive 
+together?  Do you want to come to my house?  At what time?
+"Patti Young"  	11/09/2000 04:53 PM
+Of course.  Do you two want to be there for the early show or I could just
+meet you there later?
+Also, you can sign up on the internet for the early bird show.  I don't
+think you can pay when you get there, except if you go at 10 a.m.
+www.houstonballet.org  Look it up here.
+I'm interested!  Would it be OK to invite one of my new business people
+from London, she doesn't know anyone in Houston yet?
+"Patti Young"
+Miss Tana,
+Are you interested in going to the Nutcracker Market this Saturday morning
+and being there for the early bird special (8 a.m.)??  It costs $25 to get
+in early, but that covers $10 admission, $5 parking, coffee and
+refreshments.  Otherwise, you can go at 10 a.m., pay $10 to get in with the
+rest of the crowd and $5 for parking.  I think I am going to plan to be
+there around 7:40-7:45.  Let me know if you are interested.
+Patti
+Per our conv., above counterparty is OK to trade all products (except the 
+usual credit deriv. & Argentina Gas).
+The scary thing about those old goats being too blind to vote is that they're 
+still driving 
+Jon Chapman
+11/10/2000 03:39 AM
+Yeh , the amazing thing about having a tied Bush/Gore election ( I think 
+that's called Hobson's choice) , with one geriatric resort in Florida 
+probably deciding which way it finally goes , is that it has actually made me 
+think (1) that our dear old UK electoral system isn't so bad and (2) that 
+Phony Blair could be a lot worse!!
+Jon
+Congratulations.  It is now official.  The media and trial lawyers officially 
+govern the United Staes of America.  (I suppose it could be worse.  You could 
+live in the Peoples Republic of Canada, or have some appendage to an armbag 
+running the show.)
+Sounds good to me.  I'll see you tomorrow am!
+"Patti Young"  	11/10/2000 11:44 AM
+Would you be ready to roll around 7:15 a.m.?  I will be glad to come to your
+house.  Let me know.
+It's just you and me tomorrow.  Soma is having furniture delivered from
+Star and they said they could only come between 8-12.  So shall we drive
+together?  Do you want to come to my house?  At what time?
+"Patti Young"
+Of course.  Do you two want to be there for the early show or I could just
+meet you there later?
+Also, you can sign up on the internet for the early bird show.  I don't
+think you can pay when you get there, except if you go at 10 a.m.
+www.houstonballet.org  Look it up here.
+I'm interested!  Would it be OK to invite one of my new business people
+from London, she doesn't know anyone in Houston yet?
+"Patti Young"
+Miss Tana,
+Are you interested in going to the Nutcracker Market this Saturday morning
+and being there for the early bird special (8 a.m.)??  It costs $25 to get
+in early, but that covers $10 admission, $5 parking, coffee and
+refreshments.  Otherwise, you can go at 10 a.m., pay $10 to get in with the
+rest of the crowd and $5 for parking.  I think I am going to plan to be
+there around 7:40-7:45.  Let me know if you are interested.
+Patti
+Rick Borden at Macleod Dixon sent us a fax requesing copies of the documents 
+on the prepay.  Can you send him a copy?  Also, when they're all together, 
+can you send a copy to me for our files.  Thanks!
+We have completed the revisions to anexb.doc (the document used to prepare 
+credit for omnibus confirmations).  It has been moved into the attorney forms 
+bank and is located in atty.fms/swaps/current forms/anexb.doc.  The prior 
+form has been moved to atty.fms/swaps/old forms/oldanexb.doc.
+Michelle Cash
+11/10/2000 11:52 AM
+I'd just do it going forward.  Thanks.  Michelle
+Leslie Hansen
+11/09/2000 04:27 PM
+Michelle:
+Should we back date to date immediately after organizational resolutions or 
+just ratify past acts?  Preference?
+Leslie
+Tana Jones
+11/09/2000 03:29 PM
+?
+Deb Korkmas
+11/09/2000 03:27 PM
+I will prepare Unanimous Consent electing Robert Jones.  What do we want to 
+use as effective date?  Please advise.  Thanks, Deb
+Deb Korkmas
+Tana Jones
+11/09/2000 01:09 PM
+Robert Jones appears to be a VP of Enron Net Works, but not EnronOnline. 
+By copy of this email to Deb Korkmas, I would like to confirm that the above 
+is correct, and if it is, can we please get Robert Jones added as a VP of 
+EnronOnline.
+Thanks!
+Leslie Hansen
+11/09/2000 01:00 PM
+Tana:
+Does Robert Jones, HR VP, have signatory authority for Net Works and 
+EnronOnline?   Per Michelle Cash, he needs it since he signs employment 
+contracts, ect.  If he does not, we'll need to have some retroactive 
+resolutions prepared.
+Please let me know.
+Leslie
+At the request of Paul Finken, I am attaching our proposed form of 
+Non-Disclosure Agreement.  If the enclosed meets with your approval, please 
+mail or fax an executed copy to me.  If you have any comments or questions, 
+please do not hesitate to call me at (713) 853-3399.  My fax number is (713) 
+636-3490.
+Marie Heard@MUNICATIONS
+11/10/2000 02:15 PM
+Marie Heard
+Senior Legal Specialist
+Enron Broadband Services
+Phone:  (713) 853-3907
+Fax:  (713) 646-8537
+Marie_Heard@.net
+Anne_Heard@ryderscott.com
+11/10/00 01:25 PM
+Official Florida Ballot
+This e-mail message is intended only for the use of the individuals or
+entities to which it is addressed and may contain information that is
+privileged and/or confidential. If the reader of this message is not the
+intended recipient, or the employee or agent responsible for delivering
+the message to the intended recipient, you are hereby notified that any
+disclosure, dissemination, distribution, copying of, or the taking of any
+action in reliance upon the contents of this communication is strictly
+prohibited. If you have received this communication in error, please
+notify us immediately at 713-651-9191. Thank you.
+Michael, thought you might enjoy this!
+Marie Heard@MUNICATIONS
+11/10/2000 02:15 PM
+Marie Heard
+Senior Legal Specialist
+Enron Broadband Services
+Phone:  (713) 853-3907
+Fax:  (713) 646-8537
+Marie_Heard@.net
+Anne_Heard@ryderscott.com
+11/10/00 01:25 PM
+Official Florida Ballot
+This e-mail message is intended only for the use of the individuals or
+entities to which it is addressed and may contain information that is
+privileged and/or confidential. If the reader of this message is not the
+intended recipient, or the employee or agent responsible for delivering
+the message to the intended recipient, you are hereby notified that any
+disclosure, dissemination, distribution, copying of, or the taking of any
+action in reliance upon the contents of this communication is strictly
+prohibited. If you have received this communication in error, please
+notify us immediately at 713-651-9191. Thank you.
+Bradley Diebner
+11/10/2000 02:50 PM
+,
+bd
+Here's another spin on the election ballot!
+Tom Moran
+11/10/2000 06:26 PM
+- Morons1.gif
+=09exchangeinfo@nymex.com
+=0911/13/2000 08:53 AM
+=09=09=20
+November 13, 2000
+Notice to Member No. 389
+New York Mercantile Exchange to Base Certain enymex Contracts on Platts=20
+Benchmarks
+The New York Mercantile Exchange and Platts, the world's premier energy=20
+market information service, have signed a letter of intent for Platts pricing=20
+benchmarks to be used in enymex contracts for crude oil, refined oil=20
+products, natural gas, electricity, and metals.
+Platts, a division of The McGraw-Hill Companies (NYSE: MHP), will also=20
+provide enymex with real-time news and market commentary.
+The Exchange will license Platts=01, price assessments and benchmarks as a basis=20
+for commodities contracts traded on enymex, an internet-based platform for=20
+trading and clearing forward contracts for physical commodities.  The system=20
+is scheduled for launch during the second quarter of 2001.
+"Every day, more than $10 billion worth of energy commerce is based on=20
+Platts' exclusive and authoritative price assessments," said Harry Sachinis,=20
+president of Platts. "With this agreement, Platts will extend its leadership=20
+to the emerging world of energy e-commerce. It is significant that the world=01,
+s largest energy exchange, the New York Mercantile Exchange, has chosen to=20
+base its enymex contracts on Platts benchmarks."
+Exchange Chairman Daniel Rappaport said, "We are proud that enymex will have=20
+standing behind it the two biggest names in providing price transparency to=20
+the energy and metals industries. This agreement brings us one step closer to=20
+the Exchange=01,s goal of extending the same leadership and credibility to a B2B=20
+marketplace as we have so successfully offered these industries through our=20
+bricks-and-mortar business.  Most importantly, it will enable us to offer=20
+clearing services and an open marketplace for popular over-the-counter=20
+products."
+Platts is the world's largest and most authoritative provider of energy=20
+market information, with more than 325 professionals worldwide and products=20
+ranging from real-time and Internet-based news services, to market reports,=20
+databases, magazines and conferences. The company is also a leading provider=20
+of news, pricing and analysis on the global metals market. Additional=20
+information is available at www.platts.com and www.plattsmetals.com.
+Founded in 1888, The McGraw-Hill Companies is a global information services=20
+provider meeting worldwide needs in the financial services, education and=20
+business information markets through leading brands such as Standard & Poor=01,
+s, BusinessWeek and McGraw-Hill Education.  The corporation has more than 400=20
+offices in 32 countries.  Sales in 1999 were $4.0 billion.  Additional=20
+information is available at www.mcgraw-hill.com.
+__________________________________________________
+Just a note that the new bandwidth is still in EBS Legal being run thru the 
+legal and regulatory hoops.  As soon as I hear from Robbi or Marie that it's 
+approved, I'll pass on the word.
+Tom Moran
+11/10/2000 06:26 PM
+- Morons1.gif
+I sent Scott Sefton and email and he responded that at this time he doesn't 
+know the exact Brits that will be coming for the conference, he expects 6-8 I think we should order 8 mens shirts in large.  So I don't think you need to 
+email him or Michael Brown.  Thanks for your help!
+Attached is that chart that were supposed to replace with the current one on 
+price volatility.  I tried to open it up, but it was all gobbeldy gook Maybe you could print it out for me and then I could take a look at it and if 
+it looks OK we could just replace it with existing one.  Thanks!
+Tana,
+Attached is the price volatility graph.  Please let me know if you have any 
+questions.
+Thanks.
+Sayed
+NYMEX is trying to get more competitive =09exchangeinfo@nymex.com
+=0911/13/2000 08:53 AM
+=09=09=20
+November 13, 2000
+Notice to Member No. 389
+New York Mercantile Exchange to Base Certain enymex Contracts on Platts=20
+Benchmarks
+The New York Mercantile Exchange and Platts, the world's premier energy=20
+market information service, have signed a letter of intent for Platts pricing=20
+benchmarks to be used in enymex contracts for crude oil, refined oil=20
+products, natural gas, electricity, and metals.
+Platts, a division of The McGraw-Hill Companies (NYSE: MHP), will also=20
+provide enymex with real-time news and market commentary.
+The Exchange will license Platts=01, price assessments and benchmarks as a basis=20
+for commodities contracts traded on enymex, an internet-based platform for=20
+trading and clearing forward contracts for physical commodities.  The system=20
+is scheduled for launch during the second quarter of 2001.
+"Every day, more than $10 billion worth of energy commerce is based on=20
+Platts' exclusive and authoritative price assessments," said Harry Sachinis,=20
+president of Platts. "With this agreement, Platts will extend its leadership=20
+to the emerging world of energy e-commerce. It is significant that the world=01,
+s largest energy exchange, the New York Mercantile Exchange, has chosen to=20
+base its enymex contracts on Platts benchmarks."
+Exchange Chairman Daniel Rappaport said, "We are proud that enymex will have=20
+standing behind it the two biggest names in providing price transparency to=20
+the energy and metals industries. This agreement brings us one step closer to=20
+the Exchange=01,s goal of extending the same leadership and credibility to a B2B=20
+marketplace as we have so successfully offered these industries through our=20
+bricks-and-mortar business.  Most importantly, it will enable us to offer=20
+clearing services and an open marketplace for popular over-the-counter=20
+products."
+Platts is the world's largest and most authoritative provider of energy=20
+market information, with more than 325 professionals worldwide and products=20
+ranging from real-time and Internet-based news services, to market reports,=20
+databases, magazines and conferences. The company is also a leading provider=20
+of news, pricing and analysis on the global metals market. Additional=20
+information is available at www.platts.com and www.plattsmetals.com.
+Founded in 1888, The McGraw-Hill Companies is a global information services=20
+provider meeting worldwide needs in the financial services, education and=20
+business information markets through leading brands such as Standard & Poor=01,
+s, BusinessWeek and McGraw-Hill Education.  The corporation has more than 400=20
+offices in 32 countries.  Sales in 1999 were $4.0 billion.  Additional=20
+information is available at www.mcgraw-hill.com.
+__________________________________________________
+EOLHelp
+Sent by: Kathy M Moore
+11/13/2000 10:03 AM
+Attention: Vinson  & Elkins
+Steve Hodgson  
+Thank you for your interest in EnronOnline.
+The following is a guest password that will allow you temporary view only 
+access to EnronOnline.  Please note, the user ID and password are CASE 
+SENSITIVE.
+Guest User ID:  GNA35122
+Guest Password:  DD18WV29
+Guest Access will expire Nov 28, 2000
+We hope you will find that EnronOnline provides an easy and more efficient 
+way to do business with Enron. 
+Sincerely,
+Kathy Moore
+EnronOnline HelpDesk
+713/853-HELP (4357)
+emailed Tana Jones
+Sara Shackleton, an attorney in our group, is drafting some language that we 
+will be proposing to Deutsche Bank in response to their request that we add 
+the Enron companies they do financial business with to the definition of 
+"Specified Entity".   We have some concern that by adding certain Enron 
+entities to Specified Entity, a default in a swap transaction could possibly 
+default certain structured loan transactions with a swap component, and we 
+are trying to carve those transactions out 
+Sara is also working on the FUNB agreement.  I checked with her and the FUNB 
+agreement we had been working from was so old that we agreed to start from 
+the latest form of our agreement, so Sara sent Dee Travella at FUNB a revised 
+draft on 11/8/00.  Sara's direct phone no. is 713/853-5620 
+Clare.Godson@AllenOvery.com
+11/13/2000 10:09 AM
+Tana,
+Hope you are well.  I wondered whether you had had any progress on the final
+form of the Deutsche Schedule yet? or any progress on the FUNB documents?
+Thanks for your help in keeping us up to date on the status here.
+,
+Clare
+Attached is the final version of the Enron Corp. Guaranty.  Unfortunately,
+the ISDA Schedule is in the hands of Deutsche Bank and I need them to turn
+around the revised draft.  I'm still working on it.
+(See attached file: Deutsche Bank Enron Guaranty4.doc)
+Clare.Godson@Alle
+cc:     richard.sage@,
+Denis.O'Connell@
+10/20/2000 12:22         Subject:     RE: FW: Deutsche
+Bank ISDA Master Agreements
+PM
+Tana,
+Thanks for this.  It would be very helpful if you could send me the latest
+versions of the Guarantee and the Schedule just indicating which is the
+only
+outstanding point.  That way we can prepare the versions for
+EnronCredit.com
+Limited based on these and get things as close to finalised pending the
+outcome of this last credit point that you refer to.
+My fax number is 0207 330 9999.
+Many thanks for your assistance.
+Kind 
+Clare
+I bet you thought I forgot about you?!
+The lawyer up at Enron Corp. just called me and said he just got off the
+phone w/Deutsche Bank and they have come to an agreement as to the proposed
+form of guaranty.  We have one more credit issue on the master that Credit
+would like us to revisit with them, but otherwise I think we close to being
+done.  If you would like me to coordinate the execution of the guarantees
+you need with Enron Corp., I will be happy to assist you.
+Clare.Godson@Alle
+cc:
+10/10/2000 12:57         Subject:     RE: FW: Deutsche
+Bank ISDA Master Agreements
+PM
+Many thanks for the update.
+We just received what we hope is a final draft of the documents from
+Deutsche Bank, and I hope to respond back to you shortly, once I have had a
+chance to confirm they made all the changes.
+Clare.Godson@Alle
+cc:     Tana.Jones@
+10/10/2000 04:33         Subject:     RE: FW: Deutsche
+Bank ISDA Master Agreements
+AM
+Many thanks. Apologies for the error, I obtained Tana's e-mail details from
+someone at Enron in London and they had misspelled it for me.
+Thanks again for all your help.
+Clare
+Clare,
+Thanks for your note.  Your e-mail trouble is due to the spelling of Tana's
+name - should only be one 'n.'  I am forwarding this on to her.
+Mark
+Clare.Godson@Alle
+cc:
+10/09/2000 04:50         Subject:     FW: Deutsche Bank
+ISDA Master Agreements
+AM
+Mark,
+I am having some problems sending this to Tanna.  her e-mail keeps bouncing
+back.  Could you pass this on to her please?
+many thanks for your help.
+Kind 
+Clare
+    This email is confidential and may also be privileged.  If you are not the
+intended recipient please notify us immediately by telephoning +44 (20)
+7330 3000 and requesting the Technology Services Helpdesk. You should not
+copy it or use it for any purpose nor disclose its contents to any other
+person.
+Allen & Overy
+One New Change
+London
+EC4M 9QQ
+Tel:+44 (20) 7330 3000
+Fax: +44 (20) 7330 9999
+General Email: Helpdesk@allenovery.com
+www 
+Allen & Overy is a solicitors' partnership.  A list of the names of
+partners and their professional qualifications is open to inspection at the
+above office.  The partners are either solicitors or registered foreign
+lawyers.
+I forwarded your agreement to Leslie Hansen, an attorney in our group, and 
+she would prefer to work from our form if possible.  Let me know if this is a 
+problem.
+"John Nugent"  	11/10/2000 03:06 PM
+Please respond to jnugent
+Tana:
+We will also need a signed NDA.  Would you be comfortable signing the mutual
+attached?
+Thanks,
+John Nugent
+At the request of Paul Finken, I am attaching our proposed form of
+Non-Disclosure Agreement.  If the enclosed meets with your approval, please
+mail or fax an executed copy to me.  If you have any comments or questions,
+please do not hesitate to call me at (713) 853-3399.  My fax number is
+(713) 636-3490.
+(See attached file: purchase pooling.doc)
+- PPC_GenMutual NDA_.doc
+Jennifer McQuade with EOL called checking on the status of your conv. 
+w/Elzear Lemieux with cpy.  Have you resolved the ETA questions yet?
+I checked w/Mark Taylor, and he can't approve me going to Calgary until he 
+checks it with Mark Haedicke to see if it's OK, which he won't do until he 
+gets back in town, which is in two weeks.  I hope that isn't going to cause 
+any problems 
+Greg Johnston
+11/10/2000 11:20 AM
+I actually received the last document I need to put otgether binders this 
+week.  Linda and I will compile closing binders with all the relevant 
+documents next week and send you one set for your files.  I will send copies 
+of the RBC documents to Rick at the same time.
+So, when are you going to come and enjoy our crisp weather?  Mark Taylor 
+e-mailed me saying he thought it was a good idea for you to come up here to 
+train Linda and Sharon.  It ain't Stampede, but at least Peter and I can 
+return the hospitality.
+Rick Borden at Macleod Dixon sent us a fax requesing copies of the documents 
+on the prepay.  Can you send him a copy?  Also, when they're all together, 
+can you send a copy to me for our files.  Thanks!
+Bradley Diebner
+11/13/2000 01:28 PM
+,
+bd
+At the request of Dovie Keprta in our eMarket Services Group, I am enclosing 
+a draft of our proposed form of Non-Disclosure Agreement for David Endicott's 
+review.  I am also attaching a blacklined draft showing the changes from the 
+NDA you executed with Enron Broadband Services.  Please call me at (713) 
+853-3399 or Leslie Hansen, Senior Counsel at (713) 853-6121 with any 
+questions or comments you might have.  We look forward to hearing from you.
+Tana Jones
+Senior Legal Specialist
+We have received the executed Non-Disclosure Agreement between Idea 
+Integration Corp. (d/b/a Idea Integration) and Enron Net Works LLC and 
+EnronOnline, LLC dated 11/9/00.  A copy will be sent to Dave Samuels.
+Per my conv. w/cpy and Credit, please open the referenced counterparty to 
+transact all financial.
+Thanks, I appreciate your help!...will I be able to get it tomorrow?
+Will attend!
+Lola Willis@
+11/13/2000 03:02 PM
+You are invited to attend a Profiles Manager Meeting
+Date                                                              11/15/00
+Time                                                                3:00- 5:00
+Location                                                           Training 
+Room EB568
+We have received the following executed NDA's:
+Copies will be sent to Dave Samuels.
+I just got them in today.  I will fedex you a copy.  Thanks for all your help!
+"Susan Lobel"  	11/13/2000 03:03 PM
+Hi Tana.  Sorry I missed your call.  (I am stuck on a long call right now)
+Can you please forward to me (fax is fine) all the executed documents for
+NYPA- including the internal Enron opinions that we rely on in our
+opinion-- and I will have our opinion finalized.  Thanks very much.
+We have received an executed financial Master Agreement:
+Type of Contract:  ISDA Master Agreement (Multicurrency-Cross Border)
+Effective Date:   October 23, 2000
+Counterparty:   Power Authority of the State of New York
+Transactions Covered:  Approved for all products with the exception of: Pulp, 
+Lumber & Paper, Foreign Exchange
+Choice of Law:   New York
+For those of you keeping track, this brings us to 470 executed financial 
+agreements!
+Attached is a current list of the NDA's I am working on for the EOL and Net 
+Works teams.  Please take the time to look at this list and confirm the 
+status of any NDA's you are interested in.
+Bradley Diebner
+11/13/2000 04:58 PM
+,
+bd
+My favorite election comment to date comes from Gore who said today he was 
+not "focused on the contest, but our democracy".  Such a thoughtful, selfless 
+person!
+For this list of amends, my comments mean:
+Cinergy-already had them open for financial & power, Credit's changes should 
+have no impact on my prior approvals.
+Dynegy Power Marketing-shut them down for financial (& Argentina gas)
+Nui Energy Brokers-already had them open for all financial, OK with Credit's 
+changes.
+Jon Chapman
+11/14/2000 03:42 AM
+And so it goes on David_Davies@chubb.com.au on 14/11/2000 05:21:06
+David Davies
+National Manager - Chubb Traffic Services
+02 9930 4318 / 0401 77 66 18
+Tony Ayers  
+These are some quotes attributed to the would be American President
+George
+Bush
+Perhaps this is how upper management speak?
+"The vast majority of our imports come from outside the country."
+....George W. Bush, Jr.
+"If we don't succeed, we run the risk of failure."
+....George W. Bush, Jr.
+"Republicans understand the importance of bondage between a mother and
+child."
+....Governor George W. Bush, Jr.
+"Welcome to Mrs. Bush, and my fellow astronauts."
+....Governor George W. Bush, Jr.
+"Mars is essentially in the same orbit...Mars is somewhat the same
+distance from the Sun, which is very important.
+We have seen pictures where there are canals, we believe, and water. If
+there is water, that means there is oxygen.
+If oxygen, that means we can breathe."
+....Governor George W. Bush, Jr., 8/11/94
+"The Holocaust was an obscene period in our nation's history. I mean in
+this century's history.  But we all lived in this century. I didn't live
+in this century."
+....Governor George W. Bush, Jr., 9/15/95
+"I believe we are on an irreversible trend toward more freedom and
+democracy - but that could change."
+....Governor George W. Bush, Jr., 5/22/98
+"One word sums up probably the responsibility of any Governor, and that
+one word is 'to be prepared ....Governor George W. Bush, Jr., 12/6/93
+"Verbosity leads to unclear, inarticulate things."
+....Governor George W. Bush, Jr., 11/30/96
+"I have made good judgments in the past. I have made good judgments in
+the future."
+....Governor George W. Bush, Jr.
+"The future will be better tomorrow."
+....Governor George W. Bush, Jr.
+"We're going to have the best educated American people in the world."
+....Governor George W. Bush, Jr., 9/21/97
+"People that are really very weird can get into sensitive positions and
+have a tremendous impact on history."
+....Governor George W. Bush.
+"I stand by all the misstatements that I've made."
+....Governor George W. Bush, Jr. to Sam Donaldson, 8/17/93
+"We have a firm commitment to NATO, we are a part of NATO. We have a
+firm commitment to Europe. We are a part of Europe." ....Governor George
+W. Bush, Jr.
+"Public speaking is very easy."
+....Governor George W. Bush, Jr. to reporters in 10/9
+"I am not part of the problem. I am a Republican"
+....Governor George W. Bush, Jr.
+"A low voter turnout is an indication of fewer people going to the
+polls."
+....Governor George W. Bush, Jr
+"When I have been asked who caused the riots and the killing in LA, my
+answer has been direct & simple Who is to blame for the riots? The
+rioters are to blame. Who is to blame for the killings? The killers are
+to blame."
+....George W. Bush, Jr.
+"Illegitimacy is something we should talk about in terms of not having
+it."
+....Governor George W. Bush, Jr., 5/20/96
+"We are ready for any unforeseen event that may or may not occur."
+....Governor George W. Bush, Jr., 9/22/97
+"For NASA, space is still a high priority."
+....Governor George W. Bush, Jr., 9/5/93
+"Quite frankly, teachers are the only profession that teach our
+children."
+....Governor George W. Bush, Jr., 9/18/95
+"The American people would not want to know of any misquotes that
+George Bush may or may not make."
+....Governor George W. Bush, Jr.
+"We're all capable of mistakes, but I do not care to enlighten you on
+the mistakes we may or may not have made."
+....Governor George W. Bush, Jr.
+"It isn't pollution that's harming the environment. It's the impurities
+in our air and water that are doing it."
+....Governor George W. Bush, Jr.
+"[It's] time for the human race to enter the solar system."
+....Governor George W. Bush, Jr.
+Can you check on the name of RAG American Coal Sales Company.  We have a note 
+in our Financial Trading Agreement database that pursuant to a Certificate of 
+Amendment filed with the Delaware Secretary of State, RAG American Coal Sales 
+Company further changed its name to RAG Coal Sales of America, Inc. on 
+4/6/2000.  Our file is missing so I cannot find the hard copy of the name 
+change.  Thanks.
+Adnan Patel@
+11/10/2000 09:25 AM
+Attached is the list of GCP Signoffs on Clickpaper Approvals for 11-09-00, 
+marked in RED
+Adnan
+Walter Guidroz
+11/08/2000 05:21 PM
+Attached is a ClickPaper approval for November 9, 2000.  Also, I will be out 
+of the office in a training class Thursday and Friday.  For ClickPaper credit 
+assistance on those days please call the Credit Hotline at 3-1803.  Thanks.
+Walter
+Your call to Mark Taylor in Houston Legal was forwarded to me for response Mark is on vacation in Germany until the end of next week.  Per your 
+voicemail, you has some US market descriptions that you need to have 
+reviewed.  I just left Mark a voicemail on his cell phone, I'm not sure if I 
+will hear from him tonight or not.  If youcould email or fax me the 
+document/information you need reviewed, I will run it by Mark as soon as I 
+hear back from him.  I'm sorry I can't be of more help for the immediate 
+moment, but I will respond as soon as I hear from Mark. 
+I'll leave you a check tomorrow.  Also, I'm taking Friday afternoon off to 
+meet the stove repair guy.  Can you meet me there to do house & yard clean up 
+day?
+"Louis Fernandez Co."  	11/14/2000 09:08 AM
+Hi Tana, did you get the money situation taken care of. Please let me know.
+I do have a payroll to meet.
+Thanks
+Louis
+- winmail.dat
+The big switch here is that we're shutting Public Service Electric and Gas 
+Commpany for power.  All their power will be traded out of PSEG Energy 
+Resources & Trade LLC.
+Perfect, it had another meeting scheduled for 3:30 I had to attend!
+Lola Willis@
+11/14/2000 09:24 AM
+The Profiles Manager meeting for this week has been postponed. You will be 
+notified of the reschedule date. 
+Thanks
+Lola
+Lola Willis
+11/13/2000 03:02 PM
+You are invited to attend a Profiles Manager Meeting
+Date                                                              11/15/00
+Time                                                                3:00- 5:00
+Location                                                           Training 
+Room EB568
+Can you email me your form?  How about lunch today?
+Marie Heard@MUNICATIONS
+11/14/2000 09:31 AM
+Tana,
+It appears that the Exodus NDA was done out of the Portland office and we 
+don't have access to their directories.  It does look like our form, so you 
+can probably use it as your starting point.
+We, at EBS, are sorry for this inconvenience.
+Marie
+Marie Heard
+Senior Legal Specialist
+Enron Broadband Services
+Phone:  (713) 853-3907
+Fax:  (713) 646-8537
+Marie_Heard@.net
+Is Calpine Energy Services, L.P. a name change from Calpine Power Services 
+Company?  If it is I need to see the name change, because I have a financial 
+master executed under Calpine Power Services.  Can you fax it to me at 
+713/636-3490.  Thanks!
+Adnan Patel@
+11/10/2000 10:01 AM
+Attached is the list of GCP Signoffs on EOL Approvals for 11-09-00, marked in 
+RED
+Adnan
+Bradley Diebner@ECT
+11/10/2000 07:54 AM
+,
+bd
+You are the best!
+Marie Heard@MUNICATIONS
+11/14/2000 09:59 AM
+Here is the form.  I think I can do lunch.
+Marie Heard
+Senior Legal Specialist
+Enron Broadband Services
+Phone:  (713) 853-3907
+Fax:  (713) 646-8537
+Tana Jones@ECT
+11/14/00 09:33 AM
+Can you email me your form?  How about lunch today?
+Marie Heard@MUNICATIONS
+11/14/2000 09:31 AM
+Tana,
+It appears that the Exodus NDA was done out of the Portland office and we 
+don't have access to their directories.  It does look like our form, so you 
+can probably use it as your starting point.
+We, at EBS, are sorry for this inconvenience.
+Marie
+Marie Heard
+Senior Legal Specialist
+Enron Broadband Services
+Phone:  (713) 853-3907
+Fax:  (713) 646-8537
+Marie_Heard@.net
+If we both agree that the counterparty should now be RAG Coal Sales of 
+America, shouldn't your spreadsheet reflect that name?  I'm confused.
+Adnan Patel@
+11/14/2000 09:57 AM
+GCP does have the correct name on file. The company changed its name from 
+Cyprus Amax Coal Corporation to RAG American Coal Sales Company and then to 
+RAG Coal Sales of America. I had talked to the legal when I first found out 
+and provided Cheryl Johnson in Global SAP, with all the name change 
+documents. You may contact her at x33103 in order to request 
+those........................Adnan
+Can you check on the name of RAG American Coal Sales Company.  We have a note 
+in our Financial Trading Agreement database that pursuant to a Certificate of 
+Amendment filed with the Delaware Secretary of State, RAG American Coal Sales 
+Company further changed its name to RAG Coal Sales of America, Inc. on 
+4/6/2000.  Our file is missing so I cannot find the hard copy of the name 
+change.  Thanks.
+Adnan Patel@
+11/10/2000 09:25 AM
+Attached is the list of GCP Signoffs on Clickpaper Approvals for 11-09-00, 
+marked in RED
+Adnan
+Walter Guidroz
+11/08/2000 05:21 PM
+Attached is a ClickPaper approval for November 9, 2000.  Also, I will be out 
+of the office in a training class Thursday and Friday.  For ClickPaper credit 
+assistance on those days please call the Credit Hotline at 3-1803.  Thanks.
+Walter
+So, back to my original question, is this a name change?
+Adnan Patel@
+11/14/2000 09:59 AM
+Please contact Cheryl or Marilyn Colbert for any name change, mergers, 
+acquisition documents
+Is Calpine Energy Services, L.P. a name change from Calpine Power Services 
+Company?  If it is I need to see the name change, because I have a financial 
+master executed under Calpine Power Services.  Can you fax it to me at 
+713/636-3490.  Thanks!
+Adnan Patel@
+11/10/2000 10:01 AM
+Attached is the list of GCP Signoffs on EOL Approvals for 11-09-00, marked in 
+RED
+Adnan
+Bradley Diebner@ECT
+11/10/2000 07:54 AM
+,
+bd
+I will be taking Friday p.m. off to meet stove repair guy & contractor.
+Yeah!
+Also, I spoke to Dalzenia and she is going to move that dirt around by the 
+fence.
+"Louis Fernandez Co."  	11/14/2000 10:21 AM
+Thanks! I think I can meet you on Friday and I did some research and found a
+thermostat that switches automatically.
+Louis
+I'll leave you a check tomorrow.  Also, I'm taking Friday afternoon off to
+meet the stove repair guy.  Can you meet me there to do house & yard clean
+up day?
+"Louis
+11/14/2000
+09:08 AM
+Hi Tana, did you get the money situation taken care of. Please let me know.
+I do have a payroll to meet.
+Thanks
+Louis
+(See attached file: winmail.dat)
+- winmail.dat
+Per a call from Rod today, our executed master list hasn't picked up the 
+following name change:  Lomak Petroleum Inc. to Range Resources Corporation.
+Thanks!
+Can you fax me the merger documents to 646-3490.  Thanks!
+Adnan Patel@
+11/14/2000 10:29 AM
+Its NOT a name change, the Two calpine companies are merging and the survivor 
+company is Calpine Energy Services. Calpine Power record will be inactivated 
+on the 1st of next month. Merger docs had been forwarded to you. If not give 
+Cheryl Johnson a call and she can forward that.
+For RAG......At the time I sent out the spreadsheet in order to meet the EOL 
+deadline the GCP system showed the old name. Now the system had been updated 
+by Cheryl to reflect the correct name. For further details, on that contact 
+Karen Lambert since we have to send the spreadsheet out ASAP everyday to her, 
+by a certain time, with the information as it appears in GCP.
+P.S. Check in GCP System since thats the most updated information you can 
+find. If a name change, merger or acquisition is in process, CHERYL JOHNSON 
+or MARILYN COLBERT would know best why?
+If we both agree that the counterparty should now be RAG Coal Sales of 
+America, shouldn't your spreadsheet reflect that name?  I'm confused.
+Adnan Patel@
+11/14/2000 09:57 AM
+GCP does have the correct name on file. The company changed its name from 
+Cyprus Amax Coal Corporation to RAG American Coal Sales Company and then to 
+RAG Coal Sales of America. I had talked to the legal when I first found out 
+and provided Cheryl Johnson in Global SAP, with all the name change 
+documents. You may contact her at x33103 in order to request 
+those........................Adnan
+Can you check on the name of RAG American Coal Sales Company.  We have a note 
+in our Financial Trading Agreement database that pursuant to a Certificate of 
+Amendment filed with the Delaware Secretary of State, RAG American Coal Sales 
+Company further changed its name to RAG Coal Sales of America, Inc. on 
+4/6/2000.  Our file is missing so I cannot find the hard copy of the name 
+change.  Thanks.
+Adnan Patel@
+11/10/2000 09:25 AM
+Attached is the list of GCP Signoffs on Clickpaper Approvals for 11-09-00, 
+marked in RED
+Adnan
+Walter Guidroz
+11/08/2000 05:21 PM
+Attached is a ClickPaper approval for November 9, 2000.  Also, I will be out 
+of the office in a training class Thursday and Friday.  For ClickPaper credit 
+assistance on those days please call the Credit Hotline at 3-1803.  Thanks.
+Walter
+Anyone have these merger docs?
+Marilyn Colbert
+11/14/2000 10:48 AM
+Calpine Power Services Company merged into Calpine Energy Services, L.P. eff 
+11/1/00, with the survivor being Calpine Energy Services, L.P. Copies of the 
+documents were hand carried to legal by Anthony Campos on 11/9. I believe he 
+gave them to Lisa. I am not certain why you have not received them yet. 
+Please check with her and then let me know if there is anything more I can 
+do. Thanks! MC
+So, back to my original question, is this a name change?
+Adnan Patel@
+11/14/2000 09:59 AM
+Please contact Cheryl or Marilyn Colbert for any name change, mergers, 
+acquisition documents
+Is Calpine Energy Services, L.P. a name change from Calpine Power Services 
+Company?  If it is I need to see the name change, because I have a financial 
+master executed under Calpine Power Services.  Can you fax it to me at 
+713/636-3490.  Thanks!
+Adnan Patel@
+11/10/2000 10:01 AM
+Attached is the list of GCP Signoffs on EOL Approvals for 11-09-00, marked in 
+RED
+Adnan
+Bradley Diebner@ECT
+11/10/2000 07:54 AM
+,
+bd
+But I did respond.  I said "yeah!" on the thermostat.  You're confusing 
+me...I don't know where Michelle is.  She should be in town.  She must just 
+be busy at work.
+"Louis Fernandez Co."  	11/14/2000 01:32 PM
+Why are you responding without responding? Do you know where Michelle is. I
+think she's hiding.
+Louis
+Thanks! I think I can meet you on Friday and I did some research and found a
+thermostat that switches automatically.
+Louis
+I'll leave you a check tomorrow.  Also, I'm taking Friday afternoon off to
+meet the stove repair guy.  Can you meet me there to do house & yard clean
+up day?
+"Louis
+11/14/2000
+09:08 AM
+Hi Tana, did you get the money situation taken care of. Please let me know.
+I do have a payroll to meet.
+Thanks
+Louis
+(See attached file: winmail.dat)
+- winmail.dat
+Now don't be afraid to tell us what you really think 
+Peter Keohane
+11/14/2000 12:35 PM
+When I look at Al Gore I continue to be amazed that one, let alone 50 
+million, Americans voted for him.  Both Clinton's and Gore's continued 
+shamelessness, and disregard for doing the right and decent thing, is only 
+slightly less amazing than the American people (or at least half of them) 
+continuing to find reasons to support them.  My only, yet substantive, vested 
+interest in the outcome is that we are inundated with US T.V. and I can't 
+bear the thought of looking at Gore (and God forbid Hillary) for the next 
+four years.  If they don't settle this Florida thing, I am going to have it 
+have my cable disconnected.
+We vote in our federal election on November 27th.  We will not have any such 
+problems however - not because we are any better than anyone (in fact, I am 
+not entirely confident that most of my fellow Canadians will understand, or 
+have ever have understood, the ballot or voted for who they thought they were 
+voting for) - but rather because of the political system which Jon's 
+ancestors were so kind to bestow upon us, which I refer to as "parliamentary 
+dictatorship 
+(Sorry Tana if you are a Democrat, but that is the independent middle of the 
+road - yeah right - view of a Canadian observer.  Jon, I cannot, however, 
+apologize for the political ruin which your system of Government has brought 
+upon us, other to acknowledge that the problem my not be the system but 
+rather our screwed up regionalization of your unified parliamentary system 
+into 11 separate parliamentary systems - and I suppose that could be 
+construed as an apology of sorts, except, for the record, I will never 
+apologize to you for anything until you make a public, i.e. to Tana and me by 
+e-mail, confession of your sins on San Felipe.  For that matter, you are as 
+bad as Clinton and Gore.)
+Peter.
+As you requested, to clear up any confusion regarding the responsibilities of 
+the paralegals in the financial trading group:
+We have four paralegals, myself, Susan Bailey, Samantha Boyd and Stephanie 
+Panus.  Marie Heard is no longer is our group, she works for Enron 
+Broadband.  Below are responsibilities of the paralegals in our group:
+Tana Jones:  Primarily all EnronOnline issues.  (1) I am the primary Legal 
+contact for counterparty approvals for all Legal Groups.  Individual contract 
+problems should be sorted out with the relevant Legal group (i.e. physical 
+gas, power, etc.) the same way as they would be resolved offline.  (2) As my 
+time allows, I try and help on ISDA negotiations, so if you see a master with 
+my name on, feel free to call me.
+Day to Day Financial Contract Drafting and Questions:  Can be directed to any 
+of Susan, Samantha, or Stephanie.
+Copies of Executed Masters:  Call our assistant, Taffy Milligan at x57373, 
+she can get you copies.
+Merger/Name Changes:  Stephanie Panus
+Executed Master List:  Susan Bailey
+I hope this straightens things out!
+OK for me!
+=09Lisa Lees
+=0911/14/2000 02:41 PM
+=09=09=20
+Tana/Karen:
+The product long description below will fall under the new product type Mixed=20
+Xylene Fin Swap.  Tom Moran has approved copying the profiles for the new=20
+product type from the following:
+US Benzene Financial Swap CMAI Spot
+Please respond no later than 10 a.m. on Wednesday, November 15.
+Thank you.
+Mark,
+Please approve the attahced product. =20
+Thanks,
+Your review and approval of the following product type in the EOL Datamanager=20
+is needed (for directions on approval , please see steps for approval at the=20
+bottom of this e-mail).   =20
+Traders: Steve Elliott, Lee Jackson, Adam Metry
+US MxXylene Swap  CMAI Spot               Aug-Oct00       USD/Gl-b
+The Term of the Transaction shall be from the Effective Date of 01 Aug 2000=20
+to the Termination Date of 31 Oct 2000.
+The Index for a Determination Period shall be the mean of the average of the=20
+high and low price in Cents/Gallons of Mixed Xylene published under the=20
+headings =01&Prices for Period Ending [DATE]: United States: Mixed Xylene)=018=20
+under the caption =01&SPOT: Cents/Lb.=018 in each issue of Chemical Market=20
+Associates, Inc.=01,s Aromatics Market Report (Weekly) that reports prices=20
+effective for such Determination Period. Notwithstanding the reference to=20
+pounds in the caption mentioned above, the prices quoted for this product by=20
+CMAI are in Cents/Gallon.
+The price is quoted in US Dollars per unit of volume, which will be the=20
+Contractual Currency.
+The unit of measure against which the price is quoted shall be gallons and=20
+the volume shown shall be in total number of Barrels (42 US Gallons) per=20
+month.
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D
+STEPS FOR APPROVAL:
+click the  START button=20
+select  PROGRAMS
+select  TEST APPLICATIONS
+select ENRONONLINE CLUSTER(PROD)
+PROCEED WITH USUAL LOGIN/PASSWORD=20
+click the Enron Online Production Cluster "START" button =20
+select EnronOnLine (this is the EOL Datamanager)
+PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up=20
+TO APPROVE:  Right mouse click on "Approved"
+=20
+Thanks - Rob Cass  -  Melba Lozano
+x35491   x58986
+OK for me!
+=09Lisa Lees
+=0911/14/2000 02:45 PM
+=09=09=20
+Tana/Karen:
+The product long description below will fall under the new product type US=20
+Nitration Toluene Financial Swap.  Tom Moran has approved copying the=20
+profiles for the new product type from the following:
+US Benzene Financial Swap CMAI Spot
+Please respond no later than 10 a.m. on Wednesday, November 15.
+Thank you.
+Mark,
+Please approve the attahced product. =20
+Thanks,
+Your review and approval of the following product type in the EOL Datamanager=20
+is needed (for directions on approval , please see steps for approval at the=20
+bottom of this e-mail).   =20
+Traders: Steve Elliott, Lee Jackson, Adam Metry
+US NitTol Swap  CMAI Spot               Aug-Oct00       USD/Gl-b
+The Term of the Transaction shall be from the Effective Date of 01 Aug 2000=20
+to the Termination Date of 31 Oct 2000.
+The Index for a Determination Period shall be the mean of the average of the=20
+high and low price in Cents/Gallon of Toluene-Nit. published under the=20
+headings =01&Prices for Period Ending [DATE]: United States: Toluene-Nit.)=018=20
+under the caption =01&SPOT: Cents/Lb.=018 in each issue of Chemical Market=20
+Associates, Inc.=01,s Aromatics Market Report (Weekly) that reports prices=20
+effective for such Determination Period. Notwithstanding the reference to=20
+pounds in the caption mentioned above, the prices quoted for this product by=20
+CMAI are in Cents/Gallon.
+The price is quoted in US Dollars per unit of volume, which will be the=20
+Contractual Currency.
+The unit of measure against which the price is quoted shall be gallons and=20
+the volume shown shall be in total number of Barrels (42 US Gallons) per=20
+month.
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D
+STEPS FOR APPROVAL:
+click the  START button=20
+select  PROGRAMS
+select  TEST APPLICATIONS
+select ENRONONLINE CLUSTER(PROD)
+PROCEED WITH USUAL LOGIN/PASSWORD=20
+click the Enron Online Production Cluster "START" button =20
+select EnronOnLine (this is the EOL Datamanager)
+PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up=20
+TO APPROVE:  Right mouse click on "Approved"
+=20
+Thanks - Rob Cass  -  Melba Lozano
+x35491   x58986
+This Counterparty is on the 11/9/00 EOL List.  We have received documentation 
+that reflects that Calpine Power Services Company, an entity where we have an 
+ISDA Master in place, has merged with and into Calpine Energy Services, L.P an entity where we don't have an ISDA in place with.   Is Credit OK with this 
+merger?
+I am sending down this list, with all counterparties approved except Calpine, 
+which I am still waiting on Credit approval on the Calpine Power 
+Services/Energy Services merger.  As soon as I get their sign off I will send 
+down an amended spreadsheet.
+Pursuant to the Certificate of Merger filed with the Delaware Secretary of 
+State effective 11/1/00, Calpine Power Services Company, a California 
+corporation has been merged with and into Calpine Energy Services, L.P., a 
+Delaware corporation.  The ISDA Master Agreement with Calpine Power Services 
+Company dated 10/20/99 will be changed accordingly.
+Attached is the Annex B for Catalytica.
+Nope, it's a merger.
+Tanya Rohauer
+11/14/2000 03:35 PM
+I think we were under the impression that this was a name change.
+This Counterparty is on the 11/9/00 EOL List.  We have received documentation 
+that reflects that Calpine Power Services Company, an entity where we have an 
+ISDA Master in place, has merged with and into Calpine Energy Services, L.P an entity where we don't have an ISDA in place with.   Is Credit OK with this 
+merger?
+Here's that email of "Bushism's".
+Jon Chapman
+11/14/2000 03:42 AM
+And so it goes on David_Davies@chubb.com.au on 14/11/2000 05:21:06
+David Davies
+National Manager - Chubb Traffic Services
+02 9930 4318 / 0401 77 66 18
+Tony Ayers  
+These are some quotes attributed to the would be American President
+George
+Bush
+Perhaps this is how upper management speak?
+"The vast majority of our imports come from outside the country."
+....George W. Bush, Jr.
+"If we don't succeed, we run the risk of failure."
+....George W. Bush, Jr.
+"Republicans understand the importance of bondage between a mother and
+child."
+....Governor George W. Bush, Jr.
+"Welcome to Mrs. Bush, and my fellow astronauts."
+....Governor George W. Bush, Jr.
+"Mars is essentially in the same orbit...Mars is somewhat the same
+distance from the Sun, which is very important.
+We have seen pictures where there are canals, we believe, and water. If
+there is water, that means there is oxygen.
+If oxygen, that means we can breathe."
+....Governor George W. Bush, Jr., 8/11/94
+"The Holocaust was an obscene period in our nation's history. I mean in
+this century's history.  But we all lived in this century. I didn't live
+in this century."
+....Governor George W. Bush, Jr., 9/15/95
+"I believe we are on an irreversible trend toward more freedom and
+democracy - but that could change."
+....Governor George W. Bush, Jr., 5/22/98
+"One word sums up probably the responsibility of any Governor, and that
+one word is 'to be prepared ....Governor George W. Bush, Jr., 12/6/93
+"Verbosity leads to unclear, inarticulate things."
+....Governor George W. Bush, Jr., 11/30/96
+"I have made good judgments in the past. I have made good judgments in
+the future."
+....Governor George W. Bush, Jr.
+"The future will be better tomorrow."
+....Governor George W. Bush, Jr.
+"We're going to have the best educated American people in the world."
+....Governor George W. Bush, Jr., 9/21/97
+"People that are really very weird can get into sensitive positions and
+have a tremendous impact on history."
+....Governor George W. Bush.
+"I stand by all the misstatements that I've made."
+....Governor George W. Bush, Jr. to Sam Donaldson, 8/17/93
+"We have a firm commitment to NATO, we are a part of NATO. We have a
+firm commitment to Europe. We are a part of Europe." ....Governor George
+W. Bush, Jr.
+"Public speaking is very easy."
+....Governor George W. Bush, Jr. to reporters in 10/9
+"I am not part of the problem. I am a Republican"
+....Governor George W. Bush, Jr.
+"A low voter turnout is an indication of fewer people going to the
+polls."
+....Governor George W. Bush, Jr
+"When I have been asked who caused the riots and the killing in LA, my
+answer has been direct & simple Who is to blame for the riots? The
+rioters are to blame. Who is to blame for the killings? The killers are
+to blame."
+....George W. Bush, Jr.
+"Illegitimacy is something we should talk about in terms of not having
+it."
+....Governor George W. Bush, Jr., 5/20/96
+"We are ready for any unforeseen event that may or may not occur."
+....Governor George W. Bush, Jr., 9/22/97
+"For NASA, space is still a high priority."
+....Governor George W. Bush, Jr., 9/5/93
+"Quite frankly, teachers are the only profession that teach our
+children."
+....Governor George W. Bush, Jr., 9/18/95
+"The American people would not want to know of any misquotes that
+George Bush may or may not make."
+....Governor George W. Bush, Jr.
+"We're all capable of mistakes, but I do not care to enlighten you on
+the mistakes we may or may not have made."
+....Governor George W. Bush, Jr.
+"It isn't pollution that's harming the environment. It's the impurities
+in our air and water that are doing it."
+....Governor George W. Bush, Jr.
+"[It's] time for the human race to enter the solar system."
+....Governor George W. Bush, Jr.
+Jon Chapman
+11/14/2000 03:42 AM
+And so it goes on David_Davies@chubb.com.au on 14/11/2000 05:21:06
+David Davies
+National Manager - Chubb Traffic Services
+02 9930 4318 / 0401 77 66 18
+Tony Ayers  
+These are some quotes attributed to the would be American President
+George
+Bush
+Perhaps this is how upper management speak?
+"The vast majority of our imports come from outside the country."
+....George W. Bush, Jr.
+"If we don't succeed, we run the risk of failure."
+....George W. Bush, Jr.
+"Republicans understand the importance of bondage between a mother and
+child."
+....Governor George W. Bush, Jr.
+"Welcome to Mrs. Bush, and my fellow astronauts."
+....Governor George W. Bush, Jr.
+"Mars is essentially in the same orbit...Mars is somewhat the same
+distance from the Sun, which is very important.
+We have seen pictures where there are canals, we believe, and water. If
+there is water, that means there is oxygen.
+If oxygen, that means we can breathe."
+....Governor George W. Bush, Jr., 8/11/94
+"The Holocaust was an obscene period in our nation's history. I mean in
+this century's history.  But we all lived in this century. I didn't live
+in this century."
+....Governor George W. Bush, Jr., 9/15/95
+"I believe we are on an irreversible trend toward more freedom and
+democracy - but that could change."
+....Governor George W. Bush, Jr., 5/22/98
+"One word sums up probably the responsibility of any Governor, and that
+one word is 'to be prepared ....Governor George W. Bush, Jr., 12/6/93
+"Verbosity leads to unclear, inarticulate things."
+....Governor George W. Bush, Jr., 11/30/96
+"I have made good judgments in the past. I have made good judgments in
+the future."
+....Governor George W. Bush, Jr.
+"The future will be better tomorrow."
+....Governor George W. Bush, Jr.
+"We're going to have the best educated American people in the world."
+....Governor George W. Bush, Jr., 9/21/97
+"People that are really very weird can get into sensitive positions and
+have a tremendous impact on history."
+....Governor George W. Bush.
+"I stand by all the misstatements that I've made."
+....Governor George W. Bush, Jr. to Sam Donaldson, 8/17/93
+"We have a firm commitment to NATO, we are a part of NATO. We have a
+firm commitment to Europe. We are a part of Europe." ....Governor George
+W. Bush, Jr.
+"Public speaking is very easy."
+....Governor George W. Bush, Jr. to reporters in 10/9
+"I am not part of the problem. I am a Republican"
+....Governor George W. Bush, Jr.
+"A low voter turnout is an indication of fewer people going to the
+polls."
+....Governor George W. Bush, Jr
+"When I have been asked who caused the riots and the killing in LA, my
+answer has been direct & simple Who is to blame for the riots? The
+rioters are to blame. Who is to blame for the killings? The killers are
+to blame."
+....George W. Bush, Jr.
+"Illegitimacy is something we should talk about in terms of not having
+it."
+....Governor George W. Bush, Jr., 5/20/96
+"We are ready for any unforeseen event that may or may not occur."
+....Governor George W. Bush, Jr., 9/22/97
+"For NASA, space is still a high priority."
+....Governor George W. Bush, Jr., 9/5/93
+"Quite frankly, teachers are the only profession that teach our
+children."
+....Governor George W. Bush, Jr., 9/18/95
+"The American people would not want to know of any misquotes that
+George Bush may or may not make."
+....Governor George W. Bush, Jr.
+"We're all capable of mistakes, but I do not care to enlighten you on
+the mistakes we may or may not have made."
+....Governor George W. Bush, Jr.
+"It isn't pollution that's harming the environment. It's the impurities
+in our air and water that are doing it."
+....Governor George W. Bush, Jr.
+"[It's] time for the human race to enter the solar system."
+....Governor George W. Bush, Jr.
+I just can't help myself!
+- DemBallot.gif
+Tom Moran
+11/14/2000 04:18 PM
+I justed wanted to be certain that you received this I will be out of the office Wednesday morning November 15, 2000, for a brief 
+appointment.  If you require assistance with an EOL or ClickPaper-related 
+contracts matter during that time, then you may contact Stacey Richardson If I am out of the office and you are unable to reach Stacey, then please 
+contact Linda Bryan 
+Global Online Trading Contacts
+Name   Work Telephone Pager Number
+For all online-related Global matters: Karen Lambert  (713) 853-0605  (713) 
+707-6571
+Backup     Stacey Richardson (713) 853-0569  (713) 710-6084       Linda Bryan   (713) 853-3538  (713) 709-3443
+Name   Work Telephone  
+For Global Counterparty matters only: Samuel Schott  (713) 853-9890  
+Backup     Adnan Patel  (713) 853-8335  (713) 788-9458  team pager
+Mary Gosnell  (713) 853-1727 
+Tom Moran
+11/14/2000 04:23 PM
+I believe that this was authored by James Carville:
+NEW YORK (AP) --The New York Mets announced today that they are going to
+court to get an additional inning added to the end of Game 5 of the World
+Series. The batting, pitching, and bench coaches for the Mets held a press
+conference earlier today.  They were joined by members of the Major League
+Players Union. "We meant to hit those pitches from the Yankee pitchers,"
+said the Mets batting coach.  "We were confused by the irregularities of the
+pitches we received and believe we have been denied our right to hit."
+One claim specifically noted that a small percentage of the Mets batters had
+intended to swing at fast balls, but actually swung at curve balls. It was
+clear that these batters never intended to swing at curve balls, though a
+much higher percentage were not confused by the pitches. Reporters at the
+press conference pointed out that the Mets had extensively reviewed film of
+the Yankees pitchers prior to the World Series and had in fact faced the
+Yankees in inter-league play earlier in the year. "The fact remains that
+some of the pitches confused us and denied us of our right to hit," said the 
+Mets
+batting coach. "The World Series is not over yet and the Yankees are
+celebrating prematurely."Major League Baseball has reviewed the telecast of
+all the World Series games and recounted the balls and strikes called by the
+umpires of each game. "While some of the strikes called against the Mets
+were, in fact, balls, there were not enough of them to change the outcome of
+the World Series," the commissioner said. Another portion of the Mets legal
+claim stated that, based on on-base percentage, the Mets had actually won
+the World Series, regardless of the final scores of the games.
+"It's clear that we were slightly on-base more often than the Yankees," said
+a Mets spokesman.  "The World Series crown is rightly ours."The manager of
+the Mets has remained in relative seclusion, engaging in some light jogging
+for exercise.  He has stated that he believes "we need to let the process
+run its course without a rush to judgment."
+I believe that this was authored by James Carville:
+NEW YORK (AP) --The New York Mets announced today that they are going to
+court to get an additional inning added to the end of Game 5 of the World
+Series. The batting, pitching, and bench coaches for the Mets held a press
+conference earlier today.  They were joined by members of the Major League
+Players Union. "We meant to hit those pitches from the Yankee pitchers,"
+said the Mets batting coach.  "We were confused by the irregularities of the
+pitches we received and believe we have been denied our right to hit."
+One claim specifically noted that a small percentage of the Mets batters had
+intended to swing at fast balls, but actually swung at curve balls. It was
+clear that these batters never intended to swing at curve balls, though a
+much higher percentage were not confused by the pitches. Reporters at the
+press conference pointed out that the Mets had extensively reviewed film of
+the Yankees pitchers prior to the World Series and had in fact faced the
+Yankees in inter-league play earlier in the year. "The fact remains that
+some of the pitches confused us and denied us of our right to hit," said the 
+Mets
+batting coach. "The World Series is not over yet and the Yankees are
+celebrating prematurely."Major League Baseball has reviewed the telecast of
+all the World Series games and recounted the balls and strikes called by the
+umpires of each game. "While some of the strikes called against the Mets
+were, in fact, balls, there were not enough of them to change the outcome of
+the World Series," the commissioner said. Another portion of the Mets legal
+claim stated that, based on on-base percentage, the Mets had actually won
+the World Series, regardless of the final scores of the games.
+"It's clear that we were slightly on-base more often than the Yankees," said
+a Mets spokesman.  "The World Series crown is rightly ours."The manager of
+the Mets has remained in relative seclusion, engaging in some light jogging
+for exercise.  He has stated that he believes "we need to let the process
+run its course without a rush to judgment."
+Tom Moran
+11/14/2000 04:23 PM
+I believe that this was authored by James Carville:
+NEW YORK (AP) --The New York Mets announced today that they are going to
+court to get an additional inning added to the end of Game 5 of the World
+Series. The batting, pitching, and bench coaches for the Mets held a press
+conference earlier today.  They were joined by members of the Major League
+Players Union. "We meant to hit those pitches from the Yankee pitchers,"
+said the Mets batting coach.  "We were confused by the irregularities of the
+pitches we received and believe we have been denied our right to hit."
+One claim specifically noted that a small percentage of the Mets batters had
+intended to swing at fast balls, but actually swung at curve balls. It was
+clear that these batters never intended to swing at curve balls, though a
+much higher percentage were not confused by the pitches. Reporters at the
+press conference pointed out that the Mets had extensively reviewed film of
+the Yankees pitchers prior to the World Series and had in fact faced the
+Yankees in inter-league play earlier in the year. "The fact remains that
+some of the pitches confused us and denied us of our right to hit," said the 
+Mets
+batting coach. "The World Series is not over yet and the Yankees are
+celebrating prematurely."Major League Baseball has reviewed the telecast of
+all the World Series games and recounted the balls and strikes called by the
+umpires of each game. "While some of the strikes called against the Mets
+were, in fact, balls, there were not enough of them to change the outcome of
+the World Series," the commissioner said. Another portion of the Mets legal
+claim stated that, based on on-base percentage, the Mets had actually won
+the World Series, regardless of the final scores of the games.
+"It's clear that we were slightly on-base more often than the Yankees," said
+a Mets spokesman.  "The World Series crown is rightly ours."The manager of
+the Mets has remained in relative seclusion, engaging in some light jogging
+for exercise.  He has stated that he believes "we need to let the process
+run its course without a rush to judgment."
+Attached is the revised list giving Calpine Energy Services the same approval 
+as Calpine Power Services (except no Argentina gas).
+Bradley Diebner
+11/14/2000 04:53 PM
+,
+bd
+Per the request of Sara, I am attaching Annex A and Annex B to the Omnibus 
+Confirmation for the referenced counterparty.
+Tom Moran
+11/14/2000 04:22 PM
+- DemBallot.gif
+- Floridaballot.jpg
+- MORONS1.GIF
+Bandwidth now OK per Marie.  She should have GTC to you no later than noon 
+tomorrow.
+Lisa Lees
+11/07/2000 03:08 PM
+Tana/Karen:
+The product long description below will fall under the new product type US 
+Bandwidth STM-1.  Credit (Tom Moran) has approved copying the profiles for 
+the new product type from the following:
+US Bandwidth DS3 Phy Fwd
+Please respond by 10 a.m. on Wednesday, November 8.
+Thank you.
+Robert B Cass
+10/31/2000 05:38 PM
+Hi Matt 
+SIGMA FACTOR REQUEST:
+Commercial has requested the following new Bandwidth product on EOL.  The 
+product type is similar to a the other Bandwidth products currently listed on 
+EnronOnline.
+New Product TypeCommodity Product Type:   US Bandwidth STM-1 Phy Fwd
+Commodity: Bandwidth 
+Currency:     USD
+Default UOM:   DSO miles
+Country:   USA
+Product: STM-1
+Market Pooling Point Locations: New York to London (NY-LON)
+DS0s: 2016
+Miles: 3471
+Physical Description :
+A US Bandwidth Transaction with Enron Broadband Services, L.P. ("EBS pursuant to which the Seller shall sell and the Buyer shall buy the quantity 
+of Bandwidth Units submitted by Counterparty via the Website. The number of 
+DSO's per STM-1 is 2016. The price shall be as submitted by the Counterparty 
+via the Website. Any party entering into a Transaction to buy or sell 
+Bandwidth Units from or to EBS shall be responsible for connecting to the 
+Demarcation Point located at each Market Pooling Point in order to take 
+physical delivery of such Bandwidth.  In order to achieve such connectivity, 
+a party may incur costs and expenses and may additionally be required to 
+execute certain documentation.
+The Term of the Transaction shall begin at 12:00 a.m. (EST) on the Effective 
+Date and continue to 11:59: 59 p.m. (EST) on the Termination Date. The 
+Effective Date is 01 Nov 2000 and the Termination Date is 30 Apr 2001.
+The Transaction shall be for Bandwidth between the New York Market Pooling 
+Point (111 8th Avenue, Suite 1517, New York, NY 10011, NPA-NXX: 212-462, 
+CLLI: NYCMNY83H62) and the London Market Pooling Point (Telecity 2, 8-9 
+Harbour Exchange, 1st Floor, Room 1T, London, E14 9GE),  for a total of 3,471 
+DSO miles.
+The price is quoted in US Dollars per unit of volume, which will be the 
+Contractual Currency.
+The unit of measure against which the Unit Price is quoted is one DSO mile 
+per month and the quantity shown shall be in number of Bandwidth Units per 
+month. Therefore, the Contract Price will be calculated as follows: Price x 
+the  number of DSO's per Bandwidth Unit x the number of DSO miles x the 
+number of Bandwidth Units.
+Angeline Poon
+11/15/2000 03:25 AM
+Hi Tana -
+We are trying to put in place an ISDA Master Agreement between Enron 
+I have prepared the following documents but not sure if they are most up to 
+date:
+1. Certificate of Assistant Secretary
+2. Certificate of Secretary
+3. Unanimous Consent of Directors (this is incomplete cos I am not sure of 
+the part starting from RESOLVED 
+Is there any other documents that I have missed out?  Would appreciate your 
+help and guidance whether I have done the above correctly.  If there is 
+anything incorrect, please guide me accordingly.
+Many thanks
+Angie
+Walter Guidroz@
+11/15/2000 07:39 AM
+Attached are ClickPaper approvals for November 15, 2000.
+No, we don't currently have Alberta Prepay docs.  Greg has finally gotten 
+them all and is preparing sets.
+At the request of Bob Shults, I am attaching our proposed form of 
+Non-Disclosure Agreement.  If the enclosed meets with your approval, please 
+sign the NDA and return it to me via fax (713) 646-3490.  If you have any 
+comments or questions, please do not hesitate to call me at (713) 853-3399.
+Tana L. Jones
+Senior Legal Specialist
+Jill Cicchino  	11/15/2000 09:32 AM
+Tana, there was no attachement with this e-mail.  Can you please resend?
+Thank you.
+At the request of Bob Shults, I am attaching our proposed form of
+Non-Disclosure Agreement.  If the enclosed meets with your approval, please
+sign the NDA and return it to me via fax (713) 646-3490.  If you have any
+comments or questions, please do not hesitate to call me at (713) 853-3399.
+Tana L. Jones
+Senior Legal Specialist
+Per Mark's request, can we rename the headings on two charts with our gross 
+numbers to match my list:  "Net long or short position in all months 
+combined" should be the net of our aggregate position, and "Gross Long or 
+Short Position" should be our gross position on either side of the market, 
+with the positions not netted out.
+At the request of Mark Taylor, can you get Sara Shackleton and Brent Hendry 
+passwords too so they can review the Dynegydirect GTC's.  P.S.  Do we have 
+any particular deadline for getting them approved 
+Thanks!
+Stephanie Sever
+11/15/2000 10:02 AM
+I have set up the following Users with Read Only Access for Dynegydirect.
+Dan Hyvl
+User ID: DHYVL1
+Password: enron2
+Leslie Hansen
+User ID: LHANSEN
+Password: enron1
+Tana Jones
+User ID: TJONES
+Password: enron3
+Please note the above are case sensitive.
+Let me know if you have any questions.
+Thanks,
+Stephanie
+Stephanie - can you please set this up and forward the ids on?
+Thanks
+Sheri
+Leslie Hansen
+11/13/2000 02:15 PM
+Sheri:
+I deleted the passwords you sent me -- I don't want to have them since they 
+grant execution status.  Instead, can you please set me, Dan Hyvl, and Tana 
+Jones up as a sub-user with read-only access to all products.
+Thanks,
+Leslie
+You guys crack me up! 
+Peter Keohane
+11/15/2000 10:50 AM
+Very good stuff.  I will get back to you later.
+Jon Chapman
+11/15/2000 09:37 AM
+I'm afraid I'm still none the wiser . Anyway , points of history : (1) Yes we did , technically , lose the American War of Independence but it was 
+because we got sick of it and had other "fish to fry" in Asia and Africa plus it was really a civil war because the people who "beat" us were largely , first or second generation "Americans" and , therefore ,  Brits 
+(for example , George Washington's family home is still there close to my 
+home town of Sunderland in North-East England ) and (2) we never lost to the 
+French , we agreed to give them the worst bit - Quebec - in return for some 
+tastier possessions elsewhere .
+Yours respectfully
+Jon
+That fact that you asked "who?" begs the further question of what exactly you 
+were up to in Houston.  Have the Brits ever really won a battle any way (Their failure to beat a bunch of colonized farmers with pitch forks has 
+resulted directly in this Florida mess, and their failure to put away the 
+French (of all people) has resulted directly in me and the vast majority of 
+my fellow Canadians being subjected to official and legally mandated 
+bilingualism).
+To the point, I believe San Felipe is the battle field adjacent to the 
+Westheimer battle field, where the Brits (or at least one of them) were 
+purportedly waging a more efficient war, until being caught red handed on the 
+battle fields of San Felipe, where, all the while, the Canadian forces (or at 
+least one of them) were so successfully conquering the enemy.
+Peter. 
+Jon Chapman
+11/15/2000 06:43 AM
+Who or what the ****ing hell is San Felipe - I don't remember the Brits ever 
+winning a battle there .
+Jon
+When I look at Al Gore I continue to be amazed that one, let alone 50 
+million, Americans voted for him.  Both Clinton's and Gore's continued 
+shamelessness, and disregard for doing the right and decent thing, is only 
+slightly less amazing than the American people (or at least half of them) 
+continuing to find reasons to support them.  My only, yet substantive, vested 
+interest in the outcome is that we are inundated with US T.V. and I can't 
+bear the thought of looking at Gore (and God forbid Hillary) for the next 
+four years.  If they don't settle this Florida thing, I am going to have it 
+have my cable disconnected.
+We vote in our federal election on November 27th.  We will not have any such 
+problems however - not because we are any better than anyone (in fact, I am 
+not entirely confident that most of my fellow Canadians will understand, or 
+have ever have understood, the ballot or voted for who they thought they were 
+voting for) - but rather because of the political system which Jon's 
+ancestors were so kind to bestow upon us, which I refer to as "parliamentary 
+dictatorship 
+(Sorry Tana if you are a Democrat, but that is the independent middle of the 
+road - yeah right - view of a Canadian observer.  Jon, I cannot, however, 
+apologize for the political ruin which your system of Government has brought 
+upon us, other to acknowledge that the problem my not be the system but 
+rather our screwed up regionalization of your unified parliamentary system 
+into 11 separate parliamentary systems - and I suppose that could be 
+construed as an apology of sorts, except, for the record, I will never 
+apologize to you for anything until you make a public, i.e. to Tana and me by 
+e-mail, confession of your sins on San Felipe.  For that matter, you are as 
+bad as Clinton and Gore.)
+Peter.
+Mark Taylor has asked me to forward the attached email to each of you.  Per 
+Mark's direction and the email, we need to sign off, from a Legal (not 
+business) perspective only, on the attached descriptions of the 12 product 
+areas to be traded online.  So far we have only received 5 of the referenced 
+12 descriptions.  I will forward the additional descriptions to the relevant 
+Legal group when I receive them.  Per the attached email, Awais needs our 
+Legal sign off by Friday.
+I understand Alan may be out for the rest of the week so the attached 
+descriptions on Coal, SO2 and NOX will need to be approved by someone else in 
+his group.  I'm not sure who that would be.  Could you let me know?  Mark 
+asked if Shari and Sara could sign off on the weather and pulp & paper 
+description for our group.
+Thanks for your help!
+Awais Omar
+09/01/99 02:30 AM
+Tana,
+I am afraid there is more than one description.  Some are quite lengthy,  US 
+West Power (11 Pages) and US Natural Gas (5 pages).  There is a quite urgent 
+deadline to get these uploaded into the web pages and then integrated into 
+the site by the end of this week.  So any comments you can provide ASAP would 
+be much appreciated.
+If you have any questions please do not hesitate to phone, or email me.  Tel 
+no: 44 171 970 7377.
+Thanks
+Awais
+Awais Omar
+31/08/99 20:21
+Steven & Carol,
+I am working for Louise Kitchen on the EnronOnline project.  As part of the 
+site we are incorporating market descriptions of all the main market that we 
+will be trading on the system to give users some general information.
+I have collected and rewritten these into a standard format and am currently 
+in the process of obtaining Legal and regulatory approval of these 
+descriptions that will be visible to anyone on the web.
+In Total there are 12 descriptions covering North Amercia.  These are listed 
+below.
+Canada Gas
+LPG
+NOx Emissions
+Oil & Oil products
+Plastics and Petrochemicals
+Pulp & Paper
+SO2 Emissions
+US Coal
+US Natural Gas
+US East Power
+US West Power
+Weather Derivatives
+I have below the completed descriptions to date.  Please could you pass to 
+the respective people in your groups for their review and comments.  I would 
+appreciate it if you could provide your comments as soonas possible as these 
+have to be approved and loaded into the web site this week 
+Below are 5 of the descriptions.  I shall send the remainder to yourselves 
+tomorrow.
+If you have any questions my telephone number in London is  44 171 970 7377.
+Thanks
+Awais
+Stephanie Sever
+11/15/2000 11:35 AM
+Tana 
+I have already set Sara up.  I spoke with Sheri about the deadline and our 
+traders are anxious to start trading - so as soon as possible.
+Brent Hendry
+User ID: BHENDRY
+Password: enron7
+Please note these are case sensitive.
+Let me know if you have any questions.
+Thank you,
+Stephanie x33465
+At the request of Mark Taylor, can you get Sara Shackleton and Brent Hendry 
+passwords too so they can review the Dynegydirect GTC's.  P.S.  Do we have 
+any particular deadline for getting them approved 
+Thanks!
+Stephanie Sever
+11/15/2000 10:02 AM
+I have set up the following Users with Read Only Access for Dynegydirect.
+Dan Hyvl
+User ID: DHYVL1
+Password: enron2
+Leslie Hansen
+User ID: LHANSEN
+Password: enron1
+Tana Jones
+User ID: TJONES
+Password: enron3
+Please note the above are case sensitive.
+Let me know if you have any questions.
+Thanks,
+Stephanie
+Stephanie - can you please set this up and forward the ids on?
+Thanks
+Sheri
+Leslie Hansen
+11/13/2000 02:15 PM
+Sheri:
+I deleted the passwords you sent me -- I don't want to have them since they 
+grant execution status.  Instead, can you please set me, Dan Hyvl, and Tana 
+Jones up as a sub-user with read-only access to all products.
+Thanks,
+Leslie
+Bradley Diebner
+11/15/2000 01:19 PM
+,
+bd
+Tom Moran
+11/14/2000 04:23 PM
+I believe that this was authored by James Carville:
+NEW YORK (AP) --The New York Mets announced today that they are going to
+court to get an additional inning added to the end of Game 5 of the World
+Series. The batting, pitching, and bench coaches for the Mets held a press
+conference earlier today.  They were joined by members of the Major League
+Players Union. "We meant to hit those pitches from the Yankee pitchers,"
+said the Mets batting coach.  "We were confused by the irregularities of the
+pitches we received and believe we have been denied our right to hit."
+One claim specifically noted that a small percentage of the Mets batters had
+intended to swing at fast balls, but actually swung at curve balls. It was
+clear that these batters never intended to swing at curve balls, though a
+much higher percentage were not confused by the pitches. Reporters at the
+press conference pointed out that the Mets had extensively reviewed film of
+the Yankees pitchers prior to the World Series and had in fact faced the
+Yankees in inter-league play earlier in the year. "The fact remains that
+some of the pitches confused us and denied us of our right to hit," said the 
+Mets
+batting coach. "The World Series is not over yet and the Yankees are
+celebrating prematurely."Major League Baseball has reviewed the telecast of
+all the World Series games and recounted the balls and strikes called by the
+umpires of each game. "While some of the strikes called against the Mets
+were, in fact, balls, there were not enough of them to change the outcome of
+the World Series," the commissioner said. Another portion of the Mets legal
+claim stated that, based on on-base percentage, the Mets had actually won
+the World Series, regardless of the final scores of the games.
+"It's clear that we were slightly on-base more often than the Yankees," said
+a Mets spokesman.  "The World Series crown is rightly ours."The manager of
+the Mets has remained in relative seclusion, engaging in some light jogging
+for exercise.  He has stated that he believes "we need to let the process
+run its course without a rush to judgment."
+Tom Moran
+11/14/2000 04:22 PM
+- DemBallot.gif
+- Floridaballot.jpg
+- MORONS1.GIF
+Tana Jones
+11/14/2000 08:01 AM
+Jon Chapman
+11/14/2000 03:42 AM
+And so it goes on David_Davies@chubb.com.au on 14/11/2000 05:21:06
+David Davies
+National Manager - Chubb Traffic Services
+02 9930 4318 / 0401 77 66 18
+Tony Ayers  
+These are some quotes attributed to the would be American President
+George
+Bush
+Perhaps this is how upper management speak?
+"The vast majority of our imports come from outside the country."
+....George W. Bush, Jr.
+"If we don't succeed, we run the risk of failure."
+....George W. Bush, Jr.
+"Republicans understand the importance of bondage between a mother and
+child."
+....Governor George W. Bush, Jr.
+"Welcome to Mrs. Bush, and my fellow astronauts."
+....Governor George W. Bush, Jr.
+"Mars is essentially in the same orbit...Mars is somewhat the same
+distance from the Sun, which is very important.
+We have seen pictures where there are canals, we believe, and water. If
+there is water, that means there is oxygen.
+If oxygen, that means we can breathe."
+....Governor George W. Bush, Jr., 8/11/94
+"The Holocaust was an obscene period in our nation's history. I mean in
+this century's history.  But we all lived in this century. I didn't live
+in this century."
+....Governor George W. Bush, Jr., 9/15/95
+"I believe we are on an irreversible trend toward more freedom and
+democracy - but that could change."
+....Governor George W. Bush, Jr., 5/22/98
+"One word sums up probably the responsibility of any Governor, and that
+one word is 'to be prepared ....Governor George W. Bush, Jr., 12/6/93
+"Verbosity leads to unclear, inarticulate things."
+....Governor George W. Bush, Jr., 11/30/96
+"I have made good judgments in the past. I have made good judgments in
+the future."
+....Governor George W. Bush, Jr.
+"The future will be better tomorrow."
+....Governor George W. Bush, Jr.
+"We're going to have the best educated American people in the world."
+....Governor George W. Bush, Jr., 9/21/97
+"People that are really very weird can get into sensitive positions and
+have a tremendous impact on history."
+....Governor George W. Bush.
+"I stand by all the misstatements that I've made."
+....Governor George W. Bush, Jr. to Sam Donaldson, 8/17/93
+"We have a firm commitment to NATO, we are a part of NATO. We have a
+firm commitment to Europe. We are a part of Europe." ....Governor George
+W. Bush, Jr.
+"Public speaking is very easy."
+....Governor George W. Bush, Jr. to reporters in 10/9
+"I am not part of the problem. I am a Republican"
+....Governor George W. Bush, Jr.
+"A low voter turnout is an indication of fewer people going to the
+polls."
+....Governor George W. Bush, Jr
+"When I have been asked who caused the riots and the killing in LA, my
+answer has been direct & simple Who is to blame for the riots? The
+rioters are to blame. Who is to blame for the killings? The killers are
+to blame."
+....George W. Bush, Jr.
+"Illegitimacy is something we should talk about in terms of not having
+it."
+....Governor George W. Bush, Jr., 5/20/96
+"We are ready for any unforeseen event that may or may not occur."
+....Governor George W. Bush, Jr., 9/22/97
+"For NASA, space is still a high priority."
+....Governor George W. Bush, Jr., 9/5/93
+"Quite frankly, teachers are the only profession that teach our
+children."
+....Governor George W. Bush, Jr., 9/18/95
+"The American people would not want to know of any misquotes that
+George Bush may or may not make."
+....Governor George W. Bush, Jr.
+"We're all capable of mistakes, but I do not care to enlighten you on
+the mistakes we may or may not have made."
+....Governor George W. Bush, Jr.
+"It isn't pollution that's harming the environment. It's the impurities
+in our air and water that are doing it."
+....Governor George W. Bush, Jr.
+"[It's] time for the human race to enter the solar system."
+....Governor George W. Bush, Jr.
+Mieco 471
+Tana Jones
+11/15/2000 04:05 PM
+Mieco 471
+Heck, we all know sending an agreement out for signature doesn't mean getting 
+them back signed.  If we had every agreement signed we sent out, we'd be at 
+1000!
+Marie Heard@MUNICATIONS
+11/15/2000 04:12 PM
+So, I'm getting ready to send out my 5th for signature.  You might as well 
+start lining up your people and I'll start lining up mine, cause I can tell 
+you right now, I WANT A RECOUNT 
+Marie Heard
+Senior Legal Specialist
+Enron Broadband Services
+Phone:  (713) 853-3907
+Fax:  (713) 646-8537
+Marie_Heard@.net
+Tana Jones@ECT
+11/15/00 04:05 PM
+Mieco 471
+Walter Guidroz@
+11/15/2000 04:16 PM
+Attached is an addition to today's November 15 approvals sent out earlier 
+today.  Please call me if you have any questions; thanks.
+Walter
+Paul Finken@MUNICATIONS
+11/15/2000 05:00 PM
+John - The legal department informed me that the Enron NDA would be mutually 
+binding and if we worked from your Purchase Pooling NDA that it would take a 
+few days before they could review the document.  Is it possible to work from 
+the Enron NDA or do you or your attorneys have specific questions 
+pf
+Tana Jones@ECT
+11/10/00 02:13 PM
+At the request of Paul Finken, I am attaching our proposed form of 
+Non-Disclosure Agreement.  If the enclosed meets with your approval, please 
+mail or fax an executed copy to me.  If you have any comments or questions, 
+please do not hesitate to call me at (713) 853-3399.  My fax number is (713) 
+636-3490.
+Awais,
+I have forwarded the descriptions you have sent us thus far to the respective 
+Legal Trading Lawyers to sign off as far any legal issues we may have with 
+the descriptions.  I understand your deadline is the end of the week.
+When can I expect the remaining descriptions?
+Jon Chapman
+11/16/2000 03:16 AM
+Peter ,
+You'll enjoy this more than Tana 
+Jon
+Annette Patrick
+16/11/2000 08:37
+Sarah Gregory
+15/11/2000 19:24
+NOTICE OF REVOCATION OF INDEPENDENCE
+To the citizens of the United States of America,
+In the light of your failure to elect a President of the USA and thus to 
+govern yourselves, we hereby give notice of the revocation of your 
+independence,effective today.
+Her Sovereign Majesty Queen Elizabeth II will resume monarchial duties over 
+all states, commonwealths and other territories.  Except Utah, which she does 
+not fancy.  Your new prime minister (The rt. hon. Tony Blair, MP for the 
+97.85% of you who have until now been unaware that there is a world outside 
+your borders) will appoint a minister for America without the need for 
+further elections.Congress and the Senate will be disbanded.  A questionnaire 
+will be circulated next year to determine whether any of you noticed.
+To aid in the transition to a British Crown Dependency, the following rules 
+are introduced with immediate effect:
+1. You should look up "revocation" in the Oxford English Dictionary. Then 
+look up "aluminium".  Check the pronunciation guide.  You will be amazed at 
+just how wrongly you have been pronouncing it. Generally, you should raise 
+your vocabulary to acceptable levels. Look up "vocabulary".  Using the same 
+twenty seven words interspersed with filler noises such as "like" and "you 
+know" is an unacceptable and inefficient form of communication.  Look up
+"interspersed".
+2. There is no such thing as "US English".  We will let Microsoft know on 
+your behalf.
+3. You should learn to distinguish the English and Australian accents.  It 
+really isn't that hard.
+4. Hollywood will be required occasionally to cast English actors as the good 
+guys.
+5. You should relearn your original national anthem, "God Save The Queen",but 
+only after fully carrying out task 1.  We would not want you to get confused 
+and give up half way through.
+6. You should stop playing American "football".  There is only one kind of 
+football.  What you refer to as American "football" is not a very good game. 
+The 2.15% of you who are aware that there is a world outside your borders may 
+have noticed that no one else plays "American" football.  You will no longer 
+be allowed to play it, and should
+instead play proper football. Initially, it would be best if you played with 
+the girls.  It is a difficult game.  Those of you brave enough will, in time, 
+be allowed to play rugby (which is similar to American "football", but does 
+not involve stopping for a rest every twenty seconds or wearing full kevlar 
+body armour like nancies).We are hoping to get together at least a US rugby 
+sevens side by 2005.
+7. You should declare war on Quebec and France, using nuclear weapons if they 
+give you any merde.  The 98.85% of you who were not aware that there is a 
+world outside your borders should count yourselves lucky.  The Russians have 
+never been the bad guys."Merde" is French for "sh*t".
+8. July 4th is no longer a public holiday.  November 8th will be a new 
+national holiday, but only in England.  It will be called "Indecisive Day".
+9. All American cars are hereby banned.  They are crap and it is for your own 
+good.  When we show you German cars,  you will understand what we mean.
+10. Please tell us who killed JFK.  It's been driving us crazy.
+Thank you for your cooperation.
+Jon Chapman
+11/16/2000 05:20 AM
+Annette Patrick
+16/11/2000 11:14
+- ATT1864942.doc
+Jon Chapman
+11/16/2000 03:16 AM
+Peter ,
+You'll enjoy this more than Tana 
+Jon
+Annette Patrick
+16/11/2000 08:37
+Sarah Gregory
+15/11/2000 19:24
+NOTICE OF REVOCATION OF INDEPENDENCE
+To the citizens of the United States of America,
+In the light of your failure to elect a President of the USA and thus to 
+govern yourselves, we hereby give notice of the revocation of your 
+independence,effective today.
+Her Sovereign Majesty Queen Elizabeth II will resume monarchial duties over 
+all states, commonwealths and other territories.  Except Utah, which she does 
+not fancy.  Your new prime minister (The rt. hon. Tony Blair, MP for the 
+97.85% of you who have until now been unaware that there is a world outside 
+your borders) will appoint a minister for America without the need for 
+further elections.Congress and the Senate will be disbanded.  A questionnaire 
+will be circulated next year to determine whether any of you noticed.
+To aid in the transition to a British Crown Dependency, the following rules 
+are introduced with immediate effect:
+1. You should look up "revocation" in the Oxford English Dictionary. Then 
+look up "aluminium".  Check the pronunciation guide.  You will be amazed at 
+just how wrongly you have been pronouncing it. Generally, you should raise 
+your vocabulary to acceptable levels. Look up "vocabulary".  Using the same 
+twenty seven words interspersed with filler noises such as "like" and "you 
+know" is an unacceptable and inefficient form of communication.  Look up
+"interspersed".
+2. There is no such thing as "US English".  We will let Microsoft know on 
+your behalf.
+3. You should learn to distinguish the English and Australian accents.  It 
+really isn't that hard.
+4. Hollywood will be required occasionally to cast English actors as the good 
+guys.
+5. You should relearn your original national anthem, "God Save The Queen",but 
+only after fully carrying out task 1.  We would not want you to get confused 
+and give up half way through.
+6. You should stop playing American "football".  There is only one kind of 
+football.  What you refer to as American "football" is not a very good game. 
+The 2.15% of you who are aware that there is a world outside your borders may 
+have noticed that no one else plays "American" football.  You will no longer 
+be allowed to play it, and should
+instead play proper football. Initially, it would be best if you played with 
+the girls.  It is a difficult game.  Those of you brave enough will, in time, 
+be allowed to play rugby (which is similar to American "football", but does 
+not involve stopping for a rest every twenty seconds or wearing full kevlar 
+body armour like nancies).We are hoping to get together at least a US rugby 
+sevens side by 2005.
+7. You should declare war on Quebec and France, using nuclear weapons if they 
+give you any merde.  The 98.85% of you who were not aware that there is a 
+world outside your borders should count yourselves lucky.  The Russians have 
+never been the bad guys."Merde" is French for "sh*t".
+8. July 4th is no longer a public holiday.  November 8th will be a new 
+national holiday, but only in England.  It will be called "Indecisive Day".
+9. All American cars are hereby banned.  They are crap and it is for your own 
+good.  When we show you German cars,  you will understand what we mean.
+10. Please tell us who killed JFK.  It's been driving us crazy.
+Thank you for your cooperation.
+Jay, this one is from one of our London lawyers to me and a Canadian lawyer.
+Jon Chapman
+11/16/2000 03:16 AM
+Peter ,
+You'll enjoy this more than Tana 
+Jon
+Annette Patrick
+16/11/2000 08:37
+Sarah Gregory
+15/11/2000 19:24
+NOTICE OF REVOCATION OF INDEPENDENCE
+To the citizens of the United States of America,
+In the light of your failure to elect a President of the USA and thus to 
+govern yourselves, we hereby give notice of the revocation of your 
+independence,effective today.
+Her Sovereign Majesty Queen Elizabeth II will resume monarchial duties over 
+all states, commonwealths and other territories.  Except Utah, which she does 
+not fancy.  Your new prime minister (The rt. hon. Tony Blair, MP for the 
+97.85% of you who have until now been unaware that there is a world outside 
+your borders) will appoint a minister for America without the need for 
+further elections.Congress and the Senate will be disbanded.  A questionnaire 
+will be circulated next year to determine whether any of you noticed.
+To aid in the transition to a British Crown Dependency, the following rules 
+are introduced with immediate effect:
+1. You should look up "revocation" in the Oxford English Dictionary. Then 
+look up "aluminium".  Check the pronunciation guide.  You will be amazed at 
+just how wrongly you have been pronouncing it. Generally, you should raise 
+your vocabulary to acceptable levels. Look up "vocabulary".  Using the same 
+twenty seven words interspersed with filler noises such as "like" and "you 
+know" is an unacceptable and inefficient form of communication.  Look up
+"interspersed".
+2. There is no such thing as "US English".  We will let Microsoft know on 
+your behalf.
+3. You should learn to distinguish the English and Australian accents.  It 
+really isn't that hard.
+4. Hollywood will be required occasionally to cast English actors as the good 
+guys.
+5. You should relearn your original national anthem, "God Save The Queen",but 
+only after fully carrying out task 1.  We would not want you to get confused 
+and give up half way through.
+6. You should stop playing American "football".  There is only one kind of 
+football.  What you refer to as American "football" is not a very good game. 
+The 2.15% of you who are aware that there is a world outside your borders may 
+have noticed that no one else plays "American" football.  You will no longer 
+be allowed to play it, and should
+instead play proper football. Initially, it would be best if you played with 
+the girls.  It is a difficult game.  Those of you brave enough will, in time, 
+be allowed to play rugby (which is similar to American "football", but does 
+not involve stopping for a rest every twenty seconds or wearing full kevlar 
+body armour like nancies).We are hoping to get together at least a US rugby 
+sevens side by 2005.
+7. You should declare war on Quebec and France, using nuclear weapons if they 
+give you any merde.  The 98.85% of you who were not aware that there is a 
+world outside your borders should count yourselves lucky.  The Russians have 
+never been the bad guys."Merde" is French for "sh*t".
+8. July 4th is no longer a public holiday.  November 8th will be a new 
+national holiday, but only in England.  It will be called "Indecisive Day".
+9. All American cars are hereby banned.  They are crap and it is for your own 
+good.  When we show you German cars,  you will understand what we mean.
+10. Please tell us who killed JFK.  It's been driving us crazy.
+Thank you for your cooperation.
+Jon Chapman
+11/16/2000 05:20 AM
+Annette Patrick
+16/11/2000 11:14
+- ATT1864942.doc
+These last two were especially good.  I guess the best thing about this mess 
+is that it has provoked such good humor!
+Jon Chapman
+11/16/2000 05:20 AM
+Annette Patrick
+16/11/2000 11:14
+- ATT1864942.doc
+You guys are cracking me up.  I had tears streaming down my face this morning!
+(hey, but I thought y'all played "American Football" too, maybe I'm confused).
+Peter Keohane
+11/16/2000 09:50 AM
+Very clever and topical, particularly the French/Quebec bit 
+Jon Chapman
+11/16/2000 02:16 AM
+Peter ,
+You'll enjoy this more than Tana 
+Jon
+Annette Patrick
+16/11/2000 08:37
+Sarah Gregory
+15/11/2000 19:24
+NOTICE OF REVOCATION OF INDEPENDENCE
+To the citizens of the United States of America,
+In the light of your failure to elect a President of the USA and thus to 
+govern yourselves, we hereby give notice of the revocation of your 
+independence,effective today.
+Her Sovereign Majesty Queen Elizabeth II will resume monarchial duties over 
+all states, commonwealths and other territories.  Except Utah, which she does 
+not fancy.  Your new prime minister (The rt. hon. Tony Blair, MP for the 
+97.85% of you who have until now been unaware that there is a world outside 
+your borders) will appoint a minister for America without the need for 
+further elections.Congress and the Senate will be disbanded.  A questionnaire 
+will be circulated next year to determine whether any of you noticed.
+To aid in the transition to a British Crown Dependency, the following rules 
+are introduced with immediate effect:
+1. You should look up "revocation" in the Oxford English Dictionary. Then 
+look up "aluminium".  Check the pronunciation guide.  You will be amazed at 
+just how wrongly you have been pronouncing it. Generally, you should raise 
+your vocabulary to acceptable levels. Look up "vocabulary".  Using the same 
+twenty seven words interspersed with filler noises such as "like" and "you 
+know" is an unacceptable and inefficient form of communication.  Look up
+"interspersed".
+2. There is no such thing as "US English".  We will let Microsoft know on 
+your behalf.
+3. You should learn to distinguish the English and Australian accents.  It 
+really isn't that hard.
+4. Hollywood will be required occasionally to cast English actors as the good 
+guys.
+5. You should relearn your original national anthem, "God Save The Queen",but 
+only after fully carrying out task 1.  We would not want you to get confused 
+and give up half way through.
+6. You should stop playing American "football".  There is only one kind of 
+football.  What you refer to as American "football" is not a very good game. 
+The 2.15% of you who are aware that there is a world outside your borders may 
+have noticed that no one else plays "American" football.  You will no longer 
+be allowed to play it, and should
+instead play proper football. Initially, it would be best if you played with 
+the girls.  It is a difficult game.  Those of you brave enough will, in time, 
+be allowed to play rugby (which is similar to American "football", but does 
+not involve stopping for a rest every twenty seconds or wearing full kevlar 
+body armour like nancies).We are hoping to get together at least a US rugby 
+sevens side by 2005.
+7. You should declare war on Quebec and France, using nuclear weapons if they 
+give you any merde.  The 98.85% of you who were not aware that there is a 
+world outside your borders should count yourselves lucky.  The Russians have 
+never been the bad guys."Merde" is French for "sh*t".
+8. July 4th is no longer a public holiday.  November 8th will be a new 
+national holiday, but only in England.  It will be called "Indecisive Day".
+9. All American cars are hereby banned.  They are crap and it is for your own 
+good.  When we show you German cars,  you will understand what we mean.
+10. Please tell us who killed JFK.  It's been driving us crazy.
+Thank you for your cooperation.
+At the request of Leslie Hansen, I am enclosing a clean and redlined draft of 
+the revised NDA.
+Tana Jones
+11/16/2000 11:46 AM
+At the request of Leslie Hansen, I am enclosing a clean and redlined draft of 
+the revised NDA.
+Yes!
+Gillian Johnson@
+11/16/2000 12:12 PM
+Tana,
+I would appreciate it if you could facilitate this document through the 
+required processes.  lelsie just needs to review the changes that London made 
+and email her acceptance of the changes to Denis O'Connell in London
+Thanks.
+Richard Sage
+15/11/2000 13:09
+Leslie,
+Craig Chaney tells me that you have been looking at these documents.
+They need to be signed in the UK for tax reasons.
+Can you therefore send confirmation to Denis that you are happy with them so 
+he can initial them and I will then get them signed.
+Many thanks,
+Richard
+The only changes I have made here are:
+Announcements
+Any announcement made related to this agreement must be approved in advance 
+in writing by both parties.
+Information Sharing
+? Given authorization from the individual marketplace participant, i2 may at 
+a minimum provide the following information for all individual marketplace 
+participants that view EnronCredit.com information:
+d First and last name
+d Company name
+d Job title
+d Email address
+d Business address
+- Telephone number
+We have received the fully executed Confidential Nondisclosure Agreement 
+dated 11/13/00 between Sapient Corporation and Enron Net works LLC and 
+EnronOnline, LLC.  A copy will be sent to Dave Samuels.
+Can you please direct one of the paralegals to assist Angeline with getting 
+this documentation in place.  I thought Susan would be appropriate because 
+she handles internal masters, but I understand she is only responsible for 
+RMT Masters.
+Susan Bailey
+11/16/2000 02:01 PM
+Tana,
+I am not sure why you have forwarded this e-mail request on to me.
+Please explain.
+Susan S. Bailey
+Tana Jones
+11/15/2000 08:19 AM
+Angeline Poon
+11/15/2000 03:25 AM
+Hi Tana -
+We are trying to put in place an ISDA Master Agreement between Enron 
+I have prepared the following documents but not sure if they are most up to 
+date:
+1. Certificate of Assistant Secretary
+2. Certificate of Secretary
+3. Unanimous Consent of Directors (this is incomplete cos I am not sure of 
+the part starting from RESOLVED 
+Is there any other documents that I have missed out?  Would appreciate your 
+help and guidance whether I have done the above correctly.  If there is 
+anything incorrect, please guide me accordingly.
+Many thanks
+Angie
+I told the online people I had to shut them down for power because we didn't 
+have them on any FERC lists.  Below is their ph. # (when you get a minute 	Stephanie Sever
+11/16/2000 02:20 PM
+Tana,
+Per your request, the contact at Port of Seattle is Douglas C. Holbrook, ph. 
+206-433-4600.  There is no additional information regarding company name.
+Thanks,
+Stephanie x33465
+I have passed your request to Mark Taylor to assign to another paralegal.  I 
+no longer handle the day to day swap work, I am working on Online 
+predominately now.  By copy of this email, I will ask Mark to let you know 
+what paralegal he has assigned this to.
+Angeline Poon
+11/15/2000 03:25 AM
+Hi Tana -
+We are trying to put in place an ISDA Master Agreement between Enron 
+I have prepared the following documents but not sure if they are most up to 
+date:
+1. Certificate of Assistant Secretary
+2. Certificate of Secretary
+3. Unanimous Consent of Directors (this is incomplete cos I am not sure of 
+the part starting from RESOLVED 
+Is there any other documents that I have missed out?  Would appreciate your 
+help and guidance whether I have done the above correctly.  If there is 
+anything incorrect, please guide me accordingly.
+Many thanks
+Angie
+exchangeinfo@nymex.com
+11/16/2000 02:10 PM
+Notice No. 00-397
+November 16, 2000
+TO:
+All NYMEX Division Members and Member Firms
+All NYMEX Division Clearing Firms
+All NYMEX Division Operations Managers
+FROM:
+Neal Wolkoff, Executive Vice President
+SUBJECT: Margin Rate Increase for Natural Gas
+_________________________________________________
+Effective Date: Friday, November 17, 2000 (close of business)
+Futures Contract:  Henry Hub Natural Gas Futures
+Contract Months: All Months
+Rate Change:
+NYMEX Division Margins on Henry Hub Natural Gas Futures Contracts
+Effective Date: Friday, November 17, 2000 (close of business)
+Clearing Member (Maintenance Margin): Old:  $4,200  New:  $5,500
+Member Customer (Initial Margin): Old:  $4,620  New:  $6,050
+Non-Member Customer (Initial Margin): Old:  $5,670  New:  $7,425
+Should you have any questions regarding these changes, please contact Arthur 
+McCoy at (212) 299-2928 or Joe Sanguedolce at (212) 299-2855.
+This notice supersedes all previous notices regarding outright margins for 
+the NYMEX Henry Hub Natural Gas Futures Contract.
+__________________________________________________
+RUSH BELOW.
+Bradley Diebner
+11/16/2000 03:59 PM
+Please amend the Oneok file asap.
+,
+bd
+This counterparty is approved for all products except power and Argentina gas 
+(no credit deriv too).
+(g) Additional Event of Default.  The following will constitute an additional 
+Event of Default for purposes of Section 5(a):
+(ix) (i) in the case of Party A, if Enron Corp. ceases to own, directly or 
+indirectly, one hundred percent (100%) of the outstanding capital stock or 
+other equity interests of Party A having ordinary voting power; or (ii) in 
+the case of Party B, if Enron Corp. ceases to own directly or indirectly, one 
+hundred percent (100%) or more of the outstanding capital stock or other 
+equity interests of Party B having ordinary voting power.
+We only send this to the legal team that follows, not the distribution that 
+Brad sends it to.
+Tana Jones
+11/16/2000 04:15 PM
+RUSH BELOW.
+Bradley Diebner
+11/16/2000 03:59 PM
+Please amend the Oneok file asap.
+,
+bd
+Attached is Annex A for the Omnibus, revised only to change "ECT" to "ENA".
+What do you think?
+Dune Thorne  	11/16/2000 07:08 PM
+Tana,
+I sent the CDA to our legal team and they had a few changes to make. Can
+you make these changes and send it back?
+,
+Dune
+NAA02374; Mon, 13 Nov 2000 13:46:28 -0800 (PST)
+Dune, I've reviewed the NDA and all of their changes are acceptable, except:
+--  The additions to the two sentences in Section 1 don't make sense as
+written, so should be restated as follows:
+Any written Confidential Information will be clearly labeled "Confidential
+Information" or, in the absence thereof, will be deemed Confidential
+Information if it is of such nature as should be known to the receiving Party
+to be confidential.  Any Confidential Information transmitted orally will be
+clearly identified as such by the Party disclosing such information at the
+time it is disclosed or, in the absence thereof, will be deemed Confidential
+Information if it is of such nature as should be known to the receiving Party
+to be confidential.
+--  We can't agree to the new language in Section 10.
+Feel free to forward my comments to Enron if you would like.  I would have
+revised the CDA accordingly, but they use a different redlining system than we
+do.
+Thanks.
+--
+,
+Jane Akdoruk
+Senior Corporate Counsel
+972-409-3104 Phone
+425-699-0930 Fax
+Dune Thorne wrote:
+ Jane,
+ I left you a voice message regarding the attached NDA. We have been
+ working on a partnership with Enron for the past few months, and the
+ division of Enron that we have been talking to has moved into a
+ different group within the company. The attached NDA includes the
+ language of the new group. Could you review it before we sign it?

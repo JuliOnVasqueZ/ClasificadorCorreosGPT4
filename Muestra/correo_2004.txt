@@ -1,0 +1,4 @@
+HAMPERING: If one of your humans is engaged in some
+activity and the other is idle, stay with the busy
+one. This is called "helping," otherwise known as
+"hampering." Following are the rules for "hampering:"

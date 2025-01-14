@@ -1,0 +1,3023 @@
+I spoke with Brent briefly a few moments ago and suggested changing the
+jitter buffer value to 1. If the speech becomes choppy then we will have to
+revert to 2 and put in a sniffer on the route to see if there is anything
+hardware-wise that may be affecting the data throughput.
+Darshan.
+28
+Have you spoken to Andy's book accountant?
+Lloyd Will
+07/28/2000 12:40 PM
+Meeting Agenda # 1
+Location :  EB3125A
+Time :  10:00 - 12:00
+Date : July 31st
+Agenda Items
+Review action items
+Portland review of trip (George please provide the web access codes for 
+Portland to the team)
+Update on possibly buying scraper tools ( 
+Review of Kema Fundamental Systems report
+- additional questions
+- conclusions
+Requirement definition process
+- what, when, who etc.
+Prototype process
+- Area
+- Products
+Review of action items & next meeting.
+Break for Lunch
+Meeting Agenda # 2
+Location :  EB3125B
+Time :  13:00 - 14:00
+Date : July 31st
+Agenda Items
+Bryn Adams who is the Enron TIBCO account rep has been invited to update our 
+team on how the TIBCO product can benifit our project.
+Introductions
+TIBCO overview
+Enron TIBCO applications
+Enron contacts for support 
+Tibco contacts for support & technical questions
+Questions
+Action items
+Attached is the final report on data warehousing.  If you have any
+questions, please feel free to call.  If you need a hard copy, let me know
+and I will put it in the mail tomorrow.
+Edd
+- enron_warehousing_report_cover_letter.doc
+- enron_data_warehousing_final_report_cover_page.doc
+- enron_data_warehousing_final_report.doc
+Jeffrey T Hodge
+07/27/2000 10:46 AM
+Sent by: Jenny Helton
+Attached is a memo detailing Antitrust Training.
+Rain
+Please setup a meeting with this guy for next week
+thanks
+Bill Brogan@
+07/26/2000 07:49 PM
+As per our discussions earlier today, would either of you or someone in your 
+area be able to spend an hour or two educating me on the various market 
+forces in the Central Region.
+I would greatly appreciate any help in learning more about this market Please let me know what arrangements would work best.
+Thanks,
+Bill Brogan
+Technical issues
+1) When some of the members of the chat room begin to talk, their microphone 
+volume starts to trail off.
+2) Many of the users use the ctrl button in their daily activities.  The talk 
+button needs to be changed to an F# key.
+3) We have trouble with latency.
+Please contract Brent Tiner to help with these issues.
+Thank You
+Hunter
+Enron Technology
+Hunter:
+The equipment is installed behind Rain's desk and the network port has been 
+made active.  The Server Team has to activate the sender, but they're running 
+some printer issues this afternoon, and may not be able to get to it today I am leaving for vacation today so the Remedy ticket # is: 170276.  You can 
+call x34888 and reference the ticket number for tracking while I'm gone.  The 
+Team Lead for Trader Support on your floor is Don Adam, and he may be able to 
+help facilitate a resolution for you if nothing happens by tomorrow afternoon.
+,
+Steve
+I also need to sign up for the executive impact and influence course
+Thanks
+Becky Tlucek
+07/20/2000 04:00 PM
+Please see the attached memo regarding the Antitrust Training.
+thanks
+keep me posted
+Colin Tonks
+07/18/2000 03:42 PM
+To kill this page you need to kill the browser 
+Colin
+ps Chris H. did this 
+Please put a note on Geoff's desk and my calendar
+Chris Gaskill@
+07/13/2000 04:41 PM
+The Electronic Commerce team is working with Marketing Operations and 
+Commercial in development of the GISB Capacity Release EDI datasets.  One 
+critical step in this process is creation of a database.
+I would like to schedule a quick 30 minute meeting to discuss creation of 
+this database and ensure all potential interfacing groups are in the loop.
+* Review Objectives
+* Determine best database   -   Oracle or Sybase
+* Set Priority for DA's
+Currently, I have EB3013 scheduled for 2p.m. on Friday, July 14, 2000 Please let me know if you are not able to attend.
+Thanks,
+dg
+x3-9517
+-  This is not the file that will be given to DA's, but gives you a basic 
+idea of what we will need.
+-  This test plan is in a "rough" format, but will give you an idea of 
+our scope.
+FYI
+Attached are initial comments of ENA which will be filed Monday in the Order 
+637 Compliance Filings of the indicated pipelines.  (Columbia is Columbia 
+Gas.)  For all other pipelines on the priority list, we filed plain 
+interventions.
+names for software addition of Hear Me
+Fletch Sturm
+Andy Lewis
+Robin Menear
+Patrice Thurston
+Kevin Ruscitti
+Geoff Storey
+Sylvia Pollan
+Martin Cuilla
+Kelli Stevens
+Tom Donohoe
+Joe Parks
+Jason Moore
+07/11/2000 12:42 PM
+Attached please find a list of active counterparties that ENA is doing gas 
+business with, along with their addresses.  The list is in alphabetical order 
+by the legal name.
+Jason Moore
+looks good to me
+Jeffrey T Hodge
+07/14/2000 03:37 PM
+Hunter:
+It is ENA's standard language which includes language relating to being able 
+to overcome commercially, etc.  What my approach would do is override any 
+different language in any master including GISB.
+Jeff
+Hunter S Shively
+07/14/2000 02:43 PM
+what are the force majeure terms in the ECT GTC?
+Hunter
+Rain
+please help
+Joe,
+Please submit an SRRS request through lotus notes for EOL - Backoffice 
+applications.  Once this is received and approved, I will be able to set you 
+up with necessary access.
+Please let me know if you have any questions.
+Thanks,
+Stephanie 
+Hunter S Shively
+07/14/2000 07:44 AM
+Joe Parks should be set-up for managing products
+Hunter
+Stephanie Sever  is the contact in EOL Product Control. She needs your 
+approval to set me up to manage product on NGPL.
+what are the force majeure terms in the ECT GTC?
+Hunter
+yes
+Richard Tomaski@
+07/14/2000 08:22 AM
+Hunter,
+Did you take care of this?
+Please let me know the names of the internal traders who will need execute 
+rights to the new Park & Loan transaction.
+Hunter,
+Are you going to want a separate risk book for these transactions and will we 
+want this set up on EOL?
+Thanks for your help.
+Stephanie x33465
+Joe Parks should be set-up for managing products
+Hunter
+Stephanie Sever  is the contact in EOL Product Control. She needs your 
+approval to set me up to manage product on NGPL.
+Richard Tomaski and Lee Fasecetti are the traders for the Park and Loans The risk will reside in the Midwest Hub Book.
+Hunter
+Please let me know the names of the internal traders who will need execute 
+rights to the new Park & Loan transaction.
+Hunter,
+Are you going to want a separate risk book for these transactions and will we 
+want this set up on EOL?
+Thanks for your help.
+Stephanie x33465
+I would like to see your work as well.  I will give you a call.
+Thanks
+Hunter
+Kam
+can you add Geof Storey?
+Thanks
+Hunter
+Stephanie,
+We would like to set up the central books as their own Master books to 
+prevent all deals being booked to Hunter's Intra-Central book.
+Could you please set up the traders with their own physical and financial 
+book names in EOL?
+- attatched is a lists of the book names.
+Thanks,
+Kam
+I will be unable to attend.  I am sending Andy Lewis in my place.
+Thanks
+Hunter
+what is the latest
+Hunter
+Lloyd Will
+07/10/2000 12:20 PM
+Meeting Notice:
+An initial meeting with the Gas and Power teams that are working on 
+fundamentals.
+Objective:
+Update each team so that we can share technology and experiences before 
+selecting technologies.
+Meeting Location 3125A
+Date Tuesday, July 11
+Time 3:00
+Thanks.
+John J Lavorato@
+07/10/2000 01:03 PM
+I have asked the crude group to give a presentation on fuel oil supply and 
+demand which will take place Wednesday July 12 at 2:15 in the big boardroom 
+on the 30th floor. I would encourage everyone to come and bring any traders 
+that you think would benefit from it.
+Sounds good....marty mare knows where to get them as well.
+See you Monday
+the guys are not listed
+did we look at these guys?
+Jeff,
+Can you take just a couple of minutes to share with  me the level of 
+experience these MI and WI cash traders need to be. I have  several junior 
+and one VP level candidate. Also, some type of salary range would  be of 
+great help.
+?
+Paul Johnson, CPC
+Owner
+Phone? (281)  497-8595
+Fax????? (281) 597-0099
+Check out our  website 
+? www.austingrp.com  
+Tim
+I thought I would give you a simple overview of the gas market.  This may 
+help you prepare for Thursday.
+Everyday roughly 55 Billion Cubic Feet of gas is produced.  The bulk of this 
+production is in Texas, Louisiana, and Oklahoma.  In the winter, the US daily 
+load is greater than 55 BCF and in the summer, the daily US load is less than 
+55 BCF.  Therefore, storage fields are needed to smooth out the seasonal 
+differences in load.
+Texas and Louisiana are two of the largest consumers of natural gas.  However 
+these states produce more gas than they consume.  Most other states consume 
+more gas than they produce.  Therefore pipelines were built to solve the 
+regional imbalances.  Most of these pipelines originate out of LA and TX and 
+move gas to the areas of greatest demand.
+Our goal is to gain a handle on where the daily production is moving and if 
+the daily production is growing or shrinking 
+Very simplistic, but maybe it helps.
+Hunter
+how did this go?
+Thomas Araujo @ ENRON
+06/21/2000 09:41 AM
+I  spoke with some of you concerning the Market Knowledge Management (MKM) 
+project.  At this time, we would like to demonstrate the MKM pilot  to you.
+To refresh your minds, MKM is a one-stop shopping for market data and 
+associated activities.  The project is done in collaboration between two 
+groups in Houston and one in London.  In November/December 1999 some of you 
+took part in user forums to discuss the feasibility of a one-stop shop for 
+market data
+Background:
+The intention is that all existing systems (i.e. various databases and 
+services) will be linked through a common infrastructure that will allow all 
+these systems to provide the services they have always provided plus a set of 
+standard services, such as:
+Security
+Data Validation
+Notification
+Auditing, and 
+Calculation.
+In addition, it will allow client applications to ask MKM for the data and 
+services they need instead of going to individual systems.  The point here is 
+that the user (or application) 
+will not need to know where the data resides, and
+will have a uniform level of services across all systems
+Demonstration:
+A pilot was developed to prove the underlying technology and to provide users 
+a simple demonstration of the product to derive exact user requirements.
+The demo will include the following components:
+Browser: provides a user interface for publishing and retrieving a limited 
+selection of price and volume data for gas and power busines units;
+Time Series Index: stores time series metadata;
+Message Station: an inbox which holds inbound time series data;
+TIBCO messaging backbone: underpins MKM and is transparent to the user;
+and Connectivity to two market data servers:- LIM (Houston) and PR1P(London).
+The remaining components will be delivered in following phases.
+I would like to take this opportunity to invite you to demo of the product I would like to schedule the demonstration for Friday, June 23 at 1:00 Could you also RSVP me.  I am also attaching a document which will give you 
+more information of the MKM project.    If you cannot meet me on the 
+suggested date, I can you a demo of MKM at your desk at your convenience.  If 
+you would like to go through the browser, the web address is 
+Use 
+your network id and password to gain access to the web site.  If you have any 
+questions please call me at 35733.
+Thank you in advance,
+Thomas
+I don't remember if I told you that Fletch and I will be playing golf on 
+Saturday morning.
+Thank You
+Hunter
+Has the deal between you and Patrice been booked?
+Richard Tomaski@
+06/13/2000 05:37 PM
+After discussion with Patrice, here is the finalized agreement for the 
+day-ahead purchase deal (between ENA-central desk and EMW) for the Wilton 
+Plant. 
+Location:  Northern Border (Wilton) to become MEH pooling point
+Price:        GD chicago large end-users plus $.015 or GD northern border 
+chicago point if one becomes available
+Term:        6/1/2000 thru 9/30/2004
+Volume:  0-75,000 mmbtu/daty
+Notification: by 9:15 am of trade date
+Any volumes greater than 75,000 up to 120,000 will be priced at Patrice's 
+purchase price plus $.015 
+I will draft a simple letter for both parties to sign, as a matter of record 
+keeping.  Call me if you have any questions.  Thanks
+Richard
+This meeting should be on Geoff's calendar too.
+Lets do it tomorrow at 10:30
+Hunter S Shively@ECT
+03/12/2001 12:03 PM
+ASAP - Tomorrow mid-morning would probably best for me but let me know
+I will talk to her as well
+Enron Technology
+Hunter/Chris/Jeff
+I wanted to give you a quick status update:
+Space for Thursday  I've secured eb2601 all day.
+Tim's needs  LCD projector and 1 PC.  He will bring all the software he needs 
+on CD.  (Tim said he didn't need the Web or SQL server but I'm getting them 
+anyway.)
+Web Test Server  Online and standing by.  I will also have an Admin on call.
+SQL Test Server  Being built out today with an ETA of Tuesday to be online.
+Server Room on 32  Waiting on information from facilities and hope to get an 
+answer today.
+Developer   Identified 2 possible candidates and will have a definitive 
+answer by end of day Monday.
+Enron Net Works Shirts 3 will be delivered to you today.
+I need an RC and CO # to charge equipment against.  I will send quote to you 
+for approval before ordering.
+, John
+looks good.  I can not think of anything to add.
+I am sad to see you go.  Stop by if you have time.
+Hunter
+can you attend this?
+Thomas Araujo @ ENRON
+06/21/2000 09:41 AM
+I  spoke with some of you concerning the Market Knowledge Management (MKM) 
+project.  At this time, we would like to demonstrate the MKM pilot  to you.
+To refresh your minds, MKM is a one-stop shopping for market data and 
+associated activities.  The project is done in collaboration between two 
+groups in Houston and one in London.  In November/December 1999 some of you 
+took part in user forums to discuss the feasibility of a one-stop shop for 
+market data
+Background:
+The intention is that all existing systems (i.e. various databases and 
+services) will be linked through a common infrastructure that will allow all 
+these systems to provide the services they have always provided plus a set of 
+standard services, such as:
+Security
+Data Validation
+Notification
+Auditing, and 
+Calculation.
+In addition, it will allow client applications to ask MKM for the data and 
+services they need instead of going to individual systems.  The point here is 
+that the user (or application) 
+will not need to know where the data resides, and
+will have a uniform level of services across all systems
+Demonstration:
+A pilot was developed to prove the underlying technology and to provide users 
+a simple demonstration of the product to derive exact user requirements.
+The demo will include the following components:
+Browser: provides a user interface for publishing and retrieving a limited 
+selection of price and volume data for gas and power busines units;
+Time Series Index: stores time series metadata;
+Message Station: an inbox which holds inbound time series data;
+TIBCO messaging backbone: underpins MKM and is transparent to the user;
+and Connectivity to two market data servers:- LIM (Houston) and PR1P(London).
+The remaining components will be delivered in following phases.
+I would like to take this opportunity to invite you to demo of the product I would like to schedule the demonstration for Friday, June 23 at 1:00 Could you also RSVP me.  I am also attaching a document which will give you 
+more information of the MKM project.    If you cannot meet me on the 
+suggested date, I can you a demo of MKM at your desk at your convenience.  If 
+you would like to go through the browser, the web address is 
+Use 
+your network id and password to gain access to the web site.  If you have any 
+questions please call me at 35733.
+Thank you in advance,
+Thomas
+Chris, can you attend this?
+Thomas Araujo @ ENRON
+06/21/2000 09:41 AM
+I  spoke with some of you concerning the Market Knowledge Management (MKM) 
+project.  At this time, we would like to demonstrate the MKM pilot  to you.
+To refresh your minds, MKM is a one-stop shopping for market data and 
+associated activities.  The project is done in collaboration between two 
+groups in Houston and one in London.  In November/December 1999 some of you 
+took part in user forums to discuss the feasibility of a one-stop shop for 
+market data
+Background:
+The intention is that all existing systems (i.e. various databases and 
+services) will be linked through a common infrastructure that will allow all 
+these systems to provide the services they have always provided plus a set of 
+standard services, such as:
+Security
+Data Validation
+Notification
+Auditing, and 
+Calculation.
+In addition, it will allow client applications to ask MKM for the data and 
+services they need instead of going to individual systems.  The point here is 
+that the user (or application) 
+will not need to know where the data resides, and
+will have a uniform level of services across all systems
+Demonstration:
+A pilot was developed to prove the underlying technology and to provide users 
+a simple demonstration of the product to derive exact user requirements.
+The demo will include the following components:
+Browser: provides a user interface for publishing and retrieving a limited 
+selection of price and volume data for gas and power busines units;
+Time Series Index: stores time series metadata;
+Message Station: an inbox which holds inbound time series data;
+TIBCO messaging backbone: underpins MKM and is transparent to the user;
+and Connectivity to two market data servers:- LIM (Houston) and PR1P(London).
+The remaining components will be delivered in following phases.
+I would like to take this opportunity to invite you to demo of the product I would like to schedule the demonstration for Friday, June 23 at 1:00 Could you also RSVP me.  I am also attaching a document which will give you 
+more information of the MKM project.    If you cannot meet me on the 
+suggested date, I can you a demo of MKM at your desk at your convenience.  If 
+you would like to go through the browser, the web address is 
+Use 
+your network id and password to gain access to the web site.  If you have any 
+questions please call me at 35733.
+Thank you in advance,
+Thomas
+great
+The two canadian points (Dawn and Niagara) are quoted in US dollars so a 
+basis can be calculated.  We also need to add NIT (AECO).  John McKay manages 
+this product.  He should know the hours of trading and which day should be 
+selected for index calculation.
+Hunter
+has anyone notified EOL of our flip-out choice.  I think the product would 
+work like this:
+Chic - Peoples      June one day withdrawal / July ratable 
+injection                      .015 bid     .025 offer
+Chic - Peoples      June balance of month withdrawal / July ratable 
+injection    .015 bid     .025 offer
+I think the rest of month would be more popular but we should give both a 
+try.  Also we need to work on an auto hedge feature for the Chicago office.
+call me
+thanks
+book it
+EOL and Peoples transaction explain year and quarter.  The biggest reason is 
+EOL.  I think the month to date numbers are up because we are experiencing an 
+increase in EOL trading in the Gulf Coast Region.  Let me know if you need 
+more info.
+Hunter
+EOL and Peoples
+where did you get your copy of Green Markets?
+Hunter
+The first product looks good.  We need to consider having one product for 
+parks and loans.  I think we should make a market in this product.  Let me 
+know what you think.  Has Laura decided which organization will flip the 
+deals?
+Please call me (34772).   Where did you obtain your information?
+Hunter
+I think I have a meeting that starts at 4:00.  Please let them know that I 
+can attend from 3:30-4:00.
+Monica Jackson@
+06/16/2000 04:18 PM
+Team:
+The People's Energy Systems and Optimization Currently Underway meeting 
+called by Paul Bieniawski is scheduled for Monday, June 19th from 3:30-5:00pm 
+in EB2463.  If you are unable to attend please let me know at your earliest 
+convenience.
+Thanks,
+Monica Jackson x58704
+Calendar Entry
+Brief description:
+Date:
+Time:
+Pipeline Site Mtg
+EB3674
+06/19/2000
+04:00 PM - 05:00 PM
+Detailed description:
+Invitations have been sent to: Hunter S Shively/HOU/ECT, Geoff 
+Storey/HOU/ECT, Chris Gaskill/Corp/Enron
+Should we have an explanation of index calculation?  It may build more trust 
+in the numbers.
+The page is missing the gas flow date and the numbers require only three 
+decimal points.  We need to add Canada numbers.  Also is it possible to make 
+the basis column more straight? 
+I don't know if you read your email so I am forwarding this to you.
+Here is the attachment.
+For your review, I have attached a list of individuals and the days they need 
+to arrive.  The first group arriving on Saturday will have the option of 
+playing golf or going to the spa.   They will begin their workshops on Sunday 
+morning and will be departing on Monday morning.   The group arriving on 
+Sunday will have the same option.  They will begin their workshops on Monday 
+morning and departing on Tuesday 
+There is a Dinner on Sunday night at 8:30 for everyone to attend. 
+Please let me know if you will be travelling outside of these travel dates, 
+as well as if you are interested in Golf or the spa 
+Thanks,
+Lynn
+(312) 541-1379
+Ned Higgins met with Tim Herman on Friday.  However I don't think we are 
+going to pursue the project.
+How are ya?
+Hunter
+Has someone in NetWorks looked at this issue?
+Thanks
+Hunter
+I would like to see the composite.  I think my home computer has logon access 
+through the firewall.
+I think that if a product does not trade for a day, we do not post the 
+product the index or product description in the index page.  I think the 
+index calculation hours should be 7:30 a.m. to 12:00 a.m.   How fast can the 
+index page be calculated and posted?
+Before we publish this we need to calc the index for a few days.  We need to 
+feel confident that the index is calculating correctly.  You can reach me at 
+h-j@swbell.net
+hunter
+Brad
+Today (06-15-2000) I reiterated to Theresa on a recorded telephone that she 
+must be profitable in the second half of the year.  I believe that my exact 
+statement was "If you are not profitable the next months we are going to have 
+another talk".  After thinking about it afterwards, this statement is 
+probably too vague.  Do I need to clarify this statement?  Should I define 
+the exact amount of profit?  Should I explicitly say that I will ask her to 
+leave the group?  Your help would be appreciated.
+Hunter
+I have attached how I would do it.  check out the red comment marks.  Do not 
+add day ahead + 1
+I leave for Portland around 4:00
+Thanks
+Hunter
+next week sometime is possible.  not Tuesday
+Hunter
+Any more documentation on this deal?
+Midwestern Gas Transmission
+5/18/00 - Midwestern filed notice of a negotiated rate deal with Dynegy.  It 
+provides for a monthly reservation charge of $.025/dth and a tiered indexed 
+commodity rate based on spreads.  If the index spread is less than or equal 
+to $.02, then the daily commodity rate shall be $.01.  If the index spread is 
+greater than $.02 but less than $.10, then the rate shall be 50% of the 
+spread.  If the index spread is greater than $.10, then the rate shall be 
+$.05 plus 75% of the spread exceeding $.10.  The deal is effective 5/1/00 
+through 10/31/00.
+Donna
+What is the ANSI Compliance Team?
+Thanks
+Hunter
+Colleen 
+What is XML?
+Thanks
+Hunter
+I have little need for Volp at this time.
+Thank You
+Laura
+Dave Forster from Eol may be calling you.  I am trying to get the Hub online 
+and I am having trouble because Enron does not own more than 50% of the 
+Midwest Hub.  An EOL lawyer may have found a solution.  I have asked Dave to 
+call you.  I wanted to give you a heads up 
+Thanks
+Hunter
+I talked to Louise and she said that Mark Taylor had the following idea.  If 
+the Chicago office signs an agreement that binds the Chicago office to every 
+"Midwest Hub" deal on EOL then we could avoid the PA and ETA.  I believe the 
+Chicago office is on the network so the stack manager should not be a 
+problem.  Louise said that she would have someone call Laura Luce.  Laura 
+manages the Chicago office and is the person that would authorize the above 
+agreement.
+Thanks
+Hunter
+Dave
+can you redo with day + 1 products only?  Also can you display the data 
+without placing multiple data in a given row?  I have attached an example The first row in this spreadsheet is how I would like to see the data.  This 
+way I can sort the data in any fashion.
+Thanks
+Hunter
+Hunter, 
+Below you will find the document you requested.  Please let me know if you 
+need anything else.
+Thank You
+Rob Wells
+x30965
+This may take a minute or two to detach from Lotus:
+can we create a link to a Chicago Hub EOL site?  If so, can the Chicago Hub 
+site have new PA's and ETA's?
+What is ETA and PA?
+Thanks
+we will need to do it after work sometime.  Let me know
+Hunter
+agreed
+I feel like such a heel.  There is a hidden pocket in my computer bag and I 
+had placed my phone and flight info in this pocket.  Thank you for continuing 
+to look for the phone.  I am embarrassed.
+I had a meeting with Beth today.  I feel that it did not go well.  I asked 
+for an IT person that would work in our group and would be expected to learn 
+the fundamentals.  I also indicated that I would like everyone in the group 
+to learn IT and that we would hire someone to sit on our desk and produce the 
+front-end.  She did not like that idea.  Her proposal is that an IT person 
+can sit on our desk and decide what IT resources we need and she wants 
+front-end production to be handled by her group 
+We ended the meeting with no resolution and we will meet again tomorrow.  It 
+seems to me that if we don't have free access to the website or database, the 
+group will suffer.  I will follow up tomorrow.
+I am glad to hear your search is going well.  It sounds like you are on the 
+right track.
+Hunter
+ASAP - Tomorrow mid-morning would probably best for me but let me know
+You need to get a mountain bike.  I like riding the trails through Memorial 
+Park.
+Nasdaq 5000 here we come
+Hunter
+George,
+what is our view on this?
+Hunter
+Barbara G Dillard@
+06/02/2000 05:36 PM
+Jason:
+I was confronted this morning by Mark DiValero and he expressed his concern 
+over ENA's nominations over the last two weeks.  He said that PGL is not 
+staffed to confirm all 4 cycles of the nomination process and that ENA will 
+start to get cut after the 2nd cycle if nominations are not correct.
+I told Mark that I would get back with him early next week and let him know 
+why ENA has had to consistently make changes at every nomination cycle Also, please inform your schedulers of the risk that they are taking if 
+nominations are not correct after the 2nd cycle (especially on weekends 
+Please talk to your schedulers and let me know why we can't get our 
+nominations correct.  Thanks!!
+Barbara
+(312)541-1232
+What is the latest on the EOL feeds.  I talked to Dave last week and he 
+indicated it was no problem.  I have a meeting with him today at 2:30.  Let 
+me know what I need to tell him.  Also, what is the latest with the late 
+nominations.  I talked to Jason and he told him it was due to producers 
+changing their noms.  I have not talked to George about this issue.  Jason 
+also thinks that the problem is shorter lived that PGL&C has indicated Please write back with PGL&C's position on the matter.
+Thanks
+Hunter
+Trunkline LNG Company
+5/18/00 - Trunkline filed for approval of a new rate schedule (LLS) for LNG=20
+Lending Service.  It is patterned on PALS services=01*short term loans, with=20
+repayment within 31 days.
+any opportunities for us?
+Hunter
+The next meeting regarding EOL capacity trading will be held on Friday, June 
+9th in EB3321 from 11:00 am to 12:30 p.m.  There is a NYMEX screen in this 
+conference room, and lunch will be provided.  Please advise if you are unable 
+to attend.
+Topics for discussion are - Discuss limitation of pipelines/paths to be initially provided on EOL Capacity traders should know which paths are the most desired from a trading 
+standpoint,  along with the tradability of the capacity on those pipelines.
+- Position reporting--Each of the capacity traders should be prepared to talk 
+about ideas for handling position reporting for their difficult pipelines.
+Judy--TETCO; Dan--Tennessee; Chris--TCO; Theresa-ANR; Jane/Kim - Bob Superty will give an update on the technical aspect of tying into 
+pipeline EBBs, and other Logistics issues related to EOL capacity trading.
+Okay - let's try this again.  The meeting is scheduled for tomorrow, Tuesday, 
+at 2:30 p.m. in room EB3125B.  I know that there are some conflicts with this 
+time, but it's the closest time slot that is convenient for all.
+chris
+x31666
+Okay - let's try this again.  The meeting is scheduled for tomorrow, Tuesday, 
+at 2:30 p.m. in room EB3125B.  I know that there are some conflicts with this 
+time, but it's the closest time slot that is convenient for all.
+chris
+x31666
+I will take a look.  Thanks again for letting me spend the day with you.  I 
+have a call into Beth and I will let you know how that goes.
+Thanks
+Hunter
+We can accomodate you.  However I am not sure if Laura wants us to meet this 
+week.
+My map was blank.  Could you resend?
+Thanks
+Hunter
+looks good
+yes....good idea
+Invitation
+Chairperson: Colin Tonks
+Start: 03/14/2001 03:00 PM
+End: 03/14/2001 04:00 PM
+Room: EB32C2
+Description: Demonstration of Seibel
+This meeting repeats   starting on    (if the date occurs on a weekend the 
+meeting Meeting Dates: 
+Cynthia Pearse/ENRON@Xgate
+Hunter S Shively/HOU/ECT@ECT
+Chris Gaskill/Corp/Enron@
+Frank W Vickers/NA/Enron@
+Ryan Orsak/ENRON@Xgate
+Barry Tycholiz/NA/Enron@
+Airam Arteaga/HOU/ECT@ECT
+Detailed description:
+When: Wednesday, March 14, 2001 3:00 PM-4:00 PM (GMT-06:00) Central Time (US 
+& Canada).
+Where: EB32C2
+Customer relations manager currently implemented by Industrial Markets.
+I would like for Colin and David to create security that gives access to the 
+site for certain users only.  There are too many people logging in that we do 
+not know.  We need to begin creating this list 
+All Central, Texas, East, West, NYMEX desk and Chicago office traders 
+(Richard Tomaski will provide the Chicago office names)
+Power traders
+Fundamentals Gas, Power, EIM
+Fred's group
+Lavo, Whalley, Kitchen, Frevert,
+If you can think of any more let me know.  Can we implement the security this 
+week?
+The "banned" users should now be unable to view the site in development or 
+production.
+Dave
+Ok, Done.
+Just an FYI for WebOps:  gasfundy.dev.corp.enron.com and 
+gasfundy.corp.enron.com have a special group named 
+"Corp\Web_GasfundyBanned".  This group is added at the wwwroot level and deny 
+all is selected.  This will allow David and his group to deny access to the 
+gasfundy site to a small group of users.
+Thank you,
+I confirmed that this does work, could we please remove Colin from that 
+group, and put the same restriction on the production server?
+Thanks,
+David Dronet
+You will have to close your browser and maybe even log out of your machine 
+before the change will take place.
+I just tried and I can access both prod and dev.
+Colin
+Colin has is now a part of the group.  Please test and let me know when to go 
+forward.
+Chris
+Could we add colin tonks to that group for testing purposes?
+Thanks
+Ok, it is done on the dev site, please verify that the site is running as 
+intended, and once I receive word of this, I will do the same on production.
+Chris,
+I was just wondering if we had proceeded with this.
+Thanks,
+David Dronet
+Actually, I mean the root web, everything but the virtual directories.
+Ok, could we create a group called GasFundy_banned or something, and put 
+these users in it?  They
+would be denied access to the root of   and 
+Greg McClendon
+Carey Metz
+James McKay
+Lauri Allen
+Ed Gottlob
+Gary Lamphier
+Danny Conner
+Gary Hanks
+No, but you could give us a list and we could create a group for them.  Will 
+they be denied access to the entire site, or just some portions?
+Hmm,  I've got a unique situation where there are a group of ex-gas traders 
+they need to block from our gas site.  I don't know of a common group
+they belong to but could we not implicitly deny them on an individual basis?
+Thanks,
+Dave
+Not easily.  We could explicitly deny access to certain groups, but many 
+times this results in unintended users being restricted because of unexpected 
+group memberships.  Deny will always overrule allow, but it can cause quite a 
+few problems over time.
+Christopher Spann, MCSE
+Sr Specialist, Web Operations
+Enron Net Works
+713.345.4986
+Is it possible to deny certain users access to a site even if Everyone is the 
+blanket access for that site?
+Thanks,
+David Dronet
+I will be in the office all week.  Let me know when you guys would like to 
+stop by
+hunter
+Hunter Shively - I have weather access and I would like to trade power
+The remainder of the desk trades gas only
+Unfortunately I am in Chicago on Thursday and Friday.
+Hunter
+Chinese Wall training of one hour has been scheduled on the dates listed=20
+below.   The training is mandatory and allows EWS to continue operating all=20
+its businesses including equity trading without violating the securities laws.
+Please register for one of the four one-hour sessions listed below.  Each=20
+session is tailored to a particular commercial group, and it would be=20
+preferable if you could attend the session for your group.  (Your particular=20
+group is the one highlighted in bold on the list below.) =20
+Monday, March 5, 2001, 10:00 a.m. =01) Resource Group
+Monday, March 5, 2001, 11:00 a.m. =01) Origination/Business Development
+Monday, March 5, 2001, 3:30 p.m. =01) Financial Trading Group
+Monday, March 5, 2001, 4:30 p.m.  =01) Heads of Trading Desks
+Each of the above sessions will be held at the downtown Hyatt Regency Hotel=20
+in Sandalwood Rooms A & B.  Alternatively, two make-up sessions are scheduled=20
+for Tuesday, March 13, 2001 at 3:30 p.m. and 4:30 p.m.  Location information=20
+for the make-up sessions will be announced later.
+Please confirm your attendance at one of these sessions with Brenda Whitehead=20
+by e-mailing her at brenda.whitehead@ or calling her at extension=20
+3-5438.
+Mark Frevert and Mark Haedicke
+=20
+These dates are good.  It would be best if they arrived between 8:30 and 
+10:30.
+hunter
+Unfortunately I will be out of the office on Wednesday.
+Hunter
+Jason Williams
+02/21/2001 10:09 AM
+j.slechta@pecorp.com on 02/21/2001 10:04:15 AM
+Jason,
+Attached are the March 2001 FOM to Gas Daily price conversion
+letters for Peoples Gas and North Shore.  Please forward this information to
+Hunter.
+Thanks,
+Jer
+conversion of citygate gas.doc>>
+- March 2001 PGL conversion of citygate gas.doc
+- March 2001 NSG conversion of citygate gas.doc
+customer outing - Masters
+Williams Central Pipeline is not one of our "top tier pipelines"
+what is an 82/82% percent deal?
+kelli Stevens' "today" number looks incorrect
+thank you
+Sorry for the confusion.
+I would prefer that you draft the letter and we will sign it.  The proposed 
+changes to the system are a good idea and we are working to initiate them Please send the letter and I will notify you when the system has been changed.
+Thanks
+Hunter
+Levitan &  Associates
+Calendar Entry
+Brief description:
+Date:
+Time:
+Weekly Fundamentals Meeting in EB32C2
+02/20/2001
+11:00 AM - 12:00 PM
+Detailed description:
+Please put this on my calendar
+"Kelli Stevens, Margie Straight & Cora Pendergrass null" 
+Sent by: Blue Mountain Invite  Blue Mountain Invite
+You are invited to BABY SHOWER on March 22, 2001. 
+Click here to pick up and respond to your Invite: 
+there! 
+Blue Mountain Invite: The fun, easy way to plan your events Organize your own party at 
+click here!
+Click Here!
+NEED HELP?
+If your Invite link above appears to be inactive, copy and paste this text 
+into your browser's location bar and hit Enter: 
+You'll be taken to your personal Invite web page for BABY SHOWER. 
+If you have problems or questions, please contact Blue Mountain Customer 
+Support using this URL: 
+thank you for your help
+the weekly trading activity is what I wanted
+thanks
+Going forward, only Cary and I will be listening in on the 2:30 meeting, so 
+feel to say whatever you want.
+Rain
+Please set up a time with these people, me and the marketers on our desk.
+thanks
+Bill Kyle@
+02/13/2001 03:25 PM
+EnronOnline has developed interactive CD's that highlight many of the new 
+features of EnronOnline.  The CD also contains a section called Try a Trade 
+that simulates doing an online trade.  We have these CD's available for 
+distribution to your marketers/traders as well as customers.  We would like 
+to schedule short meetings with each desk to demo and distribute these CD's 
+We also want to offer any assistance we can provide in promoting EnronOnline 
+to your customer base.  We would like to distribute the CD's within the next 
+few weeks.  Please let me (x33310) or Bryan Hull (x39195) know of a time 
+you're available.
+Thanks 
+Notes for this Week's Report:
+*  Enron Metals trades done via EOL has risen by approximately 56% since 
+December, from a daily average of 357 to a daily average of 611 for January. 
+This trend continues to demonstrate the sharp growth in the popularity of EOL 
+as a metals trading platform.
+* UK Gas trades on EOL has also increased by approximately 58% since 
+December, from a daily average of 51 to a daily average of 80 for January.
+* US Power trading via EOL has continued to come back further and increased 
+its average daily EOL Deal Count by about 87% since December, from 181 to 340 
+deals per day.  In addition, the average daily Non-EOL Deal Count has now 
+increased by about 11% since December, from 373 to 433 deals per day.  The 
+average daily EOL volumes have remained steady.
+* East Power EOL trades have rebounded from last months daily average of 127 
+to a new daily average high of 258.
+* East Gas has decreased its average daily EOL Deal Count by about 20% since 
+December, from 777 to 632 deals per day 
+* Canadian Gas has seen a 72% increase in EOL daily average of 113 to a daily 
+average of 195. 
+AVERAGE DEAL COUNTS FOR COMMODITIES (excluding Global Products, which 
+displays monthly totals)
+If you have any questions regarding this breakout, please contact one of the 
+following:
+Torrey Moorer x3-6218
+Matt Motsinger x3-5221
+Pete Berzins x5-7597
+Matt
+EnronOnline
+Please include the transactions by desk sheets?
+It does.  However Kelli is transacting about 425 a day
+Is the chart range wide enough?  Kelli and Patrice do more than 250 trades 
+per day.
+Thanks
+Hunter
+?
+Hunter,
+I am conducting Book website audit.  Please provide the trader names for the 
+following IDs under the ENA- IM Central book and if they should be active:
+Users under ADM11515
+Market01 - kill
+Market02 - kill
+andylewis - kill
+canada01 - last log in 1/24/01 - kill
+canada02 - kill
+chuckames - log in 1/30/01 Chuck Ames (keep)
+gulfcoast1 - kill
+gulfcoast2 - kill
+jason001- log in 1/30/01 Jason Williams (keep)
+lisakinsey - kill
+lizshim01 - last log in 1/8/01 - kill
+massimom - kill
+midcon01- kill
+midcon03 - kill
+originat - kill
+richardtom - kill
+tarapiazze - kill
+transport - kill
+vladipimen - log in 1/30/01  Vladi Pimenov  (keep)
+If possible, please respond back by tomorrow, Jan 31.
+Thank you,
+Stephanie x33465
+FYI
+Russ_Severson@ on 01/29/2001 02:24:34 PM
+The SITARA system will be brought down Saturday afternoon (February 3 5PM Central Time) to facilitate
+trading changes on the East desk.  The system will be available early
+Monday morning.
+CPR will be available during this time.
+Please call the SITARA HOTLINE ((713) 853-7049) if you have any questions
+or concerns.
+Carie Robert (pronounced Robear) X33522 does floor tours for visitors
+FYI.   We need to get back to Doug as soon as possible.  This should be a 
+good 
+opportunity to meet his new boss.
+"Walker, R. Douglas"  	01/24/2001 09:06 AM
+As we discussed, my new boss, TJ Aruffo is interested in a tour of Enron's
+Houston Trade Floor.  He is available the morning of the 1st.  He is flying
+out of Intercontinental at 2:45 PM.  As far as I know he will be travelling
+alone.  He  has not requested my presence yet.
+The purpose of his visit is to see first-hand a world-class energy trade
+floor and to begin networking with key industry personnel.  He is new to
+this side of the business.  His previous role was NiSource CIO; so he comes
+into his new position with a systems and process oriented view.   His
+responsibilities at NiSource encompass the regulated gas supply management
+and gas control operations of eight of NiSource's gas utilities (two are
+primarily managed by EnergyUSA-TPC - NIFL and Kokomo).  He is responsible
+for Bay State (and Northern Utilities), NIPSCO, and the Columbia
+Distribution Companies (five LDC's).  We are currently fragmented in
+Massachusetts, Columbus and Indiana and are in the process of evaluating how
+to bring this together, functionally, locationally, or not at all.  TJ
+reports to Pat Mulchay, who is President of the Merchant Energy Division.
+Pat reports directly to Gary Neale, our CEO.
+TJ's previous background includes a stint at Fidelity Investments, so a
+trade floor is not new to him.
+Please confirm Enron's address and if you don't mind, recommend a hotel that
+is convenient.  Let me know who will be meeting TJ then we can  turn the
+details of finalizing the arrangements over to TJ and your designee.  Thanks
+for your help.
+- C.DTF
+let's try to set-up a call with Geof on Wednesday or Thursday.
+hunter
+I know her husband.  I prefer to fill any future openings with trading track 
+personnel.  However I would talk to her.
+Louise Kitchen
+04/02/2001 03:15 PM
+Dan McCarty stopped me today and said that he is looking at bringing down an 
+employee from Omaha who has a wife at Tenaska - Lori Neubauer - who would 
+need a job.  Ever heard of her - any interest in talking to her?
+Jacqueline Coleman@
+01/22/2001 11:22 AM
+Greetings UT Team!
+Congratulations on a successful fall!  Of the 31 full-time offers we 
+extended, 16 have accepted, 8 have declined, and 7 are still outstanding Those outstanding are:  Michael Morris, Irfan Iqbal, Doug Epperson, David 
+Eastlake, Daniel Jenkins, and Brian Kanatzar, so please feel free to call and 
+cultivate these candidates!  Their deadline to accept is January 23, 2001.
+We are now moving on to Summer Intern Recruiting.  I have made the following 
+assignments with the review and approval of Rick Causey.  If you are unable 
+to attend the event for which you are scheduled, please find a replacement 
+and let me know as soon as possible.  I will assume that everyone is 
+attending their assigned event unless I am told otherwise.
+January 30, 8:00 PM: Net Impact Company Night - Jim Cole, Travis Hansen
+January 31, 6:00 PM: Beta Alpha Psi Company Night (discussion topic:  Working 
+in Industry)  - Leon Branom, Jim Cole
+February 6, 2:30 PM: Liberal Arts Intern Hour - Ami Thakkar
+February 7, 12:00 - 5:00 PM: UBCA Career Fair - Luis Mena, Felipe Ospina, 
+Millie Gautam, Catherine Pernot
+February 12, 7:00 PM: Pre-Interview Reception - Brent Price, Hunter Shively, 
+Darlene Regan, Cedric Burgher, Michael Howe, Stan Dowell, Beth Atkinson, Beth 
+Apke, Jim Cole, Kim Chick
+February 13, 8:30 AM: Round 1 Interviews - Brent Price, Hunter Shively, 
+Darlene Regan, Cedric Burgher, Michael Howe, Stan Dowell, Beth Atkinson, Beth 
+Apke, Jim Cole, Kim Chick
+February 14, 8:30 AM: Round 2 Interviews -  Rick Causey, Mark Lindsey, Mike 
+Deville, Sally Beck, Zac McCarroll
+February 20, 6:00 PM: Engineering Route to Business Presentation - Stan 
+Dowell, Zeina El-Azzi
+February 22, 4:00 PM: UT Business Passion Panels - Millie Gautam, Leon Branom
+If any of you have questions or need additional information, or if you are 
+interested in volunteering for an event, please call me at 3-4585 or Jackie 
+Coleman at 5-4070.  You will receive detailed event sheets as we get closer 
+to each event.  Thanks again to everyone who helped make this Fall such a 
+success!
+lexi
+3-4585
+I am ok with this
+Stephanie 
+Please grant me view access to the Nymex options.
+I would also like access to view and transact for US Gas Piepeline capacity.
+If there are any questions, please call - x39685
+Deirdre
+Scott Neal
+01/18/2001 08:24 AM
+Are we going to discuss these with Lavo before he makes a decision?
+Hunter
+FYI.  Some interesting articles on Chicago natural gas issues.
+Laura - I am in the office on Tuesday.  Would you like to talk about these 
+matters?
+Jim
+Susan M Landwehr
+01/14/2001 10:52 AM
+Jim--please take a look at these articles that will come out in the Crains 
+magazine tomorrow.  You'll see that there are both opportunities and potholes 
+for us on this issue.    It is very likely that we will get sucked into this 
+debate----the ENA/ Peoples deal which has generally floated under the 
+regulatory radar in the past is inevitably going to become more prominent. 
+(Evidence even before these articles is that I received a call from the ICC 
+staff late last week asking if we could participate in an ICC meeting on 
+natural gas issue on Jan 23 
+The articles (and the gossip that I have heard in the past few weeks) point 
+out that Peoples is in hot water politically--I would hate to see us dragged 
+into that sesspool.  On the other hand, if ENA sees significant business 
+opportunities that could be opened up to them in Illinois by a change in the 
+regulatory climate, this could be the time to make the play....while the 
+issue is hot and there may be pressure on the ICC to take some steps that 
+they normally would not.
+I'd appreciate it if we could plan a call to talk about strategy on 
+Illinois.  I am going to have to give a response to ICC on Tuesday and we 
+will need to determine who would particpate in the meeting at the ICC.  Roy 
+and I had put in a call to Laura Luce last Thursday to discuss the request 
+from the ICC...I have not heard back from her, but Roy may have 
+Are you available on Tuesday for a conference call 
+"Fein, David I. - CHI"  	01/13/2001 06:03 PM
+Sue & Roy -- We thought that you would find the attached articles regarding
+the high natural gas prices in Illinois to be of interest 
+To solve gas bill crisis, turn heat up on Peoples
+Crain's Editorial - January 15, 2001
+Considering the finger-pointing that's going on between politicians,
+regulators and Peoples Energy Corp. executives, one thing is becoming
+obvious: Fixing blame for the recent astronomical rise in natural gas prices
+is much simpler than fixing the problem.
+Nonetheless, all of these factions bear some responsibility for this
+winter's monthly home heating bills, which, for many residents, are soaring
+by hundreds of dollars over last winter's tabs. Each of these groups should
+be held accountable for working to devise systems and strategies designed to
+blunt future price spikes.
+Make no mistake about it, this crisis will not melt away with the spring
+thaw. Limited natural gas supplies and increased demand will continue to
+pump up bills, rattle price stability and, along with other climbing energy
+rates, become the economy's unwelcome "X" factor.
+The weight of dealing with these pressures rests with the utilities,
+especially Peoples Energy, the city's natural gas provider. To start with,
+the utility's management must protect customers by anticipating escalating
+demand, hedging risk and locking in gas prices when it can.
+These are common business practices, used by corporations and even some
+conservative utilities. In Michigan, for example, gas providers charge fixed
+rates to customers and hedge their risk by purchasing gas years in advance
+under long-term supply contracts. Right now, Michigan pays 29 cents per
+therm, compared with the Chicago area's whopping 98 cents.
+Peoples argues that it tried to lock in prices but was shot down when it
+could not reach an agreement with the Illinois Commerce Commission (ICC),
+which regulates the utility, on what the fixed rate should be. In walking
+away from the deal, Peoples left customers with the current rate system and
+dumped the burden of price fluctuations onto them.
+In essence, instead of managing risk, it put its customer base at risk.
+Considering that decision and the subsequent fallout, critics are asking
+whether Peoples, a regulated monopoly designed to profit from the public's
+needs, is acting in the best interest of its customers. Those paying heating
+bills - which in some cases are as much as 300% higher than last winter's -
+are right to say no, as is Mayor Richard Daley, who's outraged at Peoples.
+More troubling are concerns that Peoples management may not be up to the
+challenge of resolving this crisis, especially if its recent handling of the
+political fallout is an indication. The company acts as if the public has no
+right to question its tactics or motivations. And when the Chicago City
+Council held a public hearing about the heating bills issue last week,
+Peoples Energy Chairman Richard Terry didn't show up.
+At these prices, it's not asking too much for the chairman of the gas
+utility to explain his company's position. That's not a job meant for a
+public relations executive or a consultant, who were among the Peoples
+advocates who actually did attend the council hearing.
+The ICC shoulders its share of the blame, too. It should have more zealously
+monitored the gas supply situation and the utility's plans. Now, the
+commission is playing catch-up by holding an investigation into what Peoples
+knew about the soaring gas prices and when it knew it.
+Let's get an answer to that important question and find out once and for all
+if there is price-gouging going on.
+Just as critical, however, is the need to foster a statewide regulatory
+environment that encourages gas utilities to use more hedging, storing and
+price-control strategies. If there is any ambiguity in state law about the
+utility's ability to do this, then the General Assembly should change the
+rules and open up the process.
+Peoples management, regulators and politicians must get beyond the blame
+game and find a way to better insulate the public from surprise spikes in
+energy prices.
+Otherwise, we're all just burning money.
+Gas flare-up gives city hot idea: Become a utility
+But co-ops mean high risks, mild rewards
+Utility man: William Abolt, head of Chicago's Department of the Environment,
+is examining ways to cut residents' natural gas bills. One option: opening a
+city-owned buying co-op. Photo: Steve Leonard January 15, 2001
+By Steve Daniels  It's easier said than done.
+That's something an angry and frustrated Mayor Richard Daley is about to
+learn as his staff begins investigating plans to take on some gas-purchasing
+duties on behalf of city residents.
+Mr. Daley is livid over what he contends is Peoples Energy Corp.'s failure
+to anticipate the rising cost of natural gas, to mitigate a huge run-up in
+residents' monthly heating bills this winter. He thinks the city can aid
+bill-payers, and punish Peoples, by developing a system that will funnel
+lower-cost gas to ratepayers.
+But the track record of other municipal gas utilities, or buying
+cooperatives, shows that such a system isn't likely to achieve more than
+modest rate savings unless the city is willing to take on significant
+financial risks.
+To protect against the kind of price spikes that have hit customers this
+winter, the city would have to buy futures, or long-term contracts, that
+could leave it exposed if prices were to decline substantially.
+In addition, the city would have to contend with thorny issues such as the
+collection of overdue bills and potential cutoffs of service to non-paying
+customers - activities for which municipalities are ill-suited.
+Despite the risks, utility critics contend that city intervention is
+appropriate.
+"It's a creative approach, and we need those," says Martin R. Cohen,
+executive director of the Citizens Utility Board, a consumer watchdog group.
+"These are extreme times, and innovative approaches are called for."
+Most municipalities that have gotten into the gas-buying business have been
+unwilling to enter into long-term, fixed-price contracts that can shield
+consumers against the sort of price spikes that have sent this year's
+home-heating bills soaring nearly 300% compared with last year's. That's
+because such arrangements can boomerang on customers, locking them into
+higher-than-market gas costs if prices fall.
+New York experience
+"We wrestled with this: Should government really be in this business?" says
+David Fountaine, village administrator in Hamburg, N.Y., a suburb of Buffalo
+that formed a buying group for its residents in April 1999. "In our case, by
+being in it, we've helped our residents."
+Hamburg and nearby Sloan, N.Y., together hired a unit of Texaco Inc. to
+supply gas to residents who signed up for the communities' program. New York
+opened its natural gas market to competition five years ago, so residents
+can choose either to remain with their gas utility or select an outside
+marketer.
+About one-third of Hamburg's 3,300 households buy gas from the village.
+Those residents' gas bills last winter were 8% lower than the bills of
+households that stayed with Buffalo gas utility National Fuel Gas Co. Last
+month, when gas prices shot up, the village's price was 15% lower than the
+utility's.
+But Mr. Fountaine says the village takes no outsized risks, making no
+long-term bets on the direction of gas prices. Rather, it simply relies on
+its contractor to manage gas supplies as efficiently as possible.
+Chicago officials are looking at programs like the one in the Buffalo area,
+but also may be willing to take bigger risks to achieve greater savings.
+"We know there are a lot of relatively new risk-management techniques being
+used by large (natural gas) consumers," says William Abolt, commissioner of
+the city's Department of Environment. "We want to know, what does the
+industry do to manage (price) risk? That's what the reasonable company does,
+but that's not what the local gas company does."
+City officials need look no further than Downstate, where the Illinois
+Municipal Gas Agency buys natural gas on behalf of 20 communities that
+provide monopoly gas service to their residents. Last September, the agency
+locked in prices for 50% to 75% of their customers' winter gas needs,
+rolling with the market for the remainder.
+That strategy is serving the agency's customers well. They're paying around
+70 cents per therm - the measurement the gas industry uses for billing -
+this month, compared with the 98 cents per therm that Peoples is charging
+Chicago-area customers.
+"There's no reason why investor-owned utilities couldn't do the same thing,"
+says John Bell, the Municipal Gas Agency's general manager. "I think (a city
+program) is a viable alternative if they don't like what they've got."
+For its part, Peoples supports the city's desire to become involved in the
+market. The move poses no threat to the utility because it doesn't profit on
+gas purchases and still would make money on the delivery of the gas to
+customers.
+Meanwhile, the city is just beginning to consider alternatives. Although Mr.
+Abolt says no system will be developed in time to help Chicagoans during
+this trying season, a program most likely will be launched next winter.
+Weighing the risks
+The city's top priority will be to help low-income residents most vulnerable
+to escalating heating bills, but all Chicago residents might be able to
+choose between the city's program or remaining with Peoples. And one
+possibility being considered would enable residents to choose either a fixed
+price for gas before winter starts or rates that rise and fall with the
+market.
+While a fixed-price approach certainly looks good in hindsight right now, it
+can have a downside if not managed properly.
+In the Buffalo area, the two major private gas marketers offering fixed
+prices to households recently dropped out of the residential market, forcing
+some 23,000 customers to scramble back to the local utility for gas service.
+To meet the unanticipated demand, the utility was forced to purchase gas on
+the sky-high spot market.
+It just such risks that Chicago officials are weighing. Says Mr. Abolt:
+"This is not an overnight thing. You don't just snap your fingers and it
+happens."
+David I. Fein
+Piper Marbury Rudnick & Wolfe
+203 N. LaSalle Street
+Suite 1800
+Chicago, Illinois  60601
+(W) 312-368-3462
+(F) 312-630-7418
+e-mail:  david.fein@piperrudnick.com
+PLEASE NOTE THAT MY E-MAIL ADDRESS HAS CHANGED TO REFLECT THE MERGER OF
+PIPER & MARBURY AND RUDNICK & WOLFE
+For more information about Piper Marbury Rudnick & Wolfe, please visit us at 
+Dustin Collins
+01/16/2001 10:17 AM
+Hunter - per our conversation the other day, I am finishing up my first 
+rotation with the LNG group and am very interested in rotating into your 
+Fundamentals group.  I would appreciate the opportunity to meet with you to 
+further discuss such opportunities.  Please let me know what time is good for 
+you.
+,
+Dustin
+Lisa and Jason should not be on our RC
+Dear Admins,
+Please help!!
+In an effort to receive correct EPSC & EIS invoices for January, we need to 
+ensure that Joann Holloway has correct Cost Center and location information 
+for all employees in the various gas teams.  I am attaching a file with 
+employees and cost centers which was used by HR to make the "mass" change to 
+the new cost centers after the reorg.  I would appreciate each of your help 
+in dropping in Locations for each of the persons in the cost centers you are 
+responsible for.
+In addition, please check the position field for each person also, as I would 
+like to be sure I have correct information on a
+go forward basis.  I will then send this file to Joann Holloway for her use 
+in compiling invoices for January.
+The bad news is that she needs this quickly.  Please take the time to drop in 
+this information and return to me by 3:00 pm
+on Thursday, January 11.  I know this is short notice, but if we get it 
+correct from the beginning, it will be easier to maintain in the long run.
+Thanks in advance for your help!  Please let me know if you have any 
+questions.
+Edie Leschber
+X30669
+David Ryan@
+01/02/2001 10:56 AM
+We have only the heights for now - maybe someday we'll see days 8 and 9. 
+Good luck,
+Dave
+yes
+David Ryan@
+01/02/2001 10:56 AM
+We have only the heights for now - maybe someday we'll see days 8 and 9. 
+Good luck,
+Dave
+John
+The questions that Gas Daily is receiving most likely pertain to the issue 
+that Nicor was closed on Friday but the weekend index published substantially 
+different from the Thursday index.  We did not transact at Nicor City Gate on 
+Friday and did not submit a change in trades to Gas Daily.  I will discuss 
+this with you tomorrow. 
+Patrice L Mims
+01/09/2001 05:10 PM
+On December 21, 2000,  I reported a weighted average price of $16.00 for gas 
+flow on  December 22-26, 2000.
+The weighted average trade price via Enron Online will reflect a price of 
+$15.76.   This price was increased to $16.00 to encompass trades transacted 
+via the telephone. 
+The reason for the interest in this time period is as follows:
+Nicor Gas Company was closed for  their company holiday on Friday, December 
+22nd.  As a result, volumes delivered at Nicor were traded for  the December 
+22-26 time period.  Gas Daily published a price of $15.70 for the December 
+22-26 time period.  Nicor Gas Company made a decision to buy gas on December 
+22nd (even though they were closed)  for the December 23-26 time period, 
+which resulted in a $13.88 posting for the December 23-26th period.  I 
+concern that Gas Daily was going to revise the posting, based on the minimal 
+activity that transacted on December 22nd 
+My practice is to take the price as reported on Enron Online.  On occasions 
+there will be significant volumes transacted over the telephone that will 
+impact the Enron Online price.  Due to timeliness of sending the price 
+report, my volume is overstated, as opposed to intentionally reporting 
+erroneous information.
+Please ensure that this get's on eveyone's calendar.  Tom has also requested 
+this event.
+Happy Holidays,
+Laura
+Gregg Penman
+11/21/2000 01:23 PM
+I just spoke with Bill Morrow and he has a request.  Peoples is holding their 
+April 4th Board of Directors meeting in Houston to highlight their production 
+business.  Tom Patrick would like Enron to give the Board members a tour of 
+our trading operations sometime between 11 a.m. and 2 p.m.  He has also 
+suggested that we provide an update of enovate as another agenda item.  I 
+realize this is very advance notice, but I thought I would give you both 
+heads up so that you could try to hold this time open on your calendars. 
+Thanks - Gregg
+Rain,
+Has Demetrion set up a meeting with you?  If not, please call him and arrange 
+a time.
+Thanks
+The Peoples Energy Project is Currently On the Public Internet.  The version 
+that has been released is not in its final phase Many of the rules of the business have to be tested and changed to reflect 
+the correct data representation.  The only way 
+for us to do this is to have the current users who will be using the system 
+to verify the correctness of the data.  Due to this fact, it 
+is not recommended that this system be used for trading purposes until the 
+portion of the system being worked on is verified to 
+be in fact correct in its representation of the data.  It is still imperitive 
+that  this system is viewed daily for its correctness, validation, 
+fault tolerance and efficiency on a daily basis, for this is where we devise 
+our metrics on the systems completeness 
+Currently there is a new update version of the application that resides in 
+Chicago that delivers the data to the website.
+Our current contact has been sent to a training in Canada and will not be 
+available until Jan 20, 2001.  Due to this I would like to set up a meeting
+to:
+Application Status Report
+1. Show the Parts of the application that currently are ready to be used
+2. Discuss the portions of the application that are currently in "Beta" 
+(not ready)
+3. Discuss a testing process to bring these portions up to Production 
+Status (ready for usage)
+Evaluate Current Project
+1. Does the project currently meet customer needs
+2.  Additions / Changes to fit needs
+3. Business Rules Changes
+Customer 
+1. Customer Site Feedback
+2. Developer / Management Feedback 
+3. Outstanding Issues
+Steve Jacobellis@
+01/05/2001 03:17 PM
+Mr. Shively,
+My resume did not attach to the last e-mail so I have resent it.  My 
+apologies.
+,
+Steve Jacobellis
+looks expenseive.  We will go with B&W
+Let me know if this is not what you need.
+Hunter
+John Arnold
+01/03/2001 08:24 AM
+Sent by: Enron Announcements@
+EnronOptions Announcement
+You can now access a web site that describes EnronOptions =01) Your Stock Option=20
+Program.  The web site contains some highlights of the EnronOptions Program=20
+as well as some Frequently Asked Questions (FAQs).
+Access EnronOptions =01) Your Stock Option Program web site by clicking on=20
+or by typing the address into your web browser.
+We hope you find the site helpful in addressing your questions about the=20
+EnronOptions Program.  If you have any questions, please contact your H.R.=20
+Representative.
+There will be several EnronOptions - Your Stock Option Program presentations=20
+throughout the month of January.  Stay tuned to a computer near you for=20
+details.
+Please schedule a meeting with Caroline about her needs
+Chris Gaskill@
+12/27/2000 04:31 PM
+Hunter,
+I wanted your opinion on how to respond to the following e-mail.  It sounds 
+like Caroline Abramo is sharing some of Mike's research and the Fundamentals 
+research with some of the hedge funds.  Do we want to keep sending her the 
+information or limit it to certain pieces of research.  Do we make any/enough 
+money off of their business to provide them with our internal research?  I 
+have told her in the past that the quarterly production numbers that we 
+provide are for internal use only, but it sounds like some of the information 
+is going outside of Enron.  Let me know what you think.
+Chris Caroline Abramo
+12/26/2000 04:21 PM
+Chris - this is feedback on Elena's sheets - the ones she puts together as 
+part of Mike Robert's Monday package.  I think they have real potential to be 
+very valuable but we could use a bit more digging on them- the feedback is 
+from Dwight Anderson at Tudor who has been in the commodity markets for years 
+and who has a very fundamental approach to his positions- one of his major 
+tenants is that industrials (chemicals) can not produce at above $7 gas - he 
+has done in-depth analysis of this and probably has a number in mind for how 
+much comes onto the market at these levels- I will try to ascertain. He also 
+wholeheartedly believes that more production will come in 02 and will see 
+prices go below current levels- I know Sachin is working on the production 
+numbers- it would like to see us project these out a bit further and have the 
+historical production data as well - in order to see how extreme the changes 
+in production have been.
+The info that the funds share with us is very privileged - we generally do 
+not share it with many people- I'd like to include you on discussions so that 
+we can help them with their views as well as ours to bang out better trading 
+strategies
+Unfortunately, I have not been able to get into the fundamental site in NY 
+but I am working on it.  I am sure a lot of this info is up there.
+Rgds,
+CA
+212 702 3910
+Dwight Anderson  what do the ally cutbacks mean in mcf per day
+what is the impact of the integrated steel plants running at 70% of capacity
+(number released weekly) mean to power demand and hence demand for nat gas
+what is going on re. nat gas liquids being stripped out? i.e. dynegy and
+mitchell etc. have all announced full or partial closures of stripping
+facilities as economics aren't there.  someone shld be tracking what this
+means in mcf per day
+why won't utilities give you utilization of plants by fuel type, as they do
+in nuclear, so you can track power demand by fuel type
+how much nat gas demand is being lost cuz nat gas ethylene producers have
+shut down as margins are too low vs. their naptha based competitors.  etc.
+etc.
+where do we stand on switching vs. resid, diesel etc. etc.
+i could go on, but i think i've made my point; what is in the report is
+good, but it's incomplete and not totaled with some summary conclusions.
+it's only the very easy, first derivative demands/closures.  it could add
+real value by looking for alternative data points that aren't as easily
+tracked by the market.
+D- not sure if we ever showed this to you- once a week we update all the
+plant closures for ammonia, methanol, and aluminium smelters and the
+resulting gas and power that's back on the market.  these pages are in back
+of the weather.  please let me know what you think of these- elena, our
+analyst in houston is always looking for feedback which is hard to get
+because the report only circulates internally.
+(See attached file: EnronWx121800.pdf)
+Kelli
+Have we contacted GRE?
+Janet Bowers@
+01/02/2001 04:05 PM
+Chris & Kelli,  I just wanted to clarify that GRE's actual testing is 
+scheduled to begin in March, and this Sunday is a one-day deal for them to 
+blow down their turbines.  The powerpak deal that we have with them is for 
+the testing period of March and April.  I have talked with our Storage team 
+regarding putting the gas in on Friday and Saturday of this week and pulling 
+out on Sunday but they are really tight and aren't sure they can handle it Is there any way that we can buy the 4500 MMBtu for Sunday only? And, if so, 
+what is the cost differential?  Thanks!
+Janet
+x-7141
+Kelli - the GRE deal is set to begin in May (per the long-term agreement The interconnect is complete and testing will begin this coming Sunday.  GRE 
+is responsible for noms during testing.  (As you may recall, ENA will be 
+responsible for noms to storage once the deal begins.)  GRE wishes to buy 
+4,500 MMBtu for this coming weekend. This purchase is not covered under the 
+long-term gas deal; therefore, I presume you'll show GRE an offer at  Demarc 
+or Ventura
+Your contact (during testing) will be Janet Bowers (Omaha x7141 
+Please give Janet a call to arrange this weekends gas supply.  We may be able 
+to sell/deliver the 4,500  on Thursday or Friday.
+Janet -  Kelli can be reached at (713) 853-1828.
+Call with any questions
+Thanks
+chris
+x31666
+any day next week is good
+Rain
+Let's talk about this
+Janet R Dietrich
+01/02/2001 03:28 PM
+I know coordinating these moves is a real pain, but we have 4 commercial 
+individuals that need to be sitting at the East gas desk: Frank Vickers, Gil 
+Muhl, Phil Demoes, David Jones. Effective Jan. 1, they are part of the East 
+gas team, and it's critical they sit with them. Could you get with Scott and 
+Hunter and see what else can be done? Thanks.
+Ina,
+Have you made other arrangements for Frank's group or do we need to get 
+together and try to come up with a "quick fix"?  I know before when I was up 
+there inquiring about this, you had said that you were working on this same 
+request for Scott Neal, so I wanted to check with you first before doing 
+anything.
+Thanks
+Lorie
+x39617
+Heather Choate
+01/02/2001 02:44 PM
+Lorie, 
+Adam is on the churn for tonite.  However...Colin Tonks has laid claimed 
+for those spaces with Hunter Shively's approval. 
+Also, thought you might need to know that with Adam's departure, that 
+makes only three desks available (3247c,d and e 
+3247a & b are currently being occupied by employees of Chris Gaskill with 
+no plans to move to the best of my knowledge. 
+This of course, still leaves Kim Brown looking for (3) spaces on 32 
+Additionally,  regarding Brenda Herod, her final count is (30) 
+consultants, (26) current employees and (9) to be hired in January 
+Please let me know if I can be of further assistance, 
+Heather, x33278
+Heather,
+Is Adam's group on the churn for tonight?  Does this mean the spaces will 
+become available to Frank Vickers and others after tonight?
+Thanks
+Lorie
+Heather Choate
+12/27/2000 09:58 AM
+Per Marcie's email below, Adam Plager and his group will be moving out of 
+their current locations
+on 32 and will be moving to 25 
+I will follow-up with Marcie and make sure she knows there is space 
+reserved for them on the 1/2/01 churn. 
+Happy New Year! : ) Heather 
+Marcy Babb@
+12/27/2000 09:22 AM
+Heather:  Thanks for your message.  I totally understand the circumstances I have found space for Adam and his group on 25 and am in the process of 
+moving him hopefully this week as your needs suggest.
+Marcy Babb  --  Have a GREAT New Year!
+Heather Choate@ECT
+12/21/2000 06:42 PM
+Marcy 
+Today,  Adam Plager was asked to find a space off of the 32nd floor, 
+effective Jan. 2, 2000    As I am sending you this email, we do not know where to move him.  I have 
+contacted 
+Lorie Belsha who handles the majority of the floor planning and their are 
+no spaces to
+move him.  She advised that we look to find a space with his direct report 
+Bryan Powell 
+and asked me to contact Peggy McCurley, who then advised I talk to Cheri 
+Westbrook. 
+When talking to Cheri Westbrook, she indicated that you have some space 
+allocated 
+to you, but she was unsure if you have specific plans for them or if you 
+would have (4) 
+spaces for Adam, to accomodate his immediate need 
+I will be out of the office when you are back in on Wednesday, please 
+advise Adam if 
+there is any space available.  I will call in to see if I can be of further 
+assistance in this 
+search. 
+To help you expedite this process when you have come back (in hopes that 
+you 
+have space available for Adam), I have attached the churn request.  You 
+will need to 
+fill in the areas that I left blank (i.e, titles for new hires, cost 
+center, TO location).  All the 
+equipment to be moved has been entered on the churn 
+Additionally, when sending the request into the move-team, please say This move 
+request is for the (5) spaces reserved by Heather Choate for the January 2, 
+2001 churn 
+Heather Choate, x33278
+David Ryan@
+01/02/2001 10:56 AM
+We have only the heights for now - maybe someday we'll see days 8 and 9. 
+Good luck,
+Dave
+thank you.
+Should Vladi do this?
+John J Lavorato@
+12/18/2000 07:42 AM
+Can we take one of your wonderchildren in fundementals and let them spend 1-2 
+hours a day on VAR.  If yes, talk to Frank.
+John,
+Bilal reconciled Tom Martin's VAR, dropping it from $3.5 to $1.246. Texas 
+desk VaR dropped to $3.8
+Frank
+PS.  Bilal has been very helpful in dealing with the VAR issues, and I think 
+it has given him a better idea of what trading is about.  Would you consider 
+sharing some of the analyst/traders, much like Bilal, for a couple of months, 
+maybe longer, maybe mornings only, to help on VAR issues, as it relates to 
+both power and gas?  I think it would be an excellent way to introduce them 
+to VAR, systems, risk management and trading.  Let me know your thoughts
+Invitation
+Chairperson: Dana Docherty
+Start: 01/02/2001 03:00 PM
+End: 01/02/2001 04:00 PM
+Description: Status meeting for Gas Trading Vision Project scheduled in room 
+EB2601
+This meeting repeats   starting on    (if the date occurs on a weekend the 
+meeting Meeting Dates: 
+Richard Burchfield
+Colleen Sullivan
+Phillip K Allen
+Hunter S Shively/HOU/ECT
+Dave Nommensen
+Kenny Ha
+Jayant Krishnaswamy
+Russell Long
+Jeffrey C Gossett
+Russ Severson
+Zhiyong Wei/HOU/ECT
+Detailed description:
+I attended a class two weeks ago.  It was interesting.  Are there plans to 
+make the application web based?
+Jacquelyn Burks@
+11/22/2000 11:13 AM
+Hello,
+Please let me know what's your availablity for Dec. 4. This interview is for 
+Carlos Morales, I'm trying to get Carlos and Dipak in on the same day for an 
+interview. Please let me know what day and time is good for you.
+Thanks,
+Jackie
+Johnny Palmer@_DEVELOPMENT
+11/22/2000 10:43 AM
+Jackie,
+Please schedule this interview for 12/4.  In addition to the following 
+interviewers please add:  Chris Gaskill, Mike Roberts, Geoff Storey, and 
+Hunter Shively. 
+Carlos can be reached at:
+H: (617) 738-0732
+C: (617) 216-3691
+Thanks,
+Johnny
+54017
+Jennifer Fraser@ECT
+11/16/2000 01:18 PM
+Let's interview him
+Suggested Interviewers
+Vince Kaminski
+Stinson Gibner
+Jeff Shankman
+Jen Fraser
+Thanks
+Jen
+Johnny Palmer@_DEVELOPMENT
+11/16/2000 12:59 PM
+Jennifer,
+Please review and inform me of your interest in Carlos' experience.
+Thanks,
+Johnny
+54017
+Carlos Morales  Dear Johnny Palmer,
+I am a Mathematics Ph.D. candidate at Boston University, specializing on
+statistics.  I have worked at Citizens Power (now Edison Mission Marketing
+and Trading) since April of this year developing software for their
+trading desk and risk management department.
+In particular, I have implemented state-of-the-art
+procedures to price derivative contracts on gas and electricity, and
+worked on default correlations among counterparties.
+Attached is a html copy of my vita.
+Sincerely,
+Carlos J. Morales
+Department of mathematics and Statistics
+Boston University
+- cv.html
+Mark Ashbrook left me a message.  I am sure that he is seeking feedback on 
+his interview.  Do you want me to talk to him.  If not, his phone number is 
+773 935 5101.
+Thanks 
+Hunter
+If you are interested in trading.  I can speak with you.
+Hunter
+34772
+Please sign me up.
+Thank You
+Hunter
+Parking & Transportation@
+03/28/2001 04:07 PM
+Sent by: DeShonda Hamilton@
+The Enron Center garage will be opening very soon.
+Employees who work for business units that are scheduled to move to the new 
+building and currently park in the Allen Center or Met garages are being 
+offered a parking space in the new Enron Center garage.
+This is the only offer you will receive during the initial migration to the 
+new garage. Spaces will be filled on a first come first served basis. The 
+cost for the new garage will be the same as Allen Center garage which is 
+currently $165.00 per month, less the company subsidy, leaving a monthly 
+employee cost of $94.00.
+If you choose not to accept this offer at this time, you may add your name to 
+the Enron Center garage waiting list at a later day and offers will be made 
+as spaces become available. 
+The Saturn Ring  that connects the garage and both buildings will not be 
+opened until summer 2001. All initial parkers will have to use the street 
+level entrance to Enron Center North until Saturn Ring access is available. 
+Garage stairways next to the elevator lobbies at each floor may be used as an 
+exit in the event of elevator trouble. 
+If you are interested in accepting this offer, please reply via email to 
+Parking and Transportation as soon as you reach a decision. Following your 
+email, arrangements will be made for you to turn in your old parking card and 
+receive a parking transponder along with a new information packet for the new 
+garage.
+The Parking and Transportation desk may be reached via email at Parking and 
+Transportation/Corp/Enron or 713-853-7060  with any questions. 
+(You must enter & exit on Clay St. the first two weeks, also pedestrians, 
+will have to use the garage stairwell located on the corner of Bell & Smith.)
+I think I have a meeting at 3:00.
+Call me when you have time tomorrow and we will set a time.
+Hunter
+x34772
+Jeanie Slone
+11/02/2000 03:56 PM
+Mark you calendars for the Gas and Power Trading PRC meetings to be held  
+Wed. November 29 (Commercial) and Mon. December 4(Commercial Support)  You 
+will receive specific information regarding times and locations soon.
+If you would like additional members of your staff to attend the meeting to 
+provide feedback, please submit their names to me by November 10.
+A formal Gas pre-ranking meeting is not scheduled.  However, if you are 
+interested in conducting a pre-PRC meeting, please contact me by November 10.
+,
+Jeanie
+X5-3847
+Can we meet on Friday and review this spreadsheet 
+Hunter
+Invitation
+Chairperson: Chris Gaskill
+Sent by: Amanda Huble
+Start: 11/10/2000 03:00 PM
+End: 11/10/2000 04:00 PM
+Description: Budget Meeting in EB3270
+This meeting repeats   starting on    (if the date occurs on a weekend the 
+meeting Meeting Dates: 
+Hunter S Shively/HOU/ECT
+Colin Tonks/HOU/ECT
+Airam Arteaga/HOU/ECT
+Detailed description:
+My handwriting is messy so I am sending an e-mail.
+Slide:      Competitive Analysis Groups
+Heading:     Chicago Portal: Market Area Newsletter
+Suggested additions:    make note of a website
+Transportation spreads 
+calculated with EOL numbers
+E-Confirms
+Customer specific transaction 
+history information
+Log-in ID to portal is the same 
+as EOL ID
+Customer specific information 
+on Enron's nominations with the customer
+Heading:    Provides
+Suggested additions:   integration with EOL
+Promotes EOL sign-up
+Vince J Kaminski
+11/06/2000 12:12 PM
+Hunter,
+The meeting with Dale Nesbitt has been rescheduled to 2:00 p.m. Tuesday, 
+November 7.
+Vince
+The meeting with Dale Nesbitt has now been scheduled for 2:00 PM Tuesday, 
+November 7, in EB 49C2 video conference room.  Your attendance is welcomed. 
+JNG
+Can you print this for me?
+Thanks
+Sent by: Araceli Romero@
+Please print and sign the attached Enron Corp. Risk Management Policy 
+Certificate of Compliance and fax directly to Veronica Valdez, fax # 713 646 
+2194. Due to certain regulatory audits of our trading businesses, we would 
+like to receive these by the end of this week 
+Attached is a copy of the Certificate of Compliance, and the Enron Corp. Risk 
+Management Policy.
+If you have any questions, please call me at (713) 853-0429, or Veronica 
+Valdez at (713) 853-1881.
+,
+Cassandra Schultz
+Market Risk Management
+David Forster@
+11/03/2000 06:43 PM
+Please note that as of Monday, October 30, Northern Natural Gas will commence 
+transacting for capacity on EnronOnline. In accordance with FERC 
+For at least the next several months, NNG will be using EnronOnline and 
+sharing the same database. We have agreed a policy with NNG that ENA 
+employees will not obtain commercial information with regard to NNG 
+activities which is not in the public domain. Accordingly, you are not 
+permitted to access such information. Attempts to access such information may 
+be monitored and will be considered a violation of the policy.
+Dave
+We are in the final selection phase of dealerboards for our new trading 
+floor.  Two vendors have been asked to come in an present executive overviews 
+of their products, company and future direction.  The attached document 
+contains the dates, times and location of the briefings (IPC Information 
+Systems and BT Syntegra).
+If you have any questions regarding this invitation, please contact Stuart 
+Fieldhouse at x35699.
+Thanks.    Jenny Rub
+I do not know.  I thought we were combining power and gas fundamentals IT.
+Hunter,
+I spoke to David Woodstrom and he indicated that Rika had offered him a job in the power group?  I was wondering how they could find a spot in IT?  Just a heads up.
+Chris
+Jay, 
+Attached is my resume and a brief memo for you. 
+Thank you, 
+Robert
+can we get this
+PIRA's Emissions Marketing Intelligence Service (EMIS) just released its
+latest report to clients entitled, "Update: The Southern California (NOx)
+RECLAIM Market."  On May 11 the South Coast Air Quality Management District
+Board removed power generators, as defined under the program, from the NOx
+RECLAIM market at least until 2004. However, their actions to date have left
+the rest of the RECLAIM participants, such as oil refineries, facing an
+ongoing, extremely tight market balance.
+A second, extensive report analyzing trends and prospects in the SO2 Credit
+Market will be released shortly.
+Non-EMIS clients interested in the latest RECLAIM report can purchase it for
+$2,000. The annual fee for quarterly EMIS reports is $4,500 for up to 10
+users at one client site (office).
+For more information, please contact Victoria Watkins at (212) 686-6808,
+ext. 315 or vwatkins@pira.com.
+=09We are in the process of
+=09renewing our Dow Jones Interactive
+=09contract.  As a user of this
+=09service, your feedback will help
+=09us determine the usefulness of this
+=09tool.
+=09Please click on the accompanying "DJI
+=09Survey" link to participate in this
+=09short survey by close of business on
+=09Monday, June 11th.
+=09Thank you for your participation!
+=09
+=09Market Data
+Sonya L. Johnson
+Enron Networks=20
+Market Data Analyst/IT
+(713) 345-4540
+sonya.johnson@
+It appears that Enron fundementals would disagree with a alot of these assertions, but it is interesting to see what CERA is expected to publish Mid-June.
+Richard
+FYI
+Enclosed are my notes from the discussion we had with CERA this morning. The
+most important item is that CERA is revising their short-term forecast
+significantly downward (from high $4.00s to high to mid $3.00s this summer).
+This new forecast will be officially published next week. Please see  the
+attachment for more information.
+Two CERA personnel from the natural gas side will be in the office
+tomorrow (Wednesday) at 9:00am, room 18 D29, for an informal meeting. They
+are available to answer any questions we have of market fundamentals,
+pricing, etc. Please join us if you can.
+- Notes From Meeting With CERA June 6.doc 
+excellent.  We need daily reports that represents the volume that we could loose.  The schedulers must know the proper rankings and cut procedures in a hurricane forms.
+Hunter,
+FYI - Next Tuesday we will be getting together with Tom to talk about what we will need to be prepared for in a hurricane.  We are planning to talk about the different interconnects within our region as well as the east desk, plans to replace gas, what legal considers force majeure and rankings.  I have invited the schedulers from the east and upstream desks hoping that this will help facilitate discussion and ideas on how to resolve problems should a hurricane happen 
+Kirk Lenart is also in the process of working with Unify team to create reports out of Unify to enable us to track cuts in Unify rather than on a spreadsheet.  This will be more efficient and accurate.  The code freeze on Unify will soon be lifted since the migration to the new server will happen this weekend.
+Let me know if you have any other suggestions or questions. 
+Lisa
+All,
+We currently have 7 associates and 2 analysts yet to place in ENA.   These A&A are new hires and will be joining Enron in August.    Please advise me if you would like to see these resumes today.
+Rgds,
+Karen.
+x54667
+Over the last several months, the CommodityLogic team has designed, built, and beta-tested a number of "modules" to create EnronOnline-type capabilities for the mid and back-office.  By combining these web-based solutions with the back-office commercialization effort, Enron can now offer its clients a complete suite of operational services unique in the industry.
+Many of you have also created important pieces in this puzzle, and all of you have valuable client relationships.
+We'd like to put all of these elements together.
+Please join our team for a demonstration of the CommodityLogic modules and a discussion on strategy next Thursday, June 14, 2:30 to 3:30, 49C1. 
+If I have excluded anyone from the invitation list that you feel should attend, please let me know.
+Looking forward to seeing you next week.
+All the best,
+Tom
+please print
+ok
+Interviewers:
+Since Shawn Abboud was "on the bubble" after round 1 (interviewers: Grant Zimmerman and Vivek Kumar) and
+Bradley Johl was not found to be strong after his round 1 telephone interview (interviewers: James Scribner and John Walt)  my recommendation to the group is to remove them from the list.  Ramsey Soliman was found to be stronger after round 1, so I think we should keep her.
+Please let me know your thoughts.
+Thanks!
+lexi
+All -
+Thanks again for all your help yesterday!
+From our final meeting yesterday we identified 19 candidates to bring back to Super Saturday.  I can bring back no more than 17.
+Based on yesterday's discussion the following candidates are "on the bubble:"
+Bradley Johl
+Ramsey Soliman
+Shawn Abboud
+We need to come to a consensus on which 2 to remove from our list.  Hopefully, we can decide this via e-mail discussions rather than calling everyone into a group meeting.
+Please share your comments with the group.
+Thank you!
+lexi
+3-4585
+Candidates currently on the invitation list:
+Mark Lindsey/Hunter Shively Schedule:
+Tanmay Desai
+Alex Alexandrov
+Leigh Addicks
+Dan English
+Robert Giacobbe
+Shawn Abboud
+Cris Sherman/Mike Deville Schedule:
+Neil Rajan
+Ashley DeVault
+Crista Lewis
+Aaron Wilson
+Clay Albers
+Ramsey Soliman
+Scott Earnest/Mike Patrick Schedule:
+Summit Walia
+Amy Elson
+Dan Johnson
+Anuj Mathur
+Lynn Popiel 
+Maneesh Verma
+Brad Johl
+I always appreciate being the last to know.
+yes
+Hunter, Do you want to continue to receive Upstream imbalance and deal chnage info?
+The pipeline meeting with the UBS lawyers was moved to Friday at 3:00.  Power jumped ahead of us.
+please total daily cuts for GDA and IF
+Thanks
+Hunter
+please print
+"US EIA not able to issue weekly U.S Nat Gas Storage data until 2004" - Pat Wood FERC Chairman, Reuters
+Hunter Shively
+Jason Williams (trading)
+Andy Lewis
+Kevin Ruscitti
+Tom Donohoe
+Denver Plachy
+Martin Cuilla
+Geof Storey
+Jim Simpson
+Virawan Yawapongsiri
+Hello everyone.  The goal of Regulatory Affairs is to have livelink up and running for your use by no later than late November or early December.  In order to make sure you all can get into livelink without a hitch, please submit to me the list of names from your desk that will be using livelink.  They will then have guest access 
+Please submit to me the list as soon as possible.  By next Friday, November the 2nd would be wonderful.  By then, you will see or should, the livelink link in your gas fundamentals page.
+Thanks,
+Melinda 
+Central         +800
+East          +1,100
+Texas        +1,200
+West             -200
+Financial    +4,000 (mostly front)
+total           +6,900
+storage model
+index meeting
+wellhead financial product
+Kevin Ruscitti
+Pete Keavey
+Eric Bass
+Kevin/Hunter
+We are short 4 interviewers for the ENA Trading Track Interviews on Thursday, November 1.   John asked me to contact you to get some more names.  Attached is the current list of interviewers we have thus far 
+Rgds, Karen.
+what is the latest?  Are we on schedule for 4,500,000 on Oct31?
+Cora,
+Thanks for the update.  I concur with the volumes base on the contract 
+Virawan - I have hedged 4,500,000 mmbtu's.  If you decide to inject more or less than that, you will be exposed fixed price against Jan, Feb, and Mar-02.  You have a copy of the contract, however, let's go over it sometime this week.
+Sylvia Pollan
+Attached please find the storage numbers as of October 22, 2001.  The total amount we must have in storage is 4,500,000 mmbtu and if we keep going for the remainder of the month we will have a volume of 4,507,779 mmbtu which will make us over by 7,779.  We are leaving this number out there until the last day of the month in the event that we encounter any cuts between now and then.   Per the contract we must have a minimum volume of 4,250,000 but no more than 4,500,000 by October 31, 2001.  If we have at least 4,250,000 but less than 4,500,000 then Michcon will allow us to extend the injection period until November 30, 2001  However,  if we have to go into November and inject gas they will give us a fixed amount to put in every day and there will be NO variation on that amount.   Let me know if you have any questions. 
+Thanks,
+Cora
+We are including this language in our nightly bidweek summary to IFERC.
+Michelle: I received this confidentiality language from the legal department.  Please include it with the index survey that we will begin distributing tonight. 
+Please be advised that this information is confidential and proprietary.  We ask that this confidential information be treated as such, in accordance with applicable laws and regulations governing disclosure of confidential information by gas marketers such as Enron.
+P&L Responsibility 
+Midcontinent Region
+Andy Lewis - Basis and Gas Daily
+PEPL, ANR-ok, NNG-Demarc, NNG-Vent, NGPL-midcon
+Jason Williams - Cash trading and index
+PEPL, ANR-ok, NNG-Demarc, NNG-Vent, NGPL-midcon
+Market Area
+Hunter Shively - Basis and Gas Daily
+Chicago
+Geof Storey - Basis and Gas Daily
+Michcon and Dawn
+Vladi Pimenov - Cash trading and Index (no VAR)
+Chicago
+Souad Mahmassani - Cash trading and Index (no VAR)
+Michcon and Dawn
+Reliant               Chicago Rob Pitts 713-207-1452
+J Aaron              Chicago Rita Nagel 212-902-3845
+J Aaron              NE        Herb Petry 212-902-4393
+Bank of America NE        Joe Grahman 212-836-5360
+Williams             NE       Scott McKenna 918-573-3871 
+Heather Mathis
+can we get this on the website?
+Dear PIRA Client,
+PIRA has created a new presentation on the world economy. You can access
+this presentation via PIRA Online (www.pira.com) by logging in and, from
+the Client Home page, choosing "World Economy" from the "Macro Data"*
+drop-down menu at the top of the screen. We have also updated the
+existing slideshow accessible from the "US Economy" link.
+The presentation consists of a table and charts that encapsulate GDP and
+IP performance, by country/region, for 2000-2002. It is a useful
+comparative recap for the existing slideshows on the U.S., European, and
+Japanese economies. Given the overall importance of economic trends and
+their impact on regional and global energy markets, PIRA maintains
+databases of key economic indicators to support our analyses of energy
+fundamentals and the associated market forecasts. These presentations -
+which are updated as new data become available - are being made
+available complimentarily to all PIRA Online users.
+If you need a user name and password for PIRA Online, or if you need
+help logging in, please contact Dyana Rothman at (212) 686-6808, email:
+support@pira.com. (*If you are having trouble finding the "Macro Data"
+link, go to the FAQ page on PIRA Online and click on question number 4.)
+Gary N. Ross
+Chief Executive Officer
+PIRA Energy Group
+Reminder: PIRA Nat Gas update presentation Monday at 6:30 a.m. in 32C2
+sure.  Give me a call on the day that is best for you.
+Hunter,
+Thank you for your vote of confidence today.  I'm really grateful to have a shot at the trading track.  It means a lot to me and I promise to work very hard to prove myself 
+I was wondering if you would be interested in grabbing a coffee sometime over the next couple weeks.  I'd be very interested to hear your take on the trading track and what you would do if you were in my shoes.
+Jason
+Hi Hunter,
+I recently joined the A/A program as a Senior Analyst as of November 2001 on recommendations from Jim Fallon, Paul Racicot, and Nicole La and I would like to speak with you on any opportunities that you may have within the Gas Fundamentals group.  I am currently working for Paul Racicot on the EBS trading desk as a metro capacity trader but I am interested in pursuing other opportunities within Enron.  I am ultimately interested in joining the Gas trading track and believe the fundamentals group would be an excellent place to start.  I've attached a copy of my resume and two recommendation letters one from Nicole La and one Joe Edwards, who heads up the bandwidth capacity trading desk, for you to review.  If you have any questions please call me at x34212.  Jim Fallon, Paul Racicot, Nicole La and Joe Edwards would also be happy to speak with you regarding my performance and potential at Enron.
+Thank-you
+Neil Carpino
+Global Wholesale Markets
+Enron Broadband Services
+713-853-4212
+713-582-3415 (cell)
+713-646-8795 (fax)
+The following companies have stated that they will not execute trades with Enron.  Some of these decisions appear to be regional or product specific.  For example Aquila executed a trade in the Central region but will not trade with Sandra.
+East - AEP
+Sempra
+Mirant
+J Aaron
+TXU
+Aquila 
+BP Amoco
+Price - Dynegy
+Bank of Montreal
+Vitol 
+Phibro
+J Aaron
+Options - Williams
+AEP
+BP Amoco
+Vitol
+Hess (will sell options only)
+Central - Mirant
+Enbridge
+Vector P/L
+Transcanada
+Sempra
+BP Canada
+Coral Canada
+PG&E Trading Canada
+West - Burlington
+Salt River Project
+Socal Gas
+Dynegy
+Phibro
+TXU
+Coral
+Engage
+WESCO
+Entergy-Koch
+J Aaron (They are clicking to close out positions only)
+Mirant (close out positions only)
+Physical Trading
+East - The East did not notice any credit hording in the morning.  In the afternoon Tractebel is buying the physical balance of month .04 over the GD swap
+Central - Dynegy Canada sold most of the gas to us.  The desk bid was .05 over NGX.  Nicor Hub would not accept an $87 pre-pay for a wheeling fee.
+West - EOL Socal cash was trading .08 higher than ICE Socal.  The desk finished short and the market made it very difficult to buy.  EOL SJ cash traded .10 to .20 cents lower than ICE.  The only point without a credit spread was Opal.  Liquidity picked up slightly from Thursday and Friday, but still slow.
+AEP was noticeably absent from all regions.
+does this plan satisfy our needs?
+All,
+The attached spreadsheet outlines the rotatons for the internal new hires.    Following your changes/comments/suggestions I will forward to Lavorato so we can finalise with the analysts and associates.
+Thanks, karen.
+gas is ok
+Hunter,
+Speaking with the above this morning, he indicated his interest in moving into gas as opposed to power (apparently got some good feedback on you ?!).  He currently works for Rogers Herndon and had also discussed with him his interest.
+Let me have your feedback, and if you want him in your group,, I can switch him to gas fundies as opposed to power.
+Karen.
+ps.. attached again is the spread of new TT people.
+let me know when you get back
+I am going hunting this  afternoon but I will be back during the day on Sunday.
+We might be able to walk  your house Sunday afternoon/evening
+JCB
+- HellsAngels (2).jpg  
+The data is the most accurate data on field receipts and well completions in the US.  Chris believes that he can create an accurate production forecast model by basin and county.  This would give us an edge in the overall and basis market.
+This is very fuck'n expensive.  Are we sure this isn't obtainable cheaper.
+Hunter,
+IHS
+We met with IHS this morning to discuss the data that we need to complete our supply forecasts.  It is our intent to use the monthly historical production data in combination with well completion data, rig counts, and drilling permits to build a more accurate production forecast.  We need complete well characteristic data (depth, basin, age) in order to be accurate 
+In order to reach the goal above, we need to invest in two data services from IHS:
+US Production data - monthly volumes from all wells in the US updated on a lag of 1-6 months - $159,500/Yr. delivered on CD-ROM monthly
+US Well data - well characteristics updated monthly, data age is only limited by CD-ROM delivery - $154,000/Yr. delivered on CD-ROM monthly
+Next year, we will be able to cut the US Well data and add Scout Express, which will cut the cost by $115,500.  Scout Express has only one year of historical well data, so it does not currently meet our needs.  We will be able to do this after we build the historical well information into our supply forecast.
+Danielle Marcinkowski is working with IHS on the contract for the data, she is going to try and negotiate the price this afternoon.  She anticipated having the contract today, and sending it to Chicago for approval.
+PIRA
+Danielle is working to finalize the agreement in the next 3 days.  I gave her a list of the services that we needed, and told her that we would like to distribute the PIRA material on the Commodity Fundamentals website instead of having individual user accounts.  Based on the services that I think we'll need (North Americal Natural Gas, North American Electricity, and the Daily Demand Forecast), our combined cost for Gas and Power in Houston, Portland, Calgary, and Toronto should be around $100,000 for 100 users.  Danielle is going to send an e-mail when she has the final price.
+Let me know if you have any questions.
+Chris
+I thought I approved this.
+The following reports have been waiting for your approval for more than 4 days.  Please review.
+Owner: Christopher J Gaskill
+Report Name: Gaskill111301
+Days In Mgr. Queue: 12
+If we have a full schedule.  I will take him to lunch.
+I'll check and advise.  Do you want to take him to lunch or who would be best to take him to lunch?
+Liz
+Interview schedule:
+Do Greg and Louise want to interview? 
+John Lavorato
+Hunter Shively
+Dave Ryan
+Jay Reitmeyer
+Phillip Allen
+Hunter,
+I spoke with Mr. Ricks about his flight schedule and he wants to drive because his wife wants join him.  I'll book him in the Doubletree Hotel for Monday.  I told him we would probably start the schedule around 9:00 a.m.  If you give me the names of those to interview him, I'll do the schedule.  I told him we would reimburse him for mileage.
+Liz
+Robert Ricks is a Lead Forecaster with the National Weather Service in New Orleans.  He is interested in coming in to interview for the position.  He indicated that next Tuesday or Wednesday would be the best dates for him.  He is working midnight to 8am for the remainder of this week.  He can be reached on his cell phone at any time...985-373-0608 or at home...985-875-0015.  His work number is 985-649-0429
+Interview schedule:
+Do Greg and Louise want to interview? 
+John Lavorato
+Hunter Shively
+Dave Ryan
+Jay Reitmeyer
+Phillip Allen
+Hunter,
+I spoke with Mr. Ricks about his flight schedule and he wants to drive because his wife wants join him.  I'll book him in the Doubletree Hotel for Monday.  I told him we would probably start the schedule around 9:00 a.m.  If you give me the names of those to interview him, I'll do the schedule.  I told him we would reimburse him for mileage.
+Liz
+Robert Ricks is a Lead Forecaster with the National Weather Service in New Orleans.  He is interested in coming in to interview for the position.  He indicated that next Tuesday or Wednesday would be the best dates for him.  He is working midnight to 8am for the remainder of this week.  He can be reached on his cell phone at any time...985-373-0608 or at home...985-875-0015.  His work number is 985-649-0429
+Since Zac opens a spot, Jason Jennaro is a good candidate 
+Zach has gone to great efforts to evaluate his situation and experience going forward and he has decided to work with the liquidation of the EBS assets.  After seeking opinions from various business people, the overwhelming conclusion was to work with the Estate prior to entering business school in the fall.
+Thank you for offering him a position and an option to join UBS, but he will officially decline the offer.
+Mike
+Robert Ricks - Lead Forecaster NWS Slidell, LA
+Arriving on Tuesday or Wednesday for interviews
+Liz Taylor is coordinating travel plans
+Mike Gasper - Reliant forecaster, 10 years experience, Dave knows him from Accu-weather
+Dave Ryan is meeting with him this afternoon to determine if he will interview next week
+Paul Pastelok - Accu-weather
+He has interest and asked that Dave call him this weekend about details.
+Chris Hyde - Earth Sat
+He has interest and asked that Dave call him this weekend about details.
+Matt Rogers - Earth Sat
+On vacation this week.  Dave is going to call him on Monday
+Bill Read - Lead Forecaster NWS Houston
+He has interest and Jay is trying to set up an off site meeting for you or me.
+Kevin Stenson - Weather Channel Forecaster
+Friends with Steven Bennett
+He has interest and asked that Steve call him this weekend about details.
+I will attempt to gain access to him outside of Steve.
+Can someone do a study on the tariffs of major pipeline storage fields to determine which fields require that storage gas is withdrawn regardless of price.  If not, how much to roll storage?
+I was looking at past levels, and I thouhgt to share my findings with you.
+Highest levels as of the first week of April was in 1999 of 1,367 TCF.  Yesterday's AGA showed our levels @ 2,294.  In order to reach 1999's levels we ould need to withdraw about 103 BCF a week (2,294 less 1,367 divided vy the remaining 9 weeks until the first week of April 
+Also, 1999 had the highest levels for the third week of January, levels were 2,039.  Year 2002 is 255 bcf ahead.
+agreed
+I think this guy should be independent from the fundies.   There may be special projects that are "highly confidential" in nature that should be directed by you, Hunter, Tim and myself.   I think Robert would be more successful in a freelance role.
+Other input?
+I think he should report to Gaskill and Will (is will doing fundies?)
+Hi John- thanks for the generous offer which I have accepted.  A couple of outstanding questions- 
+1. Who am I reporting to?  I would welcome the opportunity to report to you or Greg.  I think my job was a lot easier in the past because our group had the backing of the Office of the Chair. This gave us credibility, independence, and the chance to contribute to strategic issues as well as the tactical issues of interest to the traders. However, I am obviously open to any reporting relationship you might suggest and I understand that my day-to-day duties will consist largely of interaction with the Fundy teams.
+2. Are there any slots that have opened because of offers that were not accepted?  I would love to be able to take one of the folks from my group with me, particularly Kristin Walsh or my assistant Sharon Purswell.
+Thanks again for the great offer and the chance to join UBS.
+Robert
+x39934
+cell: 713-594-7995
+did you grab Bennett's internet favorites?
+Hi Guys?
+Per our discussion this morning - two further items needed to complete my end of this transition of the weather team:
+1)	A contact number for The Weather Channel - (770) 226-0000.  It's a switchboard number but they do have a dial by name directory - that's how I get anybody I know there.  The 2 names:  Dr. Steve Lyons and Kevin Stenson.
+2)	My internet explorer bookmarks can be found at O:/Research/Bennett/Favorites.
+My understanding is that this is all you guys need from me to complete my part of this transition.  Please confirm this - and let me know if/what you still need me to do.  To avoid confusion - please respond to everyone on the list above so that we can ensure that HR continues to be in the loop with this effort.
+Sorry about the confusion but please let me know what further I can do - or if you are satisfied please confirm that there is nothing further that you need.
+Steve
+Stephen Bennett
+Meteorology Manager
+Enron Research
+(713) 345-3661
+Grigsby would like to make an offer to Bob Badeer.  If you are ok with extending him an offer I think we should offer the same terms as his Portland deal.  Do you remember what we offered?
+1
+We are in the process of confirming that all traders are set up correctly and ready to trade when the system goes live. 
+We need to make sure that your Stack Managers are accessing the correct database. In order to do this, we need to know how you access Stack Manager:
+1) Through Terminal Server (the one that opens up a desktop within a desktop and it actually appears that you have two Start buttons or
+2) By opening the Stack Manager directly from your "native" desktop.
+Please reply to this message with either a corresponding "1" or a "2" in the subject field.
+If you're not sure which one you have, please contact myself x39673, Teresa Mandola x39807 or Jennifer McQuade x53614 and we'll come by your desk to help you.
+Thank you,
+Dan Diamond
+1
+We are in the process of confirming that all traders are set up correctly and ready to trade when the system goes live. 
+We need to make sure that your Stack Managers are accessing the correct database. In order to do this, we need to know how you access Stack Manager:
+1) Through Terminal Server (the one that opens up a desktop within a desktop and it actually appears that you have two Start buttons or
+2) By opening the Stack Manager directly from your "native" desktop.
+Please reply to this message with either a corresponding "1" or a "2" in the subject field.
+If you're not sure which one you have, please contact myself x39673, Teresa Mandola x39807 or Jennifer McQuade x53614 and we'll come by your desk to help you.
+Thank you,
+Dan Diamond
+Can the east trading and central trading swap areas?
+Robert Ricks is a Lead Forecaster with the National Weather Service in New Orleans.  He is interested in coming in to interview for the position.  He indicated that next Tuesday or Wednesday would be the best dates for him.  He is working midnight to 8am for the remainder of this week.  He can be reached on his cell phone at any time...985-373-0608 or at home...985-875-0015.  His work number is 985-649-0429
+Fellas,
+Presto has asked me to be the contact to Allan Stewart at PIRA with regard to setting up an arrangement for their consulting services.  I'm currently having information-gathering discussions over services and fees for both gas and power, in both the east and west.  In order to fully incorporate everyone's needs into our arrangement with PIRA, I'll be contacting you this week to gather requests.  Or, if you know what you need, please just reply to me with the specific information.
+Thanks,
+Fletch
+as of 1/28
+Hunter Shively
+Geof Storey
+Andy Lewis
+Jason Williams
+Send me a final list of who will be trading on your desk.  Thanks.
+DG
+will be back today
+Give me the story on the website and when it might be up and running 
+Grigsby
+fine with me
+Fine with me if Hunter and Lavo can support it.
+It's my turn, I've asked for nothing 
+I need Caroline Abramo 
+As well as her bonus we need 
+100k and 100k contract. 
+A promotion to VP. 
+And she wants to report Calger and Milnthorp. 
+Hunter and I think it is very important. 
+expense reports
+Mike
+I'll give you and Hunter call at 4:00. I'm meeting with some people from 12:00 - 3:30 today.
+Talk to you soon. 
+Trey
+_______________________________________________
+Trey Ikard 
+HillCast Technologies, Inc.
+906 East 5th St., Suite 210 Austin, Texas  78702
+USA
+p| 512.474.4644
+f | 512.458.3052
+trey@hillcast.com  www.hillcast.com _______________________________________________
+Respond by January 10, 2002 and no later than 4:00 p.m.
+We expect to be in position to sign the purchase documents upon completion of the auction scheduled for Thursday, January 10, 2002.  Unfortunately, that means we need your responses to the questionnaire as soon as possible, and in no event later than 4:00 p.m. of January 10, 2002.
+=20
+,
+Mark E. Haedicke
+Check this out....very funny.  - Mike
+Close door, turn up volume and enjoy 
+Central Trading:
+Jason Williams is an associate
+Entertainment is too high for trading (s/b about $15,000)
+Here is the Netco budget split out for your regions .  Could you please take a look at the headcount and expenses to make sure everything looks alright?  If there are additional items you would like to add (travel and entertainment looks low), please let me know.
+Also, there are a couple people that belong to one of the Gas teams, but I'm not sure which region.  If you know where they belong, please let me know.
+Deirdre McCaffrey - Manager
+Don Black - VP
+Thanks,
+David Vandor
+x3-6306
+Hunter Shively
+Kevin Ruscitti
+Geof Storey
+Andy Lewis
+Martin Cuilla
+Can I get a list of the traders that will make up the new reporting list for the new company as we stand today?  We need to get new books set up, and also we need to get the V@R engine ready to go as well.
+Thanks
+Christopher L. Waits
+Chief Operating Officer
+APB Energy Inc.
+502-327-1404
+Chris@apbenergy.com
+- Enron Quotes 12-21-01 Morning.xls 
+These Markets are indicative only!
+Christopher L. Waits
+Chief Operating Officer
+APB Energy Inc.
+502-327-1404
+Chris@apbenergy.com
+- Enron Quotes 12-20-01 Morning.xls 
+Christopher L. Waits
+Chief Operating Officer
+APB Energy Inc.
+502-327-1404
+Chris@apbenergy.com
+- Enron Quotes 12-19-01 Morning.xls 
+These lists could change before the new company opens for business.
+Execute for all gas products, read only for power and access to stack manager:
+Hunter Shively
+Geof Storey
+Kevin Ruscitti
+Martin Cuilla
+Andy Lewis
+Jason Williams
+Jim Simpson
+Read only for all gas and power products:
+Laura Luce
+Patrice Thurston
+Bryant Frihart
+Russell Murrell
+Please populate the attached worksheets for Stack Manager & Website Access.  I have added the Gas product types and a drop down for each user/product type  to populate with READ, EXECUTE or NONE.  For READ ONLY Website ID's, additional population is NOT necessary.  Please add or remove names as necessary and return to me once complete.  Let me know if you have any questions.
+Thank you,
+Stephanie Sever
+EnronOnline
+713-853-3465
+ok
+28
+looks good
+customer outing - Masters
+Going forward, only Cary and I will be listening in on the 2:30 meeting, so feel to say whatever you want.
+I know her husband.  I prefer to fill any future openings with trading track personnel.  However I would talk to her.
+Louise Kitchen
+04/02/2001 03:15 PM
+Dan McCarty stopped me today and said that he is looking at bringing down an employee from Omaha who has a wife at Tenaska - Lori Neubauer - who would need a job.  Ever heard of her - any interest in talking to her?
+yes
+any day next week is good
+Please sign me up.
+Thank You
+Hunter
+Parking & Transportation@
+03/28/2001 04:07 PM
+Sent by:=09DeShonda Hamilton@
+The Enron Center garage will be opening very soon.
+Employees who work for business units that are scheduled to move to the new building and currently park in the Allen Center or Met garages are being offered a parking space in the new Enron Center garage.
+This is the only offer you will receive during the initial migration to the new garage. Spaces will be filled on a first come first served basis. The cost for the new garage will be the same as Allen Center garage which is currently $165.00 per month, less the company subsidy, leaving a monthly employee cost of $94.00.
+If you choose not to accept this offer at this time, you may add your name to the Enron Center garage waiting list at a later day and offers will be made as spaces become available.=20
+The Saturn Ring  that connects the garage and both buildings will not be opened until summer 2001. All initial parkers will have to use the street level entrance to Enron Center North until Saturn Ring access is available. Garage stairways next to the elevator lobbies at each floor may be used as an exit in the event of elevator trouble.=20
+If you are interested in accepting this offer, please reply via email to Parking and Transportation as soon as you reach a decision. Following your email, arrangements will be made for you to turn in your old parking card and receive a parking transponder along with a new information packet for the new garage.
+The Parking and Transportation desk may be reached via email at Parking and Transportation/Corp/Enron or 713-853-7060  with any questions.=20
+(You must enter & exit on Clay St. the first two weeks, also pedestrians, will have to use the garage stairwell located on the corner of Bell & Smith.)
+looks good
+thanks
+test
+Jay,
+Does your group have space?
+Hunter,
+As I mentioned this morning, since Zach McCarroll turned down the offer we would like to explore the possibility of keeping David Woodstrom on the IT team to fill the open position.  The Fundamentals IT team has been cut to a minimum support staff, and the addition of David would facilitate more development of fundamentals content.  David has been focusing on the operational capacity reporting (morning ops reports) by creating better ways to access the operational data (real time query tool vs. standard reports).  David also has been responsible for maintenance and development of the commodity fundamentals website since he joined the group in early 2000.  He built and maintains the current message board system used by gas trading and as well as the critical notice alerts for pipelines.  He has also worked closely with the West desk and Portland on various real time load and outage reports.  David Dronet and I both feel that the addition of David Woodstrom will allow the fundamentals team to continue producing innovative products instead of providing only support for current operations.  Let me know if you have any questions.
+Chris
+Chris Meyer
+03/20/2001 12:54 PM
+This is one of the presentations at the Williams Customer trip Bryant and I attended in KS.  It covers a proposed greenfield pipe known as Western Frontier (Cheyne Hub to WIlliam Central's Hugoton (KS) station).
+- 2001 WFP Presentation pdf version.pdf 
+Chris Gaskill - Gas Fundamentals
+LLoyd Will - Power Fundamentals
+Julie Gomez also has excellent material on gas fired gen
+Keep in mind that some of our info is sensitive and we may not want the info to leave ENE
+Hunter
+Billy Lemmons@
+03/21/2001 05:12 PM
+I just wanted to confirm the first meeting of the Analyst/Associate Committee on Monday, March 26 from 8:00-10:00 am in the 50th Floor Dining Room (eb50m).  You will find an agenda for the meeting below, as well as attachments containing a recent overview of the program by business unit, and the results of an October 2000 survey of program participants.  This information should help you prepare for our meeting.
+Feel free to contact me at x36671 if you would like to discuss anything prior to the meeting.  I look forward to working with each of you.
+,
+Billy
+__________________________________________
+Meeting Agenda
+March 26, 2001
+I.	Welcome and Introductions (John Sherriff)
+II.	Program Overview (Billy Lemmons)
+a.	Business Unit Summary
+b.	Program Survey
+III.	Discussion Topics (Group)
+a.	Program Leadership
+b.	Business Plan (Focus, Metrics)
+c..	Focus Areas (what's working / what's not 				-	Culture / Location
+-	Recruiting
+-	Rotations
+-	Orientation
+- 	Training
+-	PRC 
+IV.	Next Meeting / Next Steps (Billy Lemmons)
+__________________________________________
+Attachments
+I like the update reports.  keep them coming
+Andy - can you please forward this email to your book person to change these attached deals from ENA- PGL  to ENA - and the actual counterparty.  Our confirmation guys should send out a confirm to verify these deals.
+Tony is continuing to look for additional Harper \ northern border supplies.  I will let you know if he finds anything of interest.
+Thanks
+I will get a room and we can informally go over them with my group.
+You are cordially invited to attend cocktails and dinner on April 10, 2001 at La Colombe d'Or restaurant located at 3410 Montrose Blvd (a map can be found at www.lacolombedor.com).  Cocktail hour will start at 7:00 pm with dinner to follow 
+Please note:  this dinner is for the Trading Track Program.
+Please RSVP to Ted Bland at extension 3-5275 before April 6, 2001.
+Paul,
+If you are coming to Houston for bidweek would you give my group a quick presentation on future rockies expansions?  Please let me know and I will set up a conference room if you can do it.
+Thanks
+Hunter
+Have you spoken to Andy's book accountant?
+Rain,
+please send to group
+FYI - This is Roy Boston's summary of the ICC meeting on gas prices.
+Gregg
+Hello All -- Attached is a memo highlighting the issue areas covered by staff at the ICC meeting in Chicago yesterday.  If you have any questions feel free to call.  It was strange to hear Tom Kennedy say that staff supports reasonable hedging practices and forward contract purchases while sitting next to Zuraski who opposed recovery of same in the PGLC fixed price docket.  Incidentally, Tom Kennedy noted several times that hedging will not necessarily reduce prices but will stabilize them.
+Hunter, the meeting went well. We met with Bryan Murtagh (UBS attorney) and did an overview of the contract services we are looking to set up with the pipes, how those are utilized and some of the underlying risks/exposure of using these contracts. Basically the message was these are non-negotiable contracts, he seemed to understand that and didn't indicate this would require any major legal review from their side. We also had a discussion about the credit requirements and what some of the pipes are asking for. Follow up credit meeting to take place today to get into some greater detail and get a standard credit package together. Also UBS did indicate that they also want to do a credit review of the pipes before moving forward. To faciltiate that we gave them a list of the Day 1 pipes to start their process.
+In summary, I don't believe there will be any challenge on us entering into these agreements nor a lenghty review by the UBS attorneys. The credit issue is big, need to have them expedite their review of pipelines and also recognize our need to satisfy the pipeline credit requirments for a new customer (standard credit package and any addtional requirements). Also need some defintitive answers on when we can actually send this information out (is it now or is it when the deal closes). Suzanne is going to a legal meeting this AM to discuss/recap where everything is at this point in time. I will forward any additonal information to you when I get it. This assumes the Power of Attorney issue will be settled shortly for contract execution.
+Bob  
+Rain
+Please forward Chris Meyer expense reports to Laura
+Course Registration/Product Purchase on 04/20/2001
+Your Registration Identification Number is: 14700 
+For your convenience, click here to view and print your receipt 
+ORDER DESCRIPTION 
+Vendor Name:	Enron 
+Course name:  Structuring Natural Gas
+Class Date: May 10 2001 - May 11 2001
+Location:  Houston TX
+Student Enrolled: ROBYN ZIVIC
+Cancellation Policy:    Cancellation of class must be received at least 3 business days prior to class time in order to prevent charges to your Cost Center. All "No Shows" will be charged the full cost of the course. Substitutes may be sent provided they have satisfied all course prerequisites This order needs to be authorized before it is processed. 
+Thanks for the update
+Colin asked me to cover our current development on security.
+I met with the Web Requests team yesterday and we found that our model was correct however there was an bug in the software.
+We have worked through that and will do some further testing today.  If all goes well I anticipate we can define the users in the group
+and implement secure links next week.
+David
+Hunter/Chris .... fyi, progress has been made to the web based site stats reports. We will meet with the developer today to go over what been complete to date.
+... in addition, the changes to the Gas Message board (in dev) are nearly complete. The is currently owned by another group, we intend to take this over in due course.
+(there may be an error posting to the above message board, should resolved today.)
+Please forward comments and feedback
+-Colin
+I liked him.  He has experience with some of the physical issues that we are trying to correct.  I think he would be a good liaison between commercial and IT.
+Hunter
+Hi Hunter,
+I understand you interviewed David Hsu last week........I'd be gratefull if you could let me know what you thought of him.
+Steve
+Please forward to the traders and place on my calendar
+PIRA is coming in May to do their semi-annual energy outlook.
+Greg Shuttlesworth- North American Natural Gas --- May 14th 3-5 pm (30 C1)
+New Production Outlook
+Price Direction
+Demand Fundamentals
+Dr. Gary Ross - World Oil Outlook --- May 16th 7-8:30 am --32C2
+OIl/ Demand/ supply Outlook
+Regional balances
+OPEC Rhetoric
+Jen Fraser
+34759
+looks good
+Please review the new Gas Message Board in the development site 
+We are hoping to implement this into the production site once you have had the opportunity to look over it.
+Thanks,
+Dave
+According to our records you are the manager for the student ordering this course.  Due to this fact you are receiving a copy of this order modification email. 
+Registration Modification Notification on 04/25/2001  
+Registration ID: 14700
+Vendor Name:	Enron 
+Course name:  Structuring Natural Gas
+Class Date: May 10 2001 - May 11 2001
+Location:  Houston TX
+Student Enrolled: ROBYN ZIVIC
+Dear Registrant, We have received your order modification, which will be processed within  two business days of receipt.   A confirmation letter will be sent via e-mail  to confirm your modification. If you have not received any  correspondence or you have questions,  please contact me directly at 800-642-3187 extension 1514. 
+For your information we have included the cancellation policy of this class as follows: 
+Cancellation of class must be received at least 3 business days prior to class time in order to prevent charges to your Cost Center. All "No Shows" will be charged the full cost of the course. Substitutes may be sent provided they have satisfied all course prerequisites Order Comments:
+Taxes and Shipping Charges will be billed seperately when order is processed 
+Thank you,
+Patricia LopezRegistration Department 
+Project Manager, Registration
+VerticalNet, Inc.
+(713) 331 - 1514
+CLICK HERE  to view this registration record. 
+If this is HPL related, it is Tom Martin
+Would either of you be responsible on the ENA side for signing an "Assignment of Gas Contract?"  Thank you.
+I believe that it would either be Scott Neal or Hunter Shively 
+Did you find an unexecuted copy of the assignment?
+Linda
+Leslie Robinson@
+04/24/2001 04:01 PM
+Sylvia/Linda, do either of you know who on the ENA side would be responsible for signing an "Assignment of Gas Contract?"  HPL assigned it's expense contract with TXU Fuel Company to ENA, and I have the paperwork in front of me.  Thanks.
+A number of conference participants argued that, even under the new standards of Order No. 637, many pipelines still do not offer usable (manipulatable) data over their internet sites 
+What specifically are the above participants arguing?
+Attached is the third draft of comments to be filed by ENA as a follow-up to the March 15 "Dialog" conference.  If you have any comments or concerns, please contact me at 713-853-5840 or Leslie Lawner at 713-345-8645 by Friday afternoon.  Comments are due to be filed at FERC on Monday, and I would like to get them out by FedEx Friday night.
+What instant messaging are you using?  I am disappointed that Deirdre has left.  Liz is in the VAR group and needs to be here early.
+Hunter
+How come Instant Messaging only works for you?  I can not find most people on the trading floor (ie., Fletch, Arnold, etc)  It is kinda of ridiculous By the way, I will be on the fifth and sixth floor of the new building.  Since the Wellhead desk/ Ecommerce will be on six and the rest of Upstream Products will be on five, I will be up and down on the escalators all day.
+I heard that Deirdre went to the freight group under Reck.  How do you feel about that?  Probably don't give a damn since she did not report directly to you.  However, I think it is unfortunate that she left ENA 
+I saw Elizabeth Shim today.  She told me that she gets to work by 5:00 am.  Is it really necessary?  How powerful, forcing analysts to work from 5:00 am to 6:00 pm when most of the traders leave at 4:30 pm.  HMMM,
+Mrha
+will most likely reside on the east desk
+No Gulf Coast?
+DG
+P&L Responsibility 
+Midcontinent Region
+Andy Lewis - Basis and Gas Daily
+PEPL, ANR-ok, NNG-Demarc, NNG-Vent, NGPL-midcon
+Jason Williams - Cash trading and index
+PEPL, ANR-ok, NNG-Demarc, NNG-Vent, NGPL-midcon
+Market Area
+Hunter Shively - Basis and Gas Daily
+Chicago
+Geof Storey - Basis and Gas Daily
+Michcon and Dawn
+Vladi Pimenov - Cash trading and Index (no VAR)
+Chicago
+Souad Mahmassani - Cash trading and Index (no VAR)
+Michcon and Dawn
+Lisa kinsey, Bob Superty
+Hunter,
+Just wanted to know who else you would want invited to the Cubs/Astros game in Chicago on May 17th.  I am sending out the invitations tomorrow.
+Thanks,
+Lynn
+Please make this change
+Thank You
+Hunter
+Hunter, it appears that the bid week cycle for making IT based implementations actually falls five days prior and five days post bid week. Hence we cannot push the gas message board change without Director (business side) or above approval.
+Thus on that note, please could forward this email to: David Wile (cc Bryan Lari, Colin Tonks, David Dronet) authorising this change so we can push the GMB asap. 
+Thanks
+Colin
+We are in the middle of our bid week cycle.  I cannot implement this without director approval.
+David Wile
+Data Technologies
+x33867
+cell:  281-960-6254
+David,
+would you please implement in ITRAPROD.
+thanks,
+rene
+This is complete.
+David Wile
+Data Technologies
+x33867
+cell:  281-960-6254
+The DBA, David Wile, will send an email notification when the change has been completed  
+If you have any comments or questions, or need additional changes, please contact Rene A. Enriquez at x33385.
+Proposed Implementation Date:  04/10/2001.
+Business Overview:
+The client has requested that a field be added for containing a URL that is specific to a given comment.
+To view the DB Change DOCUMENT, click on the following link:
+Chris,
+what are our needs?
+We have been assigned 24 new Associates, 26 new Anaysts, 8 summer Associates and 8 summer Analysts from the incoming class.
+Please let me know your needs with respect to numbers.   Louise and I will then decide if we agree and then we will create a process to pick from the ones we have assigned to us.  I'm assuming that Calgary, Toronto and Portland have done their own thing and don't need any of these people (let me know if this is incorrect 
+If you received this and you report to someone else on this list (ie. you don't report to the office of the chair) please cooridinate your needs with your supervisor.
+Please respond prompty,
+John
+Fundies:
+Due to rotations we need six analysts in Aug/Sept.  Chris has been assigned three new analysts from the pool.  I believe these people are outside of the 26 assigned to you.  We need a minimum of three.  If you want to give us up to six, we will send our allocation of three back to the pool.  We would also like a summer analyst.
+We have been assigned 24 new Associates, 26 new Anaysts, 8 summer Associates and 8 summer Analysts from the incoming class.
+Please let me know your needs with respect to numbers.   Louise and I will then decide if we agree and then we will create a process to pick from the ones we have assigned to us.  I'm assuming that Calgary, Toronto and Portland have done their own thing and don't need any of these people (let me know if this is incorrect 
+If you received this and you report to someone else on this list (ie. you don't report to the office of the chair) please cooridinate your needs with your supervisor.
+Please respond prompty,
+John
+Rain please forward to group
+Sunday e-mail
+hunter-jessica@houston.rr.com
+AGENT MC/MC BOOKING REF X8HH5N
+SHIVELY/HUNTER
+EB 3278
+ETKT RECEIPT
+ENRON CORP
+DATE:  MAY 07 2001
+SERVICE               DATE  FROM           TO             DEPART  ARRIVE
+CONTINENTAL AIRLINES  17MAY HOUSTON TX     CHICAGO IL     750A    1024A
+CO 1104    B          THU   G.BUSH INTERCO O*HARE INTL
+TERMINAL C     TERMINAL 2
+NON STOP
+RESERVATION CONFIRMED         2:34 DURATION
+AIRCRAFT: BOEING 737-800
+SEAT 16F NO SMOKING CONFIRMED SHIVELY/HUNTER(
+HOTEL                 17MAY THE DRAKE CHICAGO
+18MAY 140 EAST WALTON PLACE
+CHICAGO, IL 60611
+UNITED STATES OF AMERICA
+TELEPHONE: 1-312 787 2200
+FAX: 1-312 787 1431
+CONFIRMATION: 3119647310
+REFERENCE: A04A54
+SINGLE ROOM KING SIZE BED
+RATE: ENR USD 195.00 PER NIGHT
+GUARANTEE GIVEN
+ENRON CORP
+TO AVOID BILLING CANCEL BY 4PM DAY OF ARRIVAL.
+HOTEL                 17MAY THE DRAKE CHICAGO
+18MAY 140 EAST WALTON PLACE
+CHICAGO, IL 60611
+UNITED STATES OF AMERICA
+TELEPHONE: 1-312 787 2200
+FAX: 1-312 787 1431
+CONFIRMATION: 3120439349
+SINGLE ROOM KING SIZE BED
+RATE: ENR USD 195.00 PER NIGHT
+GUARANTEE GIVEN
+HOLDING 2ND OF TTL 2 ROOMS
+TO AVOID BILLING CANCEL BY 4PM DAY OF ARRIVAL.
+CONTINENTAL AIRLINES  18MAY CHICAGO IL     HOUSTON TX     444P    715P
+CO 1111    B          FRI   O*HARE INTL    G.BUSH INTERCO
+TERMINAL 2     TERMINAL C
+SNACK                         NON STOP
+RESERVATION CONFIRMED         2:31 DURATION
+AIRCRAFT: BOEING 737-800
+SEAT 19D NO SMOKING CONFIRMED SHIVELY/HUNTER(
+THIS IS A NON-REFUNDABLE FARE THAT REQUIRES
+TRAVEL ON THESE SPECIFIC DATES AND FLIGHTS.
+ANY CHANGES WILL RESULT IN A PENALTY AND/OR
+ADDITIONAL COLLECTION.
+YOUR TICKET REFLECTS A NEGOTIATED DISCOUNT FROM THE TAP
+THE PUBLISHED FARE FOR THIS TICKET IS $460.00
+THIS IS A NON-REFUNDABLE FARE THAT REQUIRES
+TRAVEL ON THESE SPECIFIC DATES AND FLIGHTS.
+ANY CHANGES WILL RESULT IN A PENALTY AND/OR
+ADDITIONAL COLLECTION.
+YOUR TICKET REFLECTS A NEGOTIATED DISCOUNT FROM THE TAP
+THE PUBLISHED FARE FOR THIS TICKET IS $460.00
+MISCELLANEOUS         15SEP HOUSTON TX
+SAT   ** THANK YOU FOR USING THE TAP 
+RESERVATION NUMBER(S)  CO/O2C0YL
+SHIVELY/HUNTER  S5C0413R1073             TICKET:CO/ETKT 005 7028420545
+CO  FREQUENT FLYER CODU873693
+ASSISTANT: DONNA WILLIAMS 713 853-6377
+INTL TVLRS: CARRY SOS WALLET CARD W/ENRON ASSISTANCE INFO
+CALL SOS MEDICAL EMERGENCY:IN U.S 800 523-6586
+CALL SOS MEDICAL EMERGENCY:INTL 215 245-4707 (COLLECT)
+HIS IS THE PASSENGER RECEIPT FOR YOUR ELECTRONIC TICKET.
+PLEASE CHECK-IN WITH PHOTO IDENTIFICATION AND WITH
+EITHER (1) THIS RECEIPT OR (2) YOUR CONFIRMATION NUMBER.
+YOUR ETKT CONFIRMATION NUMBER IS: O 2 C 0 Y L
+E-TICKET 005-7028420545 ISSUED 07MAY01 - $383.50.
+I don't understand this
+Dave, I wrote to Michael on April 30th, but received no reply. 
+Its a little frustrating that all request need to go through you ? Why is this so ?
+-Colin
+Michael, could you answer the following ?
+Thanks
+Colin
+Colin,
+Can you get me the XML schemas or DTDs for EOL.EOLPROD.DISTRIBUTOR.NEW_DEAL.SITARA and EOL.EOLPROD.DISTRIBUTOR.NEW_DEAL.TAGG?
+I need to figure out the mappings for conterparty id, price, volume, etc.
+Attached are the msgs captured on the TIB.
+Thanks,
+Ronggen Pan
+x54964
+EB3296C
+Friday may be best.  I need to check with the wife.
+Hunter
+Hunter:
+Just checking up with you; it's been a while.  Do you have time to go get a
+beer after work tomorrow?  Let me know.
+Paul Margraves
+713-654-0348
+Notice Regarding Entry of Orders and Instructions: Please
+do not transmit orders and/or instructions regarding your
+PaineWebber account(s) by e-mail. Orders and/or instructions
+transmitted by e-mail will not be accepted by PaineWebber and
+PaineWebber will not be responsible for carrying out such orders
+and/or instructions.  Notice Regarding Privacy and Confidentiality:
+PaineWebber reserves the right to monitor and review the content of
+all e-mail communications sent and/or received by its employees.
+can we get a calendar for factor changes?
+Please note that new factors will be put into production this evening.  Value-at-risk will most likely increase by the percentage outlined below.  Shorts are driving price risk, while long basis drives the forward physical risk 
+Let me know if you need access to component VAR analysis, so that you can effectively manage VAR 
+Frank
+I would like to pursue this with Jay Webb.  Do you support?
+Hunter,
+As I mentioned this morning, since Zach McCarroll turned down the offer we would like to explore the possibility of keeping David Woodstrom on the IT team to fill the open position.  The Fundamentals IT team has been cut to a minimum support staff, and the addition of David would facilitate more development of fundamentals content.  David has been focusing on the operational capacity reporting (morning ops reports) by creating better ways to access the operational data (real time query tool vs. standard reports).  David also has been responsible for maintenance and development of the commodity fundamentals website since he joined the group in early 2000.  He built and maintains the current message board system used by gas trading and as well as the critical notice alerts for pipelines.  He has also worked closely with the West desk and Portland on various real time load and outage reports.  David Dronet and I both feel that the addition of David Woodstrom will allow the fundamentals team to continue producing innovative products instead of providing only support for current operations.  Let me know if you have any questions.
+Chris
+I will be in Chicago Thursday and Friday.  I will need to leave for the airport around 3:00.  Please let me know if you would like for me to call in.
+Hunter
+The staff meeting that is scheduled for tomorrow, May 11 has been rescheduled to next Friday, May 18th.  The meeting is scheduled to start at 2:30 pm central time and will be in EB30C1.  If you are not able to attend, please make sure that you send an email to Kim Hillis with an explanation 
+Currently, the meeting will have Portland, Calgary, Sao Paulo, San Fran and Monterrey video conferenced. Orlando, please call 713-646-3062 when you are not in the Sao Paulo office.  If anyone else is required to call in, then a conference bridge line will need to be set up.  Please let Kim know this information as well so that this can be done.
+The staff meeting is monthly and I will alert you when the June meeting will happen.  Please make all efforts to be at the meetings.
+If you have a response to the previous email of where you would like for the management meeting to take place, please send them to myself or Kim.  I have not received many responses 
+If you have any questions, please let me know.
+are we using this?
+Enron is in the process of re-negotiating our contract with Dow Jones Interactive and we need to know if you are currently
+accessing this data.  In the near future there will be a cost associated with this information and you are currently listed as
+having a license 
+Please click on the below link and let us know if you need continued access to this service.
+Thank You, 
+Market Data 
+Sonya L. Johnson
+Enron Networks 
+Market Data Analyst/IT
+(713) 345-4540
+sonya.johnson@
+Yes.  Please communicate cost to me.
+Enron is in the process of re-negotiating our contract with Dow Jones Interactive and we need to know if you are currently
+accessing this data.  In the near future there will be a cost associated with this information and you are currently listed as
+having a license 
+Please click on the below link and let us know if you need continued access to this service.
+Thank You, 
+Market Data 
+Sonya L. Johnson
+Enron Networks 
+Market Data Analyst/IT
+(713) 345-4540
+sonya.johnson@
+D
+Could you please ask your assistant to change your supervisor for PRC from me to Laura.
+Thanks
+Hunter
+MCCAFFREY, DEIRDRE J has suggested reviewers in the PEP system and submitted them for your approval.
+You may review/modify this list of reviewers by logging on to PEP at  and selecting Supervisor Services from the main menu.
+Please remember, no feedback can be completed on MCCAFFREY, DEIRDRE J until you have approved the list.
+If you have any troubles logging into this site, please contact the PEP Help Desk at: 
+Houston: 713-853-4777, Option 4, E-Mail: perfmgmt@
+London: 44-207-783-4040, Option 4, E-mail: pep.enquiries@
+Can we delay the interviews by one hour?  AGA is released at 1:00 on Wednesdays.
+All,
+We will be scheduling interviews for the Trading Track, Wednesday, May 30th from 1.00 pm to approximately 4.00 pm with a debrief afterwards.    We will be interviewing approximately 12 - 16 candidates (both internal and external).
+Please reserve this time in your calander.    If you are unable to particpate please let me know otherwise you will be contacted with   to location/confirmed times/resumes/etc shortly.
+Any questions please do not hesitate to contact me.
+Kind 
+Karen.
+x54667
+Frank
+Did this show in my Monday var?
+FYI
+This is going down.  Thinking is if VAR goes ballistic they'll know Saturday and reverse before Monday.  There are risks involved in trying this over the weekend but Scott is committed to making sure there are no hitches.
+Frank
+Nilay,
+OK its a go. I have changed the Vol Group CD in the Publication Name database from Omicron 10 to Omicron 1 for IF-ANR/LA. Hunter's VaR is half his limit and there should be more than enough cushn' to account for any increase in VaR this change may cause. Could you ensure it comes across in the GERMS side. If it does not because of an ERMS issue, could you contact Jeremy Wong? I think you could better describe any issues to him than I could. Thanks.
+Scott
+3-6599
+Are we going to reschedule?
+FYI 
+I just wanted to let you know that I have been working with the settlements group in order to put approx. $800,000.00 into the Central and East desk books for Devon penalties that have been incurred over the last year.  Settlements should be talking with the Risk group in order to get this done soon.   We are also working to determine the Pipeline cash out as a result of Panaco's imbalance over the last year.  After talking with legal it appears that we do have remedy to recoup cash out from Panaco. I'll keep you informed when I have more information.  If you have any questions please let me know.
+Mark
+Chris Gaskill and I will do it.
+Does the audience understand the basics of natural gas?
+Hey Hunter, how's it going? Got a favor. I am sponsoring a "Summer Series" of presentations to select individuals in EES to get them more acquainted with the wholesale marketplace and other areas of Enron. I will be having these each Wednesday beginning June 13th. We're starting with US Power which Rogers Herndon is going to present. On June 20th, I'd like to have someone present US Gas. I'd really like to have you present if at all possible. We're doing these in 5C2 which holds about 100 folks. The EES groups will really benefit in gaining more insight into the wholesale markets. I'm basically wanting to give them an overview of the current fundamentals in the US Gas market, the influence from Canada/Mexico, an update of storage and transportation balances/concerns, our view of the forward market and the things that are influencing it, etc. We probably just need a 30-45 presentation with about 30 minutes for Q & A. 
+We're trying to establish a much closer link between the wholesale and retail groups, and things like this will really help. You could always bring someone else to tag team with if you like.  I will introduce you and be there the entire time, and Dave Delainey will more than likely be there as well. By the way, we will be taping these so folks can watch it on their PC's afterwards.
+If you can do it, I owe you one! Let me know. Thanks!
+Hey Hunter, how's it going? Got a favor. I am sponsoring a "Summer Series" of presentations to select individuals in EES to get them more acquainted with the wholesale marketplace and other areas of Enron. I will be having these each Wednesday beginning June 13th. We're starting with US Power which Rogers Herndon is going to present. On June 20th, I'd like to have someone present US Gas. I'd really like to have you present if at all possible. We're doing these in 5C2 which holds about 100 folks. The EES groups will really benefit in gaining more insight into the wholesale markets. I'm basically wanting to give them an overview of the current fundamentals in the US Gas market, the influence from Canada/Mexico, an update of storage and transportation balances/concerns, our view of the forward market and the things that are influencing it, etc. We probably just need a 30-45 presentation with about 30 minutes for Q & A. 
+We're trying to establish a much closer link between the wholesale and retail groups, and things like this will really help. You could always bring someone else to tag team with if you like.  I will introduce you and be there the entire time, and Dave Delainey will more than likely be there as well. By the way, we will be taping these so folks can watch it on their PC's afterwards.
+If you can do it, I owe you one! Let me know. Thanks!
+P&L Responsibility 
+Midcontinent Region
+Andy Lewis - Basis and Gas Daily
+PEPL, ANR-ok, NNG-Demarc, NNG-Vent, NGPL-midcon
+Jason Williams - Cash trading and index
+PEPL, ANR-ok, NNG-Demarc, NNG-Vent, NGPL-midcon
+Market Area
+Hunter Shively - Basis and Gas Daily
+Chicago
+Geof Storey - Basis and Gas Daily
+Michcon and Dawn
+Vladi Pimenov - Cash trading and Index (no VAR)
+Chicago
+Souad Mahmassani - Cash trading and Index (no VAR)
+Michcon and Dawn
+This appears to be the extent of the damage.  I have spoke with Peoples to ensure joint cooperation on this ordeal.  Peoples is dealing with a union walk-out of their own involving over a thousand union employees.
+Just a FYI 
+Laura
+Here you go.  Enjoy.
+- Image6.tif
+Please add a "daily change" column next to the "total position by trader" column.
+Thanks
+Hunter
+Daisy Liemonta - No - I think she is more suited towards a back office role.  However I am on the fence and If Presto wanted to bring her in, that is fine.
+Eric Moncada - Yes - Trading experience and desire to learn fundamental trading
+Sandy Wei-shan - No - little interest in trading
+Fines:
+I know you have talked with Phillip but I wanted to give my two cents.  I think the fines are a great idea. We must be accountable for VAR.  However the fines do not allow the desks to push the envelope.  The desks need to stay a couple million under VAR to protect against volatility and factor changes.  We do not have the tools to predict our VAR with any strong degree of accuracy but we are penalized for going over a few hundred thousand dollars.  I propose a one day grace period of 10% to 12% over limit.  This would allow the desks to max their VAR and protect against unexpected changes.
+EOL:
+We continue to have trouble with brokers not working our EOL numbers.
+We believe Dynegy has written a program to mirror our cash markets on their system. When we suspend, they suspend and as our markets move, so do theirs.
+Is it possible for Power to be on our floor?
+Fines:
+I know you have talked with Phillip but I wanted to give my two cents.  I think the fines are a great idea. We must be accountable for VAR.  However the fines do not allow the desks to push the envelope.  The desks need to stay a couple million under VAR to protect against volatility and factor changes.  We do not have the tools to predict our VAR with any strong degree of accuracy but we are penalized for going over a few hundred thousand dollars.  I propose a one day grace period of 10% to 12% over limit.  This would allow the desks to max their VAR and protect against unexpected changes.
+EOL:
+We continue to have trouble with brokers not working our EOL numbers.
+We believe Dynegy created a program to mirror our cash markets on their system. When we suspend, they suspend and as our markets move, so do theirs.
+ok
+Airam Arteaga is requesting access to several ENA roles and it is pending your approval.  Please email your response to SAP Security. 
+Pending Mary Perkins' Approval:
+FN TR Cash Viewer
+Pending Jim Coffey's Approval:
+Add FN PS Viewer
+Pending Elaine Schield's Approval:
+Add FN AR Viewer
+User's Current Access:
+Std End-User profile for basis and prntg
+HR EMployee ESS CATS Enterprise HR
+HR Time Administrator - EWS
+FN FI Consolidated Viewer-ENA
+Thank you,
+SAP Security (Eva)
+Arteaga@mailman.enron.com; Airam <airam.arteaga on 05/21/2001 01:20:46 PM
+The following request information was recently submitted 
+REQUESTOR INFORMATION:
+Business Unit:                ENA
+Cost Center:                  107317
+Company Code:                 0413
+Business Unit for Roles:      ENA
+SAP ID:                       P00503267
+GENERAL INFORMATION:
+Supervisor:                   Hunter Shively
+Supervisor Telephone Number:  713-853-4772
+Employee Name (Last,First,M): Arteaga, Airam
+Employee Location:            EB3230C
+Employee Telephone Number:    713-853-1560
+Employee Email Address:       airam.arteaga@
+Job Title:                    Administrative Assistant
+SAP User Type:                Enron Employee
+Business Reason    To ensure that there is nothing charged in error to
+Hunter Shively's cost center.
+VIEWER ROLES:
+1. Add FN FI Consolidated Viewer
+2. Add FN CO Viewer
+3. Add FN TR Cash Viewer
+4. Add FN PS Viewer
+5. Add FN GL Viewer
+6. Add FN AR Viewer
+FINANCIAL ACCOUNTING ROLES:
+No roles in this area were selected.
+PROJECT SYSTEM ROLES:
+No roles in this area were selected.
+JOINT VENTURE ROLES:
+No roles in this area were selected.
+MATERIALS MANAGEMENT / PURCHASING ROLES:
+No roles in this area were selected.
+CENTRALIZED ROLES (LIMITED TO SPECIFIC PERSONNEL):
+No roles in this area were selected.
+HUMAN RESOURCES (HR PERSONNEL ONLY):
+No roles in this area were selected.
+HUMAN RESOURCES - TIMEKEEPERS:
+No roles in this area were selected.
+HUMAN RESOURCES - BENEFITS (BENEFITS PERSONNEL ONLY):
+No roles in this area were selected.
+HUMAN RESOURCES - PAYROLL (PAYROLL PERSONNEL ONLY):
+No roles in this area were selected.
+I have interest
+Hunter, see below.  Any interest ?
+Rain:
+Is this something Hunter was interested in?  Will you forward this information to him and reply back to Stuart Fieldhouse about Hunter attending one of these demos.
+-Ina
+Hi Ina, 
+My colleague Joy Pardillo has contacted you regarding a demo for some messaging software as a possible replacement for the Amtel Unit, which you are attending at 12.30pm. 
+In addition to this, we have some software that puts the intercom on to the PC as well, which we would be very keen for Hunter Shively, and any other traders who might be interested, to have a look at. Could you ask Hunter if he would like to see a demo of the software at some time today. We have room 22C1 booked for the following times today. If he cannot make any of these times, let me know and I will sort out a location. 
+11:30 a.m. - 12:30 p.m. 
+12:30 p.m. - 1:30 p.m.
+The latest a demo could take place is 3pm. 
+Many thanks
+Stuart Fieldhouse
+Enron Center South Project team
+i want to continue to receive FERC updates
+Hunter, did you ask me to take your name off the distribution list for FERC updates that we send out?  Looks like I've deleted you from the masters, and I can't remember why I did it.
+Mark, I have a letter here that Jeff would like to mail to you (we still 
+haven't gotten him to use e-mail yet!); however, I don't have an address for 
+you.  Please let me know if you have a mailing address in Istanbul, and I'll 
+get this in the mail right away.  Thank you,
+Sherri
+I found this.  Please disregard previous note. 
+Katherine
+Cindy Stark
+01/24/2000 11:18 AM
+For those of you who would like to make a contribution in the name of Eugene 
+S. Horton, below are the details:
+VITAS Hospice Care
+2500 Maitland Center Boulevard
+Suite 300
+Maitland, FL  32751
+Please feel free to pass this information on to concerned individuals within 
+each of your respective groups.
+Let me know if you have any questions or concerns.
+Cindy
+(X36197)
+George, I have a baseball ticket for you and would like to make arrangements 
+to have it couriered to you.  Please let me know where I can send the 
+ticket.  Thanks very much.
+,
+Sherri Sera
+Assistant to Jeff Skilling
+713.853.5984
+713.646.8381 (fax)
+sherri.sera@
+GKoutani@aol.com on 09/24/2000 05:41:34 PM
+I'll be calling you monday to arange picking up the tickets or arranging
+something
+George, may I please have the zip code for the address below?  I'll send the 
+tickets by courier as soon as I get that.  A phone number would be helpful, 
+also.  I'm glad you mentioned that Paco is planning to attend as I had not 
+heard from him.  I'll courier over 2 tickets.
+,
+Sherri Sera
+Assistant to Jeff Skilling
+713.853.5984
+713.646.8381 (fax)
+sherri.sera@
+GKoutani@aol.com on 09/27/2000 06:26:57 PM
+If you could send mine and Paco Wood's if he has not recieved it yet to the
+same address.  Send it to 9730 townpark drive. suite 100.  I am moving my
+bussiness so if you can try and send it by friday.
+John, you should have received a copy of the e-mail you sent to Jeff, which I 
+in turn forwarded to Greg Whalley.  To bring you up to speed - Greg Whalley 
+is the Chairman & CEO of Enron Net Works - EnronOnline and all IT resides in 
+this business unit (in some of the e-mails in the string you sent me, Jay 
+Fitzgerald and Jenny Rub were mentioned - they both report to Greg).  If you 
+don't hear from him within a reasonable amount of time, please let me know.
+Hope all is well 
+,
+Sherri
+Hi, Kristin.  Your Dad asked me to get in touch with you to see about setting 
+up some lunches for the two of you.  He's traveling quite a bit again in 
+October, but I'll give you the dates he's available and you tell me which of 
+those days you can do it:
+Friday, October 13
+Monday, October 16
+Thursday, October 19
+Thursday, October 26
+Wednesday, November 1
+Monday, November 6
+Friday, November 10
+Monday, November 13
+Tuesday, November 14.
+I'll hold all of these dates for you until I hear back from you.  Would you 
+be able to go at 12:00 noon?  SRS
+Kristin, I have it on the calendar for Friday, October 13.  I also left 
+Friday, November 10 on the calendar, too.  I'll check with him about meeting 
+you vs. picking you up and let you know what he says.  Hope your having a 
+good day - see you Saturday night.  SRS
+i tihnk that fridays would be the best. So that friday the 13th would work.
+I get out of class at 11:55 so if he wants to pick me up or i will meet hi
+somewhere...it doesn't really matter to me. Just email me back and let me
+know what he wants to do
+Hi, Kristin.  Your Dad asked me to get in touch with you to see about
+setting up some lunches for the two of you.  He's traveling quite a bit
+again in October, but I'll give you the dates he's available and you tell
+me which of those days you can do it:
+Friday, October 13
+Monday, October 16
+Thursday, October 19
+Thursday, October 26
+Wednesday, November 1
+Monday, November 6
+Friday, November 10
+Monday, November 13
+Tuesday, November 14.
+I'll hold all of these dates for you until I hear back from you.  Would you
+be able to go at 12:00 noon?  SRS
+George, I didn't hear back from you, but I think I found the correct zip code 
+- hopefully it's 77036.  I'm sending yours and Paco's tickets via courier, so 
+you should received them by +/- 2:00p today.
+,
+Sherri Sera
+Assistant to Jeff Skilling
+713.853.5984
+713.646.8381
+sherri.sera@
+Jeff (Rocky) Skilling is not able to attend the football game, but he 
+appreciates you offering to get him a ticket.  He will, however, be at Elvis' 
+party Friday night.
+,
+Sherri Sera
+Assistant to Jeff Skilling
+713.853.5984
+713.646.8381 (fax)
+sherri.sera@
+Various Beta Buttheads,
+OK, the deadline is fast approaching.  We're inside two minutes to play
+and I need to know the game plan.  As of this day Oct. 2, here's what I have
+confirmed in tickets ordered so that we all may sit together at this year's
+homecoming game:
+Mannino/1, Beek/1, Jordan/1, Artie/1, Wallace/1, Elvis/2, Grumbles/2,
+Glass/3, Chuckles/1, J. Miller/2, Shack/1, Space/8 (he's bringing all of
+Elzie's living relatives), Hutch/2, Fullerton/2, Coburn/2, Jansson/5 (he's
+bringing all of Mom Pinchbeck's living relatives), Rossell/2, and Carl
+Hohl/2 (he thinks...not sure because he never was).
+Now, if there are ANY OTHERS, you have about 48 hours because I need to
+order these things when I get back in town on the 5th.  So if any of you
+reading this want some, give me an email.  Also think about recruiting
+others not on my email list that you think might not yet know about all
+these plans.
+WE ARE ABSOLUTELY GOING TO ROCK THE NEW STADIUM.  I've already
+contacted officer Caffey and he's given us yet another reprieve to behave
+any damned way we want to, complete with SMU Secuity protection.
+Yours in -kai-
+Dro
+Share information about yourself, create your own public profile at
+Dear David,
+Jeff will see your e-mail later today and will respond to your first question 
+as soon as possible.  In the meantime, I'm attaching Jeff's current bio in 
+response to your second question.
+,
+Sherri Sera
+Assistant to Jeff Skilling
+713.853.5984
+713.646.8381 (fax)
+sherri.sera@
+David V. Porter@EES
+10/03/2000 12:10 PM
+Hello Jeff, 
+I submitted a  question that didn't get answered at the meeting.  I was 
+hoping you could respond 
+We routinely see citizens of a country hold an "inferior" currency despite 
+the presence of superior alternatives.  The incumbent currency has a smaller 
+bid/ask spread, and a network externality  locks-in  the inferior currency Volume creates lower spreads and lower spreads in turn attract more volume, 
+conferring a monopoly status on the incumbent currency.
+Do you think that Enron Online is taking advantage of a similar network 
+externality?  How do our bid/ask spreads compare to the alternatives 
+available to our competitors?  Do we stand willing to match our competitors 
+bid/offer?
+A final note:  I was curious to learn what you did to become so successful Is there a place where your biography or resume is posted 
+Thanks in advance,
+David Porter.
+Good morning, Kristin.  Your Dad would like to meet you today at Maggiano's 
+(located at 2019 S. Post Oak Blvd., 713.961.2700).  I'll make a reservation 
+for 12:00 noon - he'll be there then, and I know you'll probably be a few 
+minutes later than that.  Let me know if you want another plan.  SRS
+Hi, Kristin.  I guess we got our wires crossed last Friday about lunch Sorry about that.  He told me that you guys have rescheduled for tomorrow 
+(Tuesday) at 12:30 p.m. and that you will meet him there.  I'll make a 
+reservation at Carrabas on Kirby in your Dad's name at that time.  Please let 
+me know if you have a conflict.  Thanks, SRS
+PS - I also have you down for lunch with your Dad on Friday, November 10 - do 
+you have it down, too?
+THE COUNTDOWN IS ON! 
+The Associate & Analyst Website you have been waiting for is almost ready It is called AXIS and the official launch date is Monday, January 31, 2000.
+This AXIS site has everything you need in a user-friendly format.   Find it 
+at  axis.enron.com
+For Associates and Analysts:
+Available rotation information
+Business unit news and data
+Program events, activities and other members of the pool
+Online resume and profile repository
+Knowledge management events (eThink)
+Important forms to download ( expense reports, loan applications, etc.)
+For the Business Units:
+Search for Associate&Analyst talent using the Manager Toolbox
+Peruse qualifications  (resumes, career histories)
+Create and view rotation requests for your group
+Learn about A&A Program events and activities
+Participate in knowledge management events (eThink)
+We hope that everyone will utilize this outstanding website because it was 
+designed with both groups in mind.  We want the A&A members to know what is 
+available for them with regard to business unit news and rotation 
+information; and we want the business units to find the best match for their 
+professional needs.  Check out all the features and help evaluate the 
+content.  Let the Associate & Analyst Department know what you think and 
+offer any ideas or suggestions.  Your input will be invaluable.
+Thanks for the invitation, Mike, but I will be at a wedding the night of the 
+28th.  Sounds like a great party - I'm sorry I'll miss it!  Jeff
+Hi, Beek.
+I'm going through all of your e-mails to Jeff and am not able to find the 
+information on Elvis' party Friday night.  Someone had sent an attachment 
+with the details, but I was unable to open it.  Would you mind sending us the 
+"final" agenda for the festivities this weekend?  Jeff will arrive in Dallas 
++/- 4:00p Friday night and will be staying at the Crescent Court hotel Thanks so much!  SRS
+Jeff Skilling is unable to attend.
+,
+Sherri Sera
+Assistant to Jeff Skilling
+713.853.5984
+713.646.8381 (fax)
+sherri.sera@
+The attached expense report is approved for payment. 
+Jeff Skilling
+Attached is an expense report for Sherri Sera that requires approval.  Please 
+review, approve and forward to "expense reports."
+John, any chance you can sent this e-mail to me?  Apparently it has a 
+"confidential" stamp on it, so even though I have access to Jeff's mailbox, 
+it won't allow me to open it.  Unfortunately, Jeff does not check his own 
+e-mail, and if I go into his machine, I won't be able to print it as it is 
+not connected to any printer.
+Thanks, John.  I'll see that Jeff gets it as soon as it's received.  SRS
+John Sherriff@ECT
+11/06/2000 12:43 AM
+Ladies and Gentlemen,
+Thank you all for participating on the associate and analyst PRC committee I believe that the PRC process is the most important tool we have to evaluate 
+Enron's talent, and your role in the process is critical.  With the all 
+important year-end PRC quickly approaching, I'd like to spend a little time 
+with you sharing not only my philosophy on the process, but also talking 
+about the mechanics of the process.  There will also be time to answer any 
+questions you may have.
+To that end, please join me and Charlene Jackson for breakfast on Thursday, 
+November 30, at 8:30 a.m. in EB50M.  If you are unable to attend in person 
+and would like to participate by conference call, that can be arranged Please RSVP your attendance to Cheryl Kuehl at x3-9804.
+I look forward to seeing you on November 30, and again, many thanks for 
+spending your time on this critical process.
+Jeff
+Kathy, Mr. Jeff Skilling has an Enron meeting on November 30 that will 
+prevent his participation in the Houston Mentor Network Breakfast.
+Thank you, 
+Katherine Brown
+Kathy Nethercutt  > The Houston Technology Center would like to invite you to attend the fifth
+ meeting of the Houston Mentor Network on Thursday, November 30th.    We
+ will introduce eight of our Candidate Companies. After the introductions,
+ the Mentors and the Candidate Companies will be allowed time to network
+ and to find appropriate "mentor connections."

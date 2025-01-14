@@ -1,0 +1,1025 @@
+- TRS Oct 4 2001 CSFB Draft.doc  
+Can you please submit a new credit worksheet?  Thanks.
+Sara!
+We are ok with eliminating the CSA from the ISDA with Orlando Utilities Commission (OUC).  However, we would like to add an additional termination event, of debt rating change below A for OUC and BBB- for Enron Corp.
+Richard!
+In the absence of any margin rights, we will be monitoring trading activities with this counterparty more closely and this may result in certain transactions limitations. 
+Rudwell
+53596. 
+Maggie:
+I do have comments to this confirm.  I have never seen your ISDA Master Agreement ("Master") so you need to have your lawyer review some portions of it to eliminate the possibility of conflict 
+(1)	Is SunTrust the Calc Agent under your Master? Should they be agent for this deal?
+(2)	Need to upgrade definitions to 2000 Definitions (the 1991 and 1998 Definitions have been superseded!)
+(3)	Are you in agreement with the optional early termination language and all calculations being performed by SunTrust in the manner set out? There is no valuation or payment time/date for this termination or details for giving notice of intent to exercise the termination option.  This language is extremely vague but perhaps you do not mind.
+(4)	Do you have existing transactions with SunTrust on your books in addition to this one?
+(5)	Are there any Additional Termination Events under the Master?  You don't want to necessarily eliminate such events from occurring.  Also, it is not clear to me if this transaction or any other derivative transaction with SunTrust is "related to the Loan Agreement" for purposes of giving SunTrust the right to terminate.  Is it?
+(6)	Defining an "event" as either an "Event of Default" or a "Termination Event" has different settlement consequences.  It looks like you're not concerned as to how SunTrust values terminated Transactions if this deal is "related" to the Loan Agreement. I think part 2(d) would be clearer if stated as:
+"Additional Termination Event will apply.  The following shall constitute an Additional Termination Event with respect to the Counterparty: (cite events (i) and (ii) if accurate) .  For the purpose of the foregoing Termination Event, the Affected Party shall be the Counterparty."
+This means SunTrust will calculate as if you were in default.  Or do you want to calculate at mid?
+(6)	You should delete Par. 2(a).  I don't believe you have agreed to do this in the past (but perhaps you do not mind).  Your lawyer should review the impact of stating "This provision shall constitute an additional Agreement for the purpose of Section 4 of the Swap Agreement."
+(7)	Are the economics of the deal stated correctly?
+(8)	What Transaction(s) are being superseded?  Has anything from the initial deal been left out that should be retained?
+John, FYI
+Nora, If you could review the other provisions to make sure that they picked up our changes.
+Sara, Could you please give a general review?  If you are not the correct party (Jeff Nogid gave me your name), could you give me guidance as to who could assist?
+Thanks to everyone.
+Maggie -
+Attached is another revision of the swap confirm.  Ken wanted to make some
+clarifying changes to the copy we sent to you last week.  Sorry for the
+confusion and please feel free to give me a call to discuss.  If this is
+acceptable let me know and I will send a clean copy.  Thanks.
+Steve
+Per my voice mail
+Sara-
+We will prepare execution copies of the confirmations for the various
+transactions and send them to you.  Before we do that, though, do you know
+the status of the puts [Shackleton, Sara]   I never heard mention of the puts ?
+,
+Mike
+Maria and Michael:
+The form of confirmation of fine.  How would you like to handle
+execution of this transaction?  of remaining transactions?  Scheduling
+the VE discussion for later this week is also acceptable.  We look
+forward to hearing from you 
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+    David:  Actually, Jeff and I have eliminated the "agency" issue.  Jeff proposed that ENA transact directly with Cincinnati Gas & Electric Company (the A rated utility).  Sara
+Forwarded, as discussed.  I put a new call into Cinergy attorney Jeff Gollomp on this Friday Oct 5th.  Marcus Nettelton is assisting Woody on the specific ICAP term deal.  I understand that swaps attorney Sara Shackleton is currently trying to complete an ISDA with Cinergy as well, and is delving into agency issues wth them.
+Dear Jeff,
+Per David Portz's voice message to you yesterday, attached please find the Cover Sheet and Collateral Support Annex for the above referenced Agreement for your review.  Please don't hesitate to call either David at (713) 853-9239 or me at (713) 853-6389 if you have any questions.
+,
+Genia FitzGerald
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+Ed:  Do you want legal to do anything at this point? Sara
+Please review the following proposed outline of the credit lines for the proposed ISDA.
+Collateral Threshold (tied to S&P and Moody ratings, lower of 
+ConEd		Enron
+A+/A1 and above		$75,000,000	$60,000,000
+A, A-, A2, or A3			$60,000,000	$55,000,000
+BBB+, BBB, Baa1 or Baa2	$25,000,000	$50,000,000
+BBB- or Baa3			$5,000,000	$15,000,000
+Below BBB- or Baa3		$0		$0
+I am trying to set parameters which give ConEd the credit that it deserves as an A+ regulated utility and Enron the credit it warrants as a BBB+ energy marketer.  Given the different business profiles of our companies, I don't believe that the application of parity should be practiced with   to setting credit lines.  I think you would agree to this approach when looking at other market players, such as banks, municipalities, etc.  I hope we can come to agreement on the proposed credit lines, so that we can proceed with the negotiations of the ISDA.  Please call or reply with any comments or questions.
+,
+Ed Sacks
+Enron Corp.
+1400 Smith Street
+Houston, Texas 77002
+(713) 345-7712
+Stewart:
+Just wanted to chat quickly about the amendment we're sending to Merced.  The major changes are credit related:  raising our Threshold to $40million and their's to $8million and giving giving us a "regulatory out" for Merced's legal inability to collect rates to cover O&M.
+Whenever we prepare an amendment, we usually add other document "upgrades" (i.e., our form changes).  We have made some important changes since 1999.  I just wanted to alert you to these so that we don't "surprise" your customer.
+Give me a call if you have a chance.  Thanks.
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+Michelle:
+With respect to your setoff request, we cannot agree to eliminate setoff for your non-regulated affiliates.  Perhaps you could provide us with the regulated affiliate(s) for a carve out.  I look forward to hearing from you 
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+Sara -
+As per Marie's instructions, please find attached a blackline incorporating
+the changes that will be required to be made in the final form of ISDA
+(modifications to the Notice and Set-Off provisions).  The attached is the
+last version that I have but if the changes are acceptable, I would suggest
+that you take the changes and incorporate it into your form of agreement
+since it is the final version.
+Once reviewed, please let me know if the changes are acceptable - at which
+point you can forward to me a revised Schedule (without the signature page)
+via e-mail and I can have the agreement countersigned and replace the
+Schedule with your revised Schedule.
+Thank you for your patience.
+,
+Michelle
+- ENRON ISDA.REVISED 9.26.01.doc  
+Stewart:  Do you have Jeff Fuller's address?  Sara
+Stewart:
+Just wanted to chat quickly about the amendment we're sending to Merced.  The major changes are credit related:  raising our Threshold to $40million and their's to $8million and giving giving us a "regulatory out" for Merced's legal inability to collect rates to cover O&M.
+Whenever we prepare an amendment, we usually add other document "upgrades" (i.e., our form changes).  We have made some important changes since 1999.  I just wanted to alert you to these so that we don't "surprise" your customer.
+Give me a call if you have a chance.  Thanks.
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+Susan:  I left Merced on your chair.  I marked the First Amendment and supplied a cover letter.
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+I'll be offsite (the Woodlands) Thursday afternoon (10/11) and Friday (10/12).  The paralegals will be in the office.  My cell number is 713-705-1823.
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+Kim:
+Is the legal entity for PacificCorp:	PacificCorp Power Marketing, Inc.?  Is there only an entity for financial power 
+Thanks.  Sara
+Sara,
+See attached spreadsheet which shows the legal entity names by counterparty for each commodity.  Name differences between the commodities are highlighted in Blue.
+Kim Theriot
+Kim:
+I am reviewing the list of 20 target customers dated 9/14/01 in an effort to set up a document drafting timetable 
+For financial trading purposes, I need an accurate list of trading counterparties reflecting the complete name of each legal entity.  Also, if a company is split into more than one legal entity (such as power and gas) for financial trading purposes, I need the names of both entities.
+Thanks.
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+please see attached.
+if ok, please sign and fax back to 44 20 7774 0457.
+Sorry to not reply sooner - too many interruptions - see attached (I tried
+to track language in PB).  Sara
+(See attached file: Amendment to GSI TOBR1.doc)
+please let me know which provision of the terms of business you think
+should
+be amended in that way.
+Daniel:
+What about the limitation of liability language which you suggested
+could
+be similar to the PB agreement (your 9/20/01 email)?
+Sara
+Please see attached.
+Daniel:  With respect to the Terms of Business Letter, please email a
+copy
+of the proposed side letter (to handle arbitration and limitation of
+liability).  I just want to review the "final product".  We have all
+other
+documents ready for immediate execution.  Sorry for the delay and I
+appreciate your patience 
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+[mailto:IMCEANOTES-+22Harris+2C+20Daniel+22+20+3CDaniel+2EHarris+40gs+2Ecom+
+3E+40ENRON@]
+Sent:   Thursday, September 20, 2001 3:44 AM
+Sara
+Arbitration - we will agree to English courts as per the language
+amending
+the osla. I will prepare an amendment side letter.
+Limitation of Liability - this is our standard position. I propose
+the
+language agreeed to by you for the PB agreement.
+I trust this will now close the open issues.
+I look forward to hearing from you
+Kind  
+Daniel
+Daniel:
+Thank you for your response.  Unfortunately, the outstanding
+issues
+relating to the Terms of Business Letter impact our corporate
+policy.
+If
+you insist upon arbitration, it should be at either party's option
+and
+we
+can agree to arbitrate in accordance with the International
+Chamber
+of
+Commerce Rules.  Also, as you mentioned below, there may be
+non-prime
+brokerage issues that relate to the terms of business and,
+therefore,
+are
+not adequately addressed in the terms of business letter.  We do
+have
+other
+business relationships with GSI and again request inclusion of
+limitation
+of liability language in the terms of business letter.  I propose:
+"Neither party shall have any liability arising from this Letter
+or
+from
+any obligations which relate to this Letter for any indirect,
+special,
+punitive, exemplary, incidental or consequential loss or damage."
+Please reconsider the foregoing with explanation.  I will be out
+of
+the
+office 9/18/01 in the a.m.
+All remaining documents have been completed and we will have them
+executed
+together with the terms of business letter.
+.  Sara
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+[mailto:IMCEANOTES-+22Harris+2C+20Daniel+22+20+3CDaniel+2EHarris+40gs+2Ecom+
+3E+40ENRON@]
+Sent:   Tuesday, September 11, 2001 3:15 AM
+Sara
+The terms of business are GSI's general terms and span your
+relationship
+with GSI generally. There may be non-prime brokerage issues
+that
+relate
+to
+the terms of business. Not everything in the TOBs intersects
+with
+the
+PB
+relationship, certainly if you do other business with GSI.
+Re the liability provision, I think your concerns are
+adequately
+addressed
+in the documentation as drafted.
+I would be grateful if you would come back to me as soon as
+possible
+so
+we
+can try to get this wrapped up today.
+Kind  
+Daniel
+Daniel:
+Thanks for the message.  It seems to me that the terms of the
+PB
+conflict
+because J14 conflicts with A3, that is, (i)  J14 conflicts with
+Par.8
+requiring the conclusion that English courts will not apply to
+the
+Terms
+of
+Business agreement and (ii) A3 requires that English courts
+prevail.
+Are
+you agreeing with this analysis?
+Also, there is nothing in the Terms of Business agreement to
+conflict
+with
+the limitation of liability language of the PB applicable to
+the
+PB
+(except
+for silence on the matter).  You didn't address this point.  It
+is
+Enron
+Corp. policy to include such language and I would like to limit
+the
+Terms
+of Business in the same manner.
+Can you call me at 9 am Houston time on Tuesday, Sept. 11?  or
+suggest a
+different time?  I am not trying to belabor execution of the
+the
+remaining
+documents.
+Thanks.
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+[mailto:IMCEANOTES-+22Harris+2C+20Daniel+22+20+3CDaniel+2EHarris+40gs+2Ecom+
+3E+40ENRON@]
+Sent:   Monday, September 10, 2001 1:23 AM
+Sara
+Actually, I believe we resolved these when we spoke.
+Arbitration -
+more
+appropriate to general terms of business which principally
+contemplate
+the
+regulatory rules to which we are subject (SFA rules). In the
+event
+of
+inconsistency, the terms of the PB agreement govern (clause
+A3).
+I also amended the OSLA by side letter, which I sent over.
+Kind  
+Daniel
+Daniel:
+Thanks for finalizing the Prime Brokerage Agreement (the
+"Agreement")
+with my colleague Angela Davis.
+I have two points with respect to the Terms of Business
+Letter
+relating
+to the changes made to the Agreement which I believe we
+discussed
+but
+were not in a position to resolve at the time.  These are:
+(1)  Par. 8 Arbitration (which should conform to Clause J,
+Par.
+14
+of
+the Agreement).  I recall that we were discussing the
+possible
+use
+of
+arbitration in the Agreement (and existence of arbitration
+in
+the
+OSLA)
+so that we would not need to amend this particular paragraph
+of
+the
+Terms of Business Letter.  Since we ultimately agreed to
+English
+courts,
+I think we need to conform the Terms of Business Letter
+which
+will
+prevail if in conflict with the Agreement.
+(2)  Par. 8 Arbitration (which should be limited in the same
+manner
+as
+Clause J, Par. 11 as to limitation of liability).  I believe
+that
+you
+and Angela agreed to the revisions in the Agreement.  Why
+shouldn't
+these be mirrored in the Terms of Business Letter?
+I look forward to hearing from you and completing the rest
+of
+the
+account documentation 
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+- Amendment to TOBs.doc  
+- Amendment to TOBs.doc 
+Kathryn:
+The customers appearing on Kim's list have been assigned to various lawyers in the swap group.  There are 22 parties on the list and 16 of these parties have ISDA Master Agreements with ENA.  We will focus on the ISDA customers first.  We will use the template developed by Brent for Entergy-Koch as a basis for the 16 parties.  The template will be customized for each of the 16 parties.  Brent has a preliminary template underway and it should be further refined by October 19.  Using that  template, our goal is to produce six (6) new amendments each week.  We should finish the ISDA customers in about three weeks (first drafts).  The remaining customers have no master agreement in place or an ECT Master Agreement.  Those six (6) customers include:
+Sempra Energy Trading Corp. (old master)
+Morgan Stanley Capital Group Inc. (old master)
+Dynegy Marketing and Trade (old master)
+Ameren Energy (none)
+American Electric Service Power Corporation (none)
+PacificCorp Power Marketing Inc. (under negotiation with ECC)
+The physical power group can coordinate the amendments with the members of the swap group listed above by forwarding drafts to us.
+Please let me know if you have further questions.  Thanks.  Sara
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+Sara:
+I have followed up with Brent and he is working on the Entergy-Koch amendment for CommodityLogic.  He cannot commit to a completion date at this time since he has some other priorities.  I've asked for Friday and he has indicated that may be aggressive.  The sales team is presenting Entergy-Koch the CommodityLogic legal agreements today (ESA, Password application, Subscription Agreement).  In light of this, can you provide a status of where the other 18 customer amendments are (excluding Sempra and Entergy-Koch) ?  The Sales process is moving along and we will need to have these amendments ready to present to the customer soon.  Could you go through the list and provide an estimate date of when a draft of the amendment would be available by client.  We need to provide a status to management on Monday 10/8 
+Per our conversation today, if there is a way to focus on the creation of a template that addresses the confirmation exchange via electronic systems (e.g. ConfirmLogic) that can be shared earlier with the clients.  The additional language that is deemed necessary can be added to this form as needed per counterparty.  This will allow us to achieve getting something to the client so they can start the process from their side while we continue to shore up what language needs to be added.  We still need to be thinking of how to keep this process simple to allow quick turnaround yet satisfy the legal requirements for confirmations.  I ask that you and Leslie continue to help define a better process for us and I will continue to work with Kim and the sales team to implement this process.
+Thanks for your help
+Kathryn
+Sara,
+See attached spreadsheet which shows the legal entity names by counterparty for each commodity.  Name differences between the commodities are highlighted in Blue.
+Kim Theriot
+Kim:
+I am reviewing the list of 20 target customers dated 9/14/01 in an effort to set up a document drafting timetable 
+For financial trading purposes, I need an accurate list of trading counterparties reflecting the complete name of each legal entity.  Also, if a company is split into more than one legal entity (such as power and gas) for financial trading purposes, I need the names of both entities.
+Thanks.
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+Gil:  Please include me on the distribution list for executed confirms and other agreements which to which ENA is a party 
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+I have a meeting in a few minutes. Can we reschedule for later today or early tomorrow?
+My cell is 713-705-1823.
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+Thresa:
+Just FYI, the items below are requests of all brokers and ENA/ECT Investments, Inc. provide our own format (i.e., we do not use the broker's format).
+Please forward the agreement when you receive.  Thanks.  Sara
+Sara,
+We are looking to restart the process of  establishing an executing broker agreement with Keefe, Bruyette & Woods.  We had temporarily put this on hold due to the WTC attack.  We have been given a new contact.  Sheila had previously already sent the memo to authorize going forward with the process.  Below are their requirements for account set up:
+1.  Corporate Resolution
+2.  Trading Authorization
+3.  Settlement Instructions.
+I am trying to get them to fax me their broker agreement.  As soon as I receive some documentation, I will forward to you 
+Thanks,
+Theresa
+FYI Allegheny status - Sara
+Sara -
+I am checking internally if we can agree to the below.  I will get back to
+you in the beginning of next week.
+,
+Michelle
+Allegheny Energy Global Markets
+Office of General Counsel
+909 Third Avenue, 32nd Floor
+New York, New York 10022
+(T) 212-224-8718
+(F) 212-224-8446/8711
+Michelle:
+With respect to your setoff request, we cannot agree to eliminate setoff
+for your non-regulated affiliates.  Perhaps you could provide us with the
+regulated affiliate(s) for a carve out.  I look forward to hearing from
+you 
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+[mailto:IMCEANOTES-+22Sternberg+2C+20Michelle+22+20+3CMSternberg+40aeglobalm
+arkets+2Ecom+3E+40ENRON@]
+Sent:   Wednesday, September 26, 2001 11:14 AM
+Sara -
+As per Marie's instructions, please find attached a blackline
+incorporating
+the changes that will be required to be made in the final form of ISDA
+(modifications to the Notice and Set-Off provisions).  The attached is
+the
+last version that I have but if the changes are acceptable, I would
+suggest
+that you take the changes and incorporate it into your form of agreement
+since it is the final version.
+Once reviewed, please let me know if the changes are acceptable - at
+which
+point you can forward to me a revised Schedule (without the signature
+page)
+via e-mail and I can have the agreement countersigned and replace the
+Schedule with your revised Schedule.
+Thank you for your patience.
+Michelle
+- ENRON ISDA.REVISED 9.26.01.doc << File: ENRON ISDA.REVISED
+9.26.01.doc 
+Laurel:  I'm free this morning.  SS
+Sara,
+Can we get together for an hour or so to discuss:
+1.  Multi Branch counterparties--we need to be certain we are covered by Master's for all of this trading.
+2.  Training on the ISDA definitions.  I've pulled some confirms together for a group review.  I'd like to get together with you to go over where I see our weaknesses 
+Hope the legal conference was fun.  Give me a call and let's set up a time.  thanks!!
+FYI - I have not received any forwards or puts from CSFB.  Have you heard anything further?  Sara
+We provided CSFB puts just like Lehman.  We did that the last time we had to move the trigger price since our stock price was declining.  As a result of us giving them puts, they took the trigger price out which means that we don't have to renegotiate the confirms every time our stock heads south.  Jeff, would you please get the details of the puts to Sara.  Thanks.
+CF
+Per my voice mail
+Sara-
+We will prepare execution copies of the confirmations for the various
+transactions and send them to you.  Before we do that, though, do you know
+the status of the puts [Shackleton, Sara]   I never heard mention of the puts ?
+,
+Mike
+Maria and Michael:
+The form of confirmation of fine.  How would you like to handle
+execution of this transaction?  of remaining transactions?  Scheduling
+the VE discussion for later this week is also acceptable.  We look
+forward to hearing from you 
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+    Kim:
+Just giving you the heads up about a derivatives trade being documented by Gil Melman who is a lawyer with Enron Principal Investments.  Gil has negotiated a deemed ISDA with Bear and the trade has not been run through or documented by a desk.  You may want to contact him for a copy of the trade.  Sara
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+Kim:
+Legal and credit have never responded on this one since there was no activity.  We will have to do a comparison of the CP form.  We also need credit since nothing has happened since 1999.
+Can you resend the email version which Salt River sent to you?
+Jay and/or Tracy:  Who will prepare credit?
+Thanks.  Sara
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+Sara,
+Mark Russell of Salt River Project sent me their ISDA documents last week.  Can we take a look at them and make the changes we would like to incorporate?  He called this morning and they are considering financial transactions with us.  Please give me a call and let me know where we stand with this when you get a chance.  If I should send it on to some one else.  Please let me know that as well.
+Thanks,
+Kim
+I would like to begin working on an ISDA, I have attached our standard form
+schedule and CSA for your review.  I think this is a good window of
+opportunity.
+Mark,
+The best person to talk to about the ISDA is me.  I discussed an ISDA with
+Tim Roberts when I was in the Salt River offices on March 23rd.  A draft
+ISDA was sent to Bill Abraham on November 17, 1999.  I requested for a new
+legal review on 3/28/01.  Let me know if you need a new draft and I can
+send you or Tim a copy.  My number is 713-853-0685.
+Thanks for your inquiry -
+Kim Ward
+marussel@srpnet.com on 04/05/2001 08:20:15 AM
+I have been trying to get an ISDA going with Enron for several months. Who
+is the best contact to call?
+Kent,
+Attached is a draft copy of our Master Purchase/Sale Agreement for physical
+natural gas transactions.  As I mentioned before, we can enter into
+transactions for less that one year out.  However, for those outside of a
+year and for longer terms, we need to have a master in place.  Hopefully,
+we can get this one in place so that we will be prepared when/if we get
+ready to transact.
+Let me know if you have any questions.  I will have our legal guys standing
+by to help, too.
+Thanks,
+Kim Ward
+(See attached file: Master_NG_draft_contract.doc)
+(See attached file: Master_NG_draft_contract.doc)
+- 070301.sample Paragraph13 credit annex isda.doc   - 062701.sample isda schedule.doc  
+Tammy:
+Your redraft is fine with two exceptions:
+(1)  We need to define "business day"  which is used throughout the agreement and is never defined.  I propose capitalizing the term throughtout your document and using the ISDA definiton or one which recognizes those days on which banks are open in NY and Houston.
+(2)  ENA cannot agree to arbitrate before the National Futures Association and you are no longer required to use that forum for arbitration. The situs is fine. I would like to again suggest the language which I originally proposed.  If we cannot agree, can we be silent as to jurisdiction?
+Please let me hear form you.
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+Sara,
+I'm attaching a draft of the futures agreement to "get the ball rolling"
+again.  I believe I have included the terms you indicated were most
+important.  One item I would like to bring to your attention is the
+arbitration clause.  Morgan Stanley prefers to litigate disputes, but I
+can agree to NFA arbitration rather than litigation.  I know New York is
+our preferred location, and Texas is yours, so I thought that holding
+the arbitration in Chicago might equally inconvenience us.   Please let
+me know if this works for you.
+,
+Tammy
+- 1_Redline Enron Cust Agr.doc  
+Clint:
+I have reviewed the three forwards and two puts.
+Please verify all economics including notional, pricing, transaction fees, share caps, no. options, trade and expiration dates, etc.
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+Gil:  I left you a voice mail earlier.  I'm concerned about the definition of "Specified Transaction".  As drafted, I read this as cross defaulting to all other derivative trades between ENA and BSIL, as well as ENE and BSIL.  I don't know if we have any on the books or will enter into any prior to termination of your trades, but the same will be impacted unless you limit the Section 14 definition to your trades only.
+Attached is the close to final documentation evidencing the 2 trades we've just made with Bear Stearns International. We anticipate signing these either later today or tomorrow.
+Gil:
+Please see the revised documentation.
+Thank you.
+Ilene
+Russ:
+The forwards and puts should be signed and faxed back to Lehman.  Please note the template for these trades (with respect to the definition of "material") left out the word "into".  I didn't find it necessary to impede Enron Corp.'s signature; just let Phil know for the next deal.  Thanks.  Sara
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+Here it is, Sara.
+Tim - we are comfortable with the changes to the definition of "material"
+given that Lehman is not entering the market as a result of "rolling" the
+transaction.  Should we amend the transaction in or enter in any future
+transaction where we enter the market on behalf of ENE, we would require the
+"standard" definition of "material.
+Mike Ladas
+p.201-524-2279
+c.646.319.3220
+e.mladas@lehman.com
+Tanya:
+Is there a way to identify outstanding financial/physical positions with respect to these products?
+I'd like to cross check to see which counterparties have sent termination notices.
+I've already spoken to Bob who will compile his list for me to track.
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+Our friend is calling. I refuse to take his calls.
+When you want to take a break, let's recp on:
+GS&C (position assignment)
+CSFB
+the one you just did (Morgan or Bear, I don't know!)
+Thanks.
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+Mark:
+Can't these go into the rotation?
+Sara
+Sara,
+Please advise if you are still the lawyer who reviews RMT masters, when requested for preparation.
+If so, Legal has been requested to prepare an ISDA between RMT and Enron Japan Corp., which shall support their FX transactions.
+Let me know, so I can pass this draft on to you for review.
+Thanks.
+Cordially, 
+Susan S. Bailey
+Dear Sara,
+I am attaching the long form confirm re a deal which we did yesterday  - small, but our office's first yen based crude transaction 
+The yen-USD forex however was done through ENA and needs to be documented.  ENA will also be providing these services to EJ (through our metals desk) moving forward so we need a master agreement in place 
+Alan suggested you may be able to assist with a form of document that would work in this situation.  The only requirement from EJ's perspective is that it be effective from yesterday, Oct 11, 2001 
+If you need more information about the forex arrangements we have with ENA, Sheila / Jan Erland may be able to assist.
+Otherwise, if you were able to get a draft together, I will run it by Susan Musch and Jan-Erland, and get it signed up.
+Thanks Sara.
+Jane McBride
+Ps. I didn't make it to the GM Legal Conference this time but hope it went well and to see you in May.
+Diane:  Thanks for your help.  Check out the Floating Price language.  Sara
+Dear Sara,
+I am attaching the long form confirm re a deal which we did yesterday  - small, but our office's first yen based crude transaction 
+The yen-USD forex however was done through ENA and needs to be documented.  ENA will also be providing these services to EJ (through our metals desk) moving forward so we need a master agreement in place 
+Alan suggested you may be able to assist with a form of document that would work in this situation.  The only requirement from EJ's perspective is that it be effective from yesterday, Oct 11, 2001 
+If you need more information about the forex arrangements we have with ENA, Sheila / Jan Erland may be able to assist.
+Otherwise, if you were able to get a draft together, I will run it by Susan Musch and Jan-Erland, and get it signed up.
+Thanks Sara.
+Jane McBride
+Ps. I didn't make it to the GM Legal Conference this time but hope it went well and to see you in May.
+Please forward your email to the RAC group requesting the opening of this account.  Thanks.  Sara
+This is the primebroker agreement that we need to fill out for CSFB.  They are holding two trades hostage so this is a priority for us.  Please let me know if you require any further information.
+Tom
+    Please forward your email to the RAC group requesting the opening of this account.  Thanks. Sara
+I have another one for you guys.  I do not anticipate any urgency on this, but would still like it out of the way.
+Thanks,
+Tom
+Mr. Doukas:
+On September 27, we opened a prime brokerage account in the name Enron
+Credit Inc. Bear Stearns is acting as Prime Broker on this account, and
+First Union Securities, Inc. is executing your securities. The SEC requires
+the Clearing Broker (us) to have the attached agreement on file for our
+prime brokerage clients.
+If you would be so kind as to have this agreement signed, I would greatly
+appreciate it. If you have any questions, you can call me at 704-593-7024.
+Once it is completed, it can be faxed back to my attention at 704-593-7032.
+Thank you and 
+Regan Grice
+First Union Capital Markets, Documentation
+Phone: 1-800-735-1470 or 704-593-7278
+Fax: 704-593-7032
+Tom:
+We would like to use the same format which was agreed to by ENA and CSFB.  That agreement was sent for execution on July 6, 2001 and we have never received an executed version.
+Please feel free to contact Scott Kreuzinger (phone is 617-556-5730 or fax is 617-542-1814) to ensure that ENA has executed docs which can also be duplicated for ECI.  Perhaps your contact at CSFB can assist.  Scott Kreuzinger was ENA's contact for having docs executed.
+We have been unable to extract any response from Scott Kreuzinger.
+Thanks.
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+Cassandra:
+Just checking to make sure you were aware that currency swaps are being executed between the above Enron offices.
+I came across this issue in connection with a crude trade I'm looking at for Enron Japan Corp.
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+Susan:
+I'll continue to review the RMT masters and these should be included in the attorney rotation which Mark should mention at our swap meeting.
+Let's discuss the recent changes to the form.
+Sara
+Sara,
+Please advise if you are still the lawyer who reviews RMT masters, when requested for preparation.
+If so, Legal has been requested to prepare an ISDA between RMT and Enron Japan Corp., which shall support their FX transactions.
+Let me know, so I can pass this draft on to you for review.
+Thanks.
+Cordially, 
+Susan S. Bailey
+Sheila:
+Can you please forward Rob Manders' fax number?  I don't have an electronic version of the futures agreement to mark so I will need to fax comments.  Thanks.  Sara
+Sara,
+The contact for Deutsche is Rob Manders (number and e-mail below) and Barbara Russo, who was listed on the form sent to you on 10/9.
+Thanks. Sheila	
+Clara and Kimberly,
+I just spoke with Rob at Deutche and suggested that Clara be on the call that is being arranged for next week.
+Thanks,
+Sheila
+Dear Sheila,
+I left you a voice mail this afternoon with   to establishing an execution and clearing relationship for exchange traded futures and options. At the request of Shane Dallman and Aaron Armstrong in London, I have quoted rates for all relevant exchange traded products. They have expressed an interest in using Deutsche Bank for their futures trading so that we are arranging to have documentation drafted and sent to Houston as soon as possible.
+I have asked one of my colleagues, Rob Manders, to contact you to establish the names of the legal entities that should be on the contracts, and the name and address of the person/people to whom all documentation should be sent. Rob will be coordinating all the documentation and will assure that your operations department is happy with the service that Deutsche Bank will offer. To that end, he has organised a video conference with Kimberley Hopley in London and Jason Fisher in Houston for the week of 8th October.
+I hope that these arrangements meet with your approval. Should you have any questions, please feel free to call me on 44 207 547 3486. Equally, you can reach Rob Manders on 44 207 545 2005.
+,
+Kelly McKenney
+Phone 020 7547 3486
+Fax 020 7545 2327
+Email: Kelly.McKenney@db.com
+--
+This e-mail may contain confidential and/or privileged information. If you are not the intended recipient (or have received this e-mail in error) please notify the sender immediately and destroy this e-mail. Any unauthorized copying, disclosure or distribution of the material in this e-mail is strictly forbidden.
+Sheila:
+Just a few notes from the Agreement:
+(1)	Par. 2(d) - DBAB will use its "reasonable judgment" to value securities or other assets posted as margin
+(2)	Par. 2(e) - DBAB will use its then current rates of exchange for any currency conversions (probably not applicable to ENA)
+(3)	Par. 3     - Have we agreed to commissions and brokerage charges?  These are to be agreed "from time to time"
+(4)	Par. 5     - Position Limits:  ENA must promptly notify DBAB if ENA is required to file position reports.  Can you explain, please?
+(5)	Par. 7(b) - Not sure why we're being asked to make this rep.  What is ENA's relationship to the Enron FCM these days?
+(6)	Par. 9(a) - Trader changes binding on DBAB upon receipt of written confirmation
+(7)	Par. 9(d) - verify binding nature of trades
+Thanks.  Sara  
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+FYI - Cassandra Schultz is in RAC (not "Shorter")
+Unfortunately CSFB claims to be unable to locate the ENA document.  If we can use our copy they will accept our changes to the ECI document.  We should send both the ENA and the ECI docs so they can compare quickly and avoid additional delays.
+This account should be opened asap.  Tom, I assume as per our conversation, that you have obtained the account documentation required and it matches the agreements that have been previously signed, only changing the name of the entity and tax ID number.  All accounts that are used for trading by the debt traders should be changed to Enron Credit Inc.  If I can provide any assistance, please advise.  Donna Lowry, RAC Compliance
+Please also approve the account below.  This is top urgent
+Please forward your email to the RAC group requesting the opening of this account.  Thanks.  Sara
+This is the primebroker agreement that we need to fill out for CSFB.  They are holding two trades hostage so this is a priority for us.  Please let me know if you require any further information.
+Tom
+    Here it is!  Thanks.
+Dear Sara,
+I am attaching the long form confirm re a deal which we did yesterday  - small, but our office's first yen based crude transaction 
+The yen-USD forex however was done through ENA and needs to be documented.  ENA will also be providing these services to EJ (through our metals desk) moving forward so we need a master agreement in place 
+Alan suggested you may be able to assist with a form of document that would work in this situation.  The only requirement from EJ's perspective is that it be effective from yesterday, Oct 11, 2001 
+If you need more information about the forex arrangements we have with ENA, Sheila / Jan Erland may be able to assist.
+Otherwise, if you were able to get a draft together, I will run it by Susan Musch and Jan-Erland, and get it signed up.
+Thanks Sara.
+Jane McBride
+Ps. I didn't make it to the GM Legal Conference this time but hope it went well and to see you in May.
+Tracy:
+Let me know what you think.  I'll check with a lawyer from the physical power group.  Also, we should at a minimum, preserve setoff with respect to ENA's affiliates.  Sara
+Sara -
+I have spoken with our in-house regulatory specialist and she has informed
+me that we cannot agree to include our regulated or non-regulated Affiliates
+in Set Off under the Public Utility Holding Company Act without getting
+approval from the SEC.
+Please advise if we can proceed on the ISDA with carving out Affiliates in
+Set Off, as per our original request.
+,
+Michelle
+Allegheny Energy Global Markets
+Office of General Counsel
+909 Third Avenue, 32nd Floor
+New York, New York 10022
+(T) 212-224-8718
+(F) 212-224-8446/8711
+Sara -
+I am checking internally if we can agree to the below.  I will get back to
+you in the beginning of next week.
+,
+Michelle
+Allegheny Energy Global Markets
+Office of General Counsel
+909 Third Avenue, 32nd Floor
+New York, New York 10022
+(T) 212-224-8718
+(F) 212-224-8446/8711
+Michelle:
+With respect to your setoff request, we cannot agree to eliminate setoff
+for your non-regulated affiliates.  Perhaps you could provide us with the
+regulated affiliate(s) for a carve out.  I look forward to hearing from
+you 
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+[mailto:IMCEANOTES-+22Sternberg+2C+20Michelle+22+20+3CMSternberg+40aeglobalm
+arkets+2Ecom+3E+40ENRON@]
+Sent:   Wednesday, September 26, 2001 11:14 AM
+Sara -
+As per Marie's instructions, please find attached a blackline
+incorporating
+the changes that will be required to be made in the final form of ISDA
+(modifications to the Notice and Set-Off provisions).  The attached is
+the
+last version that I have but if the changes are acceptable, I would
+suggest
+that you take the changes and incorporate it into your form of agreement
+since it is the final version.
+Once reviewed, please let me know if the changes are acceptable - at
+which
+point you can forward to me a revised Schedule (without the signature
+page)
+via e-mail and I can have the agreement countersigned and replace the
+Schedule with your revised Schedule.
+Thank you for your patience.
+Michelle
+- ENRON ISDA.REVISED 9.26.01.doc << File: ENRON ISDA.REVISED
+9.26.01.doc 
+attached is my updated list
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+Sara,
+I called Scott with no answer.  My contact does not know who he is, but suggested you could send the ECI and ENA agreements to her and she would ensure both were put in place with her legal and compliance people.
+You can send the completed agreements to:
+Kelly Keneally
+11 Madison Ave, 5th Floor
+NY, NY 10010
+Phone: 212/538-5581
+Fax: 212/538-4057
+Please advise me when you send the documents out so I can ensure they are dealt with properly.
+Thanks,
+Tom
+Tom:
+We would like to use the same format which was agreed to by ENA and CSFB.  That agreement was sent for execution on July 6, 2001 and we have never received an executed version.
+Please feel free to contact Scott Kreuzinger (phone is 617-556-5730 or fax is 617-542-1814) to ensure that ENA has executed docs which can also be duplicated for ECI.  Perhaps your contact at CSFB can assist.  Scott Kreuzinger was ENA's contact for having docs executed.
+We have been unable to extract any response from Scott Kreuzinger.
+Thanks.
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+Mark:
+The ISDA Best Practices Statement did not address OPIS [or ARGUS] as our proposal did.
+But for those indexes being at issue, I have a record of the following parties having requested use of the ISDA methodology:
+The Chase Manhattan Bank
+Glencore Ltd.
+Hess Energy Trading Company
+Societe Generale
+Koch Petroleum Group LP
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+Jane:
+Jane:
+I wanted to give you the benefit of some of my thoughts before I considered your Annex A which I would like to compare to the ENA current version.  We are currently considering more revisions so your Annex A will help me to think a bit.
+I have attached a redline of the actual confirm (without Annex A).  A couple of thoughts:
+(1)	for purposes of creating a "template", I gave a choice for Termination Date
+(2)	I collapsed Payment Date/Invoice because I'm concerned that EJC may forget to send a timely invoice so we need to ensure that there is no issue about whether or not a payment is owed
+(3)	We need to "fix" the Floating Price language.  I don't know where the reference to "North Sea, West Africa, Mediterranean" comes from.  I didn't see it in Marketwire and London doesn't use it.  Also, the conversion language is vague (i.e., TTM, TTB and TTS are not defined but I suspect they refer to bid/mid/sell?  Are they references on the Bank of Tokyo-Mitsubishi, Ltd. screen?).  Also, it may be better to create a conversion reference to your Central Bank and not a particular banking institution (you could get caught later dealing with that bank, using the conversion language and then giving the bank an unfair advantage).
+(4)	I didn't see your Schedule 1 guarantee but I assume that it is the normal ENE format. 
+Regarding Annex A, I quickly noticed an issue with the "TIBOR" definition (which uses quite a bit of ISDA language) which can be easily fixed with an appropriate ISDA reference.  Give me another day or so to comment.
+Let me know if you'd like to talk.  My home number is 713-664-3207 if you'd like to call.
+.  Sara
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+I am attaching the long form confirm re a deal which we did yesterday  - small, but our office's first yen based crude transaction 
+The yen-USD forex however was done through ENA and needs to be documented.  ENA will also be providing these services to EJ (through our metals desk) moving forward so we need a master agreement in place 
+Alan suggested you may be able to assist with a form of document that would work in this situation.  The only requirement from EJ's perspective is that it be effective from yesterday, Oct 11, 2001 
+If you need more information about the forex arrangements we have with ENA, Sheila / Jan Erland may be able to assist.
+Otherwise, if you were able to get a draft together, I will run it by Susan Musch and Jan-Erland, and get it signed up.
+Thanks Sara.
+Jane McBride
+Ps. I didn't make it to the GM Legal Conference this time but hope it went well and to see you in May.
+fyi - am speaking with an inhouse PUHCA lawyer
+Sara -
+I spoke with Yair about your suggestion to have a "unilateral" approach to
+include Affiliates for yourselves but not for us since we are restricted by
+PUHCA (as explained by Anthony Wilson, our in house regulatory attorney) and
+he is inclined to not agree to your request (our approach is either if
+applied to both of us or neither of us).
+Let me know if you need to discuss this further - in which case we will get
+on a call (Yair, you and myself) to discuss.
+,
+Michelle
+Sara -
+I have spoken with our in-house regulatory specialist and she has informed
+me that we cannot agree to include our regulated or non-regulated Affiliates
+in Set Off under the Public Utility Holding Company Act without getting
+approval from the SEC.
+Please advise if we can proceed on the ISDA with carving out Affiliates in
+Set Off, as per our original request.
+,
+Michelle
+Allegheny Energy Global Markets
+Office of General Counsel
+909 Third Avenue, 32nd Floor
+New York, New York 10022
+(T) 212-224-8718
+(F) 212-224-8446/8711
+Sara -
+I am checking internally if we can agree to the below.  I will get back to
+you in the beginning of next week.
+,
+Michelle
+Allegheny Energy Global Markets
+Office of General Counsel
+909 Third Avenue, 32nd Floor
+New York, New York 10022
+(T) 212-224-8718
+(F) 212-224-8446/8711
+Michelle:
+With respect to your setoff request, we cannot agree to eliminate setoff
+for your non-regulated affiliates.  Perhaps you could provide us with the
+regulated affiliate(s) for a carve out.  I look forward to hearing from
+you 
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+[mailto:IMCEANOTES-+22Sternberg+2C+20Michelle+22+20+3CMSternberg+40aeglobalm
+arkets+2Ecom+3E+40ENRON@]
+Sent:   Wednesday, September 26, 2001 11:14 AM
+Sara -
+As per Marie's instructions, please find attached a blackline
+incorporating
+the changes that will be required to be made in the final form of ISDA
+(modifications to the Notice and Set-Off provisions).  The attached is
+the
+last version that I have but if the changes are acceptable, I would
+suggest
+that you take the changes and incorporate it into your form of agreement
+since it is the final version.
+Once reviewed, please let me know if the changes are acceptable - at
+which
+point you can forward to me a revised Schedule (without the signature
+page)
+via e-mail and I can have the agreement countersigned and replace the
+Schedule with your revised Schedule.
+Thank you for your patience.
+Michelle
+- ENRON ISDA.REVISED 9.26.01.doc << File: ENRON ISDA.REVISED
+9.26.01.doc 
+Jeff:  fyi the CSFB foul up
+Unfortunately CSFB claims to be unable to locate the ENA document.  If we can use our copy they will accept our changes to the ECI document.  We should send both the ENA and the ECI docs so they can compare quickly and avoid additional delays.
+This account should be opened asap.  Tom, I assume as per our conversation, that you have obtained the account documentation required and it matches the agreements that have been previously signed, only changing the name of the entity and tax ID number.  All accounts that are used for trading by the debt traders should be changed to Enron Credit Inc.  If I can provide any assistance, please advise.  Donna Lowry, RAC Compliance
+Please also approve the account below.  This is top urgent
+Please forward your email to the RAC group requesting the opening of this account.  Thanks.  Sara
+This is the primebroker agreement that we need to fill out for CSFB.  They are holding two trades hostage so this is a priority for us.  Please let me know if you require any further information.
+Tom
+    Sorry I had to cut you off, only another emergency!
+Sara Shackleton
+3915 Coleridge
+Houston, TX  77005
+713- 664-3207 (home)
+713-705-1823 (cel)
+sshackl@swbell.net
+Please send yours!  I do not want to lose contact 
+Sarah Soong
+319 West Drew
+Houston, TX 77006
+713-526-3864
+ssoong1@houston.rr.com
+I'm here for the moment
+Virginia Hodge
+Vice President - Investments
+UBS Painewebber Inc.
+1111 Bagby St., Suite 5100
+Houston,  TX 77002
+713-654-4710
+800-553-3119
+713-654-1281 fax
+virginia.hodge@ubspainewebber.com
+Notice Regarding Entry of Orders and Instructions:
+Please do not transmit orders and/or instructions
+regarding your UBSPaineWebber account(s) by e-mail.
+Orders and/or instructions transmitted by e-mail will
+not be accepted by UBSPaineWebber and UBSPaineWebber
+will not be responsible for carrying out such orders
+and/or instructions.
+Notice Regarding Confirmation:
+Please be advised that this e-mail is not an official
+transaction confirmation. The only official confirmation
+of a transaction will be sent to you via regular mail.
+Notice Regarding Privacy and Confidentiality:
+UBSPaineWebber reserves the right to monitor and
+review the content of all e-mail communications sent
+and/or received by its employees.
+Tammy:
+Thanks for the quick response.  Your "business day" suggestion is fine.  With respect to your second comment, ENA agrees to AAA arbitration in all phases of its physical and financial business.  We are not a clearing member of any exchange so we do not seek arbitration before a regulatory board.  Hope this helps.  Sara
+Sara,
+For the purposes of margin, defining a business day as those days on which banks are open in NY and Houston will work.  For the purposes of error notification, we should remove "business day" and insert something along the lines of "market day" and define "market day" as any day that the market on which the contract traded is open.  There are a few days the markets are open but the banks are closed.   Will that work for you?
+Both Morgan Stanley and Enron are registered with the NFA.  Is there a specific reason you can't agree to NFA arbitration?
+,
+Tammy
+"Shackleton, Sara" wrote:
+ Tammy:

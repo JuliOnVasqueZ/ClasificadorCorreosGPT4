@@ -1,0 +1,302 @@
+Francis X. Diebold
+WP Carey Professor of Economics
+Professor of Finance and Statistics
+Department of Economics
+University of Pennsylvania
+3718 Locust Walk
+Philadelphia, PA 19104-6297
+fdiebold@sas.upenn.edu
+(215) 898-1507  telephone
+(215) 573-4217  fax
+Sorry it took me so long to email this to you.  My computer locked up and I had to get the Resolution Center to fix it 
+Rakesh is staying at the Toronto Hilton - 1-416-869-3456; Sherri is with him and her cell phone number is 832-725-5529
+I do not have any numbers for the conference itself.  Let me know if you need anything else.
+,
+Anita DuPont
+Enron Research Group
+713-853-0329
+EB 1969
+Christie,
+The schedule for Monday is already full but I shall try to work around it.
+I shall call Tom's office if a window opens up on Monday. I assume
+3pm is EST.
+Vince
+Hi Vince,
+Just FYI, I'll be at Wharton Monday afternoon to meet with Tom Piazze and Donna Piazze, Monday evening for recruiting reception and then Tuesday to help interview.  I arranged to meet Monday with Tom Piazze at 3pm and Donna Piazze at 4pm.  Do you want to be included by telephone for the 3 and 4 pm meetings??  If you'd like, we can call your office from Tom Piazze's office.
+Let me know and travel safely!!
+!
+--Christie.
+Hello Christie,
+I am in Argentina and Brazil this week.
+I shall call you on my return.
+Vince
+Rick,
+I shall be honored to serve on the Advisory Board of the MSCF.
+Also, I shall be able to join you on Wednesday, December 12 for the 
+first meeting.
+A more formal letter of acceptance will follow.
+Vince
+Vince,
+I am pleased to hear you will be returning to MSCF this year, participating
+in the Speaker Series on December 7.   Enron has a tremendous reputation in
+quantitative finance circles and your obvious interest in our students is
+deeply appreciated.  I know, too, our students are very much looking forward
+to your visit.
+On a separate but definitely related matter, would you consider serving on
+our Advisory Board?   You will note our present membership
+(  reflects no representation
+from an energy firm.  I speak on behalf of the MSCF Steering Committee in
+expressing our hope that you would be willing to correct this!
+The Advisory Board meets once a year, usually in the late fall in New York.
+Its six (or so) members serve for a three year term.  Enron's participation
+on the MSCF Board would allow you to influence the direction of the program
+to the advantage of the energy companies and give you access to a "first
+look" at the "MSCF Resume Book."  From our standpoint, your experience and
+counsel would be of tremendous benefit to us as we consider challenges and
+opportunities in the MSCF program in the years ahead.
+Our 2001 meeting is scheduled for Wednesday, Dec. 12 in mid-town Manhattan.
+Would you be willing join us?
+Rick
+Mr. Richard L. Bryant
+Director, Computational Finance Program
+Graduate School of Industrial Administration
+Carnegie Mellon University
+Pittsburgh, PA 15213
+(412) 268-4592/(412) 268-6837 (fax)
+rlbryant@andrew.cmu.edu
+Ted,
+My budget does not anticipate currently any expansion.
+I shall be hiring only in the case of attrition but in such
+case I shall seek to replace very specific skills.
+Please, give me a call at your convenience and we can
+discuss other options (713) 853 3848.
+Vince
+Vince,
+Steve Leppard suggested that I contact you about the possibility of a position in Houston. I worked as an analyst under Steve in London's Metal Analytics group. I was planning on returning to the States before they announced the redundancies in Europe, and the redundancy program made a move back to Houston all the more appealing. I am a first-year analyst with a statistics background, and I would be very interested in working for Enron in Houston. 
+Steve has told me that he would be happy to give me a recommendation. If you know of a position which might be suitable, I would be very happy to speak to you at your convenience.
+Thank you in advance for your consideration. 
+Ted Barlow
+Martin, Lance
+What do you think?
+Vince
+Vince,
+I've been hearing rumors that Enron has decided to endorse
+the nodal pricing model as implemented in PJM.
+I just wanted to warn you that I'm not sure
+this is in Enron's long-term interest at all.  Let me explain
+why.  Feel free to give me a call if you'd like to talk
+more about this.
+First, let me say that I firmly believe in locational pricing
+and specifically pricing congestion.  However, the way that PJM
+implements nodal pricing is to eliminate as much price volatility
+and reduce the transparency of the market.  Specifically, the
+PJM tariff gives the ISO the ability to mitigate to cost plus a
+%10 adder the bids of any market participant that the ISO deems
+is out of merit in one of the three zones in region.  (The fact
+that a nodal market is talking about zones should give you cause for alarm.)
+Then the ISO takes this mitigated bid and re-runs its price-setting
+software to compute new nodal prices.  The way I have (somewhat
+unfairly) decribed this price-setting process is that the
+PJM ISO decides what prices it would like
+for a given day and mitigates bids until it gets them.  This is not
+a transparent market, nor one where it makes any sense to buy
+the risk management services that Enron provides.  The
+only price volatility you have to worry about in the PJM market is
+that kind that comes about if they need imports into their control area
+to meet demand.  Under these circumstances, you need to pay the
+imports whatever is necessary to get them to come to your market.
+However, bear in mind FERC's desire to make a large RTO on the
+East Coast.  This will effectively mean little imports
+to the East Coast RTO, so all bids can be mitigated at
+the discretion of the ISO.  Paying market-clearing prices to cost-of-service
+mitigated bids is just paying too much to eliminate price volatility.
+It effectively kills off the development of risk management at
+the wholesale and retail level.  Power marketing becomes much less
+profitable because retailers know you can always buy at cost-mitigated
+prices.
+In short, the PJM model is not market.  It is just an alternative
+form of regulation that is politically attractive because it reduces
+price volatility, but it is not good for consumers or traders because they just
+get a higher cost form of regulation than traditional cost-of-service
+regulation. You pay market-clearing prices to cost-of-service
+mitigated bids, but under regulation you could just pay cost-of-service
+prices and eliminate the infra-marginal profits to low cost generators.
+As we discussed during our dinner, I think the two biggest sources
+of benefits from re-structuring will come from getting the demand-side
+involved in the market and from more efficient risk management.  A
+necessary condition for both of these to occur is prices that reflect
+actual conditions in the market (including the extent of market power
+exercised).  Masking these signals dulls any incentive for market
+participants to make the investment necessary to management.  The PJM
+model is just way to have a market in name without achieving any
+significant benefits to consumers or energy traders.
+Frank
+Vince,
+I've been hearing rumors that Enron has decided to endorse
+the nodal pricing model as implemented in PJM.
+I just wanted to warn you that I'm not sure
+this is in Enron's long-term interest at all.  Let me explain
+why.  Feel free to give me a call if you'd like to talk
+more about this.
+First, let me say that I firmly believe in locational pricing
+and specifically pricing congestion.  However, the way that PJM
+implements nodal pricing is to eliminate as much price volatility
+and reduce the transparency of the market.  Specifically, the
+PJM tariff gives the ISO the ability to mitigate to cost plus a
+%10 adder the bids of any market participant that the ISO deems
+is out of merit in one of the three zones in region.  (The fact
+that a nodal market is talking about zones should give you cause for alarm.)
+Then the ISO takes this mitigated bid and re-runs its price-setting
+software to compute new nodal prices.  The way I have (somewhat
+unfairly) decribed this price-setting process is that the
+PJM ISO decides what prices it would like
+for a given day and mitigates bids until it gets them.  This is not
+a transparent market, nor one where it makes any sense to buy
+the risk management services that Enron provides.  The
+only price volatility you have to worry about in the PJM market is
+that kind that comes about if they need imports into their control area
+to meet demand.  Under these circumstances, you need to pay the
+imports whatever is necessary to get them to come to your market.
+However, bear in mind FERC's desire to make a large RTO on the
+East Coast.  This will effectively mean little imports
+to the East Coast RTO, so all bids can be mitigated at
+the discretion of the ISO.  Paying market-clearing prices to cost-of-service
+mitigated bids is just paying too much to eliminate price volatility.
+It effectively kills off the development of risk management at
+the wholesale and retail level.  Power marketing becomes much less
+profitable because retailers know you can always buy at cost-mitigated
+prices.
+In short, the PJM model is not market.  It is just an alternative
+form of regulation that is politically attractive because it reduces
+price volatility, but it is not good for consumers or traders because they just
+get a higher cost form of regulation than traditional cost-of-service
+regulation. You pay market-clearing prices to cost-of-service
+mitigated bids, but under regulation you could just pay cost-of-service
+prices and eliminate the infra-marginal profits to low cost generators.
+As we discussed during our dinner, I think the two biggest sources
+of benefits from re-structuring will come from getting the demand-side
+involved in the market and from more efficient risk management.  A
+necessary condition for both of these to occur is prices that reflect
+actual conditions in the market (including the extent of market power
+exercised).  Masking these signals dulls any incentive for market
+participants to make the investment necessary to management.  The PJM
+model is just way to have a market in name without achieving any
+significant benefits to consumers or energy traders.
+Frank
+Esmeralda,
+I have not received any questionnaire. Can you, please, resend it.
+Vince Kaminski
+We have not yet received your response.  Please forward your responses to the questionnaires to Eddy Daniels as soon as possible.
+Please disregard this message if you have already sent your responses.  Thanks.
+Sent on behalf of Eddy Daniels
+Eddy Daniels
+Legal Dept.
+Brian,
+Would you like to stop by this  weekend for a drink or two?
+Vince
+Vince
+I am not sure if this email ever got out so I am  resending it just in  case
+Zimin, already left. Plz, send to vkaminski@aol.com.
+Vince
+Wolak makes some good points.  In ERCOT, Enron is in support of nodal pricing.  I would not go so far as to say we are pushing for PJM's implementation, however, but for a market with nodal prices (and unilateral bids - aka unbalanced schedules, congestion reflect by price differentials, etc).  I was unaware PJM had such great power to alter bids.  This is something we don't want, and something for which I am not aware we have advocated.  Perhaps in Enron's promotion of locational prices, it has been retold as PJM-style locational prices.  Given that PJM is the most commonly cited example of locational prices, it does not surprise me to have the sloppiness in discussions that could lead to the rumors.
+Martin
+Martin, Lance
+What do you think?
+Vince
+Vince,
+I've been hearing rumors that Enron has decided to endorse
+the nodal pricing model as implemented in PJM.
+I just wanted to warn you that I'm not sure
+this is in Enron's long-term interest at all.  Let me explain
+why.  Feel free to give me a call if you'd like to talk
+more about this.
+First, let me say that I firmly believe in locational pricing
+and specifically pricing congestion.  However, the way that PJM
+implements nodal pricing is to eliminate as much price volatility
+and reduce the transparency of the market.  Specifically, the
+PJM tariff gives the ISO the ability to mitigate to cost plus a
+%10 adder the bids of any market participant that the ISO deems
+is out of merit in one of the three zones in region.  (The fact
+that a nodal market is talking about zones should give you cause for alarm.)
+Then the ISO takes this mitigated bid and re-runs its price-setting
+software to compute new nodal prices.  The way I have (somewhat
+unfairly) decribed this price-setting process is that the
+PJM ISO decides what prices it would like
+for a given day and mitigates bids until it gets them.  This is not
+a transparent market, nor one where it makes any sense to buy
+the risk management services that Enron provides.  The
+only price volatility you have to worry about in the PJM market is
+that kind that comes about if they need imports into their control area
+to meet demand.  Under these circumstances, you need to pay the
+imports whatever is necessary to get them to come to your market.
+However, bear in mind FERC's desire to make a large RTO on the
+East Coast.  This will effectively mean little imports
+to the East Coast RTO, so all bids can be mitigated at
+the discretion of the ISO.  Paying market-clearing prices to cost-of-service
+mitigated bids is just paying too much to eliminate price volatility.
+It effectively kills off the development of risk management at
+the wholesale and retail level.  Power marketing becomes much less
+profitable because retailers know you can always buy at cost-mitigated
+prices.
+In short, the PJM model is not market.  It is just an alternative
+form of regulation that is politically attractive because it reduces
+price volatility, but it is not good for consumers or traders because they just
+get a higher cost form of regulation than traditional cost-of-service
+regulation. You pay market-clearing prices to cost-of-service
+mitigated bids, but under regulation you could just pay cost-of-service
+prices and eliminate the infra-marginal profits to low cost generators.
+As we discussed during our dinner, I think the two biggest sources
+of benefits from re-structuring will come from getting the demand-side
+involved in the market and from more efficient risk management.  A
+necessary condition for both of these to occur is prices that reflect
+actual conditions in the market (including the extent of market power
+exercised).  Masking these signals dulls any incentive for market
+participants to make the investment necessary to management.  The PJM
+model is just way to have a market in name without achieving any
+significant benefits to consumers or energy traders.
+Frank
+X-MimeOLE: Produced By Microsoft Exchange V6.0.4712.0
+Vince,
+Please use this more recent resume if any opportunities come up.
+Thanks,
+Osman
+Maureen.
+OK
+Vince
+This is to confirm 3 days vacation which you approved.  I will not be in Friday, Monday or Tuesday.
+Thanks it's been nice working with you.
+Maureen
+Shirley,
+Please, put this on an official form.
+Vince 
+Thank you.
+Vince
+Your request to cancel your membership has been received. Although the 1/15/02 payroll has already been run, you will recieve a reimbursement on your 1/31/02 paycheck for any membership dues deducted on your 1/15/02 paycheck.
+In Health - The Body Shop
+Ann,
+FYI
+Vince
+Ed McMichael and Mark Breese
+From gas structuring.
+Both are still around.
+Ann,
+FYI
+Vince
+We can try Kim Watson (713-853-3098). I am sure she would be interested.
+Krishna.
+Whom can you recommend? So many people have left.
+Vince
+Vince, 
+I've ended up interviewing 20 people in the Research Group; everyone was very cooperative and insightful.  Now, I am in the process of synthesizing the information into coherence.  I think it'll be a great story, with even more substance and depth than I had initially envisioned.
+When we talked a few weeks ago, you offered to give me one or two names of people with whom I could talk with to get the perspective on the internal (and perhaps external) business value of the Research Group from someone outside of the Research Group.  I assume that would be someone within Enron.  Could you send me the name(s) and contact information for this?  The conversations would be relatively brief and either in person or by phone.
+Thanks again for your interest and support.  I'll keep you informed of progress!
+Ann Thomas
+Vince - You are the greatest!  Duke was in our minds as a possible new
+sponsor but we had not figured out yet where to start.  I will talk with
+the others and we will definitely pursue this Mr.  Ladd.  I really can't
+begin to express how appreciative I am that you thought to mention this to
+him.  I am in New York right now so it will be next week before we can
+start the process.
+bbo
+At 07:13 PM 1/9/02 -0600, you wrote:
+Barabara,

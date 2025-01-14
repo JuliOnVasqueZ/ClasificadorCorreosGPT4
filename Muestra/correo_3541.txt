@@ -1,0 +1,1462 @@
+_________________________________________________________________
+on these assignments how much can be taken from the NYMEX web site ?
+I was finishing the write up and came across there web presentation that is
+much more detailed. Can we copy it over to be used ?
+dq
+Hello Dutch.
+Below, I've detailed your assignment for the upcoming week. I've included
+the high-level outline for each content area that you should follow when
+writing this content. Remember - this assignment should be placed in the
+ECW that Monica and I showed you last week. I've included instructions to
+remind you how to use this tool.  Note - If the content you have written
+does not fit onto the page, please just send it to us in an email. Thank
+you!
+Website:
+Login: dquigley
+Password: Enron4
+(See attached file: ECW Instructions.doc)
+This Week's Assignment: This week's assignment will be to write about each
+of the following areas:
+1) Uses of Futures  (Page 1_4_3_1  -  in the Futures topic)
+2) Buying a Call/Selling a Call (Page 1_7_4_1  - in the Options topic)
+Due Date: Friday, October 19th, 2001
+Outlines to Help Guide You When Writing
+Uses of Futures
+Hedge (temporary substitutes for physical transactions planned for the
+future)
+Speculation (hope to profit from future price changes)
+Physical (Make or take delivery)
+Price discovery (find out what the price of the commodity is at a
+particular time in the future)
+Buying a Call/Selling a Call
+Buying a Call: Long position
+Physical and financial example and payout associated with it
+Selling a Call: Short position
+Physical and financial example and payout associated with it
+Market expectations on when to buy or sell a call
+Finally and most importantly, please keep in mind that the completion of
+these assignments significantly impacts the the ability of our BRM project
+to stay on schedule and within budget. If you are unable to complete this
+assignment, please notify me ahead of time and provide an estimated time
+for completion.
+Thank you.
+Sheri A. Righi
+Accenture
+Human Performance Service Line
+Hartford - One Financial Plaza
+Direct Dial: 860 756 2245
+VPN & Octel: 765 2245
+e-mail: sheri.a.righi@Accenture.com
+can we move our meeting up to 2:30 i have another meeting at 3:45 that i have to attend ?
+dq
+to that website. I know we have full access to Enron's BRM course content -
+you can copy/paste straight from there.
+I will ask Kirk McDaniels about the Nymex website first thing tomorrow
+morning and get back to you.
+Have a good night.
+Sheri A. Righi
+Accenture
+Human Performance Service Line
+Hartford - One Financial Plaza
+Direct Dial: 860 756 2245
+VPN & Octel: 765 2245
+e-mail: sheri.a.righi@Accenture.com
+Dutch.Quigley@.c
+on these assignments how much can be taken from the NYMEX web site ?
+I was finishing the write up and came across there web presentation that is
+much more detailed. Can we copy it over to be used ?
+dq
+Hello Dutch.
+Below, I've detailed your assignment for the upcoming week. I've
+included
+the high-level outline for each content area that you should follow when
+writing this content. Remember - this assignment should be placed in the
+ECW that Monica and I showed you last week. I've included instructions
+to
+remind you how to use this tool.  Note - If the content you have written
+does not fit onto the page, please just send it to us in an email. Thank
+you!
+Website:
+Login: dquigley
+Password: Enron4
+(See attached file: ECW Instructions.doc)
+This Week's Assignment: This week's assignment will be to write about
+each
+of the following areas:
+1) Uses of Futures  (Page 1_4_3_1  -  in the Futures topic)
+2) Buying a Call/Selling a Call (Page 1_7_4_1  - in the Options topic)
+Due Date: Friday, October 19th, 2001
+Outlines to Help Guide You When Writing
+Uses of Futures
+Hedge (temporary substitutes for physical transactions planned for
+the
+future)
+Speculation (hope to profit from future price changes)
+Physical (Make or take delivery)
+Price discovery (find out what the price of the commodity is at a
+particular time in the future)
+Buying a Call/Selling a Call
+Buying a Call: Long position
+Physical and financial example and payout associated with it
+Selling a Call: Short position
+Physical and financial example and payout associated with it
+Market expectations on when to buy or sell a call
+Finally and most importantly, please keep in mind that the completion of
+these assignments significantly impacts the the ability of our BRM
+project
+to stay on schedule and within budget. If you are unable to complete
+this
+assignment, please notify me ahead of time and provide an estimated time
+for completion.
+Thank you.
+Sheri A. Righi
+Accenture
+Human Performance Service Line
+Hartford - One Financial Plaza
+Direct Dial: 860 756 2245
+VPN & Octel: 765 2245
+e-mail: sheri.a.righi@Accenture.com
+use plus 10 for the 3 year
+Dutch,
+Here are the latest MGAG DailyVolumes, for Nov-01 thru Oct-04.
+Thank you for all of your help.
+-Jonathan Horne
+x53994
+Dutch these are indications on calendars and calendar spreads
+Cal2  2.85
+Cal3  3.20
+Cal4  3.31
+Spreads
+2/3  35
+?    11
+4/5  9.5
+5/6  9
+6/7  9
+7/8  9
+8/9  9
+9/10 9
+yes
+Dutch,
+I saw on Enrononline your mid-offer spread for Nov 01 -Mar 02 is +$.005 -- is it the same for Dec 01-Feb 02?  Volume is 2,500/d.
+Thanks!!
+Kelli
+Here is the EOL information
+Dutch
+This guy is working on an EOL project for me right now.  Can you send him a file with our EOL trades for today or yesterday with product, price, buy/sell, and timestamp but counterparty names deleted
+John, just a reminder, please send a sample gapping data when you get a chance.
+Ravi Thuraisingham, CFA
+Director, Storage Trading
+Enron Broadband Services
+p  713.853.3057
+c  713.516.5440
+pg 877.680.4806
+ravi.thuraisingham@
+we do not have that data
+Dutch, I need the bid/offer spread as well.  For each transaction, I need the prevailing bid/offer spread. Could you get that quickly?  I will wait for that right now. I am out tomorrow and would like to work on this on the weekend.
+Thanks,
+Ravi Thuraisingham, CFA
+Director, Storage Trading
+Enron Broadband Services
+p  713.853.3057
+c  713.516.5440
+pg 877.680.4806
+ravi.thuraisingham@
+Here is the EOL information
+Dutch
+This guy is working on an EOL project for me right now.  Can you send him a file with our EOL trades for today or yesterday with product, price, buy/sell, and timestamp but counterparty names deleted
+John, just a reminder, please send a sample gapping data when you get a chance.
+Ravi Thuraisingham, CFA
+Director, Storage Trading
+Enron Broadband Services
+p  713.853.3057
+c  713.516.5440
+pg 877.680.4806
+ravi.thuraisingham@
+the price on the eol data that you have is the bid or the offer depending on if the trade is a buy or a sell
+we buy is our bid and when we sell it is our offer
+Okay, you don't save them?  The price on E col, is that mid?
+Ravi Thuraisingham, CFA
+Director, Storage Trading
+Enron Broadband Services
+p  713.853.3057
+c  713.516.5440
+pg 877.680.4806
+ravi.thuraisingham@
+we do not have that data
+Dutch, I need the bid/offer spread as well.  For each transaction, I need the prevailing bid/offer spread. Could you get that quickly?  I will wait for that right now. I am out tomorrow and would like to work on this on the weekend.
+Thanks,
+Ravi Thuraisingham, CFA
+Director, Storage Trading
+Enron Broadband Services
+p  713.853.3057
+c  713.516.5440
+pg 877.680.4806
+ravi.thuraisingham@
+Here is the EOL information
+Dutch
+This guy is working on an EOL project for me right now.  Can you send him a file with our EOL trades for today or yesterday with product, price, buy/sell, and timestamp but counterparty names deleted
+John, just a reminder, please send a sample gapping data when you get a chance.
+Ravi Thuraisingham, CFA
+Director, Storage Trading
+Enron Broadband Services
+p  713.853.3057
+c  713.516.5440
+pg 877.680.4806
+ravi.thuraisingham@
+term is Jan 02 to Sep 09
+total volume is 358.6 contracts
+the volume adjust is -0.045 cets
+the all in bid as of 10:05 am is $3.60
+call before closing this deal
+dutch
+3-9257
+Dutch,
+Please provide your NX3 Bid for the attached.
+Thanks
+Russell / Eric
+good to see you made it back to the states
+where are the dreads 
+dq
+I just wanted you to know that i am thinking about you and hope that you are having a ok day
+ily
+dq
+at 3.525 
+Dutch,
+Texas Independent Energy is looking for fixed price gas for their two power plants.  This is the strip of volumes and the term they are looking for. Please send me back your offer.
+Thanks,
+J.D. Buss
+Work:       713-853-3851
+Cell:          713-962-5561
+E-mail:      jd.buss@
+Question 1:
+When we talk about "the market" reacting to events, what are the prices
+that we are talking about? From a simulation standpoint, I am trying to
+figure out what prices we need to show as being affected by these many
+events.  Is it the forward curve? Is it the spot market price?  Is the
+bid/offer prices for the various instruments? And, if we are having users
+trade basis, we will need different prices for different locations, right?
+[Quigley, Dutch for each event we need to build a change matrix that will change the previous price curve to a new one
+depending on each event it could change all parts of the sport and forward curve
+Question 2:
+Given that the calculation of VaR is rather involved, we decided that it
+would not be worth our effort to have that calculation in the model.
+However, we understand that the user needs to 1) know their VaR and 2) know
+that they need to make sure they stay within their VaR limit.  So, we will
+need to set a VaR limit for the user and "fake" the individual VaR to
+reflect their risk exposure.
+I had a talk with Erro McLaughlin about this.  He made a good point that if
+our user are not expected to understand the complexity of how a VaR is
+calculated, will they know how to control their VaR, i.e. if a user sees
+that he is over his VaR limit, what should he do to get it back within the
+limit.  Is is as simple as not being too long or too short? And if that is
+the case, would it be sufficient to use position reports/tallies as a proxy
+for risk exposure, instead of VaR?
+One possible way to fake VaR may be to adjust the VaR number to reflect how
+exposed the user is. So if they are X dollars long, they have a VaR of Y.
+If they change their position so that they are now 1.5X long, they have a
+VaR of 1.5Y.  Perhaps we can also throw in a factor that takes into account
+market volatility.
+What are your thoughts?
+[Quigley, Dutch Instead of a VaR number we could set position limits that they must stay within at all times
+i.e. over all position can not be outside a set range , NYMEX Risk can not exceed +/- 500 contracts
+Basis & Index Risk can not exceed +/- 1000 contracts so for and so on 
+Therefore not having to calculate VaR and expect the user to understand what to do to stay with in limits
+Lastly, when could you meet with me next week? I would really like to meet
+on Tuesday, if possible.
+[Quigley, Dutch can you check with your team , I am to meet with them on Monday and Tues. so see if you can squeeze into one of the times or we can make a new one
+Dutch
+I set for the couch to be delivered tomorrow between 5:30 at 6:30
+dq
+Houston, TX~~Houston~~TX~~77035 713 723 8588 ~~Fine art and desing    11218 waxwing a   ~~~#PERSON~Huff Barry   ~~816-468-5369      816-454-8310   ~#PERSON~Jason Barton   ~~214 221 2520~~214 221 2570        ~~~#PERSON~Laura Burchart         ~~713 869 7495   ~#PERSON~Shanon BLASI   ~~713 988 9200~~713 988 9844       713 712 1377 ~~~#PERSON ~Cab   ~~713 236 1111         ~#PERSON ~Continental Airlines   ~~281-821-2100         ~#PERSON ~Coupon            ~~coupon500@hotmail.com~#PERSON ~CUZ         ~~281 530 2452   robertbent@aol.com~#PERSON~Amy Cowherd 4523 Madison #4
+Kansas City, MO~~Kansas City~~MO~~64111 816-753-7429     ~~4523 Madison #4~~816-361-9669   ~#PERSON~Chris Crawford         ~~409 756 6512   ~#PERSON~Kevin Crawford   ~~713-693-2645 ~~FSX    ~~281-477-9329 713-539-4226  klyn@pdq.net~#PERSON~Kevin Crews   ~~713-658-0064~~713-658-9393 NYMEX       ~~~#PERSON~Rebecca Cubberly 3400 Bissonnet Suite 270 Houston TX~~3400 Bissonnet Suite 270 Houston TX 77005 713-668-4261         ~#PERSON ~Daceman            ~~daceman91@hotmail.com~#PERSON ~DAD 10400 fm 1488
+Conroe, Tx~~Conroe~~Tx~~77384 281-363-9090~~936-321-6999 Century 21 Quigley    10400 fm 1488~~936-321-4269 409 443 3088  C21QUIG@aol.com~#PERSON ~Dps   ~~713 681 1761      512 424 2600   ~#PERSON ~DQ            ~~~#PERSON~Tricky Dicky         ~~281 383 1298   rs1119@aol.com~#PERSON ~Enron   ~~1-800-973-6766         ~#PERSON ~Ernie 431 Rivergrove
+Houston, Tx~~Houston~~Tx~~77015      ~~431 Rivergrove~~281 859 2700   ~#PERSON~Lord Eric PO Box 292
+Madison, Kansas~~Madison~~Kansas~~66860 316-437-2503     ~~PO Box 292~~316-342-5502   ~#PERSON ~Flounder            ~~archila40@hotmail.com~#PERSON ~Focus   ~~816-942- 8445         ~#PERSON~Jerry Flagg   ~~713-635-3009 ~~Lawn       ~~~#PERSON~Scott Frankin     Enron    ~~281 807 9508   ~#PERSON ~Golf            ~~~#PERSON~Chuck Grenfell            ~~cgrenfell@cyprus.com~#PERSON~Gary Green     MST    ~~713-661-3850   ~#PERSON~Grandma Gress 2255 Via Puerta
+Laguna hills, Ca~~Laguna hills~~Ca~~92653      ~~2255 Via Puerta~~949 830 43517   ~#PERSON~Larry Gress 10895 Grandview Dr
+Bldg. 24 Suite 100
+Overland Park, Kansas~~Overland Park~~Kansas~~66210~~USA~~913-323-5898~~913-344-6199 Cisco Systems   Sales Engineer 10895 Grandview Dr
+Bldg. 24 Suite 100~~913-685-0501 913-269-6187~~800-365-4578 ~~lgres@cisco.com~#PERSON~Michele Gress 12621 Bradsaw
+Overland Park, Kansas~~Overland Park~~Kansas~~66213 ~~913-685-0519     12621 Bradsaw~~913 685 0501 913-522-0023  Mqgress@aol.com~#PERSON~Nancy Guerra 12015 lennington
+Houston, Tx~~Houston~~Tx       12015 lennington~~281 469 5611   ~#PERSON ~HAR   ~~713-629-1900         ~#PERSON~Brian Horn            ~~bhorn@corp.cuc.com~#PERSON~Kay Halbert   ~~713-853-9735 ~~Eneron Energy Services    ~~713-661-8942 713-410-3701  CN=3DKay Halbert/OU=3DHOU/O=3DEES@EES~#PERSON~Mike Hauffman 12110 thopson rd
+Willis, Tx~~Willis~~Tx~~77378      ~~12110 thopson rd~~281 350 8630   ~#PERSON~RK Halbert         ~~281 855 3468   ~#PERSON~Jose Ibara         ~~713 780 2512   ~#PERSON ~Jennings          ~~713-398-7031  ~#PERSON ~Joe june         ~~713 661 3097 713 503 5014  ~#PERSON ~Jr        Handyman ~~713 683 8301 281 216 3724  ~#PERSON ~Julie   ~~713-853-9225 ~~Enron   Telerate Feed    ~~~#PERSON~Lee Jackson Drake
+Houston, TX~~Houston~~TX~~770 713 853 0929 ~~Enron   Trader Drake   ~~~#PERSON~Mattie James 1809 carrige hills
+Conroe, TX~~Conroe~~TX~~77384      ~~1809 carrige hills~~936 321 1010   ~#PERSON ~Kiske        FFL    ~~kiske.business@onr.com~#PERSON~Kevin Kosub            ~~CN=3DKevin Kosub/OU=3DAA/OU=3DCorp/O=3DEnron@~#PERSON~Michael Korn   ~~212-299-2316~~212-301-4570 NYMEX       ~~~#PERSON~Joe Labella 210 Dallas St
+Conroe, TX~~Conroe~~TX~~77301 409 441 5951??409 539 5970~~409 539 5972 Hm 281 367 8238   Law 210 Dallas St  713 764 5662 ~~~#PERSON~Kori Loibl   ~~713-853-7980 ~~Enron   Risk ~~713-662-0657 281-638-4401  ~#PERSON~Liz Lay 1314 banks
+Houston, Tx~~Houston~~Tx~~770  ~~Enron    1314 banks   ~~~#PERSON~Mike Lorch 2300 briarwest 3204
+Houston, Tx~~Houston~~Tx~~77077      ~~2300 briarwest 3204   ~~~#PERSON~Tim Lawrance 31233 dobbin huffsmith
+Magnolia, Tx~~Magnolia~~Tx~~77355      ~~31233 dobbin huffsmith~~281 364 1000   ~#PERSON ~Mom 406 Fairbanks
+Magnolia, TX~~Magnolia~~TX~~77354 281 637 8687     ~~406 Fairbanks~~936 321 4262 713 962 0980  margieqtx@aol.com~#PERSON ~MST   ~~713-524-6706         ~#PERSON~Calvin Mathis 1008 4th st.
+Conroe, Tx~~Conroe~~Tx~~77301      ~~1008 4th st.   ~~~#PERSON~Ed Morrow 6630 Harwin Suite 180 Houston TX~~6630 Harwin Suite 180 Houston TX 77036 713-977-2323~~713-977-2626 PAL      713-415-8830 ~~~#PERSON~EDF MAN   ~~212-566-9301 Greg~~212-590-3484 Brian EDF Man   Futures Brokers  ~~212-566-9329 Martin  ~#PERSON~Errol McLaughlin   ~~713-345-8274 ~~Enron   Fin Risk ~~713-528-1997   ~#PERSON~Greg Mann 4901 Main Street, Suite 402, Kansas City, MO~~4901 Main Street~~Suite 402, Kansas City, MO~~64112~~USA~~816-931-9802~~816-931-0682 Focus   It    ~~parrotheads72@earthlink.ent~#
+PERSON~Jackie Mcaleer   ~~800-722-6023 ~~Focus     ~~816-668-4748  ~#PERSON~Mark Molnar Tx Tx ~~281 479 5554 ~~Cajun contractors       ~~~#PERSON~Mike Maggi   ~~713-853-7204 ~~Enron   Dir Trading ~~281-416-1232 wife cell 713-304-4479  ~#PERSON~Nathan Margolis 6410 bankside
+Houston, Tx~~Houston~~Tx~~77 713-546-1110~~713 222 1402 Sun america    6410 bankside   ~~bankside@aol.com~#PERSON~Ricardo Mihaly 3311 branard 12
+Houston, Tx~~Houston~~Tx~~77098 713-622-7620     ~~3311 branard 12   ~~siva66@pdq.net~#PERSON~Rick Man   ~~281 363-4696~~281 363 0023       1 888 979 1984 ~~~#PERSON ~Plumer   ~~713 290 7798    ~~Scott allen    ~~~#PERSON~Corey~~S~~Piva~~Dr.~~6540 W. 95th St., Overland Park,KS~~6540 W. 95th St.~~Overland Park,KS~~66212~~USA~~913-649-4045~~913-649-8407 Focus   Chiropractor    ~~~#PERSON~Dave Peterson   ~~972 234 8931 ext. 27      972 662 1381   ~#PERSON~Jeff Prescott            ~~jeffprescott@hotmail.com~#PERSON~Jerry Portel         ~~281 855 3116   ~#PERSON~Rick Pierce         ~~713 789 7710   ~#PERSON~Denise Quigley 821 3/4 20th st.
+Santa Monica, Ca~~Santa Monica~~Ca~~90403 800-447-2631 ext. 7549 ~~RAND Corp.    821 3/4 20th st.~~310 829 4778 310-770-0607  denise_quigley@rand.org~#PERSON~Grandma Quigley 509 willow #12
+St. Marys, Kansas~~St. Marys~~Kansas~~66536      ~~509 willow #12~~913 437 6495   l13quig@kansas.net~#PERSON~Klorissa Quigley   ~~+1 847 605 9222~~WYNDHAM SCHAUMBURG    Wife   888-620-2614 ~~~#PERSON~Mike Quigley         ~~281-364-7961   ~#PERSON~Pat Quigley         ~~949 464 1051   ~#PERSON ~Refco   ~~212 590 1408    ~~Futures Brokers    ~~~#PERSON~Al Reeves        Kays Uncle ~~405-794-5593   ~#PERSON~Ben Roger   ~~713 853 7998 ~~Enron       ~~~#PERSON~Bill Reneau 12619 Metcalf, Overland Park, KS~~12619 Metcalf~~Overland Park, KS~~66213~~USA~~913-339-6200~~913-339-6214 Focus       ~~~#PERSON~Carlos Reyna            ~~ReynaC@houstoncellular.com~#PERSON~Joe Ramirez   ~~713-462-0993         jramirez@clri.com~#PERSON~John Riches            ~~John_Riches@msn.com~#PERSON~Brad Sherman            ~~~#PERSON~Elizabeth~~berry~~Supra   ~~713-621-8835~~713-621-0165        ~~~#PERSON~Joanne Stokes   ~~908 522 8138      908 781 6167   kevjoanne@aol.com~#PERSON~Richard Smith 10630 Ravens Way
+Baytown, Tx~~Baytown~~Tx~~77520      ~~10630 Ravens Way~~281-383-1298   ~#PERSON~Ronda Soto   ~~713 868 4539      713 868 7686   ~#PERSON~Susan Scott   ~~713-853-1455 ~~Trading    ~~713-622-2788 281-844-0866  ~#PERSON ~Technical Support   ~~847-262-PALM (7256) (US)??Int'l: Contact local support number ~~Palm Computing, Inc.       ~~support@palm.com~#PERSON~Carl Tate   ~~281 873 9490~~281 873 6042 Bmw       ~~~#PERSON~Main~~Street~~Theater 2540 Times Blvd, Houston, TX~~2540 Times Blvd~~Houston, TX~~77005 713-524-3622         ~#PERSON~Laura Vargas   ~~713-345-8197 ~~Enron   Risk  ~~832-654-7792  ~#PERSON~Toby Vo   ~~281-933-1670         tobenator@hotmail.com~#PERSON ~Woody 8073 el mundo
+Houston, Tx~~Houston~~Tx~~77054 713 440 9095     ~~8073 el mundo~~713 752 6861   dunlabw@texaco.com~#PERSON~Mark~~Molnar~~WK   ~~281-479-5554 ~~Cajun Contrators       ~~MarkM@cajunusa.com~#PERSON~Mauricio Wheeloch 6001 Savoy Suite 400 Houston TX~~6001 Savoy Suite 400 Houston TX 77036 713-954-0000~~713-954-0028 Healix   IT   713-327-8258 ~~system_specialist@yahoo.com  
+=09Tuesday, May 23rd
+=09    3:00pm - 4:00pm
+=09           rm3127                                                                                           =09Tuesday, May 23rd
+=09    3:00pm - 4:00pm
+=09           rm3127                                                                                                                                                  10:00am - 11:00am      rm312                                                                                           10:00am - 11:00am      rm312                                                                                                                                                   Greg Couch BrainStorm                                                                                           Greg Couch BrainStorm                                                                                                                                                    3:00 PM - 4:00 PM
+EB3014                                                                                           3:00 PM - 4:00 PM
+EB3014                                                                                                                                                21C2 Date:=09=09Friday July 21
+Time:=09=093:00
+Location:=09EB21C2
+=0910:00am - 11:00am
+=09=09rm3125a
+=0910:00am - 11:00am
+=09=09rm3125a
+Call Hilde at spectron 203-801-7100                                                                                           Call Hilde at spectron 203-801-7100                                                                                                                                             Date:=09=09August 4th
+Time:=09=092:00 - 3:00
+Date:=09=09August 4th
+Time:=09=092:00 - 3:00
+EB3013                                                                                                  Date:=09=09Wednesday, August 30th
+Time:=09=091:30 - 2:30 pm
+Location:=09EB37C1
+Julissa Marron, x58336
+Meeting w/James Scribner, Jennifer Reside, Shari Mao, Will K., Jeff G., Dave B., and Kam K.  (Adrial x58849                                                                                                                                                                                                             EB2601
+10:00 - 10:30 a.m.
+Location:=09EB3749
+3-6225                                                                               
+Ina,
+My badge would not scan in the sky ring and also takes many swipes get in to the main floor and also to open the doors on 32.
+Can you find out if I can get a new on with out going down there myself ?
+thnx
+dq
+thats fine
+Hi Dutch,
+This message is to confirm our meeting with you today, Tuesday, October
+23rd  from 2:30 pm - 3:30 pm, the location will be 3241 John Arnold's
+office.  Attendees will be Monica Brown and Sheri Righi via phone.
+Let me know if you it is okay to meet in John Arnold's office.  I can be
+reached at 713-345-6687.
+Thanks,
+Monica L. Brown
+Accenture
+Houston - 2929 Allen Parkway
+Direct Dial: +1 713 837 1749
+VPN & Octel: 83 / 71749
+Fax: +1 713 257 7211
+email: monica.l.brown@accenture.com
+yes i had planned to meet them , good luck on your call
+can you meet them for this- I have a conference call with Kelsey's lawyers at 5-6:30 today
+then I have supper club at 7
+thanks
+kq
+I set for the couch to be delivered tomorrow between 5:30 at 6:30
+dq
+the curve adjustment is 0.095
+the mid to offer spread is 0.035
+dq
+Thanks Dutch,
+I LOVE YOU 
+dq
+dutch_quigley is my yahoo user name
+Hi Dutch! I?m Antonio Vergara from Monterrey Office I?m wondering if you have a username in yahoo messenger to include you in my list for trading purposes. Maybe this morning we will be closing some transactions so I would be getting some quotes from you.
+,
+Antonio Vergara-Lope
+thnx for taking care of the badge
+dq
+I would like to talk to you this after noon after 1:30 about another chart
+let me know when
+dq
+Due to performance issues with our plasma screens we have restricted access to the EOL feeds to the plasma machines themselves.
+You can however still access the NYMEX strip on the right utilizing the following links.  If you know anyone else who has need
+for this information, please forward this email on to them.
+Prod Nymex Financial
+Prod Nymex Financial with EOG
+Prod Nymex Current
+Thanks,
+Dave
+yes
+i love you baby
+Just so you don't double up and call Continental - i went ahead and called
+to get our new itenerary- we still leave on a nonstop Friday 11/16 departing 9:50pm and get there at 10:55p
+On the return- they had us leaving at 6:40 on 11/20 going thru Phoenix and arriving home at 1am
+I changed it to leaving Vegas at 4pm nonstop flight to home and arrive here 9pm (this cut 1 hour 20 min off travel time)
+hope that is okay
+kq
+Errol,
+Deal NS5777.2  , from 7/27/2000 of last year,  should have been killed along time ago. Can you kill the deal in the system please.
+This might come up as a prior period adjustment, I do not know what happens when they are this old.
+Dutch,
+We are in the process of updated Tuesday/Wednesday activity and will send when completed. Anticipated completion 10:00am today  
+Frank F. Cernosek 
+Exchange Accounting 
+Financial Operations 
+713-853-1581 
+Hope this helps!
+gg
+It's Friday, and I'm here settling Nymex.  I got a phone call from Evelyn Wednesday before Thanksgiving to come in today.  It's o.k.  I don't mind.  I get Monday off.  Just a few notes to let you know what's going on.  EDF Mann, Paribas and Carr Futures London pulled a fast one.  They set the margin at 150% more of what it would have been.  Here are the numbers incoming and outgoing.
+OUTGOING 
+Smith Barney Financial                  $232,499.00 
+Paribas                                 $46,026,588.00 
+EDF Mann                                $760,515.00 
+Carr Futures                            $12,331,010.66 
+INCOMING 
+ABN Amro                                $33,852.00 
+Saul Stone                              $19,800.00 
+HSBC                                    $291,325.00 
+HSBC Canada                             No Margin Call 
+R. J. Obrien                            $12,320.00 
+J.P. Morgan                             $292,827.00 
+Credit Suisse                           $200,261.00 
+Lori at Smith Barney was not in Friday, so we did not settle 
+FIMAT was not in, and the numbers came out like this.  They were supposed to have paid down on the loan by $2,931,087.24.  I don't know how you handle this.  Hopefully they will do this on Monday.
+I know this is a terrible welcome back, but it was something that had to be done 
+dutch_quigley@yahoo.com
+will relpy later ,glad to hear about the good drive.
+dq
+Hola,
+If all recipients would please be soooo kind as to respond back with a home
+mailing address....except for suebob and jojo..got your's already.
+Well, we I made it safely to UT.  We made the drive in about 2 days getting
+to Provo the 2nd evening and Park City the following morning.  Now I am
+reminded why they always say that it is much safer to fly than to drive
+cross country.  The first day we NARROWLY avoided running out of gas in
+NOWHERE texas...and I also got a speeding warning from a state trooper.  The
+2nd day of driving across UT on a two-land highway from Moab to Provo was
+harsh...it was snowing..i had a deathgrip on the steering wheel while
+oncoming cars blinded me with their headlights and john slept.  Those are
+just the bad parts but it was well worth the time hanging with John and
+seeing the country.
+I've met my 3 roomates, Jimmy, James & Thomas... and they seem normal and to
+John's delight none of them will be gracing a "Gorgeous Hunks of Park City
+Utah" calendar anytime soon.  It has been snowing almost non-stop since I've
+been here...and it seems that everyone is off to ski or board here in town.
+I'm trying my best to hold off until the end of the week when all of my
+skiing and boarding activities will be free.  I am scheduled to start this
+thurs at the bakery.  I'm considering picking up another part time job just
+to keep things interesting, but I'm going to see how things go with a 40hr
+schedule first.
+I hope everyone is doing well.  I just wanted to say hello and most
+importantly get everyones home address. So take care all and I'll be in
+touch.
+Sno-mo
+_________________________________________________________________
+Thanks for the call, I was on vacation.
+Lets set up a time to talk , later in the day is best for me.
+Let me know when is a good time for you.
+Dutch
+713-853-9216
+Kirk,
+As I am just catching up, I am not the one for storage and transportation issues as i do not trade them on a regular basis.
+I was under the impression i was working on the options and futures. Yes there has not been any meeting with me for the past two weeks.  As for the conversion and arbitrage problems let me know , I am not sure what these are but am will to help.
+Dutch
+Dutch
+How are you today? I hope all is well.
+I know you are extremely busy meeting our financial targets for Q4/01. In light of this fact, I have tired not to bother the SME's and provide content for this project via other means. So far so good, but the next step will be for the SME's to review the content for sign-off. Your timely work for review will be invaluable 
+However at today's Status meeting Accenture had the following in their status report:
+Issues for Management Attention
+Dutch has not been able to meet with us for the past two weeks, nor has he responded to our e-mail requests for information. This means we are relying on Andy for all the detailed trader content, which includes the two most complex problems, storage and transportation, as well as the conversion and arbitrage problems. With a maximum of two hours per week with Andy, it has been and will continue to be difficult to get all the help we need. Proposed solution: ask Andy and/or Dutch to give us the name of another trader who can meet with us to answer our detailed questions.
+My initial question to you: "Is this statement accurate?"
+My next Questions: "What Can I do to assist you?"
+"Can you name someone to provide the information requested (i.e. two most complex problems, storage and transportation, as well as the conversion and arbitrage problems.)
+Here is what I have provided to Accenture to help complete your assignments and to provide content for your review:
+BRM Text book
+Derivatives I as a resource only
+The slides attached below
+Other course work as a resource only
+Do you have any suggestions? Thanks for all your assistance and I know how busy you are & how important your commercial duties are for the company. Thanks
+Cheers
+Kirk
+i can go over this with monica
+Team
+Here are my comments on Futures. Very minor comments
+i can draw out the graphs and know out many of the red items on this one tomorrow also when i meet with monica
+Team
+Here are my comments on Options (See attachment below).
+We need examples of:
+Cap (Call Option)
+Floor
+Collar
+In addition we need information on Financial option.
+Accenture, in all the documents can we have roll over capabilities on the bold words and instead of Click here because time is of essence in our culture and having the learner have to go to the glossary or click for a pop up creates opportunities for disengagement.
+Kirk,
+I know I have been slow on this project and will work on getting all needed info to the
+accenture group so that this project can be done.
+I am meeting with Monica and Laura this week and will get all needed info turned in to them
+ASAP.
+Dutch
+Dutch Thanks a million for your prompt support!!
+i can go over this with monica
+Team
+Here are my comments on Futures. Very minor comments
+i can draw out the graphs and know out many of the red items on this one tomorrow also when i meet with monica
+Team
+Here are my comments on Options (See attachment below).
+We need examples of:
+Cap (Call Option)
+Floor
+Collar
+In addition we need information on Financial option.
+Accenture, in all the documents can we have roll over capabilities on the bold words and instead of Click here because time is of essence in our culture and having the learner have to go to the glossary or click for a pop up creates opportunities for disengagement.
+we can reword the puchaser portion of the option language also
+Sub topic 4 on page 4: 1st line 2nd sentence purchaser vice purchase
+Kirk McDaniel
+11/24/2001 11:49 AM
+Team
+Here are my comments on Options (See attachment below).
+We need examples of:
+Cap (Call Option)
+Floor
+Collar
+In addition we need information on Financial option.
+Accenture, in all the documents can we have roll over capabilities on the bold words and instead of Click here because time is of essence in our culture and having the learner have to go to the glossary or click for a pop up creates opportunities for disengagement.
+Monica,
+Can we meet for more than 1 hour tomorrow ?
+I sent an email to Laura to change meeting with her until Wednesday.
+Dutch
+this works
+testing
+west- san juan
+please change deal V96295 from gas daily to just a nymex swap, this is an internal deal no confirms to change
+I found these two in my file- see which one looks better
+luv you too
+dq
+hey hon- just wanted to let you know I love you and
+thank you for your support and good spirits with everything
+that is going on...please let me know if I can do anything for you today
+little Rex slept in my lap this morning while I watched Today show- he's so sweet
+kq
+agreed
+these are just swaps that settle last day
+dutch
+Dutch-2 deals
+1.    f2 2.63 last  day    enron sells to western        enron buys from tenaska     68/mo
+2.    f3 3.45 last  day    enron sells to tenaska         enron buys from western      25/mo
+thanks 
+Ryan
+the size of the trade and the curve adjustment are a wash just let me know when you want to close and i can get you a number
+dutch
+Dutch,
+Need your offer.  Let me know.
+Thanks,
+Eric
+This file does not contain Options or the future crosses that were done today.
+Agreed that enron is buying from Duke
+see file for volumes and terms
+Henry H Quigley
+2009 Gillette
+Houston TX 77006
+713-533-0882
+Hey Bro,
+My wife worked here also and has been let go.
+I work for the Natural Gas Trading group that they are trying to sell.
+Should know by the end of the week about my job.
+I was just talking to Kevin Crawford about you 2 weeks ago when we were in Vegas. 
+Good to know that you are still out there.
+How are you doing these days ?
+Dutch
+I thought about you when I heard about Enron.  Were you affected? Give me a
+call and we can meet up sometime.
+Brian A. Horn, MCSE
+Manager of Technical Operations
+Trilegiant - Houston
+Office       832.486.8265
+Fax           832.486.8265
+Cell          713.501.6447
+Kevin Crawford and Dutch Quigley has invited you to "Crawford & Quigley 6th Annual Xmas Pary".
+Click below to visit Evite for more information about the event and also to RSVP.
+This invitation was sent to you by Kevin Crawford and Dutch Quigley using Evite. To remove yourself
+from this guest list please contact us at support@evite.com
+This Evite Invite is covered by Evite's privacy policy*.
+To view this privacy policy, click here:
+HAVING TROUBLE?
+Perhaps your email program doesn't recognize the Web address as an active
+link. To view your invitation, copy the entire URL and paste it into your browser.
+If you would like further assistance, please send
+email to support@evite.com
+* Updated 03/15/01.
+Your SportsLine password has been reset to:
+sport27980
+Return to SportsLine:
+You can reset your password to something of your choice by going to:
+Many of you have friends who are no longer with the company, so we wanted to provide you an overview of continuing efforts to assist Enron's former employees.
+CAREER SERVICES 
+Last December Enron established a website to assist former employees identify jobs in Houston and throughout the United States.  Only former Enron employees and potential employers can access the site 
+On this site, former employees can: 
+? Post their resumes for approved employers to view 
+? View job postings 
+? Receive updates and information on career and community services available to them 
+As of January 25, 2002: 
+? More than 1,300 companies had been approved to view resumes 
+? Company recruiters had logged on more than 3,500 times to search for candidates 
+? More than 600 jobs had been posted on the site 
+FINANCIAL ASSISTANCE 
+The Greater Houston Community Foundation 
+The Greater Houston Community Foundation (GHCF), in collaboration with the United Way of the Texas Gulf Coast, the Houston Area Urban League, Crisis Intervention of Houston, and Career and Recovery Resources, have established a fund to provide dedicated support for former Enron employees.  GHCF offers former employees counseling services and helps them work with mortgage companies, landlords and utilities to defer monthly bills while they are out of work.   If you are interested in making a tax-deductible donation to the GHCF, please call 713-268-6458 or mail donations to GHCF at 4550 Post Oak Place, Suite 317, Houston, TX  77027.  Checks should be made payable to Greater Houston Community Foundation and designated for the Enron Employee Transition Fund.  To receive assistance, former employees can call 713-533-4598, or outside Houston, 1-800-493-4598.  Lines are open 24 hours a day, seven days a week. 
+Enron Ex-Employee Relief Fund Account 
+A former employee has established the Enron Ex-Employee Relief Fund Account at the Humble Community Bank.  Visit the website at <<  for more information or to make a donation.  Former employees can submit grant requests to eerfarequest@surfmk.com.
+MDPC Transitional Assistance Program 
+Memorial Drive Presbyterian Church has created a Transitional Assistance Program open to both members and non-members who need assistance re-entering the workforce.  Right Management Consultants offers a series of two-day workshops for former employees on topics such as Career Assessment and Evaluation, Job Search Communication and Managing in a Time of Change.  Requests for limited and discretionary short-term financial assistance will be accepted from those who have participated in this program.  MDPC will offer a holistic approach to re-entering the workforce including family counseling and stress management. For more information, contact Memorial Drive Presbyterian Church at 713-953-2550, ext 180.
+i am planning on it, i told pete that he ran off another book admin
+Great Idea Howard.
+Can you add dutch_quigley@yahoo.com as my email address.
+Look forward to the happy hour.
+Dutch
+OK ladies and gentlemen.  It has been quite a while since we had a Houston area Sammy Happy Hour, but I thought that we should do one again.  If you received this e-mail in error, or don't want to receive this type of e-mail, then just reply and I will take you out of my address book.  It needs updating as I have duplicate e-mails for some of you guys and gals.  I am thinking the 17th, 18th, or 19th.  I will make a tally of which day is best, so please reply.  If you don't reply, then I will assume that any of those days is good for you and make an executive decision.  Also, once we nail down a date, please pass this info along to anyone who might wish to come.  I know some of you guys don't live in town, or even in TX for that matter, but I just wanted to let you know what was going on.  Actives from SFA who might be in town that week are invited as well.  I look forward to hearing from all of you.
+Howard
+Howard L. Rushing
+I am the one that was on the phone with the original call on the deal last Friday night and
+in contact with them up until this past Sunday. Let me know what I can do to help on this
+deal.
+Dutch Quigley
+Chris:
+Today we received a letter from them.  How and when do you want to respond to this?  Has anyone called them?
+Carol St. Clair
+EB 4539
+713-853-3989 (phone)
+713-646-8537 (fax)
+281-382-1943 (cell phone)
+8774545506 (pager)
+281-890-8862 (home fax)
+carol.st.clair@
+Ed Sacks has the list.  With respect to CSFB, it sounds like we have a dispute.  Trades, my understanding, can get "done" verbally and then confirmed.  It sounds like we should pull the tapes.  We should also think of whether the deal agreed to Friday is currently in or out of the money.
+Ed, could you look into this Chris:
+We need to come up with a list of trades that we terminated last Friday so that we can take them out of our books.    Do you have that list?  Also, I spoke with "Dutch" this morning because CSFB left me a message yesterday after we filed claiming that the Friday trade was not effective.  I disagree even though a confirm has not been signed.  How do you want to handle this?
+Carol St. Clair
+EB 4539
+713-853-3989 (phone)
+713-646-8537 (fax)
+281-382-1943 (cell phone)
+8774545506 (pager)
+281-890-8862 (home fax)
+carol.st.clair@
+That's fine with me , i was just trying to clean up any lose ends
+Thanks Dutch.  I spoke with John Arnold yesterday and he said that we can assume that the deal verbally confirmed on Friday does not need to be done.  That is CSFB's position and unless you disagree we will leave it at that 
+Chris Calger
+503-464-3735
+To All,
+I am the one that was on the phone with the original call on the deal last Friday night and
+in contact with them up until this past Sunday. Let me know what I can do to help on this
+deal.
+Dutch Quigley
+Chris:
+Today we received a letter from them.  How and when do you want to respond to this?  Has anyone called them?
+Carol St. Clair
+EB 4539
+713-853-3989 (phone)
+713-646-8537 (fax)
+281-382-1943 (cell phone)
+8774545506 (pager)
+281-890-8862 (home fax)
+carol.st.clair@
+Ed Sacks has the list.  With respect to CSFB, it sounds like we have a dispute.  Trades, my understanding, can get "done" verbally and then confirmed.  It sounds like we should pull the tapes.  We should also think of whether the deal agreed to Friday is currently in or out of the money.
+Ed, could you look into this Chris:
+We need to come up with a list of trades that we terminated last Friday so that we can take them out of our books.    Do you have that list?  Also, I spoke with "Dutch" this morning because CSFB left me a message yesterday after we filed claiming that the Friday trade was not effective.  I disagree even though a confirm has not been signed.  How do you want to handle this?
+Carol St. Clair
+EB 4539
+713-853-3989 (phone)
+713-646-8537 (fax)
+281-382-1943 (cell phone)
+8774545506 (pager)
+281-890-8862 (home fax)
+carol.st.clair@
+Ricardo,
+Thanks for the thought the other day.
+Kay has been laid off as of this week.
+I am still working until a deal can be done to 
+sell off the trading arm of the company.
+Will know in the next week or two.
+Dutch
+i have to say this is pretty funny.  won't happen cause
+the 'hornys will be down by 35 by the begining of the second half,
+and chance mock will be playing while chrissy will be to busy
+seeing if he could transfer to austin peay or tarleton state.
+ricardo
+Date: Wed, 05 Dec 2001 08:28:37 -0600
+________________________________________________________________
+Sent via the EV1 webmail system at mail.ev1.net
+Purvi,
+Thanks for the note. I am still working.
+Should know more with in a week.
+Who would have thought that this would ever happen.
+Life outside of work is going great. I feel blessed about that
+to help me through these tough times.
+How are you doing, work and personally ?
+Dutch
+I've been thinking about you guys these past few days and hope and pray everything works out for you. Take care and let me know if I can help in any way.
+Purvi
+Purvi Patel
+Market Analyst
+Tampa Electric Company-Wholesale Marketing and Sales
+813-225-5098-phone
+813-275-3810-fax
+pnpatel@tecoenergy.com
+It has been a pleasure getting to know you.
+Let me know if you need anything.
+Dutch
+HM 713-533-0882
+Cell 713-301-2530
+Guys, it has been a pleasure to be a part of this group and work with some of the smartest people at Enron. I enjoyed and appreciated the opportunity to work with all of you. I have learned a great deal and I hope that will give me a good foundation for the future.
+Good luck to all of you and Happy Holidays
+Home: 713-862-6397
+Cell: 832-264-6333
+email: jtrostant@yahoo.com
+Hey Lee,
+My work Number has changed to 713-853-9216.
+I was going through my voice mail on my old ext.
+I heard a msg from Friday. Just wanted to give you 
+a heads up.
+I had a great time coming over last Friday , we
+will have to have you and Beca come over soon.
+Dutch
+I have signed up for electricity through New Power and would like to be added to the pilot program.
+NewPower Connections Remote Energy Management Solution
+Henry Quigley
+3503 Durness Way
+Houston TX 77025
+what job did you end up taking ?
+Ina,
+I gave you a cellular bill to be expensed last week or early this week, do you still have it ?
+Also do you have the flight info for Miami and hotel info ?
+dutch
+yeah i am going i will touch base with you later
+John Arnold
+05/10/2001 08:18 AM
+SOblander@carrfut.com on 05/10/2001 07:50:19 AM
+Notice # 01-154
+May 7, 2001
+TO:
+All NYMEX Division Members and Member Firms
+FROM:
+Neal L. Wolkoff, Executive Vice President
+RE:
+Implementation of New NYMEX Rule 9.11A ("Give-Up Trades")
+DATE:
+May 7, 2001
+new NYMEX Rule 9.11A ("Give-Up Trades") will go into effect.
+!    In the absence of an applicable give-up agreement, new Rule 9.11A will
+define the respective responsibilities/obligations to an order of executing
+brokers, customers and Clearing Members.
+!    The term "executing broker" as used in Rule 9.11A refers to the
+registered billing entity, Member Firm or Floor Broker to whom the order is
+transmitted.
+!    Rule 9.11 will provide that, in the absence of an applicable give-up
+agreement, a Clearing Member may reject a trade only if: (1) the trade
+exceeds trading limits established by the Clearing Member for that customer
+that have been communicated to the executing broker as provided by the rule
+or (2) the trade is an error for which the executing broker is responsible.
+!    The new rule also places affirmative obligations on executing brokers
+to confirm Clearing Member authorization for an account.  For example,
+prior to an executing broker accepting and executing an initial order for
+any new customer account, such executing broker must confirm with the
+Clearing Member by telephonic, electronic or written means, that:
+(a)  the customer has a valid account with the Clearing Member;
+(b)  the account number;
+(c)  the brokerage rate;
+(d)  the customer is authorized by the Clearing Member to place orders with
+the executing broker for that account; and
+(e)  a listing or summary of persons authorized to place orders for that
+account.
+Moreover, the executing broker must retain a copy of the authorization or
+the specifics of the telephonic confirmation, which includes: opposite
+party, date, time, and any other relevant information.  The Compliance
+Department will conduct periodic audits of such records, and falsification
+of such information shall be the basis for disciplinary action.
+If you have any questions concerning this new rule, please contact Bernard
+Purta, Senior Vice President, Regulatory Affairs and Operations, at (212)
+299- 2380; Thomas LaSala, Vice President, NYMEX Compliance Department, at
+(212) 299-2897; or Arthur McCoy, Vice President, Financial Surveillance
+Section, NYMEX Compliance Department, at (212) 299-2928,
+NEW RULE 9.11A ("Give-Up Trades")
+(Entire rule is new.)
+Rule 9.11A     Give-Up Trades
+In the absence of a give-up agreement whose terms and conditions govern the
+responsibilities/obligations of executing brokers, customers and Clearing
+Members, the following rules shall define the respective
+responsibilities/obligations of those parties to an order.  The "executing
+broker", as used in this rule, is the registered billing entity, Member
+Firm or Floor Broker to whom the order is transmitted.
+(A)    Responsibilities/Obligations of Clearing Members
+(1). Limits Placed by Clearing Member.   A Clearing Member may, in its
+discretion, place trading limits on the trades it will accept for give-up
+for a customer's account from an executing broker, provided however, that
+the executing broker receives prior written or electronic notice from the
+Clearing Member of the trading limits on that account.  Notice must be
+shall be retained by the Clearing Member.
+(2). Trade Rejection.  A Clearing Member may reject ("DK") a trade only if:
+(1) the trade exceeds the trading limits established under Section I(A) of
+this rule for that customer and it has been communicated to the executing
+broker as described in Subsection (A); or (2) the trade is an error for
+which the executing broker is responsible.  If a Clearing Member has a
+basis for rejecting a trade, and chooses to do so in accordance with the
+provisions of Rule 2.21(B), it must notify the executing broker promptly.
+(3). Billing.  A Clearing Member will pay all floor brokerage fees incurred
+for all transactions executed by the executing broker for the customer and
+subsequently accepted by the Clearing Member by means of the ATOM system.
+Floor brokerage fees will be agreed upon in advance among the Clearing
+Member, customer and the executing broker.
+(B)  Responsibilities/Obligations of Executing Brokers
+(1)  Customer Order Placement.  An executing broker will be responsible for
+determining that all orders are placed or authorized by the customer.  Once
+an order has been accepted, a broker or the broker's clerk must:
+(a)  confirm the terms of the order with the customer;
+(b)  accurately execute the order according to its terms;
+(c)  confirm the execution of the order to the customer as soon as
+practicable; and
+(d)  transmit such executed order to the Clearing Member as soon as
+practicable in accordance with Exchange Rules and procedures.
+2.   Use of Other Persons.  Unless otherwise agreed in writing, the
+executing broker is allowed to use the services of another broker in
+connection with the broker's obligations under these rules.  The executing
+broker remains responsible to the customer and Clearing Member under these
+rules.
+3.    Executing Broker Responsibility for Verifying Clearing Member
+Authorization.  Prior to a broker accepting and executing an initial order
+for any new customer account, the executing broker must confirm with the
+Clearing Member by telephonic, electronic or written means, that:
+(f)  the customer has a valid account with the Clearing Member;
+(g)  the account number;
+(h)  the brokerage rate;
+(i)  the customer is authorized by the Clearing Member to place orders with
+the executing broker for that account; and
+(j)  a listing or summary of persons authorized to place orders for that
+account.
+The executing broker must retain a copy of the authorization or the
+specifics of the telephonic confirmation, which includes: opposite party,
+date, time, and any other relevant information.  The falsification of such
+information shall be the basis for disciplinary action.
+4.   Rejection of Customer Order.  Where an executing broker has confirmed
+Clearing Member authorization to execute orders on behalf of a customer in
+accordance with this Rule 9.11A, the broker may, in the broker's
+discretion, reject an order that the customer transmits to the broker for
+execution.  The broker shall promptly notify the customer and the Clearing
+Member(s) of any such rejection.
+Carr Futures
+150 S. Wacker Dr., Suite 1500
+Chicago, IL 60606  USA
+Tel:  312-368-6149
+Fax:  312-368-2281
+soblander@carrfut.com
+dutch,
+play this over the box
+[Boyt, Eric]  You have to turn up the volume a little 
+This just cracked me up 
+it is heading south alright , all of the options are out of the money so it really does not matter
+ok on the rest , we need to talk about the living arrangement and see what we think as too
+do we want to buy or jsut rent , can we talk tonight 
+how low can it go??yikes our stock
+Spoke to Linda's assistant today and told her we wanted
+to know what rent was running for the other similar townhouses
+and also what a purchase price would be- she does not know and said that she gave
+Linda my message from last time as well as this time but that she is
+not taking any calls this is the best I can do ily
+kq
+ok
+Actually I have thought about and I would prefer to just rent.
+I look forward to purchasing a house in future or something substantially bigger.
+From an investment perspective- I think we will have other opportunities in future.
+we can talk tonite too if you want
+ily
+kay
+it is heading south alright , all of the options are out of the money so it really does not matter
+ok on the rest , we need to talk about the living arrangement and see what we think as too
+do we want to buy or jsut rent , can we talk tonight 
+how low can it go??yikes our stock
+Spoke to Linda's assistant today and told her we wanted
+to know what rent was running for the other similar townhouses
+and also what a purchase price would be- she does not know and said that she gave
+Linda my message from last time as well as this time but that she is
+not taking any calls this is the best I can do ily
+kq
+I LOVE YOU
+Actually I have thought about and I would prefer to just rent.
+I look forward to purchasing a house in future or something substantially bigger.
+From an investment perspective- I think we will have other opportunities in future.
+we can talk tonite too if you want
+ily
+kay
+it is heading south alright , all of the options are out of the money so it really does not matter
+ok on the rest , we need to talk about the living arrangement and see what we think as too
+do we want to buy or jsut rent , can we talk tonight 
+how low can it go??yikes our stock
+Spoke to Linda's assistant today and told her we wanted
+to know what rent was running for the other similar townhouses
+and also what a purchase price would be- she does not know and said that she gave
+Linda my message from last time as well as this time but that she is
+not taking any calls this is the best I can do ily
+kq
+the curve adjustment is 0.13
+the mid to offer spread is 0.035
+Dutch,
+Can I get a re-quote on the attached volumes.  The numbers below represent your quotes on the curve adjustment and mid-offer spread from last week.
+Thanks
+Russell
+the curve adjustment is 0.095
+the mid to offer spread is 0.035
+dq
+Thanks Dutch,
+OK , so bid week is over and i go and try and start cutting and pasting the info in and when i try and log in there is not log in button where
+i type in my login and password , what do i need to do
+dutch
+3-9257
+Hello Dutch.
+Hope you are having a good Monday. I've delayed this message in hopes that
+you catch up with the last three weeks' assignments that you have not
+handed in yet. As I noted in our discussion last week, it will be
+signficantly helpful to Monica and I to receive any information you've
+gathered to this point, as opposed to receiving it all at the end.
+As usual, I've included the high-level outline for each content area that
+you should follow when writing this week's assignment. Remember, this
+assignment should be placed in the ECW. I've included instructions to
+remind you how to use this tool.  Note - If the content you have written
+does not fit onto the page, please just send it to us in an email. Thank
+you!
+Website:
+Login: dquigley
+Password: Enron4
+(See attached file: ECW Instructions.doc)
+This Week's Assignment: This week's assignment will be to write about each
+of the following areas:
+1) Using Futures to Hedge (Page 1_4_4_1  in the Futures topic)
+2) Types of Options (Page 1_7_3_1 - in the Options topic)
+Due Date: Friday, November 2nd, 2001
+Outlines to Help Guide You When Writing
+Using Futures to Hedge
+When to use Futures
+Lock in price to guarantee cost or cash flow for term of contract
+To hedge against the risk
+Do not care who the counterparty is
+Completion of EFP
+Hedging or Speculating
+Different Types of Users
+Non-commercials (hedge funds)
+Commercials (e.g. Enron, Dynegy)
+End users
+"Locals" ? (Guys at the Exchange trying to buy low/sell high)
+Costs involved with a futures contract
+Margin as a guarantee of contract
+Closing out a futures position
+Make or take delivery
+Reverse futures position (i.e. liquidate position)
+Exchange of a futures position for a cash position at another location
+(e.g. EFP)
+Types of Option
+<<Dutch, this should be a short write up with explanations/definitions of
+the major different types of options    Physical vs. Financial
+Asian, European and American
+Swaption
+Dutch, you may want to mention that many other types of options exist
+Finally and most importantly, please keep in mind that the completion of
+these assignments significantly impacts the the ability of our BRM project
+to stay on schedule and within budget. If you are unable to complete this
+assignment, please notify me ahead of time and provide an estimated time
+for completion.
+Thank you.
+Sheri A. Righi
+Accenture
+Human Performance Service Line
+Hartford - One Financial Plaza
+Direct Dial: 860 756 2245
+VPN & Octel: 765 2245
+e-mail: sheri.a.righi@Accenture.com
+Coral	Jeff Whitnah	713-767-5374
+Relaint	Steve McGinn	713-207-4000
+bp corp	Albert LaMore	281-366-4962
+running the reports now
+give me a contact over there too
+BP
+Coral	Jeff Whitnah	713-767-5374
+Relaint	Steve McGinn	713-207-4000
+Sarah 
+What I was remembering was the front months exposures we had at EDF MAN.
+Prior to moves                After
+DEC	-2,003			 1,967
+JAN	10,502			-1,588
+FEB	 1,338			   552
+MAR	-7,013			   188
+APR	 5,831			     33
+the over all position before the move was 1,240 and as of yesterday it is 4,205.
+Let me know what the concerns are at EDF MAN and the request that they are making.
+We can shift some positions around if the have levels by months that they want us to stay under.
+Dutch
+Dutch - please send me the numbers.  Sarah
+Sarah, 
+That's is fine , I have talk to martin since I have been at ENE for the past 2 1/2 years,
+so we will get together as needed to handle these concerns.
+Dutch
+EDF is concerned because they are worried about the number of positions they are taking on for Enron.  They want to make an additional margin call of $45 million which ENE is not willing to post (true reason: corporate liquidity issues.) According to our broker agreement with EDF, EDF is not allowed to request more margin than the NYMEX requires so we refused on that basis.  EDF may want to reduce the positions they are holding based on their perceived risk of ENE.  Ira Polk, the CFO of EDF Man said the best person to talk to is Marty Timmonds.  I would not call him up and volunteer to move positions but if he calls you and wants to do so, the moving of positions was agreed to as one way to reduce EDF Man's risk without ENE posting additional cash margin 
+Sarah 
+What I was remembering was the front months exposures we had at EDF MAN.
+Prior to moves                After
+DEC	-2,003			 1,967
+JAN	10,502			-1,588
+FEB	 1,338			   552
+MAR	-7,013			   188
+APR	 5,831			     33
+the over all position before the move was 1,240 and as of yesterday it is 4,205.
+Let me know what the concerns are at EDF MAN and the request that they are making.
+We can shift some positions around if the have levels by months that they want us to stay under.
+Dutch
+Dutch - please send me the numbers.  Sarah
+Duke	Chris Springer	713-989-0967
+duke contact?
+bp corp	Albert LaMore	281-366-4962
+running the reports now
+give me a contact over there too
+BP
+Coral	Jeff Whitnah	713-767-5374
+Relaint	Steve McGinn	713-207-4000
+give me a contact over there too
+BP
+Coral	Jeff Whitnah	713-767-5374
+Relaint	Steve McGinn	713-207-4000
+call me on this
+3-9257
+Dutch - there is a mess with Fimat and since you used to run John's book and may see something in this situation I do not, I wondered if you could give me any feedback in this before I send it to Deffner.  Thanks, Sarah=09
+On Tuesday, Oct. 30 Warren Tashnek (Fimat Houston) and Steve Forman (Fimat NY) telephoned me to inform Enron that Fimat cut its trading lines from $20 million to $11 million for Enron.  This cut is irrespective of the $20 million credit limit we have from Soc Gen for the margin line.  (Soc Gen is the bank that owns Fimat brokerage.)  Fimat made this decision based on the following events according to Steve:
+Thursday 10/25
+ENE positions were expitted from ABN to Fimat.  The positions came from existing positions at ABN, JP Morgan, SSB and Goldman Sachs.  Generally brokers agree how to handle expitting of trades including the transfer of cash associated with the moving of the trades.=20
+Specifically a major issue evolved with ABN and Fimat.  In this case, Fimat agreed with ABN to transfer the trades at the trade price and then rebook them at the trade price.  There was a $10 million variation margin associated with this transfer of trades at the trade price which ABN agreed to send on Friday to Fimat.  Since Fimat agreed to accept the trades at the trade price, Fimat was exposed in the event that ABN did not send the $10 million on Friday.  If Fimat had agreed to transfer the trades at the settlement rate instead of the trade price then Fimat would not have been exposed for $10 million in variation margin on Thursday night.   =20
+Friday, 10/26
+On Friday, Fimat did not receive its $10 million from ABN as agreed.  When Fimat called ABN, ABN told Fimat that ENE called ABN and instructed ABN to send the money directly to ENE.  This left Fimat exposed for $10 million on behalf of Enron. =20
+On Friday morning, Fimat brokerage statements showed that ENE was owed $28 million by Fimat.  Fimat sent $5.7 million to Soc Gen to pay down the Soc Gen margin line for Enron.  This left $22 million available for ENE but Fimat wanted its $10 million.  This led to confusion between Enron and Fimat.=20
+On Friday, there was a conversation between Fimat NY and Fimat Montreal.  Fimat Montreal asked Fimat NY to take positions on behalf of ENE.  The number of positions and the variation margin associated with these positions were undisclosed. =20
+Very late on Friday, HSBC tried to transfer Canadian positions to Fimat Canada without an account for Enron at Fimat Canada. =20
+Based in the bad press on Enron and the gossip in the financial community right now, Fimat NY told Fimat Montreal to refuse the transfer. =20
+Fimat wants to know why Enron is expitting trades from bigger brokerage houses that have increased risk allocations fro Enron.  Fimat is uncomfortable with these events. =20
+Monday, 10/29
+Fimat decides it wants an explanation from Enron.  Fimat wants to reassess the brokerage statements and double check both the amount of money transferred to them and also the positions transferred.  Fimat informed Enron that it would not move money based on brokerage statements alone.  Fimat would not confirm to Enron what amounts of money should actually move until later in the day.  This does not work for Enron as we must inform our Treasure by 8:00 am as to what cash transfers will occur.  Under our current loan agreement with Soc Gen, Fimat informs Soc Gen by 12:00 noon if money should move so Fimat is changing its way of doing business with Enron based on its discomfort with ENE as a counter party. =20
+Tuesday, 10/30
+100 positions were expitted to Fimat to offset the gas positions from ABN.
+Fimat proposed solutions
+$3 million T-bill posted to Fimat as collateral on ENE behalf
+Guarantee to Fimat with respect to trading from ENE (although ENE has already posted guarantee to Soc Gen for margin line)
+ENE to convince Soc Gen to guarantee to Fimat that Soc Gen will make payments on ENE's behalf
+My tkae on the situation:
+Fimat is upset based mainly on Enron's handling of expitted trades and bad press.  I told Fimat that I believed the reason trades were expitted to Fimat was that ENE wanted to move its positions to brokers who were offering margin lines to ENE.  I promised to look into our handling or mishandling of the situaiton but it seems that disorganization rather than ill intent was responsible for Fimat's inconveniences.   I explained that Enron is prepared neither to mediate between Soc Gen and Fimat nor to cause Soc Gen to make payments to Fimat on our behalf.  That issue should have been resolved when the amrgin line was set up and the payment mechanism has been working fine so far.  As far as the confusion with ABN, we were not party to the discussions betweeen Fimat and ABN and can not make any comment to that.    Finally we can not make margin payments to Fimat when we do not have proper notice time.  I am sorry that there is bad press out there but I do not think we should give Fimat special permission to comb through our statements on an on going basis.  This may have been necessary for them earlier this week but they need to get their act together and get the proper number to us early in the morning like all the other brokers. =20
+We need to determine how much we need Fimat right now.  I am not inclined to entirely blow them off especially sinces I  do not want them to tell other brokers that we are acting strangely and hurt our reputation further right now.  At the same time, no one around Enron needs more work right now and we can not hold a high maintenance broker's hand hand every step of the way.  Let's decide what to do and implement.
+Sarah
+i need a unlisted phone number pls
+Dutch Quigley
+Monica,
+We need to reschedule our meeting to some time next week.
+Dutch
+Hi Dutch,
+This message is to confirm our meeting with you on, Thursday, November 1st
+from 2:30pm - 4:30 pm, the location will be EB 3241 John Arnold's office.
+Attendees will be Monica Brown.   (Let me know if it is okay for us to meet
+in John Arnold's office)
+Also, could you send me your homework assignment for me to review and place
+into the ECW.  Sheri said that you were having problems inputting your
+homework into the ECW.
+I need to schedule sometime with you for next week, how does Tuesday,
+November 5th from 3:30 pm - 4:30 pm sound.
+Let me know if you have any questions or concerns, I can be reached at
+713-345-6687.
+Thanks,
+Monica L. Brown
+Accenture
+Houston - 2929 Allen Parkway
+Direct Dial: +1 713 837 1749
+VPN & Octel: 83 / 71749
+Fax: +1 713 257 7211
+email: monica.l.brown@accenture.com
+I just want you to know that i am sorry for everything that i have done Kay
+I love you and i want to be your husband forever 
+ILY
+Dutch
+PS 
+I have changed my work number , having my cell phone changed , not talked to her when she called and will work
+on the last thing 
+Do you know anything about this?
+Hi Greg and Georganne,
+Per our statement from EDF Man today, it appears that we have excess on our account of $9,535,870.00.  Upon speaking to Paul at EDF Man, he told me that no money would be transfered.  He said that someone in their office was speaking to Marty Timmins in our office..???  Have either of you heard anything regarding the wire for today  
+I thank you for your help in this matter.
+gg
+Larry,
+Good to hear from you this morning, I will get back to you thoughout the day when trading is lighter
+Sarah
+anymore fall out with fimat talking to edf now
+Dutch - please let us know what you find out in your discussions with Man today.  Thanks, Sarah
+Sarah,
+Are you involved in this??
+Hi Greg and Georganne,
+Per our statement from EDF Man today, it appears that we have excess on our account of $9,535,870.00.  Upon speaking to Paul at EDF Man, he told me that no money would be transfered.  He said that someone in their office was speaking to Marty Timmins in our office..???  Have either of you heard anything regarding the wire for today  
+I thank you for your help in this matter.
+gg
+My new cell phone # is 713-301-2530
+LOVE 
+dq
+I have changed my phone numbers to the following
+Cell - 713-301-2530
+WK - 713-853-9216
+Dutch
+Dutch - please double check the below information and comment on it 
+According to Man, Man expected these positions to be xpitted per their conversations with Dutch and John on 10/31/2001.  They were not xpitted.  If these were supposed to be xpitted and we did not do it, please sign off on it so Jason and Errol can implement it early on Friday 11/2 Please call me if there is any confusion so that we can put this issue to rest as early as possible 
+Thanks, Sarah
+Gerri,
+I assume this is for all commodities at EDF Man, would Frank have the break down in about 1 hour ?
+Dutch
+Good Morning All,
+F.Y.I  
+Again we have excess on our account today with EDF Man.  When I called to confirm, Paul tells me that no money with be transfered.  Total amount of excess is $24,296,123.00  
+Please call me if any questions or concerns.
+Thanks!
+gg  
+Good Morning All,
+F.Y.I  
+Again we have excess on our account today with EDF Man.  When I called to confirm, Paul tells me that no money with be transfered.  Total amount of excess is $24,296,123.00  
+Please call me if any questions or concerns.
+Thanks!
+gg  
+Gerri  
+Frank gave me the info that per the EDF statement NG margin is 17,062,684 with them
+From what you see is this number possible ?
+Dutch
+Hi Dutch,
+You are correct, this is the related master number.  I would guess that by 9:30 ish Frank should have his numbers finalized, as my report is complete and ready for him to load.
+I have not been forecasting EDF's number with treasury....if you believe that they will be sending this amount, please let me know so that I may inform treasury.
+Thanks!
+gg  
+Gerri,
+I assume this is for all commodities at EDF Man, would Frank have the break down in about 1 hour ?
+Dutch
+Good Morning All,
+F.Y.I  
+Again we have excess on our account today with EDF Man.  When I called to confirm, Paul tells me that no money with be transfered.  Total amount of excess is $24,296,123.00  
+Please call me if any questions or concerns.
+Thanks!
+gg  
+Just wanted to let you know that i am thinking of you 
+ILY
+dq
+thnx Gerri
+Hi Dutch,
+Yes, I would think this is possible because the overall margin excess is $24,296,123.00.  Unfortunately, I don't see any "breakdowns" on the numbers.
+Hope this helps!
+gg
+Gerri  
+Frank gave me the info that per the EDF statement NG margin is 17,062,684 with them
+From what you see is this number possible ?
+Dutch
+Hi Dutch,
+You are correct, this is the related master number.  I would guess that by 9:30 ish Frank should have his numbers finalized, as my report is complete and ready for him to load.
+I have not been forecasting EDF's number with treasury....if you believe that they will be sending this amount, please let me know so that I may inform treasury.
+Thanks!
+gg  
+Gerri,
+I assume this is for all commodities at EDF Man, would Frank have the break down in about 1 hour ?
+Dutch
+Good Morning All,
+F.Y.I  
+Again we have excess on our account today with EDF Man.  When I called to confirm, Paul tells me that no money with be transfered.  Total amount of excess is $24,296,123.00  
+Please call me if any questions or concerns.
+Thanks!
+gg  
+I LOVE YOU BABY
+dq
+not a good time the market is picking up, call later please
+Monica,
+Due to several projects that have arisen I have been out of pocket the past week and a half.
+My schedule would allow for us to meet later in week next week, lets go for Thursday Nov 8th.
+Dutch
+My New Phone number 713-853-9216
+Hi Dutch,
+Can we reschedule some time with you on Monday, November 5th from 2:30pm -
+4:30pm and Wednesday, November 7th from 3:30-4:30pm.  Sheri and I will need
+some of your time and Laura and Mery will also need some of your time.
+Let me know if you have any questions, I can be reached at 713-345-6687.
+Thanks,
+Monica L. Brown
+Accenture
+Houston - 2929 Allen Parkway
+Direct Dial: +1 713 837 1749
+VPN & Octel: 83 / 71749
+Fax: +1 713 257 7211
+email: monica.l.brown@accenture.com
+Dutch.Quigley@.c
+Monica,
+We need to reschedule our meeting to some time next week.
+Dutch
+Hi Dutch,
+This message is to confirm our meeting with you on, Thursday, November
+1st
+from 2:30pm - 4:30 pm, the location will be EB 3241 John Arnold's
+office.
+Attendees will be Monica Brown.   (Let me know if it is okay for us to
+meet
+in John Arnold's office)
+Also, could you send me your homework assignment for me to review and
+place
+into the ECW.  Sheri said that you were having problems inputting your
+homework into the ECW.
+I need to schedule sometime with you for next week, how does Tuesday,
+November 5th from 3:30 pm - 4:30 pm sound.
+Let me know if you have any questions or concerns, I can be reached at
+713-345-6687.
+Thanks,
+Monica L. Brown
+Accenture
+Houston - 2929 Allen Parkway
+Direct Dial: +1 713 837 1749
+VPN & Octel: 83 / 71749
+Fax: +1 713 257 7211
+email: monica.l.brown@accenture.com
+that is great baby
+keep up the great work
+Thanks for the sweetness on my pager
+i am closing a deal right now
+kq
+Kaye,
+=20
+Please send this to John Emert
+=20
+David,
+=20
+This is the section to take care of having 3 counterparties involved.
+Our legal dept is still writting the 90 no margin section.
+I will get that to as soon as it is done.
+=20
+Dutch
+713-853-9216=20
+Each of the parties to this Agreement recognizes and acknowledges that the parties are acting and agreeing to perform their obligations hereunder in reliance upon (i) the timely execution and delivery by [legal name of other counterparty] ("Third Party") and Party A of a transaction in substantially the form attached hereto as Exhibit A ("Third Party Transaction A") and would not otherwise agree to execute, deliver and perform under this Agreement if Third Party and Party A were not contemporaneously executing and delivering Third Party Transaction A and (ii) the timely execution and delivery by Third Party and Party B of a transaction in substantially the form attached hereto as Exhibit B ("Third party Transaction B") and would not otherwise agree to execute, deliver and perform under this Agreement if Third Party and Party B were not contemporaneously executing and delivering Third party Transaction B.  The effectiveness of this Agreement shall be subject to the condition that contemporaneously with the execution and delivery of this Agreement Party A and Third Party execute and deliver Third Party Transaction A and Party B and Third Party execute and deliver Third Party Transaction B.
+Kaye,
+Please send this to John Emert also
+David,
+This is the section to take care of the non margining that we discussed
+Dutch
+713-853-9216 
+Additional Provision:
+Party A and Party B agree that from November__, 2001
+Through  __, 2001 this Transaction shall not constitute a Transaction for purposes 
+Of the calculation of  "Exposure Amount " and " Not Exposure "
+As such terms are defined in Annex A to the ISDA Master Agreement dated as of February 28, 1992 between Party A and Party B.
+thnx for the update Gerri
+Hi Dutch,
+I hated to call you to tell you I still don't have an answer from EDF Man.  I spoke to Paul again about 5 min. ago (1:45) and he tells me that he still can't get an answer but that I'm the first on the list to call!!??  I then called our treasury department and spoke to Nera and she says that the wire has not come in as of yet.
+I'll let you know as soon as I do!
+gg
+Sarah,
+Trading on EOL for the most part is normal.
+Dutch
+Have you seen any skittishness on the part of traders to use EOL or is demand for trading the same as usual? 
+I LOVE YOU HONEY
+Gerri ,
+Did he say why he could not confirm the money transfer ?
+Dutch
+Good Morning!
+We have excess of $4,498,358.00 with EDF Man.  I called and talked with Paul this morning and he said that he could not confirm the wire for today as of yet  
+I'll let you know asap.
+Thanks!
+gg
+Gerri,
+Do you know who pays the brokers commissions each month ?
+I am trying to gather the per transaction costs they we pay on the exchange.
+Dutch
+Good Morning!
+We have excess of $4,498,358.00 with EDF Man.  I called and talked with Paul this morning and he said that he could not confirm the wire for today as of yet  
+I'll let you know asap.
+Thanks!
+gg
+Gerri  
+We , the financial natural gas desk , were under the impression that dealings with EDF Man are suppose to be conducted as
+normal. I am calling EDF to find out why are money ahs not been wired as normal.
+Dutch
+Hi Dutch,
+No, all he said was that he hadn't been given instructions as of yet (7:50).  I've just called him again (9:05), and he said that he was told that there would be no money transfered either way  
+Thanks!
+gg
+Gerri ,
+Did he say why he could not confirm the money transfer ?
+Dutch
+Good Morning!
+We have excess of $4,498,358.00 with EDF Man.  I called and talked with Paul this morning and he said that he could not confirm the wire for today as of yet  
+I'll let you know asap.
+Thanks!
+gg
+will do Gerri
+After the past week, I've forgotten what normal was!!  Thanks for your help!! Dutch, when you find out if the money is being transfered, would you please call me so that I can inform treasury?
+Thanks!
+gg
+(281) 252-9892
+Gerri  
+We , the financial natural gas desk , were under the impression that dealings with EDF Man are suppose to be conducted as
+normal. I am calling EDF to find out why are money ahs not been wired as normal.
+Dutch
+Hi Dutch,
+No, all he said was that he hadn't been given instructions as of yet (7:50).  I've just called him again (9:05), and he said that he was told that there would be no money transfered either way  
+Thanks!
+gg
+Gerri ,
+Did he say why he could not confirm the money transfer ?
+Dutch
+Good Morning!
+We have excess of $4,498,358.00 with EDF Man.  I called and talked with Paul this morning and he said that he could not confirm the wire for today as of yet  
+I'll let you know asap.
+Thanks!
+gg
+Gerri,
+They David Early told me that you have already been contacted that the money would come over ?
+They told me that it would.
+Dutch
+After the past week, I've forgotten what normal was!!  Thanks for your help!! Dutch, when you find out if the money is being transfered, would you please call me so that I can inform treasury?
+Thanks!
+gg
+(281) 252-9892
+Gerri  
+We , the financial natural gas desk , were under the impression that dealings with EDF Man are suppose to be conducted as
+normal. I am calling EDF to find out why are money ahs not been wired as normal.
+Dutch
+Hi Dutch,
+No, all he said was that he hadn't been given instructions as of yet (7:50).  I've just called him again (9:05), and he said that he was told that there would be no money transfered either way  
+Thanks!
+gg
+Gerri ,
+Did he say why he could not confirm the money transfer ?
+Dutch
+Good Morning!
+We have excess of $4,498,358.00 with EDF Man.  I called and talked with Paul this morning and he said that he could not confirm the wire for today as of yet  
+I'll let you know asap.
+Thanks!
+gg
+I have been woundering also,
+thnx for letting me know that this was going on this morning
+dq
+Thanks Dutch.....I had not be informed until after you made the call!!  So, I begining to wonder about those guys!!
+gg
+Gerri,
+They David Early told me that you have already been contacted that the money would come over ?
+They told me that it would.
+Dutch
+After the past week, I've forgotten what normal was!!  Thanks for your help!! Dutch, when you find out if the money is being transfered, would you please call me so that I can inform treasury?
+Thanks!
+gg
+(281) 252-9892
+Gerri  
+We , the financial natural gas desk , were under the impression that dealings with EDF Man are suppose to be conducted as
+normal. I am calling EDF to find out why are money ahs not been wired as normal.
+Dutch
+Hi Dutch,
+No, all he said was that he hadn't been given instructions as of yet (7:50).  I've just called him again (9:05), and he said that he was told that there would be no money transfered either way  
+Thanks!
+gg
+Gerri ,
+Did he say why he could not confirm the money transfer ?
+Dutch
+Good Morning!
+We have excess of $4,498,358.00 with EDF Man.  I called and talked with Paul this morning and he said that he could not confirm the wire for today as of yet  
+I'll let you know asap.
+Thanks!
+gg
+Sarah,
+Yes they tried to keep our money but I made a few phone calls and they are sending us our money as they should be.
+Thnx
+dq
+Mojo,
+that is sweet , pardon the pun
+those cakes look great , what is in the casino cake ?
+it looks pretty cool
+How are things going for you ?
+Have you settled into a groove yet ?
+This past weekend was great for me.
+I spent the entire weekend with Kay we had dinner with my parents on sat. Night
+and just hung out the entire weekend.
+I have had a very different out look on life lately and
+it has been working well for me. I have started to ask
+alot more questions instead of always assuming the answer.
+It has been working well for me.
+Hope all is good with you.
+Laters
+dq
+Here's a few of the cakes that we make at the bakery.  I'm hoping to
+document the rest of the cakes, petit fours, breads, and morning
+pastries that we do over the next few days.
+The message above was sent to you by Monique Sanchez
+using Shutterfly, the best place to print, share and get creative
+with your pictures online.
+HOW TO VIEW THESE PICTURES
+To see the pictures Monique Sanchez
+is sharing with you, simply go to:
+(If you can't click on this link, try copying and pasting it
+into your web browser.)
+If you like the pictures, you'll be able to order prints or save them
+into a Shutterfly account of your own where you can use all of
+Shutterfly's features, including photo greeting cards, frames, and
+enhancement tools.
+If you're not a member yet, you'll get 15 free 4x6 prints just for
+signing up!
+If you have any questions about Shutterfly, please contact our
+customer service department using our online webforms:
+Shutterfly
+Where your pictures live
+So on the EDF Man acct if we executed and cleared throught them the total cost paid to EDF is  what ?
+with the Floor rate 1.25 & clearing 0.90
+do you also have the NYMEX fees ?
+NYMEX fees are the same regardless of the Broker correct
+For a full round turn it would be as follows 
+Floor rate $2.50
+Clearing   $1.80
+NYMEX Fees  .80
+TOTAL:  $5.10
+So on the EDF Man acct if we executed and cleared throught them the total cost paid to EDF is  what ?
+with the Floor rate 1.25 & clearing 0.90
+Franky,
+lets meet next week when we get into the new building
+dq
+Hi Dutch,
+Do you want to meet sometime today to discuss about the new graph or chart that you want me to develop?
+Let me know.
+Thank you
+Franky Sulistio
+Sr. IT Specialist
+Enron Networks
+Ph.(713) 345-3611
+Email: franky.sulistio@
+?	"Success hinges on a passion for excellence."
+Good Morning Baby
+Hope that you have a great day , i am thinking of you
+ILY
+dq
+If you're receiving this email its because we're still waiting on a response from you.  Please reply to this message ASAP.  See below for details.
+Thanks,
+Dan
+We are in the process of confirming that all traders are set up correctly and ready to trade when the system goes live. 
+We need to make sure that your Stack Managers are accessing the correct database. In order to do this, we need to know how you access Stack Manager:
+1) Through Terminal Server (the one that opens up a desktop within a desktop and it actually appears that you have two Start buttons or
+2) By opening the Stack Manager directly from your "native" desktop (stand alone computer).
+Please reply to this message with either a corresponding "1" or a "2" in the subject field.
+If you're not sure which one you have, please contact myself x39673, Teresa Mandola x39807 or Jennifer McQuade x53614 and we'll come by your desk to help you.
+Thank you,
+Dan Diamond
+Ina,
+Three things please;
+1. Do I order business cards through you or the associate program
+2. For my left line I need a shoulder rest & a mount put under my desk
+3. I need a tray that will mount on to the divider of the desk
+Let me know what I need to do so I can get this done
+Dutch
+Can I order the Block of butter pls 
+that is great mo
+Hope you are enjoying as well as learning
+laters
+dq
+Hola,
+Still having fun w/ my new toy... This is mostly everything we make for
+daily business.  Patrick is very demanding but he is teaching me a lot
+and preparing me for the rigors of doing this professionally.  Take
+care and go ENE! - Mo
+The message above was sent to you by Monique Sanchez
+using Shutterfly, the best place to print, share and get creative
+with your pictures online.
+HOW TO VIEW THESE PICTURES
+To see the pictures Monique Sanchez
+is sharing with you, simply go to:
+(If you can't click on this link, try copying and pasting it
+into your web browser.)
+If you like the pictures, you'll be able to order prints or save them
+into a Shutterfly account of your own where you can use all of
+Shutterfly's features, including photo greeting cards, frames, and
+enhancement tools.
+If you're not a member yet, you'll get 15 free 4x6 prints just for
+signing up!
+If you have any questions about Shutterfly, please contact our
+customer service department using our online webforms:
+Shutterfly
+Where your pictures live
+what is on sunday ?
+I thought we were all going somewhere on Sunday??? Mark 
+ I am in. What day? What time? Where? Can we get out there early?

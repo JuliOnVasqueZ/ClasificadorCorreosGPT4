@@ -1,0 +1,913 @@
+- Houston Flood June 2001.pps 
+u have my permission to change it 
+6/19 - NY TRANS ID 5071111, DEAL 654632 HE 6 ENPOWER IS SHOWING 300 MW AND NY IS SHOWING 233.39 MW.  I LOOKED ON THE NY WEB SITE AND IT IS SHOWING 231 MW.
+Could you also forward this to JD for me?  Does he still remember me?  --Thy
+- invitation.gif 
+going forward, go by the settlement report
+ok, which one do I change it to?  233.39 or 231?
+u have my permission to change it 
+6/19 - NY TRANS ID 5071111, DEAL 654632 HE 6 ENPOWER IS SHOWING 300 MW AND NY IS SHOWING 233.39 MW.  I LOOKED ON THE NY WEB SITE AND IT IS SHOWING 231 MW.
+i'm in for the night stuff.  just tell me when and where.
+X-Server-Uuid: 26fe3e76-19dd-11d3-be09-0008c7b1f151
+HB is Dying 
+Tom Tran
+Logistic & Trade Accounting
+Chevron Financial Center(CFC)
+Phone 713-754-4737
+E-mail  Topt@Chevron.com
+i changed it
+6/26 - DEAL 664367, NY TRANS ID 5071111, NY SHOWING 2,963.82 MW WHILE ENPOWER IS SHOWING 2,679 MW
+Travis,
+Count me in on Cozumel.
+LC
+I AM NOT THE LARRY CAMPBELL YOU'RE LOOKING FOR.
+I'M LARRY F. CAMPBELL.
+Alert!
+You are receiving this message because you have an unresolved invoice in your iPayit in-box that is past due.  It is critical that you login to iPayit and take immediate action to resolve this invoice.
+Remember, you play an important role in ensuring that we pay our vendors on time.
+Tip!:  You must login to the system to forward this invoice to another user.
+To launch iPayit, click on the link below:
+Note:  Your iPayit User ID and Password are your eHRonline/SAP Personnel ID and Password.
+First time iPayit user?  For training materials, click on the link below:
+Need help?
+North America: ISC Call Center at (713) 345-4727.
+Europe: European Accounts Payable at +44-20-7783-7520.
+Asia-Pacific: Sydney Accounts Payable at +61-2-9229-2336
+THANJ YOU.
+Hey Larry,
+SOCO and JEA deals in Excel were checked with all upstream and downstream counterparties using OATI.  They all saw what we saw.
+brant
+John/TXU
+Brad/TEA
+Jack/JEA
+Todd/Soco
+Joe/Morgan
+THANK YOU.
+Campbell,
+We had a discrepancy with WESCO on our checkouts for 9/23/2001.  WESCO shows all 100 MW with the following path:
+SCEG-SCEGW135074F50/50-SCEG-DYPMI - WESCO   MORGAN  - SOCO-SOCOW/S
+WESCO does not recognize the schedule with the following path for 25MW:
+MDU-CARGILL-MAPPW-AMRNW-TVAW-CARG-SCEG-DYPMI - WESCO   MORGAN  - SOCO-SOCOW/S  
+We both agree that 100 MW should sink at SOCO, however, they show all 100 coming from SCEG into SOCO, and we show 75 from SCEG to SOCO and 25 from MDU to SOCO.  Let me know if I need to make any changes.
+Thanks,
+Jason Berlin
+(I'm using Reese's email)
+Lewis Eugene Adkins
+9214 Sanford
+Houston, TX 77031
+DL# 04165772
+Larry's cell 713-628-0674
+THANK YOU
+Pls call Marshall Brown
+Lisa Shoemake
+East Power Trading
+EB3125a
+Off. 713-853-9194
+Fax 713-646-8272
+Scheduling Issue:	
+1024	MIRANT(Rala) told me that they could not schedule anymore transactions with me.
+She confirmed they were defaulting on their contracts.
+1050	Informed DYPMI(Katherine) that MIRANT was defaulting on their contracts thus preventing
+me from fulfilling my obligation to DYPMI.
+1200	Russell spoke to the DYPMI trader to discuss LD protocol.
+Option Issue:
+904	MIRANT(Blake Mason) would not accept my exercising of an option.  He confirmed they 
+were defaulting on a firm LD product.
+1051	Told WESCO(Sherry) that MIRANT's defaulting prevented me from fulfilling my obligation  
+to them.
+1200	WESCO(Sherry) informed me WESCO was going to LD ENRON. 
+No.  His e-mail is physics123@yahoo.com and home number is 7-662-3006
+Do you have Mike's new address?
+Karen  
+gfnbfgnf
+John, in response to you questions below, im da man.  Ill call you today or tomorrow concerning  your possible suggestions and recommendations for dinner, blocking the rooms and the time for the event....the group had originally planned on blocking out 70 rooms.  Enough for the field DES's, safety specialists, env. and safety group in Houston, Danny Pribbles direct reports, Rich Jolly and his advisors, plus guests and speakers.......anyone else? 
+John.Shafer.enronXgate@ on 10/29/2001 09:52:44 AM
+Meeting Planning Team,
+This like it is on target at this point.  You should probably circulate the
+draft to Pribble, after you are comfortable with it, to get his preliminary
+buy-in.  Now, I do have a few questions.  Is someone talking with the
+Little America Hotel in Flagstaff and blocking out enough rooms for our
+meeting?  When can we get some preliminary dates (How about the week of
+April 22, 2002?)???   If that week is not good, then go to the second week
+in May as I will have serious conflicts with the first week of May.  Also,
+who will be in charge of planning the evening dinners?  I would like to
+talk with that person as I have a couple of "fun" ideas to offer about
+where we might go for dinner.  Thanks to both the North Safety Team and the
+SW Environmental Team for taking a lead role in this.  John
+Hi all,
+Attached is a rough draft of the spring Flagstaff Safety and
+Environmental meeting. Please feel free to comment, the second page are
+notes from our meeting with assignments.
+andy
+402 398 7183 office
+402 616 3438 cell
+Bill as per your request, presented below is a status of the air permitting activity by the agencies as of today 11/01/01.
+Stations 1 and 2. The EPA has completed is review of these state permits and has sent them back to the ADEQ for comment.  I have spoken to Shudeish, the permit engineer for the ADEQ, and he is reviewing EPA's comments as this e mail is being written.  He will give me a call when his review is complete, but he does not anticipate any major issues which cant be resolved prior to the public hearing.  These permits went out for public notice on October 15 and 16, which means that the comment period ends on Nov. 15 and 16.  The ADEQ plans on holding the public hearing for both permits on monday Nov. 19 in Williams AZ. at 7:00 pm.  I plan on being there.  Williams is located approx. 30 miles west of Flagstaff, AZ.  The address for the hearing is the Council Chambers located at 113 south 1st street.  So far, there have been no responses submitted to the ADEQ by the public.  In EPA's review process, they  had a problem with methodology proposed by Transwestern for measuring sulfur in the fuel gas.  We had proposed stain tubes in the custom fuel monitoring schedule, they wanted us to do wet chemistry.  We convinced them otherwise (Byron, because of this, you wont need to order a sulfur analyzer for the Needles facility.  This should save you about $40K).  There was also an issue with manufacturers quarantees regarding particulate matter emissions from the turbine and catepillar.  This has been resolved also.
+Stations 3 and 4.  I received a call from Roger Kohn, the permit engineer for the EPA.  He is satisified with the permit application contents and has also approved stain tubes for the sulfur measurement at these locations.  There are no outstanding issues on these permits from the EPA.  The public comment period for the Station 3 and 4 permits ends Nov.  3.  After this date, it will take 1-2 weeks for the Regional Administrator of the EPA to sign off on the permits  and then he will have them issued to Transwestern.  As of this date, there have been no comments submitted to the EPA for the permits for station 3 and or 4.
+Ill keep everyone apprised of future events.
+The third quarter PCB meeting with Southern California Gas Company was held this morning.  SoCal presented a third quarter invoce of their PCB management and disposal activities for which Transwestern is responsible for $120,602.19.  All charges were appropriate and considered normal operating expenses for PCB activities in California.
+The public hearing was held in Williams, AZ for the Kingman and Flagstaff air permits under the Redrok Expansion.  There were no comments or concerns brought up at the meeting as no individuals came to the meeting.  An email was received from the ADEQ presenting the minor additions which will be added to each permit.  Each comment and addition will not impact or change the draft permits which were received earlier this month.  The permits for Klagetoh and Luepp were received from the EPA last week.  The permits from the ADEQ for the Kingman and Flagstaff C/S will be issued the later part of this week. 
+Attended the incident investigation and technical writing workshop in Omaha.
+Assisted the Mountainair team with the semiannual Title V compliance monitoring report  for C/S No.7.
+A meeting was held in Phoenix, Az with PG&E to review charges and invoices by PG&E for PCB management and disposal activities on their system for the last several months.   Also discussed was recent liquids sampling results and proposed PCB activities on the PG&E system for 2002. 
+Charlie, can you take care of this?  Please respond and let me know your thoughts 
+Please respond to Mr. Campbell,
+Based on the recent information acquired from Solar the Keystone turbine is
+not subject to GG.  Argent has revised the renewal application to change the
+GOP index # to a negative applicability code.  Since the GOP was revised
+last year to add the GG code, this is classified as a revision to the GOP.
+The following pages were revised;
+1. OP-2 form Table 1
+2. OP-REQ1 form pages 9 and 12
+3. OP-UA11 form
+4. Process description was revised to add a paragraph explaining the reason
+for the revision
+5. Add Appendix G: Solar Turbine Documentation
+6. Revised Table of Content to add the Appendix G
+7. Revised the matrix table changing the "Notes" entry for unit 3 from
+"Subject to 40 CFR 60 GG" to "40 CFR 60"
+Attached are the affected files.  Th eleven renewals for your area were hand
+delivered to Mr. Child yesterday (November 27).  If Mr. Child has access to
+Microsoft Word and an Adobe reader version he can replace the revised pages.
+You can request that Mr. Child replace the revised pages or Argent can send
+him another copy of the renewal.  Please let me know your preference.
+Jon E. Fields, REM
+Argent Consulting Services, Inc.
+Ph: (281) 953-1008
+Fx: (291) 759-9656
+- op-2.pdf   - op-req1.pdf   - OPUA11.pdf   - TitleVreport.doc  
+Go for it
+Please respond to Larry,
+Gumaro Rodriguez is working the Crane Title V issue for us.  He is going to
+need the following items;
+1.  A change of ownership letter.  Was one already submitted?  Gumaro shows
+no record of one.
+2. OP-CRO2 form for change of RO;
+3. O-CRO1 form.
+I can generate this stuff for you.  Let me know if you find a change of
+ownership letter.
+Jon E. Fields, REM
+Argent Consulting Services, Inc.
+Ph: (281) 953-1008
+Fx: (291) 759-9656
+Teams, Danny Collier, Region IX, EPA in Sanfrancisco,  has requested that we fax to him at 415-947-3549 the water well coliform bacteria reports for the Leupp and Klagetoh C/S for October and November.  Please send this to him at your earliest convenience 
+who cares
+make your changes in a new colour to identify your revisions..
+Peter
+Ed I have been busy in Az and have neglected your email.  Sorry about that.  Is there a one page form that I can submit that will say that nothing has changed at a faility in the last 5 years for the below facilities?  Either that or I can write a one page letter stating this fact and reqeust that the OCD renew the permit again.  Which is best for you?
+Here's a listing of the permits expiring over the next year or so:
+GW-90		Portales C.S.		Expires 2/27/02
+GW-89		Corona C.S.		Exprers 3/9/02
+GW-95		Laguna C.S.		Expires 3/9/02
+GW-109	Carlsbad C.S.		Expires 5/18/02
+GW-110	Mountainair C.S.	Expires 5/18/02
+GW-113	Eunice C.S.		Expires 6/19/02
+GW-283	Jal C.S.			Expires	6/24/02
+GW-285	Bisti C.S.		Expires 9/24/02
+As you know, if you get your renewal applications in 120 prior to the
+expiration date, the permit will not expire on the dates above, but will
+extend until all paperwork is done on my end.
+We need to go out and look at all of these at some point in time, but I will
+get back with you to set up a schedule.
+Take care and have a good Thanksgiving.
+Ed
+FYI
+ > > > > >FW: The below is a true story -- It was on TV and in the
+ > > > > > > > >Readers Digest
+ > > > > > > > >Importance: High
+ > > > > > > > >> > > The 26-year-old mother stared down at her son who was
+ > > > > > > > >> > > dying of terminal leukemia. Although her heart was
+ > > > > > > > >> > > filled with sadness, she also had a strong feeling of
+ > > > > > > > >> > > determination. Like any parent she wanted her son to
+ > > > > > > > >> > > grow up and fulfill all his dreams. Now that was no
+ > > > > > > > >> > > longer possible. The leukemia would see to that. But
+ > > > > > > > >> > > she still wanted her son's dreams to come true. She
+ > > > > > > > >> > > took her son's hand and asked, "Billy, did you ever
+ > > > > > > > >> > > think about what you wanted to be once you grew up?
+ > > > > > > > >> > > Did you ever dream and wish what you would do with
+ > > > > > > > >> > > your life?"
+ > > > > > > > >> > > "Mommy, I always wanted to be a fireman when I grew
+ > > > > > > > >> > > up." Mom smiled back and said, "Let's see if we can
+ > > > > > > > >> > > make your wish come true." Later that day she went
+ > > > > > > > >> > > to her local fire department in Phoenix, Arizona,
+ > > > > > > > >> > > where she met Fireman Bob, who had a heart as big as
+ > > > > > > > >> > > Phoenix. She explained her son's final wish and
+ > > > > > > > >> > > asked if it might be possible to give her six-year-
+ > > > > > > > >> > > old son a ride around the block on a fire engine.
+ > > > > > > > >> > > Fireman Bob said, "Look, we can do better than that.
+ > > > > > > > >> > > If you'll have your son ready at seven o'clock
+ > > > > > > > >> > > Wednesday morning, we'll make him an honorary fireman
+ > > > > > > > >> > > for the whole day. He can come down to the fire
+ > > > > > > > >> > > station, eat with us, go out on all the fire calls,
+ > > > > > > > >> > > the whole nine yards! "And if you'll give us his
+ > > > > > > > >> > > sizes, we'll get a real fire uniform for him,
+ > > > > > > > >> > > with a real fire hat-not a toy one-with the emblem
+ > > > > > > > >> > > of the Phoenix Fire Department on it, a yellow
+slicker
+ > > > > > > > >> > > like we wear and rubber boots. They're all
+ > > > > > > > >> > > manufactured right here in Phoenix, so we can get
+them
+ > > > > > > > >> > > fast."
+ > > > > > > > >> > > Three days later Fireman Bob picked up Billy, dressed
+ > > > > > > > >> > > him in his fire uniform and escorted him from his
+ > > > > > > > >> > > hospital bed to the waiting hook and ladder truck.
+ > > > > > > > >> > > Billy got to sit on the back of the truck and help
+ > > > > > > > >> > > steer it back to the fire station. He was in heaven.
+ > > > > > > > >> > > There were three fire calls in Phoenix that day and
+ > > > > > > > >> > > Billy got to go out on all three calls. He rode in
+ > > > > > > > >> > > the different fire engines, the paramedic's van, and
+ > > > > > > > >> > > even the fire chief's car. He was also videotaped
+ > > > > > > > >> > > for the local news program.
+ > > > > > > > >> > > Having his dream come true, with all the love and
+ > > > > > > > >> > > attention that was lavished upon him, so deeply
+ > > > > > > > >> > > touched Billy that he lived three months longer
+ > > > > > > > >> > > than any doctor thought possible. One night all of
+ > > > > > > > >> > > his vital signs began to drop dramatically and the
+ > > > > > > > >> > > head nurse, who believed in the hospice concept that
+ > > > > > > > >> > > no one should die alone, began to call the family
+ > > > > > > > >> > > members to the hospital.
+ > > > > > > > >> > > Then she remembered the day Billy had spent as a
+ > fireman,
+ > > > > > > > >> > > so she called the Fire Chief and asked if it would be
+ > > > > > > > >> > > possible to send a fireman in uniform to the hospital
+ > to
+ > > > > > > > >> > > be with Billy as he made his transition.
+ > > > > > > > >> > > The chief replied, "We can do better than that. We'll
+ > be
+ > > > > > > > >> > > there in five minutes. Will you please do me a favor?
+ > > > > > > > >> > > When you hear the sirens screaming and see the lights
+ > > > > > > > >> > > flashing, will you announce over the PA system that
+ > there
+ > > > > > > > >> > > is not a fire? It's just the fire department coming
+to
+ > see
+ > > > > > > > >> > > one of its finest members one more time. And will you
+ > > > > > > > >> > > open the window to his room? About five minutes later
+a
+ > > > > > > > >> > > hook and ladder truck arrived at the hospital,
+extended
+ > > > > > > > >> > > its ladder up to Billy's third floor open window and
+16
+ > > > > > > > >> > > firefighters climbed up the ladder into Billy's room.
+ > > > > > > > >> > > With his mother's permission, they hugged him and
+held
+ > > > > > > > >> > > him and told him how much they loved him.
+ > > > > > > > >> > > With that Billy looked up and said, "Chief, am I
+really
+ > > > > > > > >> > > a fireman now?" Billy, you are, and the Head Chief,
+ > Jesus,
+ > > > > > > > >> > > is holding your hand." The chief said. With those
+ > words,
+ > > > > > > > >> > > Billy smiled and said, "I know, He's been holding my
+ > hand
+ > > > > > > > >> > > all day, and the angels have been singing." He closed
+ > > > > > > > >> > > his eyes one last time.
+ > > > > > > > >> > > My instructions were to send this to four people that
+I
+ > > > > > > > >> > > wanted God to bless and I picked you. Please pass
+this
+ > > > > > > > >> > > to four people you want to be blessed as well as the
+ > person
+ > > > > > > > >> > > who sent it to you. This story is powerful and there
+is
+ > > > > > > > >> > > nothing attached, please do not break this pattern;
+ > > > > > > > >> > > uplifting stories are one of the best gifts we
+receive.
+ > > > > > > > >> > > There is no cost but a lot of rewards, let's continue
+ > to
+ > > > > > > > >> > > uplift one another. God bless you and have a nice
+day!
+Thanks, I needed that
+Thought you could use a laugh!
+Ever have one of those days?
+(keep an eye on his foot)
+Stations 3,4 and 5.  I spoke with Danny Collier of the EPA today, Friday, November 30, 2001 and he has instructed me that the EPA is to receive copies of all monthly water well sampling for C/S 3,4, and 5 in addition to sending the monthly sampling results to Yolanda Barney of the Navajo Nation. Although Yolanda is the primary recipient, the EPA becomes secondary as they have the responsibility for oversight of Indian Lands environmental issues.  Danny said that the EPA would eventually phase themselves out of the Navajo's business but until they do, he is requesting copies of all sampling data.  I asked him if we could fax him the monthly reports and he indiacted that it would be OK to do so.  His fax number is (415) 947-3549.  I will keep you apprised of any future changes in the distribution of the water sampling reports. 
+Bill, I have this outstanding bill notice which I keep getting form iPayit.  There are about 5 invoices from Argent for EOTT work which they did in 2001. It was for the Midland EOTT compliance stuff. I dont know how to let the system know that these invoices have been taken care of.  Is there someone you know of who can let iPayit know that these invoices have been taken care of 
+Alert You are receiving this message because you have an unresolved invoice in your iPayit in-box that is past due.  It is critical that you login to iPayit and take immediate action to resolve this invoice. 
+Remember, you play an important role in ensuring that we pay our vendors on time. 
+Tip!:  You must login to the system to forward this invoice to another user. 
+To launch iPayit, click on the link below:
+Note:  Your iPayit User ID and Password are your eHRonline/SAP Personnel ID and Password.
+First time iPayit user?  For training materials, click on the link below:
+Need help?
+North America: ISC Call Center at (713) 345-4727.
+Europe: European Accounts Payable at +44-20-7783-7520.
+Asia-Pacific: Sydney Accounts Payable at +61-2-9229-2336
+Scott, it seems that the letter we received from Danny is otherwise.   In the process of having the Navajo EPA take over the drinking water program for the Tribe, the EPA as overseer wants to be kept in the loop for a little while longer.  In light of this, we need to not only send to the EPA all monthly sampling reports for drinding, but also to the Yolanda Barney of the Navanl Nation.  I spoke with Danny about this and he said that the EPAs involvement would start  to deminish in the future but he didnt when.
+Larry-
+Do we or do we not have send analysis results to Danny every month?  I thought you said to only send them to Navajo Nation EPA (Yolanda Barney) so that's what I was doing.
+Scott
+Randy, I tried to send you a note about a week ago about my elk hunt but it came back undelivered.  I thought you might have changed your address.  Guess I typed it in by mistake. (age does that to you sometimes).  Yes, things are stressful, but as you eluded to God doesnt give His kids a spirit of fear, but confidence that He is in control.  I never thought I d see the Enron empire tumble, but when you torture and strangle a corporation hard enough and long enough, eventually it gives up and surrenders.  There is a push underway to isolate the pipelines from the Enron umbrella and make all business units with money making assets separate from the rest of Enron.  Transwestern is definately a money making asset, and that is what may keep me afloat.  Well see.  Anyway, as long as I keep my focus on Jesus and keep reminding myself of that which is important (family and health) I know Ill come through all of this.
+Sorry to hear that there is the word "reorganization"  in Hess.  this kind of stuff generally never does anything but upset employees and create a period of time when nobody is productive.  I hate this kind of stuff. I know that change is inevitable, but so disruptive.  Ill keep you in prayer. Isnt it great to have the confidence and assurance that we serve a big enough God, that He can handle all our problems?  Keep the faith......my friend and focus on the eternal.  Just like Peter wrote, were just pilgrims in a foregin land, waiting for the trip home and promise of Christ's return 
+Larry, 
+I have been thinking of you a lot with all of the Enron stuff going on.  You
+and your family are in my prayers because I know what a strain this kind of
+uncertainty can put on a person.  We are also facing layoffs this coming
+January.  We have a new president and are going through a restructuring.  So
+we are all uncertain if we will have a job this coming February.  Keep me
+posted on how things are going with you.  I will be praying for you.  At
+least we have the knowledge that God is in control and that nothing happens
+to us that is not first filtered through His everlasting love.
+Your brother,
+Randy
+Thought you might like this  
+"It's God's Responsibility to forgive Bin Ladin It's our responsibility to arrange the meeting"
+-United States Marine Corps
+You know I used to work for a director in ETS that always gave 103%, now I know how he did it, not really, just kidding 
+This is what happened to Enron 
+ > > > We have all been to those meetings where
+ someone wants more than 100%.
+ > > > Well, here's how you do that. Here's how you
+ can achieve103%.
+ > > > First of all, here's a little math that might
+ prove helpful in the
+ > future.
+ > > > How does one achieve 100% in LIFE?
+ > > > Begin by noting the following:
+ > > > IF:
+ > > >     A = 1
+ > > >     B = 2
+ > > >     C = 3
+ > > >     D = 4
+ > > >     E = 5
+ > > >     F = 6
+ > > >  G = 7
+ > > >     H = 8
+ > > >      I = 9
+ > > >      J = 10
+ > > >     K = 11
+ > > >      L = 12
+ > > >     M = 13
+ > > >      N = 14
+ > > >  O = 15
+ > > >      P = 16
+ > > >      Q = 17
+ > > >       R = 18
+ > > >       S = 19
+ > > >       T = 20
+ > > >       U = 21
+ > > >       V = 22
+ > > >       W = 23
+ > > >        X = 24
+ > > >        Y = 25
+ > > >        Z = 26
+ > > > Then:
+ > > >                   H A R D W O R K
+ > > >      8+1+18+4+23+15+18+11 = Only 98%
+ > > > Similarly,
+ > > >                    K N O W L E D G E
+ > > >                   11+14+15+23+12+5+4+7+5 > Only 96%
+ > > > But interestingly (and as you'd expect),
+ > > >                   A T T I T U D E
+ > > >      1+20+20+9+20+21+4+5 = 100 > > > >                   This is how you achieve 100%
+ in LIFE.
+ > > > But even more important to realize:
+ > > >    B U L L S H I T >>>>>>  2+21+12+12+19+8+9+20 = 103%
+ > > > So now you know what all those high-priced
+ consultants, upper
+ > > > management,and motivational speakers really
+ mean when they
+ > > > want more than 100 > 
+ 
+__________________________________________________
+Do You Yahoo!?
+Buy the perfect holiday gifts at Yahoo! Shopping.
+this is cute,  things like this help during difficult times
+ RETIREMENT IN A TRAILER  PARK THRU THE EYES OF A
+ CHILD This is just too
+ cute! 
+ 
+ After a spring  break, a teacher asked her young
+ pupils how they  spent
+ the holidays. One  child wrote the following: 
+ 
+ "We always used to spend the holidays with Grandma
+ and Grandpa. They used
+  to live here in a big brick house, but Grandpa got
+ retarded and they
+ moved  to Arizona > 
+ Now they live in a  place with a lot of other
+ retarded  people.  They
+ live in a tin box  and have rocks painted green to
+ look like grass.  They
+ ride around on big tricycles and wear name tags
+ because they don't  know
+ who they are anymore.  They go to a building called
+ a wrecked center, but
+ they must have got it  fixed, because it is all
+ right now. They play
+ games and do exercises  there, but they don't do
+ them very well. There is
+ a swimming pool too,  but  they all jump up and down
+ in it with their
+ hats on. I guess they don't know how to swim > 
+ At their gate, there is a doll house with a little
+ old man sitting in it.
+  He watches all day so nobody can escape. Sometimes
+ they sneak out.  Then
+  they go cruising in their golf carts. 
+ 
+ My Grandma used to bake cookies and stuff, but I
+ guess she forgot how. 
+ Nobody there cooks, they just eat out. And they eat
+ the same thing every 
+ night, "Early Birds. "  Some of the people can't get
+ past the man in the 
+ doll house to go out. So the ones who do get out
+ bring food back to the 
+ wrecked center and call it pot luck. 
+ 
+ My Grandma says Grandpa's worked all his life to
+ earn his retardment and 
+ says I should work hard so I  can be retarded
+ someday too. When I earn my
+  retardment I want to be  the man in the doll house.
+ Then I will let
+ people  out so they can visit their grandchildren > 
+ 
+__________________________________________________
+Do You Yahoo!?
+Buy the perfect holiday gifts at Yahoo! Shopping.
+Title them anyway you want.
+Tram's:
+Wasn't me
+spin spin
+barbie girl
+look at us now
+ecstasy
+silence-----delirium
+everything but the girl
+one and one speed it up
+fable
+put me in heaven with your touch dj penetrate
+angel
+Mine:
+silence-----delirium
+put me in heaven with your touch dj penetrate
+heart pet shop boys
+i wanna know------joe
+stronger brittany spears 
+one and one speed it up
+fable
+everything but the girl
+sexual------amber
+i see stars
+Amber's phone number	281 2?6-822?
+Don I am sorry about your loss, mostly because those in the family of God hate to see pain hit a family member.  Even under the most dire and seemingly impossible situations, God is in control.  Its His promise that He will never leave us nor forsake us.  That in itself, is a real comfort and security knowing we have His eternal and loving spirit with us at all times.  When you get some time, read Romans 8:28 and then meditate on it.  So many times we confuse our wants for our needs and that are promised by Him. Because he desires to conform us inito the image of His Son, sometimes He has to empty us of worldly understandings and unrighteousness so that He can fill us with blessings that glorify Him. Once we make a heart commitment and His spirit sets up residence within us, God's promise in Romans is to work everything, including a job loss to His glory.  If we are eternally minded and understand that our citizenship and home is in heaven, then life on earth begins to look less important and we see the worldly goods as being very temporary.  I will pray for you and your family that you see a manifestation of God's work in your life and that you are brought even closer unto Him in your Christian walk.  I will keep my ears open for any employment opportunities. =20
+When you're feeling down and discouraged, drop me a line.  Sharing Christ with someone always seems to help me through the day in difficult situations.  In Hebrews were told  to encourage the brethren.  I would consider it an honor to hear form you again....keep the faith...  its all we have.........   =20
+As you all know, Enron has suffered incredible losses in the last few days.  Due to this several thousand of us have been severed from the company.  My new contact numbers are:
+7002 Cool Water Court
+Sugar Land, TX  77479
+(Home) 281-565-2219
+(Mobile) 713-569-1480
+(E-mail) auggie@alltel.net
+By the way, if any of you know of any environmental positions, let me know.
+Don E. Stevens
+Enron Corp.
+Environmental Manager
+713-345-5664
+Thanks Randy, Ive heard him on the radio
+I came across this web site and knew you would enjoy it  
+It's called realFamilies and has really interesting articles about parenting and marriage. You can check them out at  
+It features a funny and insightful psychologist named Dr. Kevin Leman, and he also has a TV show that you can watch online too.
+Randy King
+Sta. 3 and 4, I am sending to you via regular mail, the new air permits for the Redrock Expansion.  I will be contacting you in the near future about coming out and going through the permits to assign responsibilities between you and me.  If you get some time, I would suggest that you look over each permit as there is additional recordkeeping and reporting above that which is on your existing permit.  the old permit will expire when the facility begins operation of the turbine.  For Station 4, if a turbine is not installed at your location, this new permit wont apply.  But in the event it happens, you have the permit.
+Bottom line, you need to keep this permit at each location 
+Thanks, Roger.  Im on board with this. 
+Larry,
+Just wanted to confirm what I told you on the phone this morning.  The
+recent permit mods have no effect on when your annual compliance
+certifications are due.  Those are always based on initial permit
+issuance, which was April 25.
+Roger Kohn
+USEPA - Air Division (AIR-3)
+75 Hawthorne Street
+San Francisco, CA  94105-3901
+Phone 415-972-3973
+Rich, concerning the environmental liabilities which may impact Transwestern if Duke should direct the liquids from their 8" line into the pipeline liquids tank at Wt-1, I have a concern 
+The liquids that are generated in the 8" line are exempt from hazardous waste regulations (RCRA) as long as they stay in the Duke line and are not transfered and collect in a mainline tank.  Because WT-1 is a mainline compressor station, any chemicals or compounds which are regulated under Subtitle C of RCRA  become the responsibility of the owner of the mainline tank.  Within the past few years, we have experienced the collection of regulated liquids at Wt-1 which were not placed there by Tranwestern.  Chemicals which producers and processing, upstream of Wt-1, have placed downhole to enhance gas production and other agents such as corrosion inhibitors and pipeline solvents have found their way into our tank and we have paid for the disposal.  Unfortunately, there is no way to segregate the bad materials from the good recycleable materials.
+Based upon this, I would recommend that we not allow Dukes pipeline liquids to collect into our tank 
+Thanks Michael for the brief update.  it sounds encouraging.  I am looking forward to putting the model into motion.  No problem with signing the no cost extension for the project, send it my way. 
+Dear Larry:
+It was good hearing from you a few days ago. We are wrapping up a progress
+report on the project but I can tell you briefly what we have accomplished
+so far. We have finished the PCB model development/modification to
+incorporate most of the main ideas that we talked about when you, John and
+your crew visited us. Specifically, we have been able to extend the model
+significantly to include flow regime impact on cleanup efficiency and the
+amount of solvent that will be required. We have looked at the issue of
+contact time and contact area. These two and some of the other salient
+issues turned out to be more challenging to handle than we had originally
+anticipated but we have now nailed them. In fact, the new program finally
+worked well and debugged only about 2-3 weeks ago. Since then we have been
+doing shake-down testing and all is well so far. The results are exciting as
+you would see in the report. There are two tasks that we would now embark
+on. Now that the model has all the principal mechanisms incorporated, we are
+now planning a comprehensive production runs where we will give you cleanup
+options, etc with critical evaluations of those. That will probably take us
+until the end of January. This is where I will need to talk to you very
+often to determine what options make most sense to run so that we do not
+just run millions of options.
+Along this line, we will need another no-cost extension letter from
+you so as to continue the work beyond December. We can talk about how long
+if you want so as to determine what you would really like to be the
+concluding point. So, I will call you after sending the report, which should
+be by Monday next week. Thanks and 
+Michael
+Michael A. Adewumi, PhD
+Professor & Chair of Graduate Program 
+in Petroleum & Natural Gas Engineering
+Quentin E. and Louis L. Wood University Endowed Fellow
+The Pennsylvania State University
+202 Hosler Building
+University Park, PA 16802
+Tel.: (814) 863-2816
+Fax: (814) 863-1875
+Email: michael@pnge.psu.edu
+FYI from Penn State on the progress of the model to remove PCB's from Transwetern's pipeline.
+Dear Larry:
+It was good hearing from you a few days ago. We are wrapping up a progress
+report on the project but I can tell you briefly what we have accomplished
+so far. We have finished the PCB model development/modification to
+incorporate most of the main ideas that we talked about when you, John and
+your crew visited us. Specifically, we have been able to extend the model
+significantly to include flow regime impact on cleanup efficiency and the
+amount of solvent that will be required. We have looked at the issue of
+contact time and contact area. These two and some of the other salient
+issues turned out to be more challenging to handle than we had originally
+anticipated but we have now nailed them. In fact, the new program finally
+worked well and debugged only about 2-3 weeks ago. Since then we have been
+doing shake-down testing and all is well so far. The results are exciting as
+you would see in the report. There are two tasks that we would now embark
+on. Now that the model has all the principal mechanisms incorporated, we are
+now planning a comprehensive production runs where we will give you cleanup
+options, etc with critical evaluations of those. That will probably take us
+until the end of January. This is where I will need to talk to you very
+often to determine what options make most sense to run so that we do not
+just run millions of options.
+Along this line, we will need another no-cost extension letter from
+you so as to continue the work beyond December. We can talk about how long
+if you want so as to determine what you would really like to be the
+concluding point. So, I will call you after sending the report, which should
+be by Monday next week. Thanks and 
+Michael
+Michael A. Adewumi, PhD
+Professor & Chair of Graduate Program 
+in Petroleum & Natural Gas Engineering
+Quentin E. and Louis L. Wood University Endowed Fellow
+The Pennsylvania State University
+202 Hosler Building
+University Park, PA 16802
+Tel.: (814) 863-2816
+Fax: (814) 863-1875
+Email: michael@pnge.psu.edu
+Ray, Kay had mentioned that your team was having an OCD inpsection this week (Wednesday?).  Ive tried to contact you a couple of times to see if you might need some help, but was unsuccessful.  Is there something wrong with your phone?  Give me a call if you feel uncomfortable about any issue prior to their visit. I will be in the office on wednesday but gone from 11:30 am-1:45 pm.  Let me know how the  inspection went 
+Thanks John, Ill keep you posted.  Hows your pulse?   Doing OK?
+Thanks Larry for passing this along.  This is good news, if in fact the good doctor has isolated the solvent contact time (so the solution has maximum effectiveness as the entrained pigs apply it to the walls of the pipe).  That was one of the issues that bothered me most about the effectiveness of an application.  Would the solvent be uniformly applied and in the proper timeframe so that the PCB's would be absorbed and transported to an pre-determined extraction point?  It sounds like the model is ready.  After you receive the report and if you agree, I would be willing to discuss with Louie another no-cost extension.  John 
+FYI from Penn State on the progress of the model to remove PCB's from Transwetern's pipeline.
+Dear Larry:
+It was good hearing from you a few days ago. We are wrapping up a progress
+report on the project but I can tell you briefly what we have accomplished
+so far. We have finished the PCB model development/modification to
+incorporate most of the main ideas that we talked about when you, John and
+your crew visited us. Specifically, we have been able to extend the model
+significantly to include flow regime impact on cleanup efficiency and the
+amount of solvent that will be required. We have looked at the issue of
+contact time and contact area. These two and some of the other salient
+issues turned out to be more challenging to handle than we had originally
+anticipated but we have now nailed them. In fact, the new program finally
+worked well and debugged only about 2-3 weeks ago. Since then we have been
+doing shake-down testing and all is well so far. The results are exciting as
+you would see in the report. There are two tasks that we would now embark
+on. Now that the model has all the principal mechanisms incorporated, we are
+now planning a comprehensive production runs where we will give you cleanup
+options, etc with critical evaluations of those. That will probably take us
+until the end of January. This is where I will need to talk to you very
+often to determine what options make most sense to run so that we do not
+just run millions of options.
+Along this line, we will need another no-cost extension letter from
+you so as to continue the work beyond December. We can talk about how long
+if you want so as to determine what you would really like to be the
+concluding point. So, I will call you after sending the report, which should
+be by Monday next week. Thanks and 
+Michael
+Michael A. Adewumi, PhD
+Professor & Chair of Graduate Program 
+in Petroleum & Natural Gas Engineering
+Quentin E. and Louis L. Wood University Endowed Fellow
+The Pennsylvania State University
+202 Hosler Building
+University Park, PA 16802
+Tel.: (814) 863-2816
+Fax: (814) 863-1875
+Email: michael@pnge.psu.edu
+Me too. Thats what Im doing.  Staying away from the gossip and grip sessions.  Its nice to know that He's a big enough God to handle all problems and concerns, even the ones in Enron 
+OK, just working hard and keeping my head down.  This is our only chance to survive.  Do our job better than anyone else and keep our nose clean.  I'm just making it a matter of prayer.  John
+Thanks John, Ill keep you posted.  Hows your pulse?   Doing OK?
+Thanks Larry for passing this along.  This is good news, if in fact the good doctor has isolated the solvent contact time (so the solution has maximum effectiveness as the entrained pigs apply it to the walls of the pipe).  That was one of the issues that bothered me most about the effectiveness of an application.  Would the solvent be uniformly applied and in the proper timeframe so that the PCB's would be absorbed and transported to an pre-determined extraction point?  It sounds like the model is ready.  After you receive the report and if you agree, I would be willing to discuss with Louie another no-cost extension.  John 
+FYI from Penn State on the progress of the model to remove PCB's from Transwetern's pipeline.
+Dear Larry:
+It was good hearing from you a few days ago. We are wrapping up a progress
+report on the project but I can tell you briefly what we have accomplished
+so far. We have finished the PCB model development/modification to
+incorporate most of the main ideas that we talked about when you, John and
+your crew visited us. Specifically, we have been able to extend the model
+significantly to include flow regime impact on cleanup efficiency and the
+amount of solvent that will be required. We have looked at the issue of
+contact time and contact area. These two and some of the other salient
+issues turned out to be more challenging to handle than we had originally
+anticipated but we have now nailed them. In fact, the new program finally
+worked well and debugged only about 2-3 weeks ago. Since then we have been
+doing shake-down testing and all is well so far. The results are exciting as
+you would see in the report. There are two tasks that we would now embark
+on. Now that the model has all the principal mechanisms incorporated, we are
+now planning a comprehensive production runs where we will give you cleanup
+options, etc with critical evaluations of those. That will probably take us
+until the end of January. This is where I will need to talk to you very
+often to determine what options make most sense to run so that we do not
+just run millions of options.
+Along this line, we will need another no-cost extension letter from
+you so as to continue the work beyond December. We can talk about how long
+if you want so as to determine what you would really like to be the
+concluding point. So, I will call you after sending the report, which should
+be by Monday next week. Thanks and 
+Michael
+Michael A. Adewumi, PhD
+Professor & Chair of Graduate Program 
+in Petroleum & Natural Gas Engineering
+Quentin E. and Louis L. Wood University Endowed Fellow
+The Pennsylvania State University
+202 Hosler Building
+University Park, PA 16802
+Tel.: (814) 863-2816
+Fax: (814) 863-1875
+Email: michael@pnge.psu.edu
+I have currently taken over the COMED power market and was needing to recieve 
+access to Enron Online.  My ext. # 6203.
+Thanks,
+Michael Carson
+go cougars!
+Mike
+Are you there today??? I need to close the loop with you on directions to
+the Pentagon City -- repeat "Pentagon City" Metro station / shopping mall Chuck and I agree, this is the best place to head to and park the car (6
+story parking garage -- about 1/2 mile from pentagon).   From there -- take
+the metro over to the "Pentagon Station" which is the pentagon 
+Ken
+are you guys still in for dinner tonight.......6:30 at our place!    give me 
+a call @ worrk 713-853-6203
+Terri Clynes@ECT
+06/07/2000 04:50 PM
+Matt and Mike,
+Here is the annual Comed picnic that you have heard so much about.  You both 
+should try to go 
+Terri
+SFletcher@edisonmission.com on 06/07/2000 03:31:30 PM
+(See attached file: Picnic1.ppt)   (See attached file: picnic opening.doc (See
+attached file: picnic directions1.doc)
+Edison Mission Marketing and Trading
+Office Phone: (949) 798-7455
+Cell Phone: (714) 337-9474
+- Picnic1.ppt
+- picnic opening.doc
+- picnic directions1.doc
+are you staying with brit's parents??
+I think you left your watch at my house on Friday night..... You can come by 
+and pick it up any time this week... Also,,,, we need to figure out where to 
+watch the Cats this Saturday 
+MC
+hey, did you go out fri?  thanks for calling-punk!  we're all getting
+together for a going away for gina, clay, chris j and myself this thurs. at
+chuys on westheimer so try to make it.  jeannie is going and of course,
+heather is invited as well.  i'll 
+sorry I have not had a chance to call you back ... will call you this wk end!
+MC
+Big Mack,,,,  Just give me call when you are coming down for the DUKE 
+interview ..... Our Department head wants to go out to lunch with you casual lunch type thing.... they were very impressed with your resume!  I 
+also played you up like you da man 
+MC
+mackle's # is 781-639-2752
+I will have to get into meather's planner tonight...... but I think I can get 
+it...... I will try to give it to you this wk end
+MC
+I'll take two ,,, if possible
+BBQ pork...... let me think???????  Oh yeah ! we're in!
+Please change my book from "Short Term Main" to "Short term SERC"
+Thankyou,
+Mike Carson
+X6203
+4114 riley
+Houston, TX 77005
+giddty up!
+give me a call 713-853-6203
+what is your 
+what is Mansfield's #at work??
+Heather and I just want to thankyou for the Air force book you sent us.   We 
+love it!  Heather sat down, and read the whole thing last week end... She 
+can't believe you used to fly a C-5.
+Anyway ,,, thankyou so much.
+MC
+7:00 Saturday,,,2633 cason in West U
+Mike Carson
+09/07/2000 10:56 AM
+7:00 Saturday,,,2633 cason in West U
+--n
+7:00 Saturday,,,2633 cason in West U
+Mike Carson
+08/04/2000 10:22 AM
+Some friends of my wife and I are throwing a little bash on the evening of 
+September 9th for my upcoming baby BOY.   I would like to invite you all to 
+attend.  I believe there will be a margarita machine 
+If you want to come,, please reply by sending me your address.  You will then 
+recieve an invitation by mail.
+there,,
+Mike
+DAUNTE CULPEPPER
+EDDIE GEORGE
+ANTOINE SMITH
+ANTONIO FRREMAN
+PEERLESS PRICE
+TONY GONZALEZ
+M GRAMATICA
+GIANTS DEF
+where are you at 
+give me a call today!!
+713-853-6203
+MC
+carson@us.ibm.com on 09/11/2000 02:21:17 PM
+Chuck Carson  IBM Americas PISC Dallas (1) 817-962-6933
+7 Campus Circle  MS 01-02-40
+Roanoke, TX 76262
+Chuck Carson
+09/11/2000 02:14 PM
+Chuck Carson  IBM Americas PISC Dallas (1) 817-962-6933
+7 Campus Circle  MS 01-02-40
+Roanoke, TX 76262
+Chuck Carson
+09/11/2000 02:13 PM
+Thanks - I will send to Ken, Mike and Susan  - they have been there also.
+Chuck Carson  IBM Americas PISC Dallas (1) 817-962-6933
+7 Campus Circle  MS 01-02-40
+Roanoke, TX 76262
+Please respond to  
+Chuck, good article about Theop's fish farm in the Oklahoman this morning.
+I can save it for you or you can get it off the oklahoman web site. I am
+still considering hockey tickets but if I wait too long its ok. I will let
+you know real soon. Web site is www.oklahoman.com
+Thought you might take a lood.
+Steve
+what are you doing in Denver 
+PBRT*2
+MC
+ A Kansas State Wildcat fan used to amuse
+ himself by scaring every
+ >  >  Nebraska fan he would see strutting down the side of the road in
+their
+ >  >  obnoxious red and white colors. He would swerve his van as if to hit
+ >  >  them, and then he would swerve back on the road just before hitting
+ >  > them.
+ >  >  One day, as the van driver was driving along, he saw a priest. He
+ >  >  thought he would do a good deed and pulled the van over. He asked
+the
+ >  >  priest, "Where are you going, Father?" "I'm going to give Mass at
+St.
+ >  >  Joseph's  Church, about five miles down the road," replied the
+priest.
+ >  >  "No problem, Father! I'll give you a lift. Climb in!" The priest
+ >  > climbed
+ >  >   into the passenger seat, and the van continued down the road.
+ >  > Suddenly,
+ >  >  the driver saw a Nebraska fan strutting down the road, and
+ >  > instinctively,
+ >  >  he swerved as if to hit him. But, as usual, just in time, he swerved
+ >  > back
+ >  >  to the road, narrowly missing the guy.
+ >  >  Even though he was certain he missed the guy, he still heard a loud
+ >  >  "THUD." Not understanding where the noise came from, he glanced in
+ >  >  his mirrors, but he didn't see anything.
+ >  >  He then remembered the priest, and he turned to the priest and
+ >  >  said, "I'm sorry, Father. I almost hit that Nebraska fan." "That's
+ >  >  OK,"  replied the priest. "I got him with the door."
+yeah I know,,,, it has been a while.... the baby boy is due in mid 
+October(about a month)!!!  We are really excited.....what school are you 
+going to out there... and what are you majoring in???      You are lucky to 
+be out there in colo  ,,, it is stilll 100 degrees down here!
+MC
+Are you in 
+Dallas yet??   what is your company e mail??
+MC
+NO problem///   we need to get together sometime 
+the kid!
+Beebe James  - Resume_JamesBeebe.doc
+QB --bledsoe
+RB--E. George,jj johnson
+rec--antonio freeman, k lockett, tony gonzalez
+k-- m. gramatica
+def-- giants
+did I tell you about our trip to Mexico a month ago.... we did some cenote 
+dives(cave dives).... it was awesome 
+QB--culpepper
+RB -- E .George
+RB -  A sMITH
+rec- ANTONIO FREEMAN
+REC--JERRY RICE
+REC-T. GONZALEZ
+K- M GRAMATICA
+DEF- NY GIANTS
+GREG WOULFE@MUNICATIONS
+10/04/2000 06:18 PM
+RIBFEST IV
+Mike Paradise produced an unparalleled performance last year managing to=20
+dominate the lowest ranking of all the contestants by a considerable margin=20
+for the second year in a row!  Additionally, the judges showed tremendous=20
+wisdom picking the winner.  However, the nagging question remains; how good=20
+does the perfect rib taste?  Thus, as the artist must pursue beauty, the=20
+fourth annual celebration of the Baby Back Rib must take place.
+=20
+This event involves many of the things you need for a perfect weekend day:=20
+eating a lot of ribs, imbibing libations, enjoying an autumn day, and=20
+watching some football.  This year, the contestants will be cooking an absurd=20
+amount of ribs, allowing the crowd to voice their opinion on the "people's=20
+choice" along with the official judging of the champion.  Cooking techniques=20
+are hotly debated, and the insults are legion, but within a month, most=20
+people are able to speak to each other again.
+=20
+If you think you=01,re going to make it please call Greg or Martha (713)=20
+861-2766, we need to know how much to stock up on.  Kids are definitely=20
+welcome, we are renting an inflatable moon-walk, and we'll have someone there=20
+to help watch the kids.
+Details:
+Date: Saturday, Nov 4, 2000
+Time:  We start the grills around 12:00, the first judging will occur around=20
+3:30.  Most people don't have the emotional wherewithal (myself especially)=20
+to make it much past 7:30.
+Where:  1443 N. Oxford Street (in the Heights)=20
+From I10=20
+If you are coming from the West and driving East, exit at Studemont.  Take a=20
+left at Studemont heading north, and take it up to 14th street (there=01,s a=20
+Fiesta Grocery on the corner).  Turn left on 14th.  The first street you can=20
+make a right is Oxford.  Turn right on Oxford, one block up, we=01,re the second=20
+to the last house on your left.
+From the inner-loop:
+Get on Montrose and head North.  As you cross under I10, Montrose changes to=20
+Studemont then to Studewood.  Keep heading North until you get to 14th Street=20
+(there=01,s a Fiesta Grocery on the corner).  Turn left on 14th.  The first=20
+street you can make a right is Oxford.  Turn right on Oxford, one block up,=20
+we=01,re the second to the last house on your left.
+will do........ heard sweaty "a" will be trading ENT
+QB -- D. Culpepper
+RB-=- E. Georrge
+A. Smith
+REC--A. Freeman
+J Rice
+P. Price
+K -- M. Gramatica
+d- Giants
+no attachment
+Susan Carson  How is Heather feeling. I have a 20% off coupon for Babies R Us. I was
+looking on the gifts listed in Heather's registry with them. Is there
+anything in particular, that you don't already have, that you need. This
+coupon is burning a hole in my pocket.
+Love,
+Mom
+screw blair!
+QB -- Culpepper
+RB-- E. George
+RB --  JR Redmond
+REC -- A Freeman
+REC -- J Rice
+REC -- T Gonzalez
+K -- D. Brien
+DEF -- NY Giants
+Good stuff!!    Looks like it is going to be a GREAT game!
+very excirted 
+MC
+perge!
+what is up.... are you up for beers on saturday??
+This # is not working 
+cjackson@txuenergy.com on 10/13/2000 10:50:56 AM
+Carson,
+Call me when you get a chance...214 975-9806...I don't have your office
+number 
+Jackson
+713-853-6203
+Sent by: John Zufferli@ECT
+Jessica and I are having a farewell party.  We hope that we get to see you 
+before we move to Canada.  Please attend a get together at our house on 
+Saturday November 4 at 7:00 for fajitas and drinks.  The address is:
+4915 Kelvin Dr
+Houston, TX 
+The closest major intersection is Kirby and Sunset.  We are located 1 street 
+south of Sunset and 1 street east of Kirby.
+Please RSVP with the number of attendees to Jessica Zufferli at work via 
+e-mail or at X31915.
+Looking forward to seeing you.
+Hey dude ,,,,, I actually just got back to work today.. had a 8 lb baby boy!
+Actually not going to the game this wk end because of the new tike don't actually know my schedule for the game but let me know what you are 
+doing ......  Also ,,, we do need to go to dinner sometime as well
+MC
+Our little bundle of joy!  He said to tell you that he misses you and can't
+wait for you to get home and change his dirty diaper!  I'll save it for you.
+Hugs and Kisses,
+Me
+ Hi kids!  Here are some of the pictures I took on "the night".  Hope you
+ three are doing well.  Love you!

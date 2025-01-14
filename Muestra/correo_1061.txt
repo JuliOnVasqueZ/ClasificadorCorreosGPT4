@@ -1,0 +1,807 @@
+I have both days on my calender.   I'll get TJ to resolve.
+Thanks.
+I believe so.  Is it Wed or Thurs?  I  have it as Thurs this week.
+RH
+Rogers,
+Are we are discussing the Phoenix project at this Wednesday's meeting?   Is Terry going to be there?
+Terry -
+I think you need to copy Mary Lynn Ruffer, Wes Colwell, Wade Stubblefield, Presto, Belden, Lavo, Berney on these updates please.  Jeff, Don - any others.
+I am not sure I agree with Starwood.  If we are going to write down the option (currently at $6MM) to $2.5 MM then I will take it in my book at greater value based on what you described.  I think the negative impact should be no greater than $2MM.  Let me know if something new has come up that would change my outlook.
+As for TYCO, I think the verdict is still out on this as well.  Some of the outstanding issues could reduce this negative somewhat.  We should have a better feel by Thurs.
+Overall, I want to reflect fair value on the re-books, not extreme conservatism.  For example, on TYCO, I will not use NY Zone A for revenue purposes if the contract is unclear and does not force us to do this.  We need to recognize any "issues" like this but I do not intend to write down any deal to worst case economics.
+Terry - you may want to give a range of reasonableness on these forecasts.
+Thanks,
+Rogers
+I am currently building a spreadsheet to manage this information but know that it is important to get this out ASAP.  This is obviously very sensitive information, who should be copied?
+These are the potential P&L impacts from Project Phoenix rebookings by the end of Q3:
+Gas		Power		Option		Total
+Starwood						-4.5		-4.5MM
+Chase					-20.0		+7.0		-13.0MM
+Springs			+1.0		-12.0				-11.0MM
+Tyco			TBD		-8.0				-8.0MM
+Total			+1.0MM	-40.0MM	+2.5MM	-36.5MM
+You have each received the summary of issues with Starwood and Tyco.  A conversation regarding Springs is scheduled for this week.  Chase is a few days away but the magnitude of the impact is large enough that I wanted to highlight it now.  These are based upon best estimates to this point, I am attempting to establish the confidence interval on Chase and Springs power positions.
+Hopefully we will be able to finalize rebookings of these transactions by the end of the quarter, along with MFG, Quebecor and Owens Illinois.
+Please let me know if there are any questions.
+Terry
+Calender
+We are meeting with Louise next Monday from 10 to 11 to review the Services busines.
+Tom.
+Thanks Jay.
+Hi Kevin,
+I've asked La Metrice Dopson (head of support) to call you regarding this service.  Please let me know if you don't hear from her and I'll follow up.
+--jay
+As usual, your position is way too logical.   Do I need to attend this meeting?
+FYI 
+My position is as follows:
+I am trying to narrow the focus on our curve review and maintenance to JUST areas where we have existing positions and possibly areas that are in or near full dereg stages (NE, IL, TX, OH).  Currently URM is responsible for virtually every curve and thus knows very little about a whole lot.  The proposed reduction would help URM focus on what is important and allow them to "get it right".
+I do not think it is necessary nor is it appropriate to offer bundled products until we can determine effective ways to reduce our existing exposure.  I do think we can stand ready to adjust this strategy if necessary and on a case by case basis.
+I do think we can offer shaped, staggered maturity wholesale products to generally hedge customers in regulated states against directional price movements. I am absolutely against offering anything that looks like the traditional Retail Index Product.
+I expect to get a little push back on this approach and also think I will hear that it is necessary to offer bundled products to support DSM.  As I said in my last tariff strategy meeting, I would be glad to give URM to Ozzie too.  I will be a much better bid for DSM related T/D positions as offsets to current positions.
+Rogers
+This will confirm a meeting on the referenced subject tomorrow, Sept. 5th, at 11:00 a.m. - 12:00 p.m. in EB-872.    (Please note the time change from an earlier email.)
+Please let me know if you have a conflict.
+Thanks,
+Cheryl
+Ok.
+I would hope not, but I am curious to see what position Dave tries to drive.  Only if you have nothing better to do should you feel compelled to come.  I will let you know what comes out of it.
+Rogers
+As usual, your position is way too logical.   Do I need to attend this meeting?
+FYI 
+My position is as follows:
+I am trying to narrow the focus on our curve review and maintenance to JUST areas where we have existing positions and possibly areas that are in or near full dereg stages (NE, IL, TX, OH).  Currently URM is responsible for virtually every curve and thus knows very little about a whole lot.  The proposed reduction would help URM focus on what is important and allow them to "get it right".
+I do not think it is necessary nor is it appropriate to offer bundled products until we can determine effective ways to reduce our existing exposure.  I do think we can stand ready to adjust this strategy if necessary and on a case by case basis.
+I do think we can offer shaped, staggered maturity wholesale products to generally hedge customers in regulated states against directional price movements. I am absolutely against offering anything that looks like the traditional Retail Index Product.
+I expect to get a little push back on this approach and also think I will hear that it is necessary to offer bundled products to support DSM.  As I said in my last tariff strategy meeting, I would be glad to give URM to Ozzie too.  I will be a much better bid for DSM related T/D positions as offsets to current positions.
+Rogers
+This will confirm a meeting on the referenced subject tomorrow, Sept. 5th, at 11:00 a.m. - 12:00 p.m. in EB-872.    (Please note the time change from an earlier email.)
+Please let me know if you have a conflict.
+Thanks,
+Cheryl
+My understanding is that Shell can put them back to Calpine.   Remember, the deal was an all-requirements supply deal for all of Shell's retail obligations in ERCOT which are now zero.
+Kevin/Doug
+I am sure you saw this article y-day.  Very intereting.  I think TXU is succesfully driving retail players away from ERCOT.  I wonder what will happen with all of those Calpine MW?
+Please ensure that real-time prices for ERCOT, PJM, NY, and NEPOOL are added to the cube database.   I have been analyzing the data today and the real-time clearing prices are not there.
+Thanks.
+Kevin Presto
+East Power Trading
+Phone:  713-853-5035
+Cell:  713-854-3923
+Fax:  713-646-8272
+I will handle the non-TVA SERC deals until John Suarez joins the group.
+Kevin,
+Who now handles Duke's system territory with King switching to ERCOT?  You or Fletch?
+North Carolina Mun. Power Agency 1 has informally requested up to 100MW of capacity and energy for May-Sep'02 with a "relatively high" strike price (probably $100) into Duke, or regulatory capacity.
+Formally, they have issued 2 RFP's:  1) to buy as much as 750MW of intermediate, peaking, and reserve capacity for summer peak months of 2003 and beyond (1-5 years), increasing by approx. 25MW per year; 2) to sell up to eight, 50MW blocks of 7x24 energy, system firm or unit contingent, off of Catawba and/or McGuire nuclear plants, interconnected with the Duke trans. system, beginning 1/1/03 (1-8 year term).
+BB
+Are we sure we can live with everything else in the PJM Single RTO proposal?
+As I mentioned to each of you today, we plan to sign Enron's name as a member of the "One RTO Coalition" in support of PJM's proposal for developing a single Norhteast RTO with a single day-ahead and real-time energy market in the Northeast.  PJM's proposal is attached.  As you may recall, I gave you a copy of PJM's proposal and we discussed it when I was in Houston a couple of weeks ago.  The main concern with PJM's proposal is its timing -- their time line provides for an implementation date of November 2003.  We have talked extensively with PJM about the need to speed up the implementation process, and PJM agrees that they will move aggressively, but they are unwilling to change their target date in their proposal.
+Because we disagree with the PJM date, we propose to have Enron Power Marketing, Inc.'s name included on the list of supporters of the proposal, with the following footnote:
+While all of the members of the One RTO Coalition support the substance of PJM's proposal to implement a single energy market as described herein, Enron 	Power Marketing, Inc. dissents from PJM's date of November 2003 for implementing the single RTO in the Northeast.  Enron believes that the PJM proposal 	can and must be implemented by December 2002 and that extension of the implementation date past December 2002 is unnecessary and contrary to the 	Commission's RTO policy established in Order No. 2000.
+This footnote will preserve our right to argue against PJM's timing in comments to the Commission after the Judge submits his report (due on September 17).  In those comments we can go into much greater detail about the need for quick implementation.
+Please let me know if you have any suggested changes to the footnote or if you disagree with our proposed strategy.  We will address this issue on Thursday at mediation (I thought it was going to come up today, which is why I called each of you), so if you have any comments or concerns, please let me know as soon as possible. 
+Thanks
+Sarah
+Any interest in attending?
+Someone from the Marcus Evans training company was looking for an Enron person to attend a course on Generation Asset Valuation and Optimization. A brochure describing the course content and instructors is attached as a PDF file at the bottom of this message. Brian Stanley agreed this looked like an informative event, so we committed a slot for Enron among the approximately 25 participants. We'd like you to suggest who would be the best person to represent Enron in this session.
+These courses are interactive and are geared to executives. (Per course brochure, audience is CFO, Sr. VP Generation, VP Asset Mgmt, VP Power Supply, VP Development, Director Market Analysis/Valuation.) Companies represented for this one include Ameren, Cinergy, Duke, Exelon, etc.  The course is being held Oct 1-2, 2001 in the Crowne Plaza, just down the street from our office. The cost would be about $3,600.00. EEOS has paid the fee to hold a place.
+The course seems focused on making complex decisions about assets in light of uncertainty and volatility, which might be of some value in assisting ENA with strategy about potential acquisitions. Also, we would get some exposure to what other players in the market are thinking. One speaker is the Sr. VP of Asset Management for Duke Energy North America.
+Some suggested criteria for the candidate to attend:
+1.   Involved in decisions about valuing Generation Assets based on uncertain future outcomes as opposed to simple discounted cash flow analysis.
+2.   Interest in calculating value of asset flexibility, e.g., alternate transmission paths, fuels, etc.
+3.   Able to discuss merits of asset ownership vs. other means of access to asset/output (contract, lease, etc.)
+Kevin, Don and Mike, I think any of you might find this worthwhile if you have the time. I also would suggest perhaps Mitch Robinson as one who is very clued in on both asset management and how we are using assets (owned by us or others) as part of our business. But I don't know everyone on your side, so I request that you consult with each other and let me know whom you think should attend.
+(If for some reason you don't want to send someone, we can cover it from the Operations side at EEOS.)
+Call me at x6-7775 if you have questions.
+Thanks.
+Ken
+Dear Ken:
+Attached is the agenda as discussed. Due to the limited available seating at
+this late date, I will call you to discuss registration details.
+,
+Reginald Barner Ext 284
+Katie Winslow
+Administration
+marcusevans
+Phone	: 713.650.6007 x.201
+Fax      	: 713.650.0796
+E-mail 	: administration@marcusevanstx.com
+URL 
+- FxPk-HT07-jul31.pdf 
+I read the proposal last night, and although it is not perfect, it is a big improvement over what we have today.   Therefore, I (and my team) support Enron's endorsement of the PJM Proposal (with your timeline condition).
+Thanks for all your good work.
+Kevin:
+I think the PJM proposal looks pretty good as a first step.  As we discussed in Houston, the proposal gives us a single day-ahead and real time energy market for the entire Northeast, but it does not get us everything at first.  For example, on Day One, PJM proposes to retain the 4 existing control areas and allow the individual control areas to redispatch in the real time market for local transmission constraints.  This could result in New York continuing to manipulate the market in an attempt to keep prices down, but as we discussed in Houston (and as Andy Ott has confirmed), it is highly unlikely that PJM will allow New York to continue this type of market interference once PJM is in charge and running the market.  Also, by leaving some of the existing systems in place, PJM has aptly responded to the New York argument that "local reliability" in New York must be maintained, so that New York's opposition is seen for what it is -- an attempt to delay indefinitely an RTO in the Northeast.
+Enron's support of the PJM proposal would be very helpful in mediation since we are seen as a big player in the region and because the other two proposals on the table are sponsored by the New York TOs and the New York ISO and envision a new RTO system based on the PJM "Platform" changed by as-yet undefined "Best Practices" from the other two ISOs (and New York has indicated it thinks a lot of its market design is a "best practice"), and these other options will not begin operation for 3-5 years at best.
+Nevertheless, even though we here in Washington think the PJM proposal looks good, it is important that you and your team are also comfortable with it.  If you all have not had an opportunity to review the proposal to ensure that you are satisfied with it, then I would propose that we not sign Enron's name onto the proposal.  We can talk about the proposal in more detail and even have Andy Ott available for a conference call or a trip to Houston to answer any questions you may have.  If you need more time, then I think we should follow this route instead, even if it means we cannot lend our support for PJM at this time.
+Please let me know what you think.
+Sarah
+Are we sure we can live with everything else in the PJM Single RTO proposal?
+As I mentioned to each of you today, we plan to sign Enron's name as a member of the "One RTO Coalition" in support of PJM's proposal for developing a single Norhteast RTO with a single day-ahead and real-time energy market in the Northeast.  PJM's proposal is attached.  As you may recall, I gave you a copy of PJM's proposal and we discussed it when I was in Houston a couple of weeks ago.  The main concern with PJM's proposal is its timing -- their time line provides for an implementation date of November 2003.  We have talked extensively with PJM about the need to speed up the implementation process, and PJM agrees that they will move aggressively, but they are unwilling to change their target date in their proposal.
+Because we disagree with the PJM date, we propose to have Enron Power Marketing, Inc.'s name included on the list of supporters of the proposal, with the following footnote:
+=09While all of the members of the One RTO Coalition support the substance of PJM's proposal to implement a single energy market as described herein, Enron =09Power Marketing, Inc. dissents from PJM's date of November 2003 for implementing the single RTO in the Northeast.  Enron believes that the PJM proposal =09can and must be implemented by December 2002 and that extension of the implementation date past December 2002 is unnecessary and contrary to the =09Commission's RTO policy established in Order No. 2000.
+This footnote will preserve our right to argue against PJM's timing in comments to the Commission after the Judge submits his report (due on September 17).  In those comments we can go into much greater detail about the need for quick implementation.
+Please let me know if you have any suggested changes to the footnote or if you disagree with our proposed strategy.  We will address this issue on Thursday at mediation (I thought it was going to come up today, which is why I called each of you), so if you have any comments or concerns, please let me know as soon as possible.=20
+Thanks
+Sarah
+=09  
+You should attend if you think you will get value from it.
+Sure, although I'm probably not qualified to speak too intelligently about physical asset characteristics (I can fake it pretty good, though).  Let me know if you'd like me to attend.
+- Jim
+Any interest in attending?
+Someone from the Marcus Evans training company was looking for an Enron person to attend a course on Generation Asset Valuation and Optimization. A brochure describing the course content and instructors is attached as a PDF file at the bottom of this message. Brian Stanley agreed this looked like an informative event, so we committed a slot for Enron among the approximately 25 participants. We'd like you to suggest who would be the best person to represent Enron in this session.
+These courses are interactive and are geared to executives. (Per course brochure, audience is CFO, Sr. VP Generation, VP Asset Mgmt, VP Power Supply, VP Development, Director Market Analysis/Valuation.) Companies represented for this one include Ameren, Cinergy, Duke, Exelon, etc.  The course is being held Oct 1-2, 2001 in the Crowne Plaza, just down the street from our office. The cost would be about $3,600.00. EEOS has paid the fee to hold a place.
+The course seems focused on making complex decisions about assets in light of uncertainty and volatility, which might be of some value in assisting ENA with strategy about potential acquisitions. Also, we would get some exposure to what other players in the market are thinking. One speaker is the Sr. VP of Asset Management for Duke Energy North America.
+Some suggested criteria for the candidate to attend:
+1.   Involved in decisions about valuing Generation Assets based on uncertain future outcomes as opposed to simple discounted cash flow analysis.
+2.   Interest in calculating value of asset flexibility, e.g., alternate transmission paths, fuels, etc.
+3.   Able to discuss merits of asset ownership vs. other means of access to asset/output (contract, lease, etc.)
+Kevin, Don and Mike, I think any of you might find this worthwhile if you have the time. I also would suggest perhaps Mitch Robinson as one who is very clued in on both asset management and how we are using assets (owned by us or others) as part of our business. But I don't know everyone on your side, so I request that you consult with each other and let me know whom you think should attend.
+(If for some reason you don't want to send someone, we can cover it from the Operations side at EEOS.)
+Call me at x6-7775 if you have questions.
+Thanks.
+Ken
+Dear Ken:
+Attached is the agenda as discussed. Due to the limited available seating at
+this late date, I will call you to discuss registration details.
+,
+Reginald Barner Ext 284
+Katie Winslow
+Administration
+marcusevans
+Phone	: 713.650.6007 x.201
+Fax      	: 713.650.0796
+E-mail 	: administration@marcusevanstx.com
+URL 
+- FxPk-HT07-jul31.pdf  
+What is the exact delivery point?   Does it include capacity?   Is it a daily call?   monthly call?   All options are quoted by Harry Arora.
+Are you interested in offering the $100 daily call, into Duke, May-Sep'02, up to 100MW?  We may be able to separately offer regulatory capacity off of the Carolina plants we sold to AIG.
+I will handle the non-TVA SERC deals until John Suarez joins the group.
+Kevin,
+Who now handles Duke's system territory with King switching to ERCOT?  You or Fletch?
+North Carolina Mun. Power Agency 1 has informally requested up to 100MW of capacity and energy for May-Sep'02 with a "relatively high" strike price (probably $100) into Duke, or regulatory capacity.
+Formally, they have issued 2 RFP's:  1) to buy as much as 750MW of intermediate, peaking, and reserve capacity for summer peak months of 2003 and beyond (1-5 years), increasing by approx. 25MW per year; 2) to sell up to eight, 50MW blocks of 7x24 energy, system firm or unit contingent, off of Catawba and/or McGuire nuclear plants, interconnected with the Duke trans. system, beginning 1/1/03 (1-8 year term).
+BB
+I want only firm delivered LD offers for this position.   Please make this clear in our proposal and make sure the volume shape is exactly the same as our JEA obligation.
+Thanks.
+Kevin, 
+I've received interest from several potential sellers to fill the JEA position.  I sent the monthly on- and off-peak needs, requesting offers from the following:  Morgan Stanley, Orlando, Seminole, Calpine, Cargill, FPC, FPL, and FMPA.  I'll keep you informed as I receive responses.  Everyone expressed an extreme interest as they are all long power for the remaining term of this position.
+BB
+Kevin - The following counterparties were approved to EOL trading through Cal'05 for East Physical Power.  As we agreed, the charge would be $0.10/mwh for both '04 and '05 and this would be revisited in December of this year.  The list of counterparties approved was based on a list provided by you a month or so back.  Please pass on the information to you trading desks 
+rgds, Ed Sacks
+Allegheny Energy Supply LLC
+BP Energy Company
+Conectiv Energy Supply
+Duke Energy Trading and Marketing
+El Paso Merchant Energy, L.P.	
+Merrill Lynch Capital Services Inc.
+Morgan Stanley Capital Group Inc.
+Reliant Energy Services, Inc.
+Williams Energy Marketing & Trading, Inc.
+You've got that right.   I'm am short all of the power and am getting frustrated.   I am breaking all of the trading rules by ignoring the price action which continues to be somewhat bullish in power.   There seems to be very solid fixed price support at these lower levels.
+In particular, the NE markets refuse to go down despite the fact that Benson has been a fairly aggessive seller the past two days in the 02 and 03 period.   For the 1st time in a couple of weeks, however, the cash market is showing signs of weakness.
+Overall, I am very bearish and my position reflects that.   Like you, I have worn some curveshift the past month.
+Kevin -
+Weird price action today it looks like to me.  Overall the Dow tells it all.  Energy is going to have to get absolutely crushed and that will be the final blow that will ultimately allow this economy to get on the long slow road to recovery.
+Rogers
+The source sink issue continues to be a huge thorn in our side and costs my group significant $'s every year.   I estimate $10-15 million per year is lost by our cash traders every year due to the inflexibility in the daily and weekly market.
+Therefore, we should continue to fight this issue hard to rectify as soon as possible.
+Thanks.
+The mediator in our appeal of the Entergy source and sink suggested that Enron may want to try and settle this.  I asked B&P for the costs to get through oral argument, which are only $4000.  During the course of our SE RTO mediation, the Entergy person working on congestion management agreed with me that implementation of the LMP/financial rights model in the SE would alleviate the need for the Entergy Attachment M and Southern's similar attachment.  However, that model (should we get it) won't be in effect until sometime next year (at the earliest).  Also, Enron has sold its control areas. (VEPCO, our co-appellant, still has Batesville in Entergy).
+It seems that it would make sense for us to approach FERC staff working on this matter, get their thoughts, and then perhaps approach Entergy.  FERC is the one that would actually settle, not Entergy (also, FERC must change the policy -- getting Entergy to simply withdraw Att. M is certainly good for precedent, but Southern can still keep its Att. unless FERC makes Southern change its tariff).  If nothing else, having another FERC avenue to voice our support for the LMP financial rights model (no day ahead balanced schedules), which alleviates this discriminatory practice like Entergy Att. M, would be helpful.  What are your thoughts? 
+Christi -
+Dan has informed me that Enron's share of remaining costs in the Enron v. FERC matter will not exceed $4,000, for the work done to prepare for oral argument scheduled for November 7, 2001.
+If you need a more formal document indicating this, I would be happy to send one to you.  Please let me know.  Thanks 
+Jackie
+Jacqueline R. Java
+Bracewell & Patterson, L.L.P.
+2000 K Street, N.W. Suite 500
+Washington, D.C. 20006-1872
+(202) 828-5828
+I sit at 06543 (will be moving Wednesday/Thursday).   I can meet mid-morning tommorow.   Get on my calender with TJ at 35800.
+thanks.
+I plan on meeting with Rika and Chris regularly, particularly with Rika on new gen.  What time is good for you tomorrow and where are you located 
+RJ
+Obviously, coordination with gas and power fundies (rika imai and chris gaskill) is important for almost all projects unless confidentiality is necessary given the nature of the project scope.   My view is No. 1 is part of Rika's core day to day world.   No. 2 and No. 4 are more special project in nature and this is a gap you could help fill.
+I will be out Wednesday through Friday so we should sit down tomorrow.
+Hey Kevin- thanks for the intro at the Fundy meeting on Friday- would like to sit down with you to talk priorities this week if you have time 
+For Power East, I know you want maximum bang for your buck across a limited number of projects, so I'm thinking:
+1. New Gen
+2. Hydro Quebec reservoir levels
+3. Oil "shock"/terrorism
+4. Coal- utility stockpiles
+Thanks,
+Robert Johnston
+x39934
+No.
+I talked to Louise last week about pushing Broker Clients off the system and she said to wait until she talked to you.  Have you heard from her?
+I generally agree with your approach.  We may be able to assign our contracts to a competitor and actually get paid (because of margin in contract vs. current market), particularly if competition is not pricing this risk or choosing to ignore it.   Potential candidates are Green Mountain, New Power Co, TXU, etc.
+Any thoughts?
+Kevin/John -
+I am becoming concerned that ERCOT will not achieve full open access by 1/1/02.  Our sales are virtually all commencing 1/1/02.  A delay will result in foregone margin and possible incremental losses until such time we can physically serve.  For example, we will possibly be forced to serve our customers with regulated utility gen service until such time as ERCOT can fully implement direct access.  The cost are greater than our retail gen product and greater than our sales price = loss of margin + incremental losses due to costs above sales price.  (make sense?)
+I have expressed this concern to EES Origination.  Margins are extremely tight in ERCOT, approximately $2.00 Mwh above offer and if we build in a fee/reserve to account for this risk we will probably shut down the TX effort.  Our competitors (absent Shell) are apparently not considering/pricing this risk.  In fact, the incumbent utilities have a natural hedge.  If open access is delayed then their customers just continue to pay higher tariff rates, thus they are incented not to assist in a speedy transition.
+I suggested that at a minimum we reserve margin until we have a better feel for transition status but obviously received no nods of approval.  I will get with Steffes on Monday to get a feel from him, and Doug if you could provide your thoughts as well.  I am afraid we may have no choice other than imposing some price component to reflect this risk which could lead to our being viewed uncompetitive in the marketplace 
+One possible mitigation is to amend our contract to begin upon full transition date (or such earlier date if allowed). This would at least limit our exposure to loss of margin vs. additional incremental losses associated with our obligation to serve with reg gen.  Joe can you review contracts and determine what our obligation to serve is under existing contract and whether you think this idea would help mitigate.
+I would like al of your thoughts as any move like this will receive significant resistance.
+Rogers 
+Fine.   I don't need to attend.
+Kevin this summit is right after the hourly Las Vegas trip and I would like to attend.  There is no costs associated with this summit, ESCA is covering the accommodations and I will all ready be in Las Vegas.
+Did you want to attend 
+I was told by ESCA that some of our regulatory folks attended last year.
+Dear SUMMIT2001 Guest:
+ALSTOM ESCA, the Energy Management and Markets Business unit of ALSTOM,
+would like to invite you and a guest to attend the second annual energy
+summit, SUMMIT2001: The Forum for Power Industry Issues, October 7-9, 2001,
+at the Bellagio in Las Vegas.
+SUMMIT2000 brought energy and government leaders together to discuss a range
+of issues-from technical, to business, to regulatory and legislative.  This
+year, SUMMIT2001 will again spark discussion and initiate dialogue about a
+range of topics, including:
+*	ISOs and RTOs from an organizational, business, and technical
+viewpoint
+*	Retail System Implementations and their financial impact on an
+organization
+*	Emerging technologies and trends
+On behalf of Alain Steven, President and CEO, and the ALSTOM ESCA team, we
+look forward to your participation in this year's event.  Please click on
+the link below for more information as well as to register.
+< 
+Should you have any questions, please feel free to call me at 425-503-4197,
+or just click "reply" to this message.  We look forward to seeing you in Las
+Vegas.
+Sincerely,
+Kerry Ann Donk
+Manager, Public & Media Relations
+ALSTOM ESCA
+- winmail.dat  
+Calender
+Please plan to attend a meeting on Tuesday, September 11 from 3 - 4 PM in EB3321.  Please call me with any questions.
+Becky Young
+x30622
+Calender.
+Please hold October 12, 2000 (10a to 3:00p) on your calendars for an offsite meeting to discuss wholesale and retail power systems.  Logistics are forthcoming. 
+Attendees
+Tim Belden
+Don Black
+Anthony Dayao
+Kenny Ha
+Rogers Herndon
+Steve Nat
+Murray O'Neil
+Beth Perlman
+Kevin Presto
+Jeff Richter
+Lloyd Will
+Optional Attendees
+Todd Busby
+Louise Kitchen
+Thank you.
+Thanks.   Any assignment would have to be confidential.   I don't view an assignment any different than the unwinds that we are currently doing directly with the customer.   If there is a positive NPV trade, we should do it.   "Assignment" maybe the wrong word.   Maybe we can transfer the ERCOT switching risk to another supplier or back to the customer.
+I do not think that assignment is anything that EES will consider at this stage - PR, comittment to market, perception, etc.  This is a tough one.  If we do what I feel to be prudent we will slow down their sales effort, at a time when they need sales.  The issue is that a delay is not certain and I will be viewed as not a team player and overly cautious.  The incumbents are loving this.  They realize the more confusion, the less competition - witness Shell already.  I think the legislators are beginning to realize this.  I am having Joe review our contracts and he will let me know what our options are in the existing contract and how we should amend it 
+I generally agree with your approach.  We may be able to assign our contracts to a competitor and actually get paid (because of margin in contract vs. current market), particularly if competition is not pricing this risk or choosing to ignore it.   Potential candidates are Green Mountain, New Power Co, TXU, etc.
+Any thoughts?
+Kevin/John -
+I am becoming concerned that ERCOT will not achieve full open access by 1/1/02.  Our sales are virtually all commencing 1/1/02.  A delay will result in foregone margin and possible incremental losses until such time we can physically serve.  For example, we will possibly be forced to serve our customers with regulated utility gen service until such time as ERCOT can fully implement direct access.  The cost are greater than our retail gen product and greater than our sales price = loss of margin + incremental losses due to costs above sales price.  (make sense?)
+I have expressed this concern to EES Origination.  Margins are extremely tight in ERCOT, approximately $2.00 Mwh above offer and if we build in a fee/reserve to account for this risk we will probably shut down the TX effort.  Our competitors (absent Shell) are apparently not considering/pricing this risk.  In fact, the incumbent utilities have a natural hedge.  If open access is delayed then their customers just continue to pay higher tariff rates, thus they are incented not to assist in a speedy transition.
+I suggested that at a minimum we reserve margin until we have a better feel for transition status but obviously received no nods of approval.  I will get with Steffes on Monday to get a feel from him, and Doug if you could provide your thoughts as well.  I am afraid we may have no choice other than imposing some price component to reflect this risk which could lead to our being viewed uncompetitive in the marketplace 
+One possible mitigation is to amend our contract to begin upon full transition date (or such earlier date if allowed). This would at least limit our exposure to loss of margin vs. additional incremental losses associated with our obligation to serve with reg gen.  Joe can you review contracts and determine what our obligation to serve is under existing contract and whether you think this idea would help mitigate.
+I would like al of your thoughts as any move like this will receive significant resistance.
+Rogers 
+Can you please make sure Kim Melodick attends my meeting with Jim Homco that I believe is scheduled for tommorow afternoon at 5:00 pm.   If Kim cannot attend, I need to move the meeting to a time when she can be there.
+Thanks.
+Yes, we probably can because ESCA is the vendor and we have a great relationship with them.  I will ask Doug and/or Forney to follow-up.
+Fallon suggested that we talk to the people that are building the systems to see what they think about readiness.  Can we do that.
+Rogers,
+Given the Senate hearing results from Friday, I would certainly start building in some margin. The prevailing feeling was that there is no reason to start dereg if the systems cannot handle it. To their credit, however, the politicians stated that we need to know this sooner rather than later as there are significant ramifications if we are to delay it. The committee was cognizant of the financial exposure and also the erosion of public confidence in the event of a further delay.
+The speed of completing customer switching is expected to ramp up now so that all pilot customers will be switched by mid to late Oct. That leaves one billing cycle before dereg. So, the latest we should know there is going to be a delay is Thanksgiving. ERCOT's past inability to inform the market of their delays should be resolved as they were heavily chastised for their commercial incompetence. The senate committee is also getting more actively involved as the skewed representation is concerning them-competitive retail has minimal voting rights 
+Recent changes in pricing mechanisms show that the ISO is very sensitive to the political forum and so I believe they will be a little more responsive to their demands. That is probably why the ISO has taken to 'fixing' price by not using the market bids when liquidity is light. This increases the uplift costs which are currently estimated around $0.50 MWh.
+All in all, the wholesale operations are still sub-optimal but I believe, if the switching does occur, then we should be ok. The concern is the margin for error- the ISO will know late November giving you only a month at best. Restructuring these contracts to coincide with a threshold of completed switches would be the way to go.
+In the meantime, Jean Ryall is working to monitor the next round of hearings. In addition, we should be able to get access to the chairs of this committee if need be.
+Let me know if you have any questions,
+Doug
+Kevin/John -
+I am becoming concerned that ERCOT will not achieve full open access by 1/1/02.  Our sales are virtually all commencing 1/1/02.  A delay will result in foregone margin and possible incremental losses until such time we can physically serve.  For example, we will possibly be forced to serve our customers with regulated utility gen service until such time as ERCOT can fully implement direct access.  The cost are greater than our retail gen product and greater than our sales price = loss of margin + incremental losses due to costs above sales price.  (make sense?)
+I have expressed this concern to EES Origination.  Margins are extremely tight in ERCOT, approximately $2.00 Mwh above offer and if we build in a fee/reserve to account for this risk we will probably shut down the TX effort.  Our competitors (absent Shell) are apparently not considering/pricing this risk.  In fact, the incumbent utilities have a natural hedge.  If open access is delayed then their customers just continue to pay higher tariff rates, thus they are incented not to assist in a speedy transition.
+I suggested that at a minimum we reserve margin until we have a better feel for transition status but obviously received no nods of approval.  I will get with Steffes on Monday to get a feel from him, and Doug if you could provide your thoughts as well.  I am afraid we may have no choice other than imposing some price component to reflect this risk which could lead to our being viewed uncompetitive in the marketplace 
+One possible mitigation is to amend our contract to begin upon full transition date (or such earlier date if allowed). This would at least limit our exposure to loss of margin vs. additional incremental losses associated with our obligation to serve with reg gen.  Joe can you review contracts and determine what our obligation to serve is under existing contract and whether you think this idea would help mitigate.
+I would like al of your thoughts as any move like this will receive significant resistance.
+Rogers 
+Please follow-up with ERCOT ISO and/or ESCA to find out if there is a technical limitation with the software.   Can we please get an inside opinion on the "real" issue and the "real date" so we can properly assess wholesale and retail risk as a company.
+Doug and Rogers -  Please work together on who is going to take the lead so don't have two different Enron people inquiring.   We may also want to consider using Tholan's intelligence group.
+Rogers,
+Given the Senate hearing results from Friday, I would certainly start building in some margin. The prevailing feeling was that there is no reason to start dereg if the systems cannot handle it. To their credit, however, the politicians stated that we need to know this sooner rather than later as there are significant ramifications if we are to delay it. The committee was cognizant of the financial exposure and also the erosion of public confidence in the event of a further delay.
+The speed of completing customer switching is expected to ramp up now so that all pilot customers will be switched by mid to late Oct. That leaves one billing cycle before dereg. So, the latest we should know there is going to be a delay is Thanksgiving. ERCOT's past inability to inform the market of their delays should be resolved as they were heavily chastised for their commercial incompetence. The senate committee is also getting more actively involved as the skewed representation is concerning them-competitive retail has minimal voting rights 
+Recent changes in pricing mechanisms show that the ISO is very sensitive to the political forum and so I believe they will be a little more responsive to their demands. That is probably why the ISO has taken to 'fixing' price by not using the market bids when liquidity is light. This increases the uplift costs which are currently estimated around $0.50 MWh.
+All in all, the wholesale operations are still sub-optimal but I believe, if the switching does occur, then we should be ok. The concern is the margin for error- the ISO will know late November giving you only a month at best. Restructuring these contracts to coincide with a threshold of completed switches would be the way to go.
+In the meantime, Jean Ryall is working to monitor the next round of hearings. In addition, we should be able to get access to the chairs of this committee if need be.
+Let me know if you have any questions,
+Doug
+Kevin/John -
+I am becoming concerned that ERCOT will not achieve full open access by 1/1/02.  Our sales are virtually all commencing 1/1/02.  A delay will result in foregone margin and possible incremental losses until such time we can physically serve.  For example, we will possibly be forced to serve our customers with regulated utility gen service until such time as ERCOT can fully implement direct access.  The cost are greater than our retail gen product and greater than our sales price = loss of margin + incremental losses due to costs above sales price.  (make sense?)
+I have expressed this concern to EES Origination.  Margins are extremely tight in ERCOT, approximately $2.00 Mwh above offer and if we build in a fee/reserve to account for this risk we will probably shut down the TX effort.  Our competitors (absent Shell) are apparently not considering/pricing this risk.  In fact, the incumbent utilities have a natural hedge.  If open access is delayed then their customers just continue to pay higher tariff rates, thus they are incented not to assist in a speedy transition.
+I suggested that at a minimum we reserve margin until we have a better feel for transition status but obviously received no nods of approval.  I will get with Steffes on Monday to get a feel from him, and Doug if you could provide your thoughts as well.  I am afraid we may have no choice other than imposing some price component to reflect this risk which could lead to our being viewed uncompetitive in the marketplace 
+One possible mitigation is to amend our contract to begin upon full transition date (or such earlier date if allowed). This would at least limit our exposure to loss of margin vs. additional incremental losses associated with our obligation to serve with reg gen.  Joe can you review contracts and determine what our obligation to serve is under existing contract and whether you think this idea would help mitigate.
+I would like al of your thoughts as any move like this will receive significant resistance.
+Rogers 
+Please call me and I will give you the real story.   I don't want to put it in an e-mail.
+Kevin -
+Appears from NRC report as though nuke output is largely unchanged.  Is that correct?
+Prices and market reaction appear to be generally consistent with our expectations.
+RH
+Obviously, coordination with gas and power fundies (rika imai and chris gaskill) is important for almost all projects unless confidentiality is necessary given the nature of the project scope.   My view is No. 1 is part of Rika's core day to day world.   No. 2 and No. 4 are more special project in nature and this is a gap you could help fill.
+I will be out Wednesday through Friday so we should sit down tomorrow.
+Hey Kevin- thanks for the intro at the Fundy meeting on Friday- would like to sit down with you to talk priorities this week if you have time 
+For Power East, I know you want maximum bang for your buck across a limited number of projects, so I'm thinking:
+1. New Gen
+2. Hydro Quebec reservoir levels
+3. Oil "shock"/terrorism
+4. Coal- utility stockpiles
+Thanks,
+Robert Johnston
+x39934
+We need to make it our responsibility so we have consistent tools applied in all of the markets.
+We will change gears tomorrow
+Is toronto our responsability to make happen?
+Lloyd Will
+This transaction was never in the trading books and all P&L and decision-making was within the origination group.   I may have recommended that Ozzie buy the balance of year coal, however, all $ impacts and decisions were within the control of orig/corp development.
+Therefore, Heather, Ozzie and Don Miller are the parties that must deal with any of the contractual issues and intra-company monetary issues.
+Ozzie and Heather,
+In February time frame EGM Coal desk sold firm delivered coal to NC Power Holdings balance of year (2001) for $72/ton.  We also did a requirements deal beyond this point.  My understanding was Ozzie made the balance of the year trade per Kevin Presto.  Ozzie also verified this understanding in a phone conversation with me a couple of weeks back.  NC Power Holdings is currently not taking any coal on there take or pay obligation 
+There is liquidated damages associated with this transaction which need to be settled.  It will also be prudent to determine if the remaining tonnage obligation for balance of the year needs to be settled now or in the future.
+Please let me know who is specifically responsible to settle this trade.
+KJM
+Sounds good.
+Everyone -
+Mark & David have worked with IT to pull together a cut at our 4 RSO scenarios.  Info looks pretty interesting and I think we should sit down and review.  Should we do this at tomorrow's EES Review session?
+Rogers
+Is this relevant information.
+This will confirm receipt on September 11, 2001 of your registration application as a LSE (Enron Power Marketing, Inc. - DUNS Number 84-892-1276).
+Your application is now being processed for completeness, and to verify the qualification requirements set forth in the ERCOT Protocols.
+ERCOT will complete the processing of your application within ten (10) business days from the date it was received.  You will be advised if additional information is required. 
+Ron Stephenson
+Business Rules & Contracts
+ERCOT - Taylor Plaza
+3202 North Main Street - Building C
+Taylor, Texas  76574
+Tel:  512-248-3924
+Fax:  512-248-3995
+E-mail:  rstephenson@ercot.com
+The average guy has no idea what is coming.   T&D costs are going to explode and so is wholesale power (increased O&M, security, employees, capital improvements, risk premium, etc.)
+Kevin -
+UDC rates are going to increase significantly as we discussed.  FERC just gave ute's a go ahead for the recovery of prudent expenditures on safety/infrastructure spending and anticipated a significant amount of it 
+Amazing, we were just discussing this in am.
+Rogers 
+I'm fine with this approach.
+Kevin -
+NRG has agreed to release their transcripts to us in consideration of our agreeing to a propsed non-binding dispute resolution process.  In essence, we will exchange transcripts and position papers with NRG and we will have 10 days to review.  If we do not settle within that 10 day period we will enter into non-binding mediation in Chicago fbefore 12/15/01.  No legal action can commence until madiation concludes.
+I am perfectly fine with this approach.  In my opinion, it signals a softening of their stance.  If mediation does not result in an acceptable outcome, or if their transcripts do not change our minds, all of our avenues are still open.
+I am going to sign the letter on behalf of EPMI agreeing to this unless you have a problem (Andy has reviewed).
+Rogers  
+Thanks.   Sounds like a solid no.
+So the scoop is He is Average.
+He recently moved out of Bandwidth 6 weeks ago and back into Continental Power trading - why he is moving again after 6 weeks.  Is it a problem with the business or him?
+He worked for Marcello Romano (Head of Bandwidth Trading in Europe) as John knows.  Marcello says he is a solid hard worker who has no edge.  If Marcello were to run UK Gas again he wouldn't take him - as he is not sharp.  So he wouldn't bother to move him across the Atlantic if it costs a lot.
+Your call.  Ring Marcello for more information 
+Louise
+I will follow up on monday morning.
+John D. Suarez
+Enron Broadband Services
+(713) 853-5267
+(713) 443-5267 mobile
+(877) 597-0646 pager
+Louise - Do you know this gentleman from your days in London?   His resume looks good and he is interested in moving to Houston and working in East Power.
+John Suarez - You are going to need at least one and probably two solid cash/term traders for the SE region.   Talk to Seresh about this guy.
+Kevin, 
+thanks for taking a look at this. 
+I will talk to you in the next days to see if you think I will make enough money for you. 
+Enrico 
++44 207 783 6560 
+I am missing an Enron 10,000 share sale from Monday of last week.   The sale has not shown up in my on-line "holdings" report as it normally does.
+I am assuming this will be corrected today.
+Thanks.
+Does it retain my custom profile?
+We have upgraded the web site and it the newer version now is on a new server.  The transition should be very smooth as it is identical on face value to the existing site.  Please note the new link and replace your current favorites entry with this one.
+We will run both sites in parallel for the next week.  Barring any major complications the current site will go down next Friday  Sept. 21 afternoon.
+Thanks
+Mark Symms
+Intranet Team Lead
+Sr. Specialist - East Power=20
+713-853-3105
+Does this mean yes?
+I ported all the profiles from the current site to the new one
+Does it retain my custom profile?
+We have upgraded the web site and it the newer version now is on a new server.  The transition should be very smooth as it is identical on face value to the existing site.  Please note the new link and replace your current favorites entry with this one.
+We will run both sites in parallel for the next week.  Barring any major complications the current site will go down next Friday  Sept. 21 afternoon.
+Thanks
+Mark Symms
+Intranet Team Lead
+Sr. Specialist - East Power=20
+713-853-3105
+Chemistry is very important to me and I am rewarding Carson for his loyalty and "low maintenance".   In addition, he demonstrated much improved risk management skills that last 6 months of last year.   Mike (working for Fletch) is very capable and will do a great job for us in the SE.    Eric Saibi will come over from ERCOT and run the cash books in the SE.
+I will be happy to talk Marcello to see if there is another fit.    With respect to the NE, I also want to move some of the young guys up - they have worked hard for the past 12-18 months in real-time and fundies roles and deserve a chance before an outside person.
+Do you really have someone as capable as Marcello.  This is an outstanding trader who we probably have no chance of getting but could run any desk we have.  Is your SE guy of that quality?
+I have already moved someone from ERCOT to SE Power.   We are set.
+Marcello is coming to Houston tomorrow to interview for a position trading financial gas.  I really think if we have any spare trading slots we should talk to him.  Kevin - what about South East power?
+Louise Kitchen 
+Chief Operating Officer 
+Enron Americas 
+Tel:  713 853 3488 
+Fax: 713 646 2308 
+What is Zydeco?   No to Chinese.
+Kevin,
+Are yall ready for a change?  I have had a few people come over and leave suggestions for lunch...Zydeco, Chinease,  different type of Italian.  Please let me know what your thoughts are.
+Thanks 
+T.Jae Black
+East Power Trading
+Assistant to Kevin Presto
+off. 713-853-5800
+fax 713-646-8272
+cell 713-539-4760
+I say we don't make any changes until we get in the new building and we will have a better feel for the vendors.
+Zydeco is Cajun...do you have any other suggestions?
+What is Zydeco?   No to Chinese.
+Kevin,
+Are yall ready for a change?  I have had a few people come over and leave suggestions for lunch...Zydeco, Chinease,  different type of Italian.  Please let me know what your thoughts are.
+Thanks 
+T.Jae Black
+East Power Trading
+Assistant to Kevin Presto
+off. 713-853-5800
+fax 713-646-8272
+cell 713-539-4760
+Please get info from Lloyd.
+Could you let me know what regions the following trader track individuals (in power) will be trading.  I am working on getting them all the correct access and need this information.
+Thanks,
+Stacey
+Hello
+Each of you is going to be able to trade on the training tool that we developed.  Please call Jeff Gossett who will coordinate the trading.
+Here are the rules:
+1.  Eol trades only.
+2.  Financial trades only.
+3  Maximum 20 trades per day.
+4.  100 K in Var limit.
+5.  100K penalty for first day VAR violation.  1 Million for the second consecutive VAR violation.
+6.  Gas or Power Trades allowed.
+7.  Your book will be run every day.
+8.  This game/training cannot affect your dayjob.  Don't let it!
+Jeff - Start next monday       -  Add this report to my reports and get it on the internet reports.
+Thanks
+John
+I did a spread today with Arnold:
+Sold 10,000 MMbtu/day of Cal 03
+Bought 10,000/MMBtu/day of Cal 05
+Paid $0.12/MMBtu for the spread
+Let's discuss tommorow.
+Kevin -
+Retail Commodity book (East) should now be essentially flat on a portfolio basis.  We have approximately $40 MM in Hedge Management reserve.  We will assess how much we should release in Q3 and I will discuss with you.
+Rogers
+I talked with John today and he wanted me to remind you about the e-mail you voluntered to write regarding the transition of site profile accountability back to EES.   If you recall, we decided on a 2-3 month transition with some sort of drop dead accountability for all P&L risks associated with the site profile/DSM positions.
+Do you remember this?  If so, John and I did not receive the e-mail.
+What time are we meeting?
+Here is the  information that you requested.
+Evans  Automation
+15200 Middlebrook  Dr.
+Suite  
+Houston, TX   77058
+Phone:  281-488-7474
+Fax:  281-488-7475
+Email: Info@evans-automation.com Wendy Donaldson
+Evans Automation
+Ph 281.488.7474
+Fax 281.488.7475
+For files/calender.
+It's currently scheduled for 10AM on Saturday 9/29.
+What time are we meeting?
+[mailto:IMCEANOTES-Evans+20Automation+20+3Cinfo+40evans-automation+2Ecom+3E+
+40ENRON@]
+Sent:   Wednesday, September 19, 2001 10:56 AM
+Here is the  information that you requested.
+Evans  Automation
+15200 Middlebrook  Dr.
+Suite
+Houston, TX   77058
+Phone:  281-488-7474
+Fax:  281-488-7475
+Email: Info@evans-automation.com << File:
+mailto:Info@evans-automation.com 
+Wendy Donaldson
+Evans Automation
+Ph 281.488.7474
+Fax 281.488.7475
+Not at all.  Please attend.   However, we will need a bigger room.   Can you coordinate with TJ to make this happen.
+Thanks.
+Kevin,
+Would you mind if I and two or three others in Origination attended the fundamentals presentation scheduled for power trading for next Monday?
+Dave
+With respect to East Power markets, I would like a fixed monthly premium in addition to the wider bid/offer in return for Refco's access to our markets.
+Gentlemen
+I wanted to provide you an update on the status of the Refco private label platform deal.  We have had several meetings since I first presented the idea to you all.  Unfortunately, Refco's headquarters was in One World Financial Center which was severely damaged by debris from the World Trade Center collapse.  They suffered no human losses from the disaster, but their offices are off limits and all their computers and paper files are inaccessible for the time being.  They are up and running out of a Jersey City location with some back up capability.
+To briefly summarize the discussion so far, ENW would build a Refco branded platform similar to EOL that would be accessed by Refco's customers.  Enron would provide transactable prices to the site with wider spreads and potentially smaller minimum volumes.  Refco customers would transact on the site with Refco as their counterparty and Refco would sleeve the transactions to Enron allowing us to consolidate our credit risk to a singular credit, Refco.   The products contemplated include various Nymex look-a-like products and other liquid swaps in oil, natural gas, and electricity.  Revenue would come to Enron in the form of license fees for the platform, transaction fees, and origination from the additional volume create by the wider margin products.  Revenue would come to Refco in the form of transaction fees.  Refco has a similar arrangement in place for FX with Dresner bank and have announced a similar platform for bonds and securities with Cantor Fitzgerald/E-speed.
+All that being said, they are anxious to move the discussion forward and we have planned a visit for them to come to Houston in 2 weeks.  Attending will be Gary Weiss, SVP Refco Group Ltd. LLC and President & CEO of Refco F/X Ltd LLC, and Joe Murphy, CEO Refco Futures Ltd. LLC.  The purpose of this visit is for them to give us a presentation on the Refco Group of companies, discuss the products and estimations of revenue streams based on their current futures business, and discuss the possible structure of the deal.  The meeting is scheduled to begin at 2:30pm Thursday Oct 4 and expected to last the balance of the day and possibly into the next morning.  I will approach you all individually to get your feedback on how you would like to interact with them and when.  I realize there are significant issues to be addressed.
+Refco currently has some 175,000 collateralized customer accounts ranging from Institutional Investors & locals down to individuals.  We have put these into 2 buckets which have different profiles.  Phase 1 would include the Top 2000 accounts which are largely substantial institutional investors, locals, and high net worth individuals.  If this proves successful, phase 2 would be rolled out with products designed to attract activity from the smaller investors.  The idea would be to automate the products as much as is practical. 
+Mark Tayor in Legal has already spoken with their counsel and is comfortable that they have reviewed all the legal angles thoroughly.  Refco advises that if the have accounts back up by collateral guaranteed by them, they become Eligible Contract Participants (ECPs) able to execute derivatives.  So, they believe that the majority of the 175,000 accounts they have could be ECPs for the purposes of this deal.  Credit is reviewing the Refco financials and we plan to discuss this thoroughly during their visit.
+Please do not hesitate to contact me at x36413 if you have any questions or comments and I will be getting in touch with you early next week to get your feedback.
+John Cummings
+Please print and put in green folder (ignore redlined version)
+Attached are clean and marked copies of the online trading GTCs for physical power which I have generally discussed with Bryan Murtagh (UBS). You will note that we have elected to use the EEI form by incorporation as we believe this will be the most marketable approach understanding that different forms will be required for many players, eg WSPP.
+I will be doing a final review over the weekend and expect this form to be final by Monday am.  If you have any questions/comments, please let me know 
+By copy of this email to Genia, I would ask for her help in cleaning up the document (sorry, beyond my current skills, hopefully, soon to be broadened) and would ask Leslie to carefully review and provide me any thoughts/comments.  Based upon this document, we will have ready by Monday pm, the long form EEI for regular negotiation.
+thanks
+Elizabeth Sager
+713-853-6349 w
+713 864-4023 h  
+thanks for the heads up.   I will forward this e-mail to EOL and Legal.   I understand his point.
+Kevin -
+Just got off the phone with Jackie Thomas at Relaint.  I worked with Jackie many years ago and I think he runs their power trading desk.  Anyway, he said he has had heartburn with the way EOL notifies users of contract/confirm changes.  EOL puts up a banner notifying the user of the change but he claims that if the user does not log on for several days then the banner may not appear, yet the contract change has been implemented.  Jackie cited the specific instance of the ERCOT 138 kv delivery requirement as an example of a change that apparently "slipped by".  Jackie feels that either the banner should stay active on a user by user basis until that user logs in and acknowledges it or a notice should be sent to a legal contact at the company - preferably both.  He does not feel as though our legal group appreciates his concern and their legal group is recommending that they halt trading on EOL unless some safeguards are implemented - he does not want to do this.
+I am not sure if the situation he described is accurate, but I did want this info to be conveyed and I think someone from EOL should call him to discuss.  Jackie's number is 713-2071308.  I would be glad to continue to facilitate discussions if necessary.
+Thanks,
+Rogers
+FYI.   Looks like PIRA will be releasing a bearish material balance and 02 gas price outlook soon.
+Rogers,
+Wanted to make sure that I mentioned that we have redone our balances
+initially and they are showing something even uglier than we had discussed
+.. something like a 1.3 TCF EO March 02. That would mean a loss of some 3.5
+BCF/D of injection demand in summer of 2002. Not surprising, we are probably
+going to revise our prices down and throw out the V bottom and grab a long,
+wide U bottom .. no $3 prices for 2002. You know what we really mean. UNT
+was rallying today at over $8. This thing could almost as ugly as the last
+down cycle.
+,
+Allan
+Any recommendations to correct this?
+Kevin -
+Just got off the phone with Jackie Thomas at Relaint.  I worked with Jackie many years ago and I think he runs their power trading desk.  Anyway, he said he has had heartburn with the way EOL notifies users of contract/confirm changes.  EOL puts up a banner notifying the user of the change but he claims that if the user does not log on for several days then the banner may not appear, yet the contract change has been implemented.  Jackie cited the specific instance of the ERCOT 138 kv delivery requirement as an example of a change that apparently "slipped by".  Jackie feels that either the banner should stay active on a user by user basis until that user logs in and acknowledges it or a notice should be sent to a legal contact at the company - preferably both.  He does not feel as though our legal group appreciates his concern and their legal group is recommending that they halt trading on EOL unless some safeguards are implemented - he does not want to do this.
+I am not sure if the situation he described is accurate, but I did want this info to be conveyed and I think someone from EOL should call him to discuss.  Jackie's number is 713-2071308.  I would be glad to continue to facilitate discussions if necessary.
+Thanks,
+Rogers
+FYI.
+FYI-
+Rika,
+Wanted to give you some updated thoughts. We normally do not gyrate this
+much, but much uncertainty and volatility now.
+Firstly, we are writing down demand sharply in the U.S. and around the
+globe. We are thinking that the US economy will be ugly and outside of a few
+of the Asian Tigers, worldwide economic activity will be even uglier. Oil
+demand much weaker but geopolitical issues likely to keep oil prices firm.
+In US -  we are now thinking as bad as down 3.5% to down 5% for 4Q01 GDP.
+Coal just died as a result of this and an MSHA upward revision in production
+of some 12 MT! Throwing in the towel on coal prices. East could easily lose
+another $5/Ton.
+I told Rogers by email we are now thinking that we could finish up next
+winter with gas inventory of ~ 1.3 TCF. While we are still refining our
+thinking, that is a shocking number. It says that yr-on-yr you would lose
+3.5 BCF/D of summer injections next summer. It says that the odds of a
+recovery of gas prices in 2002 are now looking quite bleak. It says that
+longer dated gas prices could be in under pressure. Up until now, we thought
+that drilling sector hit could clean this market up enough to get firm
+prices by summer 2002. Now we the odds are looking bad.
+Lastly, emissions -- I am scheduled to have a reasonably high level
+discussion with Senate Environmental committee. Despite the third priority
+(1st - Economy; 2nd - Security; and 3rd- Environmental), we are still
+thinking that enough noise will be made that we are going towards a 6 MM Ton
+SOX budget by 2007. That is likely bullish unless you discount future values
+heavily, which we do.
+Allan Stewart
+Thank you.   See you this Saturday at 10:00 am.
+The meeting is scheduled for 10:00A.M.
+What time are we meeting?
+[mailto:IMCEANOTES-Evans+20Automation+20+3Cinfo+40evans-automation+2Ecom+3E+
+40ENRON@]
+Sent:   Wednesday, September 19, 2001 10:56 AM
+Here is the  information that you requested.
+Evans  Automation
+15200 Middlebrook  Dr.
+Suite
+Houston, TX   77058
+Phone:  281-488-7474
+Fax:  281-488-7475
+Email: Info@evans-automation.com << File:
+mailto:Info@evans-automation.com 
+Wendy Donaldson
+Evans Automation
+Ph 281.488.7474
+Fax 281.488.7475
+Christi is leading the SE RTO initiative.   As far as meeting, tommorow at 3:30 works for me.   Please confirm with TJ at 3-5800.
+Thanks.
+Kevin,
+Let me know if I can stop by sometime today or tomorrow to discuss your expectations/timelines for hiring cash traders for the southeast.  Additionally, who is our regulatory rep. for the SE 
+Thanks.
+John D. Suarez
+Enron Broadband Services
+(713) 853-5267 work
+(713) 443-5267 cell
+email: john.suarez@
+Can you please coordinate this meeting to ensure it is productive.   We may need an initial screening mtg. to assess whether the tool can help us from a fundamental/trading standpoint.
+Thanks.
+As you may already know, PJM created a spin-off company known as PJM Technologies.  Their goal has been to create packaged, turn-key solutions for the creation of ISOs/RTOs 
+Kevin has expressed an interest in acquiring some of their tools to use in our own analyses of LMP markets.  I have been working with Fran Barrett and Stan Kijewski of PJM Technologies to set up a meeting regarding this potential project.  T. Jae has scheduled a meeting for October 3rd here in Houston for PJM Tech to visit and explain the various tools available and help us determine how they might be used to our advantage.
+Unfortunately, I have a speaking engagement on the 3rd, and will not be able to attend.  Therefore, I am attaching the brief overview paper below to provide a bit more background for you all.  There is also a more detailed presentation available at www.pjmtech.com.  It requires you have the most current version of Flash in order to work correctly.
+If you have any questions, please let me know and I will try to answer them.
+Andy Rodriquez
+Regulatory Affairs - Enron Corp.
+andy.rodriquez@
+713-345-3771 
+I will pay $500k over the mid-curve.   Morgan and JEA will be your best counterparties.   I would proceed by showing them a bid for the shaped obligation that is flat to our mid, thus leaving you with 500k of orig value.   Before we show a written or verbal bid, please get approval from me.
+Thanks.
+Kevin,
+While I realize this position become less of a problem as the markets continue their downfall, it still remains a problem.  I've spoken with you about the best offers, but below is a list of all offers:
+Morgan Stanley
+Offered $44/MWh for on-peak and $29/MWh for off-peak, matching the JEA monthly MW requirement exactly.  Firm LD offer.
+Cargill
+Offered $8 over your EOL, into SOCO offer price for on-peak, 10/1/01 - 2/28/02 only.  62MW is all he can offer.  Firm LD offer.  No offer for off-peak.
+FP&L
+Offered $45/MWh for the 7x24, matching the shaped on- and off-peak schedule.  Offer is system firm, with our purchase subordinate to native load, but not to water heater and pool pump load (about 160MW of load that could be cut before us).
+I'm still awaiting offers from JEA/TEA, which they said should be available in the next few days.  So far, Morgan Stanley has offered the best in terms of price and matching our MW needs, but is still priced at $6-$7 over your mid 
+Billy
+Have they started construction?   Is the plant a peaker or combined cycle?
+FYI.  Oglethorpe (OPC) is inquiring about buying some daily calls for next May-Jul.  I'm already working with Harry/Steve, but thought you would like the reason for the request.  OPC is building a 440MW merchant plant scheduled to be online in June'02.  OPC is looking to buy these calls to hedge against a late online date (suggesting they have already sold at least some of this planned new generation 
+Billy
+I think they are probably pricing calls vs. cancelling the project.
+They have begun construction for a couple of CT's (at least they have poured the concrete slab).  However, the 440MW is incorrect (I had pulled this from a list provided by Fundamentals).  It's closer to 200MW (per OPC 
+Have they started construction?   Is the plant a peaker or combined cycle?
+FYI.  Oglethorpe (OPC) is inquiring about buying some daily calls for next May-Jul.  I'm already working with Harry/Steve, but thought you would like the reason for the request.  OPC is building a 440MW merchant plant scheduled to be online in June'02.  OPC is looking to buy these calls to hedge against a late online date (suggesting they have already sold at least some of this planned new generation 
+Billy
+I have already moved someone from ERCOT to SE Power.   We are set.
+Marcello is coming to Houston tomorrow to interview for a position trading financial gas.  I really think if we have any spare trading slots we should talk to him.  Kevin - what about South East power?
+Louise Kitchen 
+Chief Operating Officer 
+Enron Americas 
+Tel:  713 853 3488 
+Fax: 713 646 2308 
+After reviewing our position in more detail, we are quite long MWH's in the NE market, therefore the 5 year 7x24 PJM East bid (100-125 MW) would be closer to $4-5/Mwh below the current mid.  Additional purchases above 125 MW would be discounted further for VAR and liquidity reasons.
+With respect to Florida, I would still pay the mid for Cal 02 (shaped like JEA short) and mid minus $2.00/Mwh for 50 MW of Calender 04-05.
+As I mentioned in the meeting, EES/EWS would also provide a bid for ICAP/ancillary services in PJM and NEPOOL where the company has existing short positions.
+For this week only the time for the EES/EWS Process Meeting has been changed.
+Thursday, September 27
+4:00 - 5:00  (previously scheduled for 3:00 - 4:00)
+EB3321
+I suggest setting up a meeting with all of my desk heads after your meeting with REFCO.   At that point in time, you can provide an overview of the deal structure and we can talk about East Power requirements.
+Kevin
+Thanks for your response.  During their visit here, we are going to go through the various products that we already make markets for and try to come up with a short list of products to start with that would appeal to their customer base.  In   to the fixed monthly premium, did you have a number in mind and if not what are the variables that would factor into that decision.  You had also said during our initial presentation of the concept to you that you wanted to have a meeting with your various desk heads to make sure all the angles are thought through.  After this visit, we should have a much clearer idea of what the deal would look like and we can schedule this meeting.  I would be happy to come up and talk to you about this if you desire.
+JC 
+With respect to East Power markets, I would like a fixed monthly premium in addition to the wider bid/offer in return for Refco's access to our markets.
+Gentlemen
+I wanted to provide you an update on the status of the Refco private label platform deal.  We have had several meetings since I first presented the idea to you all.  Unfortunately, Refco's headquarters was in One World Financial Center which was severely damaged by debris from the World Trade Center collapse.  They suffered no human losses from the disaster, but their offices are off limits and all their computers and paper files are inaccessible for the time being.  They are up and running out of a Jersey City location with some back up capability.
+To briefly summarize the discussion so far, ENW would build a Refco branded platform similar to EOL that would be accessed by Refco's customers.  Enron would provide transactable prices to the site with wider spreads and potentially smaller minimum volumes.  Refco customers would transact on the site with Refco as their counterparty and Refco would sleeve the transactions to Enron allowing us to consolidate our credit risk to a singular credit, Refco.   The products contemplated include various Nymex look-a-like products and other liquid swaps in oil, natural gas, and electricity.  Revenue would come to Enron in the form of license fees for the platform, transaction fees, and origination from the additional volume create by the wider margin products.  Revenue would come to Refco in the form of transaction fees.  Refco has a similar arrangement in place for FX with Dresner bank and have announced a similar platform for bonds and securities with Cantor Fitzgerald/E-speed.
+All that being said, they are anxious to move the discussion forward and we have planned a visit for them to come to Houston in 2 weeks.  Attending will be Gary Weiss, SVP Refco Group Ltd. LLC and President & CEO of Refco F/X Ltd LLC, and Joe Murphy, CEO Refco Futures Ltd. LLC.  The purpose of this visit is for them to give us a presentation on the Refco Group of companies, discuss the products and estimations of revenue streams based on their current futures business, and discuss the possible structure of the deal.  The meeting is scheduled to begin at 2:30pm Thursday Oct 4 and expected to last the balance of the day and possibly into the next morning.  I will approach you all individually to get your feedback on how you would like to interact with them and when.  I realize there are significant issues to be addressed.
+Refco currently has some 175,000 collateralized customer accounts ranging from Institutional Investors & locals down to individuals.  We have put these into 2 buckets which have different profiles.  Phase 1 would include the Top 2000 accounts which are largely substantial institutional investors, locals, and high net worth individuals.  If this proves successful, phase 2 would be rolled out with products designed to attract activity from the smaller investors.  The idea would be to automate the products as much as is practical. 
+Mark Tayor in Legal has already spoken with their counsel and is comfortable that they have reviewed all the legal angles thoroughly.  Refco advises that if the have accounts back up by collateral guaranteed by them, they become Eligible Contract Participants (ECPs) able to execute derivatives.  So, they believe that the majority of the 175,000 accounts they have could be ECPs for the purposes of this deal.  Credit is reviewing the Refco financials and we plan to discuss this thoroughly during their visit.
+Please do not hesitate to contact me at x36413 if you have any questions or comments and I will be getting in touch with you early next week to get your feedback.
+John Cummings
+SEVERAL OF YOU HAVE MAJOR CONFLICTS WITH THIS CHANGE, WE ARE MOVING THE MEETING BACK TO THE 3:00 - 4:00 TIME SLOT.
+For this week only the time for the EES/EWS Process Meeting has been changed.
+Thursday, September 27
+4:00 - 5:00  (previously scheduled for 3:00 - 4:00)
+EB3321
+Did UBS waive the employee CP?
+Friday unfortunately  - I asked for earlier.
+Lavo asked the same question
+When will we close?
+We have just been informed that the FTC has granted early termination 
+of the Hart-Scott-Rodino waiting period for the purchase of Enron's gas 
+and power business. 
+Visit our website at 
+This message contains confidential information and is intended only 
+for the individual named.  If you are not the named addressee you 
+should not disseminate, distribute or copy this e-mail.  Please 
+notify the sender immediately by e-mail if you have received this 
+e-mail by mistake and delete this e-mail from your system. 
+E-mail transmission cannot be guaranteed to be secure or error-free 
+as information could be intercepted, corrupted, lost, destroyed, 
+arrive late or incomplete, or contain viruses.  The sender therefore 
+does not accept liability for any errors or omissions in the contents 
+of this message which arise as a result of e-mail transmission.  If 
+verification is required please request a hard-copy version.  This 
+message is provided for informational purposes and should not be 
+construed as a solicitation or offer to buy or sell any securities or 
+related financial instruments. 
+When will we close?
+We have just been informed that the FTC has granted early termination 
+of the Hart-Scott-Rodino waiting period for the purchase of Enron's gas 
+and power business. 
+Visit our website at 
+This message contains confidential information and is intended only 
+for the individual named.  If you are not the named addressee you 
+should not disseminate, distribute or copy this e-mail.  Please 
+notify the sender immediately by e-mail if you have received this 
+e-mail by mistake and delete this e-mail from your system. 
+E-mail transmission cannot be guaranteed to be secure or error-free 
+as information could be intercepted, corrupted, lost, destroyed, 
+arrive late or incomplete, or contain viruses.  The sender therefore 
+does not accept liability for any errors or omissions in the contents 
+of this message which arise as a result of e-mail transmission.  If 
+verification is required please request a hard-copy version.  This 
+message is provided for informational purposes and should not be 
+construed as a solicitation or offer to buy or sell any securities or 
+related financial instruments. 
+I will be in town Monday and Tuesday.   Out Wed-Fri in Florida.   I will definitely help on Monday and/or Tuesday.   I can make arrangements for backups later in the week if necessary.
+Let me know.
+Could you meet with the son of a client on the captioned item?  He'll be here the week of Feb 11th; I'm out of town.  I
+don't yet know the dates.  He is Eric Fabrikant, son of Charles, Chrm & CEO of Seacor Smit (NYSE: CKH).
+Eric wants to be in the Energy business and is meeting several exec's that week.  Yes, you could be one.  I would
+appreciate your help.
+,
+Russell L. Sherrill
+office:  713.759.6994
+russell.sherrill@ubsw.com
+UBS Warburg
+1000 Louisiana, Suite 4940
+Houston, TX  77002
+fax:  713.759.0709
+Visit our website at 
+This message contains confidential information and is intended only
+for the individual named.  If you are not the named addressee you
+should not disseminate, distribute or copy this e-mail.  Please
+notify the sender immediately by e-mail if you have received this
+e-mail by mistake and delete this e-mail from your system.
+E-mail transmission cannot be guaranteed to be secure or error-free
+as information could be intercepted, corrupted, lost, destroyed,
+arrive late or incomplete, or contain viruses.  The sender therefore
+does not accept liability for any errors or omissions in the contents
+of this message which arise as a result of e-mail transmission.  If
+verification is required please request a hard-copy version.  This
+message is provided for informational purposes and should not be
+construed as a solicitation or offer to buy or sell any securities or
+related financial instruments.
+Please make copies for me and put in a folder.
+thanks.
+=20
+There will be two presentations tomorrow from UBS commencing at 2:30 p.m. (CST).  These will be held in ECS 06980 and the conference dial-in numbers are listed below. =20
+=09=09=09=092:30 p.m.=09Bill Glass & Bill Bradford - Credit
+=09=09=09=093:00 p.m.=09Alex Fusco - New Business Guidelines
+Dial-in #=09=09800.486.2726
+Host code=09353763 (Louise)
+Participant=09547763
+Many Thanks,
+Liz Taylor
+Assistant to Greg Whalley
+713.853.1935 office
+713.853.1838 fax
+713.854.3056 mobile
+=20
+=20
+Calender.
+Please plan on attending a meeting Monday, February 4 at 10:30 AM in ECS 05075in to pick up your launch packets and discuss the procedure and timeline for contacting customers. Those of you outside of Houston should receive an overnight package Monday. The meeting will be very brief. If you have further questions or are unable to dial-in, you can contact me directly at 5-3614 or Teresa Mandola at 3-9807.
+Also, please find attached the marketing contact list. You can filter by your name in the PA column to view the counterparties which you are responsible for contacting regarding the Password Application.
+Casey has a list of all the East Power curves.   Frank - Stop re-inventing the wheel.   This stuff has been done already.
+I have to clean up clustering and curve mappings from Estate to NETCO.  Last correlation update was Nov. 29th and I'm assuming we may have some issues.  The curves we are rolling into NETCO need to be highly accurate for the last 60 days to ensure variance covariance matrix is appropriate.  Please provide me list of curves we are using in NETCO.  Identify which curves should be primary and which curves can be secondary.  Additionally, please identify if there are any regional constraints that need to be "locked in" between primary and secondary curves.  I will then re-run correlations so we can properly understand diversification benefit across wholesale as it relates to proposed VAR limit structures.
+Thanks,
+Frank
+Pushkar and Ellen Su are not SE Power offers.   They are offers for our interest rate books/FX books.   They should not fall under Power headcount.
+Below are the names of those employees shown on the stats as still open:
+EMPLOYEE_NAME	Desk	Job Offer Status	
+BROWN, KORTNEY	Credit	Open	
+BRYSCH, JAMES P	Structuring	Open	
+BUSS, JEREMY D	Fundamentals	Open	
+COOK, MARY H	Legal	Open	
+DORLAND, DAN	Canada Support	Open	
+DRAPER, LON	Western Canada Gas and Power Trading	Open	
+FOSTER, CHRISTOPHER H	West Power Services	Open	
+FRANK, ROBERT J	Regulatory Affairs	Open	
+GAWIUK, CARLEE	Canada Support	Open	
+GRIFFITH, JOHN H	Nymex Desk Trading	Open	
+HRAP, GERRY	Eastern Canada Gas and Power Trading	Open	
+LAGRASTA, FRED D	Derivatives Marketing	Open	
+LAMBIE, CHRIS D.	Western Canada Gas and Power Trading	Verbal	
+LIGUMS, JOHN E	Nymex Desk Trading	Open	
+LLODRA, JOHN	Northeast Power Origination - Llodra	Open	
+MONTOVANO, STEVEN	Regulatory Affairs	Open	
+MUZZY, CHARLES T	Gas Logistics	Open	
+NOVOSEL, SARAH G	Regulatory Affairs	Open	
+OH, GRANT	Eastern Canada Gas and Power Origination	Open	
+PORT, DAVID	Market Risk	Verbal	
+REDMOND, BRIAN L	Texas Gas Origination	Open	
+SAGER, ELIZABETH A	Legal	Verbal	
+SANGWINE, HOWARD A.	Western Canada Gas and Power Origination	Open	
+SCHOLTES, DIANA K	Northwest Power Trading	Open	
+SHAHI, PUSHKAR	Southeast Power Trading	Open	
+SU, ELLEN	Southeast Power Trading	Open	
+TERP, BRIAN T	Northeast Power Trading	Open	
+TRIPP, GARRETT E	Eastern Canada Gas and Power Trading	Open	
+WOOD, GEORGE W	Northeast Power Origination - Llodra	Open	
+29 
+While this explains the 29 open names, when added to the roughly 600 confirmed acceptances, it leaves us roughly 20 short of the approved headcount budget. I will follow up later today with a list of which groups will therefore start next Friday, under their headcount budgets.
+Again to confirm, any of the above who do not accept prior to close of business Monday (Houston 5pm) will have their offers either pulled and/or start dates with UBS delayed probably to post February 16th.
+David 
+Please put Russell's info in my contacts.
+ kevin,

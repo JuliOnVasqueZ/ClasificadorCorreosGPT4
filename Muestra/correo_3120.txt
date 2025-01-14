@@ -1,0 +1,2185 @@
+Pass it on to the wise women in your life!
+--
+Maria E. Gallego
+Assistant Professor
+Department of Economics
+Wilfrid Laurier University
+Waterloo, Ontario
+Canada N2L 3C5
+Voice Mail: (+1 519) 884-0710 ext. 2635
+Fax: (+1 519) 888-1015
+email: mgallego@wlu.ca
+url 
+Mike and Matt are just finishing inputting their deals. Please let me know if 
+these don't come through in the next few minutes. Jeff Richter hit the wrong 
+broker - the deal number is 467350 and I've changed it to Prebon.
+Thanks,
+Kate
+Evelyn Metoyer@
+11/27/2000 02:00 PM
+Matt Motley
+Prebon is claiming the following deals:
+Enron sells to Williams 25 mw Q2 PV at $94.00
+Enron buys from Williams Q2 SP-15 at $90.00
+Jeff Richter
+Prebon is claiming the following deals:
+Enron sells to Calpine Dec. NP-15 at $214.05
+Mike Swerzbin
+Prebon is claiming the following deals:
+Enron buys from Morgan Q2 Mid-C at $93.00
+Thank You
+Bob confirms that this deal was over SP-15, not Palo Verde. Let me know if 
+broker still has a discrepancy.
+Thanks,
+Kate
+Kerri Thompson@
+11/27/2000 01:41 PM
+466977
+broker has palo verde
+bob badeer.
+I have one question about a receipt you have from Teala's Mexican Restaurant 
+for dinner on Tuesday, Oct. 10. The total is $36. Did you have dinner by 
+yourself, or with someone else? If so, who? Let me know when you get a chance 
+so we can send this off and get you some money.
+Bob has just finished inputting his deals. These should be in now.
+Kerri Thompson@
+11/27/2000 01:55 PM
+missing deals for bob:
+buy edison mission
+223.00
+dec
+np15
+25 mw
+peak
+sell calpine
+223.00
+dec
+np15
+25 mw
+peak
+Bob and Matt just finished inputting deals.
+Kerri Thompson@
+11/27/2000 01:58 PM
+missing deals for bob:
+sells williams
+94.00
+50 mw
+Q2
+pv
+peak
+buys williams
+90.00
+50 mw
+Q2
+sp15
+peak
+missing deals for matt:
+sells williams
+94.00
+25 mw
+Q2
+pv
+peak
+buys williams
+90.00
+25 mw
+Q2
+sp15
+peak
+I've handed this over to Jeff Richter, who will speak with his contact at 
+Aquila to sort this out. We were both confused about the discrepancy, 
+however, because if the deal didn't exist there would have been problems in 
+scheduling on Oct. 12; and so far we haven't heard anything. I'm sorry this 
+didn't get taken care of more quickly, but Jeff was in a meeting this 
+afternoon.
+Thanks,
+Kate
+Stephanie Piwetz   11/27/2000 01:06 PM
+Kate,
+Aquila noted on our confirmation, that they DO NOT KNOW TRADE IN SYSTEM Lisa Robinson (back office at Aquila) said she asked her trader and he does 
+not know trade.  Please ask Jeff to contact trader.  Please keep me posted Thanks
+Eol # 482869
+Enron Buys Aquila
+Oct 12-Oct 31 2000
+$78.00
+25 mws
+Np15
+Dave -
+I'm the new Deal Control staff person here in the Portland office, and I've 
+been told you're the person to contact regarding counterparty match-ups for 
+our futures deals this month.
+The futures were done today, and if you could let me know of the 
+corresponding counterparties as soon as you find out, that would be very 
+helpful. If there is anything I should know about your job or how we might 
+help each other work better, please let me know.
+Thanks a lot,
+Kate
+503.464.7486
+Mom -
+I know how if feels when things start building like that. I'm finding that 
+"alone time" is really the only way to cope - especially during the holidays. 
+But don't worry about getting upset - you have every right. I am really sorry 
+that I haven't helped you with Anna's finances, but I've felt so overwhelmed 
+just making it to and from work everyday that I haven't managed to fit in 
+much more. Just when I think I might be getting on top of things, I do 
+something like lose my glasses, which then takes priority over everything 
+else I thought I would finally be able to do, as I cannot see a word I'm 
+typing at the moment. IThe madness is neverending! I hope it's comforting to 
+know that no one has it anymore together than you do.
+Kate
+I've got Tim Belden checking on this. His first reaction was that it sould be 
+confirmed. I'll let you know as soon as he gets back to me.
+Thanks,
+kate
+Kimberly Hundl@
+11/27/2000 02:34 PM
+I think this deal should have been entered as "no confirm."  Can you please 
+change it?  If I am wrong, please let me know. 
+Thanks!
+Kim 
+Just wanted to keep you posted on this deal. You called me earlier and said 
+that the counterparty, Deseret, had recorded this deal with Enron buying. We 
+entered the deal with Enron selling. I have Matt Motley, Kim Ward, and Tim 
+Belden reviewing the tapes of Kim Ward's conversation with Desret last week, 
+in which it is clear that she was selling to Deseret. She's spoken with her 
+contact there, who still disputes the deal and says we were buying. They're 
+all talking it over right now, and I'll let you know as soon as we make a 
+decisiion on whether or not to change this deal.
+Thanks for your patience,
+Kate
+Finally! This deal has been deciphered and changed. I killed legs 3 through 
+7, which were all inadvertantly entered as forwards instead of index 
+forwards. I checked on the Dow Jones Palo Verde index price for those days 10/3/00 through 10/7/00 - and verified that 5% was greater than $5.00. Legs 2 
+and 8 already reflected the 5% offset, not $5, so I didn't change anything on 
+these. The new leg numbers are 420886.52 through 420886.56. If there are any 
+further changes to be made, please let me know. Otherwise, thank you so much 
+for your patience and cooperation.
+Kate
+Kate 
+A request (below) has been made to fix a deal that was entered by Tom and 
+Mark incorrectly (through the option exercise function in deal blotter).  The 
+deal numbers and legs that need to be fixed are listed below.  Instead of 
+being a forward transaction, these legs should be entered as index forwards We are paying the DJ PV index plus $5 or 5%, whichever is more.  Therefore, 
+if daily prices were more than $100 at palo verde, the offset should be 1.05.
+I know that i have totally confused you but let me know of any questions you 
+might have and I will be glad to help.
+Thanks,
+Kim
+Kim,
+The message listed below was previously forwarded to Caroline.  Per
+Caroline, I would need to talk to the actual Trader.  Please let me know if
+you can help me resolve this issue.
+Please call me at ext.  3-6488 if you have any questions.
+Thanks,
+Katrina
+Katrina Johnson
+11/14/2000 03:02 PM
+Caroline,
+Deal #420886 legs 3-7 have no price attached to the deal.  Would you please
+add the DJPV index plus an offset of 5%.  On legs 2 & 8 the offset needs to
+be changed from $5.00 to 5%.
+Please let me know if you have any questions.
+Thank You,
+Katrina
+I revised it in the text. 
+Mollie Gustafson
+11/28/2000 11:07 AM
+Kate, thanks for your review!  I need to send out right away, can we add some 
+fun to this mundain (sp) note?
+The holiday party is this Saturday!  Please take a minute to review these 
+last-minute details, guaranteed to make our holiday party an exercise in 
+efficient merriness 
+1. Remember to RSVP.  If you have not done so, please see Kathy Axford or 
+Anna Mehrer TODAY.
+2. Parking will be provided free of charge. Upon your arrival, tell the 
+bellhop you are an Enron guest.  Should you choose to park in the structure 
+across Pine Street from the hotel, take the ticket to the front desk for 
+validation.
+3. Responsible drinking is encouraged.   Complimentary towncar services will 
+be provided by our friend Elaina at IMAX Trans.  Please contact her before 
+Friday to make arrangements. She can be reached at 503-358-7214, or via 
+e-mail at 
+imaxtrans@hotmail.com.  Please include your preferred pick-up time and 
+address in the e-mail, and Elaina will schedule accordingly.  And remember everyone's in the same holiday boat with an ever-increasing list of gifts to 
+get, so your gratuity to the driver is appreciated.
+4. Embassy Suites is offering rooms to Enron employees at a special rate of 
+$125+tax on Saturday night.  A  breakfast buffet is included (as are those 
+little bottles of shampoo and shower caps!).  Please call 503-279-9000 for 
+reservations, and be sure to ask for the holiday rate.
+Robert Hicks and his seven-piece swing band will provide the musical stylings 
+for the evening, so don't forget to bring your dancing shoes. And our very 
+own Fank Vickers, auctioneer extraordinaire, will once again bring the house 
+to its knees for charity. Amen!
+Schedule of Events:
+6:00-6:45    Reception, hors d'oeuvre and hosted beverages
+6:45-8:00    Dinner Buffet
+8:00-9:00    Door Prizes and Auction
+9:00-11:30  Dance the night away 
+We are looking forward to a great time!
+If you have any questions or suggestions, please see your Assistant today.
+Thanks.
+Mollie
+Both 457489 and 459812 were logged in Mike's trade book with "no broker fee" 
+written in the margin. I checked with Mike Driscoll, who helped Swerzbin 
+enter the deals, who verified that these are sleeves of other deals and do 
+not require broker fees.
+Let me know if Natsource still disputes this.
+Thanks,
+Kate
+Kerri Thompson@
+11/28/2000 12:52 PM
+did you even find out about deals 457489 and 459812?
+thanks
+Kate Symes @ ECT                11/22/2000 11:51 AM
+I've checked with Matt Motley and changed 458712 and 458718 to reflect broker 
+fees of .0075.
+I've left a message for Mike Swerzbin to double-check. He has 457489 entered 
+in his log book with no broker fee, but 459812 says nothing either way; so 
+I'd like to get ahold of him before I change anything.
+Thanks,
+Kate
+Kerri Thompson@
+11/22/2000 09:19 AM
+458712 .0075
+458718  .0075
+457489  .0075
+459812  .0075
+the broker shows the fees on these trades, we have 0.  can you check this out?
+thanks
+I have scheduled a conference call for Thursday, Oct. 19, from 4 to 5:30 p.m. 
+Pacific Daylight Time. The call-in information is as follows:
+Dial-in number: 1-888-830-6260
+Host code (for Laura Wente only): 609790
+Participant code: 105143
+If you need further assistance or have questions, please call me at 
+503-464-3748.
+Thanks,
+Kate Symes
+1. 468359 is Mike Swerzbin's deal. He entered it incorrectly in his log. It's 
+changed now.
+2. 468404 and 468405 - Bob Badeer was given the wrong numbers by Amerex. He's 
+changed the deals to reflect Amerex numbers.
+3. 468302 is Donald Robinson's deal. I'm tracking him down right now to check 
+on the term.
+4. 468427 is $177, not $197. Jeff has really bad handwriting. I'll change 
+this as soon as the calc is done (about 30 min 
+5. I've left Jeff a message - he's at an off-site meeting today and is 
+probably giving a speech right now.l I don't see these deals in his trade 
+log, so I really need to talk with him in order to find out whether or not he 
+did them and where they might be.
+Thanks,
+Kate
+Evelyn Metoyer@
+11/28/2000 02:11 PM
+Matt Motley
+deal 468359
+error:  Amerex shows Enron as seller not buyer
+Bob Badeer
+deal 468404
+error:  Amerex shows price as $134.50 not $134.45
+Bob Badeer
+deal 468405
+error:  Amerex shows price as $134.55 not $135.00
+Mike Swerzbin
+deal 468302
+error:   Prebon shows December only
+Jeff Richter
+deal 468427
+Prebon shows price as $177 not $197
+Jeff Richter
+I am missing the following deals per Prebon:
+Enron sells to Tractebal Q3 PV at $175
+Enron buys from Tractebal Q3 SP-15 at $145
+Thanks!!
+RE: The last deal was just called in by Smitty at Prebon. It's been entered 
+and the deal numbers are 468526 and 468527.
+Thanks,
+Kate
+Evelyn Metoyer@
+11/28/2000 02:11 PM
+Matt Motley
+deal 468359
+error:  Amerex shows Enron as seller not buyer
+Bob Badeer
+deal 468404
+error:  Amerex shows price as $134.50 not $134.45
+Bob Badeer
+deal 468405
+error:  Amerex shows price as $134.55 not $135.00
+Mike Swerzbin
+deal 468302
+error:   Prebon shows December only
+Jeff Richter
+deal 468427
+Prebon shows price as $177 not $197
+Jeff Richter
+I am missing the following deals per Prebon:
+Enron sells to Tractebal Q3 PV at $175
+Enron buys from Tractebal Q3 SP-15 at $145
+Thanks!!
+Thanks for the in-depth information on our man of the hour, Ken Lay. I never 
+could have imagined he was such a diverse guy - walks on the beach, stormy 
+evenings by the fire, kittens, karaoke? Who knew!
+Do you think you could find out his star sign for me?
+Thanks,
+Kate
+God, that's so nice of you to thank me. So many of my students just spread 
+their little wings and fly away, forgetting that I MADE them goddamit. 
+Anyway, I'm glad you had fun in Maui. I honestly think it's pretty much 
+impossible not to. I'm getting ready to go back, hopefully at the end of this 
+winter when I'm nice and frostbitten, in time to see the whales, which by 
+then will be like my family as I will have spent the previous six months 
+porking out on turkey and stuffing and washing it down with quarts of eggnog. 
+If you're planning any more trips in the future, my full list of city guides 
+can be accessed at www.katerockstheworld.com. It's a start-up operation, but 
+I plan on retiring in about.....wait, hold on.....I just retired.
+See ya!
+Kate
+You're right. This deal does not need to be confirmed again, says Monica 
+Lande. I'll change it in the system as soon as our calc is done today - about 
+4:30 p.m. PST.
+Thanks,
+Kate
+Kimberly Hundl@
+11/27/2000 02:34 PM
+I think this deal should have been entered as "no confirm."  Can you please 
+change it?  If I am wrong, please let me know. 
+Thanks!
+Kim 
+I just received the counterparty match-ups for next month's futures. They are 
+as follows:
+Deal #467455
+60 MW
+175.00
+Palo Verde
+Z-00
+10 MW to Sempra Energy Trading Corp.
+Contact: Chris Bennett
+203-355-5604
+50 MW to Southern Company Energy Marketing
+Contact: Mark
+678-579-3470
+Please let me know if you have any questions on this.
+Thanks,
+Kate
+Actually, no, there weren't any COB futures for December. Thanks for 
+checking, though.
+Kate
+Cara Semperger
+11/28/2000 04:35 PM
+there were no COB futures?
+Just checking , there normally are.
+c
+Kate Symes                11/28/2000 04:32 PM
+I just received the counterparty match-ups for next month's futures. They are 
+as follows:
+Deal #467455
+60 MW
+175.00
+Palo Verde
+Z-00
+10 MW to Sempra Energy Trading Corp.
+Contact: Chris Bennett
+203-355-5604
+50 MW to Southern Company Energy Marketing
+Contact: Mark
+678-579-3470
+Please let me know if you have any questions on this.
+Thanks,
+Kate
+I'm sorry it's taken me so long to track down this name and number, but I 
+finally spoke with someone at Puget who said Suzanne McFadden is the person 
+you need to talk to. Her number is 425-462-3844. 
+If you need any other information, please don't hesitate to ask.
+]
+Thanks,
+Kate
+Kimberly Hundl@
+11/28/2000 07:41 AM
+Can you please get a contact name and phone number for this counterparty from 
+Mike Swerzbin as soon as possible? -I need to get a verbal confirm on this 
+deal so that we can send out the confirmation letter and the number we have 
+in the system has been disconnected.  Also, we're checking on that other deal 
+that I asked you about yesterday (I thought we confirmed it under the 
+original deal # so I wasn't sure if we needed to confirm it again)
+Thanks!
+Kim
+This deal finally got sorted out this morning. I believe Kim Ward and Matt 
+Motley worked out another deal with Deseret to offset their loss on this one. 
+But 465821 stands as Enron had it - we sell to Deseret. 
+If you have any other questions, please let me know.
+Thanks,
+Kate
+RE: 468302
+Sean Crandall just changed this deal to reflect only a December term. Prebon 
+was right on this.
+Thanks,
+Kate
+Evelyn Metoyer@
+11/28/2000 02:11 PM
+Matt Motley
+deal 468359
+error:  Amerex shows Enron as seller not buyer
+Bob Badeer
+deal 468404
+error:  Amerex shows price as $134.50 not $134.45
+Bob Badeer
+deal 468405
+error:  Amerex shows price as $134.55 not $135.00
+Mike Swerzbin
+deal 468302
+error:   Prebon shows December only
+Jeff Richter
+deal 468427
+Prebon shows price as $177 not $197
+Jeff Richter
+I am missing the following deals per Prebon:
+Enron sells to Tractebal Q3 PV at $175
+Enron buys from Tractebal Q3 SP-15 at $145
+Thanks!!
+Steve Thome can be contacted in Houston at (713) 853-5786. His office is 
+located in EB 3115.
+I'm sorry if I confused you with my e-mail last night, but I think I might 
+finally have the futures figured out. Now, instead of one deal number with no 
+counterparty name, we now have two deal numbers, two counterparties, and the 
+correct number of MW in each. Imagine that! Here is the updated information:
+467455
+10 MW
+175.00
+Palo Verde
+Southern Company Energy Marketing
+Mark Watson
+469098
+50 MW
+175.00
+Palo Verde
+Sempra Energy Trading
+Chris Bennett
+I hope this makes more sense; please let me know if there's anything else I 
+can do.
+Thanks,
+Kate
+I've got Mike Swerzbin checking on this deal. He says Holli Krebs actually 
+did the deal, so he's trying to get a hold of her right now to verify the 
+term. I'll let you know as soon as I find out.
+Thanks,
+Kate
+When I tried to verbally confirm this deal, the counterparty has this deal 
+running for three months, December through February.  Could you check with 
+the trader and either change it or have him talk to the counterparty about 
+it.  Let me know.
+Thanks!
+Here are the deal numbers, with correct counterparty names and MW hours. I 
+changed deal 467455 and added one new forward:
+467455
+10 MW
+175.00
+Palo Verde
+Southern Company Energy Marketing
+469098
+50 MW
+175.00
+Palo Verde
+Sempra Energy Marketing
+Please let me know if there are anymore questions. 
+Thanks,
+Kate
+Kimberly Hundl@
+11/29/2000 07:02 AM
+Hi Kate,
+Just checking on this deal.  Is this gonna be an exchange for physical and 
+the counterparty name will be added later?  It's been "new" for a couple of 
+days now, which is fine, I just wanted to make sure someone is working on it.
+Thanks,
+Kim
+RE: My newly formed case of dyslexia!
+I switched the MW hours on these deals. 469098 should have 10 MW with Sempra. 
+467455 should have 50 MW with SCEM. These are correct in the system now, but 
+I just wanted to alert you to my error.
+Thanks,
+Kate
+I'd like to introduce myself, as I'm sure we'll be in frequent contact in the 
+coming weeks while I adjust to my new position at the Deal Control desk here 
+in Portland. Please feel free to call or e-mail me with questions, concerns, 
+alerts, or suggestions - I'm eager to learn as much as I can about this job 
+and take it in new directions. So if there is anything I can do to make your 
+jobs function more smoothly, let me know.
+As a first order of business, thank you for the heads-up on the new version 
+of Deal Entry. A couple of our schedulers have been experiencing delayed 
+efficiency with the program  today - I'm not sure if that has anything to do 
+with the new version or possibly our Terminal Server connection. Just wanted 
+to let you know, in case anyone else has the same experience.
+I look forward to working with you, and again, feel free to call me anytime.
+Thanks,
+Kate Symes 
+503.464.7486
+I guess I'll stop picking up random tennis balls off the street and carrying 
+them around in my mouth. Bummer!
+Thanks - Enron designed that stationary specifically for me. What with my 
+penchant for exploding tennis balls and all.
+I just heard back from Holli Krebs, who verified that Puget is right on this 
+deal - the term should be December through February. I've changed it in the 
+system.
+Thanks,
+Kate
+When I tried to verbally confirm this deal, the counterparty has this deal 
+running for three months, December through February.  Could you check with 
+the trader and either change it or have him talk to the counterparty about 
+it.  Let me know.
+Thanks!
+You got it. We're all on his case right now, so he should be done in just a 
+minute.
+Thanks,
+Kate
+Evelyn Metoyer@
+11/29/2000 02:12 PM
+Is Bob still entering his deals?
+Hey, thanks a lot, Chip.
+Thanks,
+Kate
+I called around and, lo and behold, I found Steve's wife! She said you can go 
+ahead and send it to their house:
+Steve Thome
+6506-B Taggart St.
+Houston, TX 77007
+I guess People Finder isn't the most reliable way to find people. Hope this 
+works.
+Broker is correct - I've changed these both to 126.00.
+Kate
+Kerri Thompson@
+11/29/2000 02:37 PM
+bob
+469691
+469692
+broker has 126.00
+I was just told that we are being sent the Credit Watchlist Update via fax, 
+in addition to the one you send me via e-mail every couple weeks or so. Since 
+I already receive and print out the list for all of our traders and 
+mid-marketers, I thought it might cut down on some work for someone if they 
+didn't have to fax it to us as well. I don't know if that person is you, or 
+if you might know who I can contact; in any case, Iwe don't need the 
+watchlist faxed to the Portland office. (Anything to take one extra step out 
+of the day, right?)
+Please let me know if I should contact somebody else.
+Thanks so much,
+Kate
+Just FYI - This should cut down on the paper trail a bit.
+Kate
+Kate,
+I was not aware that it was being faxed.  I found out that T Jae Black on the 
+East Trading desk was faxing it.  I went ahead and contacted her to let her 
+know that there was not necessary.  You should receive an updated Credit 
+Watchlist every Monday.  Please email me if you don't receive it.
+Thanks,
+Veronica
+Kate Symes                11/30/2000 09:23 AM
+I was just told that we are being sent the Credit Watchlist Update via fax, 
+in addition to the one you send me via e-mail every couple weeks or so. Since 
+I already receive and print out the list for all of our traders and 
+mid-marketers, I thought it might cut down on some work for someone if they 
+didn't have to fax it to us as well. I don't know if that person is you, or 
+if you might know who I can contact; in any case, Iwe don't need the 
+watchlist faxed to the Portland office. (Anything to take one extra step out 
+of the day, right?)
+Please let me know if I should contact somebody else.
+Thanks so much,
+Kate
+Thanks so much for your help, Veronica.
+Thanks so much for setting this up. I'm so excited! And I promise not to 
+scare these poor kids away.
+Kate
+Well, the origination tickets are up for grabs if you want them. I have been 
+informed by Mollie, Oh Holy Keeper of the Tickets, that you must, and I 
+quote, "come over here and beg me" if you want to procure free seats to 
+tonight's game.
+The ball is now in your court. I'd suggest driving down the middle, faking to 
+the left, butt-kissing to the right, and taking it straight to the hole for a 
+slam dunk. Good luck!
+Kate "Nothin' But Net" Symes
+Hey there Mr. Real Time. Looks like you did a deal with Pacificorp on 11/28 EPMI STCA buys 8 MW @ $60 for hour 2. These eight silly little megawatts have 
+unbalanced our book and driven the schedulers to near insanity. No, just 
+kidding. But I think there should be a sale of 8 MW from Nevada to Mead on 
+hour 2 somewhere in there. I don't know - I'm not the expert, which is why 
+I'm asking you.
+Will you please let Lisa Gang or me know how to fix this. I'm more than happy 
+to do it, just wanted to double check with the man who created the mess in 
+the first place. (Kidding again.)
+Kate
+Sean and Diana do not recognize this deal. They tried to check with the 
+brokers, but couldn't get a hold of anyone. I'll let you know first thing in 
+the morning whether or not this is good and what the deal number is.
+Kate
+Evelyn Metoyer@
+11/30/2000 03:08 PM
+Prebon sent over a confirmation for the following trade for Sean Crandall
+Enron buys from Aquila January  Mid-C 25 mw at $300.00
+Chris had two deals in and forgot to kill the one with the incorrect 
+counterparty name. 470094 no longer exists, and the correct deal is number 
+470097.
+Kate
+Evelyn Metoyer@
+11/30/2000 02:58 PM
+Chris Mallory
+deal 470094
+CP should be Coral Power not Coral Energy Holding L.P.
+Bob does not recognize these deals, and tried to check with the broker. He'll 
+talk to TFS in the morning to verify these and I'll let you know ASAP.
+Thanks,
+Kate
+Kerri Thompson@
+11/30/2000 02:32 PM
+missing 2 deals for bob:
+buy el paso
+cal 01
+141.00
+25 mw
+pv
+on peak
+sell ees
+cal 01
+141.05
+25 mw
+pv
+on peak
+thanks
+I've ordered the 1999 Annual Report for Scottish Power, as I noticed it was 
+not in the company file. It should be here tomorrow or Friday at the latest. 
+If you need the information sooner than that, I can download the report from 
+the company's website, although the document is understandably bulky. Please 
+let me know if you'd like a print-out.
+Also, if you'd like, I can talk to Sue about CASA's financial needs. Mollie 
+and I had discussed splitting the auction proceeds between two charities; in 
+that way we can share the wealth and not inundate an organization with more 
+than they can manage. It's something to think about in case CASA doesn't need 
+much help.
+Kate
+Thanks a lot for getting that going, John. I'm sure it'll make Carla happy 
+not to have my mistakes under her name anymore.
+Kate
+Diana is having Prebon look into this. It's not the kind of trade their desk 
+would be doing right now, so they're skeptical; should just be a couple 
+minutes.
+Kate
+Evelyn Metoyer@
+12/01/2000 08:11 AM
+Any word yet on this trade?
+Kate Symes @ ECT                11/30/2000 05:57 PM
+Sean and Diana do not recognize this deal. They tried to check with the 
+brokers, but couldn't get a hold of anyone. I'll let you know first thing in 
+the morning whether or not this is good and what the deal number is.
+Kate
+Evelyn Metoyer@
+11/30/2000 03:08 PM
+Prebon sent over a confirmation for the following trade for Sean Crandall
+Enron buys from Aquila January  Mid-C 25 mw at $300.00
+This is a Tom Alonso deal; and it's for heavy load, and since 12/31 is a 
+Sunday, the term will actually end on 12/30. I can change the end date in 
+deal entry if that makes things less complicated; but either way the deal 
+will end on the 30th. Please let me know.
+Thanks,
+Kate
+Evelyn Metoyer@
+12/01/2000 08:19 AM
+Deal 470812 traded 11-30-00
+Mark Fischer
+Prebon shows term as 12/4-12/31   ......we show 12/4-12/30
+Mike Driscoll input the deal for Swerzbin. He's sure it's Mid-C, because he 
+wasn't trading any COB yesterday. He's having Prebon check their tapes, and 
+they should get back to us in a minute.
+Thanks,
+Kate
+Evelyn Metoyer@
+12/01/2000 08:46 AM
+Mike Swerzbin
+deal 470677 traded 11-30-00
+Prebon shows COB.........we show MID-C
+Please check with Mike.
+Thanks!
+Bob talked with TFS this morning and has the deals in his trade log now. I'll 
+get the deal numbers from him as soon as he inputs them, but you should see 
+those trades in the system soon.
+Thanks,
+Kate
+Kerri Thompson@
+12/01/2000 08:47 AM
+can you check with bob again, because i got confirms on the deals.  the 
+broker told me yesterday he forgot to tell bob.
+Kate Symes @ ECT                11/30/2000 06:05 PM
+Bob does not recognize these deals, and tried to check with the broker. He'll 
+talk to TFS in the morning to verify these and I'll let you know ASAP.
+Thanks,
+Kate
+Kerri Thompson@
+11/30/2000 02:32 PM
+missing 2 deals for bob:
+buy el paso
+cal 01
+141.00
+25 mw
+pv
+on peak
+sell ees
+cal 01
+141.05
+25 mw
+pv
+on peak
+thanks
+Diana just heard back from Prebon. They had it wrong, and have now fixed it. 
+There is no deal. Let me know if you don't see this change in the next few 
+minutes.
+Thanks,
+Kate
+Evelyn Metoyer@
+12/01/2000 08:11 AM
+Any word yet on this trade?
+Kate Symes @ ECT                11/30/2000 05:57 PM
+Sean and Diana do not recognize this deal. They tried to check with the 
+brokers, but couldn't get a hold of anyone. I'll let you know first thing in 
+the morning whether or not this is good and what the deal number is.
+Kate
+Evelyn Metoyer@
+11/30/2000 03:08 PM
+Prebon sent over a confirmation for the following trade for Sean Crandall
+Enron buys from Aquila January  Mid-C 25 mw at $300.00
+Bob finally entered these. Here are the deal numbers and details:
+471546
+Enron buys El Paso
+25 MW
+141.00
+Palo Verde
+On Peak
+471547
+Enron sells EES
+25 MW
+141.05
+Palo Verde
+On Peak
+Thanks,
+Kate
+Kerri Thompson@
+12/01/2000 08:47 AM
+can you check with bob again, because i got confirms on the deals.  the 
+broker told me yesterday he forgot to tell bob.
+Kate Symes @ ECT                11/30/2000 06:05 PM
+Bob does not recognize these deals, and tried to check with the broker. He'll 
+talk to TFS in the morning to verify these and I'll let you know ASAP.
+Thanks,
+Kate
+Kerri Thompson@
+11/30/2000 02:32 PM
+missing 2 deals for bob:
+buy el paso
+cal 01
+141.00
+25 mw
+pv
+on peak
+sell ees
+cal 01
+141.05
+25 mw
+pv
+on peak
+thanks
+471740 - Bob Badeer checked with Natsource. This is their deal. Broker 
+mistake.
+471315 - This was PGET. It's been changed.
+471588 - This was 12/3, not 12/4. It's been changed.
+Thanks,
+Kate
+Jeff just finished inputting his deals - all of those should be there now.
+Bob just changed 471555 and 471556 to Cal-02.
+Sean changed the price to agree with Amerex - buy @280.00/sell @ 280.05.
+Kate
+Evelyn Metoyer@
+12/01/2000 02:29 PM
+Sean Crandall
+deal 471310
+Amerex shows price as $280.05 .....enpower has  $285.05
+deal 471311
+Amerex shows price as $280.........enpower has $285
+Jeff Richter
+I am missing the following deals for Jeff Richter brokered through Amerex:
+Enron buys Reliant 25 mw SP-15 at $195 for 12/3/00
+Enron sells Duke 25 mw NP-15 at $85 for Cal'02
+Bob Badeer
+Deal 471555
+Amerex shows as Cal'02 .....enpower has Cal'01
+deal 471556
+Amerex shows as Cal'02.....enpower has Cal'01.
+All of Jeff's deals should be in. I spoke with Diana and she said she had 
+entered these two deals. I'm looking for the deal numbers, but according to 
+the trader, these are in the system. Let me know if you still can't find them.
+Kate
+Kerri Thompson@
+12/01/2000 02:48 PM
+jeff
+buying transalta
+218.00
+25 mw
+4th
+sp15
+sell duke
+5-31
+215.00
+25 mw
+sp15
+buy aep
+5-31
+25 mw
+245.00
+np15
+sell ees
+245.05
+5-31
+25 mw
+np15
+buy ees
+5-31
+25 mw
+214.95
+sp15
+all on peak
+dianna missing deals:
+buy powerex
+5-31
+310.00
+50 mw
+midc
+sell avista
+5-31
+50 mw
+310.00
+mid c
+I have re-scheduled your conference call for Thursday, Oct. 20, from 10 to 
+11:30 a.m. Pacific Daylight Time.
+Dial-in number: 1-888-476-3762
+Host code: 652393
+Participant code: 234986
+Should you have any questions, don't hesitate to call me at 503-464-3748.
+Kate
+Yes, this is correct. Les Rawson, our services guy, did this deal which he 
+explained is a little strange because the company we're buying generation 
+from didn't want to provide firm energy, so we're selling the unit contingent 
+instead of firm to Avista. Anyway, that's how he tried to explain it to me. I 
+hope that helps.
+Thanks,
+Kate
+P.S. Although the energy is correct in these deals, the days are not. I'll be 
+changing 471884 and 471891 to reflect Mon. through Sat. on peak hours instead 
+of M-S, Sundays and Holidays, on peak.
+These two deals have the energy type as unit contingent.  Could you check and 
+make sure this is correct?
+#471884 and #471891
+Thanks!
+Yeah - I pretty much became part of the furniture yesterday as I recouped 
+from the brutality of that weekend. I ended up at a random friend's house at 
+about 4 a.m., then proceeded to down a couple beers and head for bed at about 
+6:30. I could not believe it when my alarm went off this morning - it's a 
+cruel, cruel world when you've got a social schedule like ours. But I 
+definitely had a good time Saturday, despite the fact that I was ditched by 
+my ride and locked out of my house, which is never fun after a dozen 
+cocktails. All in all, though, great party.
+These two deals are with APB, not Amerex. I've changed them in the system. 
+Thanks for the heads up.
+Kate
+Evelyn Metoyer@
+12/04/2000 07:47 AM
+Kate,  Can you check with Sean Crandall on these two deals because Sean with 
+Amerex says he did not do these deals with them.
+Deal 471842 
+Sell Avista 12/5-12/31 Mid-C  50 mw at $310.00
+Deal 471841
+Buy Powerex 12/5-12/31 Mid-C 50 mw at $310.00
+This has been changed - I guess old habits die hard, huh!
+Thanks,
+Kate
+Evelyn Metoyer@
+12/04/2000 10:07 AM
+deal  471553 should be under Pinnacle West Capital Corporation  not APS.
+Thanks!!
+471977 was done with APB. I just changed it.
+471975 was with Prebon. That's changed as well.
+These deals were both sleeves in which Jeff entered the broker name on one 
+side but not the other.
+Thanks,
+Kate
+Kerri Thompson@
+12/04/2000 10:18 AM
+2 deals that were input today for friday
+which one should be for apb?
+471977 or 471975
+both are under no broker.  i show one with apb.
+This is actually deal #471975, which I just fixed because Jeff forgot to put 
+the broker name in there. It is with Prebon.
+Thanks,
+Kate
+Evelyn Metoyer@
+12/04/2000 10:18 AM
+JEff Richter
+Prebon sent over a statement where:
+Enron buys from EES 12/5-12/30 25 mw of SP-15 at $114.95
+Oops, and one more thing. The price on this is entered both in Jeff's trade 
+log and in Deal Entry as $214.95. I verified that with Chris Mallory, who's 
+working on the California desk today. If Prebon still has a discrepancy, let 
+me know.
+Thanks,
+Kate
+Evelyn Metoyer@
+12/04/2000 10:18 AM
+JEff Richter
+Prebon sent over a statement where:
+Enron buys from EES 12/5-12/30 25 mw of SP-15 at $114.95
+Yes, this deal is with APB. It's been changed.
+Thanks,
+Kate 
+Kerri Thompson@
+12/04/2000 10:23 AM
+471898
+this deal is under prebon, should it be apb or does a separate deal need to 
+be entered?
+thanks
+I don't know if you saw my second e-mail, but I checked it out with Chris 
+Mallory, who did the deal, and he verified the price at $214.95. If Prebon 
+still disputes this, let me know and I'll have Mallory talk to Prebon.
+Thanks,
+Kate
+Evelyn Metoyer@
+12/04/2000 10:40 AM
+Kate Prebon shows $114.95 as the price and we show $214.95
+Kate Symes @ ECT                12/04/2000 12:31 PM
+This is actually deal #471975, which I just fixed because Jeff forgot to put 
+the broker name in there. It is with Prebon.
+Thanks,
+Kate
+Evelyn Metoyer@
+12/04/2000 10:18 AM
+JEff Richter
+Prebon sent over a statement where:
+Enron buys from EES 12/5-12/30 25 mw of SP-15 at $114.95
+I actually did get that last e-mail, but somehow it ended up buried at the 
+bottom of my in-box, just like so many other things. As far as the Blazer 
+ticket trade, I believe I bought a call from you on the Laker game, and you 
+bought the option from me on the Cavaliers - so I can choose to exercise on 
+12/13 at 7 p.m., and you can choose to exercise on 1/16 at 7 p.m. In other 
+words, no matter what happens, I'm going to both games. Got it?
+As far as good stories from that night, I probably have the best, or at least 
+one of the more hilarious, of those circulating the floor. And no, it has 
+nothing to do with me. Ask me about it later, and I might be able to give it 
+up for firm delivery of a seat at next week's game. Think about it.
+Kate
+I don't know if this is at all what you were looking for. Jessica's version 
+will probably work better.
+As you may have gathered by now, the West Origination Group has purchased 
+season tickets to see the Portland Trail Blazers on their path to 
+championship glory. We have four seats which will be used primarily to 
+entertain customers and foster outside business relationships. 
+Please look over the attached schedule and determine the game dates you would 
+like to reserve. Tickets will be distributed on a first-come first-serve 
+basis, so be sure to plan as far in advance as possible. Games that have not 
+been reserved as of three days prior will be distributed internally or given 
+to outside parties. 
+If you have any questions or would like to reserve tickets, please contact 
+Blazer Command Central by e-mail, telephone, or in person. Include the date 
+of the games you would like to go to and the name of the customers you will 
+be taking. 
+Kate Symes, ext. 3748 
+Mollie Gustafson, ext. 3817
+Thanks so much for doing that, Melissa.
+Kate
+Melissa Ann Murphy
+12/04/2000 12:31 PM
+Hello, I entered the TransCanada deal.  It is deal # 473100.
+Thanks,
+Melissa
+(713) 853-1886
+These deals were entered about half an hour ago by Matt Motley. 
+473282
+buy Avista
+92.00
+25 MW
+Palo Verde
+On peak
+473281
+buy Tractebel
+73.00
+Q4-02
+Palo Verde
+On peak
+Let me know if you still don't see these in the system.
+Thanks,
+Kate
+Kerri Thompson@
+12/04/2000 02:02 PM
+missing deals
+buy avista
+cal 02
+92.00
+25 mw
+pv
+on peak
+buy tractebel
+25 mw
+73.00
+Q4 02
+pv
+on peak
+I've changed this to 50 MW - miscommunication between Puget and Richter. 
+Thanks,
+Kate
+Evelyn Metoyer@
+12/04/2000 01:24 PM
+On this deal for Chris Mallory prebon says it should be 50 mw and we show it 
+as 25 mw.
+Can you please check with him.
+The first deal is no good - Bob checked it out with Smitty at Prebon.
+The second two were Tim Belden deals. Following are the numbers:
+473320
+sells El Paso
+25 MW
+170.00
+Mid-C
+Q2-01
+473321
+sells Grant County
+25 MW
+175.00
+Mid-C
+Q2-01
+Thanks,
+Kate
+Evelyn Metoyer@
+12/04/2000 02:31 PM
+I am missing the following deals per Prebon for Bob Badeer:
+Enron sells PGET 25 mw January Palo Verde at $260
+Enron sells El Paso Q2 Mid-C at $170
+Enron sells Grant County Q2 Mid-C at $175
+According to all the guys at the Long Term Northwest desk, this trade was 
+cancelled by Bloomberg. Let me know if Bloomberg still thinks it's good, and 
+I'll have the traders call over there.
+Thanks,
+Kate
+Melissa Ann Murphy
+12/04/2000 02:46 PM
+Hi Kate, I have a broker confirm from Bloomberg for the following deal:
+Deal Date:  12/04/2000
+Enron buys from Idaho Power
+January 2001  $300.00   25 Mws  Mid Columbia
+Mike Swerzbin was the trader.
+I cannot find this trade in the system.
+Let me know,
+Thanks,
+Melissa
+(713) 853-1886
+Just curious - did you ever catch up with Larry Joe Hunter regarding the Long 
+Term Southwest desk's futures deal with Sempra? I'm wondering if I should 
+grab Matt Motley before he goes home today to let him know he needs to get a 
+hold of Tim Cannon about the ADT. Let me know when and if you talk to him.
+Thanks,
+Kate
+I realize this is late notice, but it just occurred to me that I never 
+discussed my Christmas vacation plans with you when I transferred into 
+Trading. I have a family trip planned and paid for, so I hope it won't cause 
+too much chaos if I'm gone. I understand the tendency for people to feel lost 
+and helpless without me.
+I'm supposed to be in California with my dad on Dec. 22, then in Mexico with 
+my mom from Dec. 26 to Jan. 2. So I basically need to miss four days of work. 
+Again, I'm sorry to bring this to you so late, and I'd be glad to do any 
+amount of work before or after, or even spend my holiday entering deals on 
+the computer in some exotic Central American internet cafe. I've heard 
+they're great places to rage.
+We can discuss the logistics when you're back in the office. And by the way, 
+the flame in this e-mail does not indicate anger, but rather is meant to be a 
+festive, joyous, holiday-time explosion.
+Kate
+How did I turn around and suddenly find myself in December? Why is there a 
+man parked outside my office incessantly tooting "Jingle Bell Rock" on his 
+horn? When will I ever see my bare feet again? How annoying is it that I 
+began this e-mail with lines of whining?
+I hope the holidays are at least a somewhat more sincere experience in 
+Vietnam than they are here. I guess I don't remember this kind of chaos in 
+years past, but then I'm spending a lot more time in the commercial center of 
+the city these days. Which, by the way, is going very well. I'm just getting 
+to the level of familiarity with my new job that allows me time for pointless 
+e-mails. It's been a steep learning curve, and I still have a long way to go, 
+but that's what makes everyday interesting.
+Other than work, I haven't had time for a whole lot. Thanksgiving was nice saw a lot of friends from out of town and had enough meals with the family to 
+satisfy, but not overwhelm, the quality time scale. Our office had its big 
+holiday bash last weekend, which I kicked off the night before for no 
+apparent reason and just continued the festivities for about 48 nonstop 
+hours. There's snow on the mountain, so this weekend I might have to break in 
+(or break, whichever comes first) my new snowboard.
+Hope all's well on the other side of the world. It's kind of comforting to 
+remind myself every once in awhile that there is another side, full of people 
+who could care less about power trading and Portland, Oregon. By the way, I 
+heard through the grapevine that Clinton was quite a hand-full. Good or bad? 
+Or ugly?
+Shoot me an e-mail when and if you get a chance. I'm out of here on the 22nd, 
+and it will be so nice to see the sun again. If I don't see you, have a great 
+vacation, and try not to be overwhelmed by the joyousness of the season.
+Kate
+This deal is with Mieco. It's been changed.
+Thanks,
+Kate
+Kerri Thompson@
+12/05/2000 07:07 AM
+apb shows this deal should be with mieco.
+thanks
+These three deals, plus the one in the second e-mail you sent, are dead 
+according to Chris Mallory. He said Prebon should not be confirming them. 
+Please let me know if Prebon still disputes this.
+Thanks,
+Kate
+Evelyn Metoyer@
+12/05/2000 07:17 AM
+Hi Kate,
+I have three deals so far that I did not verbal with prebon on yesterday and 
+they sent over confirmations for them. 
+Can you please check with Chris Mallory and see if these are good deals.
+Sell to PGET January PV 25 mw at $260.00
+Buy from Aquila January PV 25 mw at $260.00
+Buy from Edison Mission Dec 6- Dec 31 Mid-C 25 mw at $550.00
+As you may have gathered by now, the West Origination Group has purchased 
+season tickets to see the Portland Trail Blazers on their path to 
+championship glory. We have four seats which will be used primarily to 
+entertain customers and foster outside business relationships. 
+Please look over the attached schedule and determine the game dates you would 
+like to reserve. Tickets will be distributed on a first-come first-serve 
+basis, so be sure to plan as far in advance as possible. Games that have not 
+been reserved as of three days prior will be distributed internally or given 
+to outside parties. 
+If you have any questions or would like to reserve tickets, please contact 
+Blazer Command Central by e-mail, telephone, or in person. Include the date 
+of the games you would like to go to and the name of the customers you will 
+be taking. 
+Dead deal. See previous e-mail.
+Evelyn Metoyer@
+12/05/2000 07:26 AM
+Prebon sent over another confirmation for this non-verbaled deal:
+Enron sells to Pacificorp Dec 6- Dec 31 25 Mw of Mid-C at $551.00
+Thanks for checking on this.
+Kate
+Stephanie Piwetz   12/05/2000 08:27 AM
+Yes, the following trade was cancelled, Bloomberg failed to send a 
+cancellation.  Called Bloomberg, spoke to Trish, and she emailed me a 
+cancelled copy.  Thanks
+Stephanie
+Melissa Ann Murphy
+12/05/2000 08:46 AM
+According to all the guys at the Long Term Northwest desk, this trade was 
+cancelled by Bloomberg. Let me know if Bloomberg still thinks it's good, and 
+I'll have the traders call over there.
+Thanks,
+Kate
+Melissa Ann Murphy
+12/04/2000 02:46 PM
+Hi Kate, I have a broker confirm from Bloomberg for the following deal:
+Deal Date:  12/04/2000
+Enron buys from Idaho Power
+January 2001  $300.00   25 Mws  Mid Columbia
+Mike Swerzbin was the trader.
+I cannot find this trade in the system.
+Let me know,
+Thanks,
+Melissa
+(713) 853-1886
+I've spoken with Tim Cannon at Sempra, who said that what he needed was for 
+our broker and his broker to talk to each other and agree that this deal has 
+gone physical and is no longer on NYMEX. Then I talked to Matt Motley, who 
+talked to his broker, who will now talk to Sempra's broker and hopefully 
+solve this once and for all.
+You're right though. There's no need for it to be this difficult, especially 
+when we do it every month. I think it would be really helpful if we could get 
+a hold of Dave Dupre to find out how this was handled before. If we can't, I 
+guess we'll just have to determine who will take responsibility for making 
+sure these deals are recognized as physical by both parties. I would be happy 
+to do that each month when we exercise our futures options, but I want 
+everyone involved to be aware of the procedure.
+Thanks a lot for helping on this. Please let me know if you find out anymore.
+Thanks,
+Kate
+Melissa Ann Murphy
+12/05/2000 06:45 AM
+Hello, I left a message for David Dupre and he has not called me back.  If 
+you want to have Matt call Tim Cannon at Sempra that would be fine.  His 
+phone number is (203) 355-5190.  I don't know why this has been so 
+difficult.  If I hear from David I will let you know.  I want to know how he 
+handled these deals in the past.
+Thanks,
+Melissa
+(713) 853-1886
+Kate Symes                12/04/2000 06:31 PM
+Just curious - did you ever catch up with Larry Joe Hunter regarding the Long 
+Term Southwest desk's futures deal with Sempra? I'm wondering if I should 
+grab Matt Motley before he goes home today to let him know he needs to get a 
+hold of Tim Cannon about the ADT. Let me know when and if you talk to him.
+Thanks,
+Kate
+474520 - Should not be $210. Actually, Bob just changed the deal to $307, so 
+it was in wrong, but he said Prebon's price is totally off.
+474593 - Again, we had the price wrong, but so did Prebon. Mallory just 
+changed it to $210.
+These last two deals are in now - 474604 and 474605.
+Thanks,
+Kate
+Evelyn Metoyer@
+12/05/2000 02:29 PM
+deal 474520
+Bob Badeer
+Prebon shows price as $210.00
+deal 474593
+Chris Mallory
+Prebon shows price as $200
+I am missing the following deals for Chris Mallory through Prebon:
+Buy Dynegy 25 mw Bal of Dec  Palo Verde at $435
+Sell Dynegy 25 mw Bal of Dec SP-15 at $420
+This is Mike Swerzbin's deal, Long Term Northwest desk, which he neglected to 
+input before our risk group started calcing. It's in there now and the number 
+is 474641.
+And Bob Badeer just entered his TFS deals, so you should see those in there 
+now.
+Kate
+Kerri Thompson@
+12/05/2000 02:49 PM
+missing deal
+buy bpa
+775.00
+jan
+mid c
+25 mw
+on peak
+That's funny, because that's the guy who Mike Swerzbin and Matt Motley told 
+me agreed to ADP the deal. I just gave him a call, but no answer. I'll try 
+back in a bit, but I think we should be fine considering Mark Watts 
+supposedly already agreed.
+Thanks a lot,
+Kate
+Melissa Ann Murphy
+12/06/2000 06:17 AM
+Hi Kate, the person at Southern that called Joe Hunter is Mark Watts.  His 
+phone number is (678) 579-3470.  He may be a trader.
+Let me know if you need anything else.
+Thanks,
+Melissa
+(713) 853-1886
+Yes, Mike would like special language included in this deal's confirm letter. 
+I spoke with him and a couple of the other traders, who said that they were 
+aware of the change coming in April-02, but weren't aware they needed to 
+enter comments in the deal. I'm sending an e-mail out to all of them to 
+remind everyone to enter comments in deals that go past April-02 if they want 
+special language.
+Please let me know if there's anything else I can do.
+Thanks,
+Kate
+Kimberly Hundl@
+12/06/2000 07:13 AM
+This deal with Colorado River Commission is for calendar 2002.  We were told 
+that we may need to enter special CAISO language for deals that extent past 
+April 2002, but that the traders should be entering comments to indicate 
+this.  Does Mike want us to include this language in the confirm letter for 
+this deal?
+Thanks for your help!
+Kim
+You're welcome so much!
+Kate
+Just FYI - this is the kind of stuff I think makes this job so interesting!
+Tracy Ngo
+12/06/2000 09:17 AM
+Tracy Ngo
+12/06/2000 09:12 AM
+I got a hold of Southern finally, and Mark Watts is out until Monday. The 
+assistant who I spoke to knew pretty much nothing about this, so he said he 
+couldn't verify whether or not they would be willing to ADP the deal. But 
+according to our traders, they spoke with Mark Watts yesterday afternoon, and 
+he agreed to ADP the December futures deal.
+If this still seems to be a problem, please let me know. Otherwise I'll plan 
+on talking to Watts on Monday.
+Thanks,
+Kate
+Melissa Ann Murphy
+12/06/2000 06:17 AM
+Hi Kate, the person at Southern that called Joe Hunter is Mark Watts.  His 
+phone number is (678) 579-3470.  He may be a trader.
+Let me know if you need anything else.
+Thanks,
+Melissa
+(713) 853-1886
+Done.
+test
+In regard to the special delivery point language for April-02 and beyond: 
+Please use me as a liasion between the Portland traders and yourselves to 
+ensure these deals get entered correctly. The traders are aware that they 
+need to specify whether or not they'd like the counterparty to see this 
+special language; however, if deals get through to the Confirms department 
+without specification in the comments section, I'd like to be notified. In 
+this way, we can resolve the matter quickly and efficiently and hopefully 
+avoid a larger problem down the road. 
+Thanks for your help on this.
+Kate
+This is an index forward deal sold to EES by EPMI Short Term California - 80 
+MW, off-peak hours, on NP-15. I just spoke with Niclas, who confirmed this 
+was the information he was looking for. If you need anything else, please 
+don't hesitate to e-mail or call.
+Thanks,
+Kate
+West Desk Deal Control
+503.464.7486
+Carla Hoffman
+12/06/2000 11:30 AM
+Hi Kate, 
+This deal needs to be researched.  Can you help looking into its origin?
+Thanks,
+Carla
+Niclas Egmar@EES
+12/04/2000 09:39 AM
+Niclas Egmar
+12/01/2000 03:30 PM
+I talked to Phil about a trade on  11/11/00  regarding 640 MW deal number 
+456233.1 could you please send me  and Jennifer Johnson some more detail 
+about this deal.
+Is this an hour a head deal?
+What hours are involved?
+Thanks alot
+Niclas
+Bob says this deal is on SP-15. Let me know if Amerex still disputes.
+Thanks,
+Kate
+Evelyn Metoyer@
+12/06/2000 03:02 PM
+Bob Badeer
+deal 475411
+Amerex shows location as NP-15 we show SP-15
+I wanted to introduce myself and let you know that the Portland West Desk has 
+a new person in Deal Control. I'm sure you know from working with Carla 
+Hoffman that the position requires quite a bit of communication with your 
+group regarding Enpower program development; so if there is anything I can do 
+to facilitate the speed or success of your tasks, please let me know. 
+The first Enpower question I have is regarding the Enron Online Report. 
+Apparently Carla had requested a few changes, which were then put into a 
+stage version of the program. I'm wondering if we can get that report into 
+production, and more importantly, if we can make a few more minor changes to 
+it. Right now I'm running reports by logging on as Carla, which is fine, but 
+eventually we'd like to see the EOL report up and running for everyone to use.
+I know that Carla and Nicolay have worked on it in the past, and I think it 
+would be relevant to talk with them about issues and obstacles they found in 
+the report. I look forward to meeting you (via telephone or otherwise 
+Thanks,
+Kate 
+The first two are in. Deal numbers are 476581 and 476582.
+476285 is no good. It's been killed.
+Thanks,
+Kate
+Kerri Thompson@
+12/07/2000 01:55 PM
+APB
+missing 2 deals:
+buy mieco
+11-31
+25 mw
+465.00
+palo
+sell mieco
+11-31
+25 mw
+475.00
+SP-15
+NATSOURCE
+476285, broker says this deal is no good.
+thanks
+Mike is entering that deal right now. I'll get back to you with the deal 
+number.
+Thanks,
+Kate
+Evelyn Metoyer@
+12/07/2000 03:11 PM
+I am missing the following deal for Mike Swerzbin brokered through Prebon:
+Enron sells to Morgan 25 mw of Mid-C for Jan'01 at $700.00
+This should be changed to CAISO energy. Please let me know what you'd like me 
+to do - change the deal or wait.
+Thanks,
+Kate
+Kimberly Hundl@
+12/07/2000 03:25 PM
+This deal is in "Pending - revised after sent to Ctrpty" status.  Some 
+changes have been made to the deal, but it still has an SP-15 delivery point 
+with Firm Energy.  Can you please find out whether it's the delivery pt. or 
+the energy type that is wrong?
+Thanks for your help!
+Kim
+We are long in Enpower for tomorrow due to a parking arrangement with EPE at 
+PV.     We added this deal late,  so make sure that the EPE dispatcher knows 
+of this late preschedule of energy to EPE.
+We are long the following hours/mws:
+He 7-10    3mw's
+He 11-22     10mw's
+The length is reflected on deal #476644 and this energy should be marketed 
+hourly.    We need to communicate early with EPE and make sure that this goes 
+as smoothly  as possible.     Once sold,  of course enter the sale( under ST 
+SW book)  and route to the length.
+This deal is completely ST SW in Enpower and we will share any profits with 
+ST SW.
+Thanks,
+JMF
+I know I already discussed time off at Christmas with you, but I have really 
+indecisive parents who are divorced and like to do completely opposite things 
+for the holidays, so I have one modification to make. If I could take off 
+from Friday, Dec. 22, to Tuesday, Jan 2, then I can accomodate both of my 
+parents and head off a potentially disastrous fight over which kids go with 
+which parents. It ends up being two more days off than I had asked for before 
+-  the 22nd and the 2nd. I'm really sorry to ask for so much time off, but I 
+wouldn't do it unless my life were going to be in jeopardy if I didn't. Thank 
+you!
+Kate
+It's done!
+Thanks,
+Kate
+Kimberly Hundl@
+12/08/2000 06:51 AM
+Please go ahead and change it. -Thanks!
+Kate Symes @ ECT                12/07/2000 05:24 PM
+This should be changed to CAISO energy. Please let me know what you'd like me 
+to do - change the deal or wait.
+Thanks,
+Kate
+Kimberly Hundl@
+12/07/2000 03:25 PM
+This deal is in "Pending - revised after sent to Ctrpty" status.  Some 
+changes have been made to the deal, but it still has an SP-15 delivery point 
+with Firm Energy.  Can you please find out whether it's the delivery pt. or 
+the energy type that is wrong?
+Thanks for your help!
+Kim
+She didn't "warn" me that you were cheesy, but she did mention you were a 
+peach too! And anyway, I love cheesy e-mails.
+But since I'm writing, I might as well mention that I have a deal that was 
+changed last night by one of our traders, and I think it needs to be 
+re-confirmed. It's deal number 476435 - Mark Fischer caught his own error and 
+changed the delivery point from Palo Verde to Mid-C. 
+And speaking of confirms and all that good stuff, that's one area I was never 
+really told about; so if you or anyone else in your group has any information 
+to share - anything that I could do to make your jobs easier or to make our 
+jobs synchronize better - PLEASE let me know. I'm very humble about how much 
+I have to learn, so the more people teach me, the better.
+I believe I'll be coming down to Houston after the new year to meet people, 
+tour the place, and get a suntan! So if you don't want to call or e-mail with 
+every detail, you can compile them all and give me the run-down when I'm 
+there. Whatever works for you guys - just let me know.
+Thanks a lot,
+Kate
+Thank you! 
+The itemization was absolutely no problem, and please let me know when I can 
+do things like that to make your job go more smoothly. I know the market got 
+chaotic late yesterday; so I probably could have assumed that our net 
+position would be off today and at least one other person would know that. 
+But it seems that in this business, assumption can cause a small problem to 
+breed and multiply into one of mammoth proportions down the line. So I 
+thought I'd ask. In the future, is it you I should come to, or real time?
+Thanks again for your help.
+Kate
+The broker put delivery point in wrong for a second and then changed it. It 
+is Mid-C.
+Evelyn Metoyer@
+12/08/2000 12:19 PM
+ref 476900
+Amerex shows delivery as Cob and we show Mid-C
+All of these deals are in the traders' books, and we're working right now on 
+getting them in the system. Market is crazy, prices are insane, traders have 
+been trapped in meetings all morning trying to get a handle on it. I'm sorry 
+- we're hurrying.
+Thanks,
+Kate
+Evelyn Metoyer@
+12/08/2000 12:14 PM
+I am missing the following deals:
+Jeff Richter-Amerex
+Sell   American Electric Power  $525.00           SP 15           12/11/00- 
+12/11/00       50  on-peak     $.0075  fee
+Sean Crandall/Dianna Scholtes- Amerex
+Sell  Morgan Stanley Capital Group, Inc.    $2000.00      MID C 12/12/00- 12/31/00   25  on-peak   $.0075  fee
+Matt Motley- Prebon
+Sell Constellation   $525.00       Mid-C         Q1'01   25 mw on-peak 
+Sell Nevada Power   $200.00    PV  Q2'01 25 mw on-peak
+Sell Nevada Power   $295.00  PV Q3'01   25 mw on-peak
+Matt Motley- Amerex
+I am missing two deals...I will send you details in a second.
+Thanks!!
+I guess EVERYONE is going at a mad pace today, because we just checked with 
+the Amerex broker, who said he's in the process of putting that second deal 
+in - meanwhile his back office is trying to check out! What the...? So Amerex 
+should see the second deal, identical to the first, any second. Let me know 
+if they still don't check out.
+Thanks,
+Kate 
+Evelyn Metoyer@
+12/08/2000 12:28 PM
+Amerex shows this deal once and Mike Swerzbin shows it twice ref 477089 and 
+477088.  Can you check with Mike and see if this is a duplicate of not.
+trade date 12-8-00
+Sell  Bonneville Power Administration  $700 
+MID COLUMBIA  1/1/01 - 1/31/01  25mw   onpeak  .0075 fee
+Don't worry about it. Actually, I kind of like to know what the schedulers 
+are dealing with, as oftentimes in the thick of things they're too busy to 
+explain to me why and how something I do affects them. It's all about the 
+chain reaction in this place, I'm beginning to notice. Heaven forbid I was 
+the weak link!
+Kate
+Yes, but can we call you "with anything"?
+Winston Goodbody
+12/08/2000 03:46 PM
+If any issues with the scheduling sheet come up this weekend be sure to call 
+me any time.
+503.975.6747
+These two are the same deal. We just added TFS in there as the broker - Mike 
+forgot that. But we recognize the trade as Cal-01, not Q3-01. Mike just 
+talked to the broker, who's going to pull the tapes from Friday to determine 
+who's correct, but for now he wants to leave it as Cal-01. I'll let you know 
+if we hear otherwise.
+Thanks,
+Kate
+Kerri Thompson@
+12/11/2000 07:21 AM
+477087
+done with pinnacle west
+counterparty does not show this trade?
+missing deal for tfs:
+done on 12/8
+sell pinnacle west
+25 mw
+100.00
+Q3 01
+palo
+off peak
+thanks
+Contact name: Kevin Markovich
+Phone number: 406-496-5476
+Kevin actually sent an e-mail to Melissa Ann Murphy regarding this deal, so 
+if you need more information, she'd probably be the one to go to. 
+Thanks,
+Kate
+Kimberly Hundl@
+12/11/2000 08:00 AM
+Hi Kate,
+I need to get a contact name and phone number for this counterparty so that I 
+can get a verbal confirm on this deal.  Please see if John can give you this 
+information.  Have a lovely day!
+Thanks!
+Kim
+I took a message from Pat Brown at Avista this morning. She needed to book 
+one more spa reservation for Jean Gonnella. The only time Jean can do it is 
+between 3:30 and 6 p.m. on the Thursday they arrive. She would like a deep 
+cleansing facial and a french manicure. If there isn't time for both, she'd 
+just like the facial. Please call Pat and confirm the reservation time when 
+you make it. Her number is 509.495.8123. Thanks!
+P.S. I don't want you to think I'm passing the buck. I would have taken care 
+of this myself, but Mollie said you had a bunch more reservations to make on 
+Tuesday morning. Good luck, and let me know if you need help.
+Kate
+I've changed 469388 to include a broker fee - trader mistake. Mike Driscoll 
+and Swerzbin swear that the other two should not include broker fees. 
+Driscoll just checked with the Natsource broker, who cleared this up with his 
+back office - so they should agree now. Let me know if there is still a 
+discrepancy. I believe the Natsource broker is changing this.
+Thanks,
+kate
+Kerri Thompson@
+12/11/2000 12:39 PM
+457489 .0075
+459812  .0075
+i talked to you about these trades a couple of weeks ago.  the backoffice of 
+the broker got back to me on these deals and said there should be a fee.  can 
+you pls talk to the trader on these deals.
+thanks
+also can you check on this one
+469388, broker has .0075
+Yes, these are deals 478198 and 478199. Both are entered under Natsource, and 
+should be for Q1-01. 478199 was entered with the wrong price (165.05). It 
+should be 164.95, and I'll change it when the Risk girls are done with their 
+calc.
+Thanks,
+Kate
+Kerri Thompson@
+12/11/2000 02:32 PM
+missing 2 deals
+buys ees
+164.95
+25 mw
+Q1
+np15
+sell duke
+jan 
+25 mw
+np-15
+165.00
+these 2 deals kind of recognize 478198, and 478199.
+I like that. It has a homey, Mister Rogers ring to it.
+478199 has been changed to 164.95 price. And 477087 has been changed to 
+Q3-01. 
+Thanks,
+Kate
+Kerri Thompson@
+12/12/2000 07:56 AM
+has 478199 been changed yet?
+Kate Symes @ ECT                12/11/2000 04:39 PM
+Yes, these are deals 478198 and 478199. Both are entered under Natsource, and 
+should be for Q1-01. 478199 was entered with the wrong price (165.05). It 
+should be 164.95, and I'll change it when the Risk girls are done with their 
+calc.
+Thanks,
+Kate
+Kerri Thompson@
+12/11/2000 02:32 PM
+missing 2 deals
+buys ees
+164.95
+25 mw
+Q1
+np15
+sell duke
+jan 
+25 mw
+np-15
+165.00
+these 2 deals kind of recognize 478198, and 478199.
+There is an hourly trader named Geir Solberg whose trades appear on our 
+reports to be confirmed.  We go into each trade and change them to not to be 
+confirmed.   The other hourly deals do not appear on these reports.  I think 
+perhaps his defaults are not set correctly.  Can you check with him on this. 
+I don't know why his are appearing on the reports and not other hourly deals.
+Thanks 
+I've forwarded this message to Geier and Bill Williams III, the Real Time 
+manager, who will remedy the problem - probably something to do with deal 
+blotter defaults.
+Thanks.
+Kate
+There is an hourly trader named Geir Solberg whose trades appear on our 
+reports to be confirmed.  We go into each trade and change them to not to be 
+confirmed.   The other hourly deals do not appear on these reports.  I think 
+perhaps his defaults are not set correctly.  Can you check with him on this. 
+I don't know why his are appearing on the reports and not other hourly deals.
+Thanks 
+The strips in this deal have been changed. Total MW for the deal is now 
+24,800. If this solves the problem, great. If not, let me know.
+Thanks,
+Kate
+The first two deals were already entered by Chris Mallory. Numbers are 478469 
+and 478477. I'll add APB as the broker on both those deals.
+The third deal was not entered and is actually a buy from Idaho, not Entergy. 
+478978
+buy Idaho
+25 MW
+325.00
+Jan
+Mid-C
+Off Peak
+Thanks,
+Kate
+Kerri Thompson@
+12/12/2000 02:26 PM
+missing deals
+buy scem
+25 mw
+560.00
+sp15
+next day
+on peak
+buy el paso
+25 mw
+375.00
+np15
+next day
+off peak
+buy entergy
+25 mw
+325.00
+jan
+mid c
+off peak
+Deal number 478905. Jeff Richter forgot to put the broker in. I'll change it 
+when the calc is done. 
+Thanks,
+kate
+Kerri Thompson@
+12/12/2000 02:29 PM
+missing deal
+sell aep
+Q2
+120.00
+25 mw
+sp15
+Per Greg Wolfe and Valarie Sabo:
+Do not verbally confirm these deals. Greg Wolfe is preparing a confirm letter 
+himself. Sharen Cason was handling this account with Greg Wolfe, John 
+Malowney and Valarie Sabo yesteday, so she would have more detailed 
+information. 
+Let me know if that does it!
+Thanks,
+Kate
+Kimberly Hundl@
+12/12/2000 02:19 PM
+Hi Kate,
+We had a deal with Hinson Power Company, Inc. yesterday that we ended up not 
+confirming because the comments said that it was a buy-back of part of a 
+one-off deal and that Legal would prepare a special confirm.  There are no 
+comments entered for these deals that would indicate that they are the same 
+type of deal.  Are they?  Should we prepare a confirm letter?
+Thanks!
+Kim
+You're booked in Mt. Bachelor from 9:30 to 11 a.m. on Tuesday. I'll swing by 
+Starbucks in the morning and pick up a variety of bagels and cream cheese for 
+six people. We'll get a pot of coffee in there and you should be set. Let me 
+know if there's anything else I can do.
+Kate
+How many times will I have to remind them? Mike Driscoll added comments on 
+both these deals - they would definitely like the special language added in 
+the confirm letter.
+Thanks,
+Kate
+Kimberly Hundl@
+12/12/2000 02:01 PM
+Hi Kate!
+I have two deals that extent past April 2002 (Deal #478879 & #478878).  The 
+traders didn't enter any comments about special CAISO language to be 
+entered.  Will you ask them if they want us to enter that language?
+Thanks!
+Kim
+This deal has been changed to AEP.
+Thanks,
+Kate
+Evelyn Metoyer@
+12/12/2000 02:01 PM
+Matt Motley
+ref: 478877
+Amerex shows cp as AEP not Sempra
+Here are the people who handle confirms in Houston:
+Melissa Ann Murphy
+Sharen Cason
+Kim Hundl
+EB 3115
+1400 Smith Street
+Houston, Texas 77002
+Hope that helps! Let me know if you need anything else.
+Kate 
+If I don't drink anything, you get a ticket to the Blazers/Lakers game on 
+Dec. 13. If I do drink, you pay for it. How's that sound?
+Kate
+So whats the bet for the game on Wednesday?
+I thought it might behoove you guys to know about this, even though I am 
+unclear as to its meaning myself. Basically, Cara made a change in scheduling 
+that she did not change in Enpower, and it has to do with an ongoing deal 
+being managed by the short and long term northwest desks. 
+In addition, Carla and I zeroed out a deal for Diana Scholtes in scheduling 473338 - selling to Modesto at NP-15 for BOM on peak. For some reason, she 
+just needed it zeroed out for tomorrow, so we did not change the deal in deal 
+entry. If you have any questions, please let me know.
+Thanks,
+Kate
+819-2181
+Cara Semperger
+12/12/2000 03:45 PM
+I show now two Smurfit Deals,
+403522 for 25 flat, at 54.65,    and 246859.1 for 15  hlh, AND 25 hlh,   and 
+246859 for 15 llh AND 25 llh.
+I have zeroed out the 25's from 246859 in Scheduling, and we are flat now.  I 
+did not change it in the deal because we were calcing, and I want to check 
+with Diana first before doing it.
+What I show in Scheduling is a sale to Smurfit for 40 mw flat, which is what 
+is actually scheduled
+That sounds great. Just let me know when you guys are ready to run the test 
+upload. I can validate the deals and help work out any glitches, although it 
+sounds like everything will go smoothly.
+Thanks for all your hard work on this - having the swaps automated will make 
+my job much easier. Now you can kick back and relax before you make my job 
+obsolete!
+Kate
+I checked both of these deals, and they each show no broker fee. Mark Fischer 
+might have just changed this, but let me know if it's still not showing up in 
+your system.
+Thanks,
+kate
+Evelyn Metoyer@
+12/13/2000 11:55 AM
+Mark Fischer- traded 12-12-00
+deals 478539 and 478546
+Amerex shows no fee on these deals and we show $.0075
+Thanks!!
+I figured you'd probably see Geir before I do. If so, would you check with 
+him on these deals and find out if they should be with LADWPPX or Los Angeles 
+Department of Water and Power? I have a feeling it's the latter, but I'd like 
+to know for sure before I change the deals and eliminate the useless 
+counterparty name.
+Thanks,
+Kate
+Rhonda L Denton
+12/13/2000 03:39 PM
+There are several deals in the system for this month under this CP name.  If 
+this is supposed to be Los Angeles Department of Water and Power, please 
+change these deals and let me know when they have been changed.  There have 
+never been any deals under LADWPPX and I would like to inactivate if we are 
+not going to use this record ofr the California PX.  Please research and let 
+me know.
+Deals
+475790
+476694
+476701
+476703
+476713
+479072
+479076
+479268
+479335
+You're so right! I checked around and found that Arizona Public Service still 
+does the transmission deals for Pinnacle West. I'll change both deals right 
+away.
+Thanks,
+Kate
+Melissa Ann Murphy
+12/13/2000 04:56 PM
+Hello, I think the above deals should be in as Arizona Public Service since 
+they are transmission deals.  Let me know what you find out.
+Thanks alot,
+Melissa
+Correct again....This deal has been changed. Also, I've forwarded these last 
+two e-mails to Bill Williams III, Real Time manager, who can talk to these 
+guys about using correct counterparty names in deal entry. In the future if 
+you see errors or discrepancies in deals done by the Short Term West Hourly 
+desk, please send the e-mail to Bill and myself. This will hopefully be a 
+more direct way of nipping the problem in the bud.
+Thanks for your help.
+Kate
+Melissa Ann Murphy
+12/13/2000 05:04 PM
+Sorry to keep bugging you.  I think this deal is in as the wrong TransAlta.
+Thanks!
+Melissa
+You'll be staying at the beautiful Phoenix Inn in sunny Eugene this Wednesday 
+evening. You can check in at anytime, but if you need to cancel, let me know 
+before 4 p.m. on Wednesday. Your confirmation number is 251832, and the 
+reservation is under Todd Perry (to assist in the check-in process).
+If you have any other questions, let me know or call the Phoenix Inn at 
+541.344.0001. And have a pleasant stay.
+Kate
+I've forwarded this to Bill Williams III, Real Time manager, who asked to be 
+notified of problems and discrepancies with Short Term West Hourly deals. 
+I'll change these deals in the system; meanwhile, Bill's going to talk to 
+Geir about using the correct counterparty name. 
+Thanks for catching that.
+Kate
+Rhonda L Denton
+12/13/2000 03:39 PM
+There are several deals in the system for this month under this CP name.  If 
+this is supposed to be Los Angeles Department of Water and Power, please 
+change these deals and let me know when they have been changed.  There have 
+never been any deals under LADWPPX and I would like to inactivate if we are 
+not going to use this record ofr the California PX.  Please research and let 
+me know.
+Deals
+475790
+476694
+476701
+476703
+476713
+479072
+479076
+479268
+479335
+I think I sent something about this to you yesterday - here's a friendly 
+reminder from Houston. Let me know if you guys want help changing these deals.
+Kate
+Melissa Ann Murphy
+12/14/2000 06:11 AM
+Hello, Rhonda Denton may have already asked you about these deals.  She is 
+out today.  The following deals are in under LADWPPX.  We think they should 
+be Los Angeles Dept of Water and Power.
+475790
+476694
+476701
+476703
+476713
+479072
+479076
+479268
+479335
+Thanks!
+Melissa
+Rhonda did e-mail me about these deals last night. I forwarded it on to the 
+Real Time manager and trader who entered the deals. It was actually a new 
+real time guy using another trader's i.d. because he was waiting for his own 
+- I don't think this is the kind of mistake the veterans should be making. At 
+any rate, Bill changed the counterparty name and trader i.d. in all of these 
+deals.
+Thanks for the heads up on this.
+Kate
+Melissa Ann Murphy
+12/14/2000 06:11 AM
+Hello, Rhonda Denton may have already asked you about these deals.  She is 
+out today.  The following deals are in under LADWPPX.  We think they should 
+be Los Angeles Dept of Water and Power.
+475790
+476694
+476701
+476703
+476713
+479072
+479076
+479268
+479335
+Thanks!
+Melissa
+This deal has been changed.
+Thanks,
+Kate
+Evelyn Metoyer@
+12/14/2000 01:46 PM
+Bob Badeer
+deal 480061
+Per Prebon the price should be $85.05 instead of $85.00
+Thanks!!
+This is your missing deal for Jeff Richter:
+480392
+Buy Pac
+12/17/00-12/18/00
+50 MW
+NP-15
+Broker: APB
+Thanks,
+Kate
+This deal was entered today - Matt Motley was trying to agree on terms with 
+the broker, but they didn't get it all tied up until this morning. The deal 
+is as follows:
+Buy Calpine
+Palo Verde
+25 MW
+Q3-01
+$300
+Broker: TFS
+Thanks,
+Kate
+Now that's getting into the Christmas spirit!
+I talked to Diana Scholtes last night about this deal, and she looked at it 
+this afternoon. She says the deal is definitely not entered correctly, but 
+because it was done for the days when we got hit with transmission cuts, she 
+wants to look into it a little further before she changes or kills it. She 
+said she'd reconcile it tomorrow, and we'll let you know what we've done then.
+Thanks for your patience,
+Kate
+Melissa Ann Murphy
+12/13/2000 04:40 PM
+Hello, I think that deal # 476147 might should have been entered as a buy 
+resale instead of as transmission.  There are not any other transmission 
+deals in the system with this counterparty.  If you would not mind looking 
+into this and letting me know I would appreciate it.
+Thanks!
+Melissa
+3-1886
+These have been changed. Thanks Kerri.
+Kate
+Kerri Thompson@
+12/15/2000 10:59 AM
+480134
+480133
+both deals should have a fee of .0275.  we pay there fees.
+thanks
+This deal was added awhile ago - number 480865.
+Thanks,
+Kate
+Kerri Thompson@
+12/15/2000 12:34 PM
+missing deal 
+buy sierra
+18th
+226.00
+50 mw
+palo
+Please join me in welcoming Angela Cadena and Mike Danielson to Enron North 
+America.
+Angela has joined West Origination as a senior specialist. She comes to us 
+from Toronto, Canada, where she did work in merchant banking for OMERS, a 
+large pension fund, as well as investment banking and project finance for TD 
+Securities. She is most proud of her latest project - a 15-month-old baby 
+girl named Maxim. 
+Mike has been with Enron for more than two years in East Origination and 
+Enron Online. He will be based in San Francisco as a Director for West 
+Origination. Mike hails from Florida and comes to us most recently from 
+Houston. Please introduce yourself and make him feel at home on his frequent 
+Portland visits.
+Two of these should have fees; two should not.
+Add .0075 broker fee to:
+477212
+Add .005 broker fee to:
+474434
+No broker fee on:
+468440
+468444
+This is per Matt Motley's trade book. I'll change the fees in the deals; and 
+if you have questions about the deals with no fee, let me know and I'll call 
+Matt to verify.
+Thanks,
+Kate
+Kerri Thompson@
+12/15/2000 12:55 PM
+kate, can you pls check on these fees when you get a chance.
+477212 .0075
+468440 .0075
+468444 .0075
+474434 .005
+thanks
+This deal should have a broker fee. I'll change it in the system. 
+Thanks,
+Kate
+Kerri Thompson@
+12/15/2000 01:41 PM
+one more fee
+478477
+broker has .0075
+Sorry for the confusion, Geir. When I got the e-mail from Houston it gave me 
+the deal numbers and your name - I didn't even look in the comments section. 
+My fault! If you let Porter know the correct counterparty shortname, that 
+would be great. Thanks for your help.
+Kate
+Geir Solberg
+12/18/2000 07:36 AM
+Hey
+Just for the record I would like to make clear that I did not enter these 
+deals. Our new trader  uses my tradee id when I work with him.( He writes 
+entered by ......   in the comment section. I will point out the mistake to 
+him so we can make sure it does not happen again.
+Geir
+Mike Swerzbin did not get a confirm from the broker on these deals. They were 
+two sleeves done with EES, and Driscoll just entered them. Thanks for the 
+heads up. Any other questions, just give me a call or e-mail. 
+Kate
+First deal is 481433. Jeff Richter entered this awhile ago.
+Second deal is 481489. Sean Crandall forgot to put the broker in - he's 
+adding that right now.
+Thanks,
+Kate
+Kerri Thompson@
+12/18/2000 01:31 PM
+missing deals
+buy idaho
+19th
+25 mw
+415.00
+np15
+buy aep
+19th
+25 mw
+400.00
+cob
+off peak
+481735
+Jeff Richter did not put a broker in. He's adding that.
+Thanks,
+Kate
+Kerri Thompson@
+12/18/2000 01:33 PM
+missing deal
+sell aep
+25 mw
+125.00
+Q4
+np 158
+I just added it. I don't know why, but I checked Jeff's Deal Blotter and he 
+had entered the broker. For some reason this did not transfer over into Deal 
+Entry. Sorry!
+Kate
+Kerri Thompson@
+12/18/2000 01:47 PM
+481433 needs a broker
+Kate Symes @ ECT                12/18/2000 03:37 PM
+First deal is 481433. Jeff Richter entered this awhile ago.
+Second deal is 481489. Sean Crandall forgot to put the broker in - he's 
+adding that right now.
+Thanks,
+Kate
+Kerri Thompson@
+12/18/2000 01:31 PM
+missing deals
+buy idaho
+19th
+25 mw
+415.00
+np15
+buy aep
+19th
+25 mw
+400.00
+cob
+off peak
+Thanks, Kerri - that's very nice of you!
+Kerri Thompson@
+12/18/2000 01:52 PM
+its okay, its not a big deal, i just wanted you to change it instead of me, 
+just to be sure.  i am always usually in such a hurry when i talk to you but, since it has slowed down a bit......i wanted to let you know you are 
+doing a wonderful job, and you really are a pleasure to work with.  again i 
+am sorry if it seems like i am always in a rush, just tell me to chill out but, thanks for being so great.  i will pass that on to the traders when i 
+get a chance!
+kerri
+Kate Symes @ ECT                12/18/2000 03:46 PM
+I just added it. I don't know why, but I checked Jeff's Deal Blotter and he 
+had entered the broker. For some reason this did not transfer over into Deal 
+Entry. Sorry!
+Kate
+Kerri Thompson@
+12/18/2000 01:47 PM
+481433 needs a broker
+Kate Symes @ ECT                12/18/2000 03:37 PM
+First deal is 481433. Jeff Richter entered this awhile ago.
+Second deal is 481489. Sean Crandall forgot to put the broker in - he's 
+adding that right now.
+Thanks,
+Kate
+Kerri Thompson@
+12/18/2000 01:31 PM
+missing deals
+buy idaho
+19th
+25 mw
+415.00
+np15
+buy aep
+19th
+25 mw
+400.00
+cob
+off peak
+This deal was a sleeve done for EES, and we've had problems with the trade 
+dates on these before. EES reported this trade to us on 12/6/00, and it was 
+Matt Motley's understanding that the trade was executed the previous day. He 
+doesn't care either way, but he suggested you talk to someone at EES - maybe 
+Jubran Whalan or Neil Bresnan - about what their intent was with the date.
+In the meantime, I can change the date to 12/4 if you'd like. What would be 
+best? E-mail or call and let me know.
+Thanks a lot!
+Kate @ 503-464-7486
+Stephanie Piwetz   12/19/2000 08:15 AM
+Kate-
+Please verify trade date for trade 474440.01, we received our executed Enron 
+Confirmation Letter back from Powerex Corp and they struck thru our trade 
+date of 12/4/00 and placed 12/5/00.  Matt Motley was trader, Jan 2001, 
+$375.00, 
+Cob N/S.  Please check and I will make note and send to Powerex.   Thank you.
+I've changed the term to 12/4, and I'm going to make a note in our daily deal 
+correction report that this was due to a late report from EES. Thanks for 
+catching this.
+Kate
+Stephanie Piwetz   12/19/2000 09:02 AM
+Kate, below is the EES spreadsheet that has the shows the powerex trade shown 
+on 12/4/00.  Please verify and we can backdate the trade and reconfirm the 
+document, or we can initial Powerex change and send back to them to show that 
+we are in agreement.  Thanks Stephanie
+Jubran Whalan@EES
+12/04/2000 04:42 PM
+CHECK CAREFULLY ONE COB TRANSACTION IS NORTH TO SOUTH AND ONE IS SOUTH TO 
+NORTH.
+I would be very interested in finding out more about the Deal Control 
+position and what it entails. Coming from a background in print journalism 
+leaves me somewhat at a loss for practical experience; however, I make up for 
+skills in my ability to learn quickly and work aggresively. I'll come by 
+sometime today to talk further about this opportunity. Thanks for the notice.
+Kate
+I just got this from Cute Blazer Guy - thought you might like to distribute 
+it to the Origination team in case people want to partake in some more Blazer 
+mania 
+Kate
+Ryan Langan  > Blazers Holiday Ticket Special

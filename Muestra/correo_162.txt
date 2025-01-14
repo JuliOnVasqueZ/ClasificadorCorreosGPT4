@@ -1,0 +1,2737 @@
+______________________
+David T. Hoog
+P.O. Box 399
+Bala Cynwyd PA 19004
+tel. 610-996-2522
+fax. 610-617-0696
+dhoog@att.net
+______________________
+- Policy.rtf
+David:
+Please keep in mind that we are not basing our decision on which 
+counterparties to contact solely based on exposure and credit concern 
+information, but rather based on all of the categories that Mark Taylor and I 
+have asked you to compile with respect to each counterparty so I don't want 
+the exposure numbers to be limited to any particular type of counterparty.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+David P Dupre
+07/06/2000 10:28 AM
+Hi,
+I don't know how this was settled between Carol and Russell, and  I don't 
+understand why Russell would not
+want to provide this exposure information to us.
+As we discussed earlier last month, I think it would be good to select a 
+date, let's say July 5th in this case, and then go forward.
+I like your idea of identifying whether the c/p is a 'credit concern' or a 
+'good credit', perhaps this could be listed in the 'status' column
+on the following spreadsheet.
+I have attached a list of updated counterparty names.
+Thanks
+David
+How did things get settled between Carol and Russell?   Looking over the 
+spreadsheet itself, I would be able to tell you right off which 
+counterparties we consider "Credit Concerns", where you would then prioritize 
+on your end.  Even though some counterparties may high high exposures, we 
+consider them to be "Good Credits" (for example Duke).  Once again, financial 
+exposures vary (sometimes very significantly) from one day to the next Therefore the totals you'll have for current exposures will not be validated 
+for more than a week, at the max.
+Let me know how you want to go about this.  I think if I highlight which 
+counterparties we feel you should look into, this would go a lot faster.
+--VE
+Here is my first cut at a proposed form of amendment.  I have added a rep and 
+an additional Event of Default to cover the 'Lien" issue in light of the fact 
+that Barrett's Credit Agreement restricts them from entering into any 
+agreement that contains a negative pledge.  I winged the amendment to the 
+Confirmations since I have not seen them yet.  Please call me with any 
+comments.
+Carol
+Scott:
+Our commercial guys are in Philly today meeting with ACE to discuss an 
+alternative online structure.  From what I know (which is very little at this 
+point), because of the amount of time that it takes to implement the auction 
+process online, our guys are looking into with ACE whether this product can 
+be offerred pursuant the normal posting procedures that we use for most of 
+our financial online derivative transactions.  Leslie and I are scheduled to 
+meet with them tomorrow at Noon Houston time so if you are available and we 
+can hook you in, let me know, otherwise one of us will catch up with you.  I 
+would alos think that we could discuss the revised policy at that time since 
+I don't think much will change if we go about it this way.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+"SCOTT AVITABILE"  	07/06/2000 11:08 AM
+Carol:  I did receive the email, although John and Bruce did not.  I 
+forwarded it to them earlier.  Would you like to try to schedule a call for 
+later today or tomorrow morning?  I am free from 3:00 pm until 5:30 today and 
+all day tomorrow.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+"SCOTT AVITABILE"  	07/06/2000 11:44 AM
+Carol:  I will be available at 1:00 pm NY time for the call tomorrow, and if 
+either or both of John and/or Bruce are available, they will also 
+participate.  Unless you hear otherwise, patch me in to the call at 
+212-424-8491.
+Mark:
+I need for you to send an e-mail to Michelle Word informing her of the 
+following in connection with my leave that you have approved:
+1. In addition to the 6 weeks that Enron allows for leave, I am planning on 
+adding to that period and using any remaining vacation time that I have for 
+2000 which I believe is an additional 10-12 days.
+2. After that time is used up, I plan to take an unpaid leave of absence Michelle informs me that I have to specify a date and as you are aware I am 
+not sure how long I will take but if I need to specify a date, let's just 
+pick until December 31, 2000 and as you and I have discussed, I will keep you 
+informed throughout my leave as to what my plans are once I decide.
+3. Tentatively, I am planning for July 14th to be my last day but I should 
+know more after next Wednesday.
+Thanks and let me know if you have any questions.
+Carol
+Michele Word@
+07/06/2000 12:00 PM
+Hi Carol,
+All I need is a note from the Dr. showing the delivery date.  If you are 
+planning on taking any additional time, it must be cleared by your supervisor 
+prior to you leaving.
+I can give you a form to return once the baby is born if you are going to add 
+the baby to your insurance.
+Let me know if you have any additional questions.
+Michele Word will process your leave, please call her at 345-8662 for an 
+appointment.
+Thanks
+Carmen
+Carol St Clair                06/30/2000 03:20 PM
+Carmen:
+Per my voice mail message to you, I need to get with you to get all of the 
+paperwork done that needs to be done before I go on leave.  I would very much 
+like to do that next week for I am close to me delivery date.  Please call 
+me Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Metallgesellschaft Ltd.
+One American Square
+17 Crosswall London EC3N 2PT
+Registartion # in England 972941, VAT Registration Number GB 243 6219 73
+Attached is a draft of 2 minor amendments that KM requested.
+Carol
+Jeff:
+Here is the e-mail that I sent to David regarding the categories that we 
+wanted to see with respect to the unsigned confirm list.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Carol St Clair
+05/11/2000 11:42 AM
+David:
+I would prefer to wait until next Tuesday to meet, particularly in light of 
+the luncheon with your group that we are having.  Is that okay with you?  In 
+the meantime, I am working with credit to finalize the SG Interests Master 
+and when I asked Sara about Williams, she indicated that she had not spoken 
+with them about confirmation issues.  Do we have a contact there?  I also 
+have a call into Morgan.  Finally, I mentioned to Mark Taylor how we were 
+trying to prioritize our list and he identified 2 other categories in 
+addition to # of unsigned confirms and Exposure amounts.  He thought that it 
+was important to only focus on those transactions that were greater than 1 
+year in duration from the outset and also to focus on those counterparties 
+who have never signed confirms.  Can you add these to your list of categories?
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+Susan:
+I have bolded the transfer language that you need to use in the PanCanadian 
+LC.  Please bracket it.  Thanks.
+Carol
+Susan:
+Here is the revised confirm.
+Dave:
+I expect to receive from our counsel in Mexico a memo addressing all of the 
+online issues that we have asked them to address in the next day or so as I 
+spoke with them yesterday about this.  I will need to review the memo with 
+them and Mark Taylor to make sure that all of the issues have been adequately 
+addressed and to determine if any changes need to be made to the documents From my conversations with them, there don't appear to be any major issues 
+other than the fact that we cannot offer "securities" to Mexican 
+counterparties and they will define in the memo what products would be 
+considered securities, but I want to see waht they put down in writing before 
+we make any conclusions.  I or Mark will keep you posted. 
+Carol
+David Forster@
+07/06/2000 03:59 PM
+Carol,
+Could you please update me on the status of PA and ETA preparation for Mexico?
+Thanks,
+Dave
+Mark:
+Per my voice mail
+Carol
+Jaime Williams@
+07/06/2000 04:01 PM
+I am sending you the cover letter to be sent out with the brochures....It is 
+a spanish translation of the letter sent to me by the EOL people. 
+Let me know if you guys have any comment Eric, We need to work on the press release as well... Let me know how can I 
+help on this matter Thanks and 
+Jaime:
+when are you planning on sending this out?  I'm checking with Mark on this 
+but I thought that we would wait until we had seen our counsel's memo before 
+we would issue a press release or send these letters out.  Is that the plan Given the ramifications of a press release, I want Mark's input on what it 
+says and when it should be sent out.
+Carol
+Jaime Williams@
+07/06/2000 04:01 PM
+I am sending you the cover letter to be sent out with the brochures....It is 
+a spanish translation of the letter sent to me by the EOL people. 
+Let me know if you guys have any comment Eric, We need to work on the press release as well... Let me know how can I 
+help on this matter Thanks and 
+Jaime:
+Thanks.  I spoke with Mark and he confirmed that we should do nothing until 
+we have received and reviewed the memo from our counsel which hopefully we 
+will get shortly and Mark and I will get on it right away.  Per your voice 
+mail message, if we could include something in the cover letter to address 
+our counsel's concern, that would be great.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Jaime Williams@
+07/06/2000 04:14 PM
+Definitely,,,I am going to send an email in  a few moments to let everybody 
+know the timming, dates etcetera,,,,,,So that we can all be in the same 
+page 
+Carol St Clair @ ECT                07/06/2000 04:11 PM
+Jaime:
+when are you planning on sending this out?  I'm checking with Mark on this 
+but I thought that we would wait until we had seen our counsel's memo before 
+we would issue a press release or send these letters out.  Is that the plan Given the ramifications of a press release, I want Mark's input on what it 
+says and when it should be sent out.
+Carol
+Jaime Williams@
+07/06/2000 04:01 PM
+I am sending you the cover letter to be sent out with the brochures....It is 
+a spanish translation of the letter sent to me by the EOL people. 
+Let me know if you guys have any comment Eric, We need to work on the press release as well... Let me know how can I 
+help on this matter Thanks and 
+Russell:
+Here is a summary of the ownership chain of Global Companies LLC:
+1. Its members are Global Petroleum Corp. ("GPC"), YPF Distribution Company 
+("YPF") and Montello Oil Corporation ("Montello").  From what they sent to 
+us, I could not tell the ownership percentages.
+2. The affairs of Global are managed by a "Board of Governors" who are 
+selected by the members.  Specifically, GPC and Montello collectively get to 
+choose 3 board members and YPF gets to choose 3 board members.
+I your credit worksheet, you had specified as a "MAC" trigger if YPF, SA 
+fails to own at least 51% of Global Companies.  Is this the same entity as 
+YPF Distribution Company?  Do you want this as a MAC or as an Additional 
+Event of Default or Termination Event?
+Carol
+Bill:
+Yes and I received a message from them saying that had received it and are 
+reviewing it.  I will be in meetings today from 10:30 to 2:00 but otherwise 
+available.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+William S Bradford
+07/06/2000 07:25 PM
+Have you sent this out to Barrett yet.
+Bill
+Carol St Clair                07/06/2000 11:26 AM
+Here is my first cut at a proposed form of amendment.  I have added a rep and 
+an additional Event of Default to cover the 'Lien" issue in light of the fact 
+that Barrett's Credit Agreement restricts them from entering into any 
+agreement that contains a negative pledge.  I winged the amendment to the 
+Confirmations since I have not seen them yet.  Please call me with any 
+comments.
+Carol
+Susan and Samantha:
+We are in the process of completing a quarter end project called Project 
+Margaux and have completed the Raptor II project.  With respect to Project 
+Margaux, please coordinate with Mark Evans in London to get closing sets of 
+documents.   With respect to Raptor II, I will leav a message with Alicia 
+Curry at V&E to send you the closing sets.  I will leave with you my closing 
+binder on Raptor I.
+Sara,
+It might not be a bad idea to meet with Brenda Funk in the next few weeks to 
+get updated on all of the qaurter end delas.
+Carol 
+David:
+Mark and I were reviewing the Eligible Swap Participant rules and the 
+following issue came up:
+If our counterparty is a limited partnership but our credit group is relying 
+on the credit of the GP, do the rules require a written guaranty from the GP 
+or is it enough to rely on the fact that under law the GP is jointly and 
+severally liable for the LP's obligations?  One of our counterparties is a 
+limited partnership whose GP is a utility and their counsel has advised us 
+that for regulatory reasons, the GP cannot enter into a Guaranty.  I look 
+forward to hearing from you.
+Carol 
+Alicia:
+I'm assuming that I will be gone when the closing sets for raptor II are sent 
+out.  Could you please send one set to Susan Bailey, a legal assistant in our 
+group, so we have one for the swap files?  Susan's number is 853-4737 Thanks.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Susan and Samantha:
+Who has inherited this file from Susan?  I have a mrk-up based on comments 
+that I have been discussing with thier counsel that I need to give to someone.
+Carol
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+"Curry, Alicia"  	07/07/2000 09:27 AM
+Terrie Harshfield will be sending them out.  I will pass along your request.
+I hope all is well with you and the baby to be!
+Alicia L. Curry
+Vinson & Elkins L.L.P.
+2300 First City Tower
+1001 Fannin Street
+Houston, Texas 77002-6760
+Phone:  713-758-4428
+Fax:  713-615-5688
+E-mail:  acurry@velaw.com
+(Licensed in New York only)
+Rod:
+I don't know if you are still handling this.  We are close to getting this 
+finalized.  One credit comment from them that I need someone's thoughts on They want the Issuer of LC's to maintain a credit rating of A from S&P and A2 
+from Moody's.  We usually put A- and A3.  are you okay with this?  If I need 
+to run this by someone else please let me know.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Mr. Davis:
+Susan Flynn passed on to me your comments to the ISDA draft.  Please call me 
+when you are ready to discuss.  With respect to the Guaranty amendment that 
+we had requested, it is just meant to clarify in the termination section that 
+if the Guaranty is terminated then the Guarantor is still responsible for all 
+of the Counterparty's obligations with respect to any transactions that were 
+entered into prior to the termination date, even if such obligations are 
+incurred after the termination date.  I do not feel that the termination 
+language, as currently written in both the WPS and Enron Guarantys clearly 
+reflects this concept as the language as currently written states that the 
+Guaranty "is revocable only with respect to liabilities occurring on or after 
+the termination date."    I look forward to hearing from you.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+David Thanks for sending this to me.  Since I will be hear through next Friday at 
+the latest, I would ask that once this chart has been completed that you 
+contact Mark Taylor to see who from our group will take this project over 
+while I am out.  Thanks.
+Carol
+David P Dupre
+07/07/2000 02:27 PM
+Hi,
+Jeff asked me to forward the new report to you.
+Here is the format of the new report and a brief description of each tab:
+1. formerage-Willie's prior aging schedule. Do we want to see this for each 
+c/p? I think it would be helpful
+2. aging-Current aging schedule by year
+3. STC-Dcaf-Current physical STC information from Dcaf
+4. STC-Tagg-Current physical STC information from tagg
+5. financial-Current and new format. If you move the lower bar to the right 
+of the gray boxes, you will see the new columns
+which we've discussed.
+I completed the master agreement column from the Lotus Notes database;
+We are currently waiting on credit for the exposure information and their 
+assessment (e.g. 'credit concern', 'good credit', etc 
+Tagg is able to provide term information for each counterparty, but since it 
+is a time-intensive process, Ron Nolte is looking
+into adding a button in tagg that will allow this and/or create a special 
+customized ongoing report;
+I am in the process of completing the remaining two columns (i.e. do they 
+sign confirms?, if they don't, reasons why?)
+Overall, I think that this new format, including my proposed aging schedule, 
+will be a valuable 'tool' for all involved in our
+follow-up work. 
+Thanks
+David
+Carol St Clair                07/06/2000 11:05 AM
+David:
+Please keep in mind that we are not basing our decision on which 
+counterparties to contact solely based on exposure and credit concern 
+information, but rather based on all of the categories that Mark Taylor and I 
+have asked you to compile with respect to each counterparty so I don't want 
+the exposure numbers to be limited to any particular type of counterparty.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+David P Dupre
+07/06/2000 10:28 AM
+Hi,
+I don't know how this was settled between Carol and Russell, and  I don't 
+understand why Russell would not
+want to provide this exposure information to us.
+As we discussed earlier last month, I think it would be good to select a 
+date, let's say July 5th in this case, and then go forward.
+I like your idea of identifying whether the c/p is a 'credit concern' or a 
+'good credit', perhaps this could be listed in the 'status' column
+on the following spreadsheet.
+I have attached a list of updated counterparty names.
+Thanks
+David
+How did things get settled between Carol and Russell?   Looking over the 
+spreadsheet itself, I would be able to tell you right off which 
+counterparties we consider "Credit Concerns", where you would then prioritize 
+on your end.  Even though some counterparties may high high exposures, we 
+consider them to be "Good Credits" (for example Duke).  Once again, financial 
+exposures vary (sometimes very significantly) from one day to the next Therefore the totals you'll have for current exposures will not be validated 
+for more than a week, at the max.
+Let me know how you want to go about this.  I think if I highlight which 
+counterparties we feel you should look into, this would go a lot faster.
+--VE
+David:
+I will try my best to meet but I need to devote as much attention as possible 
+next week to the other projects that need my attention before I leave.  I 
+will contact you next week.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+David P Dupre
+07/07/2000 03:06 PM
+If you look at the stc(sent to c-party)-dcaf tab, you will notice that the 
+numbers are decreasing due to amendments
+being signed by counterparties for negative confirmations.
+Once we move forward with the new financial spreadsheet, I'm confident that 
+we will see the financial
+numbers decrease as well.
+I'd like to meet once before you leave if possible to wrap-up our discussions 
+on a few critical counterparties
+which were close to an agreement with us including Morgan Stanley (who were 
+not signing confirms and were
+sending back there own form of confirmation which wasn't allowed)
+Thank you,
+David
+Carol St Clair                07/07/2000 02:48 PM
+David Thanks for sending this to me.  Since I will be hear through next Friday at 
+the latest, I would ask that once this chart has been completed that you 
+contact Mark Taylor to see who from our group will take this project over 
+while I am out.  Thanks.
+Carol
+David P Dupre
+07/07/2000 02:27 PM
+Hi,
+Jeff asked me to forward the new report to you.
+Here is the format of the new report and a brief description of each tab:
+1. formerage-Willie's prior aging schedule. Do we want to see this for each 
+c/p? I think it would be helpful
+2. aging-Current aging schedule by year
+3. STC-Dcaf-Current physical STC information from Dcaf
+4. STC-Tagg-Current physical STC information from tagg
+5. financial-Current and new format. If you move the lower bar to the right 
+of the gray boxes, you will see the new columns
+which we've discussed.
+I completed the master agreement column from the Lotus Notes database;
+We are currently waiting on credit for the exposure information and their 
+assessment (e.g. 'credit concern', 'good credit', etc 
+Tagg is able to provide term information for each counterparty, but since it 
+is a time-intensive process, Ron Nolte is looking
+into adding a button in tagg that will allow this and/or create a special 
+customized ongoing report;
+I am in the process of completing the remaining two columns (i.e. do they 
+sign confirms?, if they don't, reasons why?)
+Overall, I think that this new format, including my proposed aging schedule, 
+will be a valuable 'tool' for all involved in our
+follow-up work. 
+Thanks
+David
+Carol St Clair                07/06/2000 11:05 AM
+David:
+Please keep in mind that we are not basing our decision on which 
+counterparties to contact solely based on exposure and credit concern 
+information, but rather based on all of the categories that Mark Taylor and I 
+have asked you to compile with respect to each counterparty so I don't want 
+the exposure numbers to be limited to any particular type of counterparty.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+David P Dupre
+07/06/2000 10:28 AM
+Hi,
+I don't know how this was settled between Carol and Russell, and  I don't 
+understand why Russell would not
+want to provide this exposure information to us.
+As we discussed earlier last month, I think it would be good to select a 
+date, let's say July 5th in this case, and then go forward.
+I like your idea of identifying whether the c/p is a 'credit concern' or a 
+'good credit', perhaps this could be listed in the 'status' column
+on the following spreadsheet.
+I have attached a list of updated counterparty names.
+Thanks
+David
+How did things get settled between Carol and Russell?   Looking over the 
+spreadsheet itself, I would be able to tell you right off which 
+counterparties we consider "Credit Concerns", where you would then prioritize 
+on your end.  Even though some counterparties may high high exposures, we 
+consider them to be "Good Credits" (for example Duke).  Once again, financial 
+exposures vary (sometimes very significantly) from one day to the next Therefore the totals you'll have for current exposures will not be validated 
+for more than a week, at the max.
+Let me know how you want to go about this.  I think if I highlight which 
+counterparties we feel you should look into, this would go a lot faster.
+--VE
+Susan and Samantha:
+This is a file that apparently Shari worked on and Susan Flynn gave to me.  I 
+have resolved the last tax issue and I will mark up the existing draft which 
+then should be ready to sign.  There are some Guaranty issues that I need to 
+take care of but in the meantime I will need one of you to revise the draft 
+and coordinate getting it signed by the counterparty.
+Carol
+Tana:
+I sent to Luke Mickum a new draft of the Engage US amendment.  He never did 
+send me his comments.  The file with the new draft will be with the files 
+near the window just in case.   He wants to resolve the US one before we 
+resolve the Canada one.  Coastal is now going to Guaranty the US one.  I'm 
+not yet sure if they will also Guaranty the Canada one so we might end up now 
+with 2 separate guarantys.  I'll keep you posted. 
+Carol
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+LKeene@milbank.com
+07/07/2000 03:45 PM
+Attached, please find an updated version of the Project Margaux Closing 
+Documents List.? Amendments to the document reflect comments received from 
+various parties, including V&E and Linklaters during a conference call this 
+afternoon 
+Kind Tom Siebens 
+Lonnie Keene 
+??????? ??????? ??????? ?  <<#20042441 v6 - PROJECT MARGAUX - CLOSING 
+DOCUMENTS LIST.doc 
+- #20042441 v6 - PROJECT MARGAUX - CLOSING DOCUMENTS LIST.doc
+Zulie:
+I am teaching a junior achievement course to a third grade class at my son's 
+school.  I would like to reward these kids for the work that they have done 
+and someone in my group mentioned that in some cases, Enron has something 
+akin to a "goodie bag" that they give out to kids.  Would I be eligible for 
+this?  I wasn't sure if I would and thought that at least it doesn't hurt to 
+ask.  My extension is 33989.
+Carol
+Pablo:
+Thanks.  We really need to finalize everything by mid-week as the online 
+folks are planning their roll-out at the end of this week.  Please do 
+whatever you can to have something final for us in the nexy day or two as I 
+cannot hold them off any lomger.  In the amentime, I will take a look at 
+this 
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+"Pablo Perezalonso"  	07/07/2000 08:52 PM
+Attached please find an initial draft of the questionaire. We are still 
+working on it and we will send a revised draft next week.
+Pablo Perezalonso Egu?a
+Ritch, Heather y Mueller, S.C.
+pperezalonso@rhm.com.mx
+tel: (52) 5-2076533
+- questionnaire on Internet trading on commodities.DOC
+Steve:
+I'm pretty much day to day now.  The latest that I expect to be here is 
+Friday of this week.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+steven.kessler@db.com
+07/10/2000 07:42 AM
+Hi Carol--
+Sorry for the delay--people are away this time of year.  I wil try and send
+out a new draft tonight.  Do you know when your last day is?  Thanks,
+Steve
+Carol.St.Clair@ on 07/07/2000 08:58:06 AM
+Steve:
+Could you please update me on where things stand as I will be on my leave
+shortly?  Is there any chance of getting a new draft of the schedules and
+have
+you had a chance to review the new draft of Guaranty that I sent to you?
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+The ACE folks are not available until sometime after 4 your time today Would you be available at that time?
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Rod:
+Thanks.  I expect to get a new draft of the Schedules from DB later today As for the crib, it is perfect and Bill and a friend managed to put it 
+together.  Thanks so much for lending it to us.  I'm hoping that we will have 
+a child to put in it within the next week.  As for Mexico, the issue there is 
+that they do not recognize setoff in bankruptcy so that if deals are done 
+with 2 different Enron counterparties we will not be able to setoff.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Rod Nelson
+07/10/2000 01:21 AM
+I will continue with this one, for as long as we can adapt to the time 
+difference.  I will approve the A/A2 minimum requirement.
+Did Bill get the crib together?
+Rod
+Carol St Clair                07/07/2000 10:12 AM
+Rod:
+I don't know if you are still handling this.  We are close to getting this 
+finalized.  One credit comment from them that I need someone's thoughts on They want the Issuer of LC's to maintain a credit rating of A from S&P and A2 
+from Moody's.  We usually put A- and A3.  are you okay with this?  If I need 
+to run this by someone else please let me know.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Mr. Davis:
+Thanks you for your reply.  I will call your attorney.  Enclosed is the 
+guaranty amendment letter 
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+"Davis, Michael"  	07/10/2000 09:08 AM
+Ms. St Clair:
+Questions reference the comments to the ISDA draft should be directed to
+Edward Hammond at 414-297-5619.  Ed is the attorney reviewing the ISDA
+draft.
+Please email your Guaranty amendment to me again and I will forward to our
+attorney for review.  As I will be on vacation from Friday, July 14 through
+Wednesday, July 19, I would like to resolve at least the Guaranty amendment
+prior to my departure.
+Suzanne:
+Could you obtain a few of each of these for me or if they are available 
+on-line let me know where?  We alos need to talk about getting my office 
+ready for the move.  Please stop by when you can.  Thanks.
+Carol
+"Bill St. Clair"  	07/10/2000 08:49 AM
+Carol,
+?
+I thought of some other forms we may need during  the next 6 months.? If the 
+forms shown below are readily available, could  you bring a couple of them 
+home?
+?
+Medical Claim Form
+Dental Claim Form
+Employee Expense Reimbursement Form
+?
+Hope you are feeling well today!
+?
+Thanks,
+Bill
+?
+?
+?
+Scott:
+We are on for 4 your time.  Just let me know who to call.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+"SCOTT AVITABILE"  	07/10/2000 09:43 AM
+I am available anytime this afternoon.
+>> "Carol St Clair The ACE folks are not available until sometime after 4 your time today.  Would
+you be available at that time?
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Tana:
+Here is where things stand on Engage:
+1.  Engage Energy US LP - Luke and I have agreed on the new draft of 
+amendment.   The Credit Support Provider will be Coastal.  Luke is sending me 
+their form of Guaranty which I will take a look at.  It will cover just the 
+Engage Energy US financial transactions and have a cap of $10,000,000 
+2. Engage Energy Canada LP - It will stay as currently written although the 
+Guaranty from Westcoast will have now a cap of $10,000,000 and only cover the 
+Engage Canada financial transactions.
+I need to make some minor chnages to the Engage US amendment and then it will 
+be ready and you can coordinate with Luke in getting it executed.
+Carol
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Luke.Mickum@EngageEnergy.com
+07/10/2000 10:47 AM
+Attached is the standard Coastal guaranty form we use for ISDAs.? I 
+understand this ISDA is just for these financial instruments and not for the 
+physical side of the business.? Please give me your comments, if any.
+We will split the guaranty with a Coastal guaranty for Engage US and 
+Westcoast for Engage Canada.?? Since the new threshold is $10 million, the 
+Coastal guaranty cap is $10 million 
+??????? ??????? ??????? ??????? ??????? ??????? ??????? ??????? Luke 
+- Guaranty form ISDA-Engage.doc
+Jeff:
+Here is what I have on the form of financial GTC
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Mary:
+Debra said that you might have some ideas as to whom I can contact.  Susan 
+Flynn gave me Zulie Flores' name.
+Carol
+Carol St Clair
+04/14/2000 11:12 AM
+Debra:
+Susan Flynn mentioned that you might be able to help me out on getting some 
+Enron stuff for the kids that I teach Junior Achievement to at my son's 
+school.  I have been trying to contact someone that would be willing to give 
+this class some Enron freebies with no luck.  I think that Marge Nadasky was 
+the last person that my secretary talked to.  Do you know of anyone that can 
+help me out?
+Carol
+Tanya:
+When the Columbia purchase was done in January, did the 1/30/98 ISDA Master 
+between ENA and Columbia Energy Services Corporation stay with Columbia or 
+come over to us?  The reason that I am asking is that they have sent ENA a 
+letter notifying us of Columbia's transfer of its rights under such Master to 
+The New Power Company, so it seems as if they believe that that Master was 
+not part of our acquisition.  Who in credit needs to be aware of this if in 
+fact this Master will be assigned to New Power?
+Carol
+Mark:
+Who should handle this?  Given my situation, I would prefer not to take this 
+on and I have talked to Seth about my situation.  Please let me know what you 
+think.  Would this be something that Lou Stoler would work on with our help?
+Carol
+Seth Hurwitz@
+07/06/2000 12:11 PM
+Carol, I'd like to speak with you regarding the following structure proposed 
+by Sorema, which address the fact that they can't sell/buy derivatives and 
+can't reinsure any contract governed by NY law.  The credit issue 
+remains--they propose solving it by means of an assignment clause.
+Sorema did six deals with us last year using Palladium.
+Seth
+x37487
+inouar@soremagrp.com on 07/06/2000 10:29:19 AM
+PLease find attached an explanation of the structure we are looking at.
+Idriss.
+(See attached file: Weather Derivatives Reinsurance.doc)
+- Weather Derivatives Reinsurance.doc
+Gene:
+Enclosed for your review is a revised draft of the Amendment Agreement (clean 
+and marked).  I will fax to you the confirmations that are described under 
+"Exempt Transactions".  I have faxed to Chase the confirmations that are to 
+be assigned.  I look forward to hearing from you.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Russell:
+Please call him about this.
+Carol
+"Davis, Michael"  	07/10/2000 04:13 PM
+Carol,
+We are fine with proposed amendment, item (2) in the June 14, 2000 letter.
+I don't understand the purpose for the increase to $10 million proposed in
+item (1).  Is this based on current business or some internal credit policy?
+My records show, with the exception of June, ESI is in a net sell position
+pretty much through the term of the Guaranty.
+Please advise and provide your detail if you show otherwise.
+Brant:
+Please call me about this.
+Carol
+Tanya Rohauer
+07/10/2000 02:48 PM
+My understanding is it stayed with Columbia and we have continued to transact 
+under it.  I do not know The New Power Company; Brant would probbaly be the 
+best person to review the credit and determine if we are OK with the 
+assignment.  Why are they sending us "notification" - don't they need to 
+obtain our consent?
+Thanks,
+Tanya
+Carol St Clair                07/10/2000 02:35 PM
+Tanya:
+When the Columbia purchase was done in January, did the 1/30/98 ISDA Master 
+between ENA and Columbia Energy Services Corporation stay with Columbia or 
+come over to us?  The reason that I am asking is that they have sent ENA a 
+letter notifying us of Columbia's transfer of its rights under such Master to 
+The New Power Company, so it seems as if they believe that that Master was 
+not part of our acquisition.  Who in credit needs to be aware of this if in 
+fact this Master will be assigned to New Power?
+Carol
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Rod Nelson
+07/10/2000 10:30 AM
+No problem on the crib.  As for Mexico setoff, I am aware.  I was under the 
+impression that even setoff among common entities is questionable.  My 
+rationale is that we will almost certainly trade with any given cp through 
+one Enron entity or the other, and not both.  If I am wrong, we will manage 
+the process internally (i.e. cut the cp's credit line in half).
+Rod
+Carol St Clair                07/10/2000 08:47 AM
+Rod:
+Thanks.  I expect to get a new draft of the Schedules from DB later today As for the crib, it is perfect and Bill and a friend managed to put it 
+together.  Thanks so much for lending it to us.  I'm hoping that we will have 
+a child to put in it within the next week.  As for Mexico, the issue there is 
+that they do not recognize setoff in bankruptcy so that if deals are done 
+with 2 different Enron counterparties we will not be able to setoff.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Rod Nelson
+07/10/2000 01:21 AM
+I will continue with this one, for as long as we can adapt to the time 
+difference.  I will approve the A/A2 minimum requirement.
+Did Bill get the crib together?
+Rod
+Carol St Clair                07/07/2000 10:12 AM
+Rod:
+I don't know if you are still handling this.  We are close to getting this 
+finalized.  One credit comment from them that I need someone's thoughts on They want the Issuer of LC's to maintain a credit rating of A from S&P and A2 
+from Moody's.  We usually put A- and A3.  are you okay with this?  If I need 
+to run this by someone else please let me know.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Mark:
+I received a notice in the mail in connection with Columbia Energy Services 
+Corporation's sale of its "Mass Markets" business to The New Power Company The purpose of the notice was to inform us that effective July 31, 2000 
+Columbia would be assigning its interest in the January 30, 1998 ISDA Master 
+Agreement that it has with ENA to New Power as well as all transactions under 
+it.  Please call me if you have any questions about this.  I expect that we 
+will receive shortly a formal consent agreement.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Luke:
+I will take a look at this either tonite or in the morning.  Since the UEI 
+Holdings Guaranty which we reference in paragraph 9 of the Amendment covered 
+both US and Canada transactions, I don't think that we can say that it has 
+been terminated until we sign up the Engage Canada deal.  Can you add 
+language to the Coastal Guaranty that takes care of this instead.  I would 
+prefer to say in paragraph 9 of the Engage US amendment that "The Guaranty of 
+Party B dated as of May 19, 1997, heretofore delivered by UEI Holdings Inc formerly known as Union Energy Inc. in favor of Party A as beneficiary, is 
+hereby replaced by an executed Guaranty from Coastal Corporation, a copy of 
+which is attached hereto as Exhibit B but only with respect to the 
+obligations of party B under the Master Agreement that are guaranteed 
+thereunder."  Let me know what you think 
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Luke.Mickum@EngageEnergy.com
+07/10/2000 10:47 AM
+Attached is the standard Coastal guaranty form we use for ISDAs.? I 
+understand this ISDA is just for these financial instruments and not for the 
+physical side of the business.? Please give me your comments, if any.
+We will split the guaranty with a Coastal guaranty for Engage US and 
+Westcoast for Engage Canada.?? Since the new threshold is $10 million, the 
+Coastal guaranty cap is $10 million 
+??????? ??????? ??????? ??????? ??????? ??????? ??????? ??????? Luke 
+- Guaranty form ISDA-Engage.doc
+David:
+Plrease send me a hard copy of this.  I had trouble printing it out.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+David P Dupre
+07/10/2000 10:59 AM
+This is one report of many to select from 'credit aggregation'.
+Let's talk about this when you have an opportunity.
+Thanks
+David 3-3528
+Mark:
+Here is a first cut at where things stand on projects that I am handling.  I 
+will continue to update it as long as I am here, but thought you should have 
+it just in case.  All of these files are on top of the file cabinets near the 
+window.
+Carol
+Suzanne:
+Please set up a 1 hour meeting sometime next week with the following folks to 
+talk about weather issues:
+me
+sara
+Lucy Ortiz
+Gary Taylor
+Seth Hurwitz
+Lucy can help you pick a time that works for her group.  thanks.
+carol
+Luke:
+Here are my comments to the form of Guranty:
+1. I thought that this Guaranty would only cover the Engage US Agreement.
+2. What cap number do you plan to insert in Section 1(c)?  I'm assuming $10M 
+if the Guaranty only covers Engage US.
+3. In Section 6, there should be no restriction on our ability to assign our 
+rights under the Guaranty in connection with any assignment of the swap that 
+is done in accordance with the Master Agreement.  The restriction should only 
+be on the Guarantor's right to assign.
+4. Please add a section that prohibits amendments without our consent.
+5. For notice purposes to ENA please add the following:
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Luke.Mickum@EngageEnergy.com
+07/10/2000 10:47 AM
+Attached is the standard Coastal guaranty form we use for ISDAs.? I 
+understand this ISDA is just for these financial instruments and not for the 
+physical side of the business.? Please give me your comments, if any.
+We will split the guaranty with a Coastal guaranty for Engage US and 
+Westcoast for Engage Canada.?? Since the new threshold is $10 million, the 
+Coastal guaranty cap is $10 million 
+??????? ??????? ??????? ??????? ??????? ??????? ??????? ??????? Luke 
+- Guaranty form ISDA-Engage.doc
+Jeff:
+FYI.  Let me know if you have any thoughts on this.  Mark and I hope to talk 
+with Pablo sometime tomorrow.
+Carol
+"Pablo Perezalonso"  	07/07/2000 08:52 PM
+Attached please find an initial draft of the questionaire. We are still 
+working on it and we will send a revised draft next week.
+Pablo Perezalonso Egu?a
+Ritch, Heather y Mueller, S.C.
+pperezalonso@rhm.com.mx
+tel: (52) 5-2076533
+- questionnaire on Internet trading on commodities.DOC
+Pablo:
+Mark Taylor and I would like to talk with you about this sometime tomorrow Looks like anytime after 2:30 Houston time would work best for us.  Are you 
+available?
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+"Pablo Perezalonso"  	07/07/2000 08:52 PM
+Attached please find an initial draft of the questionaire. We are still 
+working on it and we will send a revised draft next week.
+Pablo Perezalonso Egu?a
+Ritch, Heather y Mueller, S.C.
+pperezalonso@rhm.com.mx
+tel: (52) 5-2076533
+- questionnaire on Internet trading on commodities.DOC
+Pablo:
+10 o'clock works for both of us.  We will call you.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+"Pablo Perezalonso"  	07/11/2000 11:05 AM
+It would be better in the morning. I am flying to NY tomorrow afternoon. I 
+have to leave my office at 3.
+Pablo Perezalonso Egu?a
+Ritch, Heather y Mueller, S.C.
+pperezalonso@rhm.com.mx
+tel: (52) 5-2076533
+Pablo:
+Mark Taylor and I would like to talk with you about this sometime tomorrow.
+Looks like anytime after 2:30 Houston time would work best for us.  Are you
+available?
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+"Pablo
+07/07/2000
+08:52 PM
+Attached please find an initial draft of the questionaire. We are still
+working on it and we will send a revised draft next week.
+Pablo Perezalonso Egu?a
+Ritch, Heather y Mueller, S.C.
+pperezalonso@rhm.com.mx
+tel: (52) 5-2076533
+(See attached file: questionnaire on Internet trading on commodities.DOC)
+Henry:
+Enclosed are clean and marked revised drafts of the Schedules.  As we 
+discussed, I have bracketed those sections that are still open.  Please note 
+that since May, 2000 when the initial draft was sent to you we have updated 
+our forms and I have included our new form language in Part 3, Sections (a) 
+and (b), part 6, Sections (g) and (h), Paragraph 13 (g) and the LC form Alos, I have made the chnages that you requested to the Enron Guaranty.  Are 
+those chnages also acceptable for the ERI Guaranty?
+I look forward to hearing from you.  I will be leaving to go on maternity 
+leave at the end of this week.  In my absence, please contact Susan Bailey at 
+713-853-4737 who will coordinate with another attorney in our group to get 
+this finalized.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Carol
+Steve:
+Can you call me about this when you have some time?
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Carol St Clair
+06/29/2000 11:30 AM
+Steve:
+It has come to my attention that we made need another agreement similar to 
+the one that we did with the ANNEX A form to cover the GTC's that Puget is 
+bound by when it trades online with us.  I have enclosed the online GTC.  It 
+is very similar to Annex A but I think that we need to deal with it 
+separately.  Let me know what you think.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Christine:
+John Suttle will be sending you by fax our the Assignment executed by ENA Could you please send me the signature pages for Chase and Barrett once they 
+have been executed?  Thanks.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Michele:
+I just wanted to confirm with you that you had everything you need in 
+connection with my maternity leave/leave of absence.  As I think I indicated 
+to you, the December 31 date that Mark gave in his e-mail to you is a 
+"tentative" date and I may return earlier or with Mark's permission, extend 
+the date.  Please call me if you have any questions.  I will send you the 
+doctor's note showing the delivery date once that occurs.  could you please 
+send me your fax number?  Also, could you please have someone deliver to me 
+(EB 3892) the insurance form that I need or fax it to me at 646-3393.  Thanks.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Jaime:
+Could you please send me the English version of this?  Alos, Mark Taylor and 
+I will be talking with our Mexican  counsel tomorrow morning and I will 
+update you after our call.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Jaime Williams@
+07/11/2000 12:51 PM
+Jaime Williams
+07/11/2000 12:50 PM
+Guys, just senidng you the cover letter that will go to our customers 
+whenever we are ready...Carol, I included the wording provided by our Mexican 
+Lawyer..Let me know...Thanks. 
+Ed:
+Congratulations on getting Project Motown closed.  It was a pleasure to work 
+with you and Mike and I hope that we get the opportunity to work together 
+again sometime soon.  Could you please make sure that our group gets an 
+executed set of the swap related docs?  You can coordinate with through Susan 
+Flynn, a legal assistant in the swap group whose number is 713-853-0975 Thanks.
+carol
+Rod:
+FYI.  I will take a look at this and e-mail you with remaining credit issues 
+hppefully before I go on leave.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+steven.kessler@db.com
+07/11/2000 02:10 PM
+Hi Carol:
+Enclosed is latest draft.  Please note that I changed DB's Threshold at A+
+to bring it into line with Enron's rating.  I also added a sweep-in clause
+to deal with the BT Transactions (Section 18).  Please let me know if those
+provisions are acceptable.  Subject to internal DB approvals, I think the
+other substantive points still open are (i) a Moody's rating for the MAC
+clause, (ii) the demand section in the Guaranty, and (iii) determining the
+L/C provisions and mechanics.  Please let me know who your replacement on
+this matter will be and, if we don't speak before you leave, good luck and
+congratulations.
+,
+Steve
+07/11/2000 01:49 PM
+Kelly Habenicht
+Kelly Habenicht
+Kelly Habenicht
+07/11/2000 01:49 PM
+07/11/2000 01:49 PM
+(See attached file: ENRON SCHEDULE (NEW VERSION).DOC)(See attached file:
+ENRON PARAGRAPH 13.DOC)
+- ENRON SCHEDULE (NEW VERSION).DOC
+- ENRON PARAGRAPH 13.DOC
+Steve:
+Thanks.  I'm  not sure who my replacement will be but you can contact either 
+of the following legal assistants in our group whop will know how to help you:
+Susan Bailey 713-853-4737 or Samantha Boyd 713-853-9188.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+steven.kessler@db.com
+07/11/2000 02:10 PM
+Hi Carol:
+Enclosed is latest draft.  Please note that I changed DB's Threshold at A+
+to bring it into line with Enron's rating.  I also added a sweep-in clause
+to deal with the BT Transactions (Section 18).  Please let me know if those
+provisions are acceptable.  Subject to internal DB approvals, I think the
+other substantive points still open are (i) a Moody's rating for the MAC
+clause, (ii) the demand section in the Guaranty, and (iii) determining the
+L/C provisions and mechanics.  Please let me know who your replacement on
+this matter will be and, if we don't speak before you leave, good luck and
+congratulations.
+,
+Steve
+07/11/2000 01:49 PM
+Kelly Habenicht
+Kelly Habenicht
+Kelly Habenicht
+07/11/2000 01:49 PM
+07/11/2000 01:49 PM
+(See attached file: ENRON SCHEDULE (NEW VERSION).DOC)(See attached file:
+ENRON PARAGRAPH 13.DOC)
+- ENRON SCHEDULE (NEW VERSION).DOC
+- ENRON PARAGRAPH 13.DOC
+This is in my directory under cstclai/specproj/ace insurance
+Susan and Samantha:
+I thought that both of you should have this.  This is the new draft of 
+Deutsche Bank schedules which I plan to review.  I have forwarded this to Rod 
+Nelson.
+steven.kessler@db.com
+07/11/2000 02:10 PM
+Hi Carol:
+Enclosed is latest draft.  Please note that I changed DB's Threshold at A+
+to bring it into line with Enron's rating.  I also added a sweep-in clause
+to deal with the BT Transactions (Section 18).  Please let me know if those
+provisions are acceptable.  Subject to internal DB approvals, I think the
+other substantive points still open are (i) a Moody's rating for the MAC
+clause, (ii) the demand section in the Guaranty, and (iii) determining the
+L/C provisions and mechanics.  Please let me know who your replacement on
+this matter will be and, if we don't speak before you leave, good luck and
+congratulations.
+,
+Steve
+07/11/2000 01:49 PM
+Kelly Habenicht
+Kelly Habenicht
+Kelly Habenicht
+07/11/2000 01:49 PM
+07/11/2000 01:49 PM
+(See attached file: ENRON SCHEDULE (NEW VERSION).DOC)(See attached file:
+ENRON PARAGRAPH 13.DOC)
+- ENRON SCHEDULE (NEW VERSION).DOC
+- ENRON PARAGRAPH 13.DOC
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Enron@
+Sent by: Enron Announcements@
+07/11/2000 12:53 PM
+A payment test file was sent to the bank in error and, as a result, a deposit 
+was posted on Monday, July 10, 2000.  This impacts only employees who utilize 
+direct deposits (ACH) and are paid semi-monthly.
+To correct this situation, on Tuesday, July 11, 2000 a withdrawal of the 
+amount deposited will be processed.  Your bank may not post this transaction 
+until Wednesday, July 12, 2000.
+If you have any questions, please call (713) 345-5555.  We apologize for any 
+inconvenience.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Jeff Blumenthal
+07/11/2000 05:42 PM
+Carol,
+I've reviewed the attached questionnaire and have the following comments:
+1.  Section 5. --  I am not aware of any restrictions on the ability of a 
+non-Mexican entity to offer financial derivatives to Mexican counterparties 
+where such countparties are "vetted" before trading commences.  It seems 
+that, for so long as derivatives are not offered to the public at-large, then 
+such an offerings can be made.
+2.  Section 9(c) -- A withholding tax, as well as value-added tax, will apply 
+to payments made by a Mexican counterparty to a non-Mexican entity pursuant 
+to certain financial derivative transactions.  In addition, a non-Mexican 
+entity making payment to a Mexican counterparty will be required to pay 
+Mexican value-added tax pursuant to those certain transactions.  (Please 
+refer to the e-mail that I sent yesterday, which indicates that payments 
+pursuant to those 16 financial derivative transaction descriptions provided 
+to me by Jaime Williams will not be subject to any Mexican withholding or VAT 
+tax since they fall outside of the regime that would otherwise subject such 
+payments to Mexican tax.)  I have been working extensively with Mexican tax 
+counsel on these issues, so please consider Rich, Heather y Mueller's "No" 
+response as relevant only to a tax applicable to transactions conducted 
+through the internet (and not with respect to the underlying transaction).
+Please call me at ext. 35777 with any questions.
+.
+Carol St Clair                07/11/2000 09:53 AM
+Jeff:
+FYI.  Let me know if you have any thoughts on this.  Mark and I hope to talk 
+with Pablo sometime tomorrow.
+Carol
+"Pablo Perezalonso"  	07/07/2000 08:52 PM
+Attached please find an initial draft of the questionaire. We are still 
+working on it and we will send a revised draft next week.
+Pablo Perezalonso Egu?a
+Ritch, Heather y Mueller, S.C.
+pperezalonso@rhm.com.mx
+tel: (52) 5-2076533
+- questionnaire on Internet trading on commodities.DOC
+Harry:
+Thanks.  I am due to go on maternity leave in a few days so it is more likely 
+that either Leslie Hansen or Mark Taylor will be handling this.    Any 
+amendments to the PA or ETA will need to be cleared through Dave Forster.
+Harry Bucalo
+07/11/2000 04:57 PM
+Dear Carol:
+Thank you for your time this afternoon.  I will fax the language that was 
+sent by AK Steel.  Bill Berkeland in the Mid-Marketing group will be sending 
+you an e-mail with the AK Steel legal contact.  If there is any other 
+information that you need please contact me.
+Thanks
+Harry Bucalo
+EnronOnline
+X3-9196
+Guys:
+I am faxing to you my comments to the latest draft of the Policy in case I am 
+not in the office tomorrow.  Please call me or Bill with your comments when 
+convenient so that we can respond to ACE.  Looks like we are really close.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Susan Bailey
+07/11/2000 07:25 PM
+Carol,
+I neglected to note that Enertek, S.A. de C.V. has also been assigned to 
+Samantha.
+Susan S. Bailey
+Susan Bailey
+07/11/2000 07:10 PM
+Carol, 
+Per your request, attached is a list of the active Susan Flynn files (active 
+according to our recent Legal/Credit), for which have now
+been assigned to either Samantha or me.
+Susan S. Bailey
+Tana:
+Sara worked on this but I agree with you.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Tana Jones
+07/11/2000 01:25 PM
+This counterparty came across on my online list for today.  I took a look at 
+the master you have in your office, and to me it seems to be approved for all 
+products, including weather & pulp & paper, just not FX.  In Susan Flynn's 
+email she said no pulp & paper.  Which is correct?
+Susan:
+Please set up a meeting with Brenda Funk, you, me and Sara next week to go 
+through the closing files that you have for the year end deals.  Also, I have 
+left in your chair the final versions of the swap docs for Project Motown and 
+have asked Ed Feo of Milbank, Tweed to coordinate with you in sending closing 
+sets.  Dan Lyons was the lead attorney on this deal.  Ed's number is 
+213-892-4417.
+carol
+anne:
+This is what I sent to our online approval person last week.  I am going on 
+maternity leave in a few days so please contact Mark taylor at 853-7459 to 
+get this finalized.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+"Love, Anne"  	07/05/2000 03:54 PM
+Carol, please go ahead and have the 'under review' sections of the draft
+read by the Enron Online person for approval, as the remaining comments are
+not contentious.
+I will send the mark-up to Marketing to see while we await for your reply.
+Thank you
+Anne Love
+Ann:
+I am faxing to you my remaining comments which I hope we can resolve before
+I run this by the Enron Online person for approval.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+"Love, Anne"
+Carol, attached is the agreement with the changes you requested and my
+suggested wording to Section 4. I trust I picked up your changes correctly,
+as they were not too clear on the fax.
+Except for two small changes in 4,(adding the word "on" in line 12, and
+changing "confirmed" to "executed" in the last line) I did not make the
+changes you faxed on 2(g) or 4 as we require some language to carve out of
+those limitaions the information we use for our offer. Please see what I
+suggested instead of the wording sent last time.
+Trust this will be acceptable and we can attach this to a letter agreement
+stating this is the ETA. This will also have to be referenced in the
+Password Agreement
+Agreement4.doc>>
+,
+Anne Love
+Phone  403-237-1623
+FAX     403-231-2871
+(See attached file: Electronic Trading Agreement4 blk 3.doc)
+(See attached file: Electronic Trading Agreement4.doc)
+Taffy:
+Please check with Suzanne on how to code my maternity leave/vacation days She has all of the info, including my unused vacation days.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Michele Word@
+07/13/00 09:30 AM
+Hi Mark,
+Please forward this information to the time-keeper in order that her time off 
+will be coded  correctly. An alternative would be for Carol to complete her 
+timesheets before she leaves.  With SAP this can be done in advance.
+Let me know if you have any questions.
+Thanks
+Michele:
+Just to let you know that I have approved the following for Carol:
+1. In addition to the 6 weeks that Enron allows for leave, Carol will add to 
+that period by using any remaining vacation time that she has for 2000 (I 
+believe an additional 10-12 days).
+2. After that time is used up, Carol will be on an unpaid leave of absence 
+until December 31, 2000.
+Please let me know if there is anything else you need.
+Mark
+Gary:
+I am on maternity leave.  Please see Mark Taylor about this.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Gary Taylor
+07/13/00 06:40 PM
+Carol,
+The owner of the following website:   www.weatherrisk.com   has offered to 
+sell the site to us.  We currently own www.weather-risk.com and would like to 
+get rid of the "-" if we could.  We have tentatively negotiated a price of 
+$15,000 for this site.  I would like to sit down with you to discuss our next 
+steps, concerns, issues, etc... at your earliest convenience.
+Please call me to discuss this or to schedule time.
+Thanks and Gary Taylor
+x31511
+Suzanne:
+Thanks.  I just want to make sure that my vacation time gets paid at 100% 
+before I go down to the 90% level.  Thanks for taking care of this.  As you 
+can see, I now have access to my e-mail so when I'm not pumping, feeding, 
+changing diapers, etc...  I acn be checking up on things 
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Suzanne Adams
+07/18/00 05:22 PM
+Carol, I turn it in as sick and Taffy will code it how I turn it in.  I've 
+got it all on the calendar, so it's taken care of 
+Suzanne:
+Thanks.  Is there a polite way to discourage flowers?  Bill is allergic and 
+we just end up throwing them out after a day or 2.  Cash and diaper donations 
+are always acceptable!!! (just kidding).    We have been getting alot of 
+stuff and I really appreciate it.  Thank you notes were sent to you by mail On my mail, just collect it and send it out once a week.  Can you please send 
+those 3 white boxes to me that are in my office at the end of this weeK Bill did talk to his mother and I think persuaded her to wait a few weeks 
+until I'm more mobile which I am hoping will occur in a week or so Hopefully by next week I can be driving.  I'm not getting much sleep but I'm 
+really enjoying this experience.  I think that Charles looks like Bill with 
+my nose but I will let you be the judge when you see him which hopefully can 
+happen in a week or so.  I'll keep in touch and thanks again for all that you 
+have done.  Tell Ric I hope to see him at the club in a few weeks.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Suzanne Adams
+07/18/00 05:23 PM
+You should be getting lots of flowers and gifts because quite a few people 
+have called for your address.  I see your email is working now.  How are 
+things?  Did you talk to your mother-in-law?
+It's been extremely quiet over here, but Susan Bailey is going crazy.  They 
+must have given her what she wanted since she's still here.  No other news 
+Carol St Clair
+07/18/2000 05:19 PM
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Michele Word@
+07/13/00 10:02 AM
+Good Morning,
+She will get 8 weeks of sick pay. Please be sure that her time is coded as 
+sick starting today.
+Thanks
+Carol St Clair @ ECT                07/13/2000 09:55 AM
+Sent by: Suzanne Adams@ECT
+Michele, Carol had her baby last night and had to have a csection.  Does this 
+add time to her maternity leave?  What about the other 26 weeks that we are 
+given for illness.  She can't use them?  Suzanne (Carol's assistant)
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Michele Word@
+07/13/2000 09:30 AM
+Hi Mark,
+Please forward this information to the time-keeper in order that her time off 
+will be coded  correctly. An alternative would be for Carol to complete her 
+timesheets before she leaves.  With SAP this can be done in advance.
+Let me know if you have any questions.
+Thanks
+Michele:
+Just to let you know that I have approved the following for Carol:
+1. In addition to the 6 weeks that Enron allows for leave, Carol will add to 
+that period by using any remaining vacation time that she has for 2000 (I 
+believe an additional 10-12 days).
+2. After that time is used up, Carol will be on an unpaid leave of absence 
+until December 31, 2000.
+Please let me know if there is anything else you need.
+Mark
+Suzanne:
+Some of the 8 week sick pay will be paid at 100% (4 weeks I believe) and some 
+at 90%.  Therefore, please enter my vacation time as vacation time so I get 
+paid 100% and not 90%.  Thanks.  Call us if you have any questions.  Thanks.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Suzanne Adams
+07/18/00 05:41 PM
+Don't you have 8 weeks of sick pay at 100% and then your vacation time How's Charles?
+Carol St Clair
+07/18/2000 05:26 PM
+Suzanne:
+Thanks.  I just want to make sure that my vacation time gets paid at 100% 
+before I go down to the 90% level.  Thanks for taking care of this.  As you 
+can see, I now have access to my e-mail so when I'm not pumping, feeding, 
+changing diapers, etc...  I acn be checking up on things 
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Suzanne Adams
+07/18/00 05:22 PM
+Carol, I turn it in as sick and Taffy will code it how I turn it in.  I've 
+got it all on the calendar, so it's taken care of 
+suzanne;
+chocolate works!
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Suzanne Adams
+07/18/00 05:45 PM
+If you don't want the flowers, call me and I'll come get them.  These people 
+are paying tons of money for them and I don't want to see them go to waste I'm by your house all the time.  I can just stand outside!  Susan Bailey is 
+sending you something from that fancy flower store, I can't think of the name 
+now.  Don't you dare throw that away, I'll rescue it.  Should I have them 
+send chocolate instead?????????  I'll see what I can do if someone else 
+calls.  Remember I'll be out tomorrow at the dentist.  I'm glad I can email 
+you so I don't bother you calling.  I'll get your boxes to you this week and 
+you aren't really getting much mail.
+Carol St Clair
+07/18/2000 05:32 PM
+Suzanne:
+Thanks.  Is there a polite way to discourage flowers?  Bill is allergic and 
+we just end up throwing them out after a day or 2.  Cash and diaper donations 
+are always acceptable!!! (just kidding).    We have been getting alot of 
+stuff and I really appreciate it.  Thank you notes were sent to you by mail On my mail, just collect it and send it out once a week.  Can you please send 
+those 3 white boxes to me that are in my office at the end of this weeK Bill did talk to his mother and I think persuaded her to wait a few weeks 
+until I'm more mobile which I am hoping will occur in a week or so Hopefully by next week I can be driving.  I'm not getting much sleep but I'm 
+really enjoying this experience.  I think that Charles looks like Bill with 
+my nose but I will let you be the judge when you see him which hopefully can 
+happen in a week or so.  I'll keep in touch and thanks again for all that you 
+have done.  Tell Ric I hope to see him at the club in a few weeks.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Suzanne Adams
+07/18/00 05:23 PM
+You should be getting lots of flowers and gifts because quite a few people 
+have called for your address.  I see your email is working now.  How are 
+things?  Did you talk to your mother-in-law?
+It's been extremely quiet over here, but Susan Bailey is going crazy.  They 
+must have given her what she wanted since she's still here.  No other news 
+Carol St Clair
+07/18/2000 05:19 PM
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Michele Word@
+07/13/00 10:02 AM
+Good Morning,
+She will get 8 weeks of sick pay. Please be sure that her time is coded as 
+sick starting today.
+Thanks
+Carol St Clair @ ECT                07/13/2000 09:55 AM
+Sent by: Suzanne Adams@ECT
+Michele, Carol had her baby last night and had to have a csection.  Does this 
+add time to her maternity leave?  What about the other 26 weeks that we are 
+given for illness.  She can't use them?  Suzanne (Carol's assistant)
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Michele Word@
+07/13/2000 09:30 AM
+Hi Mark,
+Please forward this information to the time-keeper in order that her time off 
+will be coded  correctly. An alternative would be for Carol to complete her 
+timesheets before she leaves.  With SAP this can be done in advance.
+Let me know if you have any questions.
+Thanks
+Michele:
+Just to let you know that I have approved the following for Carol:
+1. In addition to the 6 weeks that Enron allows for leave, Carol will add to 
+that period by using any remaining vacation time that she has for 2000 (I 
+believe an additional 10-12 days).
+2. After that time is used up, Carol will be on an unpaid leave of absence 
+until December 31, 2000.
+Please let me know if there is anything else you need.
+Mark
+Harry:
+Leslie Hansen will be handling this matter now while I am on maternity leave.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Harry Bucalo
+07/11/00 04:57 PM
+Dear Carol:
+Thank you for your time this afternoon.  I will fax the language that was 
+sent by AK Steel.  Bill Berkeland in the Mid-Marketing group will be sending 
+you an e-mail with the AK Steel legal contact.  If there is any other 
+information that you need please contact me.
+Thanks
+Harry Bucalo
+EnronOnline
+X3-9196
+Sara:
+Whoever inherits the Deutsche Bank file from me needs to look at this latest 
+draft.  I will indicate this on the updated memo that I send around shortly.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+steven.kessler@db.com
+07/11/00 02:10 PM
+Hi Carol:
+Enclosed is latest draft.  Please note that I changed DB's Threshold at A+
+to bring it into line with Enron's rating.  I also added a sweep-in clause
+to deal with the BT Transactions (Section 18).  Please let me know if those
+provisions are acceptable.  Subject to internal DB approvals, I think the
+other substantive points still open are (i) a Moody's rating for the MAC
+clause, (ii) the demand section in the Guaranty, and (iii) determining the
+L/C provisions and mechanics.  Please let me know who your replacement on
+this matter will be and, if we don't speak before you leave, good luck and
+congratulations.
+,
+Steve
+07/11/2000 01:49 PM
+Kelly Habenicht
+Kelly Habenicht
+Kelly Habenicht
+07/11/2000 01:49 PM
+07/11/2000 01:49 PM
+(See attached file: ENRON SCHEDULE (NEW VERSION).DOC)(See attached file:
+ENRON PARAGRAPH 13.DOC)
+- ENRON SCHEDULE (NEW VERSION).DOC
+- ENRON PARAGRAPH 13.DOC
+Luke:
+What is the status of your review of my comments to this and to the amendment 
+draft and questions that I had?  I am on maternity leave now so please call 
+Tana Jones to finish this and she can get an attorney involved if necessary.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Luke.Mickum@EngageEnergy.com
+07/10/00 10:47 AM
+Attached is the standard Coastal guaranty form we use for ISDAs.? I 
+understand this ISDA is just for these financial instruments and not for the 
+physical side of the business.? Please give me your comments, if any.
+We will split the guaranty with a Coastal guaranty for Engage US and 
+Westcoast for Engage Canada.?? Since the new threshold is $10 million, the 
+Coastal guaranty cap is $10 million 
+??????? ??????? ??????? ??????? ??????? ??????? ??????? ??????? Luke 
+- Guaranty form ISDA-Engage.doc
+Tanya:
+We finally got a draft of the CSA from their counsel.  Just a few questions 
+for you:
+1. Threshold amounts for both of us are $7,500,000.  For some reason, they 
+gave themselves a $15,000,000 threshold.
+2. I am assuming that we want a MAC trigger that will bring the threshold to 
+zero.  Is the MAC trigger for both of us below BBB-?
+3. For the issuer of an LC, they have that the rating can be either A- by S&P 
+or A3 by Moody's.  Do you want to insist on requiring both ratings?
+4. Is our Guaranty cap $15,000,000?
+Carol
+Here is my updated status memo.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Renee:
+Just wanted to confirm that you received the parking form that you needed 
+from my husband by fax this morning and that you have everything that you 
+need.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Sara:
+FYI.  Here is the latest on Equitable Energy.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+hreich@eqt.com
+07/19/00 12:10 PM
+Sue - Russell and I exchanged voicemails yesterday on the status. I reviewed
+the revised drafts. I don't think we're at a point to finalize. Russell and
+Eqt. Energy's Elmore Patterson have not reached closure on credit
+provisions. I think the other changes in the draft are generally ok or need
+a little clarification, e.g. I don't see the relevance of adding Part 6(g)
+and (h) as we don't trade in pulp or paper. Please let me know if we need to
+discuss. Thanks. Henry. (412-553-7711)
+Henry:
+Enclosed are clean and marked revised drafts of the Schedules.  As we
+discussed,
+I have bracketed those sections that are still open.  Please note that since
+May, 2000 when the initial draft was sent to you we have updated our forms
+and I
+have included our new form language in Part 3, Sections (a) and (b), part 6,
+Sections (g) and (h), Paragraph 13 (g) and the LC form.  Alos, I have made
+the
+chnages that you requested to the Enron Guaranty.  Are those chnages also
+acceptable for the ERI Guaranty?
+I look forward to hearing from you.  I will be leaving to go on maternity
+leave
+at the end of this week.  In my absence, please contact Susan Bailey at
+713-853-4737 who will coordinate with another attorney in our group to get
+this
+finalized.
+(See attached file: 175a-ctr.doc)(See attached file: 175a-ctr RED.doc)
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Renee Pena@
+07/19/00 02:12 PM
+Carol, I did receive the form and instructed the proper person to end your 
+parking spending account deduction due to your being on leave.
+Thanks,
+Renee
+Carol St Clair @ ECT                07/19/2000 01:12 PM
+Renee:
+Just wanted to confirm that you received the parking form that you needed 
+from my husband by fax this morning and that you have everything that you 
+need.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Ana:
+I just got to open this up now.  Thanks for sending this and the card.  What 
+a week it has been.  I'm happy to report that we are all home now and except 
+for a lack of sleep, we are all doing well.  I ended up having Charles Eugene 
+by C-section and then had to spend the next 5 days in the hospital while they 
+tried to figure out why he was breathing erratically.  They ran all sorts of 
+tests on him (including a spinal tap) and the good news is that he just had 
+some fluid in his lungs which he didn't get rid of as part of the birthing 
+process.  He is okay now and a true joy!  Arthur and Bill have been a big 
+help.  It's nice to have someone around with me during the day.  Arthur 
+visited my parents right before Charles was born and had a great time.  They 
+spoiled him to death but I was thrilled that he made the trip there and 
+wished we could do that more often.  As for me, I hope to take from now until 
+the end of the year off from work and then decide what I want to do.  I'm 
+looking forward to the extended leave even though most of it will be unpaid 
+but it will be worth it and hopefully Charles will benefit from it.
+How are things with you?  Have you seen the shore house?  It is quite a 
+place.  I'm hoping that mom and sue will come for a visit in late August Sue is Charles' godmother.
+Well I need to get back to the baby.  stay in touch and thanks again for 
+thinking of us.  Pictures will come soon.  Love, Carol
+Ampmstc@aol.com
+07/10/00 05:18 PM
+Dear  Carol, Bill, and Arthur 
+Have been thinking of you and the impending "arrival" in a big way, these
+days...and as a result, wrote a little poem concerning him....and you....here
+goes 
+TO THE CHILD
+You're coming soon, little one
+To fill their lives with love and fun
+and hope, and joy         Their second son          You lucky, lucky boy!
+TO THE PARENTS
+This gift from 'God
+is making his debut              In just a few days
+he's coming to you
+To be loved,
+to be fed,
+to be put to bed
+with music and lullabies
+and kisses when he cries 
+TO HIS BROTHER
+You will help him
+as he grows,
+And love and protect him,
+Heaven knows!
+And there'll be no other
+like his big brother!
+TO THE FAMILY AS ONE
+So love him lots
+with all your heart..
+And help him
+as he makes his start
+into this world
+so very strange
+with every day,
+some kind of change                            But, as one, I know
+you wonderful "three"
+Will adore this addition
+To your "family tree 
+With much love,
+Annie Bananie
+Hope all goes well for you, Carol.....You are always in my thoughts and
+prayers   Let  me know when the great event happens 
+Russell: Thanks for the update.  Please continue to keep Sara and i posted Eventually, someone in the group will be assigned to handle and finalize this.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Russell Diamond
+07/20/00 07:25 AM
+Sara,
+Carol
+I talked to my credit contact at Equitable on Tuesday regarding their credit 
+issues, he was meeting with is management to discuss some of thier issues, I 
+have not heard back from him yet, but will call him today and I will then get 
+back to you.
+Thanks
+Russell
+Carol,
+Hope you are doing well 
+Carol St Clair                07/19/2000 09:28 PM
+Sara:
+FYI.  Here is the latest on Equitable Energy.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+hreich@eqt.com
+07/19/00 12:10 PM
+Sue - Russell and I exchanged voicemails yesterday on the status. I reviewed
+the revised drafts. I don't think we're at a point to finalize. Russell and
+Eqt. Energy's Elmore Patterson have not reached closure on credit
+provisions. I think the other changes in the draft are generally ok or need
+a little clarification, e.g. I don't see the relevance of adding Part 6(g)
+and (h) as we don't trade in pulp or paper. Please let me know if we need to
+discuss. Thanks. Henry. (412-553-7711)
+Henry:
+Enclosed are clean and marked revised drafts of the Schedules.  As we
+discussed,
+I have bracketed those sections that are still open.  Please note that since
+May, 2000 when the initial draft was sent to you we have updated our forms
+and I
+have included our new form language in Part 3, Sections (a) and (b), part 6,
+Sections (g) and (h), Paragraph 13 (g) and the LC form.  Alos, I have made
+the
+chnages that you requested to the Enron Guaranty.  Are those chnages also
+acceptable for the ERI Guaranty?
+I look forward to hearing from you.  I will be leaving to go on maternity
+leave
+at the end of this week.  In my absence, please contact Susan Bailey at
+713-853-4737 who will coordinate with another attorney in our group to get
+this
+finalized.
+(See attached file: 175a-ctr.doc)(See attached file: 175a-ctr RED.doc)
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Suzanne:
+Thanks for the message.  I don't think there is any way that we will get 100% 
+pay on all 8 weeks so let's just go with the 100/90 split.  you may want to 
+ask michelle how best to code it with my vacation time so that they get it 
+right the first time.    as for charles, he is doing great.  i'm typing all 
+small letters now because he is insisting on me holding him, but i'm learning 
+how to do more than 1 thing at a time.  he is a night owl so i try to sleep 
+some in the afternoon and so far so good.  i'm learning how to exist on 
+little sleep.  it is a big help to have bill at home and while charles 
+sleeps, we get alot done as there are still some house things that we need to 
+finish.
+tell dan happy birthday and as for yours, i'll catch up as soon as i become 
+more portable which should be soon.  as for flower pick-up, feel free to stop 
+by after work whenever.  just call and let me know.  i've got 2 baskets that 
+will probably only survive here another day or so so you are welcome to them 
+and you can sneak a peek at charles at the same time 
+well i've got to go.  i'll talk/see you soon.
+carol
+ps - if anyone has some astros tickets for this weekend let me know as bill 
+and arthur may want to go.
+Suzanne Adams
+07/20/00 10:36 AM
+Well, I survived the dentist (7 hours in the chair),  Of course I started my 
+period too, so I had cramps a backache and headache and my mouth open all 
+going on at the same time.  It was NOT fun at all, but I made it through. 
+It's nice to know the worst is over.  My temporaries look pretty good too.  I 
+still have to go by the lab and do a couple of other things, but my permanent 
+teeth should be put in on August 18th.  I'm just going to take the day too 
+because lord only knows how long it'll take!  Then I'm finished until next 
+year!  Whew!
+I'll figure up 4 weeks of sick time and then I'll do your vacation and then 
+do 4 more weeks of sick time.  I emailed Michelle Word from your email if the 
+8 weeks were all 100% paid, so if you get that email, be sure and let me know 
+what she says.  I'm trying to get you 8 weeks at 100% pay 
+It's pretty quiet around here so far today.  Dan's birthday is next Monday 
+and we are going to take him to lunch and I'm getting him cigars (of 
+course).  Mine is also coming up so Ric is going to take me to Pappas 
+Steakhouse.  I've never been there and have been wanting to go.  He's already 
+made the reservations and everything.  I can't believe I'm going to be 
+45!!!!!!!  My body feels every year though!
+How are you adjusting?  Charles sleeping any longer?  Keep in touch.  Oh, I 
+nice one to me.
+Rod:
+Thanks for the message.  We are trying to find a good pediatrician in our 
+area.  Who did you use?
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Rod Nelson
+07/20/00 12:12 PM
+I just heard you had you baby.  Congratulations 
+We are adjusting well.  Nearly finalized are apartment lease 
+Take care, maybe we can speak later.  Tell Bill hello.
+Rod
+Cindy:
+Thought I would try e-mailing you since using the phone is more of a 
+challenge.  So far so good although I can't say that we are on any type of 
+schedule.  Before I forget, what is the name of the breast pump that you are 
+using?  Looks like the one that I have is not that great.  How many ounces 
+should I expect to be able to pump?  I'm trying to judge whether I should 
+keep this pump.  Anyway, back to Charles Eugene, he is pretty much of a night 
+owl so i try to sleep when he does when I can.  We are ion a feeding frenzy 
+every 21/2 to 3 hours and I'm hoping I can extend that at night soon.  Any 
+suggestions?  What type of formula do you use?  Alos, do you have any secret 
+methods for putting Jillian down to sleep?  Do you let her suck on a 
+pacifier?  All Charles wants to do is suck on me.  Arthur was better at 
+falling asleep on his own.
+How's Jillian doing ?  I can't wait to see a picture of her and I will be 
+sending out pictures soon.  Arthur is adjusting well.  He is really into 
+tennis now which I am thrilled about.  We were able to convince Bill's mother 
+not to come this weekend because I am not quite up to a visit.  I think she 
+took it well but you never can tell, but at this point I really don't care 
+what she thinks because i am not ready for her to visit until I'm more mobile 
+which hopefully I will be in another week or 2.
+Sue,
+How are you and Cate doing?  Can you talk to mom about scheduling a  visit so 
+that we can schedule a christening date?  Bill's older sister's husband Bill 
+is the godfather.  Mom mentioned late August but I would like to pin 
+something down soon so that we can make the necessary arrangements.
+Well, I've got to go as I hear Charles waking up.  Take care both of you and 
+call or write me.
+Love, Carol 
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Sara:
+Great news!  I will give her a call on Monday!  Hope all is going well Again, I'm happy to participate in the legal/credit meeting on Tuesday by 
+phone.  Alos, do we need to go through my memo?  Just call or e-mail me.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Sara Shackleton
+07/21/00 11:56 AM
+Tanya:
+I just received a revised draft of the ISDA Schedule.  There is just 1 point 
+that I want to raise with you.  You may recall that in Credit Event Upon 
+Merger we created a special exception for them in connection with their 
+upcoming reorg which stated that either the transferee or its Credit Support 
+Provider would have to have a Credit Rating of BBB- or better OR Baa3 or 
+better.  They now have added this same concept as a carve-out/exception to 
+the "transfer" provisions in section 7, such that upon any transfer, the 
+other party cannot withhold its consent to such transfer if the transferee 
+provides a Guaranty from an entity that meets the above ratings test.  Are 
+you okay with this as a general carve out for all types of transfers?  Our 
+typical language is that we can withhold our consent unless the transferee 
+provides a satisfactory guaranty to us.
+Carol  
+Rod:
+Thanks for the info.  Our family doctor has recommended someone close by so 
+we'll give him a try.  Hang in there on the moving details.  I know that 
+things will settle down soon.  Things are great here.  Charles Eugene seems 
+to be adjusting well and we are really enjoying him.  He'll be in his crib in 
+a few weeks.  As for the swap group, yes they are thin but they appear to be 
+hanging in there.  I spoke with Mark yesterday.  When I left, Sara was in 
+London taking care of her mom who became very ill while ahe was over there She is fine now and Sara is back but Mark pretty much had to handle things on 
+his own for a few days.  He appears to have survived.  we just hired Susan 
+Flynn's replacement so hopefully by the end of August the LA's will be back 
+at full strength which will help out alot.  Take care and keep in touch.  You 
+may be getting some e-mails from Mary Cook about some of my files which she 
+has now inherited.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Rod Nelson
+07/21/00 10:22 AM
+We used a pediatrician in Tomball, Dr. Carr.  Dawn liked him quite well (and 
+I did too), but it's a bit of a drive.  I could ask my wife for other names?
+I'm pulling my hair out with moving details - bank accounts, leases, 
+shipments, tax forms ...  Sara tells me legal is pretty thin these days Credit is the same in Houston.  Tracey is moving to Portland, Christopher 
+left and John is moving to the Market Risk Group.  I got out just in time.
+Carol St Clair                07/21/2000 10:04 AM
+Rod:
+Thanks for the message.  We are trying to find a good pediatrician in our 
+area.  Who did you use?
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Rod Nelson
+07/20/00 12:12 PM
+I just heard you had you baby.  Congratulations 
+We are adjusting well.  Nearly finalized are apartment lease 
+Take care, maybe we can speak later.  Tell Bill hello.
+Rod
+Terry:
+Just wanted to let you know that our son, Charles Eugene, was born on July 
+12th.  He is absolutely beautiful and well worth the long wait and all of the 
+time and effort that it took to have him.  After a prolonged stay in the 
+hospital, we are both home now and doing really well.  I'm on cloud nine and 
+I'm sure that all of this will hit me soon.  Hope you are doing well.  Take 
+care.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Suzanne:
+There is a savings bond program that Enron sponsors for year 2000 newborns Could you please find out what I need to do to apply for one.  I thought that 
+i saw something in workperks about it.  Thanks.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Suzanne:
+Please send this to Scott Sefton and call the Bracewell person and tell them 
+that he is now in charge of this matter.  I haven't had anything to do with 
+this file since I joined the swap group.  Thanks 
+Everything is fine.  Still on a hectic schedule but getting a little more 
+sleep.  We take the baby to the pediatrician on Thursday for his first 
+checkup and I go for mine on Friday.  I've started walking again and some 
+very, very slow jogging (don't tell Bill this).  I feel really good and 
+everything seems to be healing okay.  I've actually cooked a few meals!  I 
+will try to call you in the next day or two.  We've been taking the baby out 
+on short trips in the afternoon just to get out of the house.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Suzanne Adams
+07/25/00 02:32 PM
+Carol, you received an invoice from Bracewell for the Chase Manhattan Bank in 
+connection with 4th Amend to JEDI II credit agreement.  What should I do with 
+it?  Give it to Mark to approve?  Please advise?
+How are things going?
+Dan:
+Thanks for the e-mail.  Things are going very well.  The hospital stay was a 
+little long but once we both got home things got much better.  I miss the 
+work routine but I'm really enjoying my time with both Charles and Arthur, 
+and of course Bill.  I hope to be up and around in a week or so.  my recovery 
+has been slow and steady but except for a lack of sleep, I feel great.  Hope 
+to be running soon.  I'll be up for a visit in a few weeks.  Take care.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Dan Lyons
+07/25/00 12:00 PM
+Hey...I have been derelict in sending congrats....Hope all is going well...I 
+hope that sometime before too long you bring Charles up for us to see.. I was 
+going to call but Sooz said an email would be better...let me know how things 
+are going 
+Love and 
+kisses, 
+Dan
+Sara:
+I will call you probabbly mid-morning tomorrow.  Charles' schedule is still 
+unpredictable, but I'm sure we will hook up one way or another 
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Sara Shackleton
+07/24/00 02:46 PM
+What's the best time to call you to discuss your memo?  Also, unless I hear 
+from you otherwise, I will plan on conferencing you into our legal/credit 
+meeting tomorrow at 2:00 pm.  I have your number as (281) 890-7122.
+Carol St Clair
+07/22/2000 09:12 AM
+Sara:
+Great news!  I will give her a call on Monday!  Hope all is going well Again, I'm happy to participate in the legal/credit meeting on Tuesday by 
+phone.  Alos, do we need to go through my memo?  Just call or e-mail me.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Sara Shackleton
+07/21/00 11:56 AM
+Sara:
+I have not worked with Stikeman but Shari has.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Sara Shackleton
+07/26/00 06:46 PM
+Carol:  Peter del Vecchio is looking for Canadian counsel in connection with 
+a paper acquisition and inquired about Stikeman.  Have you worked with any of 
+their lawyers (perhaps on the Canadian cash collateralization issue)?
+Please give this invoice to Mark and please call whoever sent it and tell 
+them to address all future invoices to Mark.  Thanks.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Suzanne Adams
+07/26/00 03:45 PM
+Carol, I received an invoice from LeBoeuf Lamb regarding the ACE insurance 
+matter.  What should be done with it?
+Michelle:
+I just wanted to confirm that you received our fax yesterday regarding the 
+stork bond application for our son Charles Eugene.  Please confirm when 
+convenient.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+suzanne:
+Could you please print these out for me on Monday?
+Carol
+Corporate Administrative Services
+Attached please find the presentations made by Bryan Begley and Shelley 
+Corman during the 2000 Enron Law Conference last week in San Antonio.  Also, 
+just a reminder to complete the evaluation forms found in your Law Conference 
+notebooks and send them to me in EB4804C.  (If anyone needs a notebook, I 
+have extras).  If you have any questions regarding CLE credit or forgot to 
+fill in the CLE sign-up sheets at the conference, please contact Brenda 
+McAfee.
+Noel:
+I am on maternity leave.  Please contact Sara Shackleton about this.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Noel Petterson@
+07/28/00 02:56 PM
+Carol,
+Tim Reyes of Alcoa would like to make sure that their current master 
+agreement with Enron will encompass trading metal products, specifically, 
+aluminum products on EOL.  I am hoping that you are the correct person to 
+answer his question.
+If you require more information Please contact Mr. Reyes at 865-594-4734.
+Thank you,
+Noel
+Craig:
+Please take me off of this list as I am on maternity leave.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Craig Clark
+07/28/00 11:05 AM
+Amanda, 
+Attached and below is the email distribution list for the Kahuna (Yosemite 3) 
+prepay docs.  All are waiting with baited breath for the first set!
+Doug McDowell  doug.mcdowell@
+Craig Clark   craig.clark@
+Ryan Siurek   ryan.siurek@
+Kimberly Scardino  Kimberly.r.Scardino@us.arthurandersen.com
+Gareth Bahlmann   gareth.bahlmann@
+Clint Walden   clint.walden@
+Kevin D Jordan   kevin.d.jordan@
+Mark Taylor   mark.taylor@
+Carol St Clair   carol.stclair@
+Brent Vasconcellos   brent.vasconcellos@
+AnnMarie Tiller   annmarie.tiller@  
+Tres Cochran  Fcochran@velaw.com
+If any additions or deletions are required, please advise me Thanks
+Craig Clark
+713 853 5862
+Mark:
+Thiat sounds right but I would have Leslie take a look at it.  all of this 
+work is in connection with the deal that we inherited from Lou and it all 
+should be allocated to whatever group Bill Windle and Gauarav Babbar are  a 
+part of.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Mark Taylor
+07/27/00 06:20 PM
+I have received a bill from LeBoeuf for work done in June on the ACE 
+insurance matter for a bit over $36,000.  This included around 23 hours by PB 
+Wright ($12,000) and 38 hours by SD Avitabile ($13,000).  Does that sound 
+right to you?  I have to allocate this to the business units - should it all 
+go to East Power Trading? 
+Kathy:
+I am on maternity leave and will not be able to attend this function.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+=09Kathy Mayfield@
+=09Sent by: Enron Announcements@
+=0907/27/00 06:13 PM
+=09=09=20
+Reminder!
+The United Way Executive Breakfasts are one week away.  Please RSVP if you=20
+have not already done so.
+Date:  Thursday, August 3, 2000 (hosted by Joe Sutton)
+or
+Friday, August 4, 2000 (hosted by Jeff Skilling)
+Time:  7:45-9:00 a.m.
+Location: DePelchin Children=01,s Center
+100 Sandman (near Memorial and Shepherd intersection)
+RSVP:  Reply directly to this email or call Jessica Nunez, 853-1918 by=20
+Monday, July 31=20
+=20
+Transportation:    Bus will depart from the Enron Building (Andrews Street=20
+side) promptly at 7:30 a.m.  Bus transportation is encouraged, due to limited=20
+onsite parking. However, if you should need to drive, directions to DePelchin=20
+are below.
+EXECUTIVE SOLICITATION
+Executive Solicitation kicked-off on July 24 and is well underway. As you=20
+know, participation by Enron=01,s executive team is vital to the success of the=20
+campaign.  To make your contribution, please click on the following United=20
+Way link,   or go directly to Internet Explorer or=20
+Netscape and type in   in the address field.  Either=20
+option should take you to Enron=01,s United Way 2000 Campaign site where you=20
+should be able to make your pledge within minutes.  Please call Kathy=20
+Mayfield, Enron=01,s Campaign Coordinator at 713/853-3264 if you have any=20
+difficulties at all accessing the site.
+We look forward to seeing you next week!
+Directions to DePelchin Children=01,s Center =01) 100 Sandman (713-861-8136)
+From Downtown Houston
+? Take Prairie (which turns into Memorial) or Allen Parkway WEST to Shepherd.
+? Turn RIGHT on Shepherd.
+? Turn LEFT on Feagan (which is the first light after Memorial.)
+? Turn LEFT on Sandman and drive down a couple of blocks.
+From the Galleria Area
+? Take 610 North to the Woodway/Memorial Exit. Exit and turn RIGHT on Woodway.
+? Woodway will turn into Memorial and stay on Memorial until you see the=20
+Shepherd exit.
+? Exit Shepherd and turn LEFT on Shepherd.=20
+? Turn LEFT on Feagan (which is the first light after Memorial.)
+? Turn LEFT on Sandman and drive down a couple of blocks.
+From North of Downtown
+? Take 45 or 59 SOUTH to I-10.  Go WEST on I-10.
+? Take the Shepherd/Durham exit and go through the Shepherd intersection to=20
+Durham.  Go LEFT under the freeway on Durham.
+? Turn RIGHT on Feagan (which will be a light.)
+? Turn LEFT on Sandman and drive down a couple of blocks.
+Suzanne:
+Everything is fine although I am really looking forward to spending more time 
+out of the house.  I think that Bill and I need some space as well.  Can you 
+sense that I am getting restless already?  I am really going to try hard to 
+stay in contact with you and others there because I have discovered that 
+talking to you and the others on the phone or by e-mail gives me a lift Charles is doing well.  I am a little frustrated with the schedule that we 
+are on which seems to vary from day to day but hopefully things will approach 
+normalcy in a few weeks.  we met our new pediatrician this past week and we 
+both really like him.  Charles checked out fine.  He had gained over a pound 
+since leaving the hospital so I am happy that he appears to be getting enough 
+to eat.  My parents and sister are coming around Sept. 23rd for the 
+christening and I am looking forward to that.  Please mark your calendar for 
+that Sunday as I think that we will have something at the house and I very 
+much want you and Ric to come and meet everyone.
+Alos, if people want to visit me here at the house ask them to call me.  I 
+would very much like to see them if they want to stop by.
+I can't believe that I actually miss work but I do.  Hopefully, in a few 
+weeks I acn make some type of proposal to Mark but it is too soon now to do 
+so and I'm not sure that I could fit it in.  Alos, Mark mentioned that I 
+should be getting something in the mail about some stock options that I 
+apparently received recently.  Could you please be on the look-out for it I'm not sure whther all of the lawyers got some so please keep this quiet 
+(which I know you will).
+As for Bill's mother, she turns 80 this week and everyone in the family 
+except Bill and I is going to Florida next weekend for a visit.  I told Bill 
+that he could go but he decided not to.  We bought her some really pretty 
+(and expensive) earrings which I hope she will like.  She has not yet given 
+us a date for her visit and I can't figure out if we are still in the 
+doghouse with her or not because we didn't let her come this past week.  I 
+really don't care what she thinks because it was the right thing to do.
+Well, I've got to go.  hope you had a good weekend and feel free to stop by 
+for a visit.
+Carol
+Suzanne Adams
+07/27/00 05:34 PM
+How are things going at home?  You doing ok? Charles?
+Carol St Clair
+07/27/2000 05:20 PM
+Please give this invoice to Mark and please call whoever sent it and tell 
+them to address all future invoices to Mark.  Thanks.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Suzanne Adams
+07/26/00 03:45 PM
+Carol, I received an invoice from LeBoeuf Lamb regarding the ACE insurance 
+matter.  What should be done with it?
+Tana:
+This should be pretty straight forward.  The only remaining issue was they 
+needed to put in an effective date for the assignment amendment that they 
+wanted us to sign.  The papers should be in my office.  Call me at home if 
+you have any problems.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Tana Jones
+08/01/00 01:14 PM
+Is someone from our group working on this?
+Tracy Ngo
+08/01/2000 07:48 AM
+Tana,
+Before Carol St. Clair left for maternity leave, she was working on the 
+assignment of some financial and gas deals with Christopher Smith (who 
+previously worked in our group).  Since Christopher is no longer here and 
+with Carol being out, I'm scrambling to find out who in the financial team is 
+working on this.
+I've left Mark Taylor a message since Carol's voice mail forwards all 
+questions to Mark.
+Could you let me know if you have any info?
+Thx,
+Tracyh
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Mary Cook
+07/31/00 05:42 PM
+Disregard prior message re forms and please review this attachment instead.
+Mary
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Carol St Clair
+07/10/00 07:00 PM
+Luke:
+I will take a look at this either tonite or in the morning.  Since the UEI 
+Holdings Guaranty which we reference in paragraph 9 of the Amendment covered 
+both US and Canada transactions, I don't think that we can say that it has 
+been terminated until we sign up the Engage Canada deal.  Can you add 
+language to the Coastal Guaranty that takes care of this instead.  I would 
+prefer to say in paragraph 9 of the Engage US amendment that "The Guaranty of 
+Party B dated as of May 19, 1997, heretofore delivered by UEI Holdings Inc formerly known as Union Energy Inc. in favor of Party A as beneficiary, is 
+hereby replaced by an executed Guaranty from Coastal Corporation, a copy of 
+which is attached hereto as Exhibit B but only with respect to the 
+obligations of party B under the Master Agreement that are guaranteed 
+thereunder."  Let me know what you think 
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Luke.Mickum@EngageEnergy.com
+07/10/2000 10:47 AM
+Attached is the standard Coastal guaranty form we use for ISDAs.? I 
+understand this ISDA is just for these financial instruments and not for the 
+physical side of the business.? Please give me your comments, if any.
+We will split the guaranty with a Coastal guaranty for Engage US and 
+Westcoast for Engage Canada.?? Since the new threshold is $10 million, the 
+Coastal guaranty cap is $10 million 
+??????? ??????? ??????? ??????? ??????? ??????? ??????? ??????? Luke 
+- Guaranty form ISDA-Engage.doc
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Carol St Clair
+07/11/00 09:14 AM
+Luke:
+Here are my comments to the form of Guranty:
+1. I thought that this Guaranty would only cover the Engage US Agreement.
+2. What cap number do you plan to insert in Section 1(c)?  I'm assuming $10M 
+if the Guaranty only covers Engage US.
+3. In Section 6, there should be no restriction on our ability to assign our 
+rights under the Guaranty in connection with any assignment of the swap that 
+is done in accordance with the Master Agreement.  The restriction should only 
+be on the Guarantor's right to assign.
+4. Please add a section that prohibits amendments without our consent.
+5. For notice purposes to ENA please add the following:
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Luke.Mickum@EngageEnergy.com
+07/10/2000 10:47 AM
+Attached is the standard Coastal guaranty form we use for ISDAs.? I 
+understand this ISDA is just for these financial instruments and not for the 
+physical side of the business.? Please give me your comments, if any.
+We will split the guaranty with a Coastal guaranty for Engage US and 
+Westcoast for Engage Canada.?? Since the new threshold is $10 million, the 
+Coastal guaranty cap is $10 million 
+??????? ??????? ??????? ??????? ??????? ??????? ??????? ??????? Luke 
+- Guaranty form ISDA-Engage.doc
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Carol St Clair
+07/10/00 10:52 AM
+Tana:
+Here is where things stand on Engage:
+1.  Engage Energy US LP - Luke and I have agreed on the new draft of 
+amendment.   The Credit Support Provider will be Coastal.  Luke is sending me 
+their form of Guaranty which I will take a look at.  It will cover just the 
+Engage Energy US financial transactions and have a cap of $10,000,000 
+2. Engage Energy Canada LP - It will stay as currently written although the 
+Guaranty from Westcoast will have now a cap of $10,000,000 and only cover the 
+Engage Canada financial transactions.
+I need to make some minor chnages to the Engage US amendment and then it will 
+be ready and you can coordinate with Luke in getting it executed.
+Carol
+I want to make sure that Jeff Richter from the power desk knows about this potential increased cost.
+Jim
+How about tomorrow afternoon at 4:00 Houston time?
+=09  =09I think that's a good idea -- particularly w/ respect to the likelihood of passage.  If we could arrange for tomorrow afternoon after 2:00 p.m. CDT that would be great.  I've got a 4:00 and a 5:00 this afternoon.
+=09Thanks,
+=09Stacey Bolton
+=09Environmental Strategies
+=09Enron Corp
+=09713-853-9916 direct=20
+=09713-303-2632 cell=20
+=09sbolton@  =09=20
+=09=09  =09=09Jenny -- I would appreciate you setting up a call with relevant folks to discuss this. Later this afternoon or tomorrow afternoon work well for me.
+=09=09Thx,
+=09=09Elliot
+=09=09=09  =09=09=09Jeff:
+=09=09=09As you may know, at Jim's request, Stacey Bolton reviewed the renewables language in SBX2 79 and SB 532 and identified some important issues.=20
+=09=09=09In a memo she sent out yesterday, she detailed her concerns about these bills (copied below, for your reference). =20
+=09=09=09How do you suggest we proceed?  Shall I arrange a brief call for us with Stacey, Elliot, Mary and Jesse to discuss where we stand and strategy going forward?
+=09=09=09Jennifer =20
+=09=09=09 =09=09=09Overall Concerns: =20
+=09=09=09=091.=09The requirement for retailers to enter into a direct bilateral for the power from renewable energy and schedule it into the CA grid presents limitations and could drive up costs.
+=09=09=09=092.=09It?s unclear if the REC is truly separate instrument from the underlying commodity.  The above requirement indicates that it is not.  This would negatively impact, and even negate the main reasons to have a REC trading program - to provide flexibility and act as verification for the RPS.
+=09=09=09=093.=09The biomass definition is too limiting.  Would be difficult to detail this amount of information on a REC.  Need to have language that distinguishes whether the REC is RPS eligible or not.
+=09=09=09=094.=09Utilities are given preferential treatment in proposed language in that utilities can recover costs through rate base and the Department of Water Resources (SB 532 only) is instructed to purchase renewables on their behalf if it is cost prohibitive for the utilities.
+=09=09=09=095.=09While the cost cap is positive from a retail perspective, it might be out of the market from a wholesale perspective to cover the renewable premiums for new sources.
+=09=09=09  =09=09=09The concerns that I listed at the end of the memo are the ones that I believe need to be addressed and clarified if it appears one of these bills are moving forward at a rapid pace.  Thanks!
+=09=09=09Stacey Bolton
+=09=09=09Environmental Strategies
+=09=09=09Enron Corp
+=09=09=09713-853-9916 direct=20
+=09=09=09713-303-2632 cell=20
+=09=09=09sbolton@  =09=09=09=20
+=09=09=09=09  =09=09=09=09Stacey:
+=09=09=09=09As Jim has asked me to follow more closely CA legislation, I suggest you let both Jeff and me know what your issues are, etc. and we can determine the best way to proceed.
+=09=09=09=09Thanks,=20
+=09=09=09=09Jennifer
+=09=09=09=09=09  =09=09=09=09=09Thanks.  The changes in combination are okay, though it would be better to get the date as Sept '96 for eligibility and interconnected to CA grid.  Also, we still need to work on the REC language (i.e. not mandatorily tied to output power contracts).  What's the best way to approach?  Discuss w/ Jeff Dasovich?
+=09=09=09=09=09Stacey Bolton
+=09=09=09=09=09Environmental Strategies
+=09=09=09=09=09Enron Corp
+=09=09=09=09=09713-853-9916 direct=20
+=09=09=09=09=09713-303-2632 cell=20
+=09=09=09=09=09sbolton@  =09=09=09=09=09=20
+=09=09=09=09=09  
+=09=09=09=09=09FYI - see Scott's message below for an update on SBX2 78. =20
+=09=09=09=09=09Also, I wanted to make sure that you have on your radar screen the most recent versions of the bills you analyzed.   I noticed, for example, that in the most recent version of SB 532 (amended on 8/27) there were some important revisions (for example, see highlighted text).   This bill is avaiable at 
+=09=09=09=09=09Jennifer
+=09=09=09=09=09CHAPTER 5.6. CALIFORNIA RENEWABLES PORTFOLIO STANDARD PROGRAM 25465. For purposes of this chapter, the following terms have the following meanings. (a) "Eligible renewable energy resource" means an electric generating facility or solar thermal energy system that reduces the consumption of electricity through the use of renewable resources and generating facility that meets all of the following criteria: (1) Uses wind, solar, geothermal, or biomass as its primary fuel. (A) A solar thermal energy system that reduces the consumption of electricity may be considered an eligible renewable energy resource. (B) Fuel cells using renewable fuels are an eligible renewable energy resource. (2) Improves the resource diversity in the electricity market that serves the state, and increases the reliability of the state's electricity system. The commission shall deem an electric generating facility or solar thermal energy system to satisfy this requirement if it meets any one of the following criteria: (A) It is located within or interconnected to the control area of the California Independent System Operator, the Los Angeles Department of Water and Power, or the Imperial Irrigation District. (B) Its power is sold under a direct bilateral contract to a retail seller and its energy is scheduled into the control area of the California Independent System Operator, the Los Angeles Department of Water and Power, or the Imperial Irrigation District. (C) It meets other fact-based criteria established by the commission. seller and its energy is delivered to end-use customers within the state. (b) "Eligible existing renewable energy resource" means an electric generating facility that satisfies all criteria in subdivision (a) and is in existence before January 1, 2001 September 26, 1996 . Any facility that sells its output to an electrical corporation under a contract entered into prior to 1996 under the federal Public Utilities Regulatory Policies Act of 1978 (P.L. 95-617) shall be considered an eligible existing resource. (c) "Eligible new renewable energy resource" means output from an electric generating facility that satisfies all criteria in subdivision (a) and meets at least one of the following criteria: (1) The facility commenced initial operation on or after January 1, 2001. September 26, 1996. (2) The output represents incremental production from repowered or refurbished existing facilities and project additions completed on or after January 1, 2001 September 26, 1996 , as measured by the production of kilowatthours above the five-year average of the kilowatthours delivered from the project during the five-year period ending December 31, 2000. kilowatthours previously delivered from the project. Incremental output from repowered or refurbished facilities sold to an electrical corporation under a contract entered into prior to January 1, 2001, that specifies fixed capacity payments for the incremental output may not be considered an eligible new renewable energy resource. (3) The output represents incremental output above levels specified in contracts for facilities defined in subdivision (b).
+=09=09=09=09=09Also: (c) "Eligible new renewable energy resource" means output from an electric generating facility that satisfies all criteria in subdivision (a) and meets at least one of the following criteria: (1) The facility commenced initial operation on or after January 1, 2001. September 26, 1996. (2) The output represents incremental production from repowered or refurbished existing facilities and project additions completed on or after January 1, 2001 September 26, 1996=20
+=09=09=09=09=09  =09=09=09=09=09The Assembly Energy, Costs and Availability Committee heard and voted on
+=09=09=09=09=09amendments to SBX2 78 proposed by many interested parties.  Some passed,
+=09=09=09=09=09some failed and most of them served to further confuse the committee
+=09=09=09=09=09members.  Eventually the committee stalled on detailed proposals made by
+=09=09=09=09=09TURN and other consumer groups.
+=09=09=09=09=09During the hearing Hedy had the opportunity to speak to Nancy McFadden and
+=09=09=09=09=09Richard Katz from the Governor?s office regarding a couple of issues
+=09=09=09=09=09highlighted by Jeff and Mike Day.  Richard said he is willing to make more
+=09=09=09=09=09technical amendments when the bill gets to Appropriations.  Subsequently,
+=09=09=09=09=09Hedy and I spoke to D.J. Smith at Jeff?s request.  D.J. agreed that the bill
+=09=09=09=09=09needs to use the August 24th date as a grandfather date for executed DA
+=09=09=09=09=09contracts, but specifically asked that we (Enron) not speak to Richard about
+=09=09=09=09=09it.  He said he will have the business entities request it as a clarifying
+=09=09=09=09=09amendment.  If we request it, he thought Richard would be less likely to
+=09=09=09=09=09believe it's clarifying since he believes our motives to be too
+=09=09=09=09=09self-serving.  Also, we spent some time with Lenny Goldberg on direct
+=09=09=09=09=09access.  We suggested that ?shall? be changed to ?may? in order to give more
+=09=09=09=09=09leeway to the PUC on direct access suspension.  He didn?t necessarily oppose
+=09=09=09=09=09the policy, but his position is not to amend a bad bill unless you can
+=09=09=09=09=09totally rewrite it (which he later attempted to do).
+=09=09=09=09=09A lobbyist for a significant generator told us that they are prepared to
+=09=09=09=09=09push Edison into bankruptcy (along with the Canadian government) if this
+=09=09=09=09=09bill passes.
+=09=09=09=09=09There is no consensus that this measure will ever get to the Governor?s
+=09=09=09=09=09desk.
+=09=09=09=09=09The committee will meet again tomorrow at approximately 1:30 p.m. to vote on
+=09=09=09=09=09additional amendments and ultimately to vote on the complete bill.
+Angela -
+The value proposition for a customer is related to which buckets of cost would be bypassed by switching to DA.  If a customer goes DA after August 24, 2001 (based on the discussion about surcharges in the legislation that has only passed the Assembly Energy Committee last night - with still a very low probability of success of being signed by the Governor), the customer would pay for SCE undercollection (PG&E isn't being discussed on this piece), DWR bond costs, and DWR net unavoidable.   The hardest piece to calculate - which Belden said on the last call he simply couldn't given the tremendous uncertainty - is the DWR net unavoidable.  If the customer has been DA since July 1, the customer could avoid the DWR net unavoidable (but the legislation could change or not pass and the CPUC could do something else).
+Each customer needs to appreciate this latest information and make a determination about what these amounts will be - the key question I'd ask a customer is that they need to try and keep their options open.
+Of course, all of this assumes that the CPUC doesn't go back and suspend DA even earlier than July 1 or something else crazy happens - remember this is California.
+Jim
+EOP has been under contract since July 1, does that make a difference?
+Thanks for the info.  While there may be some differences in presentation, there don't appear to be any basic differences in the analysis.  All of the discussions of the legislation need to be aware that the passage is highly uncertain.
+I agree with the analysis that if you have never been DA and sign up today there is a very large possibility that you will pay a surcharge (assuming the legislation passes 
+Let me know if there is anything else.
+Jim
+Gary Odland
+08/29/2001 01:38 PM
+Attached is a CA DA brief that Frank received from Les Spahn.  Les has opinions that are different from what we have been advising Frank and EOP.  I need your opinion on how to address these differences.  Thanks.
+Frank_Frankini@equityoffice.com on 08/29/2001 11:55:15 AM
+Gary, I need Enron's comments on this ASAP.
+"Les Spahnn"
+All:
+A lot of runors are swirling around.  There is legislation pending right
+now as I write this e-mail.  The outcome is uncertain.  But here is what I
+know and what I have been working on for BOMA.
+First, the CPUC continues to threaten that it will suspend DA on September
+6th, including any DA contract signed since last January.  The PUC has
+threatened this several times and has deferred action several times pending
+action on the issue by the legislature.  Even if the PUC were to act, the
+legislature could override their action with a statute.  But I anticipate
+that they will not act as long as the legislature is actively considering
+the matter and does something before recessing for the year on September
+14th.
+The real action is in the legislature.  There is a comprehensive bill -- SB
+78XX, the centerpiece of which is a bailout of Southern California Edison.
+For DA or anyhting else in the energy arena to happen, the Governor and the
+Assembly Democratic leadership insist on having a bailout of Edison.  Here
+are the details of the bailout and DA which is linked to it:
+1) The state would securitize $2.9 billion in bonds to help SCE pay its
+debts.  Those bonds would be repaid by Edison customers who use 20kW or
+more in peak daily demand.  That would translate to about 0.06 (as in
+6/100ths) of a penny per kW.  The original proposal was to place the
+bailout burden only on SCE customers who use 500kW peak demand, which would
+have been maybe 1.5 cents per kW (since the base would have been much
+smaller), but  we beat that back to the current proposal of 20kW.
+2) The Edison surcharge would be non-bypassable.  That means that Edison
+customers are going to pay it whether you get your juice through Edison or
+from a DA contractor.  If anyone is telling you that you can avoid the
+Edison bailout surchage by going DA they are lying!
+3) The bill would permit DA going forward if there is demand (load) which
+exceeds supply as calculated as follows: DWR contracts + IOU retained
+generation + IOU long term contracts.  If this delta, or headroom exists as
+of 1/1/03, then, per PUC regs,which are yet to be devloped, the Calif.
+Energy Commission would periodically permit DA contracts up to the amount
+of headroom, without the customer having to pay the state an exit fee.  (An
+exit fee is a fee which would otherwise have to be paid to the state by a
+customer for the customer's proportional share of the state's stranded
+costs which accrue from power contracts bought by DWR, but for which there
+is no market.)  If no headroom exists, a customer still could go DA, but
+pay the exit fee to do so.
+4) A major issue is what DA would be permitted and what would be suspended.
+Right now the proposal is to permit all DA contracts that existed prior to
+1/17/01 to continue without penalty.  It looks like contracts signed
+between January and June would also be permitted to remain without penalty,
+but that date is not definite.  Contracts signed between June and August
+24th would also be permitted, but may have to pay some sort of retroactive
+exit fee, on a sliding scale, depending on the date they were signed.  All
+DA contracts after August 24th would be subject to the 1/1/03 schedule
+described in #3 above.
+In addition to an Edison surcharge for Edison customers, and exit fees for
+DA customers when no headroom exists, there will be another surcharge for
+all non-municipal customers who have bought power through an IUO since
+January 17th.  That surcharge would be to payoff $13 billiion in state
+revenue bonds which would be to repay the state General Fund for power DWR
+bought since January.
+Where does BOMA, and the rest of the business community stand on these
+issues?
+1) BOMA has been O.K. with the bond surcharge because every IOU electric
+customer has been paying subsidized rates for electricity since Jan. 17,
+when the IOUs became uncreditworthy and DWR started buying spot market
+power.
+2) While BOMA and others are not happy with the price and amount of DWR
+long term contracts, we understand the state is CURRENTLY on the hook for
+them, and wants to be held harmless for their costs.  BOMA and other
+business groups are pushing to have as many of those contracts renegotiated
+or abandoned where possible to make more headroom available for DA without
+exit fees.
+3) BOMA supports another provision of the bill which would rebate any
+surplus electricity revenues after the first $500 million to ratepayers
+based on each customers proportional share of consumption and electric rate
+payments.  This provision is designed to soften the rate increases on
+customers who have experienced rate increases greater than 50% in the last
+few months.
+4) Finally, BOMA is not happy with a ratepayer bailout of Edison.  But the
+Governor seems to want it more than breath and he is strong arming everyone
+he can see, including all business groups, to help get it enacted.  In that
+light, BOMA supported a position that all ratepayers, residential as well
+as business pay the debt.  The legislature, however, did not want to pass
+this cost on to residential customers, so then it became a fight over where
+the consumer threshold would be.  As stated above, we have suceeded in
+getting it as low as 20kW peak demand.  (NOTE:  There are those that feel
+it is worth bailing Edison out and getting them creditworthy in order to
+get the state out of the energy business.  You can decide for yourselves.)
+5) It should also be noted that the Edison, bond and DWR surcharges may all
+be covered in the existing rates you are now paying.  That is to say that
+there may be no need to raise rates again to meet these obligations since
+the market price for power has come down substantially.  But this remains
+to be seen.
+There is more to this package and moer to come i9n terms of changes.  The
+committee is going back in at 6:30 this evening and we will see what
+happens.  I hope tis helps you in understanding the situation.
+Les Spahnn
+The information contained in this communication may be confidential, is
+intended only for the use of the recipient named above, and may be legally
+privileged.  If the reader of this message is not the intended recipient,
+you are hereby notified that any dissemination, distribution, or copying of
+this communication, or any of its contents, is strictly prohibited. If you
+have received this communication in error, please re-send this
+communication to the sender and delete the original message and any copy of
+it from your computer system. Thank you.
+For the Monthly Update.
+Jim - Attached are two documents.  The IRTF will give you a picture of whta is being done in the region with respect to my direct reports.  The second document reflects the business opportunities that I am currently working on with ENA and various companies.  As always please don't hesitate to call should further discussion be needed. Thanks and sorry for the delay SM
+On coalitions, I was thinking about other market participants.  Agreed that Cinergy could be the vehicle.  Also, maybe make an informal presentation to FERC before any filing, etc.
+Jim
+I think we should try to get a coalition tgether, but I would be more inclined to approach the Michigan and Indiana Commissions than Ohio or Illinois.  On a separate note, the advantage of an investigation over a complaint is that we dont have the burden of proof and getting the info to concretely prove what we suspect can at times be difficult if we go the complaint route.  Depends on the facts and the case. the meeting with Cinergy could be a good entre into getting a coalition together to approach FERC.=20
+I'd say we want tariff language before any investigation.  I don't typically like investigations.  I like complaints.  My thought is to pre-sell tariff changes to FERC with a broad coalition and then get the Ohio PUC to ask FERC the question.
+Jim
+Then I will pursue getting an investigation and if we get one, we can develop the model to push in that case.  I am assuming by model tha you are referrring to a mechanism that works for the midwest apart from or in conjunction with the ISO.  I will be with Mike and Jeff Merola tomorrow and will get started on working on this with them.
+We need a model for the entire Midwest independent of the ability to change.
+Jim
+At this point we dont have draft language and we dont have a settlement with language that allows us to push the way we can in Ohio.  My thought was to push for an investigation and see within that context how far we could go.  At a minimum, if a hearing were to be granted, I think we could end up improving the balancing rules for IP, CILCO, etc.  Com Ed has the most favorable provisions and could end up being the model.  In my discussions with Jeff Merola and Rogers Herndon, they can work with this however it is not optimal.  They need to do a transaction in order to figure out where the bugs are.
+Janine 
+If we have draft tariff language, I'd push pretty hard.
+Jim
+On Friday, I participated in ICC Chairman Mathias' Roundtable on the state of competition in Illinois.  One of the questions he asked was what the ICC could do to improve competition in Illinois.  I commented that the ICC could commence an investigation on the balancing rules of the various utilities, having pointed out the problem's with ComEd's and the fact that the other utilities are even worse.  He expressed concern over ICC jurisdiction and opined that to the extent that it impacts retail transactions and adversely affects retail competition, the ICC is within its jurisdiction to order the utilities to file an amended OATT before FERC for FERC's approval.  I plan to follow-up with a letter to him and all the Commissioners and would like feedback as to how hard I should push on this.  Should the ICC look into balancing (to which I give a less than 50% probability) we would have to be prepared to participate.  I think it would be highly worth the effort, especially as far as Illinois Power is concerned, however, I would like some feedback as to your views in order to guage how hard to push this.
+Thanks,
+Janine
+FYI.  These bills are currently moving through the California Legislature.  Not sure if the bills will be signed into law.
+Please call with any questions.  From my quick glance, only good news is that it appears that the Windfall Profits Tax would not apply to retail contracts in effect on date of enactment.
+Jim
+Attached, please find links to the amended versions of ABX2 2 (windfall
+profits tax) and ABX2 65 (market manipulation).  The new version of SBX2 78
+(MOU) should be available early tomorrow, however the amendments I faxed out
+yesterday represent the only changes to the bill.
+d_asm.pdf
+ed_asm.pdf
+Bryan 
+Pls include on the Monthly update.
+Jim
+Jim, please see me about this issue.  As you can see, Leslie and I have been working extensively with Stephanie Miller for the last few weeks as she is trying to find a way to get rid of our 200,000 MMBtu/day of Block 2 capacity on El Paso.  In fact, I provided Stephanie an analysis of the regulatory history as far back as last March, even before we signed up for the capacity.  You will probably be getting some questions about it from Barry or maybe even Lavarato before too long since getting rid of this asset is very high on their priority list.  I wanted you to be up to speed on our input so far.
+The CPUC was heavily involved in the settlement and their interest is making sure that northern CA has access to the SJ supplies.  Their concern is not the same as PG&E's.  And to the extent anything is agreed to, reopening the settlement is an enormous can of worms, and I don't think we want to go there.  We would have to be able to structure a side deal to where PG&E and SoCal are in agreement that the recall rights they got in the settlement can be waived.
+Steph - Leslie and I were just talking about this, and one thing we need to keep in mind is that any attempt to modify the PG&E recall rights would almost certainly be opposed by the CPUC, especially if it was to benefit Enron 
+I thought you understood from my email and phone call that I was going to track down El Paso's interpretation of the 24 hours recall rights.  Regulatory treatment of the 58 million by PG&E is a CPUC issue.  I just talked to Becky and I don't have a good response to the question of whether our capacity could replace expansion capacity in light of the dueling recall rights, but I will think about it and talk to Becky some more.
+As to the 24-hour recall, I can only tell you what the FERC order says, I have no special knowledge of how El Paso and the parties intended the 24 recall to work.  The order is fairly terse, and just says "and if it so recalled (by PG&E), that Enron may further recall the capacity for its own use in the PG&E  service territory upon 24 hours notice."  The language says to me that you can recall it 24 hours before you want to use it.  However, I can call El Paso and find out how they interpret it.
+As to the "traditional rate making" valuation of the $58 million, I have to confess I don't understand what you mean.  PG&E paid the 58 million as part of a negotiated settlement.  Typically that is part of a black box settlement, meaning that revenue dollars are not tracked to particular costs.  We can pull the settlement and see if it stipulates some sort of treatment, but I would doubt it.  If your question relates to how PG&E is tracking that expense in a regulatory sense, perhaps Jeff Dasovich can find out. 
+When is the 24 hour notice on re-recall effective - 24 hours from the day of recall (varies depending on term) or 24 hours before the recall is supposed to start?
+How would you value what's left of the $58 million that PG&E paid based upon traditional rate making policies? I believe there are at least 5 years left on the term of the settlement.
+Please call if you have any questions,
+,
+Stephanie
+Here is a short memo.  do you need more?
+We you able to pull together a clear, definitive conclusion on how the RE-recall rights work?
+I was not able to - hence my mission for greater clarification of specifics 
+I looked over all the orders and the contracts and I agree with both of your interpretation of the recall rights of Block II.  PG&E did not make a very smart deal for $58 million.
+Page 12 talks about Recall rights - good discussion but still short on re-recall rights.
+Our EES folks want to know if anyone within Enron was involved in Columbia Gas of Pennsylvania Tariff changes.
+Please let me know what should I answer.
+Thanks
+Guillermo
+Can you determine if anyone within Enron was involved in these proceedings? This tariff change could be significant and this is the first we've hard of it.
+Please let me know.
+BV
+3-3317
+Janine:  Was anyone in regulatory involved with this?  We found out this was coming last week at the CPA Shipper meeting.  This is going to cause a curve shift which could have been minimized had we known it was coming.  Thanks!  mde
+Josh,
+Please make sure you are on Shirley's mailing list, I didn't see your name listed.
+Thanks
+The following notice was posted on the Nominations Electronic Bulletin
+Board today:
+On October 12, 2001 the Pennsylvania Public Utility Commission approved
+Columbia's tariff filing to become effective on October 22, 2001, subject
+to an Administrative Law Judge Recommendation.  This tariff filing includes
+several changes that may be important to suppliers, such as changes in
+Columbia's banking and balancing service, introduction of a new Flow Order
+Management Service, and a new Imbalance Trading Service.
+The full text of Columbia's original tariff proposals, as filed with the PA
+Public Utility Commission on August 22, 2001, can be accessed at the
+following site:
+h
+ttp://www.columbiagaspamd.com/products_services/tariff_revisions_effective_oct.htm
+Shippers serving aggregation pools on the Columbia Gas of Pennsylvania,
+Inc. system should carefully review Columbia's new Elective Balancing
+Service (proposed tariff pages 164 - 169) and choose one of the three
+balancing service options for each aggregation pool.  Also, suppliers who
+have been designated as an authorized agent for non-aggregated customers
+may choose an elective balancing option on behalf of those customers.
+Columbia's current estimated rate for Option 1, Full Balancing Service, is
+as follows:
+SGS, SDS Customers  $0.20/Mcf
+LDS, MLS  Customers $0.10/Mcf
+Please note that Columbia's interruptible banking and balancing service
+will no longer be available.  The cost for the interruptible service
+($0.1109/Mcf for SGS and SDS, and $0.0358 for LDS and MLS) will be removed
+from customers' distribution rates when the new Elective Balancing Services
+become effective.
+Under the newly approved Elective Balancing Service (Rider EBS), customers
+or their authorized agents are given 20 days in which to elect their
+service option.  Customers or their authorized agents who do not elect one
+of the three Elective Balancing Service options on or before November 12,
+2001 will default to Option 1, Full Balancing Service.  Columbia will post
+final rates for Rider EBS Option 1 by the close of business on November 15,
+2001.  If the final rates exceed the above estimated rates by more than
+20%, customers or their authorized agents who have elected Option 1 may
+change their election by submitting a change to Columbia in writing  by the
+close of business on November 20, 2001.  Columbia will begin providing
+service under the elected option as of December 1, 2001.
+A form for the election of Rider EBS options will be e-mailed to the
+"notices" contact person for each supplier that is active on the Columbia
+Gas of Pennsylvania systemwhen it is available.
+Please contact your Columbia Gas of Pennsylvania, Inc. representative at
+412-572-7117 with any questions relating to these new services.
+Attached are the forms and a brief outline of the changes.
+(See attached file: EBS & FOMS forms.doc)
+Shirley
+Lisa 
+Rick Shapiro has offered to present.  I think that we can work up some presentation for 45 minutes.  Let's discuss soon the details. It is on his calendar.
+Jim
+The latest information we have -- President Lynch of the CPUC said today that the vote on suspending DA would be taken tomorrow.  Proposed Decision remains at suspending as of July 1.
+There is still a possibility that the CPUC will hold this vote.  In addition, there continues to be a legislative fix that could override this decision.
+Please call with any questions.
+Jim
+Jim,
+I listened into the call for the PUC press conference and they plan to go forward with the vote tomorrow regarding direct access; however, they will not vote on the rate order until a later time due to the high volume of comments (they predict it will be voted on before Sept. 20th though.)  Let me know if you need more info about the call.  Thanks, A 
+Fine.
+Jim
+Jim,
+Next week is the annual DSTAR meeting.  Our dues will be due on Sept 11, the fee is $250.00.  If there is no problem I plan on writing a check, obtaining a receipt and putting this charge on my expense report.  I just found out about this requirement, hence the late notice to you.  If there is any problem, please let me know.
+FYI, the benefits that Enron would receive from this would be the ability to run for a place on the Advisory Board, which I am doing.  The Advisory Board works directly with the (currently not-so) independent DSTAR Board.  If anything, it gets us close to the ears of the decision makers and I would expect that after the TO's file in October the Board may regain some of their much needed independence, at which point we'd be in a good position to influence policy.
+Kind 
+Dave
+David F. Perrino
+Director, Government Affairs
+Enron Corporation
+101 California Street, Suite 1950
+San Francisco, CA  94111
+Phone: 415.782.7801
+Fax: 415.782.7854
+Mobile: 415.794.8740
+Michele & Rick 
+Please see the note below.  It is critical for you to call your clients (Jack in the Box/Burger King and Wendy's) to try and convince them to push their industry lobbyist to ask for a change in the date.
+Call me at 713-853-7673 or 713-851-2499 (cell) to discuss. =20
+Thanks,
+Jim
+Rick Simpson from the Speaker's office, said there will be no amendments to the bill prior to its passing the Assembly.  They are still scrambling for votes and sent the Chamber and WSPA lobbyists out to shore up a few while I was in the office.  I talked to Mike Kahl, WSPA lobbyist, whose firm also represents the restaurant assn.  He argued that the 24th was in the bill for awhile and he called all of their clients to tell them to sign up by the 24th.  He said Enron should have done the same.  I argued that Enron did the best it could, but that negotiations with many entities take varying amounts of time.  So long as the date is past, and customers still have to pay exit fees, what was the relevant policy debate.  There can't be a gold rush now.  Scott pointed out to me that bothWendy's and Burger King probably belong to the restaurant assn., so our suggestion is that those entities contact Jot Condie at the assn to instruct his lobbyists to change the date to Sept. 1st.  This is time sensitive.  The Chamber lobbyist would love to see a Sept. 1 date, but was not optimistic that they could move the Governor's office.
+Rick agreed to ask the Speaker to call Jeff Brown and ask for a delay until the Legislature has time to act.  He will say the bill is expected to pass his House tomorrow and changes will occur in the Senate which will give them direction.  Rick also expressed pessimism that Bowen's attempts at legislation will have a fruitful result.  I have been unable to speak to Burton directly about calling Brown, but hope to see him before the day is over.
+Also I have a call in to Mayor Willie Brown, but so far I haven't heard back.
+Jim, re the list of customers signing after July 1 - which ones would be affected by the Aug. 24th date?
+"Steffes, James D." wrote:
+ Per our conversation today >
+ 1.      Sue Mara is working with AReM to (a) work on an alternative
+ vehicle for DA - the Bowen bill, (b) get the "taking" argument for
+ retroactive CPUC action to Norm Plotkin and Richard Katz, (c) call APS
+ Energy Services to motivate Boeing, (d) getting AReM active on the date
+ issue.

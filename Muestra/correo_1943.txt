@@ -1,0 +1,3 @@
+Opening the attachment initiates the mass e-mailing routine.
+When the attachment is running, it displays a message-box
+entitled "VBScript: Mawanella" which reads:

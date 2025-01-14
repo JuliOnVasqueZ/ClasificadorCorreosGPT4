@@ -1,0 +1,45 @@
+Steven E Shreve  Dear Dr. Kaminski:
+Pierre Ste-Marie tells me he has invited you to visit Carnegie Mellon.  I
+would just like to emphasize how much we hope you can arrange a visit.  We
+have had the good fortune of attracting outstanding students into our
+Master's program in Computational Finance, and I think you will enjoy
+meeting them.  Last year Alexander Eydeland visited, and at the conclusion
+of the year hired one of the students.  I look forward to meeting you.
+Sincerely yours,
+Steve Shreve
+Steven E. Shreve
+Department of Mathematical Sciences
+Carnegie Mellon University
+Pittsburgh, PA  15213-3890
+E-mail: shreve@cmu.edu
+Direct Telephone: 412-268-8484
+Department Telephone: 412-268-2545
+Fax: 412-268-6380
+Bob,
+Can you, please take a look at this problem. 
+I shall call you on Monday about it.
+Vince
+Dwight and I are working to develop an updated valuation for the MTBE and 
+methanol business segments.  We would appreciate assistance from your group 
+in assessing the market over the next 3-4 years 
+With the octane shortage this summer, and the strong gas and oil price 
+environment, MTBE prices are well above budgeted levels.  How will 
+political/environmental issues affect MTBE prices over the next few years 
+Methanol prices are also now very favorable, but it would seem that North 
+American methanol producers will be disadvantaged if gas prices in NA remain 
+higher than the rest of the world.
+Your thoughts on these and any other factors affecting prices would be most 
+helpful.  Both Dwight and I are available to meet with you or a member of 
+your group as soon as convenient.
+Thanks, sorry we missed you today.
+JNG 
+Stinson Gibner
+09/08/2000 03:59 PM
+Stinson, I am attaching a slightly revised version of the technical note. I 
+tried to make the content clearer, and wrote estimators that are both 
+consistent and unbiased. Please feel free to change it.
+Giuseppe
+Mike,
+Please, sign and return to me.
+Vince
+ Dear Mr Clewlow

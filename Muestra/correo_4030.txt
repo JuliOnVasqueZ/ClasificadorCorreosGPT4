@@ -1,0 +1,1383 @@
+Stinson,
+Can you attend?
+Vince
+Dear Vince,
+Tony and I are looking forward to meeting with you tomorrow
+(Thurs.) at 10 a.m. regarding the Rice iniative in Financial
+Engineering. Attached to this message is our draft plan for
+the proposed undergraduate program; I will also bring a copy
+to the meeting in the morning.
+See you tomorrow!
+,
+Kathy
+Katherine Bennett Ensor
+Professor and Chairperson
+Department of Statistics, MS 138
+Rice University
+Houston, TX 77251-1892
+ensor@rice.edu
+phone: (713) 527 4687
+fax:   (713) 285 5476
+- Draft-plan02.doc
+Emma,
+It's your choice. I can chair the session of day 2 or speak on one of these 
+topics.
+Please, let me know what works for you.
+Possible presentations:
+Evaluating the effectiveness of insurance as a risk management tool
+or 
+Applying real option theory to value power plants
+or
+Overcoming the difficulties of accurately estimating volatility
+Vince
+Hi Vince
+It is my great pleasure to invite you to speak at POWER 2000 which will be
+in Houston on 9 & 10 May 2000.
+Would you be interested in chairing one of the streams on day 2 of the
+conference? Or making a full presentation on one of the days? Please let me
+know which talks interest you. Obviously, some of the talks are no longer
+available but I would like to give you a choice as much as possible. Please
+could you get back to me asap on 212 925 1864 Ext 151 or by return email.
+I very much hope you can make the dates as I'm very keen to have you
+participate at POWER. Not to flatter you unnecessarily, but I know that a
+lot of people come to our conferences to hear what you have to say.
+Emma
+- Invite.doc
+Shirley,
+Expense check:
+$2,953.74
+Vince
+Adam,
+Let me gather some information for you.
+Vince
+Adam Brulinski
+12/14/99 08:08 AM
+Szanowny Panie,
+Chcielibysmy zaczac propagowac w Polsce idee handlu prawami do emisji 
+zanieczyszczen. Dlatego tez prosilbym o przeslanie, najlepiej droga emailowa 
+materialow dotyczacych tej koncepji - glownie chodzi mi o strone 
+"merytoryczna".
+Z powazaniem,
+Adam Brulinski
+Pinnamaneni Krishnarao
+12/10/99 04:46 PM
+FYI. Indian papers and politicians are complaining about the high prices for 
+power that the state govt. in Maharastra is paying to Enron. The reason: 
+Naphtha prices more than doubled in 1999 and the fuel cost is a pass through 
+(I can't believe they let it floating!). They requested our help in pricing 
+caps on naphtha.
+Krishna.
+Pinnamaneni Krishnarao
+12/09/99 01:33 PM
+Hi guys!
+I calculated the premiums for monthly caps for different cap (strike) levels 
+using the 1999 prices as forward prices. The scenarios I included are:
+1. At-the-money (ATM) caps: cap level = forward price (FP)
+2. Out-of-the-money (OTM) caps: cap level = (1+x) * FP where x = 5%, 10%, 15% 
+& 20%
+3. Constant cap level across months: $168 (average of FPs), $200, and $250.
+Brief results: Historical naptha volatility is 34% over last 2-years (which 
+is higher than over the 10-year period - see the volatility chart). Premiums 
+expressed as percent of the average naptha price for 2000:
+ATM =  10.4%
+ATM*=  13% (Assumiung FP = $224/MT)
+5%  OTM = 8.4%
+10% OTM = 6.8%
+15% OTM = 5.5%
+20% OTM =   4.4%
+$168 Cap  = 15%
+$200 Cap  = 9%
+$225 Cap  = 6%.
+If you are looking to protect from any price move up from the current level, 
+you will be looking at 10-15% range. Please keep in mind these are only 
+indicative, since we are just guessing the forward prices. Given such drastic 
+changes in prices during the last year, we really need to get an indication 
+of the forward prices. I made some inquiries here and found the name of the 
+person trading naptha. It is John L Chismar in Singapore Ph.011-65-838-9016; email: jchisma@ect.enron.com). Please contact him today 
+and try to get an indication of the forward prices and volatilities for 2000. 
+It would be much easier if we can install our Exotic Options Library in your 
+office. We need to place it in a common drive that all of you can access. If 
+any of the common drives you use is G, J, M, O, or P, I can send you the 
+files to be installed. If your common drive has another initial, we need to 
+do some programming here before sending to you. 
+Call me to discuss/clarify further. You can call me at home if necessary 
+(home ph. 281-240-5705; I am awake till 11PM usually best wishes,
+Krishna.
+Anshuman Srivastav @ ENRON_DEVELOPMENT
+12/09/99 09:05:49 AM
+Hi Mr.Krishnarao,
+Was really nice talking to you! As per out telecon please find attached an 
+excel sheet with the monthly FOB Naphtha prices from 1987-99. I am trying to 
+get the forward prices for naphtha sent to you as well.
+Appreciate the help from you!!
+Thank 
+Anshuman
+Helen,
+I forwarded your message to my associate Stinson Gibner
+whom I can wholeheartedly recommend.
+Vince
+Vince,
+I'm currently looking to broaden EPRM's speaker base and would like to find a 
+speaker for a training course I am producing on the Monte Carlo technique. I 
+was wondering if you might be able to recommend somebody new from Enron who 
+might like to speak on this subject. I'd really appreciate any help you could 
+give me.
+Many Thanks
+Helen Evans
+Producer, EPRM Conferences & Courses 
+- att1.htm
+Stinson,
+This is the request I got from RISK.
+Vince
+Vince,
+I'm currently looking to broaden EPRM's speaker base and would like to find a 
+speaker for a training course I am producing on the Monte Carlo technique. I 
+was wondering if you might be able to recommend somebody new from Enron who 
+might like to speak on this subject. I'd really appreciate any help you could 
+give me.
+Many Thanks
+Helen Evans
+Producer, EPRM Conferences & Courses 
+- att1.htm
+Frank,
+No problem.
+I hope everything will go OK at the interview.
+Vince
+Frank Qian  Hi, Mr. Kaminski:
+I got in touch with Kevin and he is coming on 12/12 to interview everybody
+in the class. That solves my concern. I am sorry that I sent you a false
+alarm.
+,
+Frank
+Yes,
+I hope they will do OK tomorrow.
+Thanks for the tip.
+Vince
+Steve Bigalow@
+03/19/2001 04:22 PM
+hey,
+were you able to get MOT and LU?
+Steve
+John,
+What about Thursday, 10:30 a.m.? I have just come back from Europe
+last night and I am trying to organize my schedule for the next few days.
+My phone number is 713 853 3848.
+Vince
+Vince,
+Can I call you Tuesday morning about our writing project?  I have to be in
+Austin for a dental appointment on Monday at noon and that will probably
+wipe out the day.  Give me a time and number where I can reach you.
+John
+John D. Martin
+Carr P. Collins Chair in Finance
+Finance Department
+Baylor University
+PO Box 98004
+Waco, TX 76798
+254-710-4473 (Office)
+254-710-1092 (Fax)
+J_Martin@Baylor.edu
+web 
+Vince J Kaminski
+08/11/2000 07:49 AM
+I haven't received yet the final Performance Evaluation Results.
+The usual practice is to defer the reviews till   the final summary rankings 
+are available.
+Please, let me know when I can expect it form the HR.
+Thanks.
+Vince Kaminski
+"perfmgmt@"<perfmgmt on 08/10/2000 05:16:14 PM
+Sep 01, 2000
+THE ABOVE DATE IS WHEN THE MID-YEAR 2000 PERFORMANCE EVALUATION FORMS FOR 
+DIRECTORS AND BELOW ARE DUE IN HUMAN RESOURCES.
+If you have not already done so, supervisors should begin the process of 
+giving feedback to their employees.  The evaluation forms used to provide 
+feedback to the employee can be obtained via the Performance Management 
+System (PEP).
+To download the evaluation forms from PEP, please follow the steps below:
+1. Log into PEP at 2. Under Supervisor Services, click Supervisor Evaluation Forms.
+3. Right-click on each employee and choose 'Save Target As...' or 'Save Link 
+As 4. Select your own personal directory, choose a file name to save to and 
+click 'Save'.
+5. Repeat for each employee.
+6. Now you can complete your evaluation forms from your personal directory 
+and will not have to access PEP to finalize the form.
+Upon completion, please forward the signed evaluation forms to your HR 
+Representative NO LATER THAN Friday, September 1st 2000.
+If you have any questions, please contact the PEP Help Desk at the following 
+numbers:
+In the U.S.:  1-713-853-4777, Option 4
+In Europe:  44-207-783-4040, Option 4
+In Canada:  1-403-974-6724 (Canada employees only)
+Or e-mail your questions to:  perfmgmt@
+Your employees that should receive mid-year evaluations are listed below:
+CRENSHAW, SHIRLEY J
+GANJOO, SHALESH
+GIBNER, PEYTON S
+KOLLAROS, ALEXIOS
+KRISHNARAO, PINNAMANENI V
+MASSON, GRANT S
+RAYMOND, MAUREEN J
+ROBERTS, MICHAEL A
+SERGEEV, MIKHAIL
+SHANBHOGUE, VASANT
+VERNON, CLAYTON J
+I haven't received yet the final Performance Evaluation Results.
+The usual practice is to defer the reviews till   the final summary rankings 
+are available.
+Please, let me know when I can expect it form the HR.
+Thanks.
+Vince Kaminski
+"perfmgmt@"<perfmgmt on 08/10/2000 05:16:14 PM
+Sep 01, 2000
+THE ABOVE DATE IS WHEN THE MID-YEAR 2000 PERFORMANCE EVALUATION FORMS FOR 
+DIRECTORS AND BELOW ARE DUE IN HUMAN RESOURCES.
+If you have not already done so, supervisors should begin the process of 
+giving feedback to their employees.  The evaluation forms used to provide 
+feedback to the employee can be obtained via the Performance Management 
+System (PEP).
+To download the evaluation forms from PEP, please follow the steps below:
+1. Log into PEP at 2. Under Supervisor Services, click Supervisor Evaluation Forms.
+3. Right-click on each employee and choose 'Save Target As...' or 'Save Link 
+As 4. Select your own personal directory, choose a file name to save to and 
+click 'Save'.
+5. Repeat for each employee.
+6. Now you can complete your evaluation forms from your personal directory 
+and will not have to access PEP to finalize the form.
+Upon completion, please forward the signed evaluation forms to your HR 
+Representative NO LATER THAN Friday, September 1st 2000.
+If you have any questions, please contact the PEP Help Desk at the following 
+numbers:
+In the U.S.:  1-713-853-4777, Option 4
+In Europe:  44-207-783-4040, Option 4
+In Canada:  1-403-974-6724 (Canada employees only)
+Or e-mail your questions to:  perfmgmt@
+Your employees that should receive mid-year evaluations are listed below:
+CRENSHAW, SHIRLEY J
+GANJOO, SHALESH
+GIBNER, PEYTON S
+KOLLAROS, ALEXIOS
+KRISHNARAO, PINNAMANENI V
+MASSON, GRANT S
+RAYMOND, MAUREEN J
+ROBERTS, MICHAEL A
+SERGEEV, MIKHAIL
+SHANBHOGUE, VASANT
+VERNON, CLAYTON J
+Allan,
+I am sending you my coordinates. I expect to be in London around
+September the 20th.
+Vince Kaminski
+Vincent Kaminski
+Managing Director - Research
+Enron Corp.
+1400 Smith Street
+Room EB1962
+Houston, TX 77002-7361
+Phone: (713) 853 3848
+Fax  :  (713) 646 2503
+E-mail: vkamins@
+Shirley,
+Business, like Ehud Ronn's visit.
+Vince
+Shirley Crenshaw
+06/29/2000 08:14 AM
+Vince is this an interview or just a business meeting?
+Vince J Kaminski
+06/29/2000 08:13 AM
+Shirley,
+Can you, please, call him and ask what would be best timing.
+The last week of July would be best. I would like Grant, Alex, Zimin, Krishna 
+and Stinson
+to meet him.
+Vince
+Shijie Deng  Hi Vince,
+How are you.  It was really a pleasure meeting you and talking to you at
+the Toronto energy derivative conference.  Thank you for speaking with
+me about the possibility of visiting your research group.  It will be
+great if I could have such opportunity whenever you see your schedule
+fits.  I am very much open for the last week of July and early August.
+I'm looking forward to hearing from you soon.
+Best,
+Shijie
+Shi-Jie Deng
+Assistant Professor
+School of ISyE
+Georgia Institute of Technology
+Office Phone: (404) 894-6519
+E-mail:       deng@isye.gatech.edu
+Home page 
+Shijie,
+Thanks for your message. My assistant will call you to discuss the timing 
+of the visit.
+Vince
+Shijie Deng  Hi Vince,
+How are you.  It was really a pleasure meeting you and talking to you at
+the Toronto energy derivative conference.  Thank you for speaking with
+me about the possibility of visiting your research group.  It will be
+great if I could have such opportunity whenever you see your schedule
+fits.  I am very much open for the last week of July and early August.
+I'm looking forward to hearing from you soon.
+Best,
+Shijie
+Shi-Jie Deng
+Assistant Professor
+School of ISyE
+Georgia Institute of Technology
+Office Phone: (404) 894-6519
+E-mail:       deng@isye.gatech.edu
+Home page 
+Shirley,
+Can you, please, call him and ask what would be best timing.
+The last week of July would be best. I would like Grant, Alex, Zimin, Krishna 
+and Stinson
+to meet him.
+Vince
+Shijie Deng  Hi Vince,
+How are you.  It was really a pleasure meeting you and talking to you at
+the Toronto energy derivative conference.  Thank you for speaking with
+me about the possibility of visiting your research group.  It will be
+great if I could have such opportunity whenever you see your schedule
+fits.  I am very much open for the last week of July and early August.
+I'm looking forward to hearing from you soon.
+Best,
+Shijie
+Shi-Jie Deng
+Assistant Professor
+School of ISyE
+Georgia Institute of Technology
+Office Phone: (404) 894-6519
+E-mail:       deng@isye.gatech.edu
+Home page 
+Vince:
+As way of introduction, I wanted to write a bit about Mars inc. and then
+about CDS,
+the unit I head.  Mars is a private company, considered to be the largest
+privately owned
+manufacturing company in the world.  Mars is not in the habit of disclosing 
+its
+finances,
+so the best I could do is refer to Forbes' estimate of $15 Billion annual
+revenue and
+to the profit margins of similar companies between 5-12%.  Mars is in the
+business of
+manufacturing confectionery (m&m, Dove bar, skittles, twix, - all (R))
+food (Uncle Ben rice (R))  pet food (Pedigree, Whiskas Waltham (R)) and other
+products.
+Mars has prospered during the years because of a unique philosophy that
+emphasizes the
+long term goals of the company.  Part of the philosophy is to look for win-win
+solutions with
+its suppliers, customers and partners.
+As can be understood from the nature of the company, a large chunk of its
+expenses
+goes towards purchasing commodity like products, and hence the history of
+researching
+those commodities and the weather that influences their supply and the demand
+(people
+eat less ice cream in the winter and less chocolate in the summer).
+CDS has a history of few decades in forecasting  weather and has been very
+successful,
+with an envious track record, in helping Mars get a competitive advantage in
+these arenas.
+CDS is a global group (in 4 countries across two continents) which supports 
+the
+purchasing
+function and the corporate at large in these and other arenas.  It is a
+multidiscipline and
+multinational team with a lot to offer.
+Not having a ready access to the energy markets, and with a risk profile based
+on
+manufacturing expertise, Mars has decided to look for potential partners in 
+this
+area.
+Enron presence in the market place certainly makes it an interesting party to
+talk to.
+In talking to Enron, we are careful to suggest that Mars is not committing to
+anything
+at this point, and all we are after is to find out if there is an interest to
+pursue the opportunity
+we discussed in the future.
+I am looking forward to our video conference call.
+Kind 
+Avi
+Mark, Mike,
+I have scheduled a video conference with this gentleman on Thursday this week 
+at 3:30
+p.m.  Can you join me for this conversation?
+Vince
+Vince:
+As way of introduction, I wanted to write a bit about Mars inc. and then
+about CDS,
+the unit I head.  Mars is a private company, considered to be the largest
+privately owned
+manufacturing company in the world.  Mars is not in the habit of disclosing 
+its
+finances,
+so the best I could do is refer to Forbes' estimate of $15 Billion annual
+revenue and
+to the profit margins of similar companies between 5-12%.  Mars is in the
+business of
+manufacturing confectionery (m&m, Dove bar, skittles, twix, - all (R))
+food (Uncle Ben rice (R))  pet food (Pedigree, Whiskas Waltham (R)) and other
+products.
+Mars has prospered during the years because of a unique philosophy that
+emphasizes the
+long term goals of the company.  Part of the philosophy is to look for win-win
+solutions with
+its suppliers, customers and partners.
+As can be understood from the nature of the company, a large chunk of its
+expenses
+goes towards purchasing commodity like products, and hence the history of
+researching
+those commodities and the weather that influences their supply and the demand
+(people
+eat less ice cream in the winter and less chocolate in the summer).
+CDS has a history of few decades in forecasting  weather and has been very
+successful,
+with an envious track record, in helping Mars get a competitive advantage in
+these arenas.
+CDS is a global group (in 4 countries across two continents) which supports 
+the
+purchasing
+function and the corporate at large in these and other arenas.  It is a
+multidiscipline and
+multinational team with a lot to offer.
+Not having a ready access to the energy markets, and with a risk profile based
+on
+manufacturing expertise, Mars has decided to look for potential partners in 
+this
+area.
+Enron presence in the market place certainly makes it an interesting party to
+talk to.
+In talking to Enron, we are careful to suggest that Mars is not committing to
+anything
+at this point, and all we are after is to find out if there is an interest to
+pursue the opportunity
+we discussed in the future.
+I am looking forward to our video conference call.
+Kind 
+Avi
+David,
+I think we should follow the developments and adjust our processes
+to avoid legal exposures. I heard that Microsoft was hit
+with a $5 billion suit related to alleged discrimination through the ranking=20
+process.
+Vince
+interesting. what do you take away from this piece?
+David,
+FYI
+Vince
+vkamins@@ms1.lga2.nytimes.com on 03/19/2001 09:35:38 AM
+Please respond to vkamins@
+Sent by: articles-email@ms1.lga2.nytimes.com
+This article from NYTimes.com
+has been sent to you by vkamins@.
+Jeff,
+FYI,
+Vince
+/  advertisement 
+Let NYTimes.com Come to You
+Sign up for one of our weekly e-mails
+and the news will come directly to you.
+YOUR MONEY brings you a wealth of analysis
+and information about personal investing.
+CIRCUITS plugs you into the latest on
+personal technology. TRAVEL DISPATCH offers
+you a jump on special travel deals and news.
+Companies Turn to Grades, and Employees Go to Court
+By REED ABELSON
+An increasingly popular technique for evaluating employees is
+prompting lawsuits charging discrimination at three big companies.
+At issue is the ranking of managers, professionals and sometimes
+lower-level employees from best to worst, or grading them on a bell
+curve, and then using that ranking to help determine pay and
+sometimes whether to fire someone.
+In their suits, all filed over the last year or so, employees at
+Microsoft, Ford Motor and Conoco say the rating systems are unfair
+because they favor some groups of employees over others: white
+males over blacks and women, younger managers over older ones and
+foreign citizens over Americans.
+A growing number of companies are turning to grading systems, also
+known as forced rankings or distributions, as a way of making sure
+managers evaluate employees honestly and make clearer distinctions
+among them. At companies that do not compare employees with one
+another this way, nearly every employee can come away feeling above
+average, like the children of Lake Wobegon. But under the grading
+system, managers are forced to identify some people as low
+performers.
+At General Electric, for example, supervisors identify the top 20
+percent and bottom 10 percent of their managerial and professional
+employees every year. The bottom 10 percent are not likely to stay.
+As John F. Welch Jr., General Electric's chief executive, wrote
+last month to shareholders, "A company that bets its future on its
+people must remove that lower 10 percent, and keep removing it
+every year =01* always raising the bar of performance and increasing
+the quality of its leadership."
+Ranking or grading employees is also common at technology
+companies like Cisco Systems and Hewlett- Packard. But recently the
+concept has been catching on more broadly, according to management
+consultants. One reason is that as the economy slows, companies
+often lay off employees. Cisco, for example, announced earlier this
+month that it would let go as many as 5,000 workers =01* and would use
+grading as one way to identify people to lay off.
+"Companies are playing their version of `Survivor,' " said David
+Thomas, a professor at the Harvard Business School.
+Another reason is that some companies are eager to copy Mr. Welch,
+long viewed as one of the most successful managers in America.
+Defenders of these systems say anyone who gets a low grade is
+likely to view the process as unfair. " `A' students love grades;
+`F' students hate grades," said John Sullivan, a human resources
+professor at San Francisco State University.
+But the techniques, which some employees label with terms like
+"rank and yank," have come under sharp criticism. While they appear
+to offer an objective way to judge employees, they can be
+vulnerable to bias, Mr. Thomas said. Managers may stereotype
+employees when evaluating them on vague criteria like career
+potential =01* deciding that older workers, for example, may have a
+harder time keeping up with new technology.
+In some cases managers can view these systems "as a tool to be
+used to weed out the ones you don't want," said Thomas S. McLeod, a
+lawyer in Canton, Mich., who represents employees suing Ford in
+another case.
+Critics of the system also argue that companies should not apply a
+bell curve, in which a small number of employees get the highest
+and lowest rankings and a much larger number are grouped in the
+middle. The bell curve model assumes a normal distribution among a
+very large group of random individuals, not small groups.
+What is more, across a company, people who belong to a
+particularly talented unit will suffer if a certain number of them
+must be given poorer grades than they would get in another unit.
+"You end up with dysfunctional results," said Edward E. Lawler
+III, a business professor at the University of Southern California.
+Some lawsuits contend that Microsoft's grading systems are
+discriminatory. One, filed last October, seeks class-action status
+on behalf of blacks and women. The suit states that the rating
+system "permits managers, who are predominantly white males, to
+rate employees based upon their own biases rather than based upon
+merit."
+According to the lawsuit, employees are rated on a five-point
+scale, with only a certain percentage permitted to receive each
+score. Employees doing the same job in the same unit are also given
+a "stack ranking," from most to least valuable. Managers decide
+those rankings largely using what are called "lifeboat
+discussions," where they choose which employees they would want
+with them if stuck in a lifeboat. Managers had no other clear
+criteria, according to Christine Webber, a lawyer at Cohen,
+Milstein, Hausfeld & Toll who is representing the employees.
+Grading is highly subjective at Microsoft, according to Peter M.
+Browne, a former executive who is also suing the company, charging
+discrimination. Mr. Browne, who is black, said managers were forced
+to use a curve in evaluating even small groups. He said he had to
+rate a group of five on a curve, for example, in deciding which
+ones would not receive stock options.
+"You weren't told anything =01* just meet the curve," Mr. Browne
+said.
+He says managers ended up favoring people with whom they
+socialized. "People gravitate to people who are like them, and the
+system just forces that," he said.
+Microsoft defends its system as fair and helpful. "We want to give
+the highest compensation to the very top performers," said Deborah
+Willingham, senior vice president for human resources, adding that
+the system included checks and balances to ensure fair treatment.
+Employees can appeal their ratings, for example, and are largely
+responsible for developing the criteria by which they are
+evaluated.
+Ms. Willingham also said the company did not ask its managers to
+give a fixed percentage of their employees any given score. "We
+don't force that curve to look any certain way," she said.
+Microsoft has no formal "stack rank" policy, she said. And when
+managers do have lifeboat discussions, they are a tool to consider
+which employees they would want to keep if they were starting
+again.
+While the company would not comment on the lawsuits, Microsoft
+"expressly prohibits discrimination," Ms. Willingham said.
+Similar criticisms emerged in a lawsuit brought last month against
+Ford. It argues that the company's new grading system discriminates
+against older workers. The company, which adopted what it calls its
+performance management process a year ago, gives its 18,000
+managers A, B or C grades. Last year, the company awarded 10
+percent an A, 80 percent a B and 10 percent a C.
+Ford also faces a second lawsuit asserting that it unfairly
+discriminated against older white males in its grading.It would not
+comment on the litigation but defended its use of grades. "We
+believe the system is fair and nondiscriminatory," a company
+spokeswoman said. "We are in a very competitive industry, and we
+need all of our employees to be the best they can be."
+At Conoco, employees contend that the company discriminated
+against United States citizens and older workers when it laid off a
+dozen geophysicists and other scientists in 1999 based on a ranking
+from one to four, according to a lawsuit filed last year. The
+majority of those let go were Americans, according to the suit, as
+opposed to British, Norwegian and Canadian professionals.
+"The rating system was selectively enforced, and there were
+instances of manipulation," said John Zavitsanos, the lawyer
+representing the workers. Even though some were given higher
+ratings on earlier rankings, they were eventually given the lowest
+possible rating of four.
+Conoco, based in Houston, has extensive operations in the North
+Sea, and many of the senior managers at the division in question
+are British, according to Mr. Zavitsanos.
+While Conoco said it could not comment on the litigation, it said
+its evaluations were based on several factors, including
+performance, skills and expertise. The company said ratings often
+changed as more information was collected and people were evaluated
+in larger groups. Conoco company also denied that decisions were
+based on anything other than individual capabilities.
+Companies "do need something in making pay decisions, downsizing
+decisions," said Jim Kochanski, a consultant with Nextera
+Enterprises. The problem is that companies may not take enough care
+in deciding how people should be ranked. "They can get it very
+wrong," he said.
+02a0228246c717
+Visit NYTimes.com for complete access to the
+most authoritative news coverage on the Web,
+updated throughout the day.
+Become a member today! It's free!
+HOW TO ADVERTISE
+For general information about NYTimes.com, write to
+help@nytimes.com.
+hingoran@rice.edu
+planck@rice.edu
+Hello all,
+The program for the 2000 Texas Finance Festival has been formalized and can
+be found on our web site at
+I do need to remind you of a few things before we converge on San Antonio.
+First, be sure to contact the convention hotel and make your reservations.
+At last count there were only 6 rooms left.  Second, I need a completed
+application form from everyone so that we can get an accurate meal count.
+I am attaching the program announcement so you can fill out the appropriate
+boxes for meals and numbers of guests in the event you have not sent in a
+form.
+Remember that we are starting the conference off with a luncheon on Friday
+so plan on arriving early Friday or coming in on Thursday evening if you
+can.  Our hotel is right on the river and there are lots of restaurants and
+interesting things to visit in the immediate area (the Alamo is across the
+plaza from the hotel).
+We are making plans for spouses and children to attend both the dinner on
+Friday and Saturday evenings.  The Friday evening dinner begins at 6 p.m.
+so that we can be done in plenty of time for our private guided tour of the
+Alamo at 8:00 p.m.  For Saturday we are still working out plans for the
+evening so stay tuned.
+There will be more information later as the conference nears.  Looking
+forward to seeing you all and in beautiful, sunny San Antonio.
+John - announcerev.doc
+John D. Martin
+Carr P. Collins Chair in Finance
+Finance Department
+Baylor University
+PO Box 98004
+Waco, TX 76798
+254-710-4473 (Office)
+254-710-1092 (Fax)
+J_Martin@Baylor.edu
+web 
+David,
+I could not open the file. Please, resend. It may be the fire wall  issue or 
+it's a different version 
+of MS  Word.
+Vince
+Vince
+Vince, here is the Resume of my friend.  She is a very intelligent,
+aggressive, young lady.  ANY help would be greatly appreciated.
+Thanks, I will call you on Thursday morning.
+David C. Walkup
+Financial Consultant
+713-658-1685
+800-456-9712
+____________________________________________________________
+CAUTION: Electronic mail sent through the Internet is not secure and could
+be intercepted by a third party.  For your protection, avoid sending
+identifying information, such as account, Social Security or card numbers to
+us or others.  Further, do not send time-sensitive, action-oriented
+messages, such as transaction orders, fund transfer instructions, or check
+stop payments, as it is our policy not to accept such items electronicall
+- Resume.doc
+Paige,
+Thanks a lot for  your presentation. It was an eye-opener in many cases.
+I shall schedule a meeting with you next week to discuss how we can help you
+in this project. I have some ideas I would like to run by you.
+Vince
+P.S. Shirley, please see if Monday is OK for 30 mins?
+Dale,
+I cannot read the body of the message.
+Vince
+Dale Surbey
+02/28/2000 08:31 AM
+Ravi,
+Charlene wants the entire batch of potential summer intern resumes sent to 
+her in one step.
+I want to complete this by Friday. Catch me after lunch to talk about it.
+Vince
+Ravi Thuraisingham@MUNICATIONS on 02/17/2000 10:11:36 AM
+Hi Vince, Paulo Oleira (one of the M.I.T attending our meeting on wed)'s 
+research interest turned out to be a match for April Hodgeson (VP of content 
+origination). I had him talk to April (Stinson was on the call as well) to 
+discuss his research interest and what he would likely to do for April.  I 
+suggested (and April agrees) that Paulo would intern with her and Matt and 
+perform research on how end users (consumers and business) improved 
+experience with ePowered content can be quantified.  This may include 
+performing control experiments at M.I.T.  We decided not to over specify what 
+he would do since it is likely to change as soon as he arrives.  I suggested 
+once he starts, he will work with April and Matt Harris (VP enterprise 
+origination) and they will define what the student needs to complete for the 
+internship 
+Addiontionally, Tom Gros agrees that this type of research are needed and 
+this is a great way to start.
+I will proceed to have recruiting contact the student with an offer to start 
+around May 22, 2000 unless someone tells me otherwise.
+,
+Ravi.
+P.S. Charlene, please include Paulo in your May 22, 2000 start group.  Paulo 
+will report to me within EBS research group but will work on a day-to-day 
+basis with April and Matt. As you've mentioned that compensation is somewhat 
+fixed but please keep in mind that this person is a PhD candidate with very 
+specialized skill set. Please contact Vince before extending an offer that 
+may be too low, etc 
+Charlene Jackson@
+02/17/00 08:25 AM
+Celeste,
+We need to make sure that the interns in Vince's group are coordinated and 
+incorporated with the rest of the summer associates.  They should be offered 
+the same starting dates, I believe they are May 22, 2000 June 5, 2000.  I am 
+not sure about the June date.  Would you check and let Vince know.  They 
+should also be offered the same starting salary package as the others.  They 
+will be included in training (a few days) and any other events we host.
+Thanks
+Tanya,
+I t makes sense to wait till October.
+Vince
+Tanya Tamarchenko
+01/07/2000 01:56 PM
+Vince,
+next time this program will be offered in CA in October (see below).
+Let me know what you think,
+Tanya.
+Thank you for your message.  Yes, it will be offered in California at
+Stanford, but not until October 15 - 20.  If you look on our website:
+www.gsb.stanford.edu/exed (click on programs)
+it will give you the information for both programs (London and Stanford).
+,
+Alicia Steinaecker Isero
+Program Manager, Executive Education
+Stanford University
+Graduate School of Business
+Stanford, CA 94305-5015
+Phone: 650-723-2922
+Fax: 650-723-3950
+Email: isero_alicia@gsb.stanford.edu  
+Hi, Alicia,
+I work for Enron Research and I would like to take the Executive
+Program on
+Credit Risk.
+I am trying to find out if this program is going to be offered in
+California
+soon. Is the date known?
+Can you, please, let me know.
+Appreciate it,
+Tanya Tamarchenko
+11/19/99 01:37 PM
+<"IMCEACCMAIL-Isero+5Falicia+40gsb+2Estanford+2Eedu+20at+20isero+5Falicia+40
+gsb+2Estanford+2Eedu"@exch-gsb.stanford.edu>
+cc:   "Weidell, Anna"  Alice"
+Tamarchenko/HOU/ECT)
+Subject:  Executive Program on Credit Risk
+Subject:  ANNOUNCEMENT: Executive Program on Credit Risk Modeling
+Credit Risk Modeling for Financial Institutions
+February 27 - March 2, 2000
+in London, at the Lanesborough Hotel
+Risk management specialists, Stanford Business School professors of
+finance
+Darrell Duffie and Kenneth Singleton will be repeating their
+successful
+executive program on Credit Risk Pricing and Risk Management for
+Financial
+Institutions.  The course is created for risk managers, research
+staff, and
+traders with responsibility for credit risk or credit-related
+products,
+including bond and loan portfolios, OTC derivative portfolios, and
+credit
+derivatives.
+This program includes:
+*    valuation models for corporate and sovereign bonds, defaultable
+OTC
+derivatives, and credit derivatives
+*    models for measuring credit risk, with correlation, for
+portfolios
+*    analyses of the empirical behavior of returns and credit risk
+*    the strengths and limitations of current practice in modeling
+credit
+risk
+*    practical issues in implementing credit modeling systems
+___________________________________________________________
+Application Form:
+Credit Risk Modeling for Financial Institutions
+London, February 27 - March 2, 2000
+This form may be completed and returned by email, or may be printed
+and sent
+by fax to:
+Stanford GSB Executive Education Programs
+Fax Number: 650 723 3950
+You may also apply and see more detailed information by visiting our
+web
+site at:
+< 
+Applications will be acknowledged upon receipt. If you have not
+acknowledgement within two weeks, please contact us.
+Please complete all sections. All information is kept strictly
+confidential.
+Name:
+Put an x beside one, please:  Male:               Female:
+Citizenship:
+Job Title:
+Company:
+Your company's main activity:
+Business Mailing Address:
+Business Phone (all codes please):
+Business Fax :
+Email Address:
+Home Address:
+Home Phone:
+Nickname for identification badge:
+Emergency Contact Name:
+Emergency Contact Phone:
+Title of person to whom you report:
+Your job responsibilities and experience related to this course:
+(Please
+provide a brief job summary here, or attach and send a biographical
+summary
+containing information relevant to your purpose and qualifications
+for the
+course.)
+College or University Education: please list, by degree:
+College or  University                Dates    Degree Granted
+_________________                _____    _____________
+_________________                _____    _____________
+Please note:
+All classes and discussions are conducted in English.
+In order to reserve a place in the course, the program fee of
+US$6,500 is
+due upon notification of acceptance. This fee covers the tuition,
+most
+meals, and all course materials (including a proprietary manuscript
+on
+credit risk pricing and measurement).  The program classes will be
+held at
+the Lanesborough Hotel at Hyde Park Corner, London.  Hotel
+accommodations
+are not included.
+Our refund policy is available upon request.
+Please state the source from which you heard about this course:
+Name and Date:
+If you would like a hard copy brochure and application form, please
+contact:
+(make sure to include your MAILING ADDRESS)
+Alicia Steinaecker Isero
+Program Manager, Executive Education
+Stanford University
+Graduate School of Business
+Stanford, CA 94305-5015
+Phone: 650-723-2922
+Fax: 650-723-3950
+Email: isero_alicia@gsb.stanford.edu
+Greg,
+One of many data points I have the competition is paying more.
+Vince
+Stinson Gibner
+01/07/2000 08:57 AM
+F.Y.I.
+Craig Jimenez  Stinson,
+I have accepted an amended offer from Southern Company Energy
+Marketing.  My decision was based on the higher compensation, and the
+opportunity to rotate through structuring, trading and research.  I am
+very confident that I would have been very engaged and happy working in
+your group; I did not take the decision lightly.
+I'll be moving to Atlanta in March, but I will keep the email and URL
+given below.  I'd like to stay in touch, and I expect to see you at
+conferences.  Also, please pass my   on to Vince and Mike.
+--
+Craig Jimenez
+craig@AWLBIZ.com
+(512) 699-5794 cellular
+hingoran@rice.edu
+planck@rice.edu
+Zimin Lu
+03/19/2001 11:17 AM
+Here is my MC talk, electronic version.
+Krishna,
+Please,  confirm with Hill Huntington.
+Vince
+Pinnamaneni Krishnarao
+03/19/2001 09:28 AM
+Yes, I would be definitely interested. Count me and Osman also to 
+participate. I will forward your email to others in EES who might be 
+interested also.
+Krishna.
+Vince J Kaminski
+03/19/2001 08:12 AM
+John and Krishna,
+I am sending you an outline of a conference at Stanford on topics related to 
+demand-side pricing and management in the power markets.
+Please, let me know if you are personally interested and who else
+in your respective  organizations would like to attend.
+Vince
+Hill Huntington  Vince,
+Targetted conference date is Th-F June 21-22 at Stanford.  Enclosed in the
+recent revision to what I sent before.
+Great to meet you,
+Hill
+- retail notes.rtf
+Hillard G. Huntington
+EMF - an international forum on
+energy and environmental markets Voice:  (650) 723-1050
+408 Terman Center    Fax:    (650) 725-5362
+Stanford University   Email:  hillh@stanford.edu
+Stanford, CA  94305-4026
+EMF Website 
+David,
+FYI
+Vince
+vkamins@@ms1.lga2.nytimes.com on 03/19/2001 09:35:38 AM
+Please respond to vkamins@
+Sent by: articles-email@ms1.lga2.nytimes.com
+This article from NYTimes.com
+has been sent to you by vkamins@.
+Jeff,
+FYI,
+Vince
+/  advertisement 
+Let NYTimes.com Come to You
+Sign up for one of our weekly e-mails
+and the news will come directly to you.
+YOUR MONEY brings you a wealth of analysis
+and information about personal investing.
+CIRCUITS plugs you into the latest on
+personal technology. TRAVEL DISPATCH offers
+you a jump on special travel deals and news.
+Companies Turn to Grades, and Employees Go to Court
+By REED ABELSON
+An increasingly popular technique for evaluating employees is
+prompting lawsuits charging discrimination at three big companies.
+At issue is the ranking of managers, professionals and sometimes
+lower-level employees from best to worst, or grading them on a bell
+curve, and then using that ranking to help determine pay and
+sometimes whether to fire someone.
+In their suits, all filed over the last year or so, employees at
+Microsoft, Ford Motor and Conoco say the rating systems are unfair
+because they favor some groups of employees over others: white
+males over blacks and women, younger managers over older ones and
+foreign citizens over Americans.
+A growing number of companies are turning to grading systems, also
+known as forced rankings or distributions, as a way of making sure
+managers evaluate employees honestly and make clearer distinctions
+among them. At companies that do not compare employees with one
+another this way, nearly every employee can come away feeling above
+average, like the children of Lake Wobegon. But under the grading
+system, managers are forced to identify some people as low
+performers.
+At General Electric, for example, supervisors identify the top 20
+percent and bottom 10 percent of their managerial and professional
+employees every year. The bottom 10 percent are not likely to stay.
+As John F. Welch Jr., General Electric's chief executive, wrote
+last month to shareholders, "A company that bets its future on its
+people must remove that lower 10 percent, and keep removing it
+every year =01* always raising the bar of performance and increasing
+the quality of its leadership."
+Ranking or grading employees is also common at technology
+companies like Cisco Systems and Hewlett- Packard. But recently the
+concept has been catching on more broadly, according to management
+consultants. One reason is that as the economy slows, companies
+often lay off employees. Cisco, for example, announced earlier this
+month that it would let go as many as 5,000 workers =01* and would use
+grading as one way to identify people to lay off.
+"Companies are playing their version of `Survivor,' " said David
+Thomas, a professor at the Harvard Business School.
+Another reason is that some companies are eager to copy Mr. Welch,
+long viewed as one of the most successful managers in America.
+Defenders of these systems say anyone who gets a low grade is
+likely to view the process as unfair. " `A' students love grades;
+`F' students hate grades," said John Sullivan, a human resources
+professor at San Francisco State University.
+But the techniques, which some employees label with terms like
+"rank and yank," have come under sharp criticism. While they appear
+to offer an objective way to judge employees, they can be
+vulnerable to bias, Mr. Thomas said. Managers may stereotype
+employees when evaluating them on vague criteria like career
+potential =01* deciding that older workers, for example, may have a
+harder time keeping up with new technology.
+In some cases managers can view these systems "as a tool to be
+used to weed out the ones you don't want," said Thomas S. McLeod, a
+lawyer in Canton, Mich., who represents employees suing Ford in
+another case.
+Critics of the system also argue that companies should not apply a
+bell curve, in which a small number of employees get the highest
+and lowest rankings and a much larger number are grouped in the
+middle. The bell curve model assumes a normal distribution among a
+very large group of random individuals, not small groups.
+What is more, across a company, people who belong to a
+particularly talented unit will suffer if a certain number of them
+must be given poorer grades than they would get in another unit.
+"You end up with dysfunctional results," said Edward E. Lawler
+III, a business professor at the University of Southern California.
+Some lawsuits contend that Microsoft's grading systems are
+discriminatory. One, filed last October, seeks class-action status
+on behalf of blacks and women. The suit states that the rating
+system "permits managers, who are predominantly white males, to
+rate employees based upon their own biases rather than based upon
+merit."
+According to the lawsuit, employees are rated on a five-point
+scale, with only a certain percentage permitted to receive each
+score. Employees doing the same job in the same unit are also given
+a "stack ranking," from most to least valuable. Managers decide
+those rankings largely using what are called "lifeboat
+discussions," where they choose which employees they would want
+with them if stuck in a lifeboat. Managers had no other clear
+criteria, according to Christine Webber, a lawyer at Cohen,
+Milstein, Hausfeld & Toll who is representing the employees.
+Grading is highly subjective at Microsoft, according to Peter M.
+Browne, a former executive who is also suing the company, charging
+discrimination. Mr. Browne, who is black, said managers were forced
+to use a curve in evaluating even small groups. He said he had to
+rate a group of five on a curve, for example, in deciding which
+ones would not receive stock options.
+"You weren't told anything =01* just meet the curve," Mr. Browne
+said.
+He says managers ended up favoring people with whom they
+socialized. "People gravitate to people who are like them, and the
+system just forces that," he said.
+Microsoft defends its system as fair and helpful. "We want to give
+the highest compensation to the very top performers," said Deborah
+Willingham, senior vice president for human resources, adding that
+the system included checks and balances to ensure fair treatment.
+Employees can appeal their ratings, for example, and are largely
+responsible for developing the criteria by which they are
+evaluated.
+Ms. Willingham also said the company did not ask its managers to
+give a fixed percentage of their employees any given score. "We
+don't force that curve to look any certain way," she said.
+Microsoft has no formal "stack rank" policy, she said. And when
+managers do have lifeboat discussions, they are a tool to consider
+which employees they would want to keep if they were starting
+again.
+While the company would not comment on the lawsuits, Microsoft
+"expressly prohibits discrimination," Ms. Willingham said.
+Similar criticisms emerged in a lawsuit brought last month against
+Ford. It argues that the company's new grading system discriminates
+against older workers. The company, which adopted what it calls its
+performance management process a year ago, gives its 18,000
+managers A, B or C grades. Last year, the company awarded 10
+percent an A, 80 percent a B and 10 percent a C.
+Ford also faces a second lawsuit asserting that it unfairly
+discriminated against older white males in its grading.It would not
+comment on the litigation but defended its use of grades. "We
+believe the system is fair and nondiscriminatory," a company
+spokeswoman said. "We are in a very competitive industry, and we
+need all of our employees to be the best they can be."
+At Conoco, employees contend that the company discriminated
+against United States citizens and older workers when it laid off a
+dozen geophysicists and other scientists in 1999 based on a ranking
+from one to four, according to a lawsuit filed last year. The
+majority of those let go were Americans, according to the suit, as
+opposed to British, Norwegian and Canadian professionals.
+"The rating system was selectively enforced, and there were
+instances of manipulation," said John Zavitsanos, the lawyer
+representing the workers. Even though some were given higher
+ratings on earlier rankings, they were eventually given the lowest
+possible rating of four.
+Conoco, based in Houston, has extensive operations in the North
+Sea, and many of the senior managers at the division in question
+are British, according to Mr. Zavitsanos.
+While Conoco said it could not comment on the litigation, it said
+its evaluations were based on several factors, including
+performance, skills and expertise. The company said ratings often
+changed as more information was collected and people were evaluated
+in larger groups. Conoco company also denied that decisions were
+based on anything other than individual capabilities.
+Companies "do need something in making pay decisions, downsizing
+decisions," said Jim Kochanski, a consultant with Nextera
+Enterprises. The problem is that companies may not take enough care
+in deciding how people should be ranked. "They can get it very
+wrong," he said.
+02a0228246c717
+Visit NYTimes.com for complete access to the
+most authoritative news coverage on the Web,
+updated throughout the day.
+Become a member today! It's free!
+HOW TO ADVERTISE
+For general information about NYTimes.com, write to
+help@nytimes.com.
+Sam,
+Yes, please go around and solicit contributions.
+You can use my name.
+Vince
+Good Morning Vince!
+I re-wrote three of the worst sentences from the standpoint of good grammar If you don't have time to review what I sent you, that's okay.  We can go 
+with it for today, but as I said in my earlier e-mail, I'll be soliciting 
+articles from people who have not yet contributed.  May I use your name? 
+ThankYou!
+Sam
+John and Krishna,
+I am sending you an outline of a conference at Stanford on topics related to 
+demand-side pricing and management in the power markets.
+Please, let me know if you are personally interested and who else
+in your respective  organizations would like to attend.
+Vince
+Hill Huntington  Vince,
+Targetted conference date is Th-F June 21-22 at Stanford.  Enclosed in the
+recent revision to what I sent before.
+Great to meet you,
+Hill
+- retail notes.rtf
+Hillard G. Huntington
+EMF - an international forum on
+energy and environmental markets Voice:  (650) 723-1050
+408 Terman Center    Fax:    (650) 725-5362
+Stanford University   Email:  hillh@stanford.edu
+Stanford, CA  94305-4026
+EMF Website 
+Shirley,
+Please schedule an interview with Konstantin on May 8.
+Stinson, Zimin, Alex, Tanya, Krishna, myself.
+Vince
+Dear Dr. Kaminski
+We have talked earlier during your energy class at Rice about career
+opportunities in risk management at Enron. If it is possible, I would like
+to meet with you and people from your group next week, preferably Tuesday
+(May 8). My time is flexible, I could come any time. Other days are also
+fine.
+Thank you very much in advance.
+Sincerely,
+Konstantin Kudin
+Rafal Weron C-11  Wicek,
+przesylam nasz nowy artykul o prognozie "system-wide load" w Kalifornii.
+Moze Cie zainteresuje. Czy doszla juz nasza ksiazka?
+Pozdrowienia,
+Rafal
+- 0103257.pdf
+Rafal,
+Dziekuje za artykul. Ksiazka doszla i czytam ja z wielkim zainteresowaniem.
+Dam Ci znac, kiedy bede w Polsce. Moze uda sie nam spotkac.
+Pozdrowienia
+Wicek
+Barbara,
+Sorry to have missed the dinner. I had to work on Sunday to prepare
+for my trip to London this week. I called Jeff about it and he said that he
+would let you know.
+Vince
+Barbara Ostdiek  Hello
+The dinner with Philippe Jorion is scheduled for 6:30 Sunday evening at
+Churrascos.  Dave will bring Philippe to the restaurant.
+Thanks.
+bbo
+Shirley,
+Please, forward tot he group.
+Vince
+Barbara Ostdiek  
+Enron Seminar Series in Finance
+Jones Graduate School of Management, Rice University
+Paul Schultz
+University of Notre Dame
+will give a seminar at the Jones School on Friday, March 30,?=20
+?????????????????????????????????????? =01&Who Makes Markets=018
+The seminar will begin at 3:30 in Room 115.
+The paper will be made available shortly.
+Attached is the latest issue of Btu Weekly.
+e-mail: info@Btu.net
+phone: 732-758-8222
+fax: 732-758-8286
+- wg031901.pdf
+Attached is the latest issue of Btu's Weekly Power Report
+e-mail: info@Btu.net
+phone: 732-758-8222
+fax: 732-758-8286
+- wp031901.pdf
+"Webmaster@cera.com" <webmaster on 03/13/2001 03:54:52 PM
+CERA is pleased to make additional multimedia highlights and speaker 
+presentation materials from CERAWeek 2001 available to clients at 
+The following highlights are now available on CERA.com--and there's more to 
+come: 
+HON. CHAKIB KHELIL LUNCHEON ADDRESS 
+The OPEC President and Minister of Energy and Mines of Algeria presents 
+thoughtful insights on global gas markets from the producer's perspective.
+HARRY J. LONGWELL KEYNOTE OIL ADDRESS 
+The Director and Senior Vice President of ExxonMobil Corporation on the 
+future of the oil industry. 
+ELECTRIC POWER TEAM OUTLOOK 
+A round-up of top issues and insights in the Power industry by CERA experts. 
+LARRY MAKOVICH KEYNOTE DINNER SPEECH? 
+An insightful--and funny--commentary on the causes of the recent California 
+Energy Crisis by the head of CERA's Electric Power Team.
+GLOBAL WATCH: ENERGY OUTLOOK 2001? 
+Authoritative, timely comprehensive insights on energy markets and strategy 
+presented by CERA experts 
+Coming soon: 
+GLOBAL ENERGY PLENARY? 
+Excerpted comments by Keith Bailey (The Williams Companies), Michail 
+Khodorkovsky (Yukos Oil Company), Tony Knowles, (Governor of Alaska), Jeffrey 
+Skilling, (Enron Corporation) and CERA's Joseph A. Stanislaw.
+JOHN GAGE DINNER SPEECH 
+Sun Microsystems' Chief Researcher and Director of the Science Office tells 
+the energy community about the most impressive new developments in the world 
+of computing -and says he is looking for business opportunities in the world 
+of energy.
+All CERAWeek video highlights are streamed in the RealPlayer format. If your 
+computer is not equipped with RealPlayer, go to 
+To download the latest 
+free version of RealPlayer.
+Forgot your username and password? Go to: 
+This electronic message and attachments, if any, contain information 
+from Cambridge Energy Research Associates, Inc. (CERA) which is 
+confidential and may be privileged. Unauthorized disclosure, copying, 
+distribution or use of the contents of this message or any attachments, 
+in whole or in part, is strictly prohibited. 
+Terms of Use Questions/Comments: webmaster@cera.com 
+Nick,
+My trip to Stanford is on. I shall be glad to meet
+on Thursday for dinner. You can reach me at my cell 
+phone (713 410 5396) and at vkaminski@aol.com.
+Vince
+Vince,
+?
+Hi, hope you are well.
+?
+I'm just dropping a note regarding invoice 215 which was for 5 people  
+attending the energy and weather course.? Our records show that it hasn't  
+been paid, which is good.? We will re-do the invoice and charge you only  for 
+Alex and Tom's attendance since Paulo didn't show.? Is this OK with  you?? By 
+the way, we only charged $250 a person for the weather course  since it was 
+suppose to be an exchange of information session, and Enron Weather  paid for 
+the venue.
+?
+Nice to have finally met you in Houston!
+?
+Julie
+?
+Zimin,
+CAn you please call him (exploratory interview).
+Vince
+Marshall Brown  Vince,
+Could you give him (Bill) a call at 1 or 2 on Friday CST? His Cell
+Phone is 918-625-6683.
+Marshall Brown
+Vice President
+Robert Walters Associates
+Tel: (212) 704-0596
+Fax:(212) 704 - 4312
+Rick Russell  05/07/2001 02:26:23 PM
+The Magistrad Worm
+Systems affected: PCs with Windows 95/98/ME, Windows NT/2000 with poor
+security
+Method of propagation:  E-mail attachment; when opened it attaches
+itself to Windows executable files and sends itself to e-mail recipients.
+It can grab e-mail recipient addresses from Outlook, Outlook Express,
+Netscape and/or Microsoft Internet Mail and News.
+Risk to the Rice campus:  High. It spreads quickly, and it can damage
+or destroy files and damage the system BIOS. It does not attack document
+files specifically.
+Hi again, it's Rick Russell your local virus guy. Two e-mail messages to
+ALLDEPTS this morning contained this vicious virus. The virus affects PC
+systems with Windows 9X/NT/2000, not Macs or UNIX systems.
+For all the details, visit:
+This virus does not execute unless you open the attached files. So, if you
+didn't open the attachments, you're fine. If you did and you're using a PC
+system with some version of Windows, please contact IT staff for help
+immediately. Contact information is included on the above web page.
+Please do NOT open attachments without confirming their validity.
+Confirmation might include a second e-mail with an exact description of
+the attachment contents (including file names and sizes), a telephone
+call, or a face-to-face meeting. NEVER open attachments with EXE in the
+filename.
+Please do not distribute this e-mail outside the Rice community, or
+forward it after June 15, 2001.
+Yours truly,
+** Rick Russell, IT Consulting Specialist
+** rickr@rice.edu, Mudd 106D, 713-348-5267
+(See attached file: paper3.doc)
+- paper3.doc
+VKaminski@aol.com on 03/13/2001 11:58:28 PM
+- rice0315.ppt
+Duane,
+I shall be traveling for the rest of the week but my colleague 
+Dr. Zimin Lu will call you to talk about different 
+structures.
+Vince
+ds64@cyrus.andrew.cmu.edu on 03/13/2001 09:54:24 AM
+Vince,
+Sorry that I missed your call yesterday.  I have a meeting from 2-3 today
+(Tuesday), but otherwise any time in the afternoon works for me.  Let me
+know what is convenient for you.  Thanks for your help.
+Duane
+Duane Seppi
+Graduate School of Industrial Administration
+Carnegie Mellon University
+Pittsburgh PA  15213-3890
+tel. (412) 268-2298
+fax (412) 268-8896
+email ds64+@andrew.cmu.edu
+Zimin,
+Please, call Duane with the info.
+Vince
+ds64@cyrus.andrew.cmu.edu on 03/13/2001 09:54:24 AM
+Vince,
+Sorry that I missed your call yesterday.  I have a meeting from 2-3 today
+(Tuesday), but otherwise any time in the afternoon works for me.  Let me
+know what is convenient for you.  Thanks for your help.
+Duane
+Duane Seppi
+Graduate School of Industrial Administration
+Carnegie Mellon University
+Pittsburgh PA  15213-3890
+tel. (412) 268-2298
+fax (412) 268-8896
+email ds64+@andrew.cmu.edu
+Hi Vince,
+?
+As always, it was good to see you again in Houston  - we all enjoyed the meal 
+very much, the restaurant was a good  choice.
+?
+It's that time again I'm afraid. Can you pls cast  your eye over the 
+attached?and, if at all possible, get back to me in the  next few days - I 
+have to deliver something to London by Friday.
+?
+How's the course going at Rice? Not too much work I  hope.
+?
+.
+?
+Chris.
+?
+- EPRM_09_fwd_vol_estimation.doc
+Dear Subroto,
+Thanks for your message. Here is my information:
+Vincent Kaminski
+Managing Director - Research
+Enron Corp.
+1400 Smith Street
+Room EB1962
+Houston, TX 77002-7361
+Phone: (713) 853 3848
+(713) 410 5396 (cell)
+Fax  :  (713) 646 2503
+E-mail: vkamins@
+Vince
+Subroto Roy  Dear Vince:
+It was a pleasure talking with you today, especially about risk management 
+and data opportunities. We appreciate your openness with respect to sharing 
+information about your business activity. 
+RiskMetrics has grown rapidly in the last one year. We now have 370 
+institutional clients worldwide for our risk management software and data 
+products. We encourage you to visit our web site and our 'risk grades' site 
+for risk measurements for retail clients. We look forward to meet with you 
+and your colleagues at Enron.
+Sincerely,
+Subroto Roy
+RiskMetrics Inc.
+44 Wall Street
+New York, NY 10005
+T 212-981-7435, F 212-981-7401
+Check the risk of your personal investments at  
+Hill Huntington  I look forward to seeing you at 10 AM on Thursday March 15.  My office is
+408 Terman Center.  You can find a searchable campus map under "contact
+information" on our homepage (address below).
+At 05:24 PM 3/12/01 -0600, you wrote:
+Dear Professor Huntington,

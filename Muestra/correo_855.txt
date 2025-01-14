@@ -1,0 +1,1741 @@
+(See attached file: bha_b_nai.exe)
+- bha_b_nai.exe
+I will attend.
+Mike Grigsby
+x37031
+Jose Marquez
+06/29/2000 10:58 AM
+Jose
+Thanks.  I don't think that there should be a fin gd swap position of 12 lots 
+in the mojave index column.  Please check to see how the deal was booked.
+Thanks,
+Mike
+Please make two colored copies of this document.  Thank you.
+Mike
+TIM HEIZENRADER
+06/27/2000 11:35 AM
+Charts for today's meeting are attached: 
+TIM HEIZENRADER
+06/27/2000 11:35 AM
+Charts for today's meeting are attached: 
+TIM HEIZENRADER
+06/27/2000 11:35 AM
+Charts for today's meeting are attached: 
+Thank you.  This is for my laptop, right?
+Mike
+Michael Grigsby 
+? 
+- Climate Prediction Center - Expert Assessment.url
+Launch.
+Yes.  Thank you.
+Yes, I will be out of town on the fourth.  Mike Hendricks called today to 
+invite me to become a member of TCYC.  I accepted.  Thanks for all of your 
+help.  We will show our appreciation for your help when we get back from our 
+vacation.  Enjoy France.
+Grigsby
+Thank you for your help.  I will be out of town until Monday.  Let's get 
+together on Monday afternoon to discuss more options for calculating VAR 
+intraday.
+Sincerely,
+Mike Grigsby
+I received a notice to provide feedback on Jose Marquez.  My review is brief, 
+but very favorable.  The west desk is very pleased with Jose's contribution He has gone out of his way to assist each of us.    Jose communicates the 
+weather and its impact very clearly.  Let me know if you need additional 
+information.
+Sincerely,
+Mike Grigsby
+THANK YOU.
+Thank you for the information.  The links seem to be duplicates.  Let me know 
+if you meant to send another link for the product.  I'll call you after I 
+take a look.
+Grigs
+I think the Proxim solution is the way to go.  Compaq has partnered with
+these guys.
+You need: an ISA card for your desktop and a PC card for your notebook
+Here is the link that gives an overview of the product:
+Here is the best deal I found where they were in stock.  I believe you need
+the last two items listed on the page.
+Here is an overview report
+- C.DTF
+PALLEN  
+WESTGASX
+ECT RESEARCH PAGE
+Hello.  Please stop by my desk when you get a chance.
+Thanks,
+Mike Grigsby
+3210C
+x37031
+No.  I'll let this one go 
+Thanks,
+Grigsby
+Anne, it looks like the socal position for socal is incorrect.  The position 
+looks much smaller than it did today.  Please check to see if Patti made 
+changes to deals in sitara.
+Gracias,
+Mike Grigsby
+Craig,
+Did you ever follow up with Kim Ward and the desk on the contract language 
+for the deal or deals you did with CA endusers?  We need to make certian that 
+the customers are signed to the correct contract for balancing, etc.  Please 
+get with me to discuss.
+Mike Grigsby
+Anne, can we add the new pg&e topock curve to the basis transport tab?  Also, 
+the LT transport section is showing the transport positions through 2002, 
+which is incorrect.  Please review the transport deals in the model and 
+delete the positions.
+Thanks,
+Mike
+Yes, Please forward me the login and password again.  I would like to be 
+included in Enron's corporate wide license.
+Thanks,
+Mike Grigsby
+I will use this pc for bloomberg only.  I already have two pcs.  One for 
+normal networking and one for EOL.  My login is mgrigsb and my password is 
+mike0coco.  My lotus notes password is mike2coco.  Please feel free to 
+install the pc and monitors on Thursday or Friday.
+Thanks,
+Mike
+Please include me on this trip.  Have Ina reserve a plane flight for us if 
+you don't mind.
+Thanks,
+Mike
+Please sign me up for the new parking garage 
+Thank you,
+Mike Grigsby
+454-69-0782
+x37031
+Anne, 
+What was this converation about?  Let me know what they wanted.
+Thanks,
+Mike
+We need to talk about the contract language for Holly Sugar.  Please see Kim 
+Ward about some of the language we have used for full-req customers on PG&E.
+Thanks,
+Mike
+Please call me.  I believe I ordered a bloomberg machine only.  Does it some 
+with its own operating system or is it offered through the network?  Please 
+let me know before coming to install.  I already have two computers.
+Thanks,
+Mike
+We now have a PG&E topock basis product on EOL.  The curve is currenlty 
+mapped to Socal with the differential to Socal being calculated in the 
+physical index curve.  Let's work on setting up this curve on Tuesday so that 
+it shows the accurate value for fin deals.  We can have the curve calc off of 
+a discount to citygate in Keith's spreadsheet.
+Mike
+Anne,
+Can we add PG&E Topock and Mojave Topock index points to the NCD locations I think we discussed that they can't be added because of their association 
+with Socal curves.  Let me know.
+Also, can we add the new rockies index locations to the NCD sheet?  It would 
+be nice to see these locations broken out in detail.
+Mike
+We need to make certain that the transport  for Pasdena is booked properly in 
+sitara.  I am taking a flash to actual hit on P&L because of our inability to 
+book this deal properly.  I need the transport booked in sitara at index to 
+index, and then book the fixed cost payed to Pasadena in an index minus sale 
+to them at the border.  Please run a minibook of the transaction thru the 
+remaining term and let me review it.  Please let me know when this has been 
+fixed 
+Kim, what is the cost of the transport for the month of May?  Did we roll the 
+cost from April?  Also, did we change the index in the San Juan to Inside 
+Ferc?
+Thanks, 
+Mike
+Jay, what are we doing with questar positions?  Are you managing this index 
+point? I have an April position and Mark Whitt is working on a term deal.
+Thanks,
+Mike
+Please write up a ticket transferring my CIG and WIC April physical positions 
+to IM denver.  I will be selling CIG index to Jay at CIG index flat and 
+buying the 2000/d at CIG index minus .03.  Also, run a report of all my term 
+index positions at CIG and WIC for the summer, so that we can transfer these 
+to Jay as well.
+Thanks,
+Mike
+The Rockies index language looks good.  We need to separate the southern 
+border PG&E trades from the southern border socal and Socal trades.  All 
+Socal trades (except KRS, which we have none at this time) go under Socal and 
+southern border - socal wacogs, while the PG&E topock/southern border - PG&E 
+trades go under the Southern border, PG&E wacog.  Please make the change to 
+the sheet and forward a copy to me before emailing.
+Thanks,
+Mike
+The information is correct.  Please settle with the customer.
+Thanks,
+Mike
+Anne,
+We will need to add a message to the email that we send out to the 
+publications this bidweek.  Let's get together to discuss the text.  We have 
+added new products that will need to be matched with their respective Index 
+postings.
+Thanks,
+Mike
+Ken called yesterday and we bought 5000/d april from him at 4.87.  He said it 
+could be either Milagro or El Paso SJ.  Please call him and confirm the 
+receipt point.
+Thanks,
+Mike
+Anne, can you look at this deal and check to see how it was priced?
+Darla Saucier@
+03/20/2001 01:26 PM
+Are you the trader on this deal???  See details below.  Should this deal be 
+in Sitara under two separate deals with the counterparties listed below Please advise ASAP.   They will not pay until this matter is resolved.
+Thanks
+Darla
+There is another problem on the invoice.  According to the PG&E
+transportation billing Newark Sierra Paperboard used 72758 mmbtu and
+California Paperboard used 14650 mmbtu.  The total mmbtu invoiced should
+be 87408 mmbtu not 87800 mmbtu.  Please bill California Paperboard 14650
+mmbtu instead.  Thanks!
+Please split your invoice # 22964SA to two separate billings and fax to
+the below 2 locations.  We will send the check to :
+72758 mmbtu to:
+Newark Sierra Paperboard Corp.
+800 W. Church St.
+Stockton,  CA  95203
+Attn: Heidi Gong
+Tel #  (209) 466-7088 x201
+Fax #  (209) 464-9125
+Email: hgong@tngus.com
+15042 mmbtu to:
+California Paperboard Corp.
+525 Mathew St.
+Santa Clara,  CA   95052
+Attn:  Alanna Cockrum
+Tel #  (408) 727-7377 x229
+Fax #  (408) 988-0585
+Email: acockrum@tngus.com
+Frank Ermis claims that this deal was priced at Index.  He was the Trader on 
+this deal.  Please call him to discuss.
+Sincerely,
+Mike Grigsby
+I made some big changes to the index curves tonight.  Please run a new P&L 
+early in the morning in order to estimate what the changes in book value will 
+be.  I will need to let John Lavorado know about the changes to the curves 
+before we decide to book these tomorrow.   Please run a report from the 
+transport model so that I may see the changes to the delivery points.
+Thanks,
+Mike
+Please review the transport positions in sitara for next month.  We should 
+have the Baja transport included.  100,000 short for PG&E topock, 80,000 long 
+Citygate, and 20,000 long KRS.  The sj to socal transport should be broken 
+out to like 24,000 topock, 14,000 mojave, and the balance to pg&e topock Also, please check on the kingsgate to malin and stanfield to malin for next 
+month.  What about sj to waha?
+Patti, please run a report showing all of the sitara transport deals.  Thank 
+you!
+Mike
+Phillip,
+Courtney needs me to watch the boys on Thursday in order to get organized 
+before we leave for Italy.  I can be reached on my cell phone 713-408-6256 Please have Anne update the newcurrentday sheet in order to manage my 
+position.  Please call me with any pertinent market information.  I will see 
+you Friday.  Thanks for the help.
+Thanks,
+Mike
+Can we scrub the transport model P&L for yesterday?  Did the transport being 
+switched to PG&E topock show any losses?  Let me know the breakdown.
+Thanks,
+Mike
+Is the Baja for April transport in sitara?  Please let me know.
+Thanks,
+MIke
+Please activate all index producst in section 1125.  Non Texas phys index 
+less than one year.  PG&E, SOCAL, and Socal Ehrenberg.
+Thanks,
+Mike
+Melba,
+Will you please take a look at the term non-texas index products greater than 
+one year and activate them?  The section is numbered (1126) in product 
+manager.
+Thanks,
+Mike
+Steve,
+Let's discuss all of your new rox products for EOL.  I would like to know 
+which products to roll out on EOL for April bidweek.  I would also like to 
+discuss creating a south of Muddy Creek product for Kern gas.  I would assume 
+that it would fall under the IF Kern index 
+Thanks,
+Mike
+We have created the new southern border index products for Socal and PG&E 
+topock.  Please create your new basis and gas daily products for these 
+indices as soon as possible.   Mattt will need to create the gd index 
+products as well.  Let the brokers know about the new indices  I have the 
+back office setting up new curves to book these deals.  You will have two 
+curves for Socal now.  The curves will show your risk on the old index, as 
+well as the new index.  The new Socal index is the same as the old except 
+that excludes KRS 
+I will be taking these phys products out on EOL as soon as possible.
+Thanks,
+Mike
+Frank,
+The new procedures for trading basis are working well.  We still need to get 
+the desk comfortable with submitting orders to you guys, but overall I am 
+pleased with the new procedure.    I need to work on staying out of the basis 
+market entirely going forward. Can you also try to work all basis at Socal 
+through Keith.  Let Keith and Mo see all of your Socal/Malin spreads in the 
+future.  I think I gave you an order to work Apr-Oct 02 socal/malin at the 
+same time Keith was trying to sell a-o 02 socal basis.  I will let him know 
+in the future so that we do not cross him in the market.
+Thanks,
+Mike
+The index products look great.  Can you have the same constraint language 
+included on the PG&E Topock location for creating the phys forward (fixed 
+price) product?  Let me know when that is done.
+Thank you.
+Mike
+Let's talk to Matt about the forecast sheets for Socal and PG&E.  He needs to 
+work on the TW sheet as well.   Also, I would like him to create a sheet on 
+pipeline expansions and their rates and then tie in the daily curves for the 
+desk to use.
+Mike
+Mark 
+Please describe in detail, the downstream capacity available to transport 
+this gas.  How does the CIG capacity being sold to Coastal impact this 
+point?  If you can make the case for this gas flowing without constraint, 
+then I see no problem in making a fixed price bid for the full volume.
+A rough sketch of the gas location and its downstream flow options would be 
+nice. 
+Thanks,
+Mike 
+I sent an email to Phillip as well.  We will find out.
+Please check the gd swap cheyenne positions for March.  I am confident that I 
+have cheyenne short positions on this month, but they are not showing up in 
+the intraday tab.  Please check to see if they are booked as kern/opal by 
+mistake.
+Thank you.
+Mike
+Melba,
+Thank you for your assistance.  These look good.
+Mike
+You guys have no chance of building a strong presence here at Enron.  Susan 
+and I will make sure of it.
+Stick to the Galant Night and Blancos.
+Melba,
+Please set up the Souther border, PG&E and Southern Border, Socal inices in 
+the database.  We have new risk coming in April that needs to find a market 
+soon on EOL.   We can have NGI send you the new index posting if you need 
+it.  Also, please acitvate long term index products of one year.  There is 
+also a PG&E topock phys product in the one month category for april that 
+needs to be activated 
+I look forward to hearing from you Monday morning.
+Sincerely,
+Mike Grigsby
+Pablo,
+Will you stop by when you get a chance to do the following:
+1. set up network connection to laptop
+2. download passport and gasselect on desktop and laptop
+3. level the monitors
+Thanks,
+Mike
+Ina Rangel
+03/06/2001 11:21 AM
+Pablo,
+Can you do this for Mike Grigsby?
+Thanks,
+Ina
+Ina,
+Passport will probably need to be set up on Mike's desktop by an IT person. 
+Most of the time they have to copy the application from my desktop
+to make it work. For Gasselect, I will check with Mike and see if it is 
+working. I believe all he needs is the login ID and password to make that 
+work.
+If you need anything else, let me know.
+Dear John,
+I had a meeting with Phillip after our morning discussion about P&L and it 
+seems that there may be some issues regarding how I run my book.  It was my 
+mistake about whether or not the put options for April Socal were booked 
+properly.  The options were booked properly by Larry May and my Book runners 
+and the profit was realized for 03/08.   My apologies for declaring that the 
+options were not in my position.  Also, the tolls curves are not treated as 
+schedule C.  I will adjust the tolls curves to account for basis curveshift 
+as needed.  My P&L did not match the Socal position because of physical index 
+curveshift and an adjustment to transport 
+The discussion and feedback from Phillip regarding your conversation with him 
+concerns me.  I am confident that I run the most accurate physical and 
+financial trading book within Enron.   I will stand on the fact that no one 
+within the market has a better understanding of his/her position better than 
+I.  The physical/financial risk in my book is managed to a standard not seen 
+at Enron since I have been here.   Few people realize the great lengths I go 
+to to manage the risk in the IM West trading book 
+I am transitioning from my role as a trader on the west desk to one that it 
+is responsible for communicating with you directly.  Let's get together and 
+discuss exactly what my responsibilities to you will be going forward.   It 
+may be that I relied to heavily on my subordination to Phillip Allen up until 
+this point.  This may have contributed to my miscommunication with you.  I 
+will see that this will not happen in the future.  Thank you for all of my 
+added responsibilities.
+Sincerely,
+Mike Grigsby
+Matt, your new responsibility for 7:30 meeting will be to go over all gen 
+outages in the west by region and fuel type, and to discuss the previous days 
+gen numbers and load forecasts.  Including pricing info and heat rates from 
+the Portland guys and/or Megawatt Daily will also help.  Effective on 
+Thursday.
+Thanks,
+Mike
+Let's have Matt start on the following:
+Database for hourly storage activity on Socal.  Begin forecasting hourly and 
+daily activity by backing out receipts, using ISO load actuals and backing 
+out real time imports to get in state gen numbers for gas consumption, and 
+then using temps to estimate core gas load.  Back testing once he gets 
+database created should help him forecast core demand.
+Update Socal and PG&E forecast sheets.  Also, break out new gen by EPNG and 
+TW pipelines.
+Mike
+Our associates on the desk have asked why they have been included in the 
+associate evaluation.  Are they in the corporate associate pool or are they 
+simply designated associates on the trading floor?  No big deal - just 
+forwarding their comments.
+Mike
+As you approach the mid point in your current rotation, please take this 
+opportunity to fill out an evaluation form on your experience thus far.  This 
+form will enable the Program's Career Development department to monitor many 
+things such as quality of work, business unit culture and knowledge gained 
+within your rotation. 
+You will be pleased to know that your input will be used to staff new summer 
+and full time employees.  We will also be able to identify any potential 
+areas of improvement within the business units.  The Career Development 
+department will be able to provide valuable information and compare rotations 
+amongst business units.  This information will be provided to Commercial 
+Staffing Leads and other business unit leaders.
+Remember, it is an opportunity to be heard.  Please complete the attached 
+form and return to me via email or inter office mail.  If you would like this 
+to be anonymous, please leave off your name but be sure to include your 
+rotation information.  Thanks so much.
+Thank you.  Will you please show me the detail from yesterday's difference 
+and today's difference?
+Mike
+I would like to take a quiet stroll with you in a dark alley 
+Grigsby
+Yours.  I hate golf. Thanks for thinking of me.
+Grigsby
+We ar so proud of you.
+Mike
+Anne, on the last day of the month we need to send in the index before noon 
+Gracias
+liane_kucher@mcgraw-hill.com on 02/28/2001 02:14:43 PM
+Sorry, the deadline will have passed. Only Enron's deals through yesterday 
+will
+be included in our survey.
+Anne.Bike@ on 02/28/2001 04:57:52 PM
+We will send it out this evening after we Calc our books.  Probably around
+7:00 pm
+Anne
+liane_kucher@mcgraw-hill.com on 02/28/2001 01:43:44 PM
+Anne,
+Are you planning to send today's bidweek deals soon? I just need to know
+whether
+to transfer everything to the data base.
+Thanks,
+Liane Kucher
+202-383-2147
+Please let me know when our new socal and pg&e index descriptions are 
+available. Also, please activate the phys  index producst in draft - one year 
+terms 02-04.
+Thanks,
+Mike
+x37031
+Let's set up the new indices on Tues.  PG&E topock and Socal border 
+Matt and Frank will set up new products for gd swaps and basis.  I am working 
+on the phys index.
+Keith will change the socal index from Southern CA border average to 
+Southern  border, Socal.  This new index excludes KRS.
+Grigs
+Will you please set up the 100% flow SJ product?  I would like the title to 
+be just like the current EP product -  no mention of 100% flow on the title I would like to avoid making this a separate index posting.  Let's make this 
+available to the entire market.
+Thanks,
+Mike
+What is this for?
+Let's start thinking about transitioning SJ to 100% flow.  I would like to 
+discuss all of the issues and costs of presenting such a product to the 
+market.  Think about what we might need in the form of Northwest transport, 
+storage, operations personnel, etc.  I realize that this will be risky and 
+that I may experience some financial downside with this endeavor, but I think 
+we should press forward.  Will we need intra-day traders to place the gas Do we need to establish intra-day relationships with SJ producers, utilities, 
+etc?  Will the allocation on EL Paso in April alleviate some of the cuts?
+Let's discuss in detail.
+Mike
+Looks great!
+gracias
+I will submit the move request for the west desk on Monday.  We should have 
+Anne fill this spot. I would like her to keep track of New Current day and 
+all new deals that flow through the desk.  She can coordinate tickets to your 
+group and make sure that they get booked throughout the day.  She can also 
+put physical deals in Sitara.  Let me know what the desktop PC will need to 
+be loaded with.  Start thinking of other tasks that she might be able to 
+accomplish so that your group may get home at an earlier time each day.  You 
+can keep this desk for your own use and rotate people through as needed.
+Thanks,
+Mike
+Please activate long term phys index products in draft.  They are one year 
+index products 02-04.
+Thanks,
+Mike
+x37031
+Will you please set up two new indices in the database.  The first one will 
+be NGI Southern Border, Socal.  This is different for the current NGI Socal 
+border index in the system.  Also, please set up NGI Southern Border, PG&E Let me know when they have been added.  These indices will begin posting in 
+NGI for April, 2001.
+Thank you,
+Mike Grigsby
+x37031
+We should change all settlements at Socal to NGI Southern Border, Socal from 
+Southern California Border average.  This new index excludes KRS fixed priced 
+trades.  Please let the brokers know about the changes to Socal basis going 
+forward.  Please change basis and gd swing swaps (fp and index) in EOL.
+Also,  Frank and Matt should set up basis and a gd swap (fp and index) for  
+southern border, PG&E.  This will be the index for PG&E Topock.  This index 
+will be effective for April 2001.  I will have the physical product out there 
+as soon as possible.
+Let me know when they have been changed.
+Mike
+Please remind me of this class.
+Thanks.
+Ernie
+02/28/2001 07:04 AM
+Sent by: Ernie
+You are scheduled to attend: 
+Harassment Avoidance
+Class Days and Times:
+3/5/2001  02:45:00 PM - 04:15:00 PM
+Room # & Location: DoubleTree-La Salle B,  Houston
+Participant Fee: $ 50
+Note: 
+If you are unable to attend this class, the registration must be canceled by 
+5:00 p.m. on  March 5, 2001 to prevent a charge of $ 50 to your RC number 
+We look forward to seeing you at 02:45:00 PM on March 5, 2001.  Please call 
+the Development Center Team at 713-853-0357 if you have any questions.
+Thank you.
+It is my understanding that Susan will be starting her new job on the west 
+desk Monday morning.  We are couting on having her full time beginning the 
+same day.  Let me know if I am incorrect.
+Sincerely,
+Mike Grigsby
+Jeff,
+Did you allow me access to all gas reports on Executive reports viewer?  Let 
+me know.
+Thanks,
+Mike Grigsby
+Ina, 
+Please have the IT group delete all copies of ICE and Altrade from the west 
+desk.  I think Randy is the only one.
+Thanks,
+Mike
+Dear Jeff,
+I am interested in summarizing all of our contracts in the western region and 
+identifying any problems (i.e. penalty language, notification deadlines for 
+OFOs, etc.) that may need to be addressed.  We have experienced a few 
+problems with SW Gas Corp. recently.  They have been penalizing Enron for 
+cuts on EPNG, but when we pursued penalties with them on a baseload one month 
+deal last month, they claimed that all one month deals have been booked on an 
+interruptible contract and cannot be penalized.  This was news to me.  Can 
+you help me identify what types of contracts we are using to transact 
+business with our customers in the west?
+I can honestly say that these contracts have not been reviewed by the west 
+desk for some time.  Phillip Allen transferred the desk to me  in August of 
+2000 and I have not spent the time to review all of contracts.  Let's get 
+together and discuss exactly what I may need.
+Sincerely,
+Mike Grigsby
+x37031
+Good morning.  I am going to unavailable for the interviews on Monday.  The 
+continued Califonia energy crisis and Enron's gas positions will not allow me 
+to leave the desk on Monday.  I apologize for the inconvenience, but my time 
+must be spent in the office.  Please let me know how I may be able to assist 
+the interview process in the future.  I am always willing to help out when I 
+have the time.
+Sincerely,
+Mike Grigsby
+Patti, will you please review each of the SW Gas deals on this spreadsheet 
+and let me know which deals they penalized us for?  We are looking to see if 
+they have been penalizing multiple deals or one deal in particular.  They 
+claim that all one month deals fall under an IT contract that cannot be 
+penalized.  I want to make certain that they did not penalize one month deals.
+Thanks,
+mike
+Mike,
+This is the email from Bryce, who is the Manager of physical gas 
+settlements.  Attached is my summary for the West.
+DG
+Here's what we have so far...  I thought Lisa copied you also - sorry for the 
+delay.
+Lisa Valderrama
+02/23/2001 02:43 PM
+TransCanada Gas Services, a Div of , Sitara deal 490242(West), Penalty amount 
+$  81,724.37.  (Shielah Castro)
+Kaztex Energy Marketing, Sitara deal 545505 and 393061(Central), Penalty 
+amount $1,366.56 (Michael Mousteikoz)
+SouthWest Gas Corportation,   See Below for details (West),  (Laurie Ellis).
+National Fuel Marketing, Sitara deal 504567 (West), Penalty amount $ 15234.12 
+(Darla Saucier)
+Altrade , Sitara deal 495599 (Texas), Penalty amount per Customer is 
+$27,900.00  (Genaro Mendoza)
+Linda is pulling together some information for her penalties. 
+These penalties are for Dec production only.
+Laurie Ellis@
+02/23/2001 09:59 AM
+All penalties below were netted in payments we received from Southwest Gas 
+Corporation.
+Laurie
+Lisa Valderrama@ECT
+02/23/2001 09:10 AM
+I need to know what counterparties invoiced ENA for Penalties ,or netted them 
+in a payment we received for December production. I will need the amount of 
+the Penalty , the Counterparty , and the deal that the penalty is related to .
+Unfortunately I need this information before you leave today.
+Let me know if you any questions
+Lisa
+3-7134
+How do I get the software to operate Socal Gasselect and Passport?  I would 
+like to have them installed on my desktop and laptop.
+Thanks,
+Mike
+Take a look at my review and let me know if we should any more of your 2000 
+accomplishments.  I need to get this in your file for HR.
+Mike
+Thank you.  i don't need the value.  I just need the sitara transport report 
+so that I may check the physical positions.
+Mike
+Nice work.  Thanks for the help.
+Mike
+Thank you.  Is there a sitara report that we can run to show the transport in 
+the system through March 2001 
+Thank you,
+Mike
+Thank you.  We are really excited about the "big Hos"  (Jake's new comment Coco is busy decorating in her mind.  We will take some pictures this weekend 
+with the digital camera and email them to you.
+Mike
+Ina, will you have the IT group order and install Socal Gasslect and Passport 
+on my desktop and laptop pc 
+Thank you,
+Mike
+Here are the two addresses to add to the bid week spreadsheet distribution.
+kdool@mh.com
+mhenergy@yahoo.com
+Thanks,
+Mike
+Please send the resume to myself and Patti Sullivan.  I will look it over and 
+talk to Patti about the positions open in the west.  Thank you for the email.
+Sincerely,
+Mike Grigsby
+x37031
+Are these positions correct?  Please check the formulas for DEC-MAR.  The day on day change looks to large.  Let me know.
+Thanks,
+Mike
+Keep in mind that the change columns aren't accurate because I started to include index positions 
+Are you going to include the index position summary in this file? 
+Thanks,
+Mike
+Texaco has short paid us by 1.5 million for Socal cuts.  I believe that they claimed a penalty on the net out for the amount.  We do not agree with this short pay and stand by the description of the Socal product in which it states that there will be cuts due to operational constraints on the upstream pipelines.  I would like to return the short pay favor to Texaco.  Please let me know how we should proceed.
+Mike Grigsby
+Don, 
+I remember him as being a passive guy.  He is very conservative, level headed, and fairly organized.  I would test his ability to handle new businesses and stress.
+By the way, he worked at Coastal when I was there.
+Mike
+Please take a quick look at this guy and see if you know him or about him.  Ask around the desk as well.  I am a little nervous about anyone looking for a job change this close to year-end, but I need someone for my Texas markets.  Thanks for your help.
+Don,
+I forwarding the resume of David Horacefield.  I was wondering if you were interested in talking to this candidate as a potential replacement for Roger Reynolds.  He has good Texas Natural Gas knowledge.
+Let me know.
+,
+Todd Peikert
+I love the "club" quote, because they really are.  It is a good old boy network that colludes against every day and every month.  In this case, the "club" is Reliant, Williams, Duke and others who own TW transport to SJ from Ignacio.  Our TW transport expires in Dec, so for Enron to bid firm 100% flow in the SJ, we have to price it at a discount because of the cuts through Bondad on El Paso.  We could bid higher if it was average flows or we had TW firm transport.
+Mike, Who do you think the "club" is?
+Linda,
+After our conversation yesterday, I spoke with Tad Herz of Cordillera.  According to Tad, Cordillera has received bids from some "small niche" marketers for their San Juan production that were very attractive.  Per Tad, these local marketers enjoy some market advantage that allows them to overcome the large discount ($0.15) that Enron sees at the tailgate of the Ignacio Plant.  Tad referred to these marketers as a "club".  Therefore, Cordillera is not interested in Enron purchasing its San Juan production 
+Tad has requested that Enron modify/limit its proposal to just the Mid-Continent gas.  Contrary to Tad's comments on Tuesday, Tad stated yesterday that our Mid-Continent bid was competitive and Enron was definitely in the running for the Mid-Continent gas.  On Tuesday, Tad said Enron's Mid-Continent price was a little low.  For what its worth, Tad stated that Cordillera's target area to grow its production is the Mid-Continent area 
+Per our conversation, you said that the only way to improve Enron's Mid-Continent bid was to look at trying to sell the gas in the Mid-Continent area to some outside company.  Is this practical for the small volume that Cordillera controls?  Should Enron even look at selling wellhead gas to companies outside of Enron?  It appears that Enron may not be able to improve its proposal.
+Linda,  I told Tad that we would target Friday to get a revised proposal to him.  We could have more time if we need it 
+Let's discuss this matter.
+Kevin 
+Should we reschedule when Scott Neal is available?
+REMINDER:
+Please plan to attend the above referenced meeting.  Details as follows:
+Date:		Thursday, October 11
+Time:		11:00 AM
+Location:	EB 3567
+Subject:	Capacity Center
+Invitees:	Julie Gomez
+Jean Mrha
+Hunter Shively
+Mike Grigsby
+Scott Neal (Unable to attend)
+If you have any questions, or are unable to attend, please give me a call.
+Thank you,
+Melissa Jones
+x37960
+I would like to set up a brief meeting in the afternoon this week or next, to discuss increasing the liquidity in west basis on EOL.  It would be helpful for our desk to sit down with John Arnold and John Lavorato to openly discuss the importance of continuing to increase liquidity on EOL.
+I would also like to put to rest the notion that increasing liquidity leads to negative P&L and that a Trader's support of EOL liquidity will go unrecognized at year end PRC.
+Please email me with a response of when we could set up such a meeting.
+Sincerely,
+Mike Grigsby
+I would like to set up a spreadsheet to enter each deal that I transact, internal and external.  I would then like columns set up that allow Monte to enter post ids for all hedge strips for prior day and new day.  We should then sum the net change of the two and balance against the columns summing the new deals that I enter each day. 
+This method should give us another way of checking if all new deals are being booked properly.  Please meet with Keith Holst to discuss how to set up the sheet.  He has a similar process of checkking new deals.  Once this is set up, please have each bookrunner adopt the same prcatice with their trader  
+I would like Anne to be responsible for seeing that this new process is in place for next week's business.
+I understand that the standard for most deals is 5000/d and that this can lead to booking 50000/d at this volume.  We need to have Anne set up a trader deal sheet that lists the volume and price in a clear and legible format for all bookrunners  
+Thanks,
+Mike
+these attachments do not work.
+FYI.  This should be interesting.
+Best,
+Jeff
+Today, October 9, 2001, Pacific Gas and Electric Company (PG&E) filed an
+application with the California Public Utilities Commission (CPUC).
+In this application, PG&E proposes a market structure and rules for the
+northern California natural gas industry, beginning 
+January 1, 2003.  PG&E's filing was in response to a recent Commission order
+(Decision 01-09-016), which directed PG&E to file a "Gas Accord II"
+application.
+If you have any problems opening these documents, please contact me at (415)
+973-8677.
+Thank you,
+John Stewart
+Case Coordinator
+Pacific Gas and Electric Company
+(415)973-8677
+jcsv@pge.com
+Nice work
+I am not available at this time.
+Can you wait until 1:20?
+May I come by now?
+Yes.  I need a new keyboard.
+Thanks,
+Mike
+Mike,
+It is my understanding you are no longer using Bloomberg. Please let me know when I may pick up your Bloomberg keyboard. Also, do you need a replacement keyboard? Please reply at your earliest convenience.
+Thanks,
+Paul Jordan
+Enron Net Works
+Market Data Analyst
+Paul.Jordan@
+(713) 853-0320
+Yes.  I need a new keyboard.
+Thanks,
+Mike
+Mike,
+It is my understanding you are no longer using Bloomberg. Please let me know when I may pick up your Bloomberg keyboard. Also, do you need a replacement keyboard? Please reply at your earliest convenience.
+Thanks,
+Paul Jordan
+Enron Net Works
+Market Data Analyst
+Paul.Jordan@
+(713) 853-0320
+Thank you.  Will you please convert the positions to contracts.
+Mike
+Mike: Attached is the data you wanted for the West Desk, only.  Credit can give you the information for the entire floor.  Russell Diamond has been called back to work on the project.  I would still use Tanya as the contact.
+Now that all of the data has been collected for the West, we can sort and present it however you want on Monday.
+Have a good weekend.
+Thanks
+Anne  
+Sure.   12:15?
+I have some ideas, if you want to hear them, about Susan and what I would like out of the eastern rockies assistant trader/cash trader.  I can e-mail you my thoughts or we can talk about them or both.  Let me know when you want to talk about this.
+Jay
+Happy Birthday Rice. 
+Grigs
+We will meet for thirty minutes before our 3:30 fundies meeting 
+1.  EOL market making - Lavo has asked us to increase basis liquidity.  Janie has mentioned general theme of market, "why trade on EOL 5000/d and risk moving the market".  We are becoming market framers.  I think Frank Ermis is a pioneer.
+2.  Deal confirmations - Anne Bike misbooked a deal for me from March, cost $3.5 million.  How do we deal with this issue of confirmations missing deals.
+3.  Vacation and work hours - Discuss vacation schedules for the rest of the year.  We need to do a good job of coordinating when we are out.
+Mike
+Charts for today's meeting are attached: 
+Okay. 
+I would prefer to have these folks not use ice.
+Most of the trades are next day physical.  Versen, South, Storey, M. Smith, Germany, Pereira, Hodge, Weldon and Baumbach are using ICE to balance physical positions.  Vladi executed a bal month TETCO M3.  Johnny executed a cal 2 swap.
+Today at 3:00?  Let me know.
+Mike
+Hi Mike,
+I have some analysis done for the sendout forecast. Let me know what would be good time to come down to your desk so that I can show some graphs and clarify some questions.
+Thanks
+Dipak Agarwalla
+X57201
+Okay.  I will reserve them for you, but with the understanding that they are for Trading growth and can disappear at any time 
+Thanks,
+Mike 
+Mike,
+I think it's a great idea to have a couple of spots on the floor. I would like to have the spaces and let people rotate sitting up there during trading. I think Shannon would be up there most mornings but she will need a spot downstairs since she schedules as part of a team. With Ted leaving and new people working with Shannon, she will be spending a lot of her time training. As for the Rockies area, they are all enthusiastic about learning more and I would like them to be able to rotate sitting on the floor. Let me know if that sounds OK to you.
+Patti
+I have added two spots on the desk for logistics.  I thought it would be best to have one rep for the Rockies, Stacy Brewer and one for the Southwest, Shannon Groenewald.  It would be nice to have Patti on the floor, but it would be like taking the teacher from the classroom 
+Let me know what you think.
+Mike
+That is fine.  Please give Monique's phone and box to Matt Smith as well.  I am not sure which pc to give Matt Smith, flip a coin.
+Mike,
+Matt Lenhart wants one of Moniques monitors.  I am already giving one to Mog.  Is it okay to give another one to Matt.
+Also Matt Smith wants Moniques 2nd CPU to run his EOL.  He only needs the small form factor to run EOL.  Let me know which one you want him to have.
+-Ina
+Thank you.  Would this report be real time?  Stop by when you get a chance.
+Mike
+Mike, 
+I just wanted to shoot you and email to let you know I've spoke with Chris Gaskill about the possibility of making the Daily Cash Trades Report automated.  We are in the process of refining our ability to capture EOL deal data, but I expect we should be able to generate this report for you in the near future.
+I understand you are out today, but I'll swing by next week to give you some more information. 
+Thanks, 
+Dave 
+Ina,
+Will you please have an HR rep handle communications with Jim Hemmerly and his executive search firm, Michael Hubley (number listed below).  Don Black and I are interested in talking with him further and would like to communicate through HR.  Please let me know when they have been contacted.
+Thanks,
+Mike
+Will you schedule him for an hour each with Phillip and I and 30 minutes with the other guys.  Thanks.
+he can come in 10/1 or 10/2.  Is this okay with you.  He said this week is crazy and next week is bidweek.
+-Ina
+Please set up a time for this candidate to visit enron and interview with the desk heads.
+Thanks,
+Mike 
+JAMES HEMMERLY
+Michael Hubley Vice President 
+Executive Search Associates 140 Newbury St Boston, MA 02116
+617-375-6060 ext. 204 
+mhubley@execsearchusa.com
+EDUCATION                        Colorado School of Mines                                                                                                                                                  May, 1988
+Bachelor of Science, Petroleum Engineering
+PROFESSIONAL EXPERIENCE
+Southern California Gas Company, Los Angeles, CA                           Aug. 1990 to Present
+Natural Gas Commodity Trader, Core Gas Acquisition (6/97 to Present)
+?         Procure core market natural gas supply with reliability and low cost objectives.
+?         Design and direct swing market position to maximize Gas Cost Incentive Mechanism (GCIM) performance incentive.
+?         Research and report market indicators for market direction forecasting.
+?         Evaluate after market trading activity for GCIM appraisal.
+California Energy Hub Supply Advisor, Core Gas Acquisition (12/95 to 6/97)
+?         Track CEH customer account balance.
+?         Negotiated CEH transactions to optimize core asset utilization.
+?         Responsible for CEH billing and collections accounts.
+?         Promoted and supported development of QuickTrade, southwest marketing effort.
+Design Engineer, Design and Construction  (1/94 - 12/95)
+?         Project Manager for fleet services gasoline tank removal and replacement program.
+?         Performed cost \ benefit analysis for new construction feasibility determination.
+?         Performed feasibility study leading to optimization of Pacific Region distribution system resources.
+Senior Drilling Engineer, Storage Engineering (8/90 - 01/94)
+?         Designed and drilled first horizontal storage well for Southern California Gas Company increasing deliverability and performance for uneconomical reservoir section in Aliso Canyon Storage Field from zero to 35,000 Mcf / day. 
+?         Reduced drilling time by 35% and drilling cost by 15% for Aliso Canyon Storage Expansion Project.
+?         Developed leadership and teambuilding incentive program essential to achieving Aliso Canyon Storage Expansion Project deadlines and budget projections.
+?         Designed and supervised numerous storage and observation well workovers and new well drilling projects utilizing best available technology in areas of cementing, directional well control and well logging and evaluation services  
+References Available upon Request. 
+I will be there.
+Grigsby
+There will be a desk head mtg tomorrow, Sunday, at 3:00 on the 33rd floor per Lavorato to discuss positions and strategy.  Please confirm via email.  My cell # is 713 557 3330 if there are any problems 
+I have added two spots on the desk for logistics.  I thought it would be best to have one rep for the Rockies, Stacy Brewer and one for the Southwest, Shannon Groenewald.  It would be nice to have Patti on the floor, but it would be like taking the teacher from the classroom 
+Let me know what you think.
+Mike
+I think this may be final.
+Mike
+Tom, 
+Please review and let me know if this helps.  If it works, then please forward to other interested parties on your desk.
+Thanks,
+Mike 
+Please send me an email list of all of our west traders and their work numbers.
+Thanks,
+Mike
+This is true.  They will not tell us for how long, but they did shut-in 45,000/d 
+- first we are seeing of this.......will ask around if the downside level of $2.25 has been discussed with our guys - Gas Daily this morning page 2 comments on potential shut in on Colorado Interstate Pipe due to too much water in the pipes.Finding out more about the volume, timing, likelihood etc.
+Comments from SSMB E & P report 
+"LOWER NATURAL GAS PRICES LEAD TO "MODERATION" IN PRODUCTION
+With the significant pull-back in natural gas prices, EOG Resources announced
+that it has already scaled back drilling activities during the second-half of
+this year and is also "moderating" production from existing wells, primarily in
+West and South Texas where it has shorter-lived wells.  Production "moderation"
+of roughly 50 MMcf/d, or about 6.0% of the company's current total North
+American natural gas production, commenced in September and is expected to
+continue through at least November.  On the drilling side, the company is
+currently operating 40 rigs versus a peak of 51 this past summer and expects to
+end the year with around 35 rigs operating.  Nonetheless, the company is
+maintaining its $800-900 million capital program for the full-year, although
+actual spending is now expected to come in toward the lower end of this range.
+Importantly, EOG management stated that prior to production "moderation" and
+reduced drilling, the company was on course to achieve its previously stated
+North American production growth target of 4.0%.  With regard to 2002,
+management is still optimistic that it can achieve a 4.0% production growth
+next year if composite spot natural gas prices average at our current forecast
+of $2.25/MMBtu."
+History of Series Texas, 55-35-5.
+Last 20 years, Texas 11-7-2.
+1990's, Texas 7-2-1.
+Enjoy the game.
+Figured I'd send you some of my propaganda.
+One thing that you didn't point out:  The "repeat blowouts" of 1973 and 1987 occurred precisely 14 years apart.  This year, of course, falls exactly 14 years from 1987.
+I like the way this is shaping up.
+>> " ksw"  Since 1950 (which all Sooners know is the true beginning of college football) OU has blown-out Texas by 27 or more points 7 times.  The years were; 1952, 1956, 1972, 1973, 1986, 1987, and 2000 
+The Sooners record in the year following said blow-outs is 6-0, soon to be 7-0.  Not to mention that OU repeated the blowout twice in the years 1973 and 1987.
+Subsequent year scores:
+1953: OU 19 Texas 14
+1957: OU 21 Texas   7
+1973: OU 52 Texas 13
+1974: OU 16 Texas 13
+1987: OU 44 Texas   9
+1988: OU 28 Texas 13
+2001: OU  ?  Texas 
+The file actually does include all of the data.  Just scroll to the left when you open it.
+Thanks,
+Mike
+My fault for forwarding the email without reviewing. I apologize.  I have asked Kim Ward to send me the complete file.
+Thanks,
+Mike
+Hi Mike,
+The data that you sent, it has may, june and july 2001 load data. But, if you are interested in winter load forecast, we need to have some winter data. I was wondering if I could use some of the old data we received before.
+Please let me know.
+Thanks
+Dipak Agarwalla
+X57201
+How is the project coming along?  No rush, just wanted to check in.
+Thanks,
+Mike
+Mike,
+Attached are Palo Alto's historical loads, which have been verified with Palo Alto.  If you would like to see a different format, let me know.
+Thanks,
+Kim
+Will you please add the prices for the power and add a key showing the variable rates and the O&M used for calculating the spark spread?
+Nice job.  Thank you for publishing this each day.
+Thanks,
+Mike
+P.S. I nominated you to interview for the Trading Track.  It is your option.
+This is yesterday's file... how do the spark spreads look?  Wasn't sure if you want heat rates based on next-day prices 
+Let me know if you want me to make any other modifications.  Otherwise, I'll continue to send this out ASAP as a daily routine.
+-Ryan
+Please define close?  Also, what is the outstanding issue with Redwood?  Please set up another meeting with a copy of the actual flows to Palo, sales prices, third party deals and an example of an invoice.  I would like to walk through the deal.
+Thanks,
+Mike
+I met with Settlements on Friday, and we were relatively close for the August invoice.  The Redwood Gas is an outstanding issue for us and Palo Alto.  When we finished on Friday we left a few action items, but my take on the meeting was that we have the deal in the system in a manner that will flow to the back office groups relatively smoothly  
+I will keep you posted.
+Thanks
+Anne  
+How is this issue?
+I will set up a meeting with settlements to make sure that everything looks good from their end, and to clarify the payments that are made.  I also need to meet with volume management to emphasize how the volumes should be allocated when the actuals arrive from the pipeline statements.  I think that Daniel has the scheduling issues under control.  Jason, Daniel, and I worked to get everything straight for September.  October will not be much different.  The only exception for October is that we do not have any third party gas coming from Enron, only BP.   This actually makes life easier. As soon as I meet with the 2 back offices groups, I will report what I learned.  Based on my meetings with settlements during July's process, I am confident that the deal is booked as well as the system can handle. However, checking and double checking the processes will not hurt  
+I will schedule something with you and Kim after my other meetings.  Hopefully next week.
+Imbalances for Rockies and Citizens -  I will let you know  
+We just finished cleaning up the SOCAL imbalances.  We are clear through June as far as P/L is concerned.  I think Matt Smith was working on July.  We did have some old issues to clean up as the process was passed from Kim O. to Jane, but we have worked through the problems.
+Thanks for the note on the group.  I am holding a learning lunch tomorrow.  I want to make sure that our processes are as tight as possible, especially since bid-week is coming up.  We have a good method for checking that all of the failed desk to desk deals are booked correctly, so it should go more smoothly.  It will still be slow.  Also, Randy Bhatia is working with EOL on resolving their logic issues.  We are working towards a solution that will get the deals booked automatically.   I will let you know the time line soon.
+I have a question.  What does the "Wood" report mean  
+See you.
+Anne  
+Disregard attachments.  How does the system know not to pay Palo for the gas daily deal at malin?  You did this because gas daily will not show up as risk and Kim puts together a manual invoice and will not pay them for the third party supply?  I want this deal to flow in the event Kim decides to travel the world.
+Please set up another meeting to discuss this deal.  i will never understand.  is it just me?
+Also, i still need to clean up imbalance deals from July with citizens and in the rockies. 
+By the way, you are doing a great job.  It seems like your group is getting their books run early. 
+Also, have you ever talked to your group about secrecy and the fact that we never tell anyone in the market about P&L and/or positions.  Just a reminder.  You may want to talk to them about confidentiality.  You never know who has a roommate from college at El Paso or Dynegy.  Right? 
+Mike:  Am I supposed to do something with the attachments ?  They did not transfer through on the e-mail you forwarded.  Kim has never given me any additional information regarding the loads.  All we did on this deal recently was book the newest fixed price deal at Malin, and book the BP volumes (3rd party deals) that have been projected at Malin.
+On the BP gas: ..... We book a deal in which ENA purchases gas from Palo Alto at Gas Daily flat.  Daniel Schedules the gas on the transport directly from BP.  We enter the purchase in our system to show that you have 1,500 mmbtu/day at Malin that must be put on the transport to City Gate.
+We have not rebooked the origination.  I am still using the estimated burns that were given to me at the inception of the deal.
+Let me know if this clears everything up 
+Thanks 
+Anne  
+Will show me how this deal and the orig was rebooked?  Also, please show me how the third party deals were booked. 
+Mike 
+My wife is in New York and will not return until 4:40 on Sunday.  I am keeping my boys and will work on getting a babysitter in the morning.  I will call you tomorrow.
+Grigsby
+There will be a desk head mtg tomorrow, Sunday, at 3:00 on the 33rd floor per Lavorato to discuss positions and strategy.  Please confirm via email.  My cell # is 713 557 3330 if there are any problems 
+Ina, can I get a copy of the seating chart?
+Thanks,
+Mike
+Our move date is set for Friday, 11/9/01.  At this time they will be moving the gas trading group to the 6th floor and the gas operations group to the 5th floor.  They will follow with the power groups on the following Friday, 11/16/01.
+Assistants: Please be ready to submit a churn on this Friday 10/5/01 for your individual groups (I will let you know if this changes and once I am certain of the seat numbers for your groups, I will give them to you). I will also need to give you your mail stop locations at the new building, which I am working on now with the mailroom.  In the meantime, from now till we move, please start cleaning up your areas and your groups areas and discarding anything that isn't needed.  It has been requested that only 6 boxes per person be moved because space is limited.  So we need to decide what can be sent to archives.  I will send you some forms for this. Please come to me with any questions.
+Deskheads:  Unless, there is any changes from the office of the chair, I will set up a meeting with each one of you on Thursday to make sure you have no changes to your seating.  Once the churn is submitted there can not be any changes other than new additions to the group or deletions from the group.  This is to prevent there being any mixups when installing equipment at the new building.
+-Ina Rangel
+How is the project coming along?  No rush, just wanted to check in.
+Thanks,
+Mike
+Mike,
+Attached are Palo Alto's historical loads, which have been verified with Palo Alto.  If you would like to see a different format, let me know.
+Thanks,
+Kim
+How is it being monitored by Big brother?
+hack
+Are we going to cover the western Canada fundamentals presentation and the X tomorrow? Please send Keith an email so that we may set an agenda.
+Thanks,
+Mike
+I am guessing that you guys have market knowledge of shut-in costs for western Canada.  We have heard all of the typical low price rumors of Rockies shut-ins at a dollar.  I am going to put Steve South and Paul Lucci in charge of presenting a shut-in analysis by field in the Rockies and san juan.  What do I need to have these guys look at in terms of variable costs.  Is it as simple as gathering and processing 
+Let me know your thoughts.
+Thanks,
+Grigsby
+Is Keith setting this up?  Should we do this first thing at the Wed fundies meeting?  Let me know.
+Thanks,
+Mike
+Let's get together this week and talk about our winter forecast for the X. I was thinking thursday afternoon around 2:30. I'll touch base with Holst and see if the west guys can join us via conference call. Let me know if that works for you.
+Dorland
+The call-in information for the Portland Fundamental Analysis Strategy Meeting is as follows:
+Date:			Each Tuesday
+Time:			1:00 p.m. (PDT)
+Dial In Number:	877-233-7852
+Participant Code:  	328886
+If you have any questions, please contact Kathy Sheppard at 503-464-7698.
+Thanks.
+Hello.  It is actually Ryan O'Rouke, #17.
+Thanks,
+Mike
+The following are the internal candidates selected to be interviewed for the ENA trading track.  Please forward me any final recommendations:
+1.	Benke Terrell
+2.	Burk Bart
+3.	Giron Gustavo
+4.	Hamlin Mason
+5.	Horne Jonathon
+6.	Huang Jason
+7.	Hull Bryan
+8.	Inman Zachary
+9.	Jenkins Daniel
+10.	Larkworthy Carrie
+11.	Lieskovsky Jozef
+12.	Lisk Daniel
+13.	Lo Jeremey
+14.	Meigs Mark
+15.	Murray Kevin
+16.	Pan Steve 
+17.	Ruork Ryan
+18.	Sell Maximilian
+Rgds,
+Karen B.
+x54667
+How is this issue?
+I will set up a meeting with settlements to make sure that everything looks good from their end, and to clarify the payments that are made.  I also need to meet with volume management to emphasize how the volumes should be allocated when the actuals arrive from the pipeline statements.  I think that Daniel has the scheduling issues under control.  Jason, Daniel, and I worked to get everything straight for September.  October will not be much different.  The only exception for October is that we do not have any third party gas coming from Enron, only BP.   This actually makes life easier. As soon as I meet with the 2 back offices groups, I will report what I learned.  Based on my meetings with settlements during July's process, I am confident that the deal is booked as well as the system can handle. However, checking and double checking the processes will not hurt  
+I will schedule something with you and Kim after my other meetings.  Hopefully next week.
+Imbalances for Rockies and Citizens -  I will let you know  
+We just finished cleaning up the SOCAL imbalances.  We are clear through June as far as P/L is concerned.  I think Matt Smith was working on July.  We did have some old issues to clean up as the process was passed from Kim O. to Jane, but we have worked through the problems.
+Thanks for the note on the group.  I am holding a learning lunch tomorrow.  I want to make sure that our processes are as tight as possible, especially since bid-week is coming up.  We have a good method for checking that all of the failed desk to desk deals are booked correctly, so it should go more smoothly.  It will still be slow.  Also, Randy Bhatia is working with EOL on resolving their logic issues.  We are working towards a solution that will get the deals booked automatically.   I will let you know the time line soon.
+I have a question.  What does the "Wood" report mean  
+See you.
+Anne  
+Disregard attachments.  How does the system know not to pay Palo for the gas daily deal at malin?  You did this because gas daily will not show up as risk and Kim puts together a manual invoice and will not pay them for the third party supply?  I want this deal to flow in the event Kim decides to travel the world.
+Please set up another meeting to discuss this deal.  i will never understand.  is it just me?
+Also, i still need to clean up imbalance deals from July with citizens and in the rockies. 
+By the way, you are doing a great job.  It seems like your group is getting their books run early. 
+Also, have you ever talked to your group about secrecy and the fact that we never tell anyone in the market about P&L and/or positions.  Just a reminder.  You may want to talk to them about confidentiality.  You never know who has a roommate from college at El Paso or Dynegy.  Right? 
+Mike:  Am I supposed to do something with the attachments ?  They did not transfer through on the e-mail you forwarded.  Kim has never given me any additional information regarding the loads.  All we did on this deal recently was book the newest fixed price deal at Malin, and book the BP volumes (3rd party deals) that have been projected at Malin.
+On the BP gas: ..... We book a deal in which ENA purchases gas from Palo Alto at Gas Daily flat.  Daniel Schedules the gas on the transport directly from BP.  We enter the purchase in our system to show that you have 1,500 mmbtu/day at Malin that must be put on the transport to City Gate.
+We have not rebooked the origination.  I am still using the estimated burns that were given to me at the inception of the deal.
+Let me know if this clears everything up 
+Thanks 
+Anne  
+Will show me how this deal and the orig was rebooked?  Also, please show me how the third party deals were booked. 
+Mike 
+Temp file until the IT group completes the Internet version. 
+Palo file.  Winter is approaching.  You are the King.
+Mike,
+Attached are Palo Alto's historical loads, which have been verified with Palo Alto.  If you would like to see a different format, let me know.
+Thanks,
+Kim
+Trust, starring Keith Holst, rated PG. 
+Thank you for the resume.  I will forward this to our Operations group for the western region.  I think his experience would be a good fit for our logistics group.  I will have you call Patti Sullivan.
+Thank you,
+Mike Grigsby
+Dear Mike,
+Thank you for your time this morning.  The Austin Group Energy, L.P.  has an
+established agreement with Dana Davis.  Please see attached resume for your
+perusal.  I look forward to working with you in the future.
+Sincerely,
+Jessica Decker, Executive Recruiter
+The Austin Group Energy
+281.497.8595 ext. 149
+281.597.0099 Fax
+Thank you for the offer.  Courtney and I are going to the TX/OU game 
+I just found out Courtney and I have our ranch this weekend.  Are any of
+you open to taking the wives and kids up there?    I would probably take
+Friday off.
+Pls let me know asap.
+Also, still hoping to go fishing the weekend of October 20th if anyone
+is up for it.  Just guys on that one.
+Thanks,
+Curtis
+______________________________________
+Curtis Hutcheson
+eBusiness Programs
+Compaq Global Business Solutions
+curtis.hutcheson@compaq.com
+Ph: 281 514 1272  Fax:  281 518 7402
+Let me know if you guys have any questions about this project while Elizabeth is out.
+Thanks,
+Mike Grigsby
+Hi Mike,
+I will be out this week, but just wanted to recap what
+I spoke to you about earlier last week.  Mike Pena with Unify,
+along with Chris Hyde and Dave Dronet in the Fundies group are looking into
+connecting the Unify database with the cuts information in Passport this week.
+When I come back I will let you know what they have done and help them on the commercial side with El Paso.
+If you have any suggestions while this is in progress, please contact
+myself or Chris Hyde.
+Thank you.
+-Liz.
+Thank you.  Let me know when you are ready to demo.
+Mike
+Hi Mike,
+I will be out this week, but just wanted to recap what
+I spoke to you about earlier last week.  Mike Pena with Unify,
+along with Chris Hyde and Dave Dronet in the Fundies group are looking into
+connecting the Unify database with the cuts information in Passport this week.
+When I come back I will let you know what they have done and help them on the commercial side with El Paso.
+If you have any suggestions while this is in progress, please contact
+myself or Chris Hyde.
+Thank you.
+-Liz.
+See below for update on situation in Afghanistan as well as fiscal stimulus plans in Congress.
+RJ
+1. =09The War on the Ground
+For the most part, the military action in Afghanistan is likely to be the special forces "inserted" into Afghanistan to locate bin Laden. The special forces are doing very little in the way of fighting and will instead use the collected intelligence from various sources to "snatch" bin Laden and others, or to find other targets, identify them, and then call in attack aircraft.  Such attacks are by now well-priced in and would appear to be unlikely to have a disruptive impact on financial or energy markets.
+Over the weekend, the press picked up on our reports from last week that currently the US has Delta Force, Green Beret, and Army Ranger units on the ground and some special operation forces "in-country."  Also,  British Special Air Service units, the French Regiment de Parachutistes d'Infanterie de Marine, and the German elite KSK special forces will be playing a role. Advance groups of the US 101st and 82nd airborne divisions arrived nearly a week ago at the Pakistani military base of Dar Esmail Khan, which is just west of the Suleyman mountains near Khojastan, a pass into Afghanistan and to Kandahar. Allied ground troops, backed by helicopter gunships and armored AC-130 armored planes have been stationed at former Soviet military airbases near Tashkent in Uzbekistan.=20
+The ground forces are backed by a massive concentration of allied airpower, ranging from nearly 150 US Air Force B-1 and B-52 bombers and F-16s and F-14s, as well as the nearly 400 aircraft in the four battle carrier groups the US Navy has moved into nearby waters led by the USS Enterprise, the USS Theodore Roosevelt, the USS Carl Vinson, and the USS Kitty Hawk. In addition the British have some 20,000 troops in Oman and a Royal Navy squadron around the HMS Invincible.
+Allied air power and close ground support gunships are expected to provide air support to any coordinated attacks by the loosely aligned Northern Alliance, the main Afghan opposition to the Taliban. =20
+Due to the recognition of the difficult internal political situation in Pakistan, the US and allied presence is being kept to a very low profile and the actual contribution of Pakistani military forces is being kept to a minimum.  Yet it is the Pakistanis who will play a decisive role using their intelligence network in Afghanistan to find bin Laden.
+2.=09Fiscal Stimulus Outlook
+By the end of October Congress will have passed a new package of stimulus measures totaling somewhere between $100 and $180 billion, if you count the $55 billion in airplane and reconstruction/defense spending already passed.=20
+Most officials with a dog in this hunt agree that tax-cutting gets preference over spending, but that there will have to be some direct spending to anesthetize the center-left crowd in the Senate and in the House where nerves are beginning to go raw over corporate "bailouts" that have not yet included anything directly for the employees. So for now, here is a brief list of the major policy options with equally brief commentary about their prospects:
+?=09Payroll tax cut/suspension -- This has emerged as the most likely item to be on any final list agreed to. As a stimulus item the economics are probably better on this than almost anything else, since it puts money directly in the pockets of workers who earn too little to pay income taxes and it can be implemented very quickly. Although it could add up to a very big number if suspended ($700 bn per year), because this is the money that goes into Social Security political leaders of both parties know they have to be careful about how the accounting and packaging get done on this. Still, both the White House and congressional Dems are big on this. Some version is likely to pass and the totals are likely to be somewhere around $30 bn.=20
+?=09Accelerate the Bush tax cut -- If the original Bush tax cut was the right medicine, then why not have some more? The thinking here is that you have already agreed to do these things, and you no longer are watching the budget flip from black to red, why not put more money in the hands of those who pay the most taxes? The White House has been putting this idea forward, but not too aggressively, and the Democrats on the Hill have made it clear that they want the next tranche of tax relief to go to someone other than "the rich." Chances low, but if there is a broad package, this could get in.=20
+?=09Capital gains tax cut -- This came on fast and has essentially died. It is too offensive and too obviously lacking in any stimulative qualities for anyone outside of senior House Republicans to like. Take this one off your list.=20
+?=09Unemployment insurance and health care extension plus worker retraining programs -- These are very big among Democrats and the White House is sympathetic, but House Republican leaders are deeply split on this topic. There are some obviously restorative qualities to spending money this way, but the totals being batted around (over $30 billion for the retraining and health care components alone) send the Texas components of House leaders into shock, complaining of socialism. Democrats argue that Speaker Hastert promised them support for some serious version of these programs in return for bailing out the airlines without clogging the debate with "airline worker assistance" packages (worth about $4 billion). Hastert is saying he will still try to deliver, but his second and third in command are leading an in-house rebellion.=20
+?=09Cut in corporate taxes -- A permanent cut in corporate taxes would be virtually impossible to wrangle through, but a temporary corporate tax cut is something that both Treasury Department and White House officials want to achieve. This is obviously something Democrats will not be happy about, but if they get the payroll tax relief and substantial amounts of their worker assistance package, they have to swallow hard for something. This was an early favorite of the administration's. As with most of the proposals that seemed so promising when they were first announced, this one has been running into some tough reality. There are a few problems with lower marginal corporate tax rates that have emerged. For one, many large corporations pay on something the IRS likes to call the AMT schedule (that's the Alternative Minimum Tax), so they would get no break at all. Even more disturbing is that companies with large tax-loss carryforwards sitting on the books as assets would take a massive hit on the value of these assets, since the calculated benefit they bring is adjusted downward all at once. For some weakened companies this alone could be fatal, since their attractiveness to acquirers depends on their loss-carry forwards. Finally, many employee expenses that companies can still get are deducted at their full marginal tax rate and the value of those deductions would obviously drop.=20
+?=09Investment Tax Credit And Accelerated Depreciation Schedules -- The vast assortment of cuts that could come under this rubric are all plagued by the same problem: just talking about them gives businesses another reason to delay making investments. Even if the administration were to announce that all of these breaks will be given retroactively once legislation is passed, investments would be delayed since the fine print on what qualifies and on which schedule would mean huge differences in tax exposure. There is no way to propose these without delaying investment. On the plus side, the accelerated depreciation is simpler to describe in legislation, and can be done for a limited period without the same degree of distortion as the full ITC. Also, given the speed at which the stimulus debate is going forward, there may be less concern about the investment postponement issue. This item is likely in some form to make it into a final package, but the details don't exist yet, and its in the details that the significance of it lies.=20
+?=09Specific sectoral tax breaks -- From the steel industry to the restaurant and hotel industry, every trade association has a specific tax break in mind that would help them recover. This is going to be the hardest to handicap since many of the small deals will be shoved in at the last minute on personal orders from members and they will not be big enough individually to make a macro difference. Cumulatively, though, these could easily top $10 billion before the special pleading is done.  Programs like high-speed rail, additional defense money, additional unemployment insurance for hard hit sectors could be shoved into this catch-all rubric. Some of these will make the cut others will not, but they can add up fast.=20
+?=09Fast Track Trade Authority -- USTR Bob Zoellick told congressional leaders that if we had any chance to win the war against terrorism, the President would have to have full and complete fast track authority to cut trade deals as necessary. But Zoellick found himself apologizing to enraged Democrats for implying that a vote against fast track was a vote for terrorism. If he can recover from the politics of that maneuver, this one actually has some logic behind it as a diplomatic and economic response -- and it doesn't cost anything.
+We will be following this for you with increasingly close focus this week since the real decisions will start to get made later this week and early in the next. Again, with an end-October deadline, there isn't a lot of time to waste and members of Congress are well aware of that fact.
+I have asked the coal group to talk to us at 2:30 today in room 3267.  Please attend for a west coal 101.
+Thanks,
+Mike
+Room 3267 at 2:30.  My phone number is 7031.
+Thanks
+sounds good - let me know the location
+Would you like to sit down with a group of traders from the west gas desk?  Should you bring along the guy who sent us the coal plants, Aaron Martinsen?  Tomorrow afternoon around 2:30.
+Mike
+Mike -
+Enjoyed briefly talking to you yesterday - If you want to sit and talk more about coal - Just let me know -
+Thanks
+John Massey
+Please forward to Matt Smith and others.
+Hello,=20
+In an effort to keep this report as timely and as accurate as possible, please report any errors / inaccuracies to me as soon as possible.  The path to the report is:   O:/_Dropbox/West New Gen.  Thanks,
+James Bruce    =20
+Any feedback from your group on dropping the nom 
+Thanks,
+Mike
+Please take a look.  Feel free to modify and send back for my review  
+Mike
+Thank you for agreeing to write a letter of recommending me for the Analyst Program.  I appreciate your time and opinion.  I have included a one page outline to help give you an idea of my accomplishments, job performance, and job development.  This outline is a guideline to help you 
+Please let me know if you have any questions.  Thank you again. 
+Sincerely, 
+Carole Frank 
+Would you like to sit down with a group of traders from the west gas desk?  Should you bring along the guy who sent us the coal plants, Aaron Martinsen?  Tomorrow afternoon around 2:30.
+Mike
+Mike -
+Enjoyed briefly talking to you yesterday - If you want to sit and talk more about coal - Just let me know -
+Thanks
+John Massey
+Thanks.  Can I email this in the morning?
+Just a quick note to remind you about the letter or recommendation for the Analyst Program.  If you would, please have your admin. put the letter on letterhead since Jeff Davis has asked for a hard copy.  Have a great weekend!
+Carole Frank
+I already had you rotating out.  I will let you know which pipe you are scheduling.  Thanks for all of your hard work.
+Mike
+i just wanted to let you know that i am not considering moving to the denver office.  i don't see myself in a marketing role at this point in my career.  although this year has been up and down, i am enjoying my role on the desk.  i think the opportunity that you have given me as a basis trader is too good to give up.  the denver opportunity was just under consideration as an opportuinity to move back to denver.  we can talk more about it if you would like on monday.
+As most of you know, Monique Sanchez has resigned and will be leaving Enron October 12.  Monique is moving to Salt Lake City with her fianc? and will be living in Deer Valley.  We congratulate Monique on her move and thank her for all of her contributions to the west desk.
+We will plan a going away dinner for Monique before she leaves 
+Mike
+Is the October calendar on the web 
+Mike
+Also, the letter should be addressed to Jeff Davis in HR for the Analyst Program. 
+Carole 
+Thank you for agreeing to write a letter of recommending me for the Analyst Program.  I appreciate your time and opinion.  I have included a one page outline to help give you an idea of my accomplishments, job performance, and job development.  This outline is a guideline to help you 
+Please let me know if you have any questions.  Thank you again. 
+Sincerely, 
+Carole Frank 
+As most of you know, Monique Sanchez has resigned and will be leaving Enron October 12.  Monique is moving to Salt Lake City with her fianc? and will be living in Deer Valley.  We congratulate Monique on her move and thank her for all of her contributions to the west desk.
+We will plan a going away dinner for Monique before she leaves 
+Mike
+I understand we had a problem with our database yesterday.  We will send you the final spreadsheet for October.
+Thank you,
+Mike Grigsby
+This spreadsheet contains no trades for 9/27. Please send a spreadsheet that
+includes 9/27 and 9/28 deals.
+Thanks,
+Liane
+Liane Kucher
+Markets Editor
+Platts
+Platts Energy Trader
+Inside FERC's Gas Market Report
+Phone: 202-383-2147
+eMail: liane_kucher@platts.com
+cc:      "Akers, Michelle    Subject: Enron's October Baseload Transactions as of 9/27/01 
+fyi...AK
+some thought a little more on the radical side.  this was forwarded to me by
+Walt Cunningham who was an astronaut in the Gemini days.  he's on the texas
+aerospace commission with me  
+If we all did this our problem would be solved.    Walt  
+The message below was sent to an old AF buddy who forwarded it on to me with
+the invitation to disseminate as widely as he saw fit. I send it on to you
+with the same invitation... It offers some pretty good ideas  My name is John Burnett. I am a DC-10 Captain for FedEx. I am also a Police
+Officer for the Memphis Police Department. 
+My purpose in writing this is to share some of my thoughts regarding actions
+a pilot might consider when faced with a modern-day hijacker. These thoughts
+are "outside-the-box" when it comes to the way we've all been trained.
+Neither the FAA or our companies will suggest these techniques or implement
+them as a part of our normal training cycles. They couldn't for fear of
+lawsuits. 
+I am distributing this via e-mail to buddies I've flown with. I'm asking
+them to send it to their circle of friends within the industry, and for you
+to send it to yours. I know most of us have e-mail, and I hope this reaches
+the next to face the horror of some religious fanatic onboard. 
+We have all had "training" in what to do in case of a hijacking; try to keep
+the hijacker calm, make him think you're doing what he wants, take him where
+ever he wants to go, etc., etc., etc. Save your passengers, your crew, and
+your aircraft. 
+In an emergency, you will revert to that training. When our unfortunate
+peers were faced with the screams of the Flight Attendants and hijacker's
+demands to open the cockpit door, their training probably made them open the
+door. When the fanatics made demands, their training told them to comply as
+best they could. I can only wonder what their thoughts were as they left the
+cockpit and were tied up in the back of the plane; what they thought as they
+descended over New York 
+I hope the fanatics had to kill them in their seats and drag their dead
+bodies out of the cockpit. But, I bet they did as they were trained to do 
+As you look back over recent hijackings, FedEx, and Egypt Air, and now the
+September 11th hijackings, you see a perpetrator who, for one reason or
+another wants to take over the airplane and kill himself. Each of these
+hijackers, except for the FedEx incident, were successful. They took over
+the airplane and killed everyone onboard. 
+If you're following the news programs today, you hear a lot about how we
+could let these hijackers learn to fly. You would think if knowing how to
+fly would guarantee a successful hijacking, Auburn Calloway (the FedEx
+hijacker) would have been a hijacker success story. 
+Calloway had been a Navy pilot, a martial arts student, a fellow FedEx crew
+member, and he took all the weapons he needed: hammers, knives and a spear
+gun. He didn't have to overcome any Flight Attendants or demand they open
+the cockpit door. He just went back to his bag, took out his hammer came
+back into the cockpit and started crushing skulls. 
+The crew members on that flight didn't worry about Flight Attendants, they
+didn't worry about passengers. All three pilots left the cockpit and fought
+a hand-to-hand, life-or-death battle. 
+To survive today's hijacker, you cannot worry about your passengers; you
+cannot worry about your Flight Attendants. You must develop a mind-set that
+everyone onboard - including yourself - is already dead. Because, if the
+hijacker is successful in taking over your airplane, not only you, your
+crew, your passengers and your aircraft are lost, but thousands on the
+ground are at risk. 
+One of the reasons the FedEx crew survived, is the extraordinary actions of
+the co-pilot. Although he had brain injury, the co-pilot took the DC-10 and
+immediately executed a half-roll. This maneuver took the hijacker off his
+feet as the Captain and S/O were struggling with him. 
+During a point in the maneuver, the hijacker, Captain and S/O were thrown
+back behind the cockpit door. When he righted the airplane, the F/O then
+left his seat and joined the fight in the galley area of the plane. It was
+only after the Captain determined the hijacker was subdued, he returned to
+the cockpit and flew the airplane to landing. 
+Very few of us have had to confront true evil. Fewer still have seriously
+considered taking the life of another human being. I believe this is the
+reason the FedEx crew did not kill their attacker. The crew's heroism that
+day is beyond belief. And any action that leads to a safe landing and
+recovery cannot be argued with. 
+But, when the Captain left the F/O and S/O, thinking the situation was under
+control, he was mistaken. The F/O and S/O had sustained serious,
+life-threatening injuries. The hijacker had not. As the Captain flew the
+aircraft, the hijacker, who had surrendered, began the fight anew. 
+As the airplane landed, the hijacker was just moments away from overcoming
+the two crew members. 
+I mention this for your consideration. I would suggest that you make a
+conscious decision to kill anyone who tries to take your airplane from you.
+Today we are at war. The hijacker who comes through your cockpit door is
+going to kill you and everyone onboard. So, how do you do that? What weapons
+are available to us as pilots? 
+The intercom. Command that all men come forward and fight with the
+hijackers. You have many able-bodied men onboard. They are sitting in shock
+not knowing what to do. Command that they come forward and help you kill
+your attackers. And, they will come. 
+The airplane itself. Get the hijackers off their feet. Go into an immediate
+dive to float them to the ceiling. Then execute a 6G positive maneuver and
+hope they hit their head or break their back as they hit the floor, galley
+shelf, etc. 
+Pull the fire handles, shut the start levers and turn the fuel valves off.
+If you lose the battle, at least the airplane won't be used as a guided
+missile on a kamikaze mission. With luck, maybe these guys didn't learn how
+to do an in-flight restart. Then leave the cockpit - all of you, and kill
+your attackers - don't believe it when they surrender - don't be nice to
+them - KILL THEM. 
+Flare Gun If your airplane has one, the Captain might consider making sure
+it's loaded and secured next to his bag. I can think of nothing more
+satisfying than watching a ball of burning phosphorous embedded into a
+fanatic's gut. 
+The crash-axe. I would suggest you have your co-pilot take it from it's
+holder and secure it next to him so he has it immediately available. Makes
+an excellent skull crusher. 
+Your flashlight. The FAA use to require a 2 cell. A 3 cell Mag-Light makes
+an excellent weapon. If your maneuvers have the hijackers on the floor
+writhing in pain, crush their skulls. 
+Your stolen hotel bic pen. Drive it into an attacker's eye, ear, throat, or
+into the area just under the jaw bone. That's a particular interesting place
+to drive it, because when he opens his mouth to scream, you can read "Hyatt"
+sticking there. 
+Your hand and fingers Drive your fingers into his eyes and try to feel your
+fingernails scrape the back of his eye sockets. Scoop the eyeballs out. It
+will confuse the hell out of him when he finds himself looking at his shoes
+as they dangle there on the ocular nerves. 
+Your teeth. Remember Hannibal Lecter. Eat a nose, a cheek, or a finger. And
+keep eating. Attack with all viciousness. A piranha is a small fish, but
+it's greatly feared. A hijacker is not expecting you to eat him and it might
+make him forget why he got on your airplane to begin with. It will, at
+least, impress his buddies. 
+Now here's my wish-list of things the FAA could do to help, especially in
+this time of war. 
+Arm the Captain 
+The battle is not going to require any long shots. A small revolver would be
+a good choice. It would hold off the attackers long enough for you to
+disable your aircraft. 
+If the attackers claimed the red package they were holding was a bomb, I'd
+shoot out the door glass and hope the door would be ripped out and the
+hijacker and his package would be sucked out. And hey, I if I got sucked out
+with him, I'd try to fly my body to the hijacker look in his face and laugh
+at him all the way to the ground. 
+Invite The Police To Man The Jump Seat
+Police are always looking for something free. Donut shops use to be a
+favorite target for robbers - until they started giving donuts to the
+Police. Robbers don't rob donut shops anymore. I would suggest each Police
+Department send the FAA a list of the best shots on the department and those
+guys and their guns would be welcome on my airplane. 
+Fill every vacant seat with armed Police - give them a donut - and tell them
+to shoot anyone who gives your Flight Attendant any shit. 
+Stop this silly no-knife rule. Make it public. Tell the public they're
+welcome to bring their pocket knives onboard. Then everyone will bring them.
+So when you make your Intercom call to the passengers for help, you'll have
+a dozen or more knife wielding helpers trying to make sure their new Gerber
+tastes fanatics blood. There are even a few of them who'd want to keep the
+fanatics ears as souvenirs. 
+None of us is immune. Take some time and consider your actions if this event
+should ever happen to you. My prayer is none of you ever have to face this
+kind of decision. 
+Best of luck to you, and may God Bless.
+Please activate the following products:
+38205
+61777
+61775
+61773
+Thank you,
+Mike
+That sounds fine.
+Your thoughts?
+Frank
+Frank,
+For all gas basis curves, if it does not have its own vol, then NG Nymex Vol will be used.
+,
+Winston
+Winston,
+Bharat meet with Francis Lim regarding ERMS and he learned that NGI-MALIN does not have any vol curve assigned to it.  However when we simulate that curve in ad hoc we don't get any errors.  Can you tell us what vol curve is being used for NGI-Malin in risk trac?
+Thanks
+Frank
+Monique has resigned and will be leaving October 12.  Please take one of her monitors and give it to Mog.
+Thanks,
+Mike
+Mike,
+Mog is asking me to order her one more monitor.  They run about $700   is this okay with you 
+-Ina
+John,
+Monique Sanchez submitted her resignation this afternoon. She is moving to Salt Lake City with her fianc? and will not be working in the industry.  I moved all of her positions to my book today.  We have cancelled her EOL trading rights and her stack manager ID.  She will be managing the Permian cash position on EOL for my book, much like Matt and Jason are doing right now.  We have asked her to stay until October 12 so that she may complete her SJ/PERM  production and work on west fundamentals.
+Please let me know if you have any problems with this arrangement.
+Mike  
+Thank you for the information.
+Here is a brief overview of the WSCC Coal Plants.  It gives you a basic idea of where plants are, what kind of coal they burn, and how big they are.  If you have any questions feel free to let me know.
+Aaron Martinsen
+713-853-6726
+If you guys would like this sheet as well, then send an email to Amy Felling.
+Mike
+I was just talking to counsel in Phoenix who informed me that a number of planned merchant generators in Arizona were in danger of being killed by the Arizona Corporation Commission.  There are apparently concerns with interconnecting these plants where existing plants already are located, and reliability and terrorist-threat possibilities that they raise.  I don't know if this matters to you but in case it does, just wanted you to know. 
+Here is a brief overview of the WSCC Coal Plants.  It gives you a basic idea of where plants are, what kind of coal they burn, and how big they are.  If you have any questions feel free to let me know.
+Aaron Martinsen
+713-853-6726
+Please call her and let her know that I cancelled my Bloomberg a few weeks ago.  Have her confirm it via email.
+Thanks,
+Mike
+Thanks.  Will you add West to the report title.  West Natural Gas Prices.
+Nice work
+The attached file has been created and is intended to be run daily, per Mike Grigsby.  It contains West gas prices as set for the day, and soon will include certain heat rate calculations.
+If you would prefer to not receive a copy everyday, let me know.  If you see any errors, please help me to identify them.
+Thanks,
+Ryan
+5-3874
+Charts for today's presentation are attached:
+Mike,
+Attached are Palo Alto's historical loads, which have been verified with Palo Alto.  If you would like to see a different format, let me know.
+Thanks,
+Kim
+Thank you.  I forwarded your resume to Keith Holst.  Please fell free to contact him.
+Thanks,
+Mike
+Lisa Jones in the Analyst program said that you an opening for an analyst and I was wondering if that position had been filled. I've attached my resume. Thanks,
+James
+I am thinking that I will make the Socal markets going forward.  I will roll out the Nov-Mar and Apr-Oct.  Do you want to handle the internal flow with mid market?  Let me know what your thoughts are in   to making longer term markets on EOL.
+Mike
+The overview last week was great.  Are you going to have Phil put together a graph of all expansions?  That would be a nice visual for the desk.
+Thanks,
+Mike
+Mike, here is a very brief overview of planned or approved expansions by major pipeline.  There is a lot of detail that supports each of these pipe expansions including, proposed start dates, delivery points, probability etc 
+Let's discuss needs 
+Perhaps, we can give your group a general overview on expansions in the west, current status etc. 
+BT 
+Randy,
+Will you please get together with Jason and discuss the daily report  
+Randy is working with the Sitara group to generate a report which will include all trades, EOL and non-EOL trades.  This report will give us a complete analysis of the cash activity.
+Thanks,
+Mike
+Ryan,
+Please run the report each day at 3:00 and email to the group.  Set up a distribution with the following names:
+mike grigsby
+barry tycholiz
+stephanie miller
+kim ward (houston)
+mark whitt
+paul lucie
+phillip allen
+keith holst
+matt smith
+matt lenhart
+jason wolfe
+monique sanchez
+tori kuykendall
+steve south
+randy gay
+janie tholt
+moh heu
+jay reitmeyer
+jason huang
+susan scott
+eric bass
+tom martin
+bob badeer (portland)
+mike swerzbin (portland)
+matt motley (portland)
+tim belden (portland)
+chris foster (portland)
+chris mallory (portland)
+tom alonso (portland)
+chad clark (canada)
+chris dorland (canada)
+mike cowan (canada)
+Thanks,
+Mike
+Will you schedule him for an hour each with Phillip and I and 30 minutes with the other guys.  Thanks.
+he can come in 10/1 or 10/2.  Is this okay with you.  He said this week is crazy and next week is bidweek.
+-Ina
+Please set up a time for this candidate to visit enron and interview with the desk heads.
+Thanks,
+Mike 
+JAMES HEMMERLY
+Michael Hubley Vice President 
+Executive Search Associates 140 Newbury St Boston, MA 02116
+617-375-6060 ext. 204 
+mhubley@execsearchusa.com
+EDUCATION                        Colorado School of Mines                                                                                                                                                  May, 1988
+Bachelor of Science, Petroleum Engineering
+PROFESSIONAL EXPERIENCE
+Southern California Gas Company, Los Angeles, CA                           Aug. 1990 to Present
+Natural Gas Commodity Trader, Core Gas Acquisition (6/97 to Present)
+?         Procure core market natural gas supply with reliability and low cost objectives.
+?         Design and direct swing market position to maximize Gas Cost Incentive Mechanism (GCIM) performance incentive.
+?         Research and report market indicators for market direction forecasting.
+?         Evaluate after market trading activity for GCIM appraisal.
+California Energy Hub Supply Advisor, Core Gas Acquisition (12/95 to 6/97)
+?         Track CEH customer account balance.
+?         Negotiated CEH transactions to optimize core asset utilization.
+?         Responsible for CEH billing and collections accounts.
+?         Promoted and supported development of QuickTrade, southwest marketing effort.
+Design Engineer, Design and Construction  (1/94 - 12/95)
+?         Project Manager for fleet services gasoline tank removal and replacement program.
+?         Performed cost \ benefit analysis for new construction feasibility determination.
+?         Performed feasibility study leading to optimization of Pacific Region distribution system resources.
+Senior Drilling Engineer, Storage Engineering (8/90 - 01/94)
+?         Designed and drilled first horizontal storage well for Southern California Gas Company increasing deliverability and performance for uneconomical reservoir section in Aliso Canyon Storage Field from zero to 35,000 Mcf / day. 
+?         Reduced drilling time by 35% and drilling cost by 15% for Aliso Canyon Storage Expansion Project.
+?         Developed leadership and teambuilding incentive program essential to achieving Aliso Canyon Storage Expansion Project deadlines and budget projections.
+?         Designed and supervised numerous storage and observation well workovers and new well drilling projects utilizing best available technology in areas of cementing, directional well control and well logging and evaluation services  
+References Available upon Request. 
+I tried the sheet today and failed.  Stop by when you get a chance to test.
+Thanks,
+Mike
+Sorry about that.  Here you go.
+Thanks.  Please send the attachment.
+Mike,
+Here is the variable cost sheet you had sent me a while back.  I linked all of the products to Reuters.  In order to get the product prices to update real time you need to have Reuters open on your computer.  Take a look at it and if you like it we can get it on the plasma.  Sorry this has taken so long, our Reuters people aren't exactly the quickest when it comes to adding products.  Anyway, let know.
+Aaron
+Hello. I am sorry.  I have not had a chance to speak to Elizabeth.  I will let you know.
+Thanks,
+Mike
+Hi Mike,
+Did you speak with Elizabeth yesterday, if so I will follow up with her today.
+,
+Karen Buckley
+Human Resources
+Tel: 713 345 4667
+There are rumors circulating that the Associate/Analyst program will be reduced soon.  Can we address this issue with some of the Associate/Analyst employees on the floor?  Will Associates be reduced regardless of whether or not they are in a core business, etc.?
+Let me know if I can address this with some of our people.
+Mike
+Let's not forget the fact that Citizens has cut Enron more during the life of the deal.  The only company walking away from a deal will be Enron.  We will set up a meeting to discuss fixing the problem.
+Thanks,
+Mike
+As I am not involved in the daily operations behind this deal, I will need your input in order to respond to this request.  As I have indicated, the frequency of cuts has caused tremedous concern and Citizens is considering walking away from this deal.  They need assurance that this gas is going to flow in order to continue.  Do we need to have a meeting?  And when can I expect a response from the desk?
+Thanks,
+Kim
+As I have discussed with you, Citizens is concerned about the frequency of upstream supply issues that have resulted in the recent cuts in the deliveries to the Griffith power plant.  Based on the information I have received, the reasons for these cuts have not risen to the level of Force Majeure, which as you know is the only event that would excuse performance under our contract for firm delivery of gas.  Citizens therefore requests that Enron respond to Citizens in writing with a descriptions of the steps Enron is taking to insure that there is not a continuation of these contract performance issues into the future. Your prompt attention to this matter is appreciated 
+We have conference room 6716 from 3:00 to 4:00 each day for OPS.  I have not inspected the room to see if it will accommodate our entire group 
+Thanks,
+Mike
+Please invite him to come to the interview.  I have talked to people that he worked with and they highly recommend him.  I sent him an email and asked him to call me when he gets a chance.  I had trouble dialing his number.
+Thanks,
+Mike
+Phillip/Mike, 
+Have you had an opportunity to ring the candidate I e-mailed you about yesterday?
+Thanks, 
+Kind  
+Adrianne
+Can you include the desk to desk summary in this email each day?  The title of the report is Enorn North America Corp. (Deal Detail Listing Counterparty).  It lists all desk to desk trades by book.
+Thanks,
+Mike
+Please review this file every day.  Biliana will be posting this file on the web in the near future.  The summary includes all desk to desk deals.
+Mike
+Sounds good.  I would like Monte to prepare my estimate on newcurrentday first, submit it to you, then calc the book.  Is this okay?
+Mike
+Mike,
+I would like to start asking your group for an estimate for their P&L's daily.  If our numbers come out over or under their tolerance we will call them before we sign off for the night so there are no surprises in the morning.  If you don't have a problem with this I would like to start this today.
+Thanks
+Kam
+x3-5781
+What is this project?
+Yes!
+At the time of my last update I had access to the data but was unable to retrieve anything.
+This was resolved last week Thursday.  I've put together a project plan and have estimated
+dates for each task below.
+1.  Identify curves and get your signoff for usability of the numbers (11/20).
+2.  Merge curves together (11/21)
+3.  Demo a simple spread cacluation off merged curves (11/21)
+4.  Demo retrieval of curves for recent days (11/26)
+5.  Perform all math needed.  (11/28)
+6.  Output the results to HTML (12/5)
+7.  Deploy (12/7)
+Thanks, 
+Kim
+Please look into this deal.
+Thanks,
+Mike
+Sir,
+1.  Deal 1108335 - we show a fixed price of $2.20 and SPPC invoiced at $2.26.  They returned our confirm showing disagreement to our price.
+Thanks,
+Sean Riordan
+x54298
+Do you have a minute to discuss your role on the west desk?  Please come by my desk.
+Mike
+Today's Pre-Bid Meeting will be held in 05075 from 3:00 PM to 5:00 PM
+Patti:  Please pass on to the schedulers.
+Jason Huang has already done his rotation in the west as an analyst.  Please move him into another rotation.
+Thanks,
+Mike
+All,
+Please note the dates of the incoming Trading Track A&A in to your groups.  If you could have your admits work on churns as necessary. (new names highlighted in yellow)
+Kind  
+Karen Buckley
+Human Resources
+Tel: 713 345 4667
+Please take Matt Lenhart's var limit on the sheet to 2 million.
+Thanks,
+Mike
+Thank you.
+I have stranded all the transport to the border out of Keystone for the month of December.
+The transport volumes that have been taken out are as follows:
+22,836 - Keystone  -->  Socal Ehrenburg
+11,418 - Keystone  -->  Socal Ehrenburg (this is the mexican de cobra deal).  Previously Mexican de Cobra was buying the gas from Texaco.  Starting in 					December, Mexican will have to find another supply for this gas.  They will no longer buy from Texaco.  Phil Polsky is talking with 					Mexican, and a deal will be entered into Sitara, once Mexican has found a supply.  So as of now, the 11,828 supply coming into Keystone 				for this deal is not in the system.
+3975 - Keystone  -->  Socal Topock
+I am having trouble dialing your number.  I spoke to Randy Bhatia and he recommended you with confidence.  After reviewing your resume I would like to go ahead and recommend that you come to the interview process in November.  Please call me at work when you get a chance, 713-853-7031.
+Thanks, 
+Mike Grigsby
+Monte,
+Please scrub the prompt tab, phys index tab, fin index tab, and consolidated tab.  Make sure they all tie out to the hedge strips and sitara.  Shannon will give you a copy of my physical volumes from sitara.  We will go over it tomorrow.
+Shannon,
+Please run a new copy of all DEC positions for IM WC CAL and give it to Monte Jones.
+Thanks,
+Mike
+We will hold off transferring any physical positions desk to desk until the end of bidweek.  After NX1, we will transfer positions at a daily EOL Index mid price.  Please monitor my book and others to make certain DEC deals are not being transferred prior to NX1 at an IF monthly or GD daily mid price.
+Thanks,
+Mike
+No problem 
+I need to take a few hours off Tuesday afternoon after lunch.  I have some family business to attend to.  I should only be gone 2 hours or so.  Susan will be here to handle EOL.  Let me know if you have a problem with this.  I know I need to be here, but this is something I have to take care of and this was the only time I could schedule it.
+Thanks,
+Jay
+My physical hedge strips are not matching sitara for San Juan and Permian.  Please check the positions for DEC and take a look at how all of the transport is booked.
+Thanks,
+Mike
+I have stranded all the transport to the border out of Keystone for the month of December.
+The transport volumes that have been taken out are as follows:
+22,836 - Keystone  -->  Socal Ehrenburg
+11,418 - Keystone  -->  Socal Ehrenburg (this is the mexican de cobra deal).  Previously Mexican de Cobra was buying the gas from Texaco.  Starting in 					December, Mexican will have to find another supply for this gas.  They will no longer buy from Texaco.  Phil Polsky is talking with 					Mexican, and a deal will be entered into Sitara, once Mexican has found a supply.  So as of now, the 11,828 supply coming into Keystone 				for this deal is not in the system.
+3975 - Keystone  -->  Socal Topock
+Let's go ahead and move it.  Thanks.
+Would you like us to move the "Ermis" piece of the transport model to Frank's book this month or wait until Dec?
+Kam
+ps.
+Monte will start running your model before he calc's for the day on Monday.
+Thanks
+Kam
+Have you solved the problem with the positions?  Let me know 
+Mike
+Was Elizabeth Shim on the list?  I can't remember.
+Mike
+Please place her at 60 or below.  She is under a performance review plan and has been removed from Trading Track 
+Zack McCarroll started with the west desk two weeks ago.  Do we need to add him to the list?
+Thanks,
+Mike
+she was not.  do you need to see the list again to know where to rank her?
+Was Elizabeth Shim on the list?  I can't remember.
+Mike
+He came over from Broadband.  We think this guy is great.  We would like to rank him high enough to keep.  Try 40 and higher.
+Thanks,
+Mike
+yes if you have an idea of where he should go?  did he come from another rotation in trading?
+Please place her at 60 or below.  She is under a performance review plan and has been removed from Trading Track 
+Zack McCarroll started with the west desk two weeks ago.  Do we need to add him to the list?
+Thanks,
+Mike
+she was not.  do you need to see the list again to know where to rank her?
+Was Elizabeth Shim on the list?  I can't remember.
+Mike
+The video says www.bloomberg.com.  We get the video source through an application called IP TV viewer.  I am not sure how Enron provides this service to us.
+Grigsby
+Please begin sending the P&L summary for the desk to this email.  Please tell Randy.
+Thanks,
+Mike
+We are including this language in our nightly bidweek summary to IFERC.
+Michelle: I received this confidentiality language from the legal department.  Please include it with the index survey that we will begin distributing tonight. 
+Please be advised that this information is confidential and proprietary.  We ask that this confidential information be treated as such, in accordance with applicable laws and regulations governing disclosure of confidential information by gas marketers such as Enron.
+Has Phil found the supply for Mexicana?
+I have stranded all the transport to the border out of Keystone for the month of December.
+The transport volumes that have been taken out are as follows:
+22,836 - Keystone  -->  Socal Ehrenburg
+11,418 - Keystone  -->  Socal Ehrenburg (this is the mexican de cobra deal).  Previously Mexican de Cobra was buying the gas from Texaco.  Starting in 					December, Mexican will have to find another supply for this gas.  They will no longer buy from Texaco.  Phil Polsky is talking with 					Mexican, and a deal will be entered into Sitara, once Mexican has found a supply.  So as of now, the 11,828 supply coming into Keystone 				for this deal is not in the system.
+3975 - Keystone  -->  Socal Topock
+In light of the current circumstances with the company and the concerns that our counterparties have at this time, I would like to leave the upstream business in Denver.  Moving this business would lead to confusion with our customers and to our Denver based employees.  Let me know if you have any issues with this.
+If you would like to go up there for coordination and training, then feel free to travel to Denver.
+Thanks,
+Grigsby
+Please make five copies of this report for the meeting.
+Thanks
+Charts for today's briefing are attached:
+Patti Sullivan informed me that the Logistics group performed a PRC last week and ranked Elizabeth Shim to be fired from Enron.  I do not believe Elizabeth Shim is there employee to rank for termination.  Until last week, Elizabeth Shim was in the Trading Track program on loan to Bob Hall and logistics.  If they were trying to meet quota by terminating Elizabeth, then I think they need to look elsewhere.  The Trading group should be making the decision on whether or not we fire Trading Track employees.  We just put Elizabeth on a performance plan and ranked her in the Associate/Analyst PRC on Monday 
+Let me know,
+Mike Grigsby
+Go in and view the open positions.  We will discuss getting quotes in a few minutes.  Steve South will be coordinating our efforts to screen print ICE every 10 minutes.
+Grigsby
+The report named: West NG Basis Positions <  published as of 11/27/2001 is now available for viewing on the website.
+Will you fax me the final rankings from the other day.  Did you get a chance to rank Zack McCarroll?  Please send it over when you get a chance.
+Thanks,
+Mike
+I am not sure how to approach this.  I appreciate your comments, but the ultimate decision will be made over the next few weeks. If you would like to resign, then let me know.
+Mike
+Hi Mike,
+First of all, I would like to thank you
+for the opportunities you presented
+to me on the West desk.  Were it
+not for the current situation I think it 
+could have been a great way to
+approach west gas trading.
+Since you are busy I thought it would be
+better to tell you via e-mail:  I was wondering
+if you could consider me in the next round
+of layoffs.  I do not know exactly how this is 
+decided on the management level, but
+if the topic ever comes up please bring up my name.
+I have had a great time at Enron, and of making
+your acquaintance, but I feel at  this point I would like to
+pursue another path.
+Thank you.
+-Liz.
+Please update the email distribution list to include Kelley_Doolan@platts.com and mhenergy@yahoo.com.  Let's go ahead and send our usual format.  No changes to the sheet.
+Thanks,
+Mike Grigsby
+Let me know if you need any help with the survey.  I certainly don't mind helping out!
+Thanks,
+Michelle
+Hello from Inside FERC,
+Tomorrow (Friday) is the last business day of November, and it's the final
+deadline for Inside FERC's Gas Market Report's December 2001 bidweek
+spot-price survey.  And what a bidweek it was!
+Attached is an Excel workbook (IFMONTH2.XLS) to report your price data in.
+Please take a moment to review the instructions at the top of the file. They
+specify what kinds of deals to report and -- more importantly -- what deals
+NOT to report.
+Please note that a significant portion of our survey respondents are
+reporting counterparties with their deals.  We want you to too. Please list
+counterparties in the "comments" column. Counterparty information is held in
+confidence and not shared with third parties.
+Reported deals with counterparty information are treated as more reliable
+than trades without.
+Please make sure to add the name of a contact person for your company and a
+telephone number to reach them with at the top of your price file.
+When you are done, e-mail the price workbooks back to both
+kelley_doolan@platts.com and MHENERGY@YAHOO.COM by 1:00 PM (Central), on
+Friday, Nov. 30.  PLEASE NOTE THAT EFFECTIVE DEC. 21, THE KDOOL@MH.COM
+ADDRESS WILL TERMINATE AND ALL E-MAIL SENT TO IT WILL BE LOST.  PLEASE
+CHANGE YOUR ADDRESS BOOKS TO Kelley_Doolan@platts.com.
+December monthly prices will be published on Monday, Dec. 3
+As always, thanks for your help, and if you have any questions, please feel
+free to call or e-mail me at the telephone number or address below.
+, and I hope you and yours have a safe and happy Halloween,.
+Kelley Doolan, chief editor
+202-383-2145 kelley_doolan@platts.com
+IF YOU WOULD LIKE TO BE TAKEN OFF THIS REMINDER LIST please either call me
+or send an e-mail, and I will take you off right away -- KD
+After the horns, NO!  How is it going?  Everything here is going okay.  The ENE story is behind us all.
+Grigs
+Are you hanging in there?
+That is fine under the circumstances, but why were they sitting around for a few months without me knowing 
+Thanks,
+Mike
+Hello,
+I didn't know you were going to be out today or I would have talked to you earlier.  We had to take some large PMA expenses today that had been sitting around for a few months.  They totaled up to about $7mil.  I did talk to Phillip about this so he knows it is coming 
+Sorry for the bad news.
+Have a good weekend and maybe you'll see me on Monday.
+Kam
+Thank you 
+Michelle: I received this confidentiality language from the legal department.  Please include it with the index survey that we will begin distributing tonight. 
+Please be advised that this information is confidential and proprietary.  We ask that this confidential information be treated as such, in accordance with applicable laws and regulations governing disclosure of confidential information by gas marketers such as Enron.
+Thank you for the email.  We are doing as well as we can after the Chris Simms debacle.  What a hack!  The ENE story is a good one.  Hunter and I will have you market the book, and your boy, Tate, will be the ghost writer  
+We will see you soon.
+Grigsby
+Mike, 
+Just checking in? Are you and Hunter doing ok? Sorry to heir about ENE? I emailed Hunter, but he has not got back to me yet. Hope it all works out for you two guy's. I know you two will land on your feet. Good luck. 
+Trey
+_______________________________________________
+Trey Ikard 
+HillCast Technologies, Inc.
+906 East 5th St., Suite 210 Austin, Texas  78702
+USA
+p| 512.474.4644
+f | 512.458.3052
+trey@hillcast.com  www.hillcast.com _______________________________________________
+Please give Zach McCarroll access to the network and reactivate his login and password.  Let me know why he was taken off the system.
+Thanks,
+Mike Grigsby
+V.P., West Trading
+Please make certain that Brent Dornier is on the payroll for ENA.  He is moving from London and will be with the west gas trading desk as an Associate/Analyst - Trading Track.
+Thanks,
+Mike
+Can you email me with the details?
+Mike-
+Need to speak about meeting tomorrow night. Call me.
+Alex
+cell - 917-699-2744
+PLEASE REACTIVATE ZACH MCCARROLL FOR NETWORK ACCESS IMMEDIATELY.
+THANKS,
+MIKE GRIGSBY
+VICE PRESIDENT, WEST GAS TRADING
+Thank you so much.  No one is better than you.  You should teach a class.
+Love you,
+Mike
+You have very little patience with your wife.  Be nice, I'm the one with the car.
+Mike-
+Here is the new document. Please sign and fax back to 212-751-3175.
+Thanks,
+Alex
+I just faxed it to you.  Let me know.
+Mike
+Mike-
+Did you get a chance to fax me this morning? In addition, I want to speak 
+with you for a few minutes at the end of the day. There are a few more key 
+bits of information that I want to pass along to you before the meeting 
+tonight. Does 4:30 - 5:00 PM (your time) work for you?
+Alex
+No problem.  I am leaving town Sat and Sun.  Let me know what works for him.
+Mike
+Mike-
+Ok, got the fax.
+Just got an email from your counter part for tonight's meeting. He needs to 
+cancel. He just left the office and went home sick. I called his assistant 
+to get a new date and time, but he has already gone home ill for the day.
+Email me back to confirm that you got this. Also, what is your schedule 
+like for Thurs, Fri, or over the weekend to reschedule the meeting.
+Alex
+At 10:33 AM 12/5/2001 -0600, you wrote:
+I just faxed it to you.  Let me know.

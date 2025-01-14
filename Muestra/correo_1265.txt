@@ -1,0 +1,1779 @@
+--- Mark Davis
+--- mddjunior31@earthlink.net 
+--- EarthLink: It's your Internet.
+TJ,
+I'm giving that presentation to the Trader Track people on Wed, so it looks like I'll need to postpone the meeting yet again.  In light of what's been happening in the market, I'd like to re-schedule for next Mon.  Thanks,
+Fletch
+MEETING HAS CHANGED - PLEASE SEE BELOW THE NEW DATE AND TIME
+Please mark your calendar for the following meeting:
+Midwest/Southeast Desk Meeting w/Fletch Sturm
+Wednesday,  September 19th  
+3 - 3:30pm
+Room - 3125b
+T.Jae Black
+East Power Trading
+Assistant to Kevin Presto
+off. 713-853-5800
+fax 713-646-8272
+cell 713-539-4760
+Steve,
+My computer blew up after I sent back to you reply for meeting at 1:00 ish...are we on?
+Fletch
+I would like to contribute.
+fletch
+Hey guys...I would like to ask you a favor...please help me support Rhonda Denton and the other girls in the back office with the American Heart Walk.  If you would like to contribute please let me know and I will bring the sheet to you.  Please remember that whatever you contribute the company will match.
+Thanks again for your support.
+T.Jae Black
+East Power Trading
+Assistant to Kevin Presto
+off. 713-853-5800
+fax 713-646-8272
+cell 713-539-4760
+Rika,
+I talked to Jon and he is under contract.  I'll talk to Kevin about it and get back to you.
+Fletch
+Fletch,
+Please let me know what you think.  I talked with Kevin and he mentioned no, since he may not be under contract 
+Thanks 
+Rika 
+Fletch,
+Could you please grant me access to the East Power Fundamentals site in an effort to coordinate our gas and power views.
+Thanks,
+Jon
+Jason,
+I'd like to talk to you sometime soon (today?) regarding a cash trading position in the Midwest to see if you might find it interesting.  Let me know by phone...x 3-9684
+Fletch
+TJ,
+What is my current balance?
+Fletch
+Just a reminder that we are coming up to the end of the year and that you will be able to roll over 40 HOURS or ONE WEEK of vacation time.  Should you have more that 40 hours please try and use them before the end of the year so that you don't loose them.  I do have a print out of the vacation time if you need to verify your current balance.
+Thank you,
+T.Jae Black
+East Power Trading
+Assistant to Kevin Presto
+off. 713-853-5800
+fax 713-646-8272
+cell 713-539-4760
+Guys - check out the link at the bottom - awesome!  I am going to buy a few of these for gifts around the office.
+Rogers
+look at link below
+Check out Steve Swain's response to my email to him!
+I wonder if the guy sells gift certificates.  I know a few folks I'd like to shop for.
+Hey, Starwood looks fine.  Anything else?
+Rogers,
+That was fantastic...good laughs by all here.
+Fletch
+Guys - check out the link at the bottom - awesome!  I am going to buy a few of these for gifts around the office.
+Rogers
+look at link below
+Check out Steve Swain's response to my email to him!
+I wonder if the guy sells gift certificates.  I know a few folks I'd like to shop for.
+Hey, Starwood looks fine.  Anything else?
+Thanks
+I show you have 104 hours remaining...if you roll over 40 hours...you need to take 8 days.
+Thanks
+TJ,
+What is my current balance?
+Fletch
+Just a reminder that we are coming up to the end of the year and that you will be able to roll over 40 HOURS or ONE WEEK of vacation time.  Should you have more that 40 hours please try and use them before the end of the year so that you don't loose them.  I do have a print out of the vacation time if you need to verify your current balance.
+Thank you,
+T.Jae Black
+East Power Trading
+Assistant to Kevin Presto
+off. 713-853-5800
+fax 713-646-8272
+cell 713-539-4760
+sure,
+e.g.	Buy Jul-Aug Cin power at $50, sell Jul-Aug NatGas at $2.885
+$50/$2.85 = 17.5 HeatRate
+To hedge:  sell 28 contracts/month gas
+50 MW = 32,000 MWhours (50 MW x 16 peak hrs x 5 peak days/wk x 8 wks = 32,000 MWh)
+32,000 MWh x 17.5 = 560,000 MMBtu = 56 contracts over Jul-Aug strip
+Just do the reverse math at 18 heat rate to figure P/L 
+Fletch
+Hi
+Im not sure I understand how you guys trade heat rates. Is there anything around I could read to give me a brief overview? Alternatively, could you email me an explanation?
+Thanks
+Jen
+TJ,
+I'd like a room tomorrow (Tue) after 4pm to speak with Mike Bridges about an open position on my desk.  Could you find a room for 1 hr and let me know where and when.  Thanks,
+Fletch
+Program: C:\Reuters\Desktop\kobra\kernel\winnt\bin\kobra.exe
+abnormal program termination 
+Report ID no. 2B266B6655BD4CEFA874
+I don't think there are any receipts outstanding .. Could you please tell me which ones you're missing???  This last report had a receipt for everything.
+Employee Name: Michael Swerzbin
+Report Name:   Swerzbin, Mike  1/17/02
+Report Date:   1/17/2002
+Purpose:       Trip to Houston, TX, Meeting w/ UBS Warburg Management
+Report ID:     2B266B6655BD4CEFA874
+Submitted On:  1/17/2002
+Report Total:  2112.45
+You are only allowed 2 reports with receipts outstanding.  Your expense reports will not be paid until you meet this requirement.
+Charts for today's briefing are attached:
+Hi Sue I still have not received a check for voucher NO. 0100067175 FOR $2,2298.95.
+Swerzbin will be out of the office, but available on cell phone for the week of Nov 5 to Nov 9.  Back in the office Nov12.  Driscoll will trade the EOL and download curves.
+Driscoll on curves and pricing 
+Driz will be doing the curves...   be on my cell phone.
+The market last week for the flat MC was about $31: that difference would be 9.50 = $2,654,02 nominal for the increased mws.  The loss of the delivery value is about $.75/MWh- (about $2.3 million nominal).  The loss of the option is probably about $1 million.   Overall, you did a very job I think its worth $1.5 million- if you go by the numbers its 0.
+MWHRs =  4 Years and 1 quarter Flat so that equals approximately 37,250 Hours
+The difference between 102 (the new amount) and 94.5 (the old average flat amount) = 7.5 MW * 37,250 HRs = 279,375 MWhrs
+I was under the impression that a 100 MW flat amount would equal $3 million value (a $16 difference between market and $21.50).  This would indicate the 102 equals a $4,100,000 valuation.  As to the discount in value due to the flexibility and delivery point I am looking to you for leadership.  If my assumptions are wrong then let me know.
+Stewart
+Here's a more detailed reason.  Thanks Mike
+Mike:
+Just wanna follow up with you on the $22.8 schedule C (see below email sent to you and Tim on 9/27).  Did you get a chance to fill in the reason for using the schedule C?  When you are done please send it back to me and I'll print it out for you and Tim to sign off.  We will need to send document to Risk Control in Houston.
+Thanks,
+Fran
+Mike:
+We reserved $22.8 MM in your 9/26 P&L for the restructured/changed BPA deal #51353.  Please take a look at the attached schedule C form and fill in the reaon for usig the schedule and any planned removal date.  Right now the reason is filled temperarily with below comments:
+Reserve for deal 51353 with BPA due to the uncertainty of open access
+When you are done please send the revised form back to me and I'll print out one copy for you and Tim to sign off.
+Thank you,
+Fran
+Mike:
+Please see the term sheet that Vivek has put together. I am not sure if Mo or Jeffery is going to work on this.
+Please let them coordinate with Vivek and come with a structure that is acceptable to you.
+The strikes columns are left blank and as discussed can be close to ATM
+Please call me if you need furhter information.
+Thanks,
+Sanjeev
+_
+Mike:
+This structure is from Caslebridge, who are independent consultants and work with various clients to hedge their exposure. They have not told me who the client is (it is not PacifiCorp)..I think we can make a good guess.
+At this time, all we would like to know is that we would consider and price such a structure. If yes, then we would like to give them an indicative no. by Wed morning.
+At this time the factors 1,000 and 10 are arbitrary.
+Please let me know.
+Thanks,
+Sanjeev
+Hydro Contingent Power Call Option: example
+Term:  2 years		
+Notional Per day (MWH) = [  MIN ( 850MW * 16 hrs,  MAX (1000 - 10 * Daily Flow (KCFS),0)
+The Notional per day payoff may have time varying (monthly) strike and multiplier ( here 1000 and 10)
+Financial Power Option per day :  Notional per day (MWH) * MAX ( MIDC Power Price - Call strike, 0)
+Call strike will be out of the money varying by month. They are also interested in zero strike products if available.
+Quarterly Payoffs: Sum of the daily payoffs over the quarterly period.
+Flow Index: Reported KCFS flow from Grand Coolee
+Power Price Index: standard published day ahead prices for MIDC.
+Sanjeev K Khanna				Email: 	Sanjeev.Khanna@
+Director						Tel: 	(713) 853-3849
+Enron Global Markets				Cell: 	(713) 594-1832
+1400 Smith Street, Suite 3004F			Pager: 	(877) 497-1217
+Houston TX 77002					Fax: 	(713) 646-3220
+_
+Save in H:\Kobra\workspace
+Paul, 
+Here is the information that should be found at the end of the Services file: 
+C:\WINNT\System32\Drivers\ETC\Services
+Add the data after the last line it should look like this: 
+knetd            2053/tcp                           #Kerberos de-multiplexor
+man              9535/tcp                           #Remote Man Server  (Add data after this line)
+#Reuters Kobra 3.5.1 license server entry
+els_port	2100/tcp
+els_port	2100/udp
+ntdbu1	2400/tcp
+# End of Reuters 3.5.1
+Sonya L. Johnson
+Enron Networks 
+Market Data Analyst/IT
+(713) 345-4540
+sonya.johnson@
+Please find the data as per our conversation yesterday.
+Sanjeev K Khanna				Email: 	Sanjeev.Khanna@
+Director						Tel: 	(713) 853-3849
+Enron Global Markets				Cell: 	(713) 594-1832
+1400 Smith Street, Suite 3004F			Pager: 	(877) 497-1217
+Houston TX 77002					Fax: 	(713) 646-3220
+_
+Date:          September 27, 2001
+Stewart, per your voice mail of September 25, attached is a chart
+showing the approximate shutdown or curtailment dates for each of the
+Northwest aluminum DSI's.
+Attachment
+Mike Junior will be doing EOL and curves.
+Some South East Power infomation 
+Industry notes on curtailments and closures
+RandomLengths
+09/27/2001
+Plywood/OSB
+Advanced Wood Resources, Brownsville, Ore., will cease all operations as of November 20. "Severe competition from the lower-priced OSB, combined with challenging economic conditions and rising costs associated with increased environmental standards," were cited as reasons for the closure.
+Georgia-Pacific has announced plans to shut down nine plywood mills in the South for one week starting October 1 to replenish log supplies.
+Hunt Forest Products will shut down its plywood mill in Natalbany, La., for one week starting October 1 due to tight log supplies.
+LP has announced market-related downtime at most of its U.S. and Canadian OSB mills. Most of the mills will be down a minimum of one week, starting October 8. Plants in Sagola, Mich., and Jasper, Texas, will be down the week of October 1. Hayward, Wis., will be down the week of October 15. Carthage, Texas, will be down the week of September 24. And Silsbee, Texas, will be down the week of October 8 and for four to six weeks thereafter for a press rebuild.
+Willamette Industries' plywood mill in Dodson, La., will shut down the week of September 24 for scheduled maintenance.
+LUMBER
+Harwood Products, Branscomb, Calif., has cut production by 20% due to market conditions
+Weyerhaeuser will close its three Cedar sawmills in British Columbia for an indefinite duration beginning next week. Market conditions were cited.
+Canadian Forest Products will reduce output at its sawmills in British Columbia and Alberta by an estimated 70 million board feet during October.
+Abitibi Consolidated plans to cut production by about 25% at all of its sawmills over the next four weeks. "Market conditions and supplemental export costs" were cited as reasons for the curtailments.
+Slocan Forest Products will reduce production by 30 million board feet by curtailing production the first week of October
+For more information, visit RandomLengths 
+Roger Dieringer
+Corporate Supply Manager - Energy
+936.788.9759  Phone
+936.524.0609  Cellular Phone
+888.710-0640  Pager
+The tragedy of Tuesday, September 11 will serve as an unforgettable reminder to people all over the world of what is truly important and of life's fragility.  My heartfelt sympathies go out to the families and friends of all the people whose lives were taken in this senseless and horrific attack.  I ask that all of you keep our deceased colleague Nick Humber and his family in your thoughts and prayers.  Tragically, Nick, a director with Enron Wind, was on one of the planes hijacked on Tuesday.
+To help with relief efforts in New York and Washington, D.C., Enron will make a total contribution of $1 million dollars to be split equally between the American Red Cross and the New York Firefighters and Police Officers Fund.
+Many of you have expressed an interest in more personal involvement and I want you to be aware of some of the options available.  I encourage you to support those impacted by this tragedy by donating to relief efforts, and to take advantage of our Matching Gift Program to double the impact of your individual donation.  Because of the significance of this tragic event, Enron will match your contribution 2 for 1.
+How to Help
+?  Please go to www.easymatch.com/enron. Once there, click on "Disaster Relief"  (located in the middle of the top of the page).  Please choose from the list of non-profits that are accepting donations to help with this effort.  Any donations made to aid with disaster relief will not be counted toward the annual $15,000 Matching Gift limit.   You will need your GIS number to do this (it begins with a 9).  If you are unsure of your GIS number, please contact the HR GIM helpdesk at 713-853-5666. 
+?  We will have red, white and blue striped ribbons in Houston for employees to pin on their shirts in memory of those who lost their lives, in honor of those who survived, and for their families.  Donations to the New York Firefighters and Police Officers Fund and other organizations are being accepted in exchange for the ribbons.  Enron will also match these donations.  The  ribbons are available tomorrow from 9:00 - 11:00 a.m. at the InfoZone, which is located by the down escalator in the lobby.   For any other employees who would like to make donations, please go to the above website 
+?  Enron employees are generously giving blood, and we will continue to work with relief efforts to ensure that employees who want to give, have the ability to do so.  If you have questions, call 713-853-6100. 
+?  President Bush has declared Friday a day of "National Prayer and Remembrance," and is calling on Americans to use their lunch breaks to go to places of worship to pray for victims and their families.   Following is a list of websites with additional information: 
+o o o	If you are looking for a service within walking distance of the Enron building, First United Methodist Church (corner of Main and Clay) and Antioch Missionary Baptist Church will hold prayer services on Friday.  First United Methodist Church will have services at 11:00 a.m., noon and 1:00 p.m.  Antioch Missionary Baptist Church will have a service at noon o If you are interested in attending a service and don't work in this area, please check your local television websites for more information. 
+?  For Houston employees, a citywide candlelight vigil will be held on the steps of City Hall in Downtown Houston at 7 p.m. tomorrow night.  Mayor Lee Brown will be speaking 
+?  At 10:00 a.m. (Central) on Monday, September 17th, in Enron facilities around the world, we will have a moment of silence in memory of  those whose lives have been tragically taken.  We ask that you put down the phone, turn away from your computer and dedicate a personal moment of silence together with your co-workers 
+?  We encourage all U.S. based employees to wear red, white or blue shirts on Monday.
+For Counseling Assistance
+?  For employees in Houston, we have an on-site employee assistance counselor in the building that you can reach by calling 713-853-6057.  If you are not located in Houston or if you or a family member would prefer an off-site counselor, you can call the 24-hour Employee Assistance Program number 1-800-345-1391. 
+?  Employees outside the U.S. can also contact 713-853-6057 directly.  United HealthGroup (Enron's medical network administrator) has provided free access to their National Disaster Line for counseling service to any person.  That number is 800-268-1026.  We are also working to bring crisis counseling to any work location that has a need.
+This is an agonizing time for our nation and it is hard for us all.  In addition to the financial and human support we are extending to those in need, it is imperative that we at Enron continue to safely and reliably serve our customers in the U.S. and around the world.  We know it is difficult but we must demonstrate on-going stability and strength at Enron, as this will serve as a signal that the ideals upon which America was founded cannot be diminished.  Again, our hearts go out to the families and friends of those who have lost loved ones in this tragedy.  Please continue to watch your e-mail for more information.
+Tom thanks for getting back to me ... its great to have more alumni friends in the company.....  give me a call if you have any questions or interest in West Power.   , Mike.
+Hi, Mike,
+I guess it must be somebody else with the same name. I just graduated (Dec'00), and in 1986 I was in London doing my undergraduate studies 
+Sorry to disappoint you 
+(Another) Tom Barkley
+Hi Tom-
+I'm with Enron in Portland, OR.  I graduated from Thunderbird in 1986  .... and went to school with a Tom Barkley ... Is that you or just the same name??? Please let me know.  Thanks. Mike Swerzbin 
+I really appreicated the way you worked  with us.   You always did your best to get an answer quickly.  I'll miss you.  Thanks a lot for your good work.  Stay in touch -- you might want to come back to Portland some day.
+I wanted to see if you could give us an update the screens for the traders and Mike Driscoll's phone.  When  should we expect them??
+Report ID no. 2B266B6655BD4CEFA874
+I don't think there are any receipts outstanding .. Could you please tell me which ones you're missing???  This last report had a receipt for everything.
+Employee Name: Michael Swerzbin
+Report Name:   Swerzbin, Mike  1/17/02
+Report Date:   1/17/2002
+Purpose:       Trip to Houston, TX, Meeting w/ UBS Warburg Management
+Report ID:     2B266B6655BD4CEFA874
+Submitted On:  1/17/2002
+Report Total:  2112.45
+You are only allowed 2 reports with receipts outstanding.  Your expense reports will not be paid until you meet this requirement.
+Hi Tom-
+I'm with Enron in Portland, OR.  I graduated from Thunderbird in 1986  .... and went to school with a Tom Barkley ... Is that you or just the same name??? Please let me know.  Thanks. Mike Swerzbin 
+I won't be able to make it  (rats 
+Kindly select one of the voting buttons above to let me know whether or not you will be coming to the company picnic this Saturday.  If you are planning to attend, please select the appropriate button for the number of family members who will be accompanying you. If your family cannot attend, you may bring a guest.
+Thank you!
+Anna
+x3834
+Here's a look at where the Aluminum Cos in the Northwest stand currently-  from our consultant
+Date:          September 17, 2001
+As we discussed during our September 7 meeting, attached is a matrix
+showing the 10 Northwest Aluminum Direct Service Industries (DSI's).
+Since the curtailment agreements BPA has with Alcoa and Columbia Falls
+are confidential, am not privy to all their terms. However, I think the
+overall status is pretty accurate.
+We can use this chart in our October 8 meeting to discuss possible DSI
+candidates for Enron services. Please let me know if you need any more
+information.
+Attachment
+Hi John!!
+Nice car photos.   Hey I have been thinking about some sponsors here are some ideas:  Krispy Kreme Donuts (national growing donut chain--everybody loves them), Calpine Energy, Duke Energy, New York Times (they deliver locally through-out the US), Starbucks Coffee (out of Seattle),  Southwest Airlines, Champion Sportswear, Columbia Sportswear, America OnLine, Home Depot,and I could come up with some more.  Do you like any of these for a last name??  John Krispy Kreme  
+Sounds like things are going well for you -- give me a call sometime.
+Take Care,  Your good friend, Mike.
+Hi Mike,
+How is everything?
+I know That you tried getting back to me a couple of weeks ago after I sent you the earlier email, and we just keep missing each other!
+Things move fast over here, the race season is going OK and I've managed not to kill myself yet! We have had an offer of some sponsorship in the states to race in the Speedvision Touring Car championship, so far we've got about 30% of the $600,000 that we need. I am trying to get hold of the names of some companies in th US who sell to end users (Joe Public) and perhaps are not normally associated with racing, big retailers, that sort of thing. I was wondering if you had any idea's, all I need is about six or seven company names, I can research the rest over the internet and send them some proposals via email. If you have two minutes to email them to me that would be great.
+Cheers
+John
+Hi Mike,
+Well, I did it, got the deal to do BTCC Touring Cars, it has a similar profile here in the UK to Nascar, but is actually very closely related to The Speedvision Touring Car Championship in the US.
+Here's me and my team-mate racing;
+We are having a very good year, but would like to do it in the US in 2002, can you give me a call on either 01625 520997 or my cell phone which is 07710 769289, I'd like to pick your brains on a couple of things. Can you believe people actually line up to get my autograph!!!! how weird is that?! Hope the family are well and look forward to talking to you soon.
+John B&Q (it's a long story...but I changed my name AGAIN to match the sponsors name, so that when the commentary team on the TV talk about me....they advertise the sponsors brand 
+Hi Mike,
+How is everything?
+I know That you tried getting back to me a couple of weeks ago after I sent you the earlier email, and we just keep missing each other!
+Things move fast over here, the race season is going OK and I've managed not to kill myself yet! We have had an offer of some sponsorship in the states to race in the Speedvision Touring Car championship, so far we've got about 30% of the $600,000 that we need. I am trying to get hold of the names of some companies in th US who sell to end users (Joe Public) and perhaps are not normally associated with racing, big retailers, that sort of thing. I was wondering if you had any idea's, all I need is about six or seven company names, I can research the rest over the internet and send them some proposals via email. If you have two minutes to email them to me that would be great.
+Cheers
+John
+Hi Mike,
+Well, I did it, got the deal to do BTCC Touring Cars, it has a similar profile here in the UK to Nascar, but is actually very closely related to The Speedvision Touring Car Championship in the US.
+Here's me and my team-mate racing;
+We are having a very good year, but would like to do it in the US in 2002, can you give me a call on either 01625 520997 or my cell phone which is 07710 769289, I'd like to pick your brains on a couple of things. Can you believe people actually line up to get my autograph!!!! how weird is that?! Hope the family are well and look forward to talking to you soon.
+John B&Q (it's a long story...but I changed my name AGAIN to match the sponsors name, so that when the commentary team on the TV talk about me....they advertise the sponsors brand 
+foxsports-nba-knicks,mov
+you gotta help me out, it does't work.
+if you cant view this let me know and i can come over and do some tricks to make it work.
+if you cant view this let me know and i can come over and do some tricks to make it work.
+Mike,
+Here is Idaho's annual football pool....weekly and yearly prizes...if
+you have any problems signing up, give Me or Churchlady a call!!
+Good Luck
+Dave
+You have been invited to join FATDOGTRADER's private 
+NFL Standard Pool called POWERPOOL at officefootballpool.com.
+In order to join the pool, go to  
+log in (or join if you aren't a member), and then choose Pools - Join a
+Pool.
+Then when prompted, enter the following information:
+Pool ID#: 3583
+Password: IDACORP
+Good luck and thanks for choosing officefootballpool.com!
+I don't think there are any receipts outstanding .. Could you please tell me which ones you're missing???  This last report had a receipt for everything.
+Employee Name: Michael Swerzbin
+Report Name:   Swerzbin, Mike  1/17/02
+Report Date:   1/17/2002
+Purpose:       Trip to Houston, TX, Meeting w/ UBS Warburg Management
+Report ID:     2B266B6655BD4CEFA874
+Submitted On:  1/17/2002
+Report Total:  2112.45
+You are only allowed 2 reports with receipts outstanding.  Your expense reports will not be paid until you meet this requirement.
+Hi 
+Chris I'm sitting in the second row with the 4-panel Bloomberg screen  (next to Belden)... drop by.
+Hi Mike, I'm looking for some general numbers regarding the basis and wheeling costs from mid Columbia to Montana.  Are you the person I should be going to on this?  I'm looking for some numbers to get me from today thru 2024.  If you can provide me any length of time in this range it would be greatly appreciated.  Thanks,
+Chris Mumm
+503.464.8862
+503.464.3740 (fax 
+Mike,
+Here's the URL to the driver. I sent it via instant message but that probably won't help since you need to get the url to your house. So I figure you could forward this email to your email account that you can access from home like yahoo or hotmail or whatever you use at home.
+Hope this helps.
+Jeffrey Oh
+Mike Driscoll will be responding to pricing and doing EOL and curves.
+I'll be on  my cell phone (if it works at Waldo Lake).  Driscoll will make  EOL market
+"1"
+We are in the process of confirming that all traders are set up correctly and ready to trade when the system goes live. 
+We need to make sure that your Stack Managers are accessing the correct database. In order to do this, we need to know how you access Stack Manager:
+1) Through Terminal Server (the one that opens up a desktop within a desktop and it actually appears that you have two Start buttons or
+2) By opening the Stack Manager directly from your "native" desktop.
+Please reply to this message with either a corresponding "1" or a "2" in the subject field.
+If you're not sure which one you have, please contact myself x39673, Teresa Mandola x39807 or Jennifer McQuade x53614 and we'll come by your desk to help you.
+Thank you,
+Dan Diamond
+PEAK Mid-C Month	Price 	PEAK	OFF_PEAK    Oct-01	    52.00 	Oct-01		    38.00 	
+Nov-01	    52.00 	Nov-01		    38.00 	
+Dec-01	    69.00 	Dec-01		    50.00 	
+Jan-02	    63.00 	Jan-02		    47.00 	
+Feb-02	    56.00 	Feb-02		    43.00 	
+Mar-02	    39.00 	Mar-02		    35.00 	
+Apr-02	    39.00 	Apr-02		    25.00 	
+May-02	    34.00 	May-02		    23.00 	
+Jun-02	    42.00 	Jun-02		    27.00 	
+Jul-02	    58.00 	Jul-02		    47.00 	
+Aug-02	    78.00 	Aug-02		    53.00 	
+Sep-02	    62.00 	Sep-02		    40.00 	
+I believe Chris Calger has lined up a corporate jet out of Portland 
+Mike, 
+Were you planning on attending the Enron Americas Management Offsite?
+If so do you want me to make the travel arrangements?
+Jill
+The Enron Americas Management Offsite has been scheduled for August 16-19, 2001 in Beaver Creek, Colorado.
+Charter aircraft will be available between Houston and Eagle/Vail Airport - flight itinerary is listed below:
+Thursday, August 16 - 5:00pm departure from Enron Aviation at George Bush Intercontinental Airport (arriving in Eagle/Vail at approximately 6:00pm)
+Sunday, August 19 - 9:00am departure from Eagle/Vail Airport (arriving at Enron Aviation at approximately 12:00pm)
+You have the option of flying into Houston and taking this charter flight or you can work with your local travel agent to obtain personal travel into either Denver International or Eagle/Vail.  Enron will provide ground transportation from both airports.  Flights into Eagle/Vail are very limited during the summer months.  Driving time from Denver to Beaver Creek is approximately 2 1/2 hours and approximately 35 minutes from Eagle/Vail to Beaver Creek.
+Once travel has been confirmed, please provide me with a copy of your itinerary so I can secure the proper ground transportation.
+Please let me know if I can be of assistance or if you have any questions.
+Thanks.
+Dorie Hitchcock
+Event Manager
+Enron
+1400 Smith Street
+Suite 3640a
+Houston, TX  77002
+Telephone:  (713) 853-6978
+Fax:  (713) 646-5800
+Cell:  (713) 594-7093
+E-Mail:  dorie.hitchcock@
+ For a BridgeNews update on the status of power plants that are proposed
+ and being built, click: 
+ 
+ 	For a .pdf version of this information, contained in the free
+ BridgeNews Electricity Week, double-click: 
+ 	You are receiving this message because you have given your consent
+ to a representative of BridgeNews (www.bridge.com).
+ 	TO BE REMOVED from this mailing list, send an email with your full
+ name in the body of the message to: pamela.conway@bridge.com
+ 
+ 
+ 
+ITINERARY CONFIRMATION FOR HELENA SWERZBIN 30AUG
+DATE 20JULY01
+AGENT PK/PK BOOKING REF YMQ27M
+ENRON CORP                               SWERZBIN/MICHAEL
+ENRON NORTH AMERICA
+3WTC 0306
+INTEROFFICE ETKT RCPT
+ETKT RECEIPT
+SERVICE               DATE  FROM           TO             DEPART  ARRIVE
+AMERICA WEST AIRLINES 30AUG PORTLAND OR    PHOENIX AZ     554A    830A
+HP 202     B          THU   INTERNATIONAL  SKY HARBOR INT
+TERMINAL 4
+SNACK                         NON STOP
+RESERVATION CONFIRMED         2:36 DURATION
+AIRCRAFT: BOEING 737-300
+SEAT 09B NO SMOKING CONFIRMED
+AMERICA WEST AIRLINES 30AUG PHOENIX AZ     SANTA FE NM    901A    1140A
+HP 6801    B          THU   SKY HARBOR INT
+TERMINAL 4
+NON STOP
+RESERVATION CONFIRMED         1:39 DURATION
+FLIGHT OPERATED BY AIR MIDWEST DBA AMERIC
+AIRCRAFT OWNER: ZV  AIR MIDWEST
+AIRCRAFT: BEECHCRAFT 1900/1900C/1900D
+SEAT 07A NO SMOKING CONFIRMED
+AMERICA WEST AIRLINES 02SEP SANTA FE NM    PHOENIX AZ     525P    609P
+HP 6808    B          SUN                  SKY HARBOR INT
+TERMINAL 4
+NON STOP
+RESERVATION CONFIRMED         1:44 DURATION
+FLIGHT OPERATED BY AIR MIDWEST DBA AMERIC
+AIRCRAFT OWNER: ZV  AIR MIDWEST
+AIRCRAFT: BEECHCRAFT 1900/1900C/1900D
+SEAT 05A NO SMOKING CONFIRMED
+AMERICA WEST AIRLINES 02SEP PHOENIX AZ     PORTLAND OR    650P    930P
+HP 794     B          SUN   SKY HARBOR INT INTERNATIONAL
+TERMINAL 4
+SNACK                         NON STOP
+RESERVATION CONFIRMED         2:40 DURATION
+AIRCRAFT: BOEING 737-300
+SEAT 16B NO SMOKING CONFIRMED
+THIS IS A NON-REFUNDABLE FARE THAT REQUIRES
+TRAVEL ON THESE SPECIFIC DATES AND FLIGHTS.
+ANY CHANGES WILL RESULT IN A PENALTY AND/OR
+ADDITIONAL COLLECTION.
+YOUR TICKET REFLECTS A NEGOTIATED DISCOUNT FROM THE TAP
+THE PUBLISHED FARE FOR THIS TICKET IS $449.00
+MISCELLANEOUS         31DEC HOUSTON TX
+MON   ** THANK YOU FOR USING THE TAP  
+RESERVATION NUMBER(S)  HP/T3J43O
+SWERZBIN/HELENA  S0C0413R1059            TICKET:HP/ETKT 401 7029707050
+INTL TVLRS: CARRY SOS WALLET CARD W/ENRON ASSISTANCE INFO
+CALL SOS MEDICAL EMERGENCY:IN U.S 800 523-6586
+CALL SOS MEDICAL EMERGENCY:INTL 215 245-4707 (COLLECT)
+THIS IS THE PASSENGER RECEIPT FOR YOUR ELECTRONIC TICKET.
+PLEASE CHECK-IN WITH PHOTO IDENTIFICATION AND WITH
+EITHER (1) THIS RECEIPT OR (2) YOUR CONFIRMATION NUMBER.
+YOUR ETKT CONFIRMATION NUMBER IS: T 3 J 4 3 O
+ALL FARES ARE SUBJECT TO CHANGE UNTIL TICKETED/PURCHASED 
+I was just checking to make sure we are ticketed for the Aug 30  --returning 9/2??? Please let me know.   Thanks- Mike
+I should be here -- Muni Man.   Thanks..
+Jeff Fuller will be in town on August 3rd 12:00 to discuss information exchange.  Let me know if you are available.
+Stewart
+Glenn-
+I really have no interest in Lewis River or Klamath since there is zero correlation to the Columbia flows....  However, I'll offer the whole deal at $3 million per year with the hair if they're insistent.  Or we'll do any power options the weather desk wants.
+Where do we stand on this? I sent Sanjeev some Asian Option Pricing last week; I get the sense he wants to pursue the original stream flow structure (one which were not comfortable with). Let me know what our commercial position is. Thanks
+Glenn:
+How is the pricing for the stream flow going?
+Please let me know,
+Sanjeev 
+This is what the broker has --  I wonder if you could check it out and see if it's regulated flow or not.  Also we can use whatever proxy we want if you have any suggestions. 
+Charts for today's meeting are attached:
+Scott Freeman
+Enron Summer Analyst
+West Power Trading Desk
+Work: 503-464-3911
+Portland Cell: 503-701-1163
+Austin Cell: 512-294-7692
+Home: 503-236-6204
+Pleasure to have spoken with you last night concerning your interest in
+arranging for 7-10,000 sf of office space.  Will be pleased to represent
+your organization in this effort.  I will have the Pre-Lease Planning
+questionnaire delivered to you this morning.  Please let me know what time
+works for you on Monday.   Look forward to working on your behalf. M
+Mike Holzgang
+Senior Vice President
+Colliers International
+Direct: 503.499.0055
+Fax: 503.227.2447
+Michael.Holzgang@colliers.com
+www.colliers.com/portland
+I'll be out this Thursday and Friday- Mike Driscoll will handle EOL & curves-  Have a great 4th 
+Please transfer $100,000 from LTNW to "origination"  this is for Laird's work on a long-term City of Santa Clara (NP-15)  deal done 4/18/01.
+Dick:
+Kimberly Hundl will be forwarding certificates for the Transaction (Trade Date: 6/12/01) which we request be executed by Randy L. Berggren, General Manager/Secretary.
+Please let me know if you have any questions.
+Thank you for your assistance.
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713)853-5620
+Fax: (713)646-3490
+Jill could you try 7/5 to 7/7 or 7/12 to 7/14 for Mike and my trip to Calgary.
+Hey,
+No problem on the tickets, I just need to know when you would like to change them for and they will charge us about a $100 a ticket.   So if you can let me know by tomorrow and I will get it taken care of 
+Thanks, Jill
+The hotel's no is 011-52-144-34444  --  Talk to Raul  in reservations-- he says there still rooms available  (mostly garden views-- but it's still the place to go)
+Kim below are the websites to book the hotel, Melia San Lucas-- I'd like room #502-  we also would like a suite for evening get togethers with the whole group.  Thanks.
+I believe this is the best choice-  Great hotel, close to town with golf, tennis, fishing right there.   The rooms are great and the beach is awesome.  Check it out!!!  Let me know what you think and we'll book it.
+This is the info.-  Kim Hillis is making the reservations (I hope there are rooms available this late)    A couple guys here have stayed there and said it's awesome.  With a great beach, close to town and golf. There's jet skis and boats right there.  I'm up for chartering a a catamaran for snorkeling and cruisin' all day.
+When you get a chance, would you send the accomodation info over to us east power boys 
+Thanks, 
+Dana, Fletch, Rob
+I believe this is the best choice-  Great hotel, close to town with golf, tennis, fishing right there.   The rooms are great and the beach is awesome.  Check it out!!!  Let me know what you think and we'll book it.
+I'll be in Calgary Thrs. June 21 & 22 
+Please see the details below regarding the West Power Trading PRC meeting for Staff, Specialists, Senior Specialists, Analysts and Associates.
+Date:		Thursday, June 21, 2001
+Time:		11:00 am to Place:		Marriott Hotel, Salmon Room
+If you are unable to attend, please let me know 
+Thanks!
+Amy
+Mikey all our fundies stuff is still locked down ...  try these web-sites:  Powerlytix.com and Friedwired.com (pw: enron, enron).  Next week we'll open the stuff back up ... I'm guessing exports to be close 3,000 MWs into Cal  through the Spring run-off  then up to 5,000 MW thru July  (on average about 4,250 MW) then dropping in Aug and Sept back to 2,500 
+Do you have an outage calendar for 2002?
+Grigs
+I'm in for a chair- Thanks- (how did you end doing asset sales & HR 
+We will be selling the old desk chairs to employees for $25.00.  If you are interested in purchasing a non-Aeron chair currently on the floor, please let me know by close of business, Monday, June 4.  On Tuesday morning, we will hold a drawing to allocate the available chairs 
+Just a reminder - we will be replacing desk chairs after 2:00 pm on Monday, June 4 and Tuesday, June 5.  If you are happy with your current chair and do not wish to have it replaced or have special requests, please let me know as soon as possible.  Please disregard if you have already responded.
+Thanks!
+Amy
+Mike and Helen,
+Thanks very much for attending my mother's service.  Sydney and I are sorry
+we did not get to spend more time with you during my time in Portland.  I
+will make sure to contact you next time I am coming into town.  I have
+enclosed a residency newsletter I sent out to all of the faculty and
+resident's summarizing my eulogy to my mother.  I thought it would be useful
+as an educational tool as we all unfortunately have to go through this at
+some point.  Please feel free to share it with whomever you wish.  One of
+the things I have learned the most through all of this is the importance of
+sharing.  Take care.
+I want to thank everyone who has written to me via mail or E-mail regarding
+the recent death of my mother.  This has been a growth experience for me.
+Although I am emotionally devastated, I have learned a tremendous amount
+about life in the last few weeks and months.  Since this topic is one we all
+must face at some time in our lives, I thought sharing some of this would be
+helpful for myself and also for those of you who have either faced it in the
+past or will in the future.  It is really a tribute to my mother (a former
+schoolteacher), as this was her last lesson for me.  The following is a
+summary of my eulogy to her at her memorial service 4/18/01.
+What I Learned:  Reflections on my Mother's Life
+1.	True Love:  My mother and I had a volatile relationship
+during part of my life.  Like many people, I was very self-centered during
+my late teens and most of my twenties.  I did well in my professional life,
+but I was not very giving in my relationships (either girlfriends or
+family).  My mother was not shy to point out her disappointment with these
+behaviors and we had many heated discussions during that time period.  I
+have noticed that many friends have had volatile relationships with their
+closest parent.  I have learned that true love is about passion for the
+other person.  One cannot be silent when you believe changes need to be
+made.  Some of the hard times draw you even closer later in life.
+Ultimately, my mother was right.  I am very proud of my 30s and grateful
+that she was able to witness my maturation as a person.
+2.	Grief:  Of course, I have learned a lot about grief.  Grief
+is 90% about you.  In the last few days of her life, there were many tears.
+Almost all were mine.  My mother had accepted her fate and had a strong
+Christian faith.  She was primarily worried about the effect her death would
+have on my sister and I.  The vacant spot in your heart and life cannot be
+measured.  It will be a wound that cannot heal as you progress in your life
+and cannot directly share it with your loved one.  It will come in waves
+triggered by various thoughts and activities, as if it was a neurologic
+disorder.  All I can say as comfort to those who have not experienced it is
+this:  When the unthinkable happens and you lose what you cannot bear to
+consider losing, your life is permanently changed.  However, not all of the
+changes will be towards the abyss of permanent melancholy that you assume
+will occur.  There will be growth and understanding.  There will be
+spiritual and emotional opportunity.  Friends and family will step up to the
+plate for you.  (More on this later).
+3.	Role Models:  Like most young boys, my idols as a child were
+the typical sport stars, people who did larger than life things that I had
+never met.  I tried to pursue the usual goals of the young American male.  I
+wanted to be physically attractive, well rounded and intelligent, and
+economically prosperous.  I wanted to "have it all".  As I grow older, my
+definition for "having it all" has changed.  My father is an incredible man.
+He lost his left arm at the shoulder in a hunting accident age twelve.
+Despite this, he did everything a person with two arms could do, and
+sometimes even better.  My friends looked at him as an incredible
+inspiration.  I did not pay as much attention to my mother's attributes.
+She was simply an incredible giving person.  The unfortunates, the lonely,
+the downtrodden never went unnoticed by my mother.  She cultivated friends
+and family like a good farmer cultivates crops.  The rewards of this became
+obvious to me as I spent more time with her in the last few years.  People
+visited her constantly.  People called about her constantly.  People did
+things for her constantly.  People prayed for her and loved her constantly.
+I never would have thought that as I approach 40, my most important role
+model would be a frail woman who spent a lot of time in a wheel chair.  I
+will never be the same after going through this with her.  For that, I will
+always be grateful.
+4.	Glass Half Full Person:  My favorite quote from my mother is
+"I am having a good day".  This was what I always heard when I would phone
+her to check on her which I did daily the last year.  For my mom, seeing a
+nice arrangement of flowers, visiting with a relative or neighbor, these
+were the things that made life grand.  As one gets busier and busier, I
+think one tends to become a glass half empty person more and more.
+Accomplishments just lead to more deadlines.  The focus is on what you don't
+have rather than what you have.  Perspective can become fatally altered.  I
+notice the flowers more, the kindness I see more, the sights and smells of
+the world more, and appreciate the life I have built more rather than
+focusing on the life I want to build.  This is probably the most important
+lesson my mother taught me.
+5.	Caregivers:  As a person in the medical profession, I
+witness care giving every day.  However, until you have participated in it
+yourself, particularly with a loved one, you have not really lived.  The
+intimacy you get with the person who you make meals for, wash for, and help
+with ADLs is not describable.  You develop little rituals that you look
+forward to as much as the person you do it for.  It takes a special type of
+person to do this kind of work full-time.  Those moments with my mother will
+sustain me the rest of my life no matter what happens to me.
+6.	Priorities:  We all think everything we do is the most
+important thing on this planet.  Going through this, I realize that nothing
+is more important in your life than your family.  Dr. Krupski said it best
+when I came into his office in tears several times needing to go home to be
+with my mother this last year.  He said "Ten years from now, you will not
+remember what paper you wrote, what operation you did, what talk you gave.
+But, you will always remember and treasure the time with your mother.  Go
+home."  He was right, and I will never be able to repay him for the ability
+to spend time with her.
+7.	Friendships/Neighbors:  As I stated, my mother was excellent
+at cultivating these relationships.  It is really not rocket science, it
+just requires your time and being open.  I was amazed that she kept contact
+with 8 friends from high school (50 years) till the day of her death.  They
+would get together regularly.  In the modern world, this is very unusual.
+Perhaps it is because we all have distorted priorities.  In addition, she
+had a very tight bond with her neighbors.  I remember we had all of the
+neighbor kids playing at our house regularly because of the size of our
+yard.  One day a boy broke his leg (clearly an immediate lawsuit today), but
+that did not stop the neighborhood kids.  My mother was on hospice months
+before she officially went on the list.  It was the neighborhood hospice.
+They would drive her places, fix her plumbing, and mow her lawn, all for
+free.  They would bring food, come visit, and share their lives with her.
+It was an incredible thing to see.
+8.	Courage:  My mother spent the last 30 months of her life
+with an hematocrit between 15 and 25.  She rarely complained.  She mustered
+the strength in the last year to attend my sister's wedding, her high school
+reunion, and shop for holidays and decorate the house for Christmas.  She
+went to restaurants with friends.  A month before her death she went to
+lunch with me twice, went on a trip to a local waterfall, and went shopping
+at the local center.  She did all of this with a hematocrit of 17.
+Seventeen is the number I will always remember when I am tired and wishing I
+could sleep but the life and job I have requires my time.
+9.	Acceptance:  How does one learn to live with the
+unthinkable?  Well, I have come to understand many things.  The worst part
+of chronic illness is watching your loved one slowly fade over time.
+However, they are so miserable at the end that having them leave is more
+acceptable.  My mother had a tremendous faith, and I know she is in a better
+place.  I have changed as a person based on the above reflections, and I
+understand that part of her will always live on through my life and actions.
+It is a time of great emotion, but also great opportunity.  Many friends and
+family come out to support you, which allow a chance to reunite past
+relationships with others.  My sister and I have become very close through
+all of this.  That would make my mother proud and happy.   Memorial services
+and the like are all about celebration of life.  There are tears, but most
+of remembrance is the honor of sharing the person's life.  I know my mother
+more now than I ever did.  I have 2.5 hours of her on video to share with my
+future children so they can know her too.  I am the product of two
+schoolteachers.  They were awesome teachers and not surprisingly awesome
+parents.  Much of what we are comes from those that raised us.  I did not
+understand that before.  I do now.
+Thanks for allowing me to share some of my mother's life with you.
+Hopefully it will be as meaningful to you reading it as it was to me writing
+it.
+Mark R. Nehler, M.D.
+Assistant Professor
+Vascular Surgery Section
+University of Colorado Health Sciences Center
+4200 East Ninth Avenue, #5521
+Denver CO 81262-0312
+303-315-6489
+Mark.Nehler@UCHSC.edu
+Driscoll will do EOL & curves-- I'll be available on the cell
+Mike Driscoll will be taking care of the curves and any pricing requests.  Have a great weekend 
+The last two paycheck I've received have been wrong.  They do not include the deferral portion of my contract-- it's $1,606 per pay period.  It should show up under earnings.   Could you please help me get this straightened out?  I can easily show us the error.  Thanks, Mike. 
+BY MARK GOLDEN    A DOW JONES NEWSWIRES COLUMN     NEW YORK (DOW JONES)--THE CALIFORNIA SENATE IN SACRAMENTO PASSED A WINDFALL-PROFITS TAX ON SALES OF ELECTRICITY INTO THE STATE'S WHOLESALE ELECTRICITY MARKET MONDAY AFTERNOON AT 4:50 P.M. PDT. AT ALMOST EXACTLY THE SAME
+TIME, CALIFORNIA INDEPENDENT SYSTEM OPERATOR INITIATED ROLLING BLACKOUTS FOR THE
+FIRST TIME SINCE MARCH    COINCIDENCE? PROBABLY, BUT THE CONNECTION SHOULDN'T BE IGNORED    "THE POLICY DECISIONS THAT HAVE BEEN ADOPTED IN CALIFORNIA TO DATE HAVE ACCELERATED AN ALREADY SERIOUS MARKET COLLAPSE," SAID A HARVARD UNIVERSITY STUDY
+OF CALIFORNIA'S ENERGY CRISIS LATE LAST MONTH    THIS WEEK'S WINDFALL-PROFITS TAX BILL IS THE LATEST BLUNT INSTRUMENT WIELDED 
+WITH POTENTIALLY DISASTROUS RESULTS. GOV. GRAY DAVIS WANTED IT AS A STICK WHEN  
+(CONT)
+MEETING WITH EXECUTIVES FROM THE STATE'S MERCHANT POWER COMPANIES WEDNESDAY. THE
+MANEUVER WAS LESS THAN ADROIT, AND THE GENERATORS WEREN'T IMPRESSED    AFTER THE MEETING WITH DAVIS, RELIANT ENERGY'S (REI) JOHN STOUT SAID THAT IF 
+THE TAX WERE IMPLEMENTED IN CALIFORNIA, IT WOULD "INSTANTLY BLACK OUT ALL THE GENERATION IN THE STATE    THE STATE'S LEADERS MIGHT KEEP IN MIND WHO WIELDS THE BIGGER STICK AT THIS POINT. CALIFORNIA SET UP A MARKET IN WHICH SELLERS HAVE BEEN ABLE TO CHARGE VERY
+HIGH PRICES FOR ELECTRICITY SINCE SUPPLIES STARTED GETTING TIGHT A YEAR AGO SELLERS SAY THEY HAVE PLAYED BY THE RULES THEY WERE GIVEN, AND NOBODY HAS PROVED
+OTHERWISE WITH THE ONE EXCEPTION OF A FINE PAID BY WILLIAMS COMPANIES (WMB) FOR 
+ONE PARTICULAR INSTANCE OF VIOLATING A CONTRACT    "IT'S LIKE SOMEBODY INVENTED A NEW GAME, INVITED YOU OVER TO PLAY AND THEN CHANGED THE RULES A COUPLE OF TIMES IN THE MIDDLE OF THE GAME. THEN, AFTER YOU  
+BEAT THEM, THEY INSIST YOU CHEATED," SAID ONE WESTERN ENERGY TRADER    ALMOST EVERY ATTEMPT BY THE BUY SIDE - THE UTILITIES, THE ISO AND NOW THE                                                                           (CONT)
+STATE TREASURY - TO LOWER PRICES HAS RESULTED IN HIGHER PRICES OR BLACKOUTS OR  
+BOTH. THE WINDFALL-PROFITS TAX IDEA IS THE MOST RECENT EXAMPLE, BUT THOSE WHO INSIST ON PRICE CAPS SHOULD KEEP THIS IN MIND: THE ISO HAS HAD PRICE CAPS SINCE 
+IT BEGAN OPERATION MORE THAN THREE YEARS AGO. OBVIOUSLY, PRICE CAPS HAVEN'T WORKED, JUST AS THEY HAVE NEVER WORKED EXCEPT DURING WARTIME    IN FACT, PRICE CAPS HAVE BEEN A QUESTIONABLE MEDICINE PRESCRIBED FOR THE WRONG DISEASE. AT BEST, PRICE CAPS MIGHT RESTRICT PRICE SPIKES. CALIFORNIA'S PROBLEM IS PERPETUAL HIGH PRICES. IT CAN'T AFFORD THE GOING RATE AT NIGHTTIME LET ALONE THE HIGHER MARKET PRICES DURING THE AFTERNOONS IN A HEATWAVE    CALIFORNIA MUST FIGURE OUT HOW TO PLAY BETTER THE GAME IT INVENTED. THE INSANELY COMPLICATED COMPUTER-BASED PURCHASING OF POWER ENDED A FEW MONTHS AGO, 
+AFTER THE CALIFORNIA POWER EXCHANGE WAS CLOSED DOWN BY FEDERAL REGULATORS AND THE ISO LOST ITS FINANCIAL ABILITY TO BUY POWER. THE MATCH BETWEEN THE PROGRAMS 
+AND THE ENERGY TRADERS WASN'T EXACTLY IBM'S "BIG BLUE" VERSUS GARRY KASPAROV    ALMOST EVERYONE IN THE MARKET AGREES THAT THE UTILITIES' HUMAN TRADERS COULD 
+(CONT)
+HAVE BOUGHT NEEDED POWER FOR BILLIONS OF DOLLARS LESS THAN THE PROGRAMS THAT THE
+UTILITIES WERE REQUIRED TO USE BY STATE LAW    SINCE THE DEMISE OF PROGRAMMED PURCHASING, THE COMPUTERS HAVE BEEN REPLACED  
+BY HUMANS, BUT WITHOUT MUCH BETTER RESULTS. THE TEAM ASSEMBLED TO BUY TENS OF MILLIONS OF DOLLARS WORTH OF SPOT POWER EVERY DAY CONSISTS MOSTLY OF FORMER EMPLOYEES OF THE POWER EXCHANGE AND ISO, AS WELL AS EXPENSIVE CONSULTANTS WITH  
+NO ENERGY TRADING EXPERIENCE. ONE OF THE LEADERS OF THE TRADING TEAM, FOR EXAMPLE, IS A FORMER PUBLIC RELATIONS DIRECTOR FOR THE POWER EXCHANGE WITH NO TRADING EXPERIENCE PRIOR TO THE CURRENT JOB    AS ONE ISO EMPLOYEE WAS WONT TO SAY: "IT'S LIKE WATCHING A FOOTBALL GAME BETWEEN NOTRE DAME AND ST. MARY'S SCHOOL FOR UNWED MOTHERS    AND THE SIGNING OF TENS OF BILLIONS OF DOLLARS OF FIVE- AND 10-YEAR CONTRACTS
+IS BEING EXECUTED MAINLY BY FORMER EXECUTIVES OF SOUTHERN CALIFORNIA EDISON PEOPLE THAT LEFT THE UTILITY YEARS AGO TO BECOME CONSULTANTS AND ALSO DON'T HAVE
+TRADING EXPERIENCE    GOOD IDEAS, MEANWHILE, HAVE LANGUISHED.                                (CONT)
+"WE ARE GOING TO INSTALL METERS IN EVERY MAJOR COMMERCIAL CONCERN IN THE STATE THIS SUMMER AND GO TO REAL-TIME PRICING," DAVIS TOLD WALL STREET ANALYSTS 
+ON FEB. 28    THAT PROPOSAL WAS GREETED BY MANY OBSERVERS AS THE MOST CONSTRUCTIVE IDEA FROM THE GOVERNOR'S OFFICE TO DATE    WHAT HAS HAPPENED TO REAL-TIME PRICING FOR CALIFORNIA'S BIG BUSINESSES SINCE 
+THEN? NOTHING    "THE PROBLEM IS THAT EVERYBODY IN CALIFORNIA IS 'SPECIAL'," SAID STANFORD ECONOMIST AND CALIFORNIA ISO CONSULTANT FRANK WOLAK. EVERY INDUSTRY FROM OIL REFINERS TO INTERNET SERVER FARMS HAS HAD LOBBYISTS IN SACRAMENTO SUCCESSFULLY  
+SECURING EXCEPTIONS TO THE RULE    "MY POINT HAS BEEN THAT IF WHAT THEY DO IS SO VALUABLE, THEN THEY SHOULD BE  
+ABLE TO HANDLE THE HIGHER PRICES. BUSINESSES WITH ABOUT 10,000 MEGAWATTS OF LOAD
+HAVE REAL-TIME METERS. EVERY ONE OF THEM SHOULD BE GETTING MARKET PRICES," SAID 
+WOLAK                                                                           (CONT)
+ONE OF THE GREATEST ADVANTAGES THAT SELLERS OF ELECTRICITY TO CALIFORNIA HAVE
+HAD IS THAT CONSUMERS HAVE FIXED PRICES, SO DEMAND IS INFLEXIBLE. SELLERS KNOW  
+EXACTLY HOW MUCH ELECTRICITY THE UTILITIES MUST BUY BASED ON TEMPERATURES AND THE TIME OF DAY, WOLAK SAYS, AND THEY SIMPLY SUPPLY THE MARKET JUST ENOUGH POWER
+AT HIGH MARGINAL PRICES    REDUCING OVERALL CONSUMPTION THROUGH HIGHER RATES WILL HELP THE STATE SOME BUT MAKING 25% OF DEMAND FLEXIBLE BASED ON PRICE WOULD GIVE THE STATE A FIGHTING
+CHANCE IN THE MARKET, ACCORDING TO WOLAK    BUT THAT, APPARENTLY, IS TOO COMPLICATED OR POLITICALLY DIFFICULT. PRICE CAPS, A WINDFALL-PROFITS TAX AND POLITICAL PATRONAGE JOBS FOR BUYING BILLIONS OF
+DOLLARS OF POWER MAY NOT SAVE THE STATE FROM BANKRUPTCY, BUT THEY ARE EASIER TO 
+SELL - OR SLIP THROUGH - IN SACRAMENTO    -BY MARK GOLDEN, DOW JONES NEWSWIRES; 201-938-4604; MARK.GOLDEN@DOWJONES.COM 
+for Mike Driscoll:  Matt Motley,  Mark Fisher, Sean Crandall,  Heather Dunton, Jeffrey Oh for Myself:	Sean Crandall, Tim Belden,  Greg Wolfe, Tom Alonso, Matt Motley
+watch your back on this one....03/04 np combo was 52.50/58 ees on the offer
+yesterday...let me know if you want to look at it  cal 03 pv 59/65.
+ed
+- twin spires.JPG 
+Swerzbin & Motley agreement proposed modifications:
+Page 1,  first paragraph, last sentence,  CHANGE:  ? , for any reason, either the employee or the Company in their discretion  
+Section 1. c., CHANGE:  On or within five business days from  the date                  d., CHANGE:  On or within five business days from  the date  
+Page 2. & 3, Section 8, ADD:  Except for disclosures required by law, to my attorney and C.P.A., and if the information is readily known to the public (such as customers, investors, etc  
+Page 3, section 9., ADD:  If terminated without cause, the non-competition obligations will not be in effect.  INSERT or CHANGE:  Scope of the non-competition obligations cover and are limited to Western U.S. power trading.
+Page 4,  section 10., first sentence, INSERT: ? under this Agreement, provided the employee is not terminated without cause, you will not ?
+Section 11., CHANGE first sentence to:  For a period of 12 months following the commencement , providing the employee is not terminated without cause, you will not  
+Section: 12.0 
+ADD: Company agrees to give employee 30 days written notice for termination of employment without cause.
+Section: 16.0
+REPLACE: "and you shall not be entitled to further salary or bonus compensation from such Enron entity as of that date"
+WITH:   "and you shall not be entitled to further salary, except accrued, or bonus compensation from such Enron entity as of that date"
+Exhibit I:
+ADD: If employee is terminated without cause, the sign-on award shall be deemed fully vested and non-forfeitable.
+Miscellaneous:
+We need a written statement from Enron releasing employee from ALL obligations under preexisting contracts including but not limited to non-competition agreements as well as any claims against retention or performance bonuses. 
+Location: ADD: Company cannot relocate the employee outside of Portland, OR during the term of this agreement without consent of employee.
+ADD TO AGREEMENT:
+You will receive service credit for vesting, vacation, and any other benefits contingent on length of service based on Enron in-service date.  (October 1989 for Swerzbin, March 1999 for Motley)  or similar wording
+Just a reminder toget  the documents together.  I talked to John-- he said his intent is not  adjust bonuses due to contract payments.    He was very excited the team is staying together.
+This young man has done a good job for us in structuring and analysis.  Thanks, Mike.
+Thanks Mike!
+James Bruce	
+my address is:
+12404 S.E. Blaine Dr.
+Clackamas, OR 97015
+=20
+=09=09=09=09=09[IMAGE]=09
+[IMAGE]=09New York Times National  [IMAGE]=09[IMAGE]=09[IMAGE]=09=09=09=09
+[IMAGE]=09[IMAGE]The New York Times  =09=09=09=09=09[IMAGE]=09
+=09=09=09=09=09[IMAGE]=09
+=09=09=09=09=09=09=09        [IMAGE]  search [IMAGE]  [IMAGE] Today's NewsPast 2  WeeksPast 30 DaysPast 90 DaysPast  YearSince 1996   [IMAGE]  =09=09[IMAGE]=09  E-Mail This Article    home  
+- spacer.gif=20
+- National.gif=20
+- top.gif=20
+- NytArticleHeader.gif=20
+- gn_home.gif=20
+- gn_classifieds.gif=20
+- gn_news.gif=20
+- gn_opinion.gif=20
+- gn_features.gif=20
+- reale86.gif=20
+- gn_destinations.gif=20
+- gn_services.gif=20
+- gn_newspaper.gif=20
+- profile.gif=20
+- empty.gif=20
+- gs_search.gif=20
+- emailArticle2.gif=20
+- printArticle2.gif=20
+- toshiba_emlart.gif=20
+- mostEmailed2.gif=20
+- singlePage2.gif=20
+- 01powe.1.jpg=20
+- multimedia.gif=20
+- chart.gif=20
+- relatedArticles.gif=20
+- otherResources.gif=20
+- g.gif=20
+- serve?bfmid=3D23271248&siteid=3D35542624&bfpage=3Dnytimes_6=20
+- NYTMenuTop.gif=20
+- USAMenuBottom.gif=20
+- adLinks.gif=20
+- marketplace.gif=20
+- circulation.logo.gif
+how about next Tuesday or Thursday in the late afternoon is fine....  it would be good to get on the same page with what we're doin in the market!! Thanks, let me know whcih day is best for you, Mike
+Hey,
+I'd like to know if I could buy you a beer sometime and pick your brain on how things work in the NW term trading world.  I'm one of the NW mid-marketers now (4 of us total) and I'd like to know in advance how to best work with you, add value, and not be a pain in your ass.  Let me know if this is OK.  You pick the time & place.
+Thanks Andrea Woodland
+Let me know if this is what you wanted.
+In reviewing Jeff Shields' expenses for the previous two months, I have found 
+two travel itineraries which came without prices on them. Jessica and Mollie 
+have both checked their e-mail and confirmed that the only documents sent did 
+not detail the cost of the trip. 
+The prices I need are from the following trips:
+Itinerary only - August 28, Alaska Airlines, PDX-SeaTac-Helena-SeaTac-PDX, 
+Reservation # AS/WXOKNK
+(reservation made August 24)
+Itinerary only - Sept. 6 to 7, Delta Airlines, PDX-Salt Lake 
+City-Spokane-PDX, Reservation # DL/V2KIC3
+(reservation made September 6)
+Thank you so much for your time.
+Kate Symes
+West Origination Clerk
+Enron NA
+503.464.3748
+We just changed the deal - it was input correctly, but the computer did not 
+change the time zones correctly. That's why we were off 25 MW. I'll let Duong 
+Luu know of the problem.
+Thanks,
+Kate
+Kerri Thompson@
+11/17/2000 12:39 PM
+i was talking about the total mws, they have 23,775, we have 23,800.  i think 
+they entered the strips wrong.  can you pls check on that.
+thanks
+Kate Symes @ ECT                11/17/2000 02:17 PM
+Mike confirmed with Natsource this was a 25MW deal with no broker fee.
+Kerri Thompson@
+11/17/2000 07:47 AM
+the broker has 23,775 as total mws, and also has a fee of .0075.
+This was one of a slew of deals that one of our schedulers ran across that 
+had the wrong time zone in the strips. According to Duong Luu, there was an 
+EOL application error that was incorrectly populating deals that flow over 
+4/1/01 - the first of day of Daylight Savings Time. Duong said the error has 
+since been fixed. But for the incorrect deals, we had to go in and change all 
+the strips back to PPT and re-save the deals so the time zones would populate 
+correctly. Hope this doesn't cause too much confusion - but nothing should 
+change other than that the MWH will be flowing on the correct hours now. Let 
+me know if you have any questions.
+Thanks,
+Kate
+Stephanie Piwetz   03/27/2001 02:59 PM
+Kate, checking on deal  318870.01, it is an EOL deal and looks like it has 
+been changed.  Once an EOL trade is transacted we are not suppose to change 
+the deal.  Please let me know why the ch took place 
+Thanks
+Stephanie
+A heads up -
+The Forward Obligation report for 3/28 will show Short Term Northwest with a 
+50 MWh short position off-peak at NP-15. This is due to an option that Sean 
+and Diana decided not to exercise. Thought that might clear up at least one 
+of the many discrepancies we may find on that report 
+Kate
+Please accept my apologies for this worksheet's absence yesterday. It was 
+undergoing cosmetic improvements to more accurately represent the EES-EPMI 
+position. Note two new column headings as of 3/27 - "Transmission" and "Other 
+EnPower" deals. Also, a change has been made to the SP-15 volumes in the 3/2 
+sheet. This change was made per Daniel Kang at EES and Chris Foster at EPMI. 
+And as always, feel free to contact me with questions.
+Thanks,
+Kate Symes
+Trading Support
+503-464-7486
+help!
+Could you please let me know if you are planning to attend birthday party.
+Thanks
+Question, comments, concerns 
+Kate Symes
+503-464-7486
+Let me know if this works.
+Kate
+Chris entered that this morning - 562978 - would you like me to back-date it?
+Kate
+Evelyn Metoyer@
+03/28/2001 12:27 PM
+Kate what about the Chris Mallory deal?
+PREBON
+Chris Mallory
+I am missing the following deal:
+Enron buys from Duke Q2'01 25 mw of NP-15 at $180.00 off-peak hrs
+Kate Symes @ ECT                03/27/2001 04:50 PM
+PREBON
+Matt Motley
+562635
+Jeff Richter
+562556
+Jeff Richter
+562546 - corrected to 25 mw
+BLOOMBERG
+Mike Driscoll
+562546 - Mike would like to keep this as Pinnacle for now because that is the 
+true counterparty - Bloomberg's system has not been updated
+Tom Alonso
+did not do this deal (he did a BUY  with the same terms)
+Sean Crandall
+562641
+Evelyn Metoyer@
+03/27/2001 02:32 PM
+PREBON
+Matt Motley
+I am missing the following deal:
+Enron sells to Alleghany Q4'01 Palo Verde at $125.00 peak hrs
+Chris Mallory
+I am missing the following deal:
+Enron buys from Duke Q2'01 25 mw of NP-15 at $180.00 off-peak hrs
+Jeff Richter
+deal 562546
+Prebon shows 25 mw ....enpower has 23 mw
+AMEREX WEST
+All deals are fine.
+BLOOMBERG      P.S. I am still confirming trades for Bloomberg.
+Mike Driscoll
+deal 562226
+Bloomberg show cp name as Arizona Public Service Company....enpower has 
+Pinnacle West Corp.
+Tom Alonso
+I am missing the following deal:
+Enron sells to El Paso 25 mw of April'01 PV peak hrs at $265.00
+Sean Crandall
+I am missing the following deal:
+Enron buys from Pacificorp25 mw April MID-C peak hrs at $285.00
+done
+Evelyn Metoyer@
+03/28/2001 12:53 PM
+yes
+Kate Symes @ ECT                03/28/2001 02:44 PM
+Chris entered that this morning - 562978 - would you like me to back-date it?
+Kate
+Evelyn Metoyer@
+03/28/2001 12:27 PM
+Kate what about the Chris Mallory deal?
+PREBON
+Chris Mallory
+I am missing the following deal:
+Enron buys from Duke Q2'01 25 mw of NP-15 at $180.00 off-peak hrs
+Kate Symes @ ECT                03/27/2001 04:50 PM
+PREBON
+Matt Motley
+562635
+Jeff Richter
+562556
+Jeff Richter
+562546 - corrected to 25 mw
+BLOOMBERG
+Mike Driscoll
+562546 - Mike would like to keep this as Pinnacle for now because that is the 
+true counterparty - Bloomberg's system has not been updated
+Tom Alonso
+did not do this deal (he did a BUY  with the same terms)
+Sean Crandall
+562641
+Evelyn Metoyer@
+03/27/2001 02:32 PM
+PREBON
+Matt Motley
+I am missing the following deal:
+Enron sells to Alleghany Q4'01 Palo Verde at $125.00 peak hrs
+Chris Mallory
+I am missing the following deal:
+Enron buys from Duke Q2'01 25 mw of NP-15 at $180.00 off-peak hrs
+Jeff Richter
+deal 562546
+Prebon shows 25 mw ....enpower has 23 mw
+AMEREX WEST
+All deals are fine.
+BLOOMBERG      P.S. I am still confirming trades for Bloomberg.
+Mike Driscoll
+deal 562226
+Bloomberg show cp name as Arizona Public Service Company....enpower has 
+Pinnacle West Corp.
+Tom Alonso
+I am missing the following deal:
+Enron sells to El Paso 25 mw of April'01 PV peak hrs at $265.00
+Sean Crandall
+I am missing the following deal:
+Enron buys from Pacificorp25 mw April MID-C peak hrs at $285.00
+AMEREX
+Diana Scholtes
+563461 - should be amerex/in as prebon/changed
+Chris Mallory
+563362 - he changed it to Prebon
+PREBON
+Chris Mallory
+563461 - changed to amerex
+563358 - killed/new heavy load deal entered - 563967
+Evelyn Metoyer@
+03/28/2001 02:32 PM
+AMEREX
+Diana/Sean
+I am missing the following deal:
+1) Enron sells to Powerex MId-C light 3/29 at $140.00
+Chris Mallory
+Amerex does not recognize deal 563362
+BLOOMBERG
+All deals are o.k.
+PREBON
+Chris Mallory
+deal 563461
+Is this a duplicate of 563460 because Prebon only recognizes 1 deal
+deal 563358
+Prebon says should be heavy not light hrs.
+Mark says it's a good deal - any reason why it didn't get checked out?
+Evelyn Metoyer@
+03/28/2001 03:09 PM
+deal 563473
+Mark Fischer
+Amerex does have this on there webcheckout and we did not verbal it.  Is this 
+a good deal with them?
+Kate Symes @ ECT                03/28/2001 04:41 PM
+AMEREX
+Diana Scholtes
+563461 - should be amerex/in as prebon/changed
+Chris Mallory
+563362 - he changed it to Prebon
+PREBON
+Chris Mallory
+563461 - changed to amerex
+563358 - killed/new heavy load deal entered - 563967
+Evelyn Metoyer@
+03/28/2001 02:32 PM
+AMEREX
+Diana/Sean
+I am missing the following deal:
+1) Enron sells to Powerex MId-C light 3/29 at $140.00
+Chris Mallory
+Amerex does not recognize deal 563362
+BLOOMBERG
+All deals are o.k.
+PREBON
+Chris Mallory
+deal 563461
+Is this a duplicate of 563460 because Prebon only recognizes 1 deal
+deal 563358
+Prebon says should be heavy not light hrs.
+I sure will - and you're about right. My first free minute should be in 
+approximately 12 years. See you then!
+Mollie Gustafson
+11/17/2000 01:13 PM
+Kate,
+When you get a minute (at 8:00 tonight?), would you, please show Theresa and 
+I were the auction stuff is in Word?  I am going to have her call the vendors 
+we haven't hear from (the majority of them) on Monday.
+Thanks!
+Mollie
+The missing Richter trades are all EES sleeves that he neglected to enter 
+before leaving for Houston this afternoon. Since Risk is running their calc, 
+Chris Mallory said he's enter the deals first thing in the morning. 
+The Fischer deals - 563728 and 563729 - have been changed to Constellation, 
+per Matt Motley who did the trades.
+And the other two deals where the brokers have been changed look fine. Would 
+you let me know beforehand next time, just in the offhand chance that the 
+trader entered other things in the deal incorrectly? Thanks for your help.
+Kate
+Stephanie Piwetz   03/28/2001 02:57 PM
+Kate-
+all Jeff Richter
+APB shows:
+Enron buys EES
+Q2 02
+50 mws np 15    99.95
+Enron sells Allegheny
+Q1 02 
+25 mws
+np 15
+170.00
+Enron Buys EES
+Q1 02   np 15
+25 mws   169.95
+Enron sells Allegheny
+Q2 02
+50 mws np 15  100.00
+Enron Buys EES   Q1  02
+25 mws np 15  169.95
+Enron Sells Mirant
+170.00    Q1 02
+25 mws   np 15
+and TFS said that two Fischer trades might ch Cp names due to Credit 563728.01
+563729.01  both from Pacificorp to Constellation Power.
+D. Scholtes trade 563467.01 moved from apb to prebon
+Mallory 563362.01 moved from natsource to prebon
+thanks
+sp
+Thanks for the response! I know the feeling......(is it only Wednesday?)
+Evelyn Metoyer@
+03/28/2001 03:27 PM
+Actually the deal did get vernballed......for some reason Amerex just hasn't 
+put it in their system yet ..............My fingers are typing faster than my 
+brain is moving today.
+Just disregard 
+Evelyn
+Kate Symes @ ECT                03/28/2001 05:08 PM
+Mark says it's a good deal - any reason why it didn't get checked out?
+Evelyn Metoyer@
+03/28/2001 03:09 PM
+deal 563473
+Mark Fischer
+Amerex does have this on there webcheckout and we did not verbal it.  Is this 
+a good deal with them?
+Kate Symes @ ECT                03/28/2001 04:41 PM
+AMEREX
+Diana Scholtes
+563461 - should be amerex/in as prebon/changed
+Chris Mallory
+563362 - he changed it to Prebon
+PREBON
+Chris Mallory
+563461 - changed to amerex
+563358 - killed/new heavy load deal entered - 563967
+Evelyn Metoyer@
+03/28/2001 02:32 PM
+AMEREX
+Diana/Sean
+I am missing the following deal:
+1) Enron sells to Powerex MId-C light 3/29 at $140.00
+Chris Mallory
+Amerex does not recognize deal 563362
+BLOOMBERG
+All deals are o.k.
+PREBON
+Chris Mallory
+deal 563461
+Is this a duplicate of 563460 because Prebon only recognizes 1 deal
+deal 563358
+Prebon says should be heavy not light hrs.
+I'll change this when Risk is done calcing - but APB is right - broker fee 
+should be .00275 on LADWP deals.
+Kate
+Stephanie Piwetz   03/28/2001 03:26 PM
+Kate
+Deal 562195.01  Alonso, LA dept of Water
+the apb broker confirm has fee of .0275, apb checked and confirmed fee should 
+be .0275 instead of .0075, please ch when you get a chance.   Thanks
+563906 - changed to Pinnacle West
+563907 - changed to Pinnacle West
+562226 - changed to APS
+Regarding the last deal, Mike Driscoll talked to his broker at Bloomberg last 
+night and asked him to change their confirm to say Pinnacle West. The broker 
+said he'd check on it, but that Bloomberg hadn't switched their contract over 
+yet and he didn't know if they could check a deal out under the new name. So 
+we left it, under the impression that Bloomberg was actually in the wrong. My 
+question is - has APS switched over to Pinnacle West entirely, and when or if 
+Bloomberg starts recognizing Pinnacle as the counterparty are we going to 
+have problems with deals containing the old counterparty name? I'm just 
+trying to clarify, so I can let the traders know what to expect. Thanks for 
+your help.
+Kate
+Stephanie Piwetz   03/29/2001 07:17 AM
+Kate, 
+I just spoke to DeeDee of Pinnacle West, we verballed deals and she said all 
+deals should be under the Pinnacle West name unless for Bloomberg 
+transactions.   Please review the following 
+Mark Fischer
+563906.01  non brokered > cp name should be Pinnacle West
+563907.01  non brokered > cp name should be Pinnacle West
+562226.01  Bloomberg, cp name should be Arizona Public Service.  (Evelyn 
+inquired about this yesterday)
+Thanks for your help!
+Stephanie
+I wanted to check with you on this. All these deals are entered in your book, 
+and I know the Services desk typically does their own confirmations with 
+counterparties. However, these deals have comments in them that say they 
+replace other deals. In that case, would you like them confirmed by Houston? 
+Let me know.
+Thanks,
+Kate
+Hi Kate,
+Do we need to confirm Les Rawson's Wilamette Deals? 
+564024
+564019
+564018
+564017
+564016
+564015
+564012
+564007
+564004
+564002
+564001
+563994
+They all had some sort of replacement comment so I just wanted to double 
+check to see if we should confirm.
+Thanks!!
+Amy
+Brett -
+I'm so sorry for not sending you an e-mail last night! I did test the report 
+and it looks just fine - but I had so many things going on right up until I 
+left that I forgot to tell YOU that it looked fine. Thanks for the reminder, 
+and for your work on the report.
+Kate
+Kate, were you able to test the Fwd Obligation Report?  Mr. Luu is ready to 
+push it in to production, but we wanted you to look at it and give it your ok 
+first 
+Thanks, 
+Brett Pate
+Enpower QA
+563262
+4 units to Willamette Industries Albany Paper Mill Unit
+4 units to Grays Harbor Paper Unit
+563259
+All units to Las Vegas Cogeneration
+Please let me know if this answers your question.
+Thanks,
+Kate
+Kate,
+In deal # 563262 Eugene Water & Electric and 563259 Salt River Project, I 
+need to know the Unit name in order to confirm it.
+Thanks Amy
+According to Les, we don't need to confirm any of these deals. I guess they 
+were deals done by the Real Time desk on behalf of Services, but they were 
+entered incorrectly. Thanks for checking, though.
+Kate
+Hi Kate,
+Do we need to confirm Les Rawson's Wilamette Deals? 
+564024
+564019
+564018
+564017
+564016
+564015
+564012
+564007
+564004
+564002
+564001
+563994
+They all had some sort of replacement comment so I just wanted to double 
+check to see if we should confirm.
+Thanks!!
+Amy
+These have been auto-scheduled, and I've told the confirms group not to 
+confirm them. Let me know what the Nov. and Dec. deal numbers are when you 
+get them.
+Kate
+Lester Rawson
+03/29/2001 09:54 AM
+Kate,
+No we don't need to confirm those deals they are to replace deals entered by 
+Real Time incorrectly.
+I am having to go back and change a number of deals from Oct., Nov. and Dec.
+For Oct. I need the following deals for Oct. approved and scheduled.
+10/7 563994, 10/11 564001, 10/12 564002, 10/13 564004, 10/17 564007, 10/18 
+564012,  10/19 564015, 10/20 564016, 10/22 564017, 10/23 564018,  10/30 
+564019, 10/31 564024.
+Thanks,
+Les
+The folowing EES sleeves have been entered and backdated to yesterday:
+564924 - buy EES
+564925 - sell Allegheny
+564926 - buy EES
+564927 - sell Allegheny
+564928 - buy EES
+564929 - sell Mirant
+Sorry for the delay - I didn't realize Chris had been sitting on them for so 
+long. 
+Thanks,
+Kate
+Both deals have been changed. Jeff entered them incorrectly.
+Kerri Thompson@
+11/17/2000 01:21 PM
+461487
+461488
+jeff
+broker has sp15 on these deals
+I'm sorry for not resonding sooner - did this get resolved? I see Duke Energy 
+Trading and Marketing in the deal.
+Kate
+Rhonda L Denton
+03/28/2001 04:46 AM
+Please see if this is Duke Power, a division of Duke Energy or should it be 
+Duke Energy Trading and Marketing.  Thanks.
+Bob's at lunch right now - I've left a big note on his desk and we'll sort it 
+out this afternoon. Thanks for the reminder.
+Kate
+Melissa Ann Murphy
+03/29/2001 11:13 AM
+Hello, I hate to bug you with this.  Whenever you can spare a second would 
+you ask Bob about this?  I am afraid it is going to slip through the cracks.
+Thanks for your help!
+Melissa
+Melissa Ann Murphy
+03/26/2001 10:34 AM
+Hi Bob, I was wondering if you have contacted Constellation about the 6 
+trades that are in the system with the Cal Px as the index price.  All of 
+these trades start flowing in July of this year.
+The deal numbers are as follows:
+453152.01
+453175.01
+453294.01
+462109.01
+471888.01
+471889.01
+Let me know if Constellation agrees to change these deals to the Dow Jones so 
+I can send a letter for them to sign.
+Thanks,
+Melissa
+Thanks so much! I'll pass this along to the traders.
+Kate
+Stephanie Piwetz   03/29/2001 11:52 AM
+Hello Kate,
+APS and Pinnacle...We ran into a problem checking out for the end of the 
+month, because a few deals had Pinnacle in the system, but Bloomberg on the 
+bro confirm.  We had to ch them to match the broker confirms, because APS 
+showed the deals as APS on there side.  They are trying to segregate 
+companies little by little.  We have been told by Rhonda, our contract 
+administrator that trading under both names are legally correct, both are 
+under WSPP 
+DeeDee from Pinnacle said all trades are with Pinnacle unless Bloomberg 
+trade; then cp should be APS.  DeeDee said shortly all trades will be under 
+Pinnacle, but did not give me a specific date 
+Please let the traders know that all trades should be with Pinnacle West, and 
+APS that are transacted with Bloomberg.  No, we will not have problems 
+recognizing the old name, Rhonda says they will just be assigned over to 
+Pinnacle, but we will not have to revise confirms.  Hope this helps!
+Thanks
+Stephanie
+Kate Symes                03/29/2001 11:46 AM
+563906 - changed to Pinnacle West
+563907 - changed to Pinnacle West
+562226 - changed to APS
+Regarding the last deal, Mike Driscoll talked to his broker at Bloomberg last 
+night and asked him to change their confirm to say Pinnacle West. The broker 
+said he'd check on it, but that Bloomberg hadn't switched their contract over 
+yet and he didn't know if they could check a deal out under the new name. So 
+we left it, under the impression that Bloomberg was actually in the wrong. My 
+question is - has APS switched over to Pinnacle West entirely, and when or if 
+Bloomberg starts recognizing Pinnacle as the counterparty are we going to 
+have problems with deals containing the old counterparty name? I'm just 
+trying to clarify, so I can let the traders know what to expect. Thanks for 
+your help.
+Kate
+Stephanie Piwetz   03/29/2001 07:17 AM
+Kate, 
+I just spoke to DeeDee of Pinnacle West, we verballed deals and she said all 
+deals should be under the Pinnacle West name unless for Bloomberg 
+transactions.   Please review the following 
+Mark Fischer
+563906.01  non brokered > cp name should be Pinnacle West
+563907.01  non brokered > cp name should be Pinnacle West
+562226.01  Bloomberg, cp name should be Arizona Public Service.  (Evelyn 
+inquired about this yesterday)
+Thanks for your help!
+Stephanie
+Following are the deals I changed to the correct time zones, per Will Smith's 
+list:
+520330 - forward
+373613 - forward
+359846 - EOL
+353314 - EOL
+352613 - EOL
+349391 - EOL
+349389 - EOL
+349242 - EOL
+330282 - EOL
+300686 - forward
+272524.2 - forward
+220845 - forward
+Most of these were just April deals, and it looks like they all suffered from 
+the same incorrect default we ran into before. On the longer term deals I 
+made sure to choose "no" when it asked if I would like to clear all routes 
+for the deal; but let me know if you find anything out of the ordinary.
+Thanks,
+Kate
+Cara Semperger
+03/26/2001 10:47 AM
+Do you want to look into these, the first one made me nearly wet my pants!  I 
+think I want a deal control professional on this one 
+I'm checking with Chris Foster and Chris Mallory, who are apparently the ones 
+initiating these trades. Both are out of the office right now, so it might be 
+tomorrow before I can get back to you on this. But my guess is that if APX 
+does not want to receive confirms on daily deals, then we don't need to send 
+them. I'll let you know for sure as soon as I talk to the traders.
+Thanks,
+Kate
+Hey Kate! I received a phone call from a Jim Cross from Automated Power 
+Exchange. Now that we are confirming daily's he mentioned that he did not 
+want to receive dailys per the APX Master Agreement. He told me that all 
+trades are anonimus under the APX agreement and we should not be confirming 
+theses. Examples: #563948 and #563381. Some of the trader doing these trades 
+are Chris Mallory and Les Rawson. Could you ask them is we should continue to 
+confirm these daily's or not?
+Thanks
+Kimberly
+Enron Power Marketing, Inc.
+Kimberly Indelicato Office:713-853-3031
+Trading Support Fax:713-646-2443
+kallen3@
+Done.
+Lester Rawson
+03/29/2001 01:28 PM
+Kate,
+Heres the Nov. Will batch. Please appove and auto schedule.
+11/1 565083, 11/2 565085, 11/3 565088, 11/4 565089,  11/5 565095, 11/6 
+565104, 11/7 565113, 11/10 565114, 11/11 565121, 11/13 565130,  11/14 565143.
+Thanks,
+Les
+564894 - changed to Bloomberg - but it's a buy, not a sale - is this the same 
+deal prebon is missing?
+Evelyn Metoyer@
+03/29/2001 02:25 PM
+AMEREX
+All deals o.k.
+PREBON
+Mark Fischer 
+deal 564894
+Prebon does not recognize
+BLOOMBERG
+Mark Fischer
+I am missing the following deal:
+Enron sells to El Paso 25 mw May PV  $304.00
+I believe this deal is the deal prebon does not recognize--564894
+he just changed it to 4/2
+Evelyn Metoyer@
+03/29/2001 02:27 PM
+bloomberg
+Tom Alonso
+deal 565185
+Bloomber shows term as 4/2-4/2 ........  enpower has 4/3-4/3
+Evelyn Metoyer
+03/29/2001 04:25 PM
+AMEREX
+All deals o.k.
+PREBON
+Mark Fischer 
+deal 564894
+Prebon does not recognize
+BLOOMBERG
+Mark Fischer
+I am missing the following deal:
+Enron sells to El Paso 25 mw May PV  $304.00
+I believe this deal is the deal prebon does not recognize--564894
+fee has been added
+Stephanie Piwetz   03/29/2001 03:30 PM
+Kate, can you check fee for above deal    mark fischer
+Enron sells constellation
+mona
+july-sept 01
+610.00
+we have zero fee, tfs shows .0075    Let me know and we probably need to set 
+mona delivery point in the system.
+Thanks
+sp
+The unit on this deal is Las Vegas Cogeneration - and I asked Les to start 
+entering the specific unit in the comments section of unit-contingent deals. 
+Let me know if he does or does not 
+Thanks,
+Kate
+This is a unit contingent deal.  We have been told that we have to have the 
+unit name to include in the confirmation when we confirm these deals.  Can 
+you have the traders add the unit name in the comment section whe they do 
+unit contingent deals?
+Thanks!
+Can I call you with a banana?
+I've made a change to a LTNW deal, per Mike Driscoll and John Malowney, 
+because it was entered against the wrong index yesterday. Cara asked me to 
+e-mail you with the specifics for any scheduling adjustments that need to be 
+made. And here they are -
+563929 - KILLED
+476578 - Legs 4, 5, and 6 added to extend deal through April
+Because this is an index-forward deal, it needed to be entered against the 
+on-peak, off-peak, and Sunday indices, which explains the three new legs. Let 
+me know if you have any questions.
+Kate
+You're right - Mike Driscoll entered this incorrectly, so I killed deal 
+563929 and simply added three new legs to the existing deal they were trying 
+to extend. Deal number 476578 now has legs 4, 5, and 6 to extend the deal 
+under the same terms through April. Please let me know if this doesn't show 
+up correctly for some reason.
+Thanks,
+Kate
+I have a question about how this deal is entered.  It is a 24 hour deal 
+against an index.  Shouldn't it be split out and priced against the 
+individual on peak, off peak and Sunday index?
+Thanks!
+Please note a change in EES reported load volume on 3/31, HE 6, SP-15. The 
+volume was incorrectly copied into the worksheet, but all EnPower deals 
+reflect the correct number. Also, the sheets for 3/30 and 3/31 now show those 
+respective dates at the top of the page. Please let me know if there are any 
+questions.
+Following are the terms under which I ran the Forward Obligation report and 
+General SQL error.
+ORA-00907: missing right parenthesis.
+Terms:
+Let me know what you find. Thanks!
+Kate
+These are all West Services deals, and our services traders - Les Rawson and 
+Stan Cocke - prefer to confirm their own deals with counterparties. So these 
+should not be confirmed. Kim Hundl and I have been working on long lists of 
+deals that went in to be confirmed and we've since gone in and changed them. 
+Services, Real Time, and EES trades are among those. If you'd like, you can 
+talk to her about what we decided to confirm and not confirm, or you can give 
+me a call at (503) 464-7486.
+Thanks for checking!
+Kate
+Hello Kate,
+I saw  the following deals show up as not to be confirmed, but wanted to 
+double check with you to make sure that they should not be confirmed.
+They are all Stanley Cocke deals :
+564959 Delano
+564981 Atlantic Richfield
+564983 Sierra Power
+564999 Wheelabrator Martell
+565001 Whellabrator Shasta
+Thanks so much!
+Amy
+Mark -
+I'm sending you two things that I hope will clarify some of these 
+discrepancies. The first is an updated Real Time spreadsheet for 3/19 that 
+shows the volumes for deal 553219. Bill Williams and I looked over their 
+spreadsheets and could not find this deal in the 3/16 sheet - so I'm still 
+wondering why EES thinks this deal should be in at a different date and 
+price. 
+The second document is a modified version of the sheet you sent me. In it, I 
+answered the questions I could and changed things I knew were wrong. I also 
+asked questions on deals where I can't find a discrepancy between my sheet 
+and EnPower. 
+Please keep in contact on this issue - I know this is only a start.
+Kate 
+503-464-7486
+Mark Confer
+03/29/2001 05:56 PM
+I will be out of the office on Friday, attached is the spreadsheet of the 
+differences noted so far between EES & EPMI and where we are with them Since the GL needs to be booked by the end of the day Wednesday I am sending 
+this file to everyone.  Please take a look and let me know if more 
+information is needed.
+Kate you asked about deal #553219.1 EES shows this deal on the 16th at a 
+price of $125.  They do not see this deal on their real time sheets for the 
+19th. 
+Thanks,
+Mark
+Thanks Eric. I've changed the sheet to include your phone number. And you 
+have a great weekend too!
+Kate
+djenergy   Hello Kate, FYI, the phone number that you have on the fax sheet
+(609-520-4452) is Jennifer's phone number.  My phone number is 609-520-4683
+Have a good weekend.
+Eric
+(See attached file: DJ Index 3-30.xls)(See attached file: DJ Index
+3-31.xls)
+I just talked to Bob, and I don't know if he's responded yet, but I thought 
+I'd fill you in anyway. He's been talking to his contact at Constellation 
+about changing these deals over, but hasn't received a concrete answer yet. 
+I've reminded him and he said he WILL talk to the guy and resolve it today. 
+I'll keep on it, and let you know when these deals have been changed.
+Thanks,
+Kate
+Melissa Ann Murphy
+03/29/2001 11:13 AM
+Hello, I hate to bug you with this.  Whenever you can spare a second would 
+you ask Bob about this?  I am afraid it is going to slip through the cracks.
+Thanks for your help!
+Melissa
+Melissa Ann Murphy
+03/26/2001 10:34 AM
+Hi Bob, I was wondering if you have contacted Constellation about the 6 
+trades that are in the system with the Cal Px as the index price.  All of 
+these trades start flowing in July of this year.
+The deal numbers are as follows:
+453152.01
+453175.01
+453294.01
+462109.01
+471888.01
+471889.01
+Let me know if Constellation agrees to change these deals to the Dow Jones so 
+I can send a letter for them to sign.
+Thanks,
+Melissa
+it's been changed.
+Stephanie Piwetz   03/30/2001 11:07 AM
+Kate, can you please correct the fee for del 562195.01,  to .0275
+THanks
+Sp
+Hey, it worked! I have no idea what happened, but it looks great. Thanks for 
+checking it out.
+Kate
+Kate, I ran the report with the exact same options and it came right up.  Try 
+it again, exactly as before.  Usually if it works for one person and not the 
+other it is a security issue.  Let me know what happens.
+Thanks,
+Brett
+Following are the terms under which I ran the Forward Obligation report and 
+General SQL error.
+ORA-00907: missing right parenthesis.
+Terms:
+Let me know what you find. Thanks!
+Kate
+I knew we could find a practical use for Kristian's shoes.
+The West traders have requested a new pub posting code to allow them to do 
+deals against the Dow Jones Palo Verde Sunday index. In particular, Matt 
+Motley, our Long Term Southwest trader, has executed a deal today for Cal'01 
+through Cal'06 at the Palo Verde index price. It runs all days and all hours, 
+so we need to enter three legs - one at the on peak price, one at off peak, 
+and one at Sunday price. The 24-hour Sunday price is the only option missing 
+from EnPower. Matt has asked that we get this pub code in as soon as possible 
+so his deal can be entered and calced tonight. Please let me know what you 
+can do.
+Thanks,
+Kate Symes
+Trading Support
+503-464-7486
+It's been changed to 250 - Chris is going to talk to Bloomberg, though, 
+because he thought it was a deal for 247. I'll let you know what they work 
+out.
+Evelyn Metoyer@
+03/30/2001 01:21 PM
+BLOOMBERG
+DEAL 566235
+Bloomberg sent over a confirmation for a deal where:
+Enron buys from Williams 25 mw 43-430 NP at $250.00
+Should this deal 566235 price be $250 or $247.
+Bloomberg has not sent over a confirmation for any deal at $247.00
+PREBON
+All deals checked out fine
+AMEREX WEST 
+All deals checked out fine.
+Please add to this a request for the Dow Jones COB Sunday Index price. 
+Thanks. 
+Kate
+The West traders have requested a new pub posting code to allow them to do 
+deals against the Dow Jones Palo Verde Sunday index. In particular, Matt 
+Motley, our Long Term Southwest trader, has executed a deal today for Cal'01 
+through Cal'06 at the Palo Verde index price. It runs all days and all hours, 
+so we need to enter three legs - one at the on peak price, one at off peak, 
+and one at Sunday price. The 24-hour Sunday price is the only option missing 
+from EnPower. Matt has asked that we get this pub code in as soon as possible 
+so his deal can be entered and calced tonight. Please let me know what you 
+can do.
+Thanks,
+Kate Symes
+Trading Support
+503-464-7486
+These have both been changed to Enmax Energy Corp. I'll let the Real Time 
+traders know.
+Thanks,
+Kate
+Melissa Ann Murphy
+03/30/2001 11:59 AM
+Hello, can you check these deals and see if the counterparty name is wrong They are in as Enmax Corporation and we are wondering if they should be Enmax 
+Energy Corporation.  The contract did not come over correctly so we wanted to 
+make sure the counterparty name is correct before we set up a new contract.
+Thanks,
+Melissa
+(713) 853-1886
+Les -
+I received this list from the Confirms group this morning. Looks like they 
+need quite a few unit names for confirmation purposes. But if I remember 
+correctly, you didn't want these deals confirmed. Please let me know when you 
+get a chance, and I can go through and either change them to "no confirm" or 
+add the unit names. 
+Thanks,
+Kate
+Kimberly Hundl@
+04/02/2001 07:29 AM
+Hi Kate, 
+The following are also unit contingent deals that we aren't able to confirm 
+unless we have a unit name.
+562211
+564613
+566060
+566062
+566069
+566071
+566077
+566078
+Thanks!
+Kim
+Kimberly Hundl
+04/02/2001 09:11 AM
+Hi Kate!
+Hope you had a good weekend!
+We need to know the unit name on these two unit contingent deals for Salt 
+River Project.
+Thanks!
+Kim
+Call with questions -
+Kate Symes
+503-464-7486
+I haven't heard anything back. I spoke with Willie on the phone Friday 
+afternoon, and he said the best way to get this done quickly would be to send 
+out an e-mail. I was actually just about to call and check on the request, 
+but if you have a moment, could you find out where it's at in the chain of 
+commmand?
+Thanks,
+Kate
+Has this been addressed 
+Kate Symes                03/30/2001 03:50 PM
+Please add to this a request for the Dow Jones COB Sunday Index price. 
+Thanks. 
+Kate
+The West traders have requested a new pub posting code to allow them to do 
+deals against the Dow Jones Palo Verde Sunday index. In particular, Matt 
+Motley, our Long Term Southwest trader, has executed a deal today for Cal'01 
+through Cal'06 at the Palo Verde index price. It runs all days and all hours, 
+so we need to enter three legs - one at the on peak price, one at off peak, 
+and one at Sunday price. The 24-hour Sunday price is the only option missing 
+from EnPower. Matt has asked that we get this pub code in as soon as possible 
+so his deal can be entered and calced tonight. Please let me know what you 
+can do.
+Thanks,
+Kate Symes
+Trading Support
+503-464-7486
+Here's the information I received from Les re: unit contingent deals. 
+Obviously, we'll still enter the specific unit name in these deals, but this 
+could be used as a point of reference.
+Kate
+Lester Rawson
+04/02/2001 11:10 AM
+Kate, 
+Here's the list of current Service's Desk customers we sell as Unit 
+Contingent. We want to confirm the sales but not the purchases.
+Lv Cogen. located within Nevada Power service territory.
+Unit ID: LV Cogen. unit located in North Las Vegas
+Could be sold at Nevada Power system, Mead 230, Navajo, McCullough, Red Butte.
+Saguaro Power Company located within Nevada Power service territory.
+Unit ID: Saguaro Power unit located in Henderson Nevada.
+Sale Points: Nevada System, Mead 230, Navajo, McCullough, Red Butte.
+Grays Harbor Paper L.P. located in BPA service territory. Behind Grays Harbor 
+PUD.
+Unit ID: Grays Harbor Paper unit located in Haquiam, WA.
+Sale Points: Entire Northwest interconnect.
+Willamette Ind. located in PacifiCorp's service territory.
+Unit ID; Willamette Ind. Albany Paper mill, located in Albany, Or.
+Sale Points: Entire Northwest interconnect.
+Hope this helps.
+Thanks
+Les
+changed to caiso energy
+This deal has an NP delivery point with firm energy.
+Thanks!
+Thanks for following up, Jenny. I contacted you at Willie Harrell's 
+suggestion, so I appreciate your quick response, and I'll contact Donnie in 
+the future.
+Kate
+FYI:
+I am no longer part of the Power group - I'm was just checking on the 
+progress of outstanding issues.  Please use Donnie Vinson as your contact for 
+future correspondence related to this issue.  Jenny.
+This request require  your group  to setup Pub Codes in Enpower Pub Posting 
+for daily rates.  Enpower currently have monthly rates setup for these 
+curves.  Thanks,  wlh
+This deal should be with APB, not Prebon. Trader error. I'll change this when 
+the calc is over - in about 45 minutes.
+Evelyn Metoyer@
+11/17/2000 02:30 PM
+Mark Fischer
+deal 461972
+error:  Prebon does not recognize this deal.
+ditto on the response
+Ditto on this deal!
+This deal has an NP delivery point with firm energy.
+Thanks!
+changed to caiso
+This deal has an NP delivery point with firm energy.
+thanks!
+Bob's just finishing up a meeting, so I'll have to wait a minute for info on 
+this EES sleeve. I'll let you know as soon as I see him.
+Kate
+Evelyn Metoyer@
+04/02/2001 02:29 PM
+AMEREX WEST
+Bob Badeer
+I am missing the following deals:
+1)  Sell  Sempra Energy Trading Corp.  100  NP 15  1/1/02- 3/31/02 50mw  
+off     0.0075  fee
+2)  Buy  Enron Energy Services, Inc.  99.95  NP 15  1/1/02- 3/31/02 50mw off      0.00  fee
+BLOOMBERG
+All deals checked out fine.
+PREBON WEST
+All deals checked out fine.
+AMEREX
+Bob Badeer
+567991 - sell sempra
+567997 - buy ees
+Evelyn Metoyer@
+04/02/2001 02:29 PM
+AMEREX WEST
+Bob Badeer
+I am missing the following deals:
+1)  Sell  Sempra Energy Trading Corp.  100  NP 15  1/1/02- 3/31/02 50mw  
+off     0.0075  fee
+2)  Buy  Enron Energy Services, Inc.  99.95  NP 15  1/1/02- 3/31/02 50mw off      0.00  fee
+BLOOMBERG
+All deals checked out fine.
+PREBON WEST
+All deals checked out fine.
+Here's the latest from our good buddy Ryan 
+Ryan Langan  Sorry Kate...let me try that again,
+ Just wanted to let you know that I have a small allotment of playoff
+ tickets that will be available for your employees to purchase. There is a
+ strong possibility of facing either the Lakers or Jazz in the first round
+ so tickets will sell fast once made available to the general public.
+ Playoffs begin between April 20th - 25th (exact date is to be determined).
+ Please call or e-mail with any questions.

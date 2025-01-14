@@ -1,0 +1,117 @@
+the 2nd is fixed
+ds
+Diana and Sean:
+Up to 11/26/01, 
+1. we are missing the annuities for 11/7, 11/18, 11/19, 11/22, 11/23, and 11/24
+2. we need to restore HE23-24 for deal# 517676.1 for 11/2/01 (lightload sale in NP15) in scheduling
+Please let me know if you need any help entering the annuities or restoring the HE23-HE24 scheduling (for 11/2/01 for deal 517676.1).
+As the month-end is approaching, I am hoping we can clear the above issues up before Settlements captures the wrong P&L.
+Thanks,
+Fran
+Deal # 880982.1 for the 18/19 ....22/24
+Deal # 880928.2 for the 7th
+i still need to fix the 2nd
+ds
+Diana and Sean:
+Up to 11/26/01, 
+1. we are missing the annuities for 11/7, 11/18, 11/19, 11/22, 11/23, and 11/24
+2. we need to restore HE23-24 for deal# 517676.1 for 11/2/01 (lightload sale in NP15) in scheduling
+Please let me know if you need any help entering the annuities or restoring the HE23-HE24 scheduling (for 11/2/01 for deal 517676.1).
+As the month-end is approaching, I am hoping we can clear the above issues up before Settlements captures the wrong P&L.
+Thanks,
+Fran
+Thanks Fran!  I was just running the report to do the same thing!  I'll take care of it all today.
+ds
+Diana and Sean:
+Up to 11/26/01, 
+1. we are missing the annuities for 11/7, 11/18, 11/19, 11/22, 11/23, and 11/24
+2. we need to restore HE23-24 for deal# 517676.1 for 11/2/01 (lightload sale in NP15) in scheduling
+Please let me know if you need any help entering the annuities or restoring the HE23-HE24 scheduling (for 11/2/01 for deal 517676.1).
+As the month-end is approaching, I am hoping we can clear the above issues up before Settlements captures the wrong P&L.
+Thanks,
+Fran
+1
+We are in the process of confirming that all traders are set up correctly and ready to trade when the system goes live. 
+We need to make sure that your Stack Managers are accessing the correct database. In order to do this, we need to know how you access Stack Manager:
+1) Through Terminal Server (the one that opens up a desktop within a desktop and it actually appears that you have two Start buttons or
+2) By opening the Stack Manager directly from your "native" desktop.
+Please reply to this message with either a corresponding "1" or a "2" in the subject field.
+If you're not sure which one you have, please contact myself x39673, Teresa Mandola x39807 or Jennifer McQuade x53614 and we'll come by your desk to help you.
+Thank you,
+Dan Diamond
+FYI
+To our customers and counterparts:
+As of Sunday, November 18 our OASIS and E-tag servers are running on PPT.
+The only business practices we are changing now, is that our OASIS
+transmission products are all based upon PPT.  Our scheduling system/e-tag
+server is also running on PPT.  However, we can and will continue to accept
+e-tags in any timezone, as long as the profile has a valid OASIS
+reservation.  We will also continue to check out with our counterparties in
+the time zone that we have historically used with each neighboring control
+area 
+The cost?  $4.79 for a tall, skinny latte' and a plain bagel with light
+cream cheese for our programmer.
+If you have any questions, please give me a call at 208-388-2243.
+Thanks,
+Lisa
+I will concur with Cara's response of nothing serious as to bring up in a formal setting 
+Diana
+Alan,
+The forwarded message below contains an issue cited by Dick Ingersoll back in June of 1997 in which Control Areas were changing the properties of our submitted schedules/transactions (tags?) and not informing us.  In a subsequent letter in September 2000 Dick had noted an imporvement but with Enron still experiencing some minor problems.
+My question(s) to you and the traders/schedulers are, are the problems noted above still occuring, is this still causing us problems and if so are there specific incidents that you can provide to me so I can pass them on to the WSCC?
+Please accpet my wishes for a Happy Thanksgiving!
+Kind 
+Dave
+Dear David,
+Attached is a copy of the outstanding EPMI Compliance Review
+Recommendation lot items. Could you please email any status update to
+these items to me before December 14, 2001?
+Thanks
+Steve Ashbaker
+WSCC
+801-582-0353
+File:  Enron Comp log request 11-14-01.doc
+Date:  20 Nov 2001, 11:01
+Size:  19456 bytes.
+Type:  Unknown
+- Enron Comp log request 11-14-01.doc  
+To our customers and counterparts:
+As of Sunday, November 18 our OASIS and E-tag servers are running on PPT.
+The only business practices we are changing now, is that our OASIS
+transmission products are all based upon PPT.  Our scheduling system/e-tag
+server is also running on PPT.  However, we can and will continue to accept
+e-tags in any timezone, as long as the profile has a valid OASIS
+reservation.  We will also continue to check out with our counterparties in
+the time zone that we have historically used with each neighboring control
+area 
+The cost?  $4.79 for a tall, skinny latte' and a plain bagel with light
+cream cheese for our programmer.
+If you have any questions, please give me a call at 208-388-2243.
+Thanks,
+Lisa
+Diana and Sean,
+We have agreed to send Shasta Lake daily e-mail notification with strike price information when we exercise the transmission option.  Here is Jerry Cupp's email address.  Please cc me on the notices.
+Thanks,
+Jim
+gerry.cupp@ci.shasta-lake.ca.us
+Jim Buerkle
+Manager
+Middle Market
+(503) 464-3832 (Office)
+(503) 702-4604 (Mobile)
+(503) 464-3740 (Fax)
+jim.buerkle@
+Hi!  It has been a long time!  As you know things here are very shaky.  I can't believe the big E has crumbled!  Who would have ever guessed!  Everyone is completely disappointed and mostly pissed off.  I'll have to give you the inside scoop sometime when we get together!  And we need to!  I'll be traveling around making my rounds to find out what's in the market place soon. So, hopefully I'll get a chance to see you.  Any chance of you and Mark coming down?  We have plenty of room for the two of you; you're always welcome.  I love your house!  Thanks for sending the picture.  Its so exciting but its also a lot of work!  I'm glad I'm done!  It's nice to be in the house, but also funny all the work and effort you put in and how exciting it is all those months while you're in the process....all to be completely indifferent with it afterwards!  Its very strange, but what to do?  Natalie, I can't believe is 3!  And a very terrible 3.  My hands are full!  I'm contemplating of putting her in ski school this winter.  She quite the daring child, so I think she'll enjoy.  Ask Mark for me if this is too young.  She won't think so, its mostly my fear. =3D)  You'll get a kick of the pictures I've attached.  One of them is my depiction a young Penny Lane. Hopefully you saw Almost Famous to understand my analogy!  You'll also notice the Beagle that Bill bought for Natalie.  HAHA! His name is Presley.  She's absolutely in love with him.=20
+Keep in touch!
+Diana
+Hi Diana...haven't spoken to you in awhile so thought I'd drop you a note.
+Hope all is well amongst this crazy market and confusing time. =20
+I assume you are in your new house and wondered how you are enjoying it as I
+can't really imagine EVER moving in.  I am sure it will happen one day!
+Below is a picture Mark took yesterday (just proof that it is really moving
+ahead!) and thought I'd forward to you...perhaps you could give me your
+opinion, based on it's current stage of construction, how much longer I
+might be at my in-laws 
+Take care!
+Lisa
+   > =20

@@ -1,0 +1,236 @@
+Andy,
+Sounds good. One comment: Vasant is swamped with work coordinating
+several high profile projects. 
+Bob is very productive and thorough and will get a lot of support
+internally from other members of the group: this contribution
+may not be directly visible but it will be still very important.
+We appreciate your hands-on involvement. It's always the most
+important condition of a successful project to have direct and frequent interaction
+with the customer. Look fwd to working on this project.
+Vince
+Guys,
+Here is what I took away from our meeting:
+1). Research will continue working on custom reporting off of EnronOnline data.
+2). Research will continue working on market analysis off of EnronOnline data
+3). Research will a contribute a resource to the Trading Algorithm effort, presumably one at this point in time. I would prefer it to be Vasant but I am flexible.The Trading Algorithm group will be run by the EnronOnline team with its product reviewed by Research. It is my belief that projects like this require a firm commercial hand in their infancy to make sure they stay on the right track.
+If this presents a problem for anyone please let me know so that we can discuss.
+Thanks,
+Andy
+Shirley,
+Letter for Shalesh.
+Vince
+Stinson,
+Let's chat about it.
+Vince
+What are your thoughts regarding this?
+Frank
+Anita,
+Please, FedEx to him  the book plus reprints of my papers.
+Shirley knows where they are.
+Vince
+Mark Kierlanczyk
+Friedberg Mercantile Group Inc
+67 Wall Street, Suite 1910
+New York, NY 10005
+tel 212 943 5300
+Thank you, Vince, for the materials.
+My   - Mark
+_________________________________________________________________
+FYI
+Vince
+Tamara Jae Black
+04/18/2001 03:31 PM
+Please mark your calendar for a meeting with:
+Frank Hayden
+Reg. Value @ Risk
+April 26th
+3 - 4pm
+rm 3125b
+Thanks 
+Tjae Black
+x35800
+Anita
+OK
+Vince
+Anita DuPont@
+04/18/2001 04:58 PM
+Vince:
+Lance, Martin and Sandeep want to attend both the conference and the seminar days.  Let me know if this is OK.   The cost for each will be $2598 less 10%.
+Molly 
+FYI
+Vince
+edward kao  Vince:
+Candice's contact information at Mount Holyoke is as follows:
+Phone:  (413) 493-5092
+email:   cgkao@mtholyoke.edu
+address:   1453 Blanchard Campus Center
+Mount Holyoke College
+South Hadley, MA 01075-6002
+Ed
+PS:  I hope Ron Singer has given you the needed info.  Please feel free to
+contact me if I can be of any help with regard to your colleague's inquiry
+about pursuing doctoral study at UH.
+Shirley,
+Did we renew it?
+Vince
+Institutional Investor Journals  Dear Vince Kaminski,
+We hope you are enjoying the benefits of receiving market-leading, rigorous and current research from industry experts through your subscription to DERIVATIVES QUARTERLY.
+Unfortunately, your subscription is about to expire!  By renewing now, your access to the web site and to your print copies will be uninterrupted.
+You can continue to get the exclusive research and practical advice for financial practitioners - written by the best minds in your business!
+Click here to Renew Today
+Thank you.
+Bessik Matchavariani@MUNICATIONS on 04/19/2001 01:48:00 PM
+Vince,
+Here is Michael Maddox contact information:
+Tel: (617) 497 6446
+email: mmaddox@cera.com
+They have an office in Europe as well.  I would love to be involved in projects involving Georgia, Azerbaijan, Turkey, etc.
+My resume
+Thanks,
+Bessik Matchavariani
+Enron Broadband Services
+Tel: 713.345.7230
+Fax: 713.646.8861
+bessik_matchavariani@.net
+Shirley Crenshaw
+04/19/2001 03:01 PM
+Attached please find the completed form for Vince Kaminski, Managing
+Director, Research Group 
+He will be approving all purchases for cost center 107043.
+HI Shirley
+There were two Shirleys, so sending to both 
+ISC Help Desk
+NW on Linux  Please respond to Linux Help  NETWORK WORLD NEWSLETTER: PHIL HOCHMUTH
+on LINUX
+04/16/01 - Today's focus: Super-secret Linux
+Dear Wincenty Kaminski,
+In this issue:
+* National Security Agency is bulletproofing the operating system
+* Links related to Linux
+* Featured reader resource
+* CAREER CORNER: Mission-critical opportunities with marketplace
+winners
+_______________________________________________________________
+If a friend has forwarded this newsletter to you, why not sign-up
+for your own free copy? Visit  
+for your own free subscription.
+_______________________________________________________________
+Today's focus: Super-secret Linux
+By Phil Hochmuth
+Network Associates is teaming up with the National Security Agency,
+the government's top electronic cryptography and spying institution,
+to help the agency fine-tune its highly secure version of Linux. The
+goal is to create a version of Linux that is impervious to outside
+attacks.
+Security Enhanced Linux, or SELinux, is a project under development
+by the NSA to create a version of the operating system that is more
+secure than the commercial distributions of Linux available from
+software vendors and the open-source community. The PGP Security
+division of Network Associates is working with the NSA to modify the
+Linux source code so that applications running on a Linux server or
+PC have reduced access to a Linux machine's underlying operating
+system. The aim is to give Linux servers the ability to shirk off
+"buffer overrun" and "format string" attacks, which take advantage of
+loose ends in Linux applications to access a server's core operating
+system and shut it down. A Linux worm dubbed "Lion" was recently
+identified as using this method to hack Linux servers.
+NSA has worked with other software firms to shore up other weaknesses
+in the operating system. Secure Computing has worked on the SELinux
+project to add its Type Enforcement technology to SELinux. Type
+Enforcement protects the operating system and applications by
+segmenting them into security "domains" with specifications on what
+types of files can be accessed by each domain. (For example, this
+could be used to prevent access to a configuration file through an
+application, such as Apache Web server). NSA is also working with
+VMWare to come up with a more secure user permissions system for
+allowing users with different security access to work on the same
+server.
+The good news for Linux users who are not high-level NSA operatives
+is that SELinux will be released to the open-source community once
+finished. This means that commercial Linux vendors could include
+SELinux security enhancements in future releases, resulting in more
+bulletproof Linux Web and database servers in enterprises.
+_______________________________________________________________
+To contact Phil Hochmuth:
+Phil Hochmuth is a staff writer for Network World, and
+a former systems integrator. You can reach him at
+_______________________________________________________________
+RELATED LINKS
+Get the source code for SELinux
+Check out a site with Linux security tools and tips
+PGP working with NSA on Linux security prototype  -  Network World,
+04/16/01
+Breaking Linux news from Network World and around the 'Net,
+updated daily 
+Archive of the Linux newsletter:
+______________________________________________________________
+FEATURED READER RESOURCE
+Buyer's Guides
+Researching for a purchase? Check out Network World Fusion's
+Buyer's Guides. Whether you're researching VPN products or SAN
+switches or wireless LAN gear, these guides provide reviews and
+compare vendors head to head. See the list of guides at:
+_______________________________________________________________
+CAREER CORNER presented by  
+LINUX TALENT IN DEMAND
+Technology business trends are shifting, but job creation is
+still high. Register with LeadersOnline and let our web-based
+recruiting service bring exceptional Linux opportunities your
+way. With positions ranging from $75-200K, we work with the
+best companies on their mission-critical jobs. LeadersOnline is
+just what you'd expect from Heidrick & Struggles, the world's
+leading executive search firm. It takes just 10 minutes to
+register and our service is free and confidential.
+_______________________________________________________________
+SUBSCRIPTION SERVICES
+To subscribe or unsubscribe to any Network World e-mail
+newsletters, go to:
+To unsubscribe from promotional e-mail go to:
+To change your e-mail address, go to:
+Subscription questions? Contact Customer Service by replying to
+this message.
+Have editorial comments? Write Jeff Caruso, Newsletter Editor,
+at: mailto:jcaruso@nww.com
+For advertising information, write Jamie Kalbach, Fusion Sales
+Manager, at: mailto:jkalbach@nww.com
+Steve,
+I submitted my evaluation. General impression was rather
+negative: he seems to be a consultant type person
+who speaks about everything with confidence  but is short on depth
+and technical details.
+He is personable, outspoken, organized - on the positive
+side.
+Also, the red flag is that he jumps from job to job: typical after
+18-24 months when any organization can ascertain his usefulness.
+Vince
+Hi Vince,
+what did you think of David Hsu?
+My thoughts.
+Overall a good guy. Personable. Intelligent.
+He could communicate reasonably well, but seemed to be capable of losing objectivity in favour of technical advancement.
+He didn't seem comfortable with taking a man-management role (at least he didn't want to be an 'administrator')
+He appeared to know a lot about risk. (In fact Jay Web called me to say he felt David was one of the better risk guys he had seen but also commented that he needed to be coupled with a project manager to be successfull).
+Steve
+Martin,
+Can you prepare a draft of recommendation for  Eric?
+I can elaborate more and sign it.
+Vince
+Vince,
+My phone is (650) 725-0541 (office).
+I am still in a state of shock about Enron and I am still absorbing all the
+news I can.  It is almost unbelievable to me that the company I worked for
+this summer is now essentially kaput.
+From the website I contacted you from, I take it that you are no longer with
+Enron.  Please accept my deepest sympathies and best wishes in what must
+surely be a difficult time.  I hope you were not as heavily invested in Enron
+as many employees seemed to be.
+I wanted to contact you regarding letters of recommendation.  I'm currently
+looking for summer employment, in particular at network providers (such as
+AT&T and IBM) as well as some financial institutions.  Would it be any
+trouble for you to write a note on my behalf?  They may be requested via
+email, so an actual letter may not be necessary.  I would have more details
+later.
+My best to you and your family and all those I knew this summer 
+Eric
+On Tuesday 22 January 2002 06:05 pm, you wrote:
+ Eric,

@@ -1,0 +1,2075 @@
+- taliban attack.ppt 
+thanks.
+PL
+Phillip,
+I put together this list just to kill some time.  You probably have something similar and/or easier to read, but it is a list of curves on the West desk and what files they are found in.
+MV
+any changes in the Jazz Fest verdict?
+PL
+Just another day in the life of P.Love.
+I hope all is well.
+Jilly
+There are rumors around here that all the employees going to the new company
+- UBS Energy will be taken off of the Enron servers tomorrow.  If this is
+true, I do not know what or when my email service at work will be back up.
+Please send in the mean time any emails to plove@houston.rr.com.  Thanks.
+Hope all of you are doing well.
+PL
+- winmail.dat  
+Looks like the search continues.
+PL
+Thanks for the EOL products email.  I am attaching the curve files. The CA Basis is the California markets and the West Basis is Rockies and SW.  The third file is the GDI curves.  Please review and let me know if we need to make any changes or additions to this file.  They are pretty simple and straightforward and do not link to anything currently.  Let me know what you think.  I am sending them in three different emails because of the size.  I will have the physical/GD curve file to you by Monday.  Thanks.
+PL
+thanks for the file.  I am attaching the basis curves we have set up and the GDY curve file as well.  I am finishing the physical as we speak.  Please look at these three files and let me know if you would like any changes.  We are only putting the published curves in the files, at least to begin with.  West Basis is the rockies at southwest curves and CA basis is the california markets.  Thanks.
+PL
+The products in red can be deleted.  I changed some Product/Trader associations.  Let me know how it looks.
+Mike  
+Attached is a file from EOL that has all the current products.  We are trying to do a mass mapping for the systems of all of these products.  As you mentioned, not all of these products will roll out initially, but we wanted to go ahead and map them in the system.  I have put in the old trader's names in a column(column F).  If you could check out the list when you get a chance and let me know if you want to change the traders on any of the products and who will be trading the products for the traders that are not moving over(names highlighted in green).  Also, there are no current products under Jason Wolfe, Matt Smith or Jane Tholt.  Please let me know if we need to create products for them or if we will be moving existing ones to them.  Please also let me know which traders need to also have a physical book.  The list I gave you this morning is the financial books we set up.  Thanks for your help and let me know if you have any questions or concerns.
+PL
+Let O'Neal know if you will be in or out so that we can get some fillers.
+PL
+Gentlemen,
+What:   		Let's play poker 
+Where: 		The land of Pears
+When:		Thursday, January 17th -- between 7-8 pm
+Directions:	No key map so here goes
+288 South (please find 288 from Downtown)
+Exit McHard/Shadow Creek (hint: it's the first exit after the Beltway 8)
+Take a left onto McHard and proceed to the end of McHard 
+There will be a Conoco at the first Stop sign, the next stop sign will say Country Place
+Proceed to the third stop Sign and take a left to The Lakes of Country Place
+Go to the Gurard's gate... You will visit 406 Starleaf
+Go thru the gate and Take a left on River Birch drive 
+Starleaf will be the 3rd street on the right 
+My house is the 5th house on the left (in the cul de sac 
+address 406 Starleaf	Pearland, Tx 77584
+phone: 713.436.2992	cell: 832.372.8000
+O
+Attached is a file from EOL that has all the current products.  We are trying to do a mass mapping for the systems of all of these products.  As you mentioned, not all of these products will roll out initially, but we wanted to go ahead and map them in the system.  I have put in the old trader's names in a column(column F).  If you could check out the list when you get a chance and let me know if you want to change the traders on any of the products and who will be trading the products for the traders that are not moving over(names highlighted in green).  Also, there are no current products under Jason Wolfe, Matt Smith or Jane Tholt.  Please let me know if we need to create products for them or if we will be moving existing ones to them.  Please also let me know which traders need to also have a physical book.  The list I gave you this morning is the financial books we set up.  Thanks for your help and let me know if you have any questions or concerns.
+PL
+NGX Index Analysis will follow shortly.
+- cgprNov01.pdf 
+Is this value on these deals rought 8K?
+If so, tell portfolio acct to put them in and generate a PMA for the gas books.  It is not worth investigating for such a small number and the deal ended 12/01.  Are these the only four deals you have with the gas desk PL
+This is CGAS Price as of 12/31/01. Merchant Portfolio hedged this position thru the gas desk - then the gas desk hedged with third party.
+Totals	$0	
+Monthly	PV	Discount	Mid	Fixed	Mid	
+Deal Num	Pub Code	Period	Quantity	Quantity	Factor	Price	Price	Value	
+ER6792.1	NX3	01-Dec-01	-75,255	0	100.00%	2.539	2.195	$0	
+NE6410.1	NX3	01-Dec-01	75,255	0	100.00%	2.539	2.943	$0	
+Per John Lavorato, we killed all desk to desk deals on Dec. 13th.  That is why this deal was killed.  You mentioned that you had price deals that were not killed.  Can you give me deal numbers for those as well and we can take a peak and see why they were not killed.  It is our understanding that all desk to desk(book to book) should be killed because no cash actually changes hands.  Should this deal have been with an external counterparty?
+PL
+Phillip,
+Below is the information for the CGAS book that was killed on 12/13/01.  This book should have liquidated in December.  Can we get this deal back?
+Thanks,
+Susie
+x30524
+Totals	$7,714	
+Monthly	PV	Discount	Mid	Fixed	Mid	
+Deal Num	Pub Code	Period	Quantity	Quantity	Factor	Price	Price	Value	
+ER6451.1	IF-CGT/APPALAC	01-Dec-01	-75,255	-75,255	100.00%	-0.119	0.313	$32,497	
+ER6451.2	IF-CGT/APPALAC	01-Dec-01	75,255	75,255	100.00%	-0.119	0.210	-$24,784	
+Per John Lavorato, we killed all desk to desk deals on Dec. 13th.  That is why this deal was killed.  You mentioned that you had price deals that were not killed.  Can you give me deal numbers for those as well and we can take a peak and see why they were not killed.  It is our understanding that all desk to desk(book to book) should be killed because no cash actually changes hands.  Should this deal have been with an external counterparty?
+PL
+Phillip,
+Below is the information for the CGAS book that was killed on 12/13/01.  This book should have liquidated in December.  Can we get this deal back?
+Thanks,
+Susie
+x30524
+Totals	$7,714	
+Monthly	PV	Discount	Mid	Fixed	Mid	
+Deal Num	Pub Code	Period	Quantity	Quantity	Factor	Price	Price	Value	
+ER6451.1	IF-CGT/APPALAC	01-Dec-01	-75,255	-75,255	100.00%	-0.119	0.313	$32,497	
+ER6451.2	IF-CGT/APPALAC	01-Dec-01	75,255	75,255	100.00%	-0.119	0.210	-$24,784	
+I agree.
+PL
+If we can set up new ones for NETCO, I do not see why we need the old ones.
+Do you want to keep any of the old TRV files for Netco for any reason.  We can create new ones once it is set up 
+KK
+As far as I know(see previous email), this is the most current list.  I would also use this list to verify the basis options are up to date - per our conversation earlier(Pat & Chance).
+PL
+See attached file as requested.  These are all of the Financial Terminations that were requested to be moved to the Bankruptcy Book.
+Below is the additional list of termination moves requested yesterday after a reconciliation was done on the Exposure report (from Don Miller) against the termination log.
+CP ID	     Counterparty 
+8	     Amerada Hess Corporation
+64516	     Avista Corporation
+55265	     Avista Energy, Inc.
+65291	     BP Corporation North America Inc.
+23848	     Cabot Oil & Gas Marketing Corporation
+79689	     Calpine Energy Services, L.P.
+5264	     Cargill, Incorporated	
+65599	     CMS Field Services Inc.
+56630	     Consolidated Edison Solutions, Inc.
+52577	     Cornerstone Propane, L.P.
+64141	NJR Energy Services Company	
+151	Northern Illinois Gas Company	
+69121	NRG Power Marketing Inc.	
+63665	Occidental Energy Marketing, Inc 54438	PG&E Energy Trading, Canada Corporation	
+58402	PG&E Energy Trading-Gas Corporation	
+46709	Phibro Inc.	
+55776	Pioneer Natural Resources USA, Inc.	
+33367	PMI Trading, LTD	
+49262	Questar Energy Trading Company	
+65268	Reliant Energy Services, Inc.	
+103469	Sequent Energy Management, L.P.	
+3996	Sithe Energies, Inc.	
+26146	Societe Generale	
+11134	St. Mary Land & Exploration Company	
+81385	The New Power Company	
+37810	Venoco, Inc.	
+96651	Vitol Capital Management Ltd.	
+46924	Vitol S.A.	
+232	Western Gas Resources, Inc.	
+237	Wisconsin Power And Light Company	
+Call with any questions.
+Kim Theriot
+x. 31771
+fyi
+If you or your group have trouble printing, it may be that they moved a bunch a printers to \\nahou-psecn01v server. If you are on the the old server, you have to delete that printer from your printer set up and reinstall it by going through Start/run and typing in \\nahou-psecn01v, then select your printer. Thanks.
+Done.
+PL
+Thomas is setting up a new NGP&L file and would like us to save a copy of each P&L to Netco\2002\0102\region#0102.  Once you decide how you are going to break them up, one file for each book or combine them together, can you save them out there so he can start linking them.
+I think that for the physical regions it may be easier to keep each book separate because people could be moving around a lot. 
+KK
+thanks.
+PL
+Russ,
+The west desk logistics people that will need access to sitara in NetCo are: Patti Sullivan, Suzanne Christiansen, Jackie Adams, Shelly Mendel and Shannon Groenewold. 
+Thanks,
+Patti
+Would you mind sending Russ the list of your people that will need access to sitara in NetCo.  I have send him the list of traders.  Thanks.
+PL
+Security access for the "Estate" will be the same as Production currently is.
+Access for "Netco" will have to be set up from scratch.
+Can each of you give me a list of the people that should have access to  "Netco".
+Access is still preliminarily being set up on a West, East, Central and Texas regional basis.
+Included in the list should be Risk, Logistics, Trading and anyone else that you know of that you want to have access to your region..
+The plan is to have a large mass set up,  additional updates will be handled under eRequest, under the new application region code "Houston - Netco"
+(This name will be changed later)
+Any questions or comments, please give me a call.
+Russ
+x37386
+come down whenever, we can find something to show you.
+PL
+Phillip,
+Last week we discussed me spending time with you one morning to see exactly what it is that I will be doing.  I imagine it will be more of an observing lesson than anything else, but I would like to stop by Thursday morning.  If you are available, what time should I come down there?
+Zac
+Would you mind sending Russ the list of your people that will need access to sitara in NetCo.  I have send him the list of traders.  Thanks.
+PL
+Security access for the "Estate" will be the same as Production currently is.
+Access for "Netco" will have to be set up from scratch.
+Can each of you give me a list of the people that should have access to  "Netco".
+Access is still preliminarily being set up on a West, East, Central and Texas regional basis.
+Included in the list should be Risk, Logistics, Trading and anyone else that you know of that you want to have access to your region..
+The plan is to have a large mass set up,  additional updates will be handled under eRequest, under the new application region code "Houston - Netco"
+(This name will be changed later)
+Any questions or comments, please give me a call.
+Russ
+x37386
+For West:
+Risk(give these people access to all regions)-
+Phillip Love
+Randy Bhatia
+Melissa Videtto
+Stephanie Hopkins
+Ryan O'Rourke
+Zach McCarroll
+Traders(just West access)-
+Mike Grigsby
+Phillip Allen
+Keith Holst
+Frank Ermis
+Jay Reitmeyer
+Jane Tholt
+Matt Lenhart
+Jason Wolfe
+Matt Smith
+I will have Patti Sullivan from logistics send you her list.  Thanks.
+PL
+Security access for the "Estate" will be the same as Production currently is.
+Access for "Netco" will have to be set up from scratch.
+Can each of you give me a list of the people that should have access to  "Netco".
+Access is still preliminarily being set up on a West, East, Central and Texas regional basis.
+Included in the list should be Risk, Logistics, Trading and anyone else that you know of that you want to have access to your region..
+The plan is to have a large mass set up,  additional updates will be handled under eRequest, under the new application region code "Houston - Netco"
+(This name will be changed later)
+Any questions or comments, please give me a call.
+Russ
+x37386
+I have set up the new basis curves for West and the are based off the old curves, so they are in the old format.  They are located in the Netco Directory under west/curves/CA BASIS NEW and WEST BASIS NEW.  I am still working on GDY and Phy/GD.  The Phy/GD is in the new format and will be located in the same directory as the above, with the title West phys curves.  GDY will be in the same location as filename West GDY and it is also in the new format.  The phys/GD file will be complete tomorrow and the GDY will be done today.
+PL
+Due to changes to the database relative to the change to "Netco", the curve files will need to be upgraded.  The majority of the files
+will be able to be upgraded by each individual with a minimal of effort.  Older files will take extra effort.  Can you have your people 
+identify how many old files we have.  The old files can be identified by looking at the "Publish" tab in the Admin box located at F2:G3.
+The old files will only have the button  (Reset Rows/Columns)
+The new files will have 3 buttons   (Reset Rows/Columns)
+(Load Modules)(Re Init)
+Knowing which files still have the old format will help the IT group plan for this migration.
+If you could have your people check and get back to me as soon as possible, I would appreciate it.
+Thanks
+Russ
+The desk took the adjustment and we were waiting on Lisa to verify the amounts on the A/R.  We need to know the variance on the A/R by month to compare to my analysis and we can then change the prices in Sitara.  The desk took a 5.7 million dollar expense PMA.  Please let me know if and when you guys have the info and we can get it fixed in Sitara.  Until this gets done, OA will have a variance on flash to actual because the desk already took the adjustment - we wanted to get it in for year end.
+PL
+How is this going?  Jennifer Lee is OA is questioning the impact and is trying to understand everything so I sent her copies of our communications.  Any further communications need to copy her on since Lisa V. is no longer here.
+Thanks,
+Marlo
+still working.  I hope to have it completed before the week is out.  As I am sure you are experiencing as well all the fire drills that are currently going on around here, I have been running since I got back from vacation.  Believe me when I say this is a high priority for me as well because of all the potential P&L fallout for the traders who have been entering this information.
+PL
+How are things going with this.  We need to give updates to our leads.
+can you get me copies of the August Invoice.  Cora is very confident we have done everything correctly and I am still disagreeing with her(agreeing with you guys).  This is pretty confusing and they did not keep spreadsheets or data about these, so I am having trouble tying all the volumes.  Could you also get me copies of the pipeline statements for August.  It looks like I am also missing one of the pipeline statements from July as well.  I do not have the statement for the loan of 73,416.  Thanks.  I am sorry this is taking a while, this deal is very complex and traders/schedulers have not kept good records 
+PL 
+Here's what we have done for all the month's involved.  I'll have to copy the Nicor invoices and get them to you.  I will bring those down to you tomorrow morning.
+can you get me the info on August for Nicor, according to Cora Pendergrass I need to see august numbers because some of July's invoice has august volumes.  I would like a copy of all the stuff you guys gave me for July.  Thanks.
+PL
+Right now the parking and loaned deals that we did or do with NIPSCO are not being booked correctly in Unify.  The volumes are coming over onto Supply Verifications or Sales Invoices depending what we are doing.  These deals should be coming over to the service side so that I can be paying for these deals.  However, I do not have anything on the service side.  Therefore, I have a had to pay (paper) manuals to pay NIPSCO and Darla has outstanding A/R & A/P items since we do not invoice or pay NIPSCO for these deals.  I have requested that Marlene forward the service contracts that are currently in the system to verify what we have setup so that you can make sure the deals are setup and we can get these corrected in Unify.  I need to get my payables issues cleared up as well for the manuals I had to do to get them paid as interest was also charged.  If you need to meet up with Darla and I to show you what we have, please let us know.  The sooner we can get these resolved the better.
+Thanks,
+Marlo 
+Phillip is working on NICOR. I will work on NIPSCO. Marlo's e-mail was the first I have heard of this and it does not really describe what the issue is. Can somebody clue me in with the details? Thanks.
+Scott 
+Hi Phillip, 
+I saw your emails to Marlo James on the Nicor issue that said Scott Palmer would be taking over the Central desk.  I just wanted to see if it would be possible to put this on the highest priority.  Due to the current situation, we need to get this matter resolved ASAP to be able to clear off the balances left sitting on our A/R and A/P.  Let me know if there's any additional information that you would require from me. Again, I stress the urgency of resolving this.  Thanks for your help.  Please update me on any progress as soon as possible.
+Thanks 
+Darla Saucier 
+We need to take the central off before the NY, NY Market, southeast curve files.  We need to add the GDI East curve file.  Also add the two east phy/gas daily curve files - o:tds/tds curve/east/intramonth & gas daily files/eastprodnewstyle and eastmktnewstyle.  Sandra's curve file is o:tds/tds curve/east/fteast.  The P&L files are o:erms/1intra/ireport/2002/0102phy/regions/EATP0102 and o:erms/erms_adm/firmtrad/2002/0102/regions/Intra-East Transport 0102.
+PL
+Are there any other files/directories that the estate people in risk will need to use to do their jobs.  IT will have to go into each macro and change the database that it is using to the new one they are creating this weekend.  I don't know if any of you are still using any exotic spreadsheets other than the transport model.  Please let me know if there is anything I'm missing.  (curve files)
+Here are the files that use ERMS that the estate will be using.
+O:\erms\erms_adm\firmtrad\Benchmark\2002\Jan-02
+O:\erms\erms_adm\firmtrad\2002\0102\regions
+O:\erms\Excel Queries\ (Netco will need a copy of these files moved with them)
+O:\Transport\Central Transport\2002\Jan02
+O:\TDS\TDS Curve\Central
+O:\TDS\TDS Curve\East
+O:\TDS\TDS Curve\GD-Central
+O:\TDS\TDS Curve\Central\NY
+O:\TDS\TDS Curve\Central\NYMarket
+O:\TDS\TDS Curve\Central\Southeast
+O:\TDS\TDS Curve\Central\Texas
+O:\TDS\TDS Curve\Central\West
+FUCK YOU
+Hey guys, hope you are having fun, but probably not as much as me, just got into San juan and hit the bacardi tour, lots of free samples.  Been snorkeling twice and just enjoying the ocean.  See ya'll when i get back.  later
+Bruce
+We just wanted to let you guys know of some changes in order to keep the terminations being processed in a timely manner.  It appears that all Netco employees may be taken off of systems access for Enron this weekend.  In case this is true, Darron and I have transitioned from handling these requests.  Greg Couch is going to be leading the estate risk effort and Pat Ryder and Chance Rabon will be handling all termination list issues.  Please send these lists to these three people in lieu of Darron and I.  As a side note, could you send an updated financial termination list(if this list has changed since you sent it to me Kim) to these guys so that they can verify deals are moved to the proper book.  It is probably a good idea for future termination scripts to come through Greg before going to IT because of several book moves we have made to facilitate reporting to Ed McMichael.  For example the price book has been basically split into three books.  Please shout with any questions or concerns you may have.  Thanks.
+PL
+You know you got me all fired up now, I am going to put on the full court press to keep the tradition alive.  I am attaching a map from El Cajon to Houston for driving directions.  They say it will take 24+hours, I calculated the time and I think the jilly mobile can do it in 20.  Ashley is probably going to drive the Burban over to NO and I am going to fly because of work.  So you guys only have to drive to Houston and she will do the rest.  Sounds like a good idea to me(yeah right).  I will even throw in a Love trip back to SD this summer/fall if I can get a visit in April.  Two for one baby, you can't get a deal better than that except at Costco.  Plus, I almost forgot the best part - we have a little TV for the burban so you could get a little MLB 2001 action on the way.....(give me enough time and I will keep it coming)
+PL
+P.S. - we also have the Milton's bread here(so you can make sandwiches for the trip to NO)
+El Cajon, CA US   	 	Houston, TX US  	Total Distance: 1455.80 miles	 	Total Estimated Time: 24 hours, 26 minutes	
+DIRECTIONS			DISTANCE	
+1: 	Start out going West on E MAIN ST towards S MAGNOLIA AVE by turning left.	 	0.03 miles	
+2: 	Turn RIGHT onto N MAGNOLIA AVE.	 	0.47 miles	
+3: 	Take the I-8 E ramp towards EL CENTRO.	 	0.28 miles	
+4: 	Merge onto I-8 E.	 	331.60 miles	
+5: 	Take the I-10 E exit- exit number 178A- towards TUCSON.	 	0.57 miles	
+6: 	Merge onto I-10 E.	 	926.69 miles	
+7: 	Take the I-35 N exit- exit number 570- on the left towards AUSTIN.	 	0.34 miles	
+8: 	Merge onto I-35 N.	 	5.31 miles	
+9: 	Take the I-410 S exit- exit number 162.	 	0.41 miles	
+10: 	Keep LEFT at the fork in the ramp.	 	0.14 miles	
+11: 	Keep LEFT at the fork in the ramp.	 	0.42 miles	
+12: 	Merge onto I-410 S.	 	0.86 miles	
+13: 	Take the I-10/US-90 exit- exit number 33- towards SAN ANTONIO/HOUSTON.	 	0.14 miles	
+14: 	Keep LEFT at the fork in the ramp.	 	0.26 miles	
+15: 	Keep RIGHT at the fork in the ramp.	 	0.28 miles	
+16: 	Keep LEFT at the fork in the ramp.	 	0.26 miles	
+17: 	Merge onto I-10 E.	 	187.19 miles	
+18: 	Take the SMITH ST exit- exit number 769A- towards DOWNTOWN.	 	0.38 miles	
+19: 	Turn LEFT onto FRANKLIN ST.	 	0.09 miles	
+20: 	Turn RIGHT onto MILAM ST.	 	0.09 miles	
+Total Estimated Time:			Total Distance 24 hours, 26 minutes			1455.80 miles	
+PL.
+We are doing good. I hope all is well with all of the junk you are going
+through.
+It looks like Steve went out on top! I think that the Chargers are too cheap
+to hire him. Emma
+is doing great. I liked the pictures that Ash sent. Jackson has a hat on and
+there is a joker
+on a pogo stick. Also the picture of J Bug and Tory was great. Trying to
+impress the
+ladies with his musical talents. I think that the tradition may end this
+year. I know that
+if we came we would have to drive. Denise will not fly.
+We are going to miss you this year. There will probably be some great acts.
+Talk to you soon.
+Jilly With It
+What is up my California buddy?  Staying out of trouble?  Things are going
+pretty good here.  You believe Steve Spurrier?  IT is a great deal for
+Auburn and the SEC.  Time for a new dog to get on top.  What is my little
+friend Emma beans up to?  I bet she is growing and talking up a storm.  Are
+you guys coming to the Fest this year?  Just to offer you a little
+encouragement, I found a special fare for you out there on southwest non
+stop both ways....here is the link.  Only $250 a person.  Let me know big
+dog.  You know we can not have the tradition ended.
+PL
+- winmail.dat  
+I do not see why not, run it by palmer, since as of Monday he will be your lead.
+PL
+i know that no one knows what vacation benefits are but would it be possible to take off on Mon...given circumstances don't drastically change?
+Edward C. Brady
+Enron Net Works
+Risk Management
+713.853.5209
+1.800.97ENRON ext.35209
+Air Itinerary Trip 	Date 	Day 	Stops 	Flight 	Routing	
+Depart 	Apr 25	Thu	N/S	468	Depart San Diego (SAN) at 7:00 AM and arrive in New Orleans (MSY) at 12:30 PM	
+Return 	Apr 28	Sun	N/S	474	Depart New Orleans (MSY) at 6:05 PM and arrive in San Diego (SAN) at 8:05 PM	
+Pricing Trip	Type of Fare	Base Fare	U.S. Taxes	PFC	Passenger(s)	Total 	
+Depart	Promotional Fare  Return	Promotional Fare  	Total 	$ 442.80	$ 45.20	$ 12.00		$ 500.00	
+What is up my California buddy?  Staying out of trouble?  Things are going pretty good here.  You believe Steve Spurrier?  IT is a great deal for Auburn and the SEC.  Time for a new dog to get on top.  What is my little friend Emma beans up to?  I bet she is growing and talking up a storm.  Are you guys coming to the Fest this year?  Just to offer you a little encouragement, I found a special fare for you out there on southwest non stop both ways....here is the link.  Only $250 a person.  Let me know big dog.  You know we can not have the tradition ended.
+PL
+looks like Florida will not be very good next year.  They are losing their best players to the draft.  All three of their receivers and their best cornerback and offensive linemen have now declared for the draft today.  Add to that they can not get a coach to sign on.  Shanahan just turned it down, they are now going to New Orleans offensive coordinator.  See what happens.  Did you get your pool cover fixed?
+PL
+I've been following the story in the paper since last week.  If you look
+real close at the story though, you'll see that all these national
+offensive leads were for small schools (NAIA, Division 1AA, etc.).  But,
+still good news.  I forget the name of the Jaquars quarterback, but he
+has nothing but praise for Petrino.
+Now, if we can just get a defensive coordinator.  Wouldn't hurt to have
+some defensive players too.
+Things are okay here.  Kind of cold.  Ready for spring.
+Pop
+>> "Love, Phillip M."  Saw this morning we hired Petrino.  I did not realize how successful he
+has been at the college level.  Three times his offenses have led the
+nation in offense.  He also did a good job with Quarterbacks.  He has
+three playing in the NFL now that he developed.  I think this might be a
+real good move.  How are things there?
+PL
+done.
+PL
+Zhiyong needs to get a list of all curves we will be loading for Netco. by tomorrow 
+When you all are done identifying those curves could you please get me a list of the curves by risk type?
+Thanks
+Kam
+Saw this morning we hired Petrino.  I did not realize how successful he has been at the college level.  Three times his offenses have led the nation in offense.  He also did a good job with Quarterbacks.  He has three playing in the NFL now that he developed.  I think this might be a real good move.  How are things there?
+PL
+I fixed 1127631, the other deal , I do not have a confirm from you on and it is already priced at NX1 + basis.  Please let me know if you need something further on these deals.
+PL
+Phillip,
+Co-Steel is claiming to have triggered two deals for Nov-01 production - 1127631, 1131418.  However, these are not triggered in the system nor can I ascertain who the trader is.  Will you verify / change these deals accordingly, please.
+Thank you,
+Scott Dozier
+Client Services - Settlements
+Enron Net Works LLC
+office: 713.345.7213
+fax: 713.646.8420
+email: scott.dozier@
+FYI - I have done the west and I have resaved this file out there.  I highlighted the rows to be changed in yellow.  If we all do this, we should be able to use the same list.  I added a column to the file and put IM S/B, LT S/B and Daily S/B PL
+The sitara mapping table is saved in the Netco file named CurveMappings.xls
+Check your regions and if you see any locations mapped to curves we won't be setting anymore, make a list of those and what the new mappings should be.  Once the new database is set up we will get with Russ to have those changed over.
+Thanks
+KK
+I only show that we should have triggered 1127631 for December and they did not trigger 1131418 at all.  They will need to provide documentation to us - i.e. signed confirms that show this was done.  Is the trigger price they are suggesting in our favor or not?  If it is in our favor, I am sure we will change it ASAP.  Please let me know.
+PL
+Phillip,
+Co-Steel is claiming to have triggered two deals for Nov-01 production - 1127631, 1131418.  However, these are not triggered in the system nor can I ascertain who the trader is.  Will you verify / change these deals accordingly, please.
+Thank you,
+Scott Dozier
+Client Services - Settlements
+Enron Net Works LLC
+office: 713.345.7213
+fax: 713.646.8420
+email: scott.dozier@
+thanks
+PL
+it is retranslated already.
+thanks
+Do you have an estimated time on retranslation?
+PL
+Move completed. Please let me know if you have any questions.
+Thanks
+Sanjeev
+x5-3816
+Attached is the list of counterparties we need moved today.  The list has 140 counterparties on it.  Please let me know if you are not going to be able to move these today by 3:30.  Below is what we need done:
+1.  Only financial deals with these counterparties
+2.  Change the ENA book name from NG-Price to ENA-FT-WC-SJ
+3. commodity code should be NG
+4. cutoff date 1/1/02
+Please shout if you have any questions.  Thanks.
+PL
+I passed this on to my boss and he is not interested at this time.  Thanks for sending it and please keep me up to date on any opportunities you see that look good.  Thanks.
+PL
+I appreciate your help.  Thanks!
+SENIOR DIRECTOR, ACCOUNTING(RISK) 
+Financial  Control and Reporting 1. Coordinate with Middle and Front Office to  ensure proper capture and reporting of Profit and Loss for all mark to market  and accrual books. 
+2. Oversee preparation of various trading reports for all  levels of management 3. Help develop accounting specific systems to  automate current and future duties. (FAS 133) 
+4. Responsible for keeping  abreast of all technical accounting issues and how they will impact deal flow  and capture. 
+5. Provide variance analysis of profit and loss statements, as  well as, explanations of main profit and loss drivers 
+Risk Accounting 1. Analyze and develop mark to market reserves - Identify areas of risk  embedded in the trading portfolio that would require additional reserves and  work to establish mathematical calculations to support the reserve amounts 2. Coordinate with Middle and Front office personnel to ensure large  origination deals are captured and accounted for correctly in the forward mark.  Analyze any potential accounting issues and resolve with Deloitte and Touche 3. Create meaningful reports that allow management to gain an understanding  of the trading results and, additionally, provide variance analysis of major  balance sheet moves. 
+4. Maintain an effective relationship with IT to ensure  Risk Accounting is apprised of all system issues that will impact the accounting  close. Analyze the Risk Accounting journal entries for proper accounting  treatment and adherence to standards 
+General: 
+1. Responsible for  maintaining adequate workloads for individual groups and recognize when  additional resources are needed 2. Participate in college recruiting  efforts. 
+3. Act as a liaison between all groups in Front, Middle and Back  office to ensure proper communication occurs and all departments are informed on  current issues |4. Motivate staff to consistently perform at high levels Jennifer Silveira
+Recruiter-Hiresynergy,  Inc.
+723 Main St. Suite #511
+Houston, TX   77002
+713-222-7667
+This message (including any attachments) contains  confidential information intended for a specific individual and purpose, and is  protected by law.  If you are not the intended recipient, you should delete  this message and are hereby notified that any disclosure, copying, or  distribution of this message, or the taking of any action based on it, is  strictly prohibited.
+I have no idea...hopefully we will know soon
+PL
+what are our vacation benefits like right now...for the new year?
+Edward C. Brady
+Enron Net Works
+Risk Management
+713.853.5209
+1.800.97ENRON ext.35209
+Please add Financial and Control group to these book requests if they are missing.  We would like for everyone to have access to these books that is on that matrix we sent you.  Thanks.
+PL
+Susan,
+These are book requests for the Netco books for all regions.
+Please let me know if you have any questions.  We put in some book and portfolio codes we would like if they are available.  If not, please call me.  We need all price, basis, index, and gas daily US books to be the same, all Canadian books to be the same and all physical books to have the same codes please.
+Thanks
+Kam
+Susan,
+attached is a new matrix for each desk.  This should replace the previous matrix you are using.  We are just putting our groups down in the access request list and this should be used to cross reference.  Please let me know if you have any questions.  Thanks.
+PL
+Susan,
+These are book requests for the Netco books for all regions.
+Please let me know if you have any questions.  We put in some book and portfolio codes we would like if they are available.  If not, please call me.  We need all price, basis, index, and gas daily US books to be the same, all Canadian books to be the same and all physical books to have the same codes please.
+Thanks
+Kam
+are you still in?  I need to get your nt login so you can be given access to the calcs.  Thanks.
+PL
+Phillip,
+I spoke with Kam this morning, but she had to go to a meeting at 10:00am.  I am going to come back down to the 5th floor at approximately 11:00am to finish our discussion.  I'll see you then.
+Zac
+I just got back from lunch, when you get a chance, please stop by and we can talk about you coming to risk.  I sit at the end of the row at the row behind the flag that says gas risk management.  Thanks.
+PL
+Phillip,
+As Ina probably told you, I am without a phone at this time, but I left you a message earlier.  Send me an email when you get back to your desk so that we can talk about whatever it is that you need to discuss.
+Thanks,
+Zac
+X 37376 Phillip Love...please call
+Guess what I just heard - Steve Spurrier has resigned.  No word yet on where he is going...check out espn.com  
+I got a Canon Elph 100
+Talk to you soon.
+PL
+My thoughts exactly about Woody.
+What kind of camera did you get?
+>>  I hope it is not Woody, Vandy sucked at offense and defense.  He is
+horrible and I would hope we would go after somebody else.  We need to
+get
+someone in there soon so they can put the offense/defense in and the
+players can start studying it to get a head start on next year.  I am
+afraid if Tubby doesn't turn it around next year he may be gone.
+I got a digital camera for Christmas that works real well, I will get
+some
+pictures to you.
+PL
+To read the articles about Auburn, Tubberville says HE made the
+decision
+they should go.  Yeah, right!  I'm sure he was told by Lowder that
+either they went or he did.  So, they were given the opportunity to
+resign, and both chose to do so.  There's already 3 or 4 candidates
+to
+replace each.  They expect to have the offensive guy in the next 2
+weeks.  Maybe a little longer for the defense.  Only remember 1
+name:
+Woody Weidenhofer from Vandy for offense.  Can't say that I've ever
+heard of the others.
+Oh well, we'll see how it all pans out.
+Thanks for the address.  I'll send the picture soon.
+Pop
+>> "Love, Phillip M    sorry Pop, I forgot to send this to you.  My home email is
+plove@houston.rr.com.  Talk to you this weekend.  I heard Auburn
+got
+rid of Off and Def coordinator.  We will see if that changes
+anything.
+PL
+I hope it is not Woody, Vandy sucked at offense and defense.  He is horrible and I would hope we would go after somebody else.  We need to get someone in there soon so they can put the offense/defense in and the players can start studying it to get a head start on next year.  I am afraid if Tubby doesn't turn it around next year he may be gone.
+I got a digital camera for Christmas that works real well, I will get some pictures to you.
+PL
+To read the articles about Auburn, Tubberville says HE made the decision
+they should go.  Yeah, right!  I'm sure he was told by Lowder that
+either they went or he did.  So, they were given the opportunity to
+resign, and both chose to do so.  There's already 3 or 4 candidates to
+replace each.  They expect to have the offensive guy in the next 2
+weeks.  Maybe a little longer for the defense.  Only remember 1 name:
+Woody Weidenhofer from Vandy for offense.  Can't say that I've ever
+heard of the others.
+Oh well, we'll see how it all pans out.
+Thanks for the address.  I'll send the picture soon.
+Pop
+>> "Love, Phillip M."  sorry Pop, I forgot to send this to you.  My home email is
+plove@houston.rr.com.  Talk to you this weekend.  I heard Auburn got
+rid of Off and Def coordinator.  We will see if that changes anything.
+PL
+sorry Pop, I forgot to send this to you.  My home email is plove@houston.rr.com.  Talk to you this weekend.  I heard Auburn got rid of Off and Def coordinator.  We will see if that changes anything.
+PL
+I have tried to contact you guys three times today and have been on hold each time at least 20 minutes.  I cancelled my service with you over a month ago and asked that you keep from sending me a bill.  My service was cancelled immediately and I was told I would receive a bill from you and I would then have to call and dispute the bill to have my account credited.  I asked at that time since I had waited on hold that time for 30 minutes that this matter be taken care of immediately so that I would not have to call back and sit on hold again for half an hour.  Your customer service manager, very rudely I might add,  said that was impossible and I would just have to do it anyway.  Since I have had to wait on hold today for so long I want this email to serve as my dispute and have my account closed and the balance due removed since you terminated my service and I did not get the use of my phone 
+Just a word of advice, I would hire more customer service representatives if you plan on keeping customer to serve.  This is by far the worst customer service experience I have ever had with a company and I will make sure all of my colleagues and friends know of this experience.  I understand that you don't really care about giving good customer service to your ex customers, but I assure you make a fatal error when you assume those people will not share there experience with current and future potential customers 
+Phillip Love
+Acct. Number 00W-80016440
+Mobile # 713-204-9164
+Do you have an estimated time on retranslation?
+PL
+Move completed. Please let me know if you have any questions.
+Thanks
+Sanjeev
+x5-3816
+Attached is the list of counterparties we need moved today.  The list has 140 counterparties on it.  Please let me know if you are not going to be able to move these today by 3:30.  Below is what we need done:
+1.  Only financial deals with these counterparties
+2.  Change the ENA book name from NG-Price to ENA-FT-WC-SJ
+3. commodity code should be NG
+4. cutoff date 1/1/02
+Please shout if you have any questions.  Thanks.
+PL
+I wouldn't expect anything.  I am sure everyone will move over as a lateral.  They may do retention packages, but I have not heard anything.
+SO, have you heard anything about pay changes.  I am just wondering if certain of us can expect pay raises.  Maybe that is greedy for someone who could get fired, but i am just wondering.
+Bruce
+FYI - the head hunter that I have been talking to forwarded this job description to me.  If you are interested in talking to her, let me know and I will give you the info.  She told me the salary is in the $140's.
+PL
+I appreciate your help.  Thanks!
+SENIOR DIRECTOR, ACCOUNTING(RISK) 
+Financial  Control and Reporting 1. Coordinate with Middle and Front Office to  ensure proper capture and reporting of Profit and Loss for all mark to market  and accrual books. 
+2. Oversee preparation of various trading reports for all  levels of management 3. Help develop accounting specific systems to  automate current and future duties. (FAS 133) 
+4. Responsible for keeping  abreast of all technical accounting issues and how they will impact deal flow  and capture. 
+5. Provide variance analysis of profit and loss statements, as  well as, explanations of main profit and loss drivers 
+Risk Accounting 1. Analyze and develop mark to market reserves - Identify areas of risk  embedded in the trading portfolio that would require additional reserves and  work to establish mathematical calculations to support the reserve amounts 2. Coordinate with Middle and Front office personnel to ensure large  origination deals are captured and accounted for correctly in the forward mark.  Analyze any potential accounting issues and resolve with Deloitte and Touche 3. Create meaningful reports that allow management to gain an understanding  of the trading results and, additionally, provide variance analysis of major  balance sheet moves. 
+4. Maintain an effective relationship with IT to ensure  Risk Accounting is apprised of all system issues that will impact the accounting  close. Analyze the Risk Accounting journal entries for proper accounting  treatment and adherence to standards 
+General: 
+1. Responsible for  maintaining adequate workloads for individual groups and recognize when  additional resources are needed 2. Participate in college recruiting  efforts. 
+3. Act as a liaison between all groups in Front, Middle and Back  office to ensure proper communication occurs and all departments are informed on  current issues |4. Motivate staff to consistently perform at high levels Jennifer Silveira
+Recruiter-Hiresynergy,  Inc.
+723 Main St. Suite #511
+Houston, TX   77002
+713-222-7667
+This message (including any attachments) contains  confidential information intended for a specific individual and purpose, and is  protected by law.  If you are not the intended recipient, you should delete  this message and are hereby notified that any disclosure, copying, or  distribution of this message, or the taking of any action based on it, is  strictly prohibited.
+I saved the file for us to send to Susan Trevino for all the book access requests.  I added the control group and put goss, kam, valdes and his people in there.  So make sure you add that group to your book requests.  Please take a look at this file and let me know if we need to make any changes.  I plan on sending this file to Susan Trevino by tomorrow afternoon.  The file in located in the Netco directory under controls/desk matrix.  Thanks.
+PL
+nice.  real impressive.
+PL
+from tim blanchard:
+You gotta love LSU fans.  My brother told me a story of an Illinois fan who was bitching and moaning in the bathroom over his team's performance (and the fact that playing in the Superdome  equates to a home game for LSU - which is funny considering that the 20,000 fans that did show up in the dome would be considered a sellout in Champaign.)  Several Tiger fans jumped in the guys face, told him that Illinois sucks at every sport, called him a p---y, and took his orange shakers from his pocket, threw them into the urinal and pissed on them.  All to the delight of tens of Tiger fans yelling "Tiger Bait."  It could be the same fans that called Illinois Coach Ron Turner's room and yelled the same the night before the game.
+given your love (jealousy) of LSU fans, i thought you'd find this amusing -r
+thanks.
+PL
+Phillip - this book is set up in RisktRAC and is marked "Active".  Please let me know if you have any questions.
+Thanks,
+Susan
+x3-1462
+Intra-East-Phy should be Intra-Northeast-phy.  Is this in risktrac?
+PL
+Phillip - sorry for such a late response but I have been on vacation.  I looked up the books mentioned below and the INTRA-CENTRAL-PHY book is active.  I do not see the INTRA-EAST-PHY book in risktrac.  Please let me know if I need to create additional books.
+Thanks,
+Susan
+please reactivate/unarchive the following books - we are going to have to start calcing these today.  Intra-Central-Phy and Intra-East-Phy.  Thanks.
+PL
+I just got back from lunch, when you get a chance, please stop by and we can talk about you coming to risk.  I sit at the end of the row at the row behind the flag that says gas risk management.  Thanks.
+PL
+Phillip,
+As Ina probably told you, I am without a phone at this time, but I left you a message earlier.  Send me an email when you get back to your desk so that we can talk about whatever it is that you need to discuss.
+Thanks,
+Zac
+X 37376 Phillip Love...please call
+let me know what she says, I have my request filled out and saved in the same directory, I will send it to her when we know if she can do it.
+PL
+there is a book request form in Netco\controls\Book request form.xls.  I put in the west desk books already.  Susan is checking to see if we can use those portfolio and book codes, if not we'll change them.
+KK
+Just wanted to let you guys in on a few things we have talked with Gossett about.  Today we officially begin the process for the New Company.  That being said, we now have to tighten the ship a bit.  From now on, please refrain from playing games and surfing the internet all day.  If you are bored and don't have anything to do, please look for things to do that are work related.  This is a good time to improve your skills and learn about things you are not absolutely proficient in.  Read some options books, study macros in the P&L's, etc.  The key phrase here is work to improve your skills so that we can shake off some of the rust we have developed in the last month.  All of this is coming from Goss and it is serious, to be a part of the new company you have to show that you are willing to contribute and are the best of the best 
+I know this sounds harsh, but we have all had a nice vacation and I am sure most of you are like me and looking forward to not having such a boring job.  It looks as though bidders will be in this week, so we will have some reports and demonstrations to give 
+Please pull me aside or email me if you have any further questions.
+Thanks and Happy New Year.
+PL
+Intra-East-Phy should be Intra-Northeast-phy.  Is this in risktrac?
+PL
+Phillip - sorry for such a late response but I have been on vacation.  I looked up the books mentioned below and the INTRA-CENTRAL-PHY book is active.  I do not see the INTRA-EAST-PHY book in risktrac.  Please let me know if I need to create additional books.
+Thanks,
+Susan
+please reactivate/unarchive the following books - we are going to have to start calcing these today.  Intra-Central-Phy and Intra-East-Phy.  Thanks.
+PL
+Please do this ASAP...I have to head out of town for a few days and we need this done ASAP.  Thanks.  Curves are under NW and SW in the netco directory - ask Kam for help.  Thanks.
+PL
+The curve files for Netco will need to be modified before they are used in the new environment.
+1)   On the Publish tab in the Curve File sheet.
+Change the environment name on the 5th row to ermtp
+Change the service name on the 5th row to 7525
+Change the Network Address on the 5th row to ;239.44.16.1 
+2) Then hit the   button on the publish sheet and save the new file.
+If the sheet does not have the button, just save the file, close it, and bring it back up.
+3)	Save your curves as normal
+4)	Any questions or problems, please give me a call 
+NG-Price contains All physical and All intercompany
+ENA-FT-WC-SJ Financial Deals that are out of the money
+ENA - FT-WT-SOCAL Financial Deals that are in the money
+Shout with anymore questions.
+PL
+FYI -looks like everything is fine.  sorry for the mix up.
+PL
+Dinah or Karla,
+We have been experiencing some call volume on active employee's who are receiving term packet information from Hewitt, but are still active in the system.  Do you know why that is?
+Please advise.
+Thanks.
+Irma Alvarez
+HR Svc Connection
+Ext. 3-1543
+P.S. Phillip - I show Melissa active in SAP with no future term action out there.  Thxs, Irma 
+Melissa Videtto received a termination package over the weekend and should not have.  Can you please confirm she has not been terminated so I can send an email confirmation to her manager and herself?  thanks
+Marla Barnard
+Vice President - Human Resources
+Enron Net Works and Enron Broadband Services
+713-345-8158
+Cell:  713-898-3083
+P-1450608
+B-1450609
+I-1450610
+GDM-1450611
+GDY-1450612
+PL
+here is the forwards detail minibook.  Looks like three deals today.  I have sorted by counterparty and period.  Looks like a few of these deals go out to calendar year 2002.
+PL
+While I was out Friday, we were expecting to get letters for people to sign for Netco, any news on that?
+PL
+file is saved to o:/_dropbox/finanical transprt 1220
+PL
+if your values ref out on the transport model - hit Clt-Alt-F9.
+PL
+here it is, good luck.
+PL
+Here are the post ids:
+P-1448445
+B-1448446
+I-1448448
+GDM-1448450
+GDY-1448453
+Scott Palmer will be sending this email tomorrow.
+Thanks.
+PL
+FYI.  IF you are needing to load our gas daily/intramonth curves - the instruction are on my desk on the tower under my monitors.  Melissa will be out next Thursday and Friday(so will I) so the designated representative for the east desk those days will have to load them.  Thanks.
+PL
+Greg@apbenergy will email me the bid offer sheets.  the password to my cpu is chanc5rabon.
+paths to curves:
+NYmarket - must be done first, other book listens to it.  the bid offer sheet applies to this sheet only.  hardcote the avg of the bid offer, then highlight publish tab and save all to database. the path is o/tds/tds curve/dec01/nymarket121?.  open last day and save as today before altering.
+NY - path is o/tds/tds curve/tds-ny 121?. open last day and save as today, then highlight dec out and save to database
+southeast - o/tds/tds curve/southeast/051401.  only open, highlight dec out and save to database
+gdi east - o/tds/tds curve/east-gdi-east.  only open, highlight dec out and save to database
+call with any questions.
+PL
+fteast - 0/tds-tds curve/east/fteast121?.  open last days and save as today.  then save all to database.
+Season's Greetings!!
+Well, I hope everyone is having a save and fun holiday season.  The good
+news is that I got a digital camera so there will be a lot more pictures
+available on the family album.  The bad news is that I got a digital
+camera and there will be a LOT more pictures available on the family
+album 
+Anyways, its been update from Christmas, check back after the new year
+as there will probably be more from our trip to the desert this weekend.
+Hugs & Love to all.
+Happy New Year!
+-r
+Rob Bowlin [mailto:rbowlin@controltec.com]
+Software Engineer
+Controltec - www.controltec.com
+760.723-2104 
+FYI - this is set up and has been added as a tab to the bankruptcy post id sheet(CAN).  If you open the attachment, you will see she set these up as MMBTU/USD books in Risktrac.  I talked with Cecilia and she has changed this in ERMS/TAGG effective today to be GJ/CAD.  Not sure how this happened, but it is fixed now.  Should not have any problems, there is nothing in this book currently.  Let me know if we need to calc these when I get back on Wednesday.
+PL
+Bernice - please set up the attached book request and notify when complete.
+Francis/Cecilia - I will be out of the office Thursday and Friday (Dec 20 and 21).  Please handle the Erms side once Bernice sends out the notification.
+I have already set up these books in RisktRAC.
+Due to the Outlook problems, I was unable to handle this request in a timely fashion.  Sorry for any delays this may have caused.
+Thanks everyone and have a happy and safe holiday! 
+Susan
+x3-1462
+done.
+PL
+James,
+Please change the price in Sitara for deal no. 876975 for November 2001 at POI 25306 to $3.2359.
+Thanks,
+Max
+standard reply is that we will be working on the last day and no one knows what it will be like.  Make a reservation and we will do our best to get you out.  The problem is I am sure everyone wants to get out for New Year's Eve so you might generate hard feelings.  I have nothing to do because I consider it to be the most dangerous night of the year and I always stay home.  You decide what you want to do and we will work around it.  If you stay here, I have always heard the Hyatt has a great party and room rate all included.  I am sure other hotels have the same.
+PL
+I'm trying to figure what kinds of plans to make for New Year'sEve, but i hear conflicting stories about work on Dec. 31...I hear that it's a half day of trading and half of zero is zero so I'm trying to understand what could make it a long night...Ideally I'd fly into New Orleans New Years Eve and com back the next day...What are the possibilities of making an evening flight out  
+If I can't make it to N.O...what kinds of things do you know of to do around her for New Years? Remember, my little woman is not yet of legal drinking age so bars are out of the question  
+thanks
+thanks Kam, I was going to do it this morning.
+PL
+Done.
+KK
+Genaro, we restructured the deal effective with November deliveries.  I have a copy of the document if you need it.  Phillip Love and Kam Keiser are familiar with the deal if they can help.  The customer is correct in their pricing.
+Frank
+Frank/Scott,
+Are either of you handling deal # 22957 (sell to TBG Cogen)? There is a price discrepancy for Nov. 2001.
+TBG Cogen Partners is disputing the rate invoiced by ENA for November 2001 gas. ENA invoiced a rate of $3.4367 for deal # 22957. The customer claims the rate should be as follows: first 4,000/d @ $2.25, remainder over 4,000 @ monthly index of delivery location + $.025. Please review and advise.
+Thanks,
+Genaro
+Kam is on vacation the rest of the week.  She has requested that we send you the bankruptcy post ids.  They are as follows:
+Price -1446982 
+Basis - 1446983
+Index -1446984
+GDM - 1446985
+GDY-1446986
+Please shout with any questions.  Thanks.
+PL
+please reactivate/unarchive the following books - we are going to have to start calcing these today.  Intra-Central-Phy and Intra-East-Phy.  Thanks.
+PL
+Your math looks good to me.  When can I expect my $140?
+PL
+Linked to this e-mail is a spreadsheet that breaks down weekly pool winnings and the playoffs.  Let me know if I have screwed something up.
+-Eric
+I will do it Wed and Thursday.  Kam and I will be out Friday, can someone else do it then?  We are supposed to email the post-id's to Debbie Bracket correct?
+PL
+I started calculating the bankruptcy book last night for the credit group.  This needs to be done nightly.  I may be out a few days so if I am can someone else take this over from me please?  We can also use these to check daily for counterparties that have been moved incorrectly.
+The file is in O:\erms\1intra\west\Bankruptcy post-ids.xls
+Thanks
+KK
+Note: forwarded message attached.
+__________________________________________________
+Do You Yahoo!?
+Check out Yahoo! Shopping and Yahoo! Auctions for all of
+your unique holiday gifts! Buy at  
+or bid at  
+Since Chris Simms will not be entering the NFL draft, he's exploring other 
+career options:
+_________________________________________________________________
+please set up the book attached asap.  Thanks.
+PL
+Howdy everyone!
+Rebecca, myself and the pumpkin will be gracing the Great State of Texas in
+late Feb.  During this time, we will be hosting a post wedding reception on
+Sunday the 24th. of February, 2002 at the Coliseum Restaurant in Clear Lake.
+We plan on starting the party at around 1300.  It will be a semi formal
+type of occasion, so just bring an appetite and get ready for a great
+afternoon!
+If you could please let us know via email if you can make it and if you will
+be bringing a significant other, we would greatly appreciate it.
+We look forward to seeing everyone there!
+Tommy
+GO STELLERS 
+_________________________________________________________________
+Send and receive Hotmail on your mobile device 
+take a look at them.
+PL
+- HFMA Opportunities.doc 
+- New Service- NewEmail.doc 
+The only books that should still have deals in them, other than NG-Price, will be 
+Intra-Ont-Cad		all canadian gas daily deals
+NGPR-Can
+Oil-NG-Spec
+Ft-Ont-Central		all consolidated price/basis deals
+these books will still have to be calculated after today.
+All counterparty deals were moved over the weekend but any remaining desk to desk deals were not touched.  We need to move those ourselves today.
+All others need to be calculated and officialized one more time today then inactivated on the Rac website for tomorrow.
+KK
+yes 21st is cool.  Just use this as a time to help out and do any projects that come up and use up all of your vacation - doubt it will be there to carryover.  As far as I know, our employment status has not changed - we have made no changes to the "list".  I would not worry for now.
+PL
+is there any word on our employment status? are we all going to have to come to calc physical book? also, I took off this Friday the 21st...is that cool? 
+FYI - and you will also have to continue to calc physical books - deals not moved from those calcs yet - value and position.  Let me know if you have any questions.
+PL
+The only books that should still have deals in them, other than NG-Price, will be 
+Intra-Ont-Cad		all canadian gas daily deals
+NGPR-Can
+Oil-NG-Spec
+Ft-Ont-Central		all consolidated price/basis deals
+these books will still have to be calculated after today.
+All counterparty deals were moved over the weekend but any remaining desk to desk deals were not touched.  We need to move those ourselves today.
+All others need to be calculated and officialized one more time today then inactivated on the Rac website for tomorrow.
+KK
+FYI - and you will also have to continue to calc physical books - deals not moved from those calcs yet - value and position.  Let me know if you have any questions.
+PL
+The only books that should still have deals in them, other than NG-Price, will be 
+Intra-Ont-Cad		all canadian gas daily deals
+NGPR-Can
+Oil-NG-Spec
+Ft-Ont-Central		all consolidated price/basis deals
+these books will still have to be calculated after today.
+All counterparty deals were moved over the weekend but any remaining desk to desk deals were not touched.  We need to move those ourselves today.
+All others need to be calculated and officialized one more time today then inactivated on the Rac website for tomorrow.
+KK
+The report named: EMW Positions <  published as of 10/29/2001 is now available for viewing on the website.
+(Revision: 2)
+The report named: EMW Positions <  published as of 10/29/2001 is now available for viewing on the website.
+look at slide #20.
+PL
+here are the values:
+04/01 - $110,658
+05/01 - $114,347
+06/01 - $176,846
+07/01 - $114,346
+Thanks.
+PL
+There are rumors around here that all the employees going to the new company - UBS Energy will be taken off of the Enron servers tomorrow.  If this is true, I do not know what or when my email service at work will be back up.  Please send in the mean time any emails to plove@houston.rr.com.  Thanks.  Hope all of you are doing well.
+PL
+please do ASAP.
+PL
+Hey Phillip,
+Can you please have someone flip these deals today?
+FT-CENT
+Deal No Y19194.1 Y21468.1 Y21468.2 Y27138.1 Y27138.2 Y27273.1 Y27725.1 Y47155.1 Y49576.1 Y52758.1 Y52758.2 Y53392.1 Y56668.1 Y58869.1 Y64887.1 Y70216.1 Y72571.1 Y72579.1 Y74345.1 Y75698.1 YD4711.1 YD4711.2 YD4999.1 YD4999.2 YE2067.1 YE2070.1 YE2133.1 YE2134.1 YE4324.1 YE4324.2 YE8508.1 YE8508.2 YE9819.1 YE9819.2 YF0398.1 YF0398.2  
+Thanks 
+Stacey
+Phillip, I apologize for the delay, let me know what you if anything else besides the Financial/Physical tag is needed and I'll get on it immediately -Mike
+_____________________
+Mike Clifford mike.clifford@ 
+ext. 36132 ___cell: 832.577.6453___
+I like the name.  I think it is beautiful and distinguished.  I hope she is at least six feet tall.  There is nothing wrong with a tall drink of water.  Gotta run and get some work done.  PL
+Thanks!  I don't know if it will be Mallory.  I know both my parents strongly do not like the name....Jason is in love with it.  What do you think of it?  She will be tall...hopefully she will stop before 6 feet! 
+Phillip.M.Love@
+10/26/2001 03:43 PM EST
+by the way congrats on the girl.  Is it going to be Mallory?
+She is going to be 6.5 feet tall
+PL
+Hey.  My friend Chad (i think you remember him) just moved back here from Houston and is currently in job search mode.  He is in the same field as you..and worked for Raymond James in Houston.  He has some pretty good leads here..and some may pan out for more than just him.  Once he has things settled...meaning when he has a job he will be helpful to you.  Once I know more I will let you know. 
+"Love, Phillip M."  10/25/2001 02:18 PM EST
+so I guess I have to start calling you fancy pants.  Just call me THE HARPOON.
+PL
+That is great.
+    - winmail.dat  
+just incase you haven't gotten enough to read about us lately
+PL
+Enron Taps $3 Billion From Bank Lines In Pre-Emptive Move to Ensure Liquidity --- Firm Will Pay Debt, Keep Cash Cushion
+The Wall Street Journal, 10/26/01
+Deals & Deal Makers: Enron Officials Sell Shares Amid Stock-Price Slump
+The Wall Street Journal, 10/26/01
+Enron's Financial Troubles Reverberate to Bonds With Poor Liquidity and Credit-Rating Concerns
+The Wall Street Journal, 10/26/01
+Most Analysts Remain Plugged In to Enron
+The Wall Street Journal, 10/26/01
+Enron Draws Down $3 Bln in Credit to Boost Investor Confidence
+Bloomberg, 10/26/01
+Enron Liked By Analysts Despite Complicated Dealings, WSJ Says
+Bloomberg, 10/26/01
+Enron Draws Down $3 Billion From Its Credit Lines, WSJ Reports
+Bloomberg, 10/26/01
+Action by Enron halts stock's fall
+Houston Chronicle, 10/26/01
+Corporate US on track for bailout
+The Guardian, 10/26/01
+Harvey Pitt's S.E.C.: From Guard Dog to Friendly Puppy?
+The New York Times, 10/26/01
+Enron draws down at least 1 bln usd from credit lines to boost mkt confidence
+AFX News, 10/26/01
+The Five Dumbest Things on Wall Street This Week
+TheStreet.com, 10/26/01
+Stocks Post Gains After A Rough Morning
+The Washington Post, 10/26/01
+Sudhakar will head Enron probe panel
+The Times of India, 10/26/01
+Enron Taps $3 Billion From Bank Lines in Pre-Emptive Move to Ensure Liquidity
+Dow Jones Business News, 10/25/01
+Enron chief executive resigns from board of i2 Technologies
+Associated Press Newswires, 10/25/01
+As Enron's woes unnerve investors about energy sector, analysts say its problems are isolated
+Associated Press Newswires, 10/25/01
+Enron's Credit Outlook Downgraded to Negative by S&P (Update1)
+Bloomberg, 10/25/01
+Enron's Trading Partners Say It's Business as Usual (Update2)
+Bloomberg, 10/25/01
+Enron Broadband Begins Closing London, Singapore Offices
+Dow Jones Energy Service, 10/25/01
+Calpine:No Exposure To Enron; No Calif Pwr Contract Talks
+Dow Jones Energy Service, 10/25/01
+Spector, Roseman & Kodroff, P.C. Files Class Action Suit Against Enron Corporation
+PR Newswire, 10/25/01
+TGS Q3 net profit up 22 pct yr-on-yr on higher NGL sales, transport revenues
+AFX News, 10/25/01
+Enron Draws Down Credit Facility
+Dow Jones News Service, 10/25/01
+Enron Employees Watch Options Devalue as Shares Fall (Correct)
+Bloomberg, 10/25/01
+Enron Taps $3 Billion From Bank Lines In Pre-Emptive Move to Ensure Liquidity --- Firm Will Pay Debt, Keep Cash Cushion
+By Wall Street Journal staff reporters John R. Emshwiller, Rebecca Smith and Jathon Sapsford
+10/26/2001
+The Wall Street Journal
+C1
+Enron Corp. drew down about $3 billion, the bulk of its available bank credit lines, in a bid to restore confidence in its financial strength and liquidity.=20
+Enron will use part of the money to offer to redeem about $1.85 billion of outstanding commercial paper -- short-term corporate IOUs -- according to a person familiar with the matter, with the remainder providing the energy concern with a cash cushion. Some observers believe the move is a pre-emptive step by Enron to ensure that it had adequate liquidity should its access to bank lines be interrupted. The person also said Enron was talking to its banks about a new, multibillion-dollar credit line.
+Enron insists its business operation and financial condition remain strong. But, "when the market is reacting as irrationally as it has been the last few days, we thought that cash was better than a commitment from a bank," said an Enron spokesman. In a statement, the company's new chief financial officer, Jeff McMahon, said that by drawing down the bank lines, "we are making it clear that Enron has the support of its banks and more than adequate liquidity to assure our customers that we can fulfill our commitments."=20
+The move underscored the tumultuous conditions that have been sweeping over the Houston energy-trading concern in the past 10 days. Enron is the nation's largest energy trader and is a principal in nearly one-quarter of all electricity and natural-gas trades. Yesterday, for example, Enron was involved in about $4 billion of deals through its EnronOnline unit.=20
+Since early last week, Enron's share price has plummeted 50%. Last week, it reported a $618 million third-quarter loss and a reduction in shareholder equity of $1.2 billion. It also disclosed that the Securities and Exchange Commission is conducting an inquiry into billions of dollars of transactions it did with entities connected to its former chief financial officer, Andrew S. Fastow, who was replaced Wednesday.=20
+The draw-down of the credit facilities came as one rating agency, Fitch, put Enron on review for a possible downgrade, while another, Standard & Poor's, changed Enron's credit outlook to negative from stable. Moody's Investors Service already has said it is looking at a possible downgrade of Enron. In order to fall below investment grade, Enron's credit rating would have to fall several notches.=20
+If that were to happen, however, a host of bad consequences could follow. Together with the sharp decline in its stock price, a noninvestment-grade rating would throw the company into default on obligations involving billions of dollars of borrowings. In that event, Enron could be forced to issue millions of shares of stock to holders of that debt, diluting the value of existing shares. At 4 p.m. in New York Stock Exchange composite trading, Enron was down six cents at $16.35.=20
+Liquidity is a key issue for Enron, which handles energy-trading volumes more than triple its next-biggest competitor, American Electric Power Co. Enron's EnronOnline Internet-based trading platform has transacted more than $884 billion of trades since it was created in November 1999.=20
+The company's wildly successful wholesale unit has been dragged down by underperforming assets elsewhere in the company, chiefly the approximately $6.5 billion of international assets such as its Dabhol power project in India. Raising cash and retiring debt largely is a timing issue. The cash needs of its trading operation are immediate; it takes time to sell assets, particularly in today's slower economy.=20
+The company also is suffering from a string of disclosure controversies that have damaged its credibility, particularly in connection with its dealings with Mr. Fastow, the former chief financial officer. Internal documents related to one of the Fastow partnerships disclose that Enron also did as much as hundreds of millions of dollars of business with an entity connected to another company official, who has since left Enron. While Enron disclosed its Fastow-related transactions in SEC filings, a computerized search of the SEC's database of public filings produced no reference to this other employee-related entity known as Chewco.=20
+Chewco was established in 1997 "with approximately $400 million in capital commitments" to buy an interest in Enron assets, according to one of the partnerships documents. The document didn't further specify what assets were purchased, and it didn't disclose the financial impact of the transactions for either Chewco or Enron. Chewco was being run by Michael Kopper, a managing director in Enron's Global Equity Markets Group, according to the document.=20
+Enron, which has maintained that its complex financial transactions with employee-related entities were legal and properly disclosed, didn't have any comment regarding its dealings with Chewco.=20
+Mr. Kopper, who Enron says left the company this year to focus on helping to run the Fastow-related partnerships, didn't return phone calls. A person at his office in Houston yesterday said Mr. Kopper was traveling. In response to questions about Chewco, an Enron spokesman would say only that "Michael Kopper was never an executive officer of Enron." Mr. Fastow repeatedly has declined interview requests. He severed his relationships with the partnerships in July.=20
+This statement is an apparent reference to SEC disclosure regulations regarding related-party transactions. Under SEC rule S-K, a company has to report any transaction that exceeds $60,000 and involves "any director or executive officer." By contrast, Mr. Fastow, as CFO, would have fallen into that category, but Mr. Kopper, as managing director of a business unit, presumably wouldn't have.=20
+However, reporting guidance issued by the Financial Accounting Standards Board seems to have a broader definition, one that might include Mr. Kopper. According to FAS Statement 57, a related-party transaction involves a "material" piece of business between the company and a member of management. The statement defines management as directors, top officers, vice presidents in charge of major business units and "other persons who perform similar policy-making functions. Persons without formal titles may also be members of management."
+Deals & Deal Makers: Enron Officials Sell Shares Amid Stock-Price Slump
+By Theo Francis and Cassell Bryan-Low
+Staff Reporters of The Wall Street Journal
+10/26/2001
+The Wall Street Journal
+C14
+Officials at Enron Corp., whose unusual transactions with its chief financial officer are under regulatory scrutiny, have steadily sold sizable amounts of their holdings of company stock as the share price has fallen this year.=20
+Corporate officials had sold 1.8 million shares valued at about $106 million through July, as the stock fell to less than $45 a share from $83 at the start of the year. Since July, the stock has plummeted an additional 63% to $16.35, including a 50% plunge since the beginning of last week.
+Kenneth Lay, chief executive of the Houston energy-trading company, cashed in shares for $25.7 million so far this year, usually in transactions paired with options exercises. He sold 429,614 shares, leaving him with some 2.8 million shares as of July, the latest data available on his sales, according to Thomson Financial/Lancer Analytics.=20
+The dollar amount for his 2001 sales is approaching the total for all Mr. Lay's sales of Enron shares for 2000, which reached $30.7 million. In 1999, he sold shares for a total of $26 million.=20
+In Houston, an Enron spokeswoman declined to comment on the figures, saying the company doesn't keep a running tally of stockholdings by corporate officials. Enron also wouldn't comment on the number of options held by company insiders and called the sales "a personal decision." Many sales by Enron insiders were concurrent with options exercises or sales followed soon after option exercises.=20
+Strong selling by company officers and directors amid share-price declines should raise red flags for investors, says Jonathan Moreland, research director of InsiderInsights.com, who uses insider-trading data to zero in on investment ideas.=20
+Among other insiders selling during the year, Kenneth Rice, former chairman and CEO of Enron's broadband unit, sold shares for $23.7 million. Mr. Rice has sold 456,966 shares of the 1.5 million shares he was listed as owning in Enron's March proxy filing. Former Enron Chief Executive Jeffrey Skilling -- who resigned in August -- sold 160,000 shares for $9.8 million during the year. In March, Mr. Skilling owned 1.9 million shares.=20
+Messrs. Rice and Skilling couldn't be reached to comment.=20
+Overall, Enron's insiders were busier selling shares last year, when they sold 5.8 million shares for about $449 million. During 1999, insiders sold 3.4 million shares for $123.1 million.=20
+Since December 1999, only one Enron executive has reported buying company shares. The buyer was Andrew Fastow, who was ousted during the week as Enron's chief financial officer after the company disclosed it was under a Securities and Exchange Commission investigation into financial ties between the company and Mr. Fastow.=20
+Mr. Fastow reported purchasing 10,000 Enron shares in August at $36.98 each, or a total of $369,800. Today, those shares are valued at $163,500, based on Enron's stock price of $16.35 in 4 p.m. New York Stock Exchange composite trading. After the purchase, Mr. Fastow owned 110,586 shares, Thomson Financial/Lancer Analytics says.=20
+Enron said Mr. Fastow wasn't available to comment.=20
+On Monday, a New York law firm filed suit in U.S. District Court in Houston, alleging that Enron misrepresented its performance by failing to disclose problems with its broadband division and failing to properly write down the value of investments in limited partnerships managed by Mr. Fastow. The suit, which seeks class-action status, also says Enron insiders sold $73 million of their own Enron holdings during parts of 2000 and 2001.
+Credit Markets
+Enron's Financial Troubles Reverberate to Bonds With Poor Liquidity and Credit-Rating Concerns
+By Jathon Sapsford and Suzanne McGee
+Staff Reporters of The Wall Street Journal
+10/26/2001
+The Wall Street Journal
+C15
+NEW YORK -- Enron Corp.'s bonds have held up better than its battered stock amid escalating financial woes at the energy-trading powerhouse.=20
+Not for long, some bond traders say.
+In trading yesterday, the Houston company's five-year bond, a $250 million issue due in July 2006 carrying a coupon of 6.4%, was quoted at 82 cents on the dollar, down from a bid of 88 late Wednesday, and representing a 16% drop during the past two weeks.=20
+That is far less than the 50% decline in Enron's stock price since the Oct. 16 disclosure of a $1.01 billion charge linked to soured investments, resulting in a $618 million third-quarter loss. But the fall in the bond's price translates to a yield of 7.7 percentage points above bellwether U.S. government bonds, which is a widening from about three percentage points two weeks ago. Although Enron still is an investment-grade credit, that kind of "spread" is more characteristic of a junk bond with a credit rating of single B or lower.=20
+Enron sought to assure the markets that its finances were sound, disclosing late yesterday that it drew down more than $1 billion on its bank credit lines to shore up its finances. Yet even as Enron was tapping its lifeline, investors were finding it difficult to trade big blocks of Enron bonds. Yesterday's 82 bid, for instance, was for a block of less than $2 million in bonds, a small percentage of a typical trade.=20
+Fueling the uncertainty surrounding Enron were fears that credit-rating concerns will lower ratings on Enron debt after it recently conceded a slew of troubles, including losses, a Securities and Exchange Commission investigation, and the sudden resignation of its chief financial officer.=20
+"Even at these levels, there's very little buying interest," said Harold Rivkin, a principal at distressed-debt trader H. Rivkin & Co. in Princeton, N.J.=20
+In one sign of the ripple effects, the price investors pay to protect themselves from losses on Enron debt was surging. The cost of a "default swap" -- in which an investor pays another investor to take a chunk of debt at face value in the event of default -- rose to 10% of the size of the credit being insured. That was up from 8% a day earlier, and more than holders of Lucent Technologies Inc. debt had to pay at the height of that technology company's troubles earlier during the year.=20
+Even with its woes, Enron remains an investment-grade company. Most credit-rating agencies rate Enron's senior unsecured debt at several notches above the noninvestment-grade level.=20
+Yet Fitch said yesterday it put Enron's credit rating on watch for a possible downgrade, following a similar move by Moody's Investors Service last week. (Standard & Poor's, a division of McGraw Hill Cos., stopped short of putting the company on its Creditwatch list, opting instead to revise its long-term ratings outlook to "negative," citing concerns about the company's financial flexibility.)=20
+Meanwhile, the weak bond prices are a sign that the markets are bracing for the worst. "These are investment-grade bonds that are migrating toward distressed levels," said Glenn Reynolds, an analyst at Credit Sights Inc., an independent fixed-income research firm in New York. "They aren't distressed yet, but they are headed in that direction."=20
+If Enron's credit ratings fall, it would have implications far beyond the company's ability to raise money. For an energy trader, a credit downgrade sends a signal to other participants in crucial markets about its ability to make good on its commitments.=20
+Enron makes markets in a variety of commodities. Though it is best known for trading electricity and natural gas, the company also is a huge force in the markets for other commodities such as lumber, metals, bandwidth capacity and steel. As a market maker matching buyers and sellers, Enron handles about a quarter of all the trading in the nation's energy and gas markets.=20
+Enron's credit-worthiness is hugely important. The better its credit rating, the cheaper it can hedge, or offset, its positions in all these commodities markets through derivatives and pass on savings to customers. Without that credit rating, the cost of this high-margin, high-volume business starts to rise. A derivative is an instrument whose value is linked to, or derived from, that of an underlying security or asset, such as a stock, bond or commodity.=20
+"Even if the company does retain its investment-grade rating, the perception that this might be at risk will start to affect their core businesses," said Mr. Reynolds at Credit Sights Inc. "Any prudent risk [manager] at Enron's counterparties" -- any institution on the other end of a financial agreement with Enron -- "is going to be examining their exposure to Enron, and looking for ways to minimize it or offset it," Mr. Reynolds said.=20
+To be sure, Enron, despite its recent woes, remains a strong company, credit analysts said. "I don't think anyone's seriously thinking that this is a company that would ever default," Mr. Reynolds said.=20
+"So far, our research shows that their counterparties and their banks are sticking with them," said Ron Barone, managing director of Standard & Poor's utility energy project finance group. "No one has cut credit lines or asked for additional collateral that we have identified. And customers have publicly stated that it's business as usual."=20
+Yet analysts say the arrival of distressed-debt traders on the scene could make life more difficult for Enron and its management. Traders expect Enron's new Chief Financial Officer Jeffrey McMahon and Chairman Kenneth Lay to make the rounds of Wall Street next week, meeting with rating agencies, debt-trading desks, big bond holders and banks, including J.P. Morgan Chase & Co. and Citigroup Inc.=20
+Treasurys=20
+Treasurys rallied on optimism that the Federal Reserve may cut interest rates more than previously expected after a spate of economic reports that documented how weak the economy was after the Sept. 11 terrorist attacks.=20
+Prices also gained as the market finished digesting the week's flood of Treasury, corporate and agency debt issues.=20
+At 4 p.m. EDT, the benchmark 10-year Treasury note was up 13/32 point, or $4.0625 per $1,000 face value, at 103 20/32. Its yield fell to 4.537% from 4.588% Wednesday, as yields move inversely to prices.=20
+The 30-year Treasury bond's price was up 22/32 point at 101 11/32 to yield 5.284%, down from 5.330% Wednesday.=20
+Fed policy makers are slated to meet on Nov. 6. Also providing support for longer maturities, the Treasury Department made another repurchase of issues outstanding. It received offers for $5.04 billion in callable 30-year bonds, of which it accepted $1 billion. The offer-to-cover ratio, an indication of demand, was 5.04.=20
+TREASURY BUYBACK
+Par Par High Wtd Avg
+Coupon Mat Amt Amt Accept Accept
+% Date Offer Accept Price Price
+7.125 02/23 807 0 N/A N/A
+11.750 02/10 235 0 N/A N/A
+10.000 05/10 490 0 N/A N/A
+12.750 11/10 471 0 N/A N/A
+13.875 05/11 104 0 N/A N/A
+14.000 11/11 203 0 N/A N/A
+10.375 11/12 587 0 N/A N/A
+12.000 08/13 974 0 N/A N/A
+13.250 05/14 473 0 N/A N/A
+12.500 08/14 725 39 3152.20 152.19
+11.750 11/14 7826 0 7148.25 148.13
+Amounts in millions, prices in decimals.
+*Amount outstanding after operation. Calculated using amounts
+reported on announcement.=20
+Corporate Bonds=20
+Motorola Inc.'s offering of three-year mandatory convertible securities, expected late yesterday was boosted from a planned $875 million and could total as much as $1.15 billion (proceeds) if investors exercise their overallotment option.=20
+The securities were expected to have a dividend of between 6.75% and 7% and a conversion premium of 20% to 22%. Earlier indications were a dividend of 7% to 7.5% and a conversion premium of 18% to 22%. The deal was to come through Goldman Sachs, J.P. Morgan Chase and Salomon Smith Barney.=20
+Separately, LSI Logic Corp. repriced an offering of $450 million of five-year convertible subordinated notes, lowering the price to 99 from par, people familiar with the Rule 144a private placement said.=20
+The notes have a 4% coupon and a 41% conversion premium and now offer a yield-to-maturity of 4.22%. They were quoted lower at 98 1/2 early yesterday, a sign that the deal wasn't well-received after being brought overnight by Lehman Brothers.=20
+---=20
+John Parry and Tom Barkley contributed to this article.
+Heard on the Street
+Most Analysts Remain Plugged In to Enron
+By Susanne Craig and Jonathan Weil
+Staff Reporters of The Wall Street Journal
+10/26/2001
+The Wall Street Journal
+C1
+Enron: Rarely have so many analysts liked a stock they concede they know so little about.=20
+In recent years, Wall Street researchers have been overwhelmingly -- critics would say blindly -- enthusiastic about Enron, even as they acknowledge not always understanding the complex financial transactions that accounted for its soaring profits. Now, Enron is reporting steep losses from some of its most complicated transactions, which many on Wall Street still can't figure out.
+In a research note Wednesday, Goldman Sachs analyst David Fleischer conceded that scant corporate disclosure at the Houston energy trader makes it difficult to value the company. The company's "lack of disclosure and transparency," he says, is "a longstanding Enron hallmark."=20
+So is this a stock to avoid, in his view? Hardly. Goldman on Wednesday did bump Enron off its "U.S. Select List," which consists of a few dozen top stock picks -- but Mr. Fleischer continued to keep the stock on the firm's larger but prestigious "Recommended List" of 200 or so favored stocks, where it has been since he joined Goldman in 1993.=20
+"Just because I can't be specific in being able to create a simple model . . . doesn't mean that you write off that industry and say `I can't analyze it' or `I can't figure it out,' " says Mr. Fleischer, who owns an undisclosed number of Enron shares. "If that were the case, there would be an awful lot of industries we couldn't follow."=20
+Enron's shares have dropped about 50% since last week.=20
+"Every sell-side analyst we spoke to early in 2001 admitted that this was a black box," says Jim Chanos, principal of Kynikos Associates in New York, who has been selling Enron stock short -- trading it with an eye to profiting from its fall -- throughout this year. "It was really a trust-me story, when all the evidence was mounting that there was reason to question that level of trust."=20
+True, no stock picker is immune from bad calls. And Wall Street analysts long have been criticized for their overwhelmingly bullish bias, particularly on stocks in hot sectors with lots of investment-banking deals to be had.=20
+But Enron stands apart, precisely because so many of the analysts still recommending the stock have acknowledged that the company's disclosure practices are lacking. Which raises the question: How can an analyst recommend that others purchase a stock when key information about the company's operations is so often either unavailable or indecipherable?=20
+Concerns about the way that Enron runs its business aren't new. Many of the issues now plaguing Enron's stock were first raised more than a year ago by bearish hedge-fund managers and independent accounting experts. Yet time and again, Wall Street analysts dismissed as unimportant many of the lingering questions about the company's various partnership transactions.=20
+Besides those partnerships, Enron also has been dogged by concerns about the secretive valuation techniques it uses to record its assets and earnings.=20
+Through it all, most analysts have stuck by this onetime stock-market darling, publicly dismissing questions about the firm's accounting practices and level of disclosure. As of yesterday, of the 17 analysts who following the stock, 10 had a "strong buy" or equivalent rating on the stock, according to Thomson Financial/First Call. Five others rated the stock a "buy," though not strongly.=20
+Only Prudential Securities, which downgraded the stock this week, has a "sell" rating on Enron.=20
+The bullish treatment is the latest and one of the most high-profile examples of Wall Street taking a glass half-full stance, despite what in retrospect seems to be ample warning that a less-enthusiastic approach was warranted.=20
+Over the past year in the wake of the Nasdaq Composite Index's general collapse, analysts have been widely assailed for a lack of independence -- particularly those who, like Goldman's Mr. Fleischer, own shares in the companies they cover. Regulators have raised concerns that analysts have compromised themselves to help their firms land lucrative investment-banking fees and other revenue.=20
+Enron has spread the wealth across many Wall Street firms. For instance, for one $865 million equity offering in 1999 led by `Credit Suisse First Boston, Enron retained seven co-managers, including Donaldson Lufkin & Jenrette, Lehman Brothers and Merrill Lynch.=20
+"Enron is a big company, and I don't think you're going to find a firm that hasn't been involved," says Credit Suisse First Boston analyst Curt Launer, who still rates the stock a "strong buy" with a $40 price target. "They pay a lot of investment-banking fees to Wall Street."=20
+He adds, "We do our analysis every day based on the information we have. Are we here strictly to defend companies? That's ludicrous. We're here to provide information to investors. . . . Yes, I have the wrong recommendation on the stock. I don't think my analysis has been as wrong as the stock has performed."=20
+Mr. Fleischer, whose firm also has served as an investment banker to Enron, calls his holding "a meaningful investment" that is "not small." But he disputes any suggestion that his objectivity is compromised. Mr. Fleischer says his clients "are happy to know" he has a stake in Enron, because it shows he puts his money where his mouth is.=20
+In his research note Wednesday, Mr. Fleischer called for complete disclosures of Enron's off-balance sheet partnerships. Despite the resulting difficulty he acknowledged facing in developing financial models for the company, he wrote that he and many other investors historically "have given Enron the benefit of doubt because of its strong growth in earnings" and position as an industry leader.=20
+"There's not information to really model this and be able to predict accurately where revenues are going to come from and where they're going to make their money, but every quarter they do," he says. "It's hard to get inside to know all the transactions, but they do deliver."=20
+CSFB's Mr. Launer also has been a longtime defender of the company, occasionally issuing research reports to rebut critical stories about Enron in the financial press. On Monday, he wrote that he expects questions about Enron's partnerships and accounting disclosures to continue, but that he remains "confident in the businesses and operating growth prospects for [Enron] and an ultimate recovery in the share price."=20
+"I know I'm wrong on the stock," Mr. Launer says. But he says that at these prices, he isn't ready to throw in the towel because he figures that even in a worst-case scenario -- under which he envisions Enron having to issue as much as $2 billion worth of shares, diluting current holders -- the stock doesn't have much further to fall.=20
+Clearly, Messrs. Launer and Flesicher aren't alone. "Even in relative terms, analysts remain very bullish on this stock," says Chuck Hill, director of research at Thomson Financial/First Call. The average rating for a stock on Wall Street is 2.2, or slightly shy of a "buy" rating. Enron scores a 1.6. "This may turn into a classic case of locking the barn door after the bad news is out," Mr. Hill says.=20
+In downgrading the stock this week, Prudential analyst Carol Coale bumped it to "sell" from "buy," with a brief stop at "hold." While she is the only analyst to recommend investors sell the stock, she openly concedes her recent downgrades come "too little, too late."=20
+Ms. Coale says Enron has been difficult to cover for years. She says the company's disclosure practices fall far short of ideal, and senior executives are often evasive, even when presented with direct questions. For instance, she says three weeks ago she asked Enron management if the company was under investigation by the Securities and Exchange Commission. They said "no," she says.=20
+In light of the company's acknowledgment this week of an SEC "inquiry," she asked Enron about the previous denial. "They told me it is an inquiry, not an investigation," she says. An Enron spokeswoman says the company learned of the SEC's inquiry only last Wednesday.
+Enron Draws Down $3 Bln in Credit to Boost Investor Confidence
+2001-10-26 08:52 (New York)
+Enron Draws Down $3 Bln in Credit to Boost Investor Confidence
+Houston, Oct. 26 (Bloomberg) -- Enron Corp., whose stock has
+fallen on concern about the largest energy trader's transactions
+with affiliates, drew down $3 billion in credit to restore
+confidence in its financial strength.
+The Houston-based company will use about $2.2 billion to pay
+off commercial paper obligations and keep the rest as cash,
+spokesman Mark Palmer said.
+``Nothing instils confidence like cash,'' he said.
+Enron's shares have dropped 52 percent in the past 10 days as
+investors worry that the company's credit rating will be cut after
+$1.01 billion in third-quarter losses from failed investments.
+Enron needs good credit to raise cash daily to keep trading
+partners from demanding collateral and to settle transactions.
+Investors say they are worried about $3.3 billion in
+liabilities from affiliates formed to buy and sell Enron assets.
+Enron ousted Chief Financial Officer Andrew Fastow on Wednesday
+amid a Securities and Exchange Commission inquiry into
+partnerships he ran that cost the company $35 million.
+Jeff McMahon, head of Enron's industrial markets group, was
+named CFO in a bid to restore investor confidence, Chairman and
+Chief Executive Officer Kenneth Lay said in a statement.
+Enron shares fell 6 cents to $16.35 yesterday.
+--Mark Johnson in the Princeton newsroom (609) 750-4662, or at
+Enron Liked By Analysts Despite Complicated Dealings, WSJ Says
+2001-10-26 06:12 (New York)
+Houston, Oct. 26 (Bloomberg) -- Enron Corp. is liked by many
+Wall Street analysts despite lingering questions about the power
+trading company's complicated partnership transactions and the
+techniques used to record earnings, the Wall Street Journal
+reported in its ``Heard on the Street'' column.
+Goldman Sachs Group Inc. analyst David Fleischer, who owns an
+undisclosed number of Enron shares, said that even though
+inadequate corporate disclosure makes it difficult to value the
+company, that doesn't mean he will write off the industry or not
+analyze Enron.
+Of the 17 analysts who follow the stock, 10 had a ``strong
+buy'' or equivalent rating, according to Thomson Financial/First
+Call, the paper said. Five rated it ``buy'' and one had a ``sell''
+on Enron.
+Most analysts have stuck by the company, publicly dismissing
+questions about Enron's accounting practices and level of
+disclosure, the Journal said.
+The Securities and Exchange Commission is inquiring about
+partnerships run by former Chief Financial Officer Andrew Fastow.
+Enron Draws Down $3 Billion From Its Credit Lines, WSJ Reports
+2001-10-26 00:28 (New York)
+New York, Oct. 26 (Bloomberg) -- Enron Corp. drew down about
+$3 billion of its available credit, the bulk of its bank credit
+lines, to restore confidence in the financial strength of the
+company, the Wall Street Journal reported.
+The energy trading company, whose shares have fallen 52
+percent since Oct. 16, will use part of the money to redeem about
+$1.85 billion short-term commercial debt, the Wall Street Journal
+reported, citing an unidentified person familiar with the matter.
+Enron is talking to banks about a new, multi-billion line of
+credit, the paper reported, citing the unidentified person. The
+steps are seen as an effort by the energy trader to ensure that it
+has adequate liquidity in case its access to bank credit is
+disrupted, the paper said.
+Enron said in a statement distributed by PR Newswire that it
+drew on its credit lines to provide more than $1 billion in cash
+liquidity. The steps come a day after Chief Financial Officer
+Andrew Fastow resigned amid a Securities and Exchange Commission
+probe of partnerships he ran.
+--William Selway in the San Francisco newsroom at (415) 743-3511,
+Oct. 25, 2001, 11:22PM
+Houston Chronicle
+Action by Enron halts stock's fall=20
+But credit ratings are being reviewed=20
+By LAURA GOLDBERG=20
+The recent freefall of Enron Corp.'s stock price stabilized Thursday, a day after the world's largest energy trader replaced its chief financial officer.=20
+Enron, under a cloud for a number of reasons, including an Securities and Exchange Commission inquiry, also made two announcements Thursday night aimed at reassuring the financial community.=20
+In the announcements, Enron said it had drawn more than $1 billion from its lines of credit and said that energy-trading business done through EnronOnline on Thursday was above average levels.=20
+Houston-based Enron banked the money and has no plans to spend it, a spokeswoman said.=20
+"We are making it clear that Enron has the full support of its banks and more than adequate liquidity to assure our customers that we can fulfill our commitments in the ordinary course of business," Jeff McMahon, who took over Wednesday as chief financial officer, said in a written statement.=20
+Enron said it recorded more than 8,300 transactions through EnronOnline on Thursday.=20
+Ken Lay, chairman and chief executive officer, said: "Enron continues to be the market-maker of choice in wholesale and gas power markets, our customers continue to put their confidence in us, and our core businesses are strong and performing well."=20
+Earlier Thursday, two credit rating agencies took actions regarding Enron's ratings, which J.P. Morgan Securities analyst Anatol Feygin described as "just more negative sentiment."=20
+At one point in Thursday morning trading on the New York Stock Exchange, shares in Enron were up more than $1.50, but they closed down 6 cents at $16.35. As recently as Oct. 16, the stock closed at $33.84.=20
+Before the market closed, international credit-rating agency Fitch put Enron, which currently holds investment-grade credit ratings, on review for a possible downgrade. Then after the market closed, Standard & Poor's took two steps: It affirmed Enron's current ratings, but it also revised its long-term ratings outlook to negative.=20
+Moody's Investors Service put all of Enron's long-term debt on review for potential downgrade last week.=20
+Enron, which noted that losing its investment-grade rating would take downgrades of three notches, said Thursday it will do everything in its power to defend its current rating.=20
+In the SEC inquiry, federal securities regulators are reviewing transactions between Enron and two private investment partnerships formerly run by Andrew Fastow, who was removed as Enron's chief financial officer Wednesday. Enron removed Fastow as part of its bid to repair its damaged credibility.=20
+Wall Street is also questioning certain of Enron's financing vehicles and is wondering whether the company will face hits to its balance sheet in the months ahead.=20
+S&P said it was concerned that the sizable drop in Enron's market capitalization has negatively affected its financial flexibility and could hurt the company's plans to rebuild its balance sheet.=20
+But it also noted that the "fundamental strength" of Enron's energy marketing and trading business has remained steady.=20
+Unless Enron's rebuilds confidence among investors and business partners, Fitch said, it could "impair Enron's financial flexibility and access to capital markets," which would hurt its ability to conduct business.=20
+Carol Coale, an analyst at Prudential Securities in Houston, said the actions by S&P and Fitch might make some of Enron's energy customers skittish.=20
+Corporate US on track for bailout
+DAVID GOW IN NEW YORK
+10/26/2001
+The Guardian
+Battered corporate America will receive an immediate Dollars 25bn (pounds 18bn) tax rebate under a Dollars 100bn eocnomic stimulation package just approved by the Republican-controlled House of Representatives.=20
+The controversial package, worth an estimated Dollars 212bn over three years, includes Dollars 70bn for companies next year alone. It was approved by the House late on Wednesday by 216 votes to 214, but faces significant amendment in the Senate, which is now under Democrat control.
+It has reopened a wide ideological rift between Republicans, who favour corporate and individual tax cuts to reboot an economy mired in recession, and Democrats - who, in a reprise of the Roosevelt "new deal", prefer to see increased public spending on unemployment and infrastructure projects.=20
+Liberal lobby groups such as the Citizens for Tax Justice and the Center on Budget and Policy Priorities claim the bill would hand back Dollars 6.3bn to the 14 biggest corporations - which, they say, are renowned for paying little or no tax.=20
+The most hotly contested measure is the repeal of the corporate alternative minimum tax, or AMT, introduced in 1986 to make sure firms could not avoid all tax payments. This, strongly supported by President Bush, would be made retroactive so that all AMT payments would be refunded.=20
+The lobby groups and the non-partisan Congressional Research Service calculate that this would give a Dollars 1.4bn boost to computer group IBM alone, while General Motors would get back Dollars 833m and General Electric Dollars 671m.=20
+Others to benefit include TXU, the Texas-based utility that is the US's third largest energy supplier, which would would be given Dollars 608m. United Airlines, the US's second largest carrier - which is warning of bankruptcy - would receive Dollars 371m, and Enron, the energy trading group forced to sack its finance director this week, would be given Dollars 254m.=20
+Democrat leaders in the Senate are determined to erase this measure and dislike other proposals to boost firms, which include a 30% tax break for capital investment over three years worth Dollars 39.3bn this year alone. They say these amount to a "giant corporate giveaway".=20
+Mr Bush and other Republican leaders argue these fiscal concessions would help companies making hundreds of thousands redundant avoid further lay-offs and invest more, prompting an economic recovery that, at best, is likely to start in the new year.=20
+"Businesses are America's employers. They're the hardware store, the diner down the street, the gas station on the corner. They're not the enemy of working families," the author of the plan, Representative Bill Thomas of California, said.=20
+Democrats are especially incensed with the alleged paucity of the package's provisions for the growing numbers of jobless, arguing that much of the Dollars 12bn foreseen would not go to individuals but into the reserves of states.=20
+* A fresh round of global trade talks is essential to revitalise the world economy after the terrorist attacks on the US, trade secretary Patricia Hewitt said yesterday, writes Charlotte Denny=20
+As a new report predicted that global trade growth will collapse this year, Ms Hewitt warned that the world must not retreat into protectionism or isolationism in the wake of the attacks. WTO trade ministers are gathering in Doha, Qatar, in two weeks' time to discuss launching a new round of talks, the first since the collapse of their meeting in Seattle, nearly two years ago.=20
+Full coverage of the downturn at www.guardian.co.uk/recession/
+Business/Financial Desk; Section C
+Harvey Pitt's S.E.C.: From Guard Dog to Friendly Puppy?
+By FLOYD NORRIS
+10/26/2001
+The New York Times
+Page 1, Column 2
+c. 2001 New York Times Company
+CAN the new, friendlier Securities and Exchange Commission enforce the laws and assure investors that corporate financial reports are trustworthy?=20
+Harvey L. Pitt, the new S.E.C. chairman, set out this week to show that he is not like his predecessor, Arthur Levitt. In a speech to the American Institute of Certified Public Accountants -- an organization whose senior leadership led a bitter and ultimately unsuccessful fight against Mr. Levitt's reform efforts -- Mr. Pitt praised his listeners and took a few swipes at his predecessor.=20
+From now on, he promised, ''the commission will make sound decisions, in a respectful, affirmative way, not in a demeaning, demanding or demonizing way.'' He spoke favorably of ''pro forma'' earnings reports, in ways that no doubt heartened accountants who have worked so hard to find ways to make even the worst profit figures look pretty. There was no mention of Mr. Levitt's concerns about improper management of earnings.
+On the heels of Mr. Pitt's speech, the S.E.C. used a minor enforcement action to herald a policy of not cracking down on companies that come forward to report their own errors. The decision itself was reasonable, although one could wonder if top management did something wrong in failing to detect a fraud that went on for years. But the way the S.E.C. trumpeted it raised questions about whether the agency is turning into a friendly puppy rather than a guard dog. ''Is this amnesty for financial fraud?'' Jane Adams, the accounting analyst at Credit Suisse First Boston and a former S.E.C. staff member, asked in a report to clients. She was not sure of the answer.=20
+In an interview yesterday, Mr. Pitt dismissed such worries. ''No one is going to get away with anything,'' he said. ''What we are trying to do is create an environment where people feel comfortable'' and can talk to the S.E.C. ''without feeling we are looking for a big splash.''=20
+A major embarrassment for accountants is having the S.E.C. force a client to restate its numbers. Mr. Pitt and his chief accountant, Robert Herdman, are sending signals that fewer such demands will be made. ''I am very much in favor of a vigorous enforcement program,'' Mr. Pitt said in the interview, ''but I am not in favor of having investors barraged by conflicting statements and restatements.''=20
+Mr. Pitt talks of companies ''getting it right the first time,'' which would certainly be nice. But there is a risk that companies will become more aggressive in their accounting, figuring there will be no real penalty, like a restatement, if they are caught. That would make life harder for auditors who try to resist misleading accounting.=20
+In trying to sound comforting to the accountants' group -- an organization that, as he noted, he had represented as a lawyer for two decades -- Mr. Pitt has done little to reassure investors of his independence.=20
+The proof, of course, will come in the performance. Fortunately, the mess at Enron gives the S.E.C. a golden opportunity to counter the puppy image. It will take time for the commission to determine if the company's accounting was proper. But there need be no delay in forcing Enron to clearly explain -- rather than obfuscate as it has so far -- the strange deals it made with partnerships run by the executive just ousted as chief financial officer.=20
+''This could,'' a former S.E.C. staff member said, ''focus the issue on whether companies can make completely correct but totally misleading disclosures.'' And it would indicate that this watchdog still has a bite.
+Photo: Harvey L. Pitt=20
+Enron draws down at least 1 bln usd from credit lines to boost mkt confidence
+10/26/2001
+AFX News
+(c) 2001 by AFP-Extel News Ltd
+HOUSTON (AFX) - Enron Corp said it drew on committed lines of credit to provide cash liquidity in excess of 1 bln usd as part of moves to restore market confidence in the company.=20
+"We are making it clear that Enron has the support of its banks and more than adequate liquidity to assure our customers that we can fulfill our commitments in the ordinary course of business," said newly appointed Chief Financial Officer Jeff McMahon.
+"This is an important step in our plan to restore investor confidence in Enron. Additionally, we will update investors over the next several days regarding our plans to maintain our long-term credit rating."=20
+According to the Wall Street Journal, Enron drew down about 3 bln usd and will use part of the money to offer to redeem about 1.85 bln usd of outstanding commercial paper, with the remainder providing the energy concern with a cash cushion. The newspaper cited a person familiar with the matter.=20
+It quoted observers as saying the move may be is a pre-emptive step by Enron to ensure that it had adequate liquidity should its access to bank lines be interrupted.=20
+The source also said Enron is talking to its banks about a new, multi-billion-dollar credit line.=20
+jms For more information and to contact AFX: www.afxnews.com and www.afxpress.com
+The Five Dumbest Things on Wall Street This Week
+By K.C. Swanson  Staff Reporter
+10/26/2001 07:08 AM EDT
+URL TheStreet.com
+1. United Airlines Just a Little Too Honest
+Rule No. 1 in CEO school: Never say that your company may soon collapse.=20
+Seems kind of obvious, but that rule was flouted by United Airlines chief James Goodwin, who warned in a letter to employees that the company "will perish" next year unless it can stanch its tremendous losses, which have worsened since the terrorist attacks. "Today, we are literally hemorrhaging money," he wrote.=20
+In raising concerns about the financial viability of United, a unit of UAL (UAL:NYSE - news - commentary) , Goodwin only put into words what outsiders have speculated about. Since Sept. 11, the airline has laid off about 20,000 of its 100,000 employees and cut flights by as much as 25%. It's expected to announce massive losses when it reports third-quarter earnings.=20
+But in response to the disclosure, Goodwin has been roundly attacked. Feeling that he had been all too honest, investors have knocked an additional 24% off the stock's value. The shares are down 54% since Sept 11. Meanwhile, UAL union leaders reportedly say Goodwin has exaggerated company difficulties to gain bargaining leverage in union negotiations. The leaders of one union have petitioned the company's board of directors to have him sacked.=20
+Bottom line: CEOs may get pilloried when they try to dodge the truth, but sometimes it doesn't pay to be too candid about worst-case scenarios, either. Especially when that scenario is the company's own demise.=20
+2. Forget the Victory Gardens; Let's Have a Comfortable War=20
+Sure, we're at war with a band of cave-dwelling outlaws hell bent on our annihilation. But would all freedom-loving Americans please go out and buy some DVD players? Maybe even a nice new car?=20
+That was basically the message from the Treasury Department, on news that Congress had voted for the creation of war bonds to finance antiterrorism efforts and rebuilding following the attacks. Officials at Treasury applauded the sentiment, then politely suggested it would be even better for the economy if Americans just went to stores and bought stuff. "The economy is perhaps our greatest asset as we move forward in these efforts to fight the war on global terrorists," says Betsy Holahan, a department spokesperson. "War bonds are an additional way for Americans to show their patriotism."=20
+For the record, we don't think an issue of war bonds would be dumb, just superfluous. After all, nothing's stopped Americans from buying generic savings bonds -- or better yet, Treasuries -- all of which finance spending by the federal government.=20
+In the meantime, it's a little dislocating to hear politicians talk up war bonds -- which most people associate with hardship and sacrifice -- at the same time top economic gurus are practically begging people to shop. War bonds notwithstanding, we're a long way off from the era of ration books.=20
+3. Enron Again
+Last week, we noted the extent of alarm about Enron's (ENE:NYSE - news - commentary) revelation that its shareholder equity had dropped $1.2 billion, following some unusual and possibly inappropriate high-level transactions. Following that disclosure, besieged CFO Andrew Fastow has finally left the company on what's delicately termed a "leave of absence."=20
+In July, Fastow exited a limited partnership, from which he had reportedly reaped large profits, after shareholders and analysts objected to his involvement. Concerns about those dealings and others had increased in the wake of the disclosure about the charge to equity until even management acknowledged Fastow would have to go as a prerequisite to restoring investor confidence.=20
+But that won't be an easy task, given the resentment about Enron's disinclination to explain its problems. One analyst called Fastow's departure "unsettling," noting that management had given the CFO its endorsement only the day before. Sounding a note of exasperation, analysts at J.P. Morgan Chase, Banc of America Securities and Prudential all downgraded the stock. And there could be more trouble to come: The Securities and Exchange Commission has issued Enron a letter of inquiry related to some of its transactions.=20
+4. Gold Diggers=20
+It's understandable that investors felt panicky in September. Unfortunately, some reacted by shoving their hard-earned money into gold funds. According to Financial Research Corp., which tracks fund flows, the specialty precious-metals category was the best-selling equity category during September, with net inflows of $101 million.=20
+Granted, that's not a huge sum in the mutual fund world. By comparison, during the same month, large growth funds saw net redemptions of $7.4 billion. But the fact that so many people are jumping into precious metals is noteworthy, given that gold funds have performed so badly for so long.=20
+Sure, under the bizarre circumstances of late, they've enjoyed somewhat of a pop. According to Morningstar, the average precious-metals fund is up 10.08% year to date. But over the past five years, the same category lost an embarrassing 14.68%. By comparison, even large-cap growth funds -- everybody's favorite whipping boy -- managed to post a positive return. In the same period, they were up 7.13%.=20
+Moreover, circumstances that would seem to be the most favorable in decades -- a combination of attacks on the U.S. government and war -- still don't seem to have boosted gold prices significantly. Despite an initial surge in prices after the terrorist attacks, they're again approaching their pre-Sept. 11 levels. It's too early to say, but it's likely the gold bugs will confront disappointment once again.=20
+5. Amazon Amazes Once Again
+Amazon (AMZN:Nasdaq - news - commentary) still maintains it will become profitable by the fourth quarter. Well, at least it will post a pro forma operating profit.=20
+OK, so maybe that wouldn't include Amazon's service on $2.17 billion in long-term debt or extraordinary charges. In fact, a pro forma operating profit is basically just an accounting concept that would lend a fuzzy, meaningless aura of minor triumph. The company still hasn't said when it will turn an economic profit.=20
+For that matter, even the fourth-quarter prediction is iffy. After announcing the company expected to turn the pro forma operating profit, CFO Warren Jenson added the humble qualifier, "There are no guarantees." Amazon simultaneously lowered its forecast for fourth-quarter revenue, predicting that sales would be somewhere between flat and up by 10% compared with a year ago.=20
+Third-quarter trends weren't encouraging. Though sales overall were up slightly in the third quarter from a year ago, revenue from the company's core books and music business actually fell 12%. At least the company has made progress in cutting costs: A spokesperson says pro forma operating expenses have decreased by 20% over the past year.=20
+Incidentally, in the wake of Amazon's earnings report, two analysts made the belated decision to cut their ratings on the stock, which has fallen 93% from its high back in December 1999. Merrill Lynch analyst Henry Blodget and SG Cowen analyst Scott Reamer downgraded the stock to "neutral" from previous buy ratings. "We thought there might be upside to our estimates," noted Blodget. "There wasn't."=20
+Financial
+Stocks Post Gains After A Rough Morning
+Associated Press
+10/26/2001
+The Washington Post
+FINAL
+E03
+NEW YORK, Oct. 25 -- Selected buying of technology and energy shares pulled the stock market higher today, reversing a morning slide triggered by a pair of grim economic reports.=20
+Shares of semiconductor makers and equipment manufacturers did particularly well, as did energy traders, led by a surprisingly strong performance from Williams Cos., a Tulsa-based energy firm that had an 83 percent jump in third-quarter net earnings.
+The Dow Jones industrial average closed rose at 9448.78, up 103.16, reversing an earlier deficit of 167 points. The Nasdaq composite index rose 36.29, to 1767.83, and the Standard & Poor's 500 index was rose 12.79, to 1097.99.=20
+Earlier, a pair of dismal economic reports had compounded worries about the fallout from last month's terrorist attacks to send stocks lower. As in recent sessions, however, investors absorbed the bad news and focused on good news regarding individual companies.=20
+Williams Cos. surpassed analysts' estimates for the third quarter and raised its forecasts for full-year earnings for 2001 and 2002. Investors rewarded the company by driving its shares up $1.42, to $27.32, bringing several other parts of the energy sector along with it.=20
+Even the shares of Enron rose, a day after the embattled company dismissed its chief financial officer and replaced him with an another executive from within the company. Enron rose 28 cents, to $16.69.=20
+Semiconductor shares also rebounded, led by industry bellwether Intel, up 44 cents at $25.92, and Applied Materials, up $1.35 at 36.69. Leading data-storage maker EMC rose $1.06, to $13.54.=20
+Traders said the Senate's passage this afternoon of an anti-terrorism measure also helped lift investor sentiment. Late Wednesday, the House passed a $100 billion economic stimulus package to combat the effects of the terrorist attacks on the economy.=20
+A surprisingly large drop in orders for durable goods had weighed heavily on the market in the morning, as did poor earnings results from American International Group and WorldCom.=20
+The Commerce Department reported orders plunged in September for the fourth consecutive month. The 8.5 percent decline was far worse than the 1.3 percent dip many analysts had forecast.=20
+The Labor Department also reported that the number of newly laid-off Americans filing for unemployment benefits rose by 8,000 last week, to 504,000, the second-highest figure in nearly a decade and a level that is generally associated with recessions.=20
+Other Indicators=20
+* The New York Stock Exchange composite index rose 5.88, to 562.96; the American Stock Exchange index rose 5.10, to 828.67; and the Russell index of 2,000 small stocks rose 8.31, to 435.96.=20
+* Advancing issues outnumbered declining ones by 9 to 7 on the NYSE, where trading volume rose to 1.38 billion shares, from 1.35 billion on Wednesday. On the Nasdaq, advancers outnumbered decliners by more than 3 to 2 and volume totaled 2.2 billion, up from 1.84 billion.=20
+* The price of the Treasury's 10-year note rose $4.38 per $1,000 invested, and its yield fell to 4.54 percent, from 4.59 percent late Wednesday.=20
+* The dollar rose against the Japanese yen and the euro. In late New York trading, a dollar bought 122.87 yen, up from 122.76 yen late Wednesday, and a euro bought 89.25 cents, down from 89.42 cents.=20
+* Light, sweet crude oil for December delivery settled at $22.01 a barrel, up 32 cents, on the New York Mercantile Exchange.=20
+* Gold for current delivery rose to $277.80 a troy ounce, from $275.90 on Wednesday, on the New York Mercantile Exchange's Commodity Exchange.
+Sudhakar will head Enron probe panel
+10/26/2001
+The Times of India
+MUMBAI: Retired supreme court judge Sudhakar Kurdukar will head the judicial panel set up by the Maharashtra government to investigate into the controversial Enron deal.=20
+An announcement in this regard was made by chief minister Vilasrao Deshmukh at a press conference held at Mantralaya on Wednesday.
+The ruling Democratic Front (DF) coalition had differences over the appointment of the judge, with the Nationalist Congress Party (NCP) demanding that a retired judge of the Bombay high court head the judicial panel. The Congress and the Left Front partners in the DF, however, insisted on a supreme court judge.=20
+The issue was hotly debated in the coordination committee of the DF. The NCP members in the DF finally left the decision to Mr Deshmukh.
+Enron Taps $3 Billion From Bank Lines in Pre-Emptive Move to Ensure Liquidity
+10/25/2001
+Dow Jones Business News
+Embattled Enron Corp. drew down about $3 billion, the bulk of its available bank credit lines, in a bid to restore confidence in its financial strength and liquidity, Friday's Wall Street Journal reported.=20
+Enron (ENE) will use part of the money to offer to redeem around $1.85 billion in outstanding commercial paper -- short-term corporate IOUs -- according to a person familiar with the matter, with the remainder used to provide a cash cushion. This person also said that Enron was talking to its banks about a new multibillion-dollar credit line. Some observers thought the moves were a pre-emptive step by Enron to ensure that it had adequate liquidity should its access to bank lines be interrupted.
+Enron insists its business operation and financial condition remain strong. But "when the market is reacting as irrationally as it has been the last few days, we thought that cash was better than a commitment from a bank," said an Enron spokesman. In a prepared statement, the company's new chief financial officer, Jeff McMahon, said that by drawing down the bank lines, "we are making it clear that Enron has the support of its banks and more than adequate liquidity to assure our customers that we can fulfill our commitments."=20
+The move underscored the tumultuous conditions that have been sweeping over the Houston energy-trading firm in the past 10 days. Enron is the nation's largest energy trader and is a principal in nearly one-quarter of all electricity and natural-gas trades. Thursday, for example, Enron was involved in about $4 billion worth of deals through its EnronOnline unit.=20
+Since early last week, Enron's share price has plummeted 50%. It has reported a $618 million third-quarter loss and a reduction in shareholder equity of $1.2 billion. It also disclosed that the Securities and Exchange Commission is conducting an inquiry into billions of dollars of transactions it did with entities run by its former chief financial officer, Andrew S. Fastow, who was replaced Wednesday.=20
+The draw-down of the credit facilities came as a major rating agency, Fitch, put Enron on review for a possible downgrade while Standard & Poors changed Enron's credit outlook to negative from stable. Moody's Investors Service has already said it is looking at a possible downgrade. In order to fall below investment grade, Enron's credit rating would have to fall several notches.=20
+If that were to happen, however, a host of bad consequences could follow. Together with the sharp decline in its stock price, a noninvestment grade rating would throw the company into default on obligations involving billions of dollars of borrowings. In that event, Enron could be forced to issue millions of shares of stock to holders of that debt, diluting the value of existing shares. As of 4 p.m. in New York Stock Exchange composite trading, Enron shares were down six cents at $16.35.=20
+All Rights Reserved.
+Enron chief executive resigns from board of i2 Technologies
+10/25/2001
+Associated Press Newswires
+DALLAS (AP) - Kenneth Lay, the chairman and chief executive of embattled Enron Corp., has resigned from the board of software company i2 Technologies.=20
+"This is a very painful decision," Lay said in a statement issued Thursday by Dallas-based i2 Technologies. "But now that I am again taking on the CEO responsibilities at Enron, I must reduce my outside activities."
+Lay resumed the chief executive's job at Enron in August after Jeff Skilling surprised investors by leaving the Houston-based energy company.=20
+Enron officials did not immediately return calls from The Associated Press.=20
+In the past week, Enron has been rocked by questions surrounding partnerships that did business with Enron while they were managed by the company's chief financial officer. The official was replaced on Tuesday.=20
+Enron's stock price has fallen nearly 50 percent since interest in the partnerships intensified, and the company acknowledged that the U.S. Securities and Exchange Commission was investigating the arrangements=20
+I2 makes software to help companies manage their supply chains, and its clients include Texas Instruments, Ford Motor Co. and Dell Computer Corp.=20
+I2 stock plunged nearly 25 percent on Oct. 17 after the company reported a $5.53 billion third-quarter loss and said it would cut 1,000 jobs, about one-fifth of the work force.=20
+Lay joined the board in October 2000. No replacement was announced.=20
+In trading Thursday, i2 shares rose 24 cents to $4.95, and Enron shares fell 6 cents to $16.35.
+As Enron's woes unnerve investors about energy sector, analysts say its problems are isolated
+By BRAD FOSS
+AP Business Writer
+10/25/2001
+Associated Press Newswires
+NEW YORK (AP) - As it grew over the past decade into the country's largest natural gas and power marketing company, Enron Corp. became the de facto barometer of health within the energy trading sector.=20
+Wall Street buoyed the stock prices of Enron's competitors based in part on the huge success of the Houston-based company's business model. Now, executives and industry analysts hope to prevent Enron's internal tumult and free-falling stock price from undermining investors' confidence in the sector. They say the Houston-based company's problems should be viewed in isolation and not as a broader indicator of the marketplace.
+"The marketplace for natural gas and power trading is as vibrant as it was yesterday, a week ago or a month ago," said Jim Donnell, president of Duke Energy North America, a division of Duke Energy Corp. that generates and trades power.=20
+That opinion appeared to gain acceptance on Thursday as shares of Dynegy Inc., El Paso Corp. and Duke Energy Corp. rebounded from losses on Wednesday, when Enron's latest woes appeared to spill over into the stock prices of its rivals.=20
+Enron's stock has fallen about 50 percent in the past week (and nearly 80 percent since January) and analysts said its recovery is not expected anytime soon.=20
+The latest troubles began Oct. 16 when Enron reported third quarter earnings, and a longtime concern among Wall Street analysts that executives were not entirely forthcoming only got worse.=20
+First came reports that some of the company's losses stemmed from partnerships managed by Enron's chief financial officer at the time, Andrew Fastow. That raised concerns about a potential conflict of interest and touched off an inquiry by the Securities and Exchange Commission.=20
+Then on Wednesday, one day after Enron Chairman Kenneth Lay defended Fastow, the company ousted him and said he would take a leave of absence.=20
+"They created an environment in which their credibility was put to the test and they didn't come through with flying colors," said Christopher Ellinghaus, an analyst at Williams Capital Group in New York.=20
+Enron shares have been falling all year for reasons new and old, which have little to do with the company's wholesale energy business, which accounts for roughly 80 percent of profits.=20
+Analysts insist wholesale energy marketing can be profitable even in the face of an economic downturn and falling natural gas and electricity prices.=20
+"Even though (Enron) shot themselves in the foot, the basic business is still sound and not likely to disappear," Ellinghaus said.=20
+UBS Warburg analyst Ronald Barone echoed that sentiment.=20
+"The collateral damage to the rest of the space - Dynegy and El Paso - is overdone," Barone said.=20
+On Thursday, Williams Companies Inc. of Tulsa, Okla., reported net income of $760 million and Reliant Resources Inc. of Houston reported $133 million in profits.=20
+"It's business as usual," said Dynegy spokesman Steve Stengel.=20
+Not for Enron, whose stock price began a steady descent 10 months ago when its nascent high-speed Internet unit failed to live up to the hype. The downward momentum was further propelled by difficulties collecting money from power customers in India and the surprise departure in August of then-chief executive Jeff Skilling was considered another bad sign.=20
+On Oct. 16, Enron reported a net loss of $638 million in the third quarter, taking a one-time charge of $1.01 billion attributed to investment losses, troubled assets and unit restructurings. Excluding the charge, Enron earned $393 million on $47.6 billion in revenues for the three months ending Sept. 30.=20
+Ellinghaus said the stocks of Enron's competitors were brought down Wednesday because of "dire" speculation that Enron's troubles might be so bad that it could have difficulty paying hundreds of millions of dollars worth of receivables to companies such as Duke and Dynegy.=20
+"All I'm hearing is doomsday type stuff and doomsday is not reality," Ellinghaus said.=20
+Enron did not return calls seeking comment Thursday.=20
+Donnell of Duke Energy said the Charlotte, N.C.-based company is paying close attention to the Enron situation and that there has been no indication of receivables not being paid.=20
+"They continue to be one of the best functioning companies as it relates to credit," he said. "They've never missed a deadline."
+AP Graphic ENERGY STOCKS=20
+Enron's Credit Outlook Downgraded to Negative by S&P (Update1)
+2001-10-25 18:59 (New York)
+Enron's Credit Outlook Downgraded to Negative by S&P (Update1)
+(Adds analyst comment in fourth paragraph.)
+Houston, Oct. 25 (Bloomberg) -- Enron Corp.'s long-term
+credit ratings outlook was changed to negative from stable by
+Standard & Poor's after the largest energy trader's shares fell
+49 percent in the past week.
+S&P affirmed the Houston-based company's ratings of
+``BBB+/A2,'' which are investment grade.
+The ratings company cited lost market capitalization and the
+possibility that Enron won't generate enough money from selling
+assets outside the main trading business to repay debt. S&P did
+say that ``the strategic direction of the company is likely to
+become more credit-positive in the wake of recent management
+changes 
+Enron reported $1.01 billion in losses from investments
+outside the principal business of trading commodities such as
+electricity and natural gas. Chief Financial Officer Andrew
+Fastow resigned yesterday as the U.S. Securities and Exchange
+Commission asks for information about related-party transactions
+he conducted.
+``The S&P write up was very positive,'' said Dorothea
+Matthews, an analyst at CreditSights Inc., a research firm. ``It
+seems that the ratings company went out of its way to tray and
+calm things down 
+Shares of Enron fell 6 cents to $16.35.
+--Russell Hubbard in the Princeton newsroom, 609-750-4651 or
+Enron's Trading Partners Say It's Business as Usual (Update2)
+2001-10-25 19:38 (New York)
+Enron's Trading Partners Say It's Business as Usual (Update2)
+(Adds new Enron CFO in 14th paragraph.)
+Houston, Oct. 25 (Bloomberg) -- Concerns Enron Corp. will run
+short on cash haven't prevented commodities traders from doing
+business with the largest energy broker, customers say.
+The company handles about 25 percent of U.S. power and
+natural-gas trading, said John Kilduff, vice president of energy
+risk management for Fimat USA. It's also a leader in complex
+derivatives that allow others to hedge against the risk of
+fluctuating commodities prices.
+Enron's credit rating is on watch for possible downgrade at
+Moody's Investors Service, and Standard & Poor's lowered Enron's
+long-term credit outlook to negative after $1.01 billion in third-
+quarter losses from some soured investments. The company needs
+good credit to raise cash every day to keep trading partners from
+demanding collateral and to settle transactions.
+So far, there are no signs that Houston-based Enron is
+handling less business, Kilduff said.
+``If they were unable to perform, it would be a major
+problem,'' he said. ``It could get like Long-Term Capital if
+things really broke down because the numbers are that big 
+Long-Term Capital Management, a private investment fund for
+the wealthy, incurred massive losses making bond trades during the
+1998 Russian currency crisis. The fund's portfolio plunged. More
+than a dozen banks bailed out the fund at a cost of $3.6 billion
+to avoid a collapse.
+Needs Cash Daily
+Enron trades electricity, natural gas, coal and other
+commodities worldwide, as well as complex financial instruments to
+hedge against price swings in the goods.
+``As of now, Enron is active in the markets,'' Kilduff said.
+``No one is cutting trading lines that I can see, or demanding
+different terms than before 
+Companies that trade as heavily as Enron require cash every
+day to settle positions, said Kilduff, whose company swaps natural
+gas and other energy investments with Enron.
+Some days, Fimat will bet that natural-gas prices will fall,
+while Enron bets that they will rise. Natural gas usually does one
+or the other every day, and someone pays the difference.
+``The liquidity of your trading partners is a risk factor Kilduff said. ``Someone is paying someone else every day 
+Enron said on a conference call Tuesday that it has enough
+money to operate normally, and can fall back on $3.4 billion in
+bank credit lines if necessary. The company is determined to
+protect the credit rating, Enron has said.
+``We aren't even going to entertain worst-case scenarios at
+this point,'' said Enron spokeswoman Karen Denne.
+Investor Questions
+Enron, based in Houston, ousted Chief Financial Officer
+Andrew Fastow yesterday, two days after the U.S. Securities and
+Exchange Commission began asking questions about partnerships he
+ran that invested in company shares. Those trades cost Enron $35
+million. Jeff McMahon, head of Enron's industrial markets unit,
+replaced Fastow, who went on leave of absence.
+Enron shares have fallen 49 percent in the past week. They
+fell 6 cents to $16.35 today.
+Based on Bloomberg composite ratings, most of Enron's long-
+term debt is rated at BBB2 and BBB1, two or three levels above
+investment grade. Fitch, Standard & Poor's and Moody's all rate
+the company's debt at investment grade.
+The company also faces questions from investors about $3.3
+billion in potential liabilities from affiliated companies formed
+to buy and sell Enron assets such as power plants.
+The affiliates owe payments to bond investors and plan to
+meet them by selling assets. Enron doesn't know if the sale
+proceeds will cover the debt. The company would have to make good
+on any shortfall.
+Little Time
+Enron asked Citicorp Inc. on Tuesday to arrange a $750
+million loan to ensure access to credit if the company gets shut
+out of the money markets.
+Enron had about $1.85 billion of commercial paper, or short-
+term unsecured debt, outstanding as of Tuesday, traders said. The
+company, which has a $3 billion program, has had difficulty
+finding buyers for new commercial paper sales since the SEC
+investigation was announced, the traders said.
+Today, Enron offered two-week commercial paper at a 3 percent
+yield, 10 to 15 basis points above comparably rated companies.
+``There appears to be enough liquidity to give them enough
+time to get their house in order,'' said Jon Kyle Cartwright,
+senior energy credit analyst at Raymond James & Associates.
+``There's a point where a credibility crisis becomes a self-
+fulfilling prophecy, so they have less time than they think to
+pacify the market 
+Ripple Effect
+Some investors are concerned that Enron's complex book of
+hedges, swaps, options and other derivative contracts involves so
+many partners, participants and companies that a failure would
+pose a risk to the economy, and force a bailout like Long-Term
+Capital Management's.
+``The talk in the financial markets is that some counter
+party to Enron could fail if Enron can't perform,'' said Jeff
+Caughron, manager of $400 million in investments for Tinker
+Federal Credit Union in Oklahoma City. ``If it goes down, there
+could be a big ripple effect 
+The effect has already spread as investors worry Enron won't
+be able to pay bills owed to power producers such as Calpine
+Corp., Dynegy Inc., Mirant Corp. and NRG Inc., said Chris
+Ellinghaus, an analyst at Williams Capital Group. As a group,
+shares of the four have fallen 11 percent in the past week.
+``Rumors that these companies have receivables with Enron are
+fueling a sell-off,'' he said. ``Both traders and companies
+selling power to Enron are suffering 
+All four companies said they're trading with Enron as they
+have in the past.
+Market Maker
+Enron supplies services some customers consider
+irreplaceable. The Sacramento Municipal Utilities District hedges
+weather risk through Enron, said risk manager Jim Tracy.
+The district entered into an agreement that forces it to pay
+Enron if rainfall is abundant and hydroelectric dams can operate
+at peak efficiency and capacity; in dry seasons, when the dams
+can't operate as well, Enron pays the district.
+``If Enron's credit went bad, or they folded up, that
+agreement wouldn't get picked up by someone else,'' Tracy said.
+Enron also helps many U.S. utilities protect themselves from
+electricity and natural gas price fluctuations in the same way it
+helps the Sacramento utility district hedge against too little
+rainfall. Any impairment on Enron's part to continue doing so
+would trickle down to Main Street utilities, Tracy said.
+``Utilities would start reserving more on their balance
+sheets for price swings,'' Tracy said.
+--Russell Hubbard in the Princeton newsroom at 609-750-4651, or at
+Enron Broadband Begins Closing London, Singapore Offices
+By Erwin Seba
+Of DOW JONES NEWSWIRES
+10/25/2001
+Dow Jones Energy Service
+HOUSTON -(Dow Jones)- Enron Corp.'s (ENE) telecommunications unit will close down its trading offices in London and Singapore over the next six months.=20
+Enron Broadband Services executives have quietly begun to inform employees overseas and haven't made a public announcement of plans to consolidate Asian and European bandwidth trading operations at the company's Houston headquarters.
+"It's a way to structure the business to fit the opportunities that are out there in the market now," Enron Broadband Services spokeswoman Terrie James said in response to questions from Dow Jones Newswires.=20
+The London office has 20 or fewer employees, James told Dow Jones. The Singapore office has 15 or fewer employees.=20
+Americans working in the offices would probably choose to relocate in the U.S., James said. She didn't know how many of the employees are U.S. citizens. She didn't know what options might be offered to the non-American employees.=20
+James didn't know how much money Enron might save by closing the offices.=20
+The decision by Enron, the leading bandwidth market-maker, shows that international bandwidth markets are having tough times like the U.S. market.=20
+Earlier this year, as the U.S. market went sour, Enron executives had said that European and Asian telecommunications carriers might be more open to bandwidth trading, making the markets in those regions ripe for growth.=20
+-By Erwin Seba, Dow Jones Newswires; 713-547-9214; erwin.seba@dowjones.com
+Calpine:No Exposure To Enron; No Calif Pwr Contract Talks
+10/25/2001
+Dow Jones Energy Service
+NEW YORK -(Dow Jones)- Calpine Corp. (CPN) has no credit exposure to trading partner Enron Corp. (ENE), Calpine said Thursday in an earnings conference call. And the company hasn't been contacted by the state of California about renegotiating the billions of dollars in long-term supply contracts the company signed with the state earlier this year.=20
+Calpine's diluted net earnings for the third quarter were 88 cents a share compared with 48 cents for the same quarter last year. Setting Calpine's consistent earnings growth aside, Wall Street analysts in Thursday's conference call focused their questions on trouble spots in the energy industry, like Enron, California, and whether the U.S. will have a surplus of electric power stations in a few years.
+Moody's has put Enron's credit on watch for possible downgrade, and some of the company's debt is trading like junk bonds in the secondary market this week. Trading partners like Calpine have been asked about their exposure to Enron.=20
+"We continue to assess the situation, but right now don't have any net exposure to Enron," said Calpine's vice president of corporate risk management, Paul Pasoli. "We continue to trade with them. We will adjust our credit threshold based on how their bonds are trading and their credit rating."=20
+When asked if there would be any exposure to Enron if trading were to be halted immediately, Pasoli said that, in fact, Calpine would owe Enron a little money.=20
+In another energy industry area of concern, Calpine was asked about the state of California's stated desire to renegotiate tens of billions of dollars of long-term power contracts. Calpine is by far the biggest supplier under those contracts, which on a mark-to-market basis are worth far less now than when California bought this past winter and spring.=20
+"Nobody has come to us directly or indirectly with regard to the Calif contracts. In general, we respect our contracts and expect our counterparties to do so as well," said Calpine cheif executive, Peter Cartwright. "If there are any contract renegotiations that can result in a win-win, we would be happy to look at that, if California asks. We've done that many times."=20
+As for future power prices, Calpine said that it's going forward with its program to build a portfolio of 70,000 megawatts of generation, which is about three times its current capacity and would be about 7% of all U.S. capacity. The critical determinant of profitability in power generation is the difference between natural gas prices and power prices, and Calpine said that difference, or "spark spread," has grown the past few months. Furthermore, the company executives said they are holding to a requirement that all projects generate an after-tax return of 18% on the investment.=20
+As a result, the company expects earnings to grow at least 40% annually through 2005. Calpine will fund near-term cash needs in the debt markets and won't issue new stock until its stock price rises substantially.=20
+-By Mark Golden, Dow Jones Newswires; 201-938-4604; mark.golden@dowjones.com
+Spector, Roseman & Kodroff, P.C. Files Class Action Suit Against Enron Corporation
+10/25/2001
+PR Newswire
+PHILADELPHIA, Oct. 25 /PRNewswire/ -- The law firm of Spector, Roseman & Kodroff, P.C. announces that a class action lawsuit has been commenced in the United States District Court for the Southern District of Texas, Houston Division, against defendants Enron Corporation ("Enron" or the "Company") (NYSE: ENE), Kenneth L. Lay, Jeffrey K. Skilling, and Andrew Fastow, on behalf of purchasers of the common stock of Enron during the period between January 18, 2000 and October 17, 2001, inclusive (the "Class Period").=20
+The Complaint alleges that defendants violated Sections 10(b) and 20(a) of the Securities Exchange Act of 1934, and Rule 10b-5 promulgated thereunder, by issuing a series of material misrepresentations to the market between January 18, 2000 and October 17, 2001, thereby artificially inflating the price of Enron common stock. Specifically, the complaint alleges that Enron issued a series of statements concerning its business, financial results and operations which failed to disclose (i) that the Company's Broadband Services Division was experiencing declining demand for bandwidth and the Company's efforts to create a trading market for bandwidth were not meeting with success as many of the market participants were not creditworthy; (ii) that the Company's operating results were materially overstated as result of the Company failing to timely write-down the value of its investments with certain limited partnerships which were managed by the Company's chief financial officer; and (iii) that Enron was failing to write-down impaired assets on a timely basis in accordance with GAAP. On October 16, 2001, Enron surprised the market by announcing that the Company was taking non-recurring charges of $1.01 billion after-tax, or ($1.11) loss per diluted share, in the third quarter of 2001, the period ending September 30, 2001. Subsequently, Enron revealed that a material portion of the charge related to the unwinding of investments with certain limited partnerships which were controlled by Enron's chief financial officer and that the Company would be eliminating more than $1 billion in shareholder equity as a result of its unwinding of the investments. As this news began to be assimilated by the market, the price of Enron common stock dropped significantly. During the Class Period, Enron insiders disposed of over $73 million of their personally held Enron common stock to unsuspecting investors.
+If you purchased Enron securities during the Class Period, you may, no later than December 21, 2001, move to be appointed as a Lead Plaintiff in this class action. A Lead Plaintiff is a representative, chosen by the Court, that acts on behalf of other class members in directing the litigation. The Private Securities Litigation Reform Act of 1995 directs Courts to assume that the class member(s) with the "largest financial interest" in the outcome of the case will best serve the class in this capacity. Courts have discretion in determining which class member(s) have the "largest financial interest," and have appointed Lead Plaintiffs with substantial losses in both absolute terms and as a percentage of their net worth. If you have sustained substantial losses in Enron securities during the Class Period, please contact Spector, Roseman & Kodroff, P.C. at classaction@srk-law.com for a more thorough explanation of the Lead Plaintiff selection process. If you have relatively small losses, your ability to participate in any recovery will be protected by the Lead Plaintiff(s), and you need take no affirmative steps at this time.=20
+If you wish to discuss this action or have any questions concerning this notice or your rights or interests, please contact plaintiff's counsel Robert M. Roseman toll-free at 888-844-5862 or via E-mail at classaction@srk-law.com. For more detailed information about the firm please visit its website at  
+Spector, Roseman & Kodroff, P.C., located in Philadelphia, Pennsylvania and San Diego, California, concentrates its practice in complex litigation including actions dealing with securities laws, antitrust, contract and commercial claims. The firm is active in major litigation pending in federal and state courts throughout the United States. The firm's reputation for excellence has been recognized on repeated occasions by courts which have appointed the firm as lead counsel in numerous major class actions involving violations of the federal securities laws and the federal antitrust laws, and consumer fraud. As a result of the efforts of the firm, and its members, hundreds of millions of dollars have been recovered on behalf of thousands of defrauded shareholders and companies.=20
+MAKE YOUR OPINION COUNT - Click Here=20
+/CONTACT: Robert Roseman of Spector, Roseman & Kodroff, P.C., +1-888-844-5862/ 19:00 EDT=20
+TGS Q3 net profit up 22 pct yr-on-yr on higher NGL sales, transport revenues
+10/25/2001
+AFX News
+(c) 2001 by AFP-Extel News Ltd
+BUENOS AIRES (AFX) - Perez Companc SA and Enron Corp pipeline joint venture, Transportadora de Gas del Sur SA, said its net profit in the three months to September rose 22 pct year-on-year to 37 mln pesos on the back of strong growth in sales of natural gas liquids (NGL) and increased revenue from transport.=20
+Total revenue grew 24 pct year-on-year to 147 mln pesos, as "TGS continues to grow its revenues in all of its business segments," CEO Eduardo Ojea Quintana said.
+NGL sales surged 86 pct year-on-year to 31.1 mln pesos, after a partial takeover of the Cerri complex's production at Bahia Blanca, although volumes declined as a result of the start-up of the Mega project at the beginning of 2001, Ojea Quintana said.=20
+Gas transport revenue rose 11 pct year-on-year to 109.6 mln pesos as average gas transportation contracted capacity rose 6 pct to 62.5 mln cubic metres daily, following a capacity expansion completed in June.=20
+However, he also noted "important challenges, mostly associated with the relevant regulatory issues that remain unresolved, as well as the deep economic crisis that Argentina is currently undergoing."=20
+"These negative factors have adversely affected our investment plans for the current year and for 2002," Ojea Quintana added.=20
+lac/zr For more information and to contact AFX: www.afxnews.com and www.afxpress.com
+Enron Draws Down Credit Facility
+10/25/2001
+Dow Jones News Service
+HOUSTON -(Dow Jones)- Enron Corp. (ENE) drew on committed lines of credit to provide cash liquidity of more than $1 billion.=20
+In a press release Thursday, the energy company said it has "more than adequate" liquidity to fulfill business commitments.
+Enron said the credit action is a step to restore investor confidence, and it plans to update investors in several days regarding plans to maintain its long-term credit rating.=20
+Earlier Thursday, Standard & Poor's revised its long-term ratings outlook for Enron to negative due to concerns that the company's significant drop in market capitalization has hurt the company's flexibility and could impair plans to rebuild the balance sheet.=20
+Over the past week, Enron's shares have fallen more than 40% amid negative news from the company.=20
+The company's New York Stock Exchange-listed shares closed Thursday at $16.35, down 6 cents, or 0.4%, on composite volume of 39,212,300 shares. Average daily volume is 7,832,606 shares.=20
+Early last week, the company reported a $618 million third quarter loss, resulting from $1.01 billion in write-offs. Enron also disclosed a $1.2 billion reduction in shareholder equity for the quarter as a result of terminating certain transactions related to a partnership that for a time was headed by Chief Financial Officer Andrew Fastow.=20
+On Wednesday, Enron replaced Fastow with Jeff McMahon, effective immediately.=20
+The Wall Street Journal reported Thursday that some bond traders believe Enron's bonds won't continue to hold up better the company's stock.=20
+The company's five-year bond has decreased about 16% in the past two weeks, much less than the 50% decline in Enron's stock price since the Oct. 16 disclosure of the $1.01 billion charges.=20
+But the fall in the bond's price translates to a yield of 7.7 percentage points above bellwether U.S. government bonds, which is widening from about 3 percentage points two weeks ago. Although Enron is still an investment-grade credit, that kind of "spread" is more characteristic of a junk bond with a credit rating of single B or lower, the Journal said.=20
+On Wednesday, Fitch put Enron's credit rating on watch for a possible downgrade, following a similar move by Moody's Investor Service earlier this week.=20
+Several energy trading companies said Thursday that although they have concerns about Enron's credit quality, they have made almost no changes in policy concerning the company.=20
+Dynegy Inc. (DYN), Williams Cos. (WMB) and Aquila Inc. (ILA) said they haven't changed their credit policy concerning Enron, which accounts for about a quarter of the trade in U.S. power and gas markets.=20
+The Journal reported that bond traders expect Enron executives to meet with rating agencies, debt-trading desks, big bond holders and banks next week.=20
+Company Web site -Susan Willetts; Dow Jones Newswires; 201-938-5388
+Enron Employees Watch Options Devalue as Shares Fall (Correct)
+2001-10-25 18:41 (New York)
+Enron Employees Watch Options Devalue as Shares Fall (Correct)
+(Company corrects structure of standard compensation package
+in second paragraph.)
+Houston, Oct. 25 (Bloomberg) -- Enron Corp. prided itself on
+sharing the wealth with employees when the company was posting
+record profits last year. Now, from the boardroom to the mailroom,
+employees are sharing the pain.
+Enron, the largest energy trader, grants stock options to the
+bulk of its 20,000 employees. Under Enron's standard compensation
+package, most employees get stock options equal to
+5 percent of their annual base salary, spokeswoman Meredith
+Philipp said.
+Employees held 46.8 million exercisable options as of the end
+of 2000, all at average prices above the company's current share
+price. The stock has dropped 80 percent this year.
+``Virtually every option is under water right now,'' Enron
+spokeswoman Karen Denne said.
+Enron's board sets the strike price for the options in
+December or January. Employees can't cash the options in and make
+a profit unless the stock is trading above the strike price. At
+the end of 2000, Enron shares were trading at $83.13. In December,
+the board set a strike price of about $80.
+Shares of Houston-based Enron fell 6 cents to $16.35 today.
+They have lost 37 percent of their value so far this week.
+Enron said Monday that the Securities and Exchange Commission
+was asking questions about partnerships run by Andrew Fastow, who
+was ousted as Enron's chief financial officer yesterday. One
+partnership cost the company $35 million, and Enron bought back 62
+million shares from a partnership at a cost of $1.2 billion.
+Enron named Jeff McMahon, head of its industrial markets
+group, as CFO late yesterday.
+Unvested Options
+Another 96.1 million options granted to Enron employees
+hadn't vested as of the end of last year. About 15.4 million of
+them, or 16 percent, were at prices ranging from $6.88 to $20 a
+share. The rest vest at levels well above the current share price.
+Experts who have watched the devaluation of stock options in
+other industries, such as technology and telecommunications, say
+it becomes demoralizing for workers to watch share prices fall
+below their options.
+``It looks bad,'' said Mark Edwards, chairman of IQuantic
+Buck, a Mellon Financial Corp. unit that provides compensation
+consulting. ``Employees look at (the stock price) every day, and
+it's a continued disincentive to them 
+While Denne said Enron doesn't have any plans to reprice its
+employees' options, the company did issue a one-time stock option
+grant at $36.88 in August, when Ken Lay resumed his former role as
+the company's chief executive. Lay, who had held the job for 15
+years, turned the position over to Jeffrey Skilling in February.
+Skilling quit in August, citing family reasons.
+The August grant, which was equivalent to 5 percent of
+employees' base salary, didn't require a vesting period, but was
+exercisable immediately. Enron's shares haven't closed above
+$36.88 since Aug. 29.
+--Margot Habiby in the Dallas newsroom (214) 954-9452, or
+Here are the numbers -
+Out of the money CP's - 68
+In the money CP's - 67
+Terminated CP's- 330
+PL
+Brutal
+Yikes  
+Texas Monthly 	
+You have received the following link from craig.buehler@     	 Click the following to access the sent link:	
+<  Monthly November 2001: How Enron Blew It   	 SAVE THIS link < 	 FORWARD THIS link  	
+Please note, the sender's email address has not been verified.	
+Get your EMAIL THIS Browser Button and use it to email information from any Web site    
+maybe we will try that.
+PL
+Jackson would get more action.
+that is what I plan on going as for Halloween
+PL
+I need one of those.
+Jilly
+- winmail.dat  
+Once again, it appears we have changed a price desk deal without letting them know.  I hope everyone understands how bad this makes our entire team look.  This issue continues to be brought up in the staff meeting and we are always the cause of it.  This is the second time in less than a week and we have gone over this several times.  Next time this happens, someone is liable to get an exit early pass from the floor for good.  To keep this from happening we will now practice the following Rule:
+Anytime a price desk deal that involves the central desk needs to be changed, the person that runs the central book will not leave the floor until Errol or Joey tells you that there book is ok.  If that happens to be midnight, sorry.  That is the rule and there will be absolutely no exceptions.  Sorry I have to be a jerk, but it is obvious that being nice about it has not worked.  Thanks for your help in eliminating this in the future.
+PL
+The report named: CE P/L Summary <  published as of 10/25/2001 is now available for viewing on the website.
+(Revision: 2)
+The report named: CE P/L Summary <  published as of 10/25/2001 is now available for viewing on the website.
+that is what I plan on going as for Halloween
+PL
+I need one of those.
+Jilly
+    - winmail.dat  
+what is this I hear that you may have a new job for me?  I hope so, we keep going in the toilet on Wall Street.  My 2,000 options are now all worthless.
+PL
+I won't be visiting that country
+Please look at Sheet 1(2).  You will see there are numbers Lee attribute to You and I.  I wanted to go over the months that there is a large difference - see what counter parties make up the difference so that we can determine the absolute correct number for him.  I also wanted to discuss OA if we have time.  I have a 10:30 meeting and if you need to get back to the auditors, we can address at a later date.  Thanks.
+PL
+Thanks for your help.
+PL
+we are almost done. your request should be done before portcalc.
+Your primary contact for this request is Sangeev Gupta x5-3816
+Attached is the list of counterparties we need moved today.  The list has 140 counterparties on it.  Please let me know if you are not going to be able to move these today by 3:30.  Below is what we need done:
+1.  Only financial deals with these counterparties
+2.  Change the ENA book name from NG-Price to ENA-FT-WC-SJ
+3. commodity code should be NG
+4. cutoff date 1/1/02
+Please shout if you have any questions.  Thanks.
+PL
+I apologize, I forgot to tell you earlier today that Jason and his family have not heard of this guy.  Like you said he must be in Double Springs
+PL
+I am not familiar with Wyatt Howell, but I have been away from Winston
+County for 35 years.  I have complete confidence in your recommedation.  I
+would like to get this over with as soon as possible, so please proceed with
+the attorney of your choice.
+Dianne Love
+Dianne
+I have not received any information from Jeff Mobley.   I have  called his
+office as recent as today.  The petition for removal is ready to sign but I
+have got to retain local counsel in Winston County for the purpose of filing
+as it will be cheaper than having me drive to Winston County.  Are you
+familiar with Wyatt Howell or his firm.  That is the firm I would like to
+associate.  Please let me know if this is acceptable to you.
+Tammy
+Just touching base to see where we are with Daddy's estate.
+no response.  I have prepared a petition to have your sister removed.  I
+will get it to you for your review prior to filing same.
+Just touching base to see if you heard from Jeff.
+Legally I cannot contact her since she is represented by an attorney.  I
+will follow up with Jeff.
+I can also provide you with my sister's contact info if you need it.
+I have heard nothing.  I have been out of town for about 12 days and have
+just returned today. I thought there might be a response from Jeff but none.
+I will follow up.
+Tammy,
+I'm just touching base to see if you have heard anything from Jeff.
+random people that obviously don't work as hard as you and I and they have the time to spend all day surfing the internet.
+PL
+Where do you get these?
+Jilly
+    - winmail.dat  
+trip to steamboat:
+Jan. 13-19 $425 a night for a house that sleeps 10.
+That works out to $500 a couple for the week(6 nights).  That will give us 5 days to ski(or 4 on 1 off).
+Continental flys directly to Steamboat for $300 roundtrip.
+Need to know interest level ASAP. We have to pay 50% upon booking the house and %50 within 30 days of arrival.
+I will pay the %50 up front, I just want a firm committment that you will be going.
+Take a look at the house:
+It is the bettger house
+PL
+Here in lies the problem.  These fix price locks are not deal specific - rather counterparty specific.  Therefore, we can not modify prices until the end of the month when we know which deals flowed volumes and which did not.  This means we have to do this the last two days of the month along with all of the other things we are doing.  For every month since May - except September we have been able to do this.  It just so happens the one time we do not do it, we had the most locks.  The problems we had in previous months were due to liquidations hitting central that should have hit Chicago.  Same deals, different issues.  Thanks.
+PL
+Can we get the fixed price lock-ins with Peoples both corrected for previous month and booked correctly going forward?  Who actually does this?
+John
+I think the confusion with this lies in the fact that last month we had the same issue and I thought you put these deals that are desk to desk in tagg back on my region.  These relate to fixed price lock ins with Peoples.  I think what happened last month happened again this month which is settlements and the risk person did not get the fixed price lock ins done until the following month.  We will have to try and work on this for this month.  The problem is that they can take their volumes on several deals and we have to wait until it is completely scheduled.  Sorry for the confusion.
+PL
+Melba and Phillip,
+What has changed on the Peoples region that would lead you to believe these deals that we previously determined to not belong on your desk for the months of June - August now in fact belong to your desk?  These deals are the same deals that represent the 3.8 MM adjustment that cleared off those three months.
+Thanks,
+Jim
+x37703
+Peoples Region:	
+North Shore:	
+Sale -116678/V59258.8 - Missing Leg 4
+Sale -116678/V59258.6 - Missing Leg 2
+Sale - V63990.5 - Missing Leg 3
+Sale - V67692.4 - Missing Leg 3
+Sale - V82405.3 - Missing Leg 1
+Sale - V82405.8 - Missing Leg 6
+Sale - V82405.H - Missing Leg 15
+Peoples Gas Light & Coke:
+Sale - 116629/V59258.5 - Missing Leg 1- Now Deal 1005851
+Sale - 116629/V59258.7 - Missing Leg 3 - Now deal 1005851
+Sale - V63990.4 - Missing Leg 2
+Sale - V67692.2 - Missing Leg 1		
+Sale - V82405.4 - Missing Leg 2
+Sale - V82405.7 - Missing Leg 5
+Sale - V82405.G - Missing Leg E
+If you can get me info on this before the meeting tomorrow it would be greatly appreciated.
+Thanks!
+FYI - keep an eye out for this.
+PL
+Guys:  Just a reminder to have everyone check their physical Index deals carefully.  We have been discussing this issue with Tara and thought that it was a one time issue that had been resolved, but today, Tuesday, we found that EOL is still booking certain Fiz Index deals incorrectly.
+Look for a 0.00 in Basis.
+On most of ours the deals did not show up in any of our calcs because the Nymex reference is not populated.
+Bruce Mills called me.  He said you told him to work on it with me.  I left him a message on Friday, but I haven't heard back.  Below is my spreadsheet of the variances.  Why don't you take a look at it and let me know if you have any questions.  I have compared what Consumers invoiced to what we have in Unify.  I haven't made it through 1999 yet, so that tab is blank.  I need help on the deals that have differences and the ones that Consumers did not invoice me for.  I have tried to highlight them all in red.  I can come down in the morning to go over it with you, if you have time.
+Megan
+I can not remember if I called you Friday or not.  Let me know when you want to get together and go over the consumers stuff.  Sorry if I forgot, the mornings are the best for me.
+PL
+Just let me know when you're ready and I'll come down. 
+how about Friday?
+How is this week to look at Consumers?  I have a spreadsheet put together back to Jan 00.  I have not made it to 1999 yet, but I'm working on it.  I'm available any time this week.  You name the time and place and I'll be there.
+Megan
+I can not remember if I called you Friday or not.  Let me know when you want to get together and go over the consumers stuff.  Sorry if I forgot, the mornings are the best for me.
+PL
+Just let me know when you're ready and I'll come down. 
+how about Friday?
+How is this week to look at Consumers?  I have a spreadsheet put together back to Jan 00.  I have not made it to 1999 yet, but I'm working on it.  I'm available any time this week.  You name the time and place and I'll be there.
+Megan
+Daryll,
+Try these instructions and let me know if this works.  Thanks.
+PL
+P Love:
+Here are the instructions for adding the correct drivers for Weapon X.  Keep for your future reference.
+You might want to forward to Chicago office - I have not done so.
+Thanks
+James Hungerford
+713.345.4117
+james.hungerford@
+James,
+Here are the configuration requirements for WeaponX in our environment in Houston  
+You need the following ODBC Drivers configured, You can access this by
+Start->Run and typing in ODBCAD32
+OR
+Start->Settings->Control Panel->ODBC / (Windows 2000) Start->Settings->Control Panel->Admin Utils->ODBC
+Make sure the following are in the screen that open, if not you can add them by clicking the add button and selecting ORACLE ODBC drivers. All the entries should be in LOWER case.
+Data Source Name : EGSPROD   Service Name/Server : ERMT
+Data Source Name : EGSPROD32
+Service Name/Server : ERMT
+Data Source Name : CPR
+Service Name/Server : CPR
+Date Source Name : CPR_PROD
+Service Name/Server : CPR
+If you have any additional questions, just me let know.
+David Mayeux
+31/32 Trader Support
+try sylvia pollan, she is the originator on the deal.
+PL
+Phillip,
+I have not received an invoice for this deal 816390 w/Michigan Consolidated Gas Company for September production.  Do you have a contact person at that company that I can call to find out where the invoice is?  Thank you.
+Jeanne Fore
+Gas Settlements
+x53801
+unfortunately, I do not have any information about these deals.  With these being IT day deals, the schedulers and traders will have all of your information.  sorry.
+PL
+I am not sure if they have confirmed either deal.  However, deal #1034254 was never pathed by us, whereas 1027152 was.  Therefore, nothing billed out under 1034254.
+Bonnie - I am including you on this note in case you can add anything about the pathing of the two deals mentioned in this note.  Niether CMS orgaination shows anything on Trunkline that matches this.  We spoke briefly about this last week.
+Phillip - I am including you in case you can add any clarity or determine who we did this deal(s) with.
+Thank you,
+Scott
+5-7213
+if they are not confirming this deal are they confirming 1034254?
+Tom,
+In contacting our scheduler and subsequently a CMS scheduler, neither CMS Field Services nor CMS Marketing, Services, and Trading are able to identify the deal.  Currently, I am preparing to fax a copy of our confirmation on the deal to CMS Field Services,  Again, it is not an executed copy, but I am assuming they may not have sent it back.  Furthermore, the CMS Field Services scheduler has told me that they don't even schedule any Trunkline deals.
+Considering all of this, I am assuming the worst - that unless we can provide a trader name etc. they will short pay on this deal.  So, do you know who represented us with CMS on this deal any one that might know who their trader is or how this deal was booked?  We are getting ready to settle for Sep prod so any help asap would be appreciated.
+Scott
+5-7213
+They do not recognize that deal at all.
+The most recent name and number is a Conoco trader.  I have a confirmation on this deal with CMS.  However, it is not an executed copy (i.e. sent back or confirmed by CMS).  Is there some one who represented us with CMS on this that might know who their trader is or how this deal was booked?  I will attempt to contact the scheduler in the mean time but any help would be good.
+thanks.
+I never talk to these people so the numbers I have are old. Do they not recognize this deal?  It was scheduled so I assume the counterparty is correct. I have another number for Mike at 281-293-2203.  It could be old also.
+Tom,
+The below number is for a Duke Energy trader.  So, either this deal is booked wrong or this is not the correct trader name.  Please advise.
+Tony ? at 713-6276215
+Tom,
+Please inform me of the CMS Field Services trader on deal #1027152 plus any additional information that you might have.
+Thank you,
+Scott Dozier
+Client Services - Settlements
+Enron Net Works LLC
+office: 713.345.7213
+fax: 713.646.8420
+email: scott.dozier@
+Please email me or call me...I need the deal number again.  The number I wrote down expired in 11/30/01.  Thanks.
+PL
+I think the confusion with this lies in the fact that last month we had the same issue and I thought you put these deals that are desk to desk in tagg back on my region.  These relate to fixed price lock ins with Peoples.  I think what happened last month happened again this month which is settlements and the risk person did not get the fixed price lock ins done until the following month.  We will have to try and work on this for this month.  The problem is that they can take their volumes on several deals and we have to wait until it is completely scheduled.  Sorry for the confusion.
+PL
+Melba and Phillip,
+What has changed on the Peoples region that would lead you to believe these deals that we previously determined to not belong on your desk for the months of June - August now in fact belong to your desk?  These deals are the same deals that represent the 3.8 MM adjustment that cleared off those three months.
+Thanks,
+Jim
+x37703
+Peoples Region:	
+North Shore:	
+Sale -116678/V59258.8 - Missing Leg 4
+Sale -116678/V59258.6 - Missing Leg 2
+Sale - V63990.5 - Missing Leg 3
+Sale - V67692.4 - Missing Leg 3
+Sale - V82405.3 - Missing Leg 1
+Sale - V82405.8 - Missing Leg 6
+Sale - V82405.H - Missing Leg 15
+Peoples Gas Light & Coke:
+Sale - 116629/V59258.5 - Missing Leg 1- Now Deal 1005851
+Sale - 116629/V59258.7 - Missing Leg 3 - Now deal 1005851
+Sale - V63990.4 - Missing Leg 2
+Sale - V67692.2 - Missing Leg 1		
+Sale - V82405.4 - Missing Leg 2
+Sale - V82405.7 - Missing Leg 5
+Sale - V82405.G - Missing Leg E
+If you can get me info on this before the meeting tomorrow it would be greatly appreciated.
+Thanks!
+NXAVC is just like nymex, it settles as one price for the entire month.  I don't know what you mean look for pricing for 9/11-9/14.  NXAVC is a monthly index.  Please clarify.
+PL
+Phillip,
+Agave had several days incorrect and has corrected them, however my counterpart informed me that they have not been able to confirm the pricing for days 9/11 - 9/14. Those four days were priced at $29.53. Is there anyway to find out if the crude guys can provide support for those day? I would think there may have been some special pricing provisions after the events of the 11th.
+Thanks,
+Genaro
+see this spreadsheet, you will see that previous months match.  This spreadsheet comes straight from our crude guys.  If the counterparty continues to disagree, get documentation from them and we can take it to the crude guys.  Thanks.
+PL
+Philip,
+The attached file contains settle prices for crude.  The NXAVC code price is in cell "D48" which I have highlighted in yellow.  There is also historical data in the file where you can verify prior months.  If you have any other questions please ask.
+In
+Our game is at 7 this week. Let me know if you're in.
+Date: Fri, 19 Oct 2001 09:53:45 -0500
+This is an aerial photo of Ground Zero.  Perhaps this will help us understand the true magnitude of the destruction.  God Bless.
+Click here 
+- Part.001 
+here is the updated file.
+PL
+Jason has never heard of him, but is going to ask around.  I will keep you posted.
+PL
+I am not familiar with Wyatt Howell, but I have been away from Winston
+County for 35 years.  I have complete confidence in your recommedation.  I
+would like to get this over with as soon as possible, so please proceed with
+the attorney of your choice.
+Dianne Love
+Dianne
+I have not received any information from Jeff Mobley.   I have  called his
+office as recent as today.  The petition for removal is ready to sign but I
+have got to retain local counsel in Winston County for the purpose of filing
+as it will be cheaper than having me drive to Winston County.  Are you
+familiar with Wyatt Howell or his firm.  That is the firm I would like to
+associate.  Please let me know if this is acceptable to you.
+Tammy
+Just touching base to see where we are with Daddy's estate.
+no response.  I have prepared a petition to have your sister removed.  I
+will get it to you for your review prior to filing same.
+Just touching base to see if you heard from Jeff.
+Legally I cannot contact her since she is represented by an attorney.  I
+will follow up with Jeff.
+I can also provide you with my sister's contact info if you need it.
+I have heard nothing.  I have been out of town for about 12 days and have
+just returned today. I thought there might be a response from Jeff but none.
+I will follow up.
+Tammy,
+I'm just touching base to see if you have heard anything from Jeff.
+just think if he came to camp on time how many yards he might have.  I am a big Lester Hayes fan, I wish they still let them wear stick em!!!  I think he called it stick em and he just ran his hands through his hair.
+PL
+Raiders are my team too! I will be rooting for the Silver and Black.  Just
+win baby 
+Not bad for a guy who sat out all Spring.
+Jilly
+I am sorry, but that will be the only game the chargers play the rest of
+the year I will not route for them.  I am a die hard Raider fan(I am sure
+they are your least favorite team).  How about LaDanian?  He is ripping it
+up for me in fantasy.
+PL
+I was at the game yesterday. I will go to the Raider game in December.
+Jilly
+we definitely got a scare this weekend.  How bout those Bolts!!! Took
+down
+the Mighty Broncos.  Have you been to any games this year?
+PL
+That is good.. War Damn Eagle 
+- winmail.dat  
+FYI :
+When entering deals with Canada, please remember to have the counter parties in a financial deal to be ECC and Riskmantra and a physical deal it will be ENA to ECC.
+Also remember on gas daily out months(2 legs) that the book on the gas daily swap leg needs to be INTRA-CND-WE-GD not INTRA-CAND-WEST(this book is for basis piece).
+ALSO:
+Please remember to check your new deals completely every day, this will help eliminate future OA variances.  Do not rely on your trader to catch mistakes.
+Thanks.
+PL
+I am sorry, but that will be the only game the chargers play the rest of the year I will not route for them.  I am a die hard Raider fan(I am sure they are your least favorite team).  How about LaDanian?  He is ripping it up for me in fantasy.
+PL
+I was at the game yesterday. I will go to the Raider game in December.
+Jilly
+we definitely got a scare this weekend.  How bout those Bolts!!! Took down
+the Mighty Broncos.  Have you been to any games this year?
+PL
+That is good.. War Damn Eagle 
+- winmail.dat  
+Attached is the list of counterparties we need moved today.  The list has 140 counterparties on it.  Please let me know if you are not going to be able to move these today by 3:30.  Below is what we need done:
+1.  Only financial deals with these counterparties
+2.  Change the ENA book name from NG-Price to ENA-FT-WC-SJ
+3. commodity code should be NG
+4. cutoff date 1/1/02
+Please shout if you have any questions.  Thanks.
+PL
+we definitely got a scare this weekend.  How bout those Bolts!!! Took down the Mighty Broncos.  Have you been to any games this year?
+PL
+That is good.. War Damn Eagle 
+    - winmail.dat  
+Received: by saaltgate.saalt.army.mil with Internet Mail Service (5.5.2653.19)=09id  
+=09 =09 =09 =09> > > After the 1993 World Trade Center bombing, which killed six
+and injured
+=09> > > 1,000; President Clinton promised that those responsible would
+be
+=09>hunted
+=09> > > down and punished.
+=09 =09> > > After the 1995 bombing in Saudi Arabia, which killed five U.S.
+military
+=09> > > personnel; Clinton promised that those responsible would be
+hunted down
+=09> > > and punished.
+=09 =09> > > After the 1996 Khobar Towers bombing in Saudi Arabia, which
+killed 19
+=09>and
+=09> > > injured 200 U.S. military personnel; Clinton promised that
+those
+=09> > > responsible would be hunted down and punished.
+=09 =09> > > After the 1998 bombing of U.S. embassies in Africa, which
+killed 224
+=09>and
+=09> > > injured 5,000; Clinton promised that those responsible would
+be hunted
+=09> > > down and punished.
+=09 =09> > > After the 2000 bombing of the USS Cole, which killed 17 and
+injured 39
+=09> > > U.S. sailors; Clinton promised that those responsible would be
+hunted
+=09> > > down
+=09> > > and punished.
+=09 =09> > > Maybe if Clinton had kept his promise, an estimated 7,000
+people in New
+=09> > > York and Washington, D.C. who are now dead would be alive
+today.
+=09 =09> > > AN INTERESTING QUESTION:
+=09 =09> > > This question was raised on a Philly radio call-in show.
+Without casting
+=09> > > stones, it is a legitimate question:
+=09 =09> > > There are two men, both extremely wealthy. One develops
+relatively
+=09>cheap
+=09> > > software and gives billions of dollars to charity. The other
+sponsors
+=09> > > terrorism. That being the case, why is it that the Clinton
+=09>Administration
+=09> > > spent more money over the past eight years chasing down Bill
+Gates
+=09>rather
+=09> > > than Osama bin Laden?
+=09 =09 =09> > > MAKES NO SENSE!
+=09 =09> > > It is a strange turn of events. Hillary gets $8 Million for
+her
+=09> > > forthcoming memoirs. Bill gets about $12 Million for his
+memoirs yet to
+=09>be
+=09> > > written. This from two people who have spent the past 8 years
+being
+=09>unable
+=09> > > to recall anything about past events while under oath!
+=09> > > Incredible!
+=09 
+ > > After the 1993 World Trade Center bombing, which killed six and injured
+ > > 1,000; President Clinton promised that those responsible would be
+hunted
+ > > down and punished.
+ > > After the 1995 bombing in Saudi Arabia, which killed five U.S. military
+ > > personnel; Clinton promised that those responsible would be hunted down
+ > > and punished.
+ > > After the 1996 Khobar Towers bombing in Saudi Arabia, which killed 19
+and
+ > > injured 200 U.S. military personnel; Clinton promised that those
+ > > responsible would be hunted down and punished.
+ > > After the 1998 bombing of U.S. embassies in Africa, which killed 224
+and
+ > > injured 5,000; Clinton promised that those responsible would be hunted
+ > > down and punished.
+ > > After the 2000 bombing of the USS Cole, which killed 17 and injured 39
+ > > U.S. sailors; Clinton promised that those responsible would be hunted
+ > > down
+ > > and punished.
+ > > Maybe if Clinton had kept his promise, an estimated 7,000 people in New
+ > > York and Washington, D.C. who are now dead would be alive today.
+ > > AN INTERESTING QUESTION:
+ > > This question was raised on a Philly radio call-in show. Without casting
+ > > stones, it is a legitimate question:
+ > > There are two men, both extremely wealthy. One develops relatively
+cheap
+ > > software and gives billions of dollars to charity. The other sponsors
+ > > terrorism. That being the case, why is it that the Clinton
+Administration
+ > > spent more money over the past eight years chasing down Bill Gates
+rather
+ > > than Osama bin Laden?
+ > > MAKES NO SENSE!
+ > > It is a strange turn of events. Hillary gets $8 Million for her
+ > > forthcoming memoirs. Bill gets about $12 Million for his memoirs yet to
+be
+ > > written. This from two people who have spent the past 8 years being
+unable
+ > > to recall anything about past events while under oath!
+ > > Incredible!
+ > >=20
+This report just in on the wire 3 students at Louisiana Tech have been detained on possible immigration violations, their names:
+Bin Losin, Bin Cryin, Bin Whinin
+They were captured at a football game between La Tech and Auburn University
+Latest news reports advise that a cell of 7 terrorists has been operating in the Alabama area. Law enforcement officials advised earlier today that 6 of the 7 have been detained.
+The FBI stated that the terrorists bin Fishin, bin Huntin, bin Drinkin, bin Cussin, bin Fightin, and bin Dippin Skoal have been arrested on Immigration charges. 
+The FBI advised further that they can find no one fitting the description of the seventh cell member, bin Workin.
+Police are confident that anyone in Alabama who looks like he's bin Workin will be very easy to spot.
+I have a pre existing meeting on this day, I can attend the Monday session.
+PL
+_____________________
+Mike Clifford mike.clifford@ 
+ext. 36132 ___cell: 832.577.6453___
+Russ/George - has this new location been mapped to the same curves as the previous location - PGLC/NGPL?  From my standpoint, I think that is the only thing that needs to be done with the exception of changing/adding swaps on these deals.  Please let me know.  Thanks.
+PL
+We have moved november deals to the new location?? is that going to be a problem??  They were previously on PGLC/NGPL/909285 and they were moved to PGLC/NGPL/TTP.  These deals will need to be moved to the new trade zone of TTP.    Is there anything else we need  to do for Sitara?? and if so who do we need to contact?   THanks!!
+COra
+It is important to note that no deals can be moved to this new location until this location is mapped in Sitara,(mid, notional, and gas daily curves)
+otherwise any deals booked there will error out in CPR.
+Thanks
+GG
+FYI
+Ok i am getting with Patrice.  We were thinking that it would be November 1 but I think Patrice wants this set up ASAP
+I will get back with you as quickly as I know.  Thanks 
+Cora, 
+George Grant has set up the new Trade Zone, TTP, for Meter No. TTP, on PGLC.  He has told me there are 44 deals behind Meter No. 
+TTP with the Trade Zone of PGLC.  Please let me know when a good time to change the Trade Zone is.
+Thank you,
+Ryan Sheeren
+Enron Net Works
+Global Facilities
+ryan.sheeren@
+(713)853-5817
+Mr. Grant,
+Cora Pendergrass is  asking for a Trade Zone in PGLC to be created.  She also would like me to change the Trade Zone on meter 
+TTP to this new Trade Zone.  She has told me she has already changed the deals behind the meter to match the new Trade Zone 
+I will change the Trade Zone with your final approval.
+Trade Zone:	  PGLC TTP		Meter:	TTP		Pipecode:      PGLC
+Please let me know as soon as possible.
+Will you please take of this.
+Effective November 1, 2001 we need to set up a new trade  zone for PGLC.  The new zone should be called PGLC TTP.  The meter number TTP should be mapped to this new trade zone.  It is currently under NGPL.  We have moved deals for November 1, 2001 to this new point on ENA, EMW and ENV.  If you have any questions, please let me know.  Also we are trying to get to a point to upload this file for next month so when this is updated can you let me know?  Thanks for your help!!
+Cora
+3-9138
+attached is a file from the IT team for the tagg numbers that are in the Enovate books.  Please shout if you have any questions.  Thanks.
+PL
+Here is a list of the types of deals that always fail:
+GDD Dawns deals EOL#2054274
+Physical dawn deals fail - EOL will only let one trader map their deals to one physical book(don't think you can fix this one) EOL#2047749
+Mich basis swaps EOL #2054712
+This should be a comprehensive list.  Thanks.
+PL
+see this spreadsheet, you will see that previous months match.  This spreadsheet comes straight from our crude guys.  If the counterparty continues to disagree, get documentation from them and we can take it to the crude guys.  Thanks.
+PL
+Philip,
+The attached file contains settle prices for crude.  The NXAVC code price is in cell "D48" which I have highlighted in yellow.  There is also historical data in the file where you can verify prior months.  If you have any other questions please ask.
+Jean A. Cusick
+Special Events Coordinator
+Office of the Chancellor
+Louisiana State University
+156 Thomas Boyd Hall
+Baton Rouge, LA  70803
+(225) 578-7084
+(225) 578-5982 (fax)
+jcusic1@lsu.edu
+"vgbrooks 
+This was sent to me by a friend who also has a  senior at CHS.  It was put
+together by Jamie Wax and Paul Taranto and is  truly profound.   Please
+take the time to view it and make sure your  sound is on, the music makes
+it.
+Vicki
+Be sure to visit this  sight.  It is very well done.  Some of you know
+Jamie Wax  and  others will have heard the name Taranto because Darlene,
+who taught Hank and  Mamie and will, hopefully, teach Mak in 5th grade is
+Paul's wife.  Paul and  Jamie wrote the musical "Evangeline" (based on the
+Acadian story of Evangeline).   The music is from that play.
+Take Care
+Mary (Stella)
+I have seen several tributes -- but this one is really special.  New photos
+of the WTC
+disaster - such an unbelievable nightmare.  Take a few minutes to watch
+this.  It's worth it.
+-- Jarja
+A  guy in Baton Rouge -- Mason Wood -- put together this incredible
+montage of the images from 9/11/01 that is incredibly poignant and well
+presented.  You've got to see it to appreciate it.  It is set to music
+written by Jamie Wax and Paul Taranto from the musical "Evangeline".
+They didn't realize what a profoundly appropriate backdrop it
+would make to express a country's sentiments.  Put it on and turn it
+up!  Then send this on.  I did.
+Go to:  www.masonwood.net/sept112001.html
+unfortunately I will be on vacation.  Thanks for the offer.
+PL
+Can you guys play in this golf tournament for Sally on the date below.  Let me know ASAP.
+Thanks
+Can you please provide info to Sally.
+thanks
+bob
+RE:  Golf Tournament at Ravenaux Country Club, Monday, November 19th 
+11:00 am Registration and Range Balls; 12:00 Noon Shotgun Start
+Please send me the list players for each foursome, along with their handicaps and phone numbers by Friday this week?   Thanks 
+Will provide more information for all players prior to tournament. 
+Foursomes
+Beth Apollo (2):  EES and Global Services
+Brent Price (1)
+Kevin Sweeney (1)
+Bob Hall (2):  Risk and Logistics 
+Chantelle:  Brent has given me names of players for his foursome - Brent, Scott Earnest; John Swinney and Frank Prejean.  Can you get handicaps and phone numbers (Enron) for me?  Thanks 
+All indications are that we will be here.  I have not heard anything new to the contrary.  If you need to take it off, take it as vacation for now.
+PL
+in case i forget to ask...when will we find out, for certain, if we have to work on the Fri after Thanksgiving...my family is trying to make some plans and the plans depend on whether or not i'll be here 
+Edward C. Brady
+Enron Net Works
+Risk Management
+713.853.5209
+1.800.97ENRON ext.35209
+Her name is Sladana Kulic.  SHe goes by Anna.  Thanks for your help.  She is really excited about talking to you and I will bring her by and introduce her.  Thanks again.
+PL
+What is the name of the individual we discussed yesterday?  Origination is creating an "origination track" similar to trading and she sounds like a great candidate.
+Thanx,
+Laura
+Dude - you are freakin riot. I almost fell out of my chair with that one.  You know what else does....crawfish pie
+So does  "EAT @ LAREDOS" That is funny
+Don't know if you've seen it or not, but read all the way to the end.
+(I don't know who Dave is)
+Ya know.......some people look for things like this...and it amazes me.
+At
+first I rolled my eyes....then I read Dave's response and I couldn't
+have
+said it better if I had all day to do it.

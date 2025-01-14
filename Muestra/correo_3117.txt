@@ -1,0 +1,1295 @@
+John Enders 
+BLOOMBERG
+Sean - just entered 592703
+AMEREX
+Chris - already in - 592680
+Evelyn Metoyer@
+04/25/2001 02:18 PM
+BLOOMBERG
+Sean Crandall
+I am missing:
+Enron sells to Allegheny Energy 25mw June SP heavy at $304
+PREBON
+all o.k. thus far
+AMEREX
+I am missing 1 for Chris Mallory:
+Enron sells to EES June SP light 25 mw at $155
+Jeff's deal is in correctly - 592700
+Mark's was in with Pinnacle - it's been changed - 592705
+Evelyn Metoyer@
+04/25/2001 02:29 PM
+O.K. Bloomberg just emailed me two more deals:
+Jeff Richter sell to Reliant 25mw 4/27-4/30 SP15 at $295
+Mark Fischer sells to APS 25mw 4/27-4/30  SP15 at $294
+Kate Symes @ ECT                04/25/2001 04:17 PM
+BLOOMBERG
+Sean - just entered 592703
+AMEREX
+Chris - already in - 592680
+Evelyn Metoyer@
+04/25/2001 02:18 PM
+BLOOMBERG
+Sean Crandall
+I am missing:
+Enron sells to Allegheny Energy 25mw June SP heavy at $304
+PREBON
+all o.k. thus far
+AMEREX
+I am missing 1 for Chris Mallory:
+Enron sells to EES June SP light 25 mw at $155
+Tom does not have record of this deal at all. And I checked with the 
+schedulers - they don't have it down either. Is APB sure this was with El 
+Paso - we have similar deals from the Short Term Northwest desk with other 
+counterparties. Let me know.
+Kate
+Kerri Thompson@
+11/20/2000 02:59 PM
+missing deal for tom
+sell el paso
+21-22
+255.00
+25 mw
+mid c
+on peak
+After a little more digging, I've found that the deal NYMEX was referring to 
+is the same one we dealt with a month ago. I spoke with Tracy Green, one of 
+our contacts at Avista, and she had been dealing with the same issue all day. 
+Apparently, when Avista first incorrectly reported that we hadn't made a 
+payment, it set off a domino effect of doubts that seems to still be falling. 
+So NYMEX called EDF Mann, our futures clearing broker, today to assure that 
+payment would be made today.
+Tracy had been speaking with her broker at ABN-AMRO; I had been speaking with 
+ours at Mann; and NYMEX had been communicating through both of these entities 
+to us. I've left a message with John Croddock at NYMEX to discuss this 
+directly with him. His number, if you'd like it for your own purposes, is 
+(212) 299-2146.
+Other contacts are Tracy Green, Avista, at (509) 495-8535, and Gary (?), ABN, 
+at (212) 859-1212.
+As far as Avista, ABN, ED&F Mann, and EPMI are considered, the March Palo 
+Verde futures contract has been paid, and paid on time. I'd like to speak 
+with John at NYMEX to tie up any possible loose ends on this. Please let me 
+know if you have any questions or suggestions.
+Thanks for your help,
+Kate
+You're welcome for my attention to this matter.
+At approximately 6:30 pm on 4/25 Ruth Ashe with PGE notified Enron that there 
+will be a voice mail outage starting the evening of 4/25 and running thru 2pm 
+on 4/26.  If you have any questions or concerns please contact her at 
+503-464-8663 or 503-323-1254.  Thank you for your attention to this matter 
+This deal is a placeholder for our futures position that rolled off 
+yesterday. We're awaiting our counterparty match-ups, which I asked Jason 
+Fischer about yesterday. He said the broker wouldn't have those until today. 
+I'll let you know once we've changed the deal accordingly.
+Thanks,
+Kate
+There is a deal titled NEW COUNTERPARTY.  Do you know what the name is 
+supposed to be?
+Thanks!
+592751
+Yes - I finally reached someone at Avista who had been working on the problem 
+as well. She filled me in on a few things, and I straightened out the story 
+with our broker. It turned out to be Avista's fault - they failed to report 
+to their broker that we paid them for a futures contract, and that triggered 
+a domino effect of payment inquiries. We did pay, and the record shows that.
+Thanks for following up!
+Kate
+I did call you back yesterday on the Avista thing, but you were in a 
+meeting.  Did you ever find the deal or get an answer?
+Thought you guys might like to know that our voice mail system is down until 
+later this afternoon. Also, I'm filling in for one of the California 
+Schedulers who'll be out of the office for an indefinite period. Please reach 
+me on this extension until further notice (yours and mine 
+(503) 464-3827
+Or, if it's an emergency and you can't seem to make it out of the tangled web 
+of receptionists and other phone-answerers, call my cell phone at (503) 
+819-2181. And of course, there's always e-mail.
+I apologize for the confusion and for any inconvenience this may cause. 
+Thanks for bearing with us!
+Kate
+At approximately 6:30 pm on 4/25 Ruth Ashe with PGE notified Enron that there 
+will be a voice mail outage starting the evening of 4/25 and running thru 2pm 
+on 4/26.  If you have any questions or concerns please contact her at 
+503-464-8663 or 503-323-1254.  Thank you for your attention to this matter 
+Thanks so much for getting back to me on this! I actually found the deal 
+number (after suffering a small heart attack) and the signed confirmation in 
+Livelink. It ended up being an Avista error that circled back to us. It's 
+cleared up with all involved parties now, but it was a little scary for a 
+minute there. Anyway, no need to do anything more, but thanks again for your 
+response - and I hope you feel better soon.
+Kate
+Kimberly Hundl@
+04/26/2001 12:02 PM
+Hi Kate!
+I got your voice mail this morning (I was out sick yesterday).  I did a 
+search based on the info you left in your vmail and got deal #531742.  Is 
+this the deal you were looking for?  If so, this confirmation letter has been 
+executed by Avista Energy, Inc.  Would you like a faxed copy of this confirm?
+Here's the latest info. regarding Bloomberg's ability to accept deals with 
+Pinnacle West (formerly Arizona Public Service Co.). From now on, we'll enter 
+ALL deals with Pinnacle, despite Bloomberg's slow response to the 
+counterparty name change. If you never knew that Bloomberg wasn't accepting 
+confirms with the name Pinnacle on them, then disregard this message and 
+continue as you were.
+Thanks,
+Kate
+Evelyn Metoyer@
+04/26/2001 12:03 PM
+Rhonda Denton has just informed me that all deals according to Michele 
+Chalmers with Pinnacle West  should be traded with the counterparty as 
+Pinnacle West not Arizona Public Service.  No deals should be under Arizona 
+Public just because Bloomberg is having problems or what ever re-doing the 
+contract 
+From this day forward please tell all our guys to please choose Pinnacle West 
+not Arizona regardless of what Bloomberg says.  If they have any questions 
+please have them contact Rhonda Denton at 853-5871 or Michele 
+Chalmers(Pinnacle West) at 602-250-3824.
+Thanks!
+Evelyn
+He's right - I've changed it to flow M-S only (on peak hours). Thanks for 
+catching that!
+Kate
+Melissa Ann Murphy
+04/26/2001 12:20 PM
+Hello, I received a phone call from Ron at Harbor Cogeneration.  He does not 
+think deal # 592748 flows on Sunday.
+Let me know what you find out.
+Thanks!
+Melissa
+Both deals were just entered - you should see them come through now.
+Thanks,
+Kate
+Evelyn Metoyer@
+04/26/2001 02:10 PM
+Bloomberg
+ALL O.K
+PREBON
+Bob Badeer:
+I am missing:
+Enron buys BP Q4'01 Sp at $168
+Jeff Richter:
+I am missing :
+Enron sells to Reliant for 4/30 SP-15 at $320
+AMEREX WEST
+ALL OK
+I actually just changed that one, per Mike Swerzbin.
+Thanks,
+Kate
+Kerri Thompson@
+04/26/2001 02:34 PM
+593949
+broker has duke as the cp
+This document accompanies two e-mails I forwarded from Carla - the last EOL 
+Deal Summaries completed for the months of August, September, and October 
+2000. I hope these are what you're looking for.
+Kate
+Broker is correct - I've changed these deals to May.
+Kerri Thompson@
+04/26/2001 02:48 PM
+594290
+594291
+broker has may on these deals.  these were the ones i was missing on the 
+previous email.
+thanks
+I've left a message for Stewart Rosman, the mid-marketer who did this deal, 
+to find out whether or not he wants this confirmed. Diana Scholtes said she 
+thought he did, in which case I need to determine with him what kind of deal 
+this should be, and we'd need to confirm the first leg. I'll let you know as 
+soon as I hear back from him.
+Thanks,
+Kate
+There is a leg 2 for this deal that has come up on the list to be confirmed We did not confirm leg 1 of this deal and I don't think we confirm 
+buy/resales as they are like transmission.  Could check into this and let me 
+know.
+Thanks!
+I've changed both of these. Thanks a lot for the info - you know, I went 
+through all of this before, even to the point of looking up the contract with 
+Christian Yoder - but the traders need it beaten into their heads! I'll 
+remind them, and we'll see what happens 
+Kate
+Rhonda L Denton
+04/26/2001 03:36 PM
+the CP name is "The City of Oakland, a municipal corporation acting .... blah 
+blah blah
+593969 and 593970
+These two deals are in as the wrong counterparty.  I am asking Rhonda to 
+inactivate this name so he won't keep using it.  I think it is a real long, 
+involved name starting with "the" rather than city of Oakland.  Go figure how 
+someone alphabetizes!  Can you check into this.
+Thanks!
+Just to keep you up to date on this -
+I was told to call Larry Joe Hunter today for our counterparty matchups on 
+the May futures contracts. I left him two messages, but never got a call 
+back. I wonder if he's out of the office? Anyway, I'll definitely get a hold 
+of someone tomorrow - if I can't I'll just go straight to the broker - and 
+we'll get this deal out of the New CTPY status.
+Thanks,
+Kate
+There is a deal titled NEW COUNTERPARTY.  Do you know what the name is 
+supposed to be?
+Thanks!
+592751
+We have a match-up - and it's Powerex. The deal has been changed.
+Kate
+There is a deal titled NEW COUNTERPARTY.  Do you know what the name is 
+supposed to be?
+Thanks!
+592751
+No problem! That's very sweet of you to thank me, though. It was my pleasure.
+Kate
+Emily Butler
+04/26/2001 04:11 PM
+Dear Kate,
+Thank you for allowing me the opportunity to job shadow with you in Deal 
+Control.  I loved your metaphor for the wheels of the clock and how all the 
+cogs in the wheels need to match up.  I also enjoyed seeing how "scraps" are 
+used and that there is trading between desks within Enron.  You do such a 
+great job at being in the moment and keeping your cool when new tasks come 
+your way throughout the day.  Your time and patience in answering my 
+questions and helping me understand how it all fits together is much 
+appreciated.
+With gratitude,
+Emily 
+This server has encountered an internal error which prevents it from 
+fulfilling your request. The most likely cause is a misconfiguration. Please 
+ask the administrator to look for messages in the server's error log.
+592053 - unit name is Las Vegas Cogeneration
+592055 - unit name is Grays Harbor
+I've added these in the comments section of the deals.
+Thanks,
+Kate
+Kimberly Hundl@
+04/27/2001 07:32 AM
+Hi Kate,
+I need the unit names for these two unit contingent deals so i can confirm 
+them.
+Thanks!
+Kim
+595043 - CHANGED TO WILLIAMS/ADDED 15.00 FLAT BROKER FEE
+595042 - CHANGED TO TUSCON
+Other deals are just being entered now.
+Evelyn Metoyer@
+04/27/2001 12:37 PM
+BLOOMBERG
+Mark Fischer
+deal 595043
+Should the cp be Williams because Bloomberg shows a deal identical to this 
+however, the cp is Williams and we do not have a deal for Williams like this 
+deal.
+PREBON WEST
+I am missing
+Mike Swerzbin:
+Buys Duke Q2'02 SP-15 at $102 peak hrs
+Tom Alons:
+buys Aquila May Palo Verde  at $315
+AMEREX WEST
+I am missing:
+MIke Swerzbin:
+1) Enron buys BP 25mw June Palo at $415
+2) Enron buys Duke 25 mw Q4'02 COB $105
+595511 - buy Idaho, May, Mid-C, 330
+And on the Bloomberg confirms re: Mid-C - I'm pulling up the contract through 
+Livelink, because Sean wants to make sure the language does not allow for 
+curtailment at Mid-C if another unit in the path goes down. He says our Mid-C 
+is unrestricted anyway, so we shouldn't need another name in Enpower. Is this 
+the first time you've seen this delivery point name in a confirmation? Hold 
+off on this confirm for just a minute while I go over this with Sean.
+Thanks,
+Kate
+Evelyn Metoyer@
+04/27/2001 01:45 PM
+Bloomberg
+Mike Swerzbin
+I am missing
+Buy from Idaho May Mid-C  peak 25mw at $330.00
+Also, Bloomberg sent over some confirmations for deal 595472 and 595473 and 
+the location is for unrestricted Mid-C.  Should we have this deal in enpower 
+as unrestricted Mid-C because if so it's not a selection currently.   Just 
+wondering!!
+I was alerted this morning to the urgency with which certain people in the 
+Portland office need this information; so I think it might help if they were 
+added to the e-mail list for name change/merger notifications. Following is 
+the list of Portland West Desk employees to add:
+Kate Symes
+Carla Hoffman
+Jeff Richter
+Chris Mallory
+Phillip Platter
+Jeremy Morris
+Thank you so much for your help.
+Kate
+Monica Lande
+11/20/2000 02:25 PM
+Cheryl Johnson@
+11/20/2000 02:29 PM
+Attached is the Preliminary Name Change/Merger notification report for Nov. 
+2000.  The final list with any additions will go out on Wed, Nov 22 
+Name overlays will be done today, Mon, Nov. 20, right after notification is 
+given, and shortname changes will be done on Wed, Nov. 22. 
+Records on this report will be inactivated on Fri.,  Dec. 1.
+HAPPY THANKSGIVING!
+Cheryl x3-3103
+Sean just looked these confirms over, and skimmed our contract with Aquila, 
+and he said the language is fine as it is. I guess Unrestricted Mid-C is just 
+a reiteration of Mid-C. If this causes a problem with your confirm process, 
+though, I would have Bloomberg change it. It doesn't seem like we should have 
+to go to the trouble of adding another, redundant delivery point name in our 
+system just because that's what they call it. I know that sounds mean - but 
+I'm so slammed today I can't help it!
+Thanks for your help,
+Kate
+Evelyn Metoyer@
+04/27/2001 02:05 PM
+Yes this is the first time I've seen unrestricted Mid-C on any of their 
+confirmations.  Normally they have into Mid-C on the confirmations which I 
+know should be Mid-C excluding the into part.  Anyway, I will wait to clear 
+this two deals.  Keep me informed.
+Below is the two confirms they sent me.
+Kate Symes @ ECT                04/27/2001 03:50 PM
+595511 - buy Idaho, May, Mid-C, 330
+And on the Bloomberg confirms re: Mid-C - I'm pulling up the contract through 
+Livelink, because Sean wants to make sure the language does not allow for 
+curtailment at Mid-C if another unit in the path goes down. He says our Mid-C 
+is unrestricted anyway, so we shouldn't need another name in Enpower. Is this 
+the first time you've seen this delivery point name in a confirmation? Hold 
+off on this confirm for just a minute while I go over this with Sean.
+Thanks,
+Kate
+Evelyn Metoyer@
+04/27/2001 01:45 PM
+Bloomberg
+Mike Swerzbin
+I am missing
+Buy from Idaho May Mid-C  peak 25mw at $330.00
+Also, Bloomberg sent over some confirmations for deal 595472 and 595473 and 
+the location is for unrestricted Mid-C.  Should we have this deal in enpower 
+as unrestricted Mid-C because if so it's not a selection currently.   Just 
+wondering!!
+Sure - anytime. I usually do lunch around 11:30 - so I can get back in time 
+to weather the afternoon storm! Let me know what works for you.
+Kate
+P.S. I hope you had a great birthday party on Saturday! I wanted to make it, 
+but ended up on a terribly boring date instead. Go figure.
+Emily Butler
+04/27/2001 10:44 AM
+Hey Kate-
+I'd be interested in talking to you more about Deal Control.  Let me know if 
+you want to grab a coffee or lunch sometime soon.
+Thanks!
+Em
+Kate Symes                04/26/2001 04:12 PM
+No problem! That's very sweet of you to thank me, though. It was my pleasure.
+Kate
+Emily Butler
+04/26/2001 04:11 PM
+Dear Kate,
+Thank you for allowing me the opportunity to job shadow with you in Deal 
+Control.  I loved your metaphor for the wheels of the clock and how all the 
+cogs in the wheels need to match up.  I also enjoyed seeing how "scraps" are 
+used and that there is trading between desks within Enron.  You do such a 
+great job at being in the moment and keeping your cool when new tasks come 
+your way throughout the day.  Your time and patience in answering my 
+questions and helping me understand how it all fits together is much 
+appreciated.
+With gratitude,
+Emily 
+Did Chris Foster ever get back to you on this? I had asked him to let you 
+know when he found out, but I wanted to make sure the information actually 
+got passed along. Let me know when you get a moment.
+Thanks,
+Kate
+Rhonda L Denton
+04/20/2001 06:16 AM
+FYI.  Please let us know if we will be receiving broker paper in Houston or 
+will it come to Portland?
+Jason Moore
+04/20/2001 08:10 AM
+The counterparty has been linked to the Power Broker - Houston Group.
+Jason Moore
+Rhonda L Denton
+04/19/2001 04:16 PM
+Please link this CP to Enpower with group link of Power Broker-Houston Please let me know when completed.  Thanks.
+P.S. I mentioned this to you, Melissa. But just a reminder that we need the 
+default broker fee on this to be $.03.
+Thank you!
+Chris Foster has requested that we set up a new broker - the Automated Power 
+Exchange, in EnPower. It is the same counterparty we already have in EnPower, 
+with the same name and contact information. Melissa, I believe you said we 
+could pretty easily add the name in the broker list if it was the same as in 
+the counterparty list, which Chris has verified it is. Please let me know if 
+you need anymore information.
+Thanks,
+Kate
+At long last, I've sorted through these deals and determined the source of 
+most of these problems. I'll be calling you both shortly to go over these and 
+make sure we all see the same thing. Here are a few things to note as you go 
+over my responses:
+566426 - rates have been changed/has this shown up on your CARP report yet?
+578856 - deal done by Real Time trader at hour-ahead market price/will not 
+correspond directly to the price shown in my spreadsheet
+573862 - rate for this deal should not be $107 OR $168.45/it is an off peak 
+sale from EPMI to EES, which means we go by the off peak short position price 
+- shown in my sheet as $119.76
+The newest deals in this variance list are Real Time. I've double-checked the 
+deals in EnPower with what I see in the Real Time spreadsheets, and 
+everything seems to match up. I'm attaching those sheets so we can ensure 
+we're all looking at the same thing. If you have further discrepancies on 
+these, the easiest way for me to clear them up would be if you include the 
+specific hours you have questions about.
+I'm terribly sorry for the delay in getting back to you on this - it's a 
+twisted and time-consuming journey trying to find the source of these 
+problems, as I'm sure you know! I hope this gets us up to speed, but please 
+call me with questions or comments.
+Thanks,
+Kate
+503-464-3827
+REAL TIME SHEETS  YOUR SHEET     MY SHEET  
+Mark Confer
+04/23/2001 05:35 AM
+Kate/Brooklyn I looked over the latest file and attached my comments and what 
+I see in the Carp as of yesterday.
+Thanks
+Thanks for the update, Kimberly. This looks great. I'll forward it on to the 
+traders and keep it at my desk for reference.
+Kate
+Kimberly Hundl@
+04/30/2001 11:06 AM
+Attached is an updated copy of this document (in case you are printing it out 
+and keeping it for your reference.)
+Thanks!
+Kim H.
+This is approved and auto-scheduled.
+Kate
+Lester Rawson
+04/29/2001 03:14 PM
+Kate, 
+Please approve and autoschedule.
+Annuity 595779 on 1/31/2001. This is a profit transfer from the STSW book to 
+the Services book. 
+Les
+Mike's in a meeting right now, but I'll check with him when he gets out. I 
+don't see this trade anywhere in his trade log. 
+Kate
+Stephanie Piwetz   04/30/2001 12:26 PM
+Kate, verballed trade with Powerex, they show trade date as 4/26 as opposed 
+to our 4/25.  Please check with Mike.  Thanks
+I just entered an index deal for one of our traders, and came across 
+something I hadn't noticed before. In EnPower, we have several choices for 
+the Dow Jones Mid-Columbia index, but none called specifically "Mid-C Firm 
+Peak." We have non-firm peak, and something called "Mid-Columbia Index 
+I'm just wondering how to specify that I want the deal to settle against the 
+Dow Jones Mid-C PEAK index. In this case, because I was entering a 
+round-the-clock (all hours, all days) deal, I had to enter three different 
+deals to specify the three different indices - Mid-C Peak, Mid-C Off Peak, 
+and Mid-C Sundays and Holidays. But I don't see a Mid-C Peak choice, so I 
+entered the first as Mid-C Index.
+Deal numbers are:
+597244 - Peak
+597245 - Off Peak
+597246 - Sundays/Holidays
+I just wanted to ask because when you guys plug the index prices in here I 
+want to make sure that "Mid-C Index" gets the peak price. Could you let me 
+know if it doesn't? And if that's the case, then I'll need to have another 
+pub code set up for peak price.
+Thanks for your help on this. Please let me know if you have any questions.
+Thanks,
+Kate
+503-464-7486
+596370 - changed to Reliant
+Evelyn Metoyer@
+04/30/2001 02:35 PM
+BLOOMBERG
+aLL O.K.
+PREBON WEST
+Chris Mallory
+deal 596370
+Prebon shows cp as Reliant
+AMEREX WEST
+all deals o.k.
+596368 - changed to powerex
+Kerri Thompson@
+04/30/2001 02:15 PM
+596368
+broker has powerex
+Monica Lande
+11/20/2000 02:25 PM
+Cheryl Johnson@
+11/20/2000 02:29 PM
+Attached is the Preliminary Name Change/Merger notification report for Nov. 
+2000.  The final list with any additions will go out on Wed, Nov 22 
+Name overlays will be done today, Mon, Nov. 20, right after notification is 
+given, and shortname changes will be done on Wed, Nov. 22. 
+Records on this report will be inactivated on Fri.,  Dec. 1.
+HAPPY THANKSGIVING!
+Cheryl x3-3103
+Chris -
+Would you mind e-mailing Evelyn your contact information at the APX? And I 
+can't recall whether or not we wanted to confirm these trades. Let me know 
+when you get a chance, and I'll take care of it with the Confirms group.
+Thanks,
+Kate
+Evelyn Metoyer@
+04/30/2001 03:01 PM
+Kate, have we started using this brokerage firm yet.  If so, do you have any 
+phone numbers to contact them?  Also, do you know how we are going to confirm 
+their trades?
+Thanks
+The contact for Fresno Cogen is Ken Salvagno - phone number is 916-447-5171.
+Thanks,
+Kate
+Rhonda L Denton
+04/30/2001 03:05 PM
+New CP under 595518 is being set up tomorrow.  Can you please provide me with 
+a phone number so GCP can confirm their information?  Please copy Bernice 
+also.
+Amy - This is a copy of the job description you sent out to the floor when I 
+took the Deal Control position. I've modified it slightly to reflect some of 
+my own observations of the position.
+There is a position available in Deal Control, reporting to Jeff Richter and 
+the Short Term California desk. If you're interested in applying, please 
+contact Amy FitzPatrick by (INSERT DATE HERE).
+Following is a summary of the responsibilities associated with this position:
+To facilitate the entry of West Power deals, including short term and long 
+term desks and the services desk, into the trading systems.
+Follow-up with Deal Clearing Settlements groups in Houston to verify accuracy 
+of trades in the system.  This includes timely follow-up with the traders for 
+clarification. 
+Ensure that all trades are entered by a daily deadline.
+Calculate and report weighted averages of daily price and volume to Dow Jones.
+Prepare and distribute daily reports to ensure all books are balanced and 
+report discrepancies to management.
+Track and report daily and monthly error discrepancies to management and 
+deliver reports for possible solutions to rectify errors.
+Calculate weighted averages between brokered trades and trades executed 
+through Enron OnLine and the Intercontinental Exchange.
+Report any technical mishaps to appropriate personnel in Houston and track 
+computer problems until demonstrated resolutions.
+Test any updated versions of applications requested by programmers and report 
+back any adjustments needed.
+The most important attributes one must possess to succeed in this position 
+are persistance and a positive attitude. Working knowledge of Microsoft Excel 
+is essential, as is a general software aptitude.
+How does that sound? Let me know if you need more.
+Thanks,
+Kate
+That's strange - I entered these deals for Matt yesterday, and specifically 
+typed 2 p.m. into the expiry date. Somehow it changed over, but I've changed 
+it back and re-saved it - so it should read 2 PM.
+Thanks for catching that,
+Kate
+Stephanie Piwetz   05/01/2001 07:48 AM
+Kate, can you please ask Matt about expiry time, the deal strip says 2:00 AM 
+it should be 2:00 PM on both.  thanks
+Outlook Migration Team@
+04/30/2001 09:02 PM
+Current Notes User: 
+To ensure that you experience a successful migration from Notes to Outlook, 
+it is necessary to gather individual user information prior to your date of 
+migration.  Please take a few minutes to completely fill out the following 
+survey.  When you finish, simply click on the 'Reply' button then hit 'Send Your survey will automatically be sent to the Outlook 2000 Migration Mailbox.
+Thank you.
+Outlook 2000 Migration Team
+Full Name:        Mary Katherine (Kate) Symes
+Login ID:  marykate
+Extension:  7486
+Office Location:  121 SW Salmon St., 3WTC0306, Portland, OR 
+What type of computer do you have?  (Desktop,  Laptop,  Both)  Desktop
+Do you have a PDA?  If yes, what type do you have:   (None, IPAQ, Palm Pilot, 
+Jornada)  None
+Do you have permission to access anyone's Email/Calendar?  NO
+If yes, who 
+Does anyone have permission to access your Email/Calendar?  NO
+If yes, who 
+Are you responsible for updating anyone else's address book?  NO
+If yes, who 
+Is anyone else responsible for updating your address book?  NO
+If yes, who 
+Do you have access to a shared calendar?  NO
+If yes, which shared calendar 
+Do you have any Distribution Groups that Messaging maintains for you (for 
+mass mailings)?  YES
+If yes, please list here:  EES, Confirms, Traders, EES Power Settlements, 
+Portland Shift
+Please list all Notes databases applications that you currently use:  ??? (I 
+rely on Lotus Notes for almost all of my correspondence and documentation 
+with other Enron groups, but I'm unclear on what "databases applications" 
+means. I use Notes to send, receive, and store e-mails - that's it.)
+In our efforts to plan the exact date/time of your migration, we also will 
+need to know:
+Will you be out of the office in the near future for vacation, leave, etc? NO
+If so, when?        From (MM/DD/YY):      To (MM/DD/YY 
+In   to the e-mail you just sent - this is the most recent information 
+I sent you and Brooklyn. Is this what you were missing?
+Also, in response to your question about deal 595155 - where we show a buy 
+from EES but Brooklyn doesn't show a sale on her side - this deal is shown in 
+EnPower as well as my sheet. If you looked in the fixed price column of the 
+sheet for 4/28, under SP-15, you'll see a sale for 10 MW hours 6 through 22. 
+I'm not sure what it is, but somewhere there's a missing link between us and 
+EES, because on my side this deal looks perfectly normal.
+I'll also be sending along some revised Real Time sheets per my conversation 
+with Brooklyn yesterday - you should receive those shortly. In the meantime, 
+look over my sheet and let me know if you see the deal in question on the 
+28th.
+Thanks,
+Kate
+At long last, I've sorted through these deals and determined the source of 
+most of these problems. I'll be calling you both shortly to go over these and 
+make sure we all see the same thing. Here are a few things to note as you go 
+over my responses:
+566426 - rates have been changed/has this shown up on your CARP report yet?
+578856 - deal done by Real Time trader at hour-ahead market price/will not 
+correspond directly to the price shown in my spreadsheet
+573862 - rate for this deal should not be $107 OR $168.45/it is an off peak 
+sale from EPMI to EES, which means we go by the off peak short position price 
+- shown in my sheet as $119.76
+The newest deals in this variance list are Real Time. I've double-checked the 
+deals in EnPower with what I see in the Real Time spreadsheets, and 
+everything seems to match up. I'm attaching those sheets so we can ensure 
+we're all looking at the same thing. If you have further discrepancies on 
+these, the easiest way for me to clear them up would be if you include the 
+specific hours you have questions about.
+I'm terribly sorry for the delay in getting back to you on this - it's a 
+twisted and time-consuming journey trying to find the source of these 
+problems, as I'm sure you know! I hope this gets us up to speed, but please 
+call me with questions or comments.
+Thanks,
+Kate
+503-464-3827
+REAL TIME SHEETS  YOUR SHEET     MY SHEET  
+Mark Confer
+04/23/2001 05:35 AM
+Kate/Brooklyn I looked over the latest file and attached my comments and what 
+I see in the Carp as of yesterday.
+Thanks
+Les -
+Here's the latest list of unit contingent deals in need of unit names. I've 
+tried referring to your unit name list and entering them myself, but it looks 
+like some delivery points correspond to more than one unit. I.E. Navajo can 
+originate from LV Cogen OR Saguaro Power. If you could add these unit names 
+into the deals, or let me know what they are so I can enter them, it would be 
+much appreciated.
+Thanks,
+Kate
+Kimberly Hundl@
+05/01/2001 07:19 AM
+Mornin' Sunshine I need unit names for all of the following deals please:
+593484
+593486
+594911
+594915
+595073
+597061
+597063
+597065
+598151
+598153
+Thanks!
+Kim
+Amy I'd be very interested in participating in the Applied Energy Derivatives 
+class. Please let me know if there is still room, and if there's anything 
+else I need to do to sign up.
+Thanks,
+Kate
+Amy FitzPatrick
+04/30/2001 11:22 AM
+We will be offering Derivatives I training on-site.  If you are interested in 
+attending, please let Amy FitzPatrick know no later than May 21st.
+Derivatives I - Applied Energy Derivatives
+Presented by Paradigm Strategy Group
+Date:    Monday, June 4th and Tuesday, June 5th
+Time:  8:00 am to 5:00 pm
+This course is appropriate for all employees wishing to obtain a practical 
+understanding of the basic natural gas and power derivative structures that 
+are traded and marketed today.  An emphasis is placed on understanding how 
+financial tools are added to physical structures to meet the risk management 
+needs of clients.
+Participants attending this seminar will be able to:
+Formulate customer hedge strategies based on a solid understanding of risk; 
+its impact on capital structures and approaches to its mitigation.
+Develop and interpret forward prices in the context of arbitration 
+disciplines, as well as understand the divergences from these disciplines 
+that are characteristic of energy prices.
+Identify marketing opportunities through an understanding of both the forward 
+curve and the distortions created by the physical system of production and 
+transportation.
+Assemble the pricing of a transaction from a benchmark price curve.
+Devise cost-reducing deal structures for gas storage from an understanding of 
+price curves and their components.
+Exploit differences in locational pricing with insights into the relationship 
+between basis and transportation/transmission.
+Structure a natural gas and power swap to hedge a company's risk position, 
+explaining its risks and benefits as a risk management tool.
+Price a swap from the price curve and customize the structure to meet various 
+customer needs including earnings, cash flow and embedded financing. 
+Apply basis swaps to either mitigate locational risk or to achieve a more 
+favorable risk/reward position by altering the index location.
+Attain a fluency in language concepts and hedging application of options.
+Package strips of options to create caps, floors and zero-premium collars.
+Create structures that provide energy users with sub-index pricing using 
+embedded options.
+Recognize options embedded in common supply contracts and their pricing 
+implications, including swing, double-ups and index contracts with maximum 
+prices, etc.
+Anytime! I try to at least PRETEND to the traders that we have civilized 
+correspondence. Little do they know 
+Kate
+Kimberly Hundl@
+05/01/2001 11:09 AM
+thanks for deleting that "smacking around" part chica!
+Kate Symes @ ECT                05/01/2001 12:44 PM
+Les -
+Here's the latest list of unit contingent deals in need of unit names. I've 
+tried referring to your unit name list and entering them myself, but it looks 
+like some delivery points correspond to more than one unit. I.E. Navajo can 
+originate from LV Cogen OR Saguaro Power. If you could add these unit names 
+into the deals, or let me know what they are so I can enter them, it would be 
+much appreciated.
+Thanks,
+Kate
+Kimberly Hundl@
+05/01/2001 07:19 AM
+Mornin' Sunshine I need unit names for all of the following deals please:
+593484
+593486
+594911
+594915
+595073
+597061
+597063
+597065
+598151
+598153
+Thanks!
+Kim
+I'm not sure what's going on with these options, but I entered them as 2 PM 
+expiry, then got a message that they were 2 AM from Stephanie Piwetz this 
+morning, changed them AGAIN, and now they're back to 2 AM. I've changed them 
+again, but I honestly have no idea why they keep going back. Please let me 
+know if you see the expiry as 2 PM now.
+Thanks,
+Kate
+Evelyn Metoyer@
+05/01/2001 12:02 PM
+deal 597086
+can you please ch the time to 2:00 p.m. not 2:00 a.m. for the exercise time.
+Thanks
+Elena, with Imax Town Cars, will pick you up today at 1:40 p.m. You now have 
+a reservation with National Car Rental in Houston from today until Saturday 
+morning. Your reservation number is 808752919. You can either check in at the 
+National desk next to baggage claim and then catch the shuttle to the parking 
+lot, or you can catch the shuttle first and fill out paperwork once you get 
+out there. Have a great time in Houston.
+Bob has fixed this to reflect off peak hours.
+Kerri Thompson@
+11/21/2000 01:56 PM
+bob b.
+464138
+should be 6x8, 1x24
+same response as the last e-mail
+Evelyn Metoyer@
+05/01/2001 12:08 PM
+deal 597100
+can you please ch the time to 2:00 p.m. not 2:00 a.m. for the exercise time.
+Evelyn Metoyer
+05/01/2001 02:02 PM
+deal 597086
+can you please ch the time to 2:00 p.m. not 2:00 a.m. for the exercise time.
+Thanks
+I'm interested!
+Kate
+Mollie Gustafson
+05/01/2001 12:14 PM
+I have 3 tickets available for the Beavers game tonight, these are in the 
+Enron Pavilion Suite, game starts at 6:30 PM.
+I also have a parking pass available.
+First person to express interest is the winner!
+Thanks.
+Mollie
+All three if possible 
+Mollie Gustafson
+05/01/2001 12:17 PM
+you are first - i got 3 emails right away.  how many would you like?
+Kate Symes                05/01/2001 12:15 PM
+I'm interested!
+Kate
+Mollie Gustafson
+05/01/2001 12:14 PM
+I have 3 tickets available for the Beavers game tonight, these are in the 
+Enron Pavilion Suite, game starts at 6:30 PM.
+I also have a parking pass available.
+First person to express interest is the winner!
+Thanks.
+Mollie
+Thanks for letting me know about the change in this deal. I looked at the 
+audit viewer, and it jogged my memory a bit. Mike originally entered this 
+deal as Q2 off peak; then he came over to me the next day and said it should 
+have been Cal'03-Cal'04. So we changed it, and it must have messed up the 
+strips somehow. Anyway, if it checks out with the broker, that sounds good 
+enough for me.
+Thanks again,
+Kate 
+598166 - changed to 50 mw
+598640 - changed to no broker
+598521 - powerex sale changed to prebon for broker
+Evelyn Metoyer@
+05/01/2001 01:52 PM
+BLOOMBERG
+Chris Mallory
+deal 598166
+mw should be 50 not 25 per Bloomberg
+AMEREX WEST
+Chris Mallory
+dela 598640
+Amerex does not recognize
+PREBON WEST
+Dianna 
+Missing this deal:
+Enron sells to Powerex 50 mw MidC light at $150 for 5/2
+This is an index forward, so for round-the-clock deals we enter more than one 
+in order to have peak and off-peak hours settle against the different index 
+prices. 596722 is the off-peak part of this deal, and 596723 is the on-peak 
+part.
+Let me know if this makes any sense.
+Thanks,
+Kate
+Tacoma called and said this is a 24 deal for May 1. We have light load in 
+system. Could you ask Diana which is correct.
+Thanks,
+Kimberly
+I'm really sorry about the confusion - I actually just got filled in myself. 
+I entered these deals for Mike Swerzbin yesterday, but he gave me an 
+incorrect delivery point (mid-columbia instead of montana system border Then Cara Semperger, in Scheduling, went in to change the delivery point and 
+felt that the deal should be combined into one with three legs instead of 
+three separate deals. 
+So, in the end, she killed 597244 and 597245, and added two legs to 597246. 
+I'm not sure she talked to John Malowney about any of this, otherwise he 
+probably would have told her that he already approved the confirm letter.
+Please let me know if you'd like comments added to this deal, and I'll do it 
+right away.
+Thanks for your help on this,
+Kate
+Help, I'm confused!  Yesterday I prepared a confirmation for three Montana 
+Power deals, # 5467244, 597245, 597246.  I sent it to John Malowney and he 
+approved it and I faxed it out. Today I noticed two of the deals have been 
+killed and two legs added to the other deal.  I think it is the same deal, 
+but can someone put notes into the deals saying what they did and why?
+Thanks!
+Here's the path to the California prices sheet:
+P:Trading/California/CAScheduling/Cash/Position/CA/2001/feb2001/Cal Prices
+Have fun with that.
+Here's the latest -
+The Short Term West Services desk bought power from Sierra Pacific Holding 
+Co. for 4/29 and 4/30. Then, Bob Ellery, our contact there, called the Real 
+Time desk and said they had lost a unit and needed to buy some of the power 
+back from us. The deals are in our system as follows:
+594854
+EPMI buys Sierra Pac.
+NP-15
+4/29 - 45 mw round-the-clock
+4/30 - 40 mw round-the-clock
+$218 off peak
+$328 on peak
+595714
+Short Term West Hourly sells Automated Power Exchange (Sierra's scheduling 
+coordinator)
+NP-15
+4/29 - 19 mw round-the-clock
+$228
+(Total Value = $103,968)
+Because Sierra's buy-back was in the Real Time market, we sold to their SC, 
+not Sierra itself. Also, confirm letters don't go out on hour-ahead trades, 
+which could be why you're running into some confusion. Let me know if this 
+helps, and I'll continue to look for a deal flowing on 4/30. The Real Time 
+group told me there was one, but it's only for the first 6 hours, not the 
+whole day. 
+I'll get back to you soon.
+Kate
+Mark Confer
+05/02/2001 07:20 AM
+Kate, what is the latest regarding Sierra Pacific Industries and the buy 
+backs for the 29th & 30th in the amount of $103,968 for each day?  Let me 
+know if I can obtain more information for you.  The payment terms are net 5 
+days after receipt of invoice, which they faxed to me on April 30th.
+Again, thanks for all your help regarding this and all the EES items.
+Mark  
+598736 and 598737 have been changed to off-peak hours. But I can't pull up 
+306927. Is this the right deal number?
+Kate
+Evelyn Metoyer@
+05/02/2001 08:03 AM
+Bob Badeer
+deal 306927
+Prebon shows as off-peak hours....enpower has peak hrs
+Bob Badeer
+deal 598737
+Prebon shows as off-peak hours....enpower has peak hrs
+Bob Badeer
+deal 598736
+Prebon shows as off-peak hours....enpower has peak hrs
+These have both been changed - trader error.
+Thanks,
+Kate
+Evelyn Metoyer@
+11/21/2000 02:02 PM
+deal 464181
+Diana Scholtes
+Prebon shows Cob......we show Mid-C
+deal 464182
+Dianna Scholtes
+Prebon shows Cob.....we show Mid-C
+I've added a comment in each leg of 597246 - "Deal modified from three 
+separate index-forwards to one deal with three legs." Does that work? And I'm 
+checking with John Malowney now to see if the confirm you've already sent out 
+will suffice - he's in a meeting right now. I'll get back to you in a moment.
+Thanks,
+Kate
+If John Malowney is okay with the confirmation he reviewed, I'm fine.  I made 
+the changes he suggested and sent it out, so if nothing else needs to be done 
+for the confirmation, then yes, please add some notes in the comment section 
+of deal entry about what happened.
+Thanks!
+Kate Symes                05/01/2001 06:07 PM
+I'm really sorry about the confusion - I actually just got filled in myself. 
+I entered these deals for Mike Swerzbin yesterday, but he gave me an 
+incorrect delivery point (mid-columbia instead of montana system border Then Cara Semperger, in Scheduling, went in to change the delivery point and 
+felt that the deal should be combined into one with three legs instead of 
+three separate deals. 
+So, in the end, she killed 597244 and 597245, and added two legs to 597246. 
+I'm not sure she talked to John Malowney about any of this, otherwise he 
+probably would have told her that he already approved the confirm letter.
+Please let me know if you'd like comments added to this deal, and I'll do it 
+right away.
+Thanks for your help on this,
+Kate
+Help, I'm confused!  Yesterday I prepared a confirmation for three Montana 
+Power deals, # 5467244, 597245, 597246.  I sent it to John Malowney and he 
+approved it and I faxed it out. Today I noticed two of the deals have been 
+killed and two legs added to the other deal.  I think it is the same deal, 
+but can someone put notes into the deals saying what they did and why?
+Thanks!
+I just realized I never heard back from Mike on this one - is Powerex still 
+saying the trade date is 4/26?
+Kate
+Stephanie Piwetz   04/30/2001 12:26 PM
+Kate, verballed trade with Powerex, they show trade date as 4/26 as opposed 
+to our 4/25.  Please check with Mike.  Thanks
+I can't seem to pull up 598391 - is that the correct deal number?
+Kate
+Kate, this deal has a new counteparty but it is not in the system yet. Can we 
+get more details on this, like what the actual name of MDEA is, address, 
+contact, phone numbers etc. 
+Thanks,
+Kimberly
+Does this mean that 598738 should be off peak hours as well? Because 598739 
+is only one side of a sleeve deal for EES. I would think that both sides need 
+to have the same hours 
+Let me know, and I'll change them accordingly.
+Thanks,
+Kate
+Evelyn Metoyer@
+05/02/2001 08:43 AM
+sorry it is 598739
+Kate Symes @ ECT                05/02/2001 10:25 AM
+598736 and 598737 have been changed to off-peak hours. But I can't pull up 
+306927. Is this the right deal number?
+Kate
+Evelyn Metoyer@
+05/02/2001 08:03 AM
+Bob Badeer
+deal 306927
+Prebon shows as off-peak hours....enpower has peak hrs
+Bob Badeer
+deal 598737
+Prebon shows as off-peak hours....enpower has peak hrs
+Bob Badeer
+deal 598736
+Prebon shows as off-peak hours....enpower has peak hrs
+I double-checked with Bob, and he said Prebon reported these two trades as 
+peak. The other two were in fact reported as off-peak - he just entered them 
+incorrectly. But as far as this sleeve goes, there's no way one side is peak 
+and the other isn't - Prebon has to make up their minds!
+Again, let me know what you find out. Until then, we recognize the two trades 
+as they are.
+Thanks,
+Kate
+Evelyn Metoyer@
+05/02/2001 08:59 AM
+That's what I was confused about because Prebon shows this deal as peak and 
+we show it as peak and I know it is the other side of a sleeve.  Can you 
+double check with Bob for accuracy.
+Evelyn
+Kate Symes @ ECT                05/02/2001 10:43 AM
+Does this mean that 598738 should be off peak hours as well? Because 598739 
+is only one side of a sleeve deal for EES. I would think that both sides need 
+to have the same hours 
+Let me know, and I'll change them accordingly.
+Thanks,
+Kate
+Evelyn Metoyer@
+05/02/2001 08:43 AM
+sorry it is 598739
+Kate Symes @ ECT                05/02/2001 10:25 AM
+598736 and 598737 have been changed to off-peak hours. But I can't pull up 
+306927. Is this the right deal number?
+Kate
+Evelyn Metoyer@
+05/02/2001 08:03 AM
+Bob Badeer
+deal 306927
+Prebon shows as off-peak hours....enpower has peak hrs
+Bob Badeer
+deal 598737
+Prebon shows as off-peak hours....enpower has peak hrs
+Bob Badeer
+deal 598736
+Prebon shows as off-peak hours....enpower has peak hrs
+Thanks.
+Evelyn Metoyer@
+05/02/2001 09:11 AM
+I will check with Prebon asap.
+Kate Symes @ ECT                05/02/2001 10:56 AM
+I double-checked with Bob, and he said Prebon reported these two trades as 
+peak. The other two were in fact reported as off-peak - he just entered them 
+incorrectly. But as far as this sleeve goes, there's no way one side is peak 
+and the other isn't - Prebon has to make up their minds!
+Again, let me know what you find out. Until then, we recognize the two trades 
+as they are.
+Thanks,
+Kate
+Evelyn Metoyer@
+05/02/2001 08:59 AM
+That's what I was confused about because Prebon shows this deal as peak and 
+we show it as peak and I know it is the other side of a sleeve.  Can you 
+double check with Bob for accuracy.
+Evelyn
+Kate Symes @ ECT                05/02/2001 10:43 AM
+Does this mean that 598738 should be off peak hours as well? Because 598739 
+is only one side of a sleeve deal for EES. I would think that both sides need 
+to have the same hours 
+Let me know, and I'll change them accordingly.
+Thanks,
+Kate
+Evelyn Metoyer@
+05/02/2001 08:43 AM
+sorry it is 598739
+Kate Symes @ ECT                05/02/2001 10:25 AM
+598736 and 598737 have been changed to off-peak hours. But I can't pull up 
+306927. Is this the right deal number?
+Kate
+Evelyn Metoyer@
+05/02/2001 08:03 AM
+Bob Badeer
+deal 306927
+Prebon shows as off-peak hours....enpower has peak hrs
+Bob Badeer
+deal 598737
+Prebon shows as off-peak hours....enpower has peak hrs
+Bob Badeer
+deal 598736
+Prebon shows as off-peak hours....enpower has peak hrs
+Oh, I get it now 
+Thanks!
+Never mind:) I just realized this is an east trade. Sorry.
+KI
+Kate Symes                05/02/2001 10:41 AM
+I can't seem to pull up 598391 - is that the correct deal number?
+Kate
+Kate, this deal has a new counteparty but it is not in the system yet. Can we 
+get more details on this, like what the actual name of MDEA is, address, 
+contact, phone numbers etc. 
+Thanks,
+Kimberly
+I've entered the following imbalance deals under STCA and STWBom desks.
+599966
+STCA sells Cal Imb 
+NP-15 
+On Peak
+38 MW
+600031
+STWB sells Cal Imb
+NP-15
+On Peak
+37 MW
+Let me know if you have any questions.
+Kate
+Thanks for ending that, John. I've added comments to reflect the change in 
+the three legs in deal 597246, so we should be all set now.
+Kate
+Sounds good to me.... let sleeping dogs lie.   Let's internally add the 
+needed description and move on, I really don't want to confuse MPC with yet 
+another confirmation.  Thanks,   John
+If John Malowney is okay with the confirmation he reviewed, I'm fine.  I made 
+the changes he suggested and sent it out, so if nothing else needs to be done 
+for the confirmation, then yes, please add some notes in the comment section 
+of deal entry about what happened.
+Thanks!
+Kate Symes                05/01/2001 06:07 PM
+I'm really sorry about the confusion - I actually just got filled in myself. 
+I entered these deals for Mike Swerzbin yesterday, but he gave me an 
+incorrect delivery point (mid-columbia instead of montana system border Then Cara Semperger, in Scheduling, went in to change the delivery point and 
+felt that the deal should be combined into one with three legs instead of 
+three separate deals. 
+So, in the end, she killed 597244 and 597245, and added two legs to 597246. 
+I'm not sure she talked to John Malowney about any of this, otherwise he 
+probably would have told her that he already approved the confirm letter.
+Please let me know if you'd like comments added to this deal, and I'll do it 
+right away.
+Thanks for your help on this,
+Kate
+Help, I'm confused!  Yesterday I prepared a confirmation for three Montana 
+Power deals, # 5467244, 597245, 597246.  I sent it to John Malowney and he 
+approved it and I faxed it out. Today I noticed two of the deals have been 
+killed and two legs added to the other deal.  I think it is the same deal, 
+but can someone put notes into the deals saying what they did and why?
+Thanks!
+I'm sorry about that, Kim. I just got word from Les on these and I'm changing 
+them as we speak. I'll e-mail you in just a minute when they're done.
+Thanks,
+Kate
+Kimberly Hundl@
+05/02/2001 01:27 PM
+Have you gotten a reply from Les on these deals yet?  They are still 
+unconfirmed.
+Thanks!
+Kim
+Kate Symes @ ECT                05/01/2001 01:02 PM
+Anytime! I try to at least PRETEND to the traders that we have civilized 
+correspondence. Little do they know 
+Kate
+Kimberly Hundl@
+05/01/2001 11:09 AM
+thanks for deleting that "smacking around" part chica!
+Kate Symes @ ECT                05/01/2001 12:44 PM
+Les -
+Here's the latest list of unit contingent deals in need of unit names. I've 
+tried referring to your unit name list and entering them myself, but it looks 
+like some delivery points correspond to more than one unit. I.E. Navajo can 
+originate from LV Cogen OR Saguaro Power. If you could add these unit names 
+into the deals, or let me know what they are so I can enter them, it would be 
+much appreciated.
+Thanks,
+Kate
+Kimberly Hundl@
+05/01/2001 07:19 AM
+Mornin' Sunshine I need unit names for all of the following deals please:
+593484
+593486
+594911
+594915
+595073
+597061
+597063
+597065
+598151
+598153
+Thanks!
+Kim
+Jeff is just finishing entering his deals - he got stuck in a meeting.  Sorry!
+Evelyn Metoyer@
+11/21/2000 02:10 PM
+Has Jeff entered his deals yet because Prebon is waiting to checkout with me.
+Thanks
+I'm sorry this is late - I had a hectic Friday afternoon and neglected to 
+actually SEND the sheet out. Thanks for the reminder, Pamela!
+600395 and 600396 have been changed to 5/4 - 5/31.
+600378 and 600379 have been changed to Q3-02.
+Kerri Thompson@
+05/02/2001 02:37 PM
+600378
+600379
+broker has Q3 02 on these 2 deals
+600395
+600396
+broker has the 4-31st
+thanks
+I've changed it to Amerex.
+Kerri Thompson@
+05/02/2001 02:48 PM
+599676
+broker says this is not there deal
+That's the most beautiful e-mail I've ever read!
+Evelyn Metoyer@
+05/02/2001 03:19 PM
+BLOOMBERG
+All O.k.
+PREBON WEST
+All o.k.
+AMEREX WEST
+All o.k.
+You have beef-cakes up there? Are they single?
+There are some Las Vegas Delight True Beef Steak tomatoes available by Jody's 
+desk.
+I wouldn't recommend taking ANY of them, as I'm sure they don't taste very 
+good. (Yeah, right 
+Tomatoes are available in limited quantity, so come and get it!
+*NOTE* If you get a tomato that is somewhat green, that means it's probably 
+not good. You can put it on my desk and I'll take care of it. =o) 
+OR, you can keep it on your counter for a day or two and it'll be ripe and 
+ready to go! (I recommend doing the first thing 
+To re-cap:
+I've changed three Short Term West Hourly deals to reflect what all parties 
+have agreed to - EPMI sells to Sierra Pacific Holding Co., HE 23-24 on 4/28, 
+HE 1-24 on 4/29, and HE 1-6 on 4/30. Instead of selling to the Automated 
+Power Exchange, we'll be using them as the broker, paying a $.03 per MW fee, 
+and selling to Sierra Pacific. Following are the changed deal numbers, for 
+reference:
+595705
+595714
+595819
+I believe this should clear up any discrepancies we had among different 
+counterparties' invoices. Now all we have to do is cross our fingers....no, 
+just kidding. Please let me know if you have questions, or if problems arise 
+from these changes.
+Thank you,
+Kate
+Deal number is 600553.
+I notified Jim Fell and Terrell Gault of the delay in getting the documents 
+to them, and Jim actually said he had both the Business Plan and the EIS and 
+therefore didn't need either. Hopefully the Business Plan will arrive from 
+BPA today and I'll send it off to Terrell.
+Also, I'm sorry about the errors on the place cards. I was in a hurry to get 
+them out to Sir Not-So-Speedy and overlooked those details. I hope it didn't 
+cause too much confusion.
+Kate
+I've checked with Matt Motley and changed 458712 and 458718 to reflect broker 
+fees of .0075.
+I've left a message for Mike Swerzbin to double-check. He has 457489 entered 
+in his log book with no broker fee, but 459812 says nothing either way; so 
+I'd like to get ahold of him before I change anything.
+Thanks,
+Kate
+Kerri Thompson@
+11/22/2000 09:19 AM
+458712 .0075
+458718  .0075
+457489  .0075
+459812  .0075
+the broker shows the fees on these trades, we have 0.  can you check this out?
+thanks
+Sean has fixed these - the computer picked up the off peak indices for the 
+related deals - #465720 and #465723.
+By the way, all our traders are inputting their deals now. I know you guys 
+are checking out with brokers - we'll try to expedite the process.
+Thanks,
+Kate
+Kate, I think these two deals of Sean were entered twice for Sun and Holidays 
+0100 to 2400.
+Could you check on.
+ka
+Both of these were trader errors and have been changed.
+Thanks,
+kate
+Kerri Thompson@
+11/22/2000 11:41 AM
+465810
+matt
+strike price 70.00
+8.00 premium
+465556
+bob
+broker has mid c
+Sean Crandall just changed both of these deals. 464181 should have been a 
+buy, and 464182 should have been a sale. Hope that checks out correctly - we 
+couldn't find Diana Scholtes anywhere.
+Thanks,
+Kate
+Maria Gallego  > A Thought For Christmas

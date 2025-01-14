@@ -1,0 +1,905 @@
+- Fwd (12-27Trade2).doc
+- Fwd (12-27Trade1).doc
+Add some liquidity for me!  Have a Happy New Year!  Sara
+P.S.  Who knows:   you may run into Susan B.
+Robert Bruce@
+Sent by: Robert Bruce@
+12/28/2000 03:15 PM
+I am taking off Friday, Dec. 29 and Tuesday, Jan. 2 as vacation days.  I am 
+going to Las Vegas to add liquidity and absorb risk.  I will be back in the 
+office on Wednesday, Jan. 3.
+Robert E. Bruce
+Senior Counsel
+Melissa Ann Murphy
+11/22/2000 05:42 PM
+Please see the attached confirmation letters:
+Thank you,
+Melissa Murphy
+(713) 853-1886
+Sharen:
+In connection with the two (2) swap confirmations which you are revising 
+(from a "Deemed ISDA" format to a regular ISDA format), I ask that you please 
+contact  Stephanie to review the final forms.  Please note the following:
+(1)  Melissa's prior "Deemed ISDA" drafts (dated Nov. 22, 2000) show ENA swap 
+nos. as 447459.4 and 447459.02.  One of your confims doesn't match:  it says 
+447459.04.  Please verify the correct number.
+(2)  You can eliminate the "Payment Date(s)" section from the General Terms 
+because individual Payment Dates appear in both the Fixed and Floating 
+Details.
+After either Tana or Stephanie have approved, please email to EWEB as follows 
+(with a copy to Holli Krebs):
+jdeason@chbh.com
+Dick.Varner@eweb.eugene.or.us
+NOTE TO STEPHANIE:  copies of my markups  and the Deemed ISDA's are located 
+in a file entitled "EWEB confirmations".  Also, the ISDA has not been signed 
+but will be dated October 30, 2000.
+ED:
+EWEB has requested a blackline of the ISDA and is ready to sign next week Your MAC references the "Electric System" which is defined in the Bond 
+Indenture which I sent to you earlier today.  It looks to me like the 
+Electric System includes physical and intangible assets acquired by the Board 
+as a separate utility system, including generating and transmission 
+facilities and the Trojan Project (not sure what this is).  I've asked 
+Stephanie to revise our docs to incorporate these definitions.  Please review 
+the CSA when Stephanie sends it to you (and comment) and I can send first 
+thing on Tuesday.  Thanks.  Sara
+Stephanie:  Please send Ed a copy of the blacklined CSA when you are done.
+Dick:
+Sorry that I didn't have a chance to call you again today.  After reviewing 
+the appendix (Board resolution summary), I would like to request an opinion 
+from EWEB's bond counsel that swap/other transaction payments are payable 
+from the Operating Fund (together and in parity with other operating costs) 
+and precede EWEB's debt service payments.
+Also, can you please describe EWEB's Master Resolution (relevant to long term 
+bonded indebtedness) as this is to be referenced in Larry Cable's legal 
+opinion.
+I will be back in the office on Tuesday, Jan. 2.  Have a happy new year.
+Thanks.  Sara
+Stephanie:
+Happy New Year!
+I have assigned you to this former Marie Heard file.  We need to overnight 
+copies of the master agreement (boilerplate and all) to Neel Lemon in 
+Dallas.  He does not need ENA's or the CP's background documentation.  You 
+can send the ENE guaranty.  This company has undergone a franchise tax 
+restructuring and has survived as a limited partnership which we are in the 
+process of evaluating.  I'll bring the file to you.   Details to follow 
+soon.  SS
+Forest Felvey  	01/02/2001 09:08 AM
+Sara, you have my permission to communicate with Neel Lemon at Baker Botts
+as you would with me.  Please call me anytime.  214 515 6401.
+Forest Felvey
+Sara:
+Here is my contact info.  Please send me yours.
+Please feel free to call Forest Felvey at CSI to check signals on the
+confidentiality agreement issue you mentioned.  He will verify that Baker
+Botts is assisting CSI on swap issues and that it is okay to communicate
+with me.  [I've copied Forest with this email for his info.]
+As we discussed, I will get you copies of the new LPS documentation relating
+to the 2000 CSI franchise tax restructuring and you will get me copies of
+the existing Enron/CSI contractual documentation relating to the original
+1998 arrangements and any amendments, etc., since then.
+Thereafter, we can figure out what our next steps are.
+Thanks.
+__________________________
+Neel Lemon
+Baker Botts LLP
+2001 Ross Avenue
+Suite 700
+Dallas, Texas 75201
+214.953.6954 - office
+214.661.4954 - fax
+469.323.6120 - NEW MOBILE
+214.361.6717 - home
+neel.lemon@bakerbotts.com - email
+The information contained in this email is confidential and may be subject
+to the attorney-client privilege.  As a result, any unauthorized use or
+transmission is prohibited.  If you are not the intended addressee, please
+delete this email and notify the sender.
+All:
+Following is a list of outsanding items:
+(1)  ISDA Master Agreement (Schedule and Credit Support Annex)
+I need to better understand EWEB's proposed settlement language.  ENA 
+generally sends an invoice when the counterparty owes a payment (but not  
+when ENA owes a payment).  The invoice reflects the outstanding transactions 
+for a given Calculation Period and the net amount owed.  ENA can   generate 
+this invoice in all cases.  Does EWEB intend that BOTH parties always send 
+reciprocal invoices?  Is is necessary that the Calc Agent ALSO  make a phone 
+call?  What does EWEB's language "separate invoices and documentation 
+covering each Transaction sufficient to permit the other   party to comply 
+with its interanl accounting and record keeping procedures concerning 
+individual Transactions" mean?
+Please call me to resolve.
+When can we execute?
+(2)  Cable Huston legal opinion:  please add
+(1)  opening paragraph:  "(iii)  the Confirmations for Transactions ENA 
+Contracts Nos. 447459.02 and 447459.4 each dated October 30, 2000 
+(2)  Paragraph 12 prior to the period in the first sentence:  "as  those 
+terms are defined in the Master Resolution adopted by the EWEB Board on June  
+16, 1986, as supplemented"
+(3)  the two (2) confirmations
+These require execution by EWEB.  When will this be done?
+(4)  Bond Counsel opinion
+Dick, I sent you  an email on Friday.  ENA is pleased to discuss with your 
+counsel.  Please refer to Larry's legal opinion:  the deleted Paragraph 10  
+of the December 21, 2000 draft and the Paragraph 12 of the  December 30, 2000 
+draft for the type of information requested.
+Please let me know if I have left out any items.  I would like to finalize 
+documentation today.
+.  Sara
+Sorry, but I forgot to ask if I should make reservations and if anyone else 
+is going.  Thanks.  Sara
+Sara Shackleton
+10/21/99 11:06 AM
+With pleasure!  SS
+Would you be available to take Andrea Calo to dinner next Wednesday (the 
+night before the Legal Conference)?  She is coming in a day early to meet chat with people here.
+LaureL:  Please let me know where you end up (ENA, Enron Corp., ECT 
+Investments) so that I can be clear in Lotus Notes and the files for future 
+reference.  Thanks.  Sara
+Neel:
+We will overnight the agreement to you.  Sara
+Neel.Lemon@bakerbotts.com
+01/02/2001 09:01 AM
+Sara:
+Here is my contact info.  Please send me yours.
+Please feel free to call Forest Felvey at CSI to check signals on the
+confidentiality agreement issue you mentioned.  He will verify that Baker
+Botts is assisting CSI on swap issues and that it is okay to communicate
+with me.  [I've copied Forest with this email for his info.]
+As we discussed, I will get you copies of the new LPS documentation relating
+to the 2000 CSI franchise tax restructuring and you will get me copies of
+the existing Enron/CSI contractual documentation relating to the original
+1998 arrangements and any amendments, etc., since then.
+Thereafter, we can figure out what our next steps are.
+Thanks.
+__________________________
+Neel Lemon
+Baker Botts LLP
+2001 Ross Avenue
+Suite 700
+Dallas, Texas 75201
+214.953.6954 - office
+214.661.4954 - fax
+469.323.6120 - NEW MOBILE
+214.361.6717 - home
+neel.lemon@bakerbotts.com - email
+The information contained in this email is confidential and may be subject
+to the attorney-client privilege.  As a result, any unauthorized use or
+transmission is prohibited.  If you are not the intended addressee, please
+delete this email and notify the sender.
+Dick:
+Please call me about the settlement issue.  I spoke with Jim earlier and he 
+deferred to you entirely.  Thanks.  Sara
+"Dick D VARNER"  	01/02/2001 11:34 AM
+On number 4, we have Chip Eady of Foley Lardner, our bond counsel, working on 
+this.
+>>  All:
+Following is a list of outsanding items:
+(1)  ISDA Master Agreement (Schedule and Credit Support Annex)
+I need to better understand EWEB's proposed settlement language.
+ENA generally sends an invoice when the counterparty owes a payment (but
+not  when ENA owes a payment).  The invoice reflects the outstanding
+transactions for a given Calculation Period and the net amount owed.  ENA
+can       generate this invoice in all cases.  Does EWEB intend that BOTH
+parties always send reciprocal invoices?  Is is necessary that the Calc
+Agent ALSO     make a phone call?  What does EWEB's language "separate
+invoices and documentation covering each Transaction sufficient to permit
+the other           party to comply with its interanl accounting and record
+keeping procedures concerning individual Transactions" mean?
+Please call me to resolve.
+When can we execute?
+(2)  Cable Huston legal opinion:  please add
+(1)  opening paragraph:  "(iii)  the Confirmations for Transactions
+ENA Contracts Nos. 447459.02 and 447459.4 each dated October 30, 2000 
+(2)  Paragraph 12 prior to the period in the first sentence:  "as
+those terms are defined in the Master Resolution adopted by the EWEB Board
+on June   16, 1986, as supplemented"
+(3)  the two (2) confirmations
+These require execution by EWEB.  When will this be done?
+(4)  Bond Counsel opinion
+Dick, I sent you  an email on Friday.  ENA is pleased to discuss with
+your counsel.  Please refer to Larry's legal opinion:  the deleted
+Paragraph 10   of the December 21, 2000 draft and the Paragraph 12 of the
+December 30, 2000 draft for the type of information requested.
+Please let me know if I have left out any items.  I would like to finalize
+documentation today.
+.  Sara
+Sara Shackleton
+Neel.Lemon@bakerbotts.com
+01/02/2001 01:21 PM
+Thanks.
+Could you  send me your mailing info so I will know where to send the
+partnership documents.  Those should be to you later this week.
+__________________________
+Neel Lemon
+Baker Botts LLP
+2001 Ross Avenue
+Suite 700
+Dallas, Texas 75201
+214.953.6954 - office
+214.661.4954 - fax
+469.323.6120 - NEW MOBILE
+214.361.6717 - home
+neel.lemon@bakerbotts.com - email
+The information contained in this email is confidential and may be subject
+to the attorney-client privilege.  As a result, any unauthorized use or
+transmission is prohibited.  If you are not the intended addressee, please
+delete this email and notify the sender.
+Neel:
+We will overnight the agreement to you.  Sara
+Neel.Lemon@bake
+cc:     ffelvey@csipaper.com
+01/02/2001             Subject:     CSI
+09:01 AM
+Sara:
+Here is my contact info.  Please send me yours.
+Please feel free to call Forest Felvey at CSI to check signals on the
+confidentiality agreement issue you mentioned.  He will verify that Baker
+Botts is assisting CSI on swap issues and that it is okay to communicate
+with me.  [I've copied Forest with this email for his info.]
+As we discussed, I will get you copies of the new LPS documentation
+relating
+to the 2000 CSI franchise tax restructuring and you will get me copies of
+the existing Enron/CSI contractual documentation relating to the original
+1998 arrangements and any amendments, etc., since then.
+Thereafter, we can figure out what our next steps are.
+Thanks.
+__________________________
+Neel Lemon
+Baker Botts LLP
+2001 Ross Avenue
+Suite 700
+Dallas, Texas 75201
+214.953.6954 - office
+214.661.4954 - fax
+469.323.6120 - NEW MOBILE
+214.361.6717 - home
+neel.lemon@bakerbotts.com - email
+The information contained in this email is confidential and may be subject
+to the attorney-client privilege.  As a result, any unauthorized use or
+transmission is prohibited.  If you are not the intended addressee, please
+delete this email and notify the sender.
+Cheryl:  Can we meet for a few minutes after 9 am tomorrow?  Sara
+Cheryl Nelson@
+Sent by: Cheryl Nelson@
+01/02/2001 01:54 PM
+Cheryl Nelson
+Sent by: Cheryl Nelson
+01/02/2001 10:43 AM
+As planned, our next meeting regarding the brokerage agreements project will 
+take place this week on Thursday at 3:30 p.m.   We will meet in Cassandra's 
+office at 2888. 
+Phil:
+Happy New Year!
+And back to old business.  ENA is holding the amendment pending receipt from 
+you of the attached Exhibit A (describing the collateral).  I had previously 
+left you a message but I'm sure it was lost in the year-end madness.  Please 
+forward the attachment so that we have a complete document.  Thanks.  Sara
+Sara Shackleton
+12/18/2000 09:16 AM
+Phil:
+I was just checking to see when we would execute the amendment to the 
+Security Agreement (to permit the rehypothecation of securities).  Please let 
+me hear from you.
+,
+Sara
+Stephanie:
+I have reviewed the attachment and it is correct.  We should attach and 
+return one to Phil.  We need one copy for the file, credit and Soma.  I'm not 
+sure who else might need but we can check with Soma.  Sara
+01/02/2001 04:34 PM
+Philip Levy
+12/22/2000 07:27 PM
+Legal  (212) 270-5951    Fax Number: (212) 270-7368
+As you requested, attached is Exhibit A to the above-referenced document.
+Please forward a fully executed signature page to me at your earliest
+convenience.
+(See attached file: Exhibit A.DOC)
+- Exhibit A.DOC
+Chris:
+I checked with Samantha.  The counterparty is holding two orignal ISDA 
+documents (complete with boilerplate and Schedule/CSA) and ENA resolutions 
+(in the form of unanimous consents) and incumbency.  Sam will check on the 
+ENE guaranty 
+There is nothing more that we can do unless you want us to call the 
+counterparty/lawyer.
+Please advise.  Sara
+Angela:
+Unless Mary has addressed already or a different plan is in place, can you 
+handle?  Sara
+Carol St Clair
+01/03/2001 12:02 PM
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+"Bermingham, David"  	01/03/01 11:42 AM
+Dear Danny 
+We have had extensive discussions with Rabo concerning deal mechanics, and 
+the relevant documentary issues.? Here is a summary of the salient points, 
+none of which should hopefully be problematic:
+1.????? Notwithstanding the structural logic, Rabo are not keen to purchase 
+Psyche (the feeling is that it would cause all kinds of internal problems, 
+and might disturb the credit process which to date is running smoothly).? As 
+such, we should revert to the original idea of payments to Psyche by Heracles 
+being irrevocably assigned to RBC, who will then assign them to? Rabo as a 
+part of our deal with them.? We note that as currently drafted, the payments 
+by Heracles to Psyche would still take place.? It would obviously be 
+preferable if Heracles could be directed to make payments directly to RBC Alternatively, EAH would need to sign a direction on day one (as Member of 
+Psyche) that all payments received from Heracles should be paid to RBC.? We 
+understand that EAH would give a charge over the Member Interest of Psyche in 
+favour of RBC.
+2.????? The Sales Agency Agreement should lapse, as it currently allows. 
+3.????? In its place, either a version of the old clause 6.07 should be 
+reinserted into the Aeneas LLC agreement, or a new Sales Agency Agreement 
+would be struck with Rabo, in either event stipulating a mandatory sale of 
+the EOG shares (under Rule 144) in the event of either a failed auction, or a 
+valid auction with Rabo as winning bidder.? There would be no other trigger 
+events (ie no necessity for Enron to be downgraded 
+4.????? Rabo will negotiate directly with ENA/Enron on the EOG market swap, 
+and ISDA. 
+5.????? Rabo and RBC will negotiate as between themselves on the TRS and 
+ISDA. 
+At present, we are all shooting for execution on Jan 15th 
+Kind 
+David Bermingham 
+Attached are first drafts of the following documents to be used in 
+connection with the insertion of an insurance company into the 
+transaction: (1) Assignment and Waiver Agreement, (2) Swap Confirmation 
+between the Agent and the Insurance Company (blacklined against the 
+current Cerberus Swap Confirmation) and (3) Instrument of Assignment 
+whereby Aeneas will assign the balance of its note to RBC (blacklined 
+against the Assignment executed on November 30, 2000 ? 
+With regard to the Swap schedule to be entered into between the Agent 
+and the Insurance Company, it would be helpful to know whether RBC and 
+the Insurance Company have entered into any recent Swap transactions so 
+we can follow the general provisions. 
+? 
+I believe that RBC was going to produce a draft Swap confirmation for 
+the Swap to be entered into between ENA and the Insurance Company, but 
+please could RBC confirm.? It also would be helpful to see an example of 
+a Swap schedule which may have been entered into between Enron and the 
+Insurance Company in a different transaction (if one exists ? 
+With regard to the Sales Agency Agreement, it would be our preference 
+still to have RBC as the party to the Sales Agency Agreement, but 
+agreeing to act at the direction of the Insurance Company in certain 
+circumstances. 
+? 
+I will be in our Houston office for most of Thursday in Conference Room 
+42 Main at 713-220-4242, returning to Dallas Thursday evening when I 
+will be contactable at 214-659-4645. 
+? 
+Danny Sullivan 
+Jeff:
+In connection with the instructions given by London to Shane Dallmann, note 
+that the instruction for ENA to transact the Euro hedges was given by Peter 
+Russell.  Please advise as to whether these should be RMT transactions and 
+which Enron affiliate should be involved.  Thanks.   Sara
+Speak of the deviI!  I just had someone leave a voice mail for counsel (who 
+is at an outside meeting).  I will definitely have a lawyer call tomorrow 
+morning.  Is Utah in your time zone?  Sara 
+What do you think the timing will be on hearing back from your utah counsel?
+Sara Shackleton
+10/21/99 09:27 AM
+I have retained Utah counsel.  I'll keep you posted.  I haven't looked at 
+your other question yet but I will !  Sara
+Terry:
+Clint Freeland asked that we resend our forward confirmation template to 
+you.  It is attached below.
+Also, we will send a draft of our ISDA Master Agreement (Schedule only,  no 
+boilerplate) to you shortly.  Can you provide me with the name of your 
+I look forward to hearing from you.
+,
+Sara
+Stephanie Panus@
+12/07/2000 11:00 AM
+At the request of Clint Freeland (who works with Tim DeSpain), attached is 
+Enron Corp.'s template for a forward transaction.
+Stephanie Panus
+Sr. Legal Specialist
+Sara Shackleton
+Clint:
+Will ENE be transacting with First Union National Bank or First Union 
+Securities, Inc.?  I need to know the correct legal entity.  Sara
+Sara Shackleton
+"Ganser, Terrance"  	01/03/2001 04:29 PM
+First Union Securities, Inc.
+Sara:
+Thank you for resending it.  After going through our files, I did see where
+you had sent it last month, and we are currently working on it.
+,
+Terry Ganser
+This is for your information only and is not an offer to
+sell, or a solicitation of an offer to buy, the securities
+or instruments mentioned.  The information has been
+obtained or derived from sources believed by us to be
+reliable, but we do not represent that it is accurate or
+complete.  Any opinions or estimates contained in this
+information constitute our judgement as of this date
+and are subject to change without notice.  First Union
+Securities, Inc. (FUSI), or its affiliates may provide
+advice or may from time to time acquire, hold or sell a
+position in the securities mentioned herein.  FUSI is a
+subsidiary of First Union Corporation and is a member
+of the NYSE, NASD and SIPC.  FUSI is a separate
+and distinct entity from its affiliated banks and thrifts.
+Clint:
+ENA is in complete agreement with DB on its ISDA.  Do you still want an ISDA 
+for ENE?
+Sara Shackleton
+Per my voice mail.  Sara
+Sara Shackleton
+"Siao, Vivian"  	01/03/2001 04:59 PM
+The Goldman Sachs Client Access Agreement (the "Agreement") and/or Schedule
+A -- Electronic Trading Services ("Schedule A") are attached for your review
+and signature. The Agreement and Schedule A are required for each legal
+entity whose trading personnel are enabled to access Goldman Sachs'
+electronic systems.  The documents must be signed by an authorized signatory
+of the legal entity(ies) that employs each enabled person. The list of
+persons within your organization that have been enabled to access Goldman
+Sachs electronic systems and their associated legal entity(ies) are listed
+below.  If the Legal Entity name is incorrect, please indicate the
+appropriate name for purposes of this Agreement and Schedule A.  Please list
+all enabled users and their corresponding legal entity on Schedule A-ETS
+Authorized Users.  You may add additional users or delete ones that are
+currently enabled.
+Enabled users      Legal Entity
+Harry Arora       Enron NA
+Please complete, date and sign both the Agreement and Schedules separately.
+Please pay special attention to the following points:
+* At the top of the document -- "Client:"  Fill in the legal name and
+the address of the entity that will execute both the Agreement and Schedule
+A. If the document is intended to cover more than one entity, please list in
+a separate annex each entity that the document covers.
+* Next to the line "Attn:"  Fill in the name and title of the
+authorized person that is signing the document on behalf of the legal
+entity.
+Please return the completed and signed documents via fax to:
+GS contact: Vivian Siao
+Fax:  212-428-1872
+Phone:  212-902-1429
+Any questions regarding the Agreement or Schedule A should be directed to
+the GS contact listed above.
+Vivian Siao Stephan
+Fixed Income, Currency & Commodities Compliance
+Tel:   (212) 902-1429
+Fax:   (212) 428-1872
+- Client Access Agreement.pdf
+- generic e-trading ver3.sch.pdf
+- authorized user annex to Schedule A-ETS.pdf
+Sara Shackleton
+"Siao, Vivian"  	01/03/2001 04:59 PM
+The Goldman Sachs Client Access Agreement (the "Agreement") and/or Schedule
+A -- Electronic Trading Services ("Schedule A") are attached for your review
+and signature. The Agreement and Schedule A are required for each legal
+entity whose trading personnel are enabled to access Goldman Sachs'
+electronic systems.  The documents must be signed by an authorized signatory
+of the legal entity(ies) that employs each enabled person. The list of
+persons within your organization that have been enabled to access Goldman
+Sachs electronic systems and their associated legal entity(ies) are listed
+below.  If the Legal Entity name is incorrect, please indicate the
+appropriate name for purposes of this Agreement and Schedule A.  Please list
+all enabled users and their corresponding legal entity on Schedule A-ETS
+Authorized Users.  You may add additional users or delete ones that are
+currently enabled.
+Enabled users      Legal Entity
+Harry Arora       Enron NA
+Please complete, date and sign both the Agreement and Schedules separately.
+Please pay special attention to the following points:
+* At the top of the document -- "Client:"  Fill in the legal name and
+the address of the entity that will execute both the Agreement and Schedule
+A. If the document is intended to cover more than one entity, please list in
+a separate annex each entity that the document covers.
+* Next to the line "Attn:"  Fill in the name and title of the
+authorized person that is signing the document on behalf of the legal
+entity.
+Please return the completed and signed documents via fax to:
+GS contact: Vivian Siao
+Fax:  212-428-1872
+Phone:  212-902-1429
+Any questions regarding the Agreement or Schedule A should be directed to
+the GS contact listed above.
+Vivian Siao Stephan
+Fixed Income, Currency & Commodities Compliance
+Tel:   (212) 902-1429
+Fax:   (212) 428-1872
+- Client Access Agreement.pdf
+- generic e-trading ver3.sch.pdf
+- authorized user annex to Schedule A-ETS.pdf
+Mara:
+Got your voice mail and wanted to let you know that Cheryl Nelson  will be 
+handling this file.  Cheryl will give you a call.  Sara
+ps  Her phone number is 713-345-4693
+Sara Shackleton
+Mara_Alexander@cargill.com
+12/12/2000 09:35 AM
+Dear Sara,
+Attached please find our response to the draft Amendment to the CSA
+for the above-referenced Agreement.  You will note that I have added
+some additional language which our Legal Dept. prefers to include in
+Amendments, which I trust will be acceptable to you as well.  As
+mentioned briefly over the telephone the other day, I have also
+incorporated some changes with respect to Letter of Credit provisions.
+The changes to the LC terms are those which our Credit Department is
+requiring as a result of a review of Cargill's LC language.  The main
+issue is that an LC issued as collateral can no longer be transferable.
+I note from the file on our ISDA negotiations that Enron may have
+preferred transferability in order to be able to transfer an LC to
+its Affiliates.  If this is still the case, we can certainly discuss
+options which may specify and limit transferability accordingly.
+I look forward to your response at your earliest opportunity.
+,
+Mara Alexander
+Sr. Documentation Analyst
+Cargill, Incorporated
+Tel: 952.984.3417
+Fax: 952.984.3872
+e-mail: Mara_Alexander@Cargill.com
+- 31409_Amnd_CSA.doc
+Attached is my redraft of the confirmation.  Janelle needs to fill in some 
+gaps and I have left her a voice mail.  Please comment.  Sara
+Sara Shackleton
+Jason:  I would like to meet with you on January 8, 9 or 10 to bring Cheryl 
+Nelson and me up to date on the remaining files so that Cheryl can take these 
+back.  Please call me when you are back in the office.  Hope you had a great 
+New Year!!!!!!!!  Sara
+Sara Shackleton
+Don't you recall that we created a response or amendment format?  What am I 
+recalling?  SS
+Lucy Ortiz
+10/21/99 03:08 PM
+What is the formal format we have for notifying Chase?  Do I need to send 
+them the edition that announced the change or What is your suggestion?
+I bring this up only because we were so adamant about creating the 
+confirmation and then e-mailing it over to Chase so that they could be the 
+confirming party.
+~I mean, do we need to draft the changes that we want on the confirm and send 
+it over to them and ask them to change the confirm 
+~Or is all of this covered under the ISDA and we only need to make them aware 
+that  the publication made some changes?
+Sara Shackleton
+10/21/99 01:28 PM
+I thought we had devised a format for any response.  I'm glad to meet with 
+you anytime.  Currently, I have severe laryngitis and I am unable to speak I will probably be limited on Friday as well.  We can manage if you come to 
+my office.  Let me know.  SS
+Lucy Ortiz
+10/20/99 11:22 AM
+Sara,
+I don't think that we ever got around to talking about how we should notify 
+Chase of this change.  Could we do that before I leave?  Hopefully sometime 
+this week.
+Does the ISDA cover publication changes?  Somehow I thought it did.  It does 
+doesn't it?  I just can't remember in which section.
+Many thanks,
+Lucy
+Laird Dyer
+09/23/99 05:46 PM
+Lucy,
+Effective September 1st, Natural Gas Intelligence changed the reporting of 
+the California Border and City-Gate 1st of month indices.  These indices were 
+formerly reported in a separate table.  That table has been eliminated and 
+these indices have been included within the general table.   These changes 
+are minor; however, we need to ensure that Chase knows of the change.  Can 
+you please handle this?  It affects Glendale, Pasadena and SMUD.
+The following are the new definitions:
+1.  Malin:  the "Bidweek Avg." price for California, Malin, published in 
+Natural Gas Intelligence, or successor publication, in the first issue 
+published on or about the first Monday of the delivery Month in the table 
+identified as "Spot Gas Prices".
+2. Kern River Station: the "Bidweek Avg" price for California, Kern River 
+Station, PG&E, published in Natural Gas Intelligence, or successor 
+publication, in the first issue published on or about the first Monday of the 
+delivery Month in the table identified as "Spot Gas Prices".
+3.  Topock: the "Bidweek Avg" price for California, Southern Cal. Border 
+Avg., published in Natural Gas Intelligence, or successor publication, in the 
+first issue published on or about the first Monday of the delivery Month in 
+the table identified as "Spot Gas Prices".
+4.  PG&E Citygate: the "Bidweek Avg" price for California, PG&E Citygate, 
+published in Natural Gas Intelligence, or successor publication, in the first 
+issue published on or about the first Monday of the delivery Month in the 
+table identified as "Spot Gas Prices 
+Glendale and Pasadena are affected at Topock.  SMUD is affected at all four 
+points.
+Let me know if you need additional clarification or information.
+Thanks for your help.
+Laird
+Attached is my latest (and hopefully final) list tracking brokerage 
+agreements 
+Jason, when we meet, we can update with accurate information!
+Sara
+Sara Shackleton
+Cheryl:  Jason cannot meet tomorrow.  However, pick a time for next week and 
+Jason will accomodate us.  I am open any time on Jan. 8, 9 or 10.  I'll email 
+Jason once I hear from you.  Thanks.  Sara
+Sara Shackleton
+Dick 
+After our conversation, I spoke with our settlements people again who 
+requested an EWEB invoice when Enron owes money to EWEB.  I propose that we 
+add a section to the Schedule entitled "Accounts" (Part 3(h)) as follows:
+"Prior to each payment date for any Transaction, Party A (ENA) shall provide 
+Party B with an invoice reflecting the net payment owed by a party Notwithstanding the foregoing, Party B shall provide Party A with an invoice 
+prior to any payment date on which Party A owes a net payment to Party B With respect to all payments hereunder, and except as otherwise directed in 
+writing, the parties shall comply with the following payment instructions:
+[bank, account no., ABA no 
+Please provide me with EWEB's account data and let me know if you have any 
+comments.  I'll send the blackline immediately after I hear from you.
+Also, I have not received EXECUTED CONFIRMATIONS.  Have these been sent to 
+anyone at Enron?  Sara
+Sara Shackleton
+Happy New Year Dan!
+Just checking to verify that you received the order form that I faxed to you 
+on December 18.  Please confirm.
+Also, we brought a bottle of Freestone Hill to Pappas Steak House (on New 
+Year's Eve) for everyone to try.  The sommeliers raved.
+.  Sara 
+Sara Shackleton
+Stephanie:  Below is forwarding info for both Lotus Notes and sending this 
+ISDA.  Sara
+Sara Shackleton
+Gustavo Junqueira
+01/04/2001 12:15 PM
+Sara,
+If you are going to email the agreement you can send it to Alejandro Espinosa 
+and Francisco Ruiz-Tagle. Their emails are listed below. In case you are 
+going to mail a hard copy I will talk to Francisco later today and get the 
+correct address.
+Thanks,
+Gustavo
+x37630
+Scott Griffin@
+01/04/2001 11:13 AM
+Gustavo,
+CMPC would like to sell us fixed financial newsprint for 3 years (2000-3000 
+tons per month).  I quoted a bid of $596/mt based on the RISI East index and 
+$598/mt based on the PPW index.  Going forward all price questions should be 
+referred to Jay, and the final price would need to be confirmed at the time 
+of deal closure.
+Alejandro and Francisco would like to review a draft of a contract, and a 
+draft is currently being completed in Legal. You should call to confirm where 
+they would like the legal documents sent.  I presume that they would like one 
+set to go to their attorneys in NY and one set to themselves in Chile.
+Their Contact information:
+Alejandro Espinosa  56-24-41-2271  aespinosa@gerencia.cmpc.cl
+Francisco Ruiz-Tagle  56-24-41-2271  fruiztagle@gerencia.cmpc.cl
+Thank you,
+Scott Griffin
+FYI
+Sara Shackleton
+Gustavo Junqueira
+01/04/2001 02:32 PM
+Sara,
+I have talked to Alejandro in Chile regarding where to send the ISDA 
+agreement. He would rather receive it by email but if it is not possible, 
+please fax it to him at 011 56 2 671 0621. Please let me know as soon as you 
+send it.
+Thanks,
+Gustavo
+Tanya:  Per my voice mail, is any type of corporate guaranty required from 
+this counterparty?  Does our Additional Event of Default require any 
+changes?  Sara
+Sara Shackleton
+Jason:  Let's meet on Monday, Jan. 8 at 2 pm in my office.  Sara
+Sara Shackleton
+Dick:  Yes, please let me know who received the executed confirm (or you can 
+fax me copies at 713-646-3490).  We'll insert your bank info when we hear 
+from you today and I'll Fed Exp execution copies this evening.  Thanks so 
+much for your help.  Sara
+Sara Shackleton
+"Dick D VARNER"  	01/04/2001 07:16 PM
+Your language is fine.  I will get the bank info to you tomorrow.
+We faxed back the confirm yesterday.  Our mgmt assistant did it.  If you need 
+the name of the recipient, I can get that for you.
+Dick
+>>  Dick:
+After our conversation, I spoke with our settlements people again who
+requested an EWEB invoice when Enron owes money to EWEB.  I propose that we
+add a section to the Schedule entitled "Accounts" (Part 3(h)) as follows:
+"Prior to each payment date for any Transaction, Party A (ENA) shall
+provide Party B with an invoice reflecting the net payment owed by a party.
+Notwithstanding the foregoing, Party B shall provide Party A with an
+invoice prior to any payment date on which Party A owes a net payment to
+Party B.  With respect to all payments hereunder, and except as otherwise
+directed in writing, the parties shall comply with the following payment
+instructions:
+[bank, account no., ABA no 
+Please provide me with EWEB's account data and let me know if you have any
+comments.  I'll send the blackline immediately after I hear from you.
+Also, I have not received EXECUTED CONFIRMATIONS.  Have these been sent to
+anyone at Enron?  Sara
+Sara Shackleton
+Sounds like a great idea to me!  Sara
+Kaye Ellis
+10/21/99 04:55 PM
+I think it is my turn to take a vacation.  I would like to take the week of 
+December 13 off.  I hope this is OK with everyone.  I need to get my request 
+for a temp in ASAP so we can try and get who we want.  Let me know your temp 
+"wish list".  We only have one floor floater and I'm sure several admins will 
+be off if it is like last year.  It is hard for me to believe I have been on 
+the floor a year.  Enough of my sentiment.
+Thanks,
+Kaye
+Sara Shackleton
+Earlier this year, I negotiated this agreement with GS&C.  I cannot locate 
+the agreement so GS&C is sending a copy.  The Enron party is ENA.  We now 
+need to amend the authorized trader list which I will email to you.  ENA's 
+use of GS&C's platform is for trading US treasuries, agencies, money market, 
+corporates, JGB's.  We need to:
+(1)  remove Harry Arora (who was the sole authorized trader)
+(2)  add the following:       Darren Delage
+Shane Dallmann
+Ellen Su
+Pushkar Shahi
+Gary Hickerson
+THIS IS A VERY HIGH PRIORITY FOR GARY AND WE SHOULD TRY TO COMPLETE TODAY.
+Sara Shackleton
+You only need the "authorized user annex".
+Sara Shackleton
+"Siao, Vivian"  	01/03/2001 04:59 PM
+The Goldman Sachs Client Access Agreement (the "Agreement") and/or Schedule
+A -- Electronic Trading Services ("Schedule A") are attached for your review
+and signature. The Agreement and Schedule A are required for each legal
+entity whose trading personnel are enabled to access Goldman Sachs'
+electronic systems.  The documents must be signed by an authorized signatory
+of the legal entity(ies) that employs each enabled person. The list of
+persons within your organization that have been enabled to access Goldman
+Sachs electronic systems and their associated legal entity(ies) are listed
+below.  If the Legal Entity name is incorrect, please indicate the
+appropriate name for purposes of this Agreement and Schedule A.  Please list
+all enabled users and their corresponding legal entity on Schedule A-ETS
+Authorized Users.  You may add additional users or delete ones that are
+currently enabled.
+Enabled users      Legal Entity
+Harry Arora       Enron NA
+Please complete, date and sign both the Agreement and Schedules separately.
+Please pay special attention to the following points:
+* At the top of the document -- "Client:"  Fill in the legal name and
+the address of the entity that will execute both the Agreement and Schedule
+A. If the document is intended to cover more than one entity, please list in
+a separate annex each entity that the document covers.
+* Next to the line "Attn:"  Fill in the name and title of the
+authorized person that is signing the document on behalf of the legal
+entity.
+Please return the completed and signed documents via fax to:
+GS contact: Vivian Siao
+Fax:  212-428-1872
+Phone:  212-902-1429
+Any questions regarding the Agreement or Schedule A should be directed to
+the GS contact listed above.
+Vivian Siao Stephan
+Fixed Income, Currency & Commodities Compliance
+Tel:   (212) 902-1429
+Fax:   (212) 428-1872
+- Client Access Agreement.pdf
+- generic e-trading ver3.sch.pdf
+- authorized user annex to Schedule A-ETS.pdf
+Tom:
+I'm trying to finalize the ISDA Master Agreement with these guys.  We have 
+one issue:
+If there is a long-term market disruption event (i.e. over 3 days), and we 
+have no fallback price, then we negotiate a price and ENA would normally 
+obtain 2 quotes and average them.  Our position is that we prefer to obtain 
+the quotes because if a disruption were to occur, we would obtain quotes for 
+hundreds of deals in the same manner (because our agreements will all have 
+the same provisions) and it is possible that 4 quotes may not be available.
+NYSEG would like for each of ENA and NYSEG to obtain 2 quotes and then 
+average the 4 quotes.
+Are you agreeable to this?
+Sara
+Sara Shackleton
+Below is a document containing "General Terms and Conditions" which is ALWAYS 
+attached to a financial confirmation when the parties have no executed master 
+agreement.  If Ed, Tracy or someone in credit needs to add credit to the 
+transaction, then we ALSO attach an Annex B (counterparty specific credit 
+provisions),  Annex B-1(collateral and exposure provisions) and a letter of 
+credit format. 
+I am only attaching the General Terms and Conditions.
+Let me know if you still want to see the ISDA Master Agreement (preprinted 
+boilerplate consisting of an agreement and Credit Support Annex which I 
+cannot email) together with a sample Schedule and Paragraph 13 to the Credit 
+Support Annex (which are the two "customized" pieces negotiated by legal 
+Thanks.  Sara
+Sara Shackleton
+Kaye:  I'm having trouble printing the attached.  Thanks.
+Sara Shackleton
+Taffy Milligan
+01/03/2001 06:32 PM
+Happy New Year!
+Please advise of any revisions and any forthcoming (Jan-Mar) "out-of-office" 
+days 
+Taffy
+Tana:  Mike E. Kelly (mid market power) would like access to the database Would you please request Maybe some of the other power traders are interested.
+Thanks.  Sara
+Sara Shackleton
+Vivian:  I have not received the copy of our executed electronic trading 
+agreement.  Please let me know if there is a problem.  Thanks.  Sara
+Sara Shackleton
+Sara Shackleton
+01/04/2001 08:41 AM
+Sara Shackleton
+"Siao, Vivian"  	01/03/2001 04:59 PM
+The Goldman Sachs Client Access Agreement (the "Agreement") and/or Schedule
+A -- Electronic Trading Services ("Schedule A") are attached for your review
+and signature. The Agreement and Schedule A are required for each legal
+entity whose trading personnel are enabled to access Goldman Sachs'
+electronic systems.  The documents must be signed by an authorized signatory
+of the legal entity(ies) that employs each enabled person. The list of
+persons within your organization that have been enabled to access Goldman
+Sachs electronic systems and their associated legal entity(ies) are listed
+below.  If the Legal Entity name is incorrect, please indicate the
+appropriate name for purposes of this Agreement and Schedule A.  Please list
+all enabled users and their corresponding legal entity on Schedule A-ETS
+Authorized Users.  You may add additional users or delete ones that are
+currently enabled.
+Enabled users      Legal Entity
+Harry Arora       Enron NA
+Please complete, date and sign both the Agreement and Schedules separately.
+Please pay special attention to the following points:
+* At the top of the document -- "Client:"  Fill in the legal name and
+the address of the entity that will execute both the Agreement and Schedule
+A. If the document is intended to cover more than one entity, please list in
+a separate annex each entity that the document covers.
+* Next to the line "Attn:"  Fill in the name and title of the
+authorized person that is signing the document on behalf of the legal
+entity.
+Please return the completed and signed documents via fax to:
+GS contact: Vivian Siao
+Fax:  212-428-1872
+Phone:  212-902-1429
+Any questions regarding the Agreement or Schedule A should be directed to
+the GS contact listed above.
+Vivian Siao Stephan
+Fixed Income, Currency & Commodities Compliance
+Tel:   (212) 902-1429
+Fax:   (212) 428-1872
+- Client Access Agreement.pdf
+- generic e-trading ver3.sch.pdf
+- authorized user annex to Schedule A-ETS.pdf
+Per the voice and emails left for Gareth Bahlmann, you may direct ISDA 
+documentation to my attention 
+You may use the address information below.  Our ISDA template will provide 
+notice information pursuant to Paragraph 12 of the multicurrency form.  You 
+may use me as a contact lawyer initially; the transaction lawyer should 
+contact you shortly.
+Sara Shackleton
+Leslie Linares@
+01/08/2001 11:17 AM
+Jeff,
+Here is the e-mail that accompanies the voicemail message you received.
+Thanks,
+Brenda Funk
+"Hoekema, AH (Andries)"  	01/03/2001 11:21 AM
+Dear sir,
+Your name and email address were forwarded to me by Jane Anne Thomas in our
+Legal department. We are working on a structured trade with the Royal Bank
+of Canada (project Cerberus) that involves Rabobank entering into a
+- Full legal name;
+- Registered Address;
+- Telephone Number/Fax Number;
+- Legal/Documentation contact name.
+I would be very grateful if you could supply me with this information.
+,
+Andries Hoekema
+Structured Products Group
++44 20 7664 9803
++44 7879 487 550 (mobile)
+you may be the named recipient, it may become apparent that this email and 
+its contents are not intended for you and an addressing error has been made. 
+This email may include information that is legally privileged and exempt from 
+disclosure. If you have received this email in error, please advise us 
+immediately and delete this email and any attachments from your computer 
+system.Rabobank International is the trading name of Co"peratieve Centrale 
+Raiffeisen-Boerenleenbank B.A. which is incorporated in the Netherlands. 
+Registered with the Registrar of Companies for England & Wales No. BR002630 
+and regulated by the SFA for the conduct of investment business in the UK.
+The presence of this footnote also confirms that this email has been 
+automatically checked by Rabobank International for the presence of computer 
+viruses prior to it being sent, however, no guarantee is given or implied 
+that this email is virus free upon delivery.
+I have not yet had a response from Argentine counsel.  I will speak with them=20
+again.  Sara
+Dear Sara,
+Unfortunately, we haven=01%t recieve your fax with the Municipal
+Schedule. Could you please be so kind to sent it to us again? Thank you vey
+much.
+,
+Pablo Gayol

@@ -1,0 +1,491 @@
+- LifeTrak Vision Chart 012601.doc
+Mike,
+Following request has been made for a number of people.
+The access requested is: o:\research\power meteorology\weather temperatures Read/Write
+Data Approval  Grant  
+This is what I wrote, denying the request:
+The reason for the rejection has been communicated  several times.
+The person who requested the access does not want it any more.  Granting both 
+read/write access could threaten the integrity of the data.
+Any comments?
+Vince
+ARSystem  This request has been pending approval for  2 days and you are the 
+alternate.  Please click 
+to review and act upon this request.
+Request ID          : 000000000015384
+Approver            : stinson.gibner@
+Request Create Date : 1/25/01 7:59:02 AM
+Requested For       : paul.d.thomas@
+Resource Name       : \\enehou\houston\common\Research - [Read/Write]
+Resource Type       : Directory
+Clayton,
+No problem. I asked Shirley to reschedule.
+Vince
+Clayton Vernon @ ENRON
+01/29/2001 12:38 AM
+Vince-
+I apologize, but something has come regarding this afternoon. My server's OS 
+is acting up, and is affecting all of my apps right now.
+Can we think about later this week? I promise it will be worth it to you. The 
+EOL stuff is nice.
+Again, my apologies.
+Clayton
+Shirley,
+Please, rescheduule.
+Vince
+Clayton Vernon @ ENRON
+01/29/2001 12:38 AM
+Vince-
+I apologize, but something has come regarding this afternoon. My server's OS 
+is acting up, and is affecting all of my apps right now.
+Can we think about later this week? I promise it will be worth it to you. The 
+EOL stuff is nice.
+Again, my apologies.
+Clayton
+Julie,
+We received the shipment of 50 books. Thanks.
+The book was an instant hit. We need 50 more books.
+Vince
+P.S. I understand Paul sent you the check for the remaining 50%
+FYI
+Vince
+January 26, 2001
+Vince Kaminski
+Dear Vince Kaminski,
+This is to inform you of the release of @ENERGY 2.0. FTP download
+instructions are available immediately. The download instructions are
+included at the end of this email. Your CD's and manuals will be shipped to
+you within 2 weeks. Please see below for more information regarding this new
+release.
+Please confirm that you are the correct recipient for this shipment and your
+address above is correct by clicking reply and send. If any changes need to
+be made, please make the changes above and reply.
+**WARNING: PLEASE NOTE THAT IF YOU DID NOT RECEIVED A LICENSE KEY FOR
+@ENERGY AFTER JUNE 2000, YOU WILL NEED TO CONTACT SUPPORT@FEA.COM OR CALL
+510.548.6200 TO OBTAIN A NEW LICENSE KEY TO ENABLE THE NEW VERSION 
+**Swing users: @ENERGY/Swing now replaces the "SWING" product. See the
+@ENERGY user manual for a discussion of the changes. Contact FEA for the
+necessary license keys. You will be able to run both the new and old SWING
+simultaneously.
+Heres an overview of the new and changed features since version 1.6:
+@ENERGY (Forward Curve)
+Jump parameters are now calibrated for use in other @ENERGY functions.
+Inputs and outputs to POWERCALIB and COMCALIB have changed. See the
+corresponding function syntax in the User Guide for additional information.
+35-40% speed improvement. The module is now out of beta.
+@ENERGY (Basics)
+Different interpolation schemes on forward prices are now supported. If you
+use INDEXSWAP , EXOTICSWAP, or OPTINDEXSWAP with floating price linked to a
+series of futures dates, such futures dates need not be close to dates
+specified in the forward curve input.  A new utility function, PATHUTIL,
+allows you  to simulate and visualize price paths consistent with the models
+supported by @ENERGY. 25-30% speed improvement.
+@ENERGY (Advanced)
+Different interpolation schemes on forward prices are now supported. If you
+use OPTDIFFSWAP or DIFFSWAP  with floating price linked to a series of
+futures dates, such futures dates need not be close to dates specified in
+the forward curve input. CALSPREADOPT now allows for the specification of
+two different mean reversion rates. 30-35% speed improvement.
+@ENERGY (Swing)
+SWINGOPT and STRIPSWINGOPT now allow for valuation of swing straddle
+contracts with overall load constraints. 65-70% speed improvement. The
+module is now out of beta.
+@ENERGY (Weather)
+30-35% speed improvement.
+If you have any questions please feel free to contact us. We appreciate this
+,
+Michelle Mendoza
+Support@fea.com
++1-510-548-6200
+Financial Engineering Associates, Inc. (FEA)
+NOTE: Using EXPLORER leads to unpredictable results, so we suggest using
+NETSCAPE or a DOS shell.
+USING NETSCAPE:
+In the Location box type: ftp://energy@ftp.fea.com
+Password: 2rbzxgv5
+energy-2.0-win32.exe is for Windows 95/98/2000/NT. Download and run on
+a local drive.
+USING A DOS SHELL:
+At a DOS prompt type: ftp ftp.fea.com
+User: energy
+Password:  2rbzxgv5
+Type "binary" and hit 'return'.
+Type "ls" for a list of available files.
+Type "get" energy-2.0-win32.exe and and wait for the ftp> prompt.
+Type "quit".
+The file will be downloaded into the directory at which you entered the ftp
+site.
+Double click on the exe and follow the instructions on the screen.
+Attached is the latest issue of Btu Weekly.
+e-mail: info@Btu.net
+phone: 732-758-8222
+fax: 732-758-8286
+- wg012901.pdf
+Shirley,
+We want to invite him for an interview,
+THU, 1-5. Interviews with KP, SG, VK, GK, BR, Molly, CS, Dan Rack.
+Vince
+Johan Dahl  Vince,
+James Valverde is confirmed for a Face-to-Face interview with you on Thursday 
+February 1st at 1.00 PM to 5.00 PM.? When you have an interview itinerary, 
+please share it with me so James know who he is interviewing with.? Please 
+also tell me where you want him to show up, what floor, suite etc.? I am 
+assuming you are in the building on 1400 Smith St., right?
+We have not discussed yet the details regarding what key skills and 
+qualifications you are looking for in a candidate, other than that they are 
+bright and talented. Could you please share, via email or over the phone, 
+what you are looking for in candidate for your organization.? If you want me 
+to put a search together, I can only do it by knowing what you want.? Thank 
+you.
+If there is anything else I can do for you before the interview on Thursday, 
+please let me know.
+Respectfully,
+Johan
+At 04:39 PM 1/26/01 -0600, you wrote:
+Johan,
+Please, confirm the interview on Thursday next week, 1-5.
+Vince
+Johan Dahl  
+JOHAN C. DAHL
+Director Energy Staffing Group
+Management Recruiters of Portland, Inc.
+Phone: 503 -290-1153
+Phone: 800-979-8701
+Fax: 503-282-4380
+E-mail: jdahl@mrportland.com
+Web: www.mrportland.com/html/energy.htm
+Attached is the latest issue of Btu's Weekly Power Report
+e-mail: info@Btu.net
+phone: 732-758-8222
+fax: 732-758-8286
+- wp012901.pdf
+Vasant Shanbhogue
+01/23/2001 09:08 AM
+FYI.
+Ben Parsons
+01/23/2001 08:51 AM
+Everyone should read the attached Risk article about calculating def probs 
+from CDS quotes. 
+Amazingly it is in pretty close agreement with our own methodology for both 
+CDS valuation and reverse engineering def probs. The only extension in the 
+reverse engineering is that instead of linearly interpolating CDS quotes, 
+they propose minimising an error measure based on 'smoothness' of def prob 
+curve and difference between model and market prices. 
+What is also amazing is the fact that this article has been published in 
+Risk, given that it is essentially the same as my credit pricing paper, plus 
+one excellent idea. Given extra time, resources and brainpower, there is no 
+reason why we shouldn't have similar work published ourselves.
+Ben
+(thanks Steve for pointing this article out)
+London Fax System2
+23/01/2001 14:09
+You have received a new fax from +44 20 7783 8076
+The image contains 3 page(s).
+What is the top grade at Rice: A?
+Vince
+Stinson Gibner
+01/12/2001 04:16 PM
+Please let me know of any corrections.
+--Stinson
+Teams reporting to Krishna, Tanya,  Mike, and Maureen have no changes.
+ENA/EGM/EIM support to be primarily organized by type of support rather than 
+by business line under Stinson and Vasant:
+Stinson 
+(EBS Martin Lin(*),  Shalesh Ganjoo, Chonawee Supatgiat, Iris Mack
+(Option Pricing)
+Zimin Lu,  Alex Huang, Tom Halliburton,  Bob Lee,  Paulo Issler,  Ken 
+Parkhill,  Tom Barkley, Hector Campos
+Vasant
+(Power)
+Martin Lin(*),    Lance Cunningham,    Sevil Yaman
+(Risk and Market analysis)
+Amitava Dhar,    Joe Hrgovcic,    Nelson Neale,   Kate Lucas
+(*) Martin to have the option of maintaining ties to EBS or to gradually move 
+to mainly power fundamentals.
+Johan,
+Please, confirm the interview on Thursday next week, 1-5.
+Vince
+Johan Dahl  
+Johan Dahl  
+Vince J Kaminski
+01/19/2001 08:52 AM
+Dziekuje za szybka  odpowiedz. Czy mozliwa jest platnosc czekiem?
+Jako alternatywne rozwiazanie prosze podac mi cene w zlotych i moja rodzina w 
+kraju 
+dokona przelewu.
+Prosze o kopie odpowiedzi na adres:  vkaminski@aol.com.
+Dziekuje.
+W. Kaminski
+Uprzejmie informuje, ze ksiazke wyslemy po  wplynieciu na nasze konto 
+odpowiedniej kwoty. Kwota ta zawiera wartosc ksiazki  (13,75$), koszty 
+bankowe (5$) oraz koszty pocztowe (6,5$ lub 11 - Przy przesylce droga morska prosze wplacic  15,25 $
+- Przy przesylce lotniczej prosze wplacic  29,75$
+Nietety, nie mamy mozliwosci technicznych  pobrania oplaty karta kredytowa.
+Fakture wysylam poczta.
+Nasze konto: PBK S.A. III  O/Warszawa
+????????????????????11101024  - 401020003963
+Nazs adres: Wydawnictwa Naukowo-Techniczne,  Mazowiecka 2/4, 00-048 Warszawa,  Polska
+Serdecznie pozdrawiam
+Grazyna Piesniewska
+Uprzejmie informuje, ze przyjmujemy czeki, ale  niechetnie. Wysokie koszty 
+przy realizacji czekow.
+Gdyby rodziana Sz.Pana wplacila naleznosc w  zlotowkach, to odpadna koszta 
+bankowe - 5$. Naleznosc w zl wynosi 81 zl lub 99  zl (LOT).
+W liscie pomylilam sie? - zamiast 25,25$  napisalam 15,25 $. Przepraszam.
+Wplacenie pieniedzy w Polsce znacznie  przyspieszy wysylke.
+Ewentualny czek prosze przyslac na sume 25,25$  lub 29,75 $
+Pozdrawiam serdecznie
+Grazyna Piesniewska
+Mam nadzieje, ze moja odowiedz na list Sz.Pana  z dn.19.01.01 doszla do Pana. 
+Byl on wysylany z niepewnego  komputera.
+Jezeli nie doszedl, to prosze dac znac  (elektronicznie oczywiscie).
+Serdecznie pozdrawiam
+Grazyna Piesniewska
+RiskBrief  
+RiskBrief 
+Dear Risk Brief Subscriber,
+It=01,s been a while since you last received your monthly 'Risk Brief' update
+from FinanceWise.  But not without good reason - we've changed a lot.
+We have launched an exciting online news product called 'RiskNews'. This
+FREE website provides dedicated global coverage of all the top stories,
+informed analysis and best practice in the world of financial risk
+management, derivatives, technology and exchanges, people moves and key
+industry events. Breaking news is added to the website throughout the day,
+every day.
+Another key benefit of RiskNews is a FREE weekly e-mail update covering
+the need-to-know headlines and links back to the relevant news items. So,
+if you can't find the time to visit   regularly,
+don't worry, you can keep yourself informed with the weekly 'RiskNews
+Update'.
+So, what does this mean for you?
+From now on, as well as receiving your monthly 'Risk Brief' e-mail
+summarising risk management news a month after it happens, you can now
+receive the weekly 'RiskNews Update'. The e-mail update is sent every
+Friday and the service is FREE. Starting from Friday 26 January you will
+receive your first 'RiskNews Update' with coverage from stories occurring
+just this week.
+And finally =01(
+To celebrate this important milestone in our Internet services
+development, we would like to offer you a FREE copy of the February issue
+of 'Operational Risk', worth $70. This special issue serves as a guide to
+the regulators=01, proposals on operational risk capital charges as contained
+in the Basle Committee's second consultative paper released in January
+2001. Coverage contains market reactions, impacts and implications, as
+well as:
+? Contributing articles from the regulators
+? Views and reactions from banking analysts
+? Views of the banking industry bodies
+? Implications for the risk technology sector with interviews
+Order your FREE copy (worth $70) NOW and check out  
+for the first time!
+Your comments & feedback are always welcome; please e-mail us on
+,
+The RiskNews Team (formerly Risk Brief)
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+If you think any of your business associates or colleagues would find
+RiskNews useful, please forward a copy of this e-mail to them for us.
+Thanks!
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+All of Risk Waters Group online services can be accessed through
+Risk Waters Group =01) providing products with accurate analysis and
+technical commentary on the latest developments in the world of finance,
+financial technology, credit, emerging markets, market data, bandwidth
+trading & telecoms, risk management and derivative products.
+________________________________________________________________
+To unsubscribe to this list, send a blank message to
+and unsubscribe
+from there.
+______________________________________________________________________
+To unsubscribe, write to financewise-unsubscribe@listbot.com
+Kristin Walsh
+01/25/2001 11:23 AM
+California Timeline: 
+February 2nd: 
+The state legislature has to pass the enabling laws to let the state pay for 
+the electricity from auction before the current emergency money runs out on 
+February 2.   Republican leaders have vowed to block any additional emergency 
+funds. 
+The California courts gave Edison a two-week grace period (until February 2) 
+on demands by the California Power Exchange that Edison forfeit $215 million 
+in long-term low cost power contracts to the CPX for repayment of its debt Governor Davis told the Court that he may absorb that contract in favor of 
+taxpayers using his emergency "taking" powers.
+February 7th:
+President Bush, who had to intervene personally against his energy secretary 
+to extend the Energy Department order mandating electricity sales to 
+California by power generators, made it abundantly clear to all sides that 
+the two week deadline was hard and would not be extended.
+February 13th:
+Edison worked out a three-week grace period -- through February 13 -- with 
+all of its 32 banks and QFS to prevent from asking for accelerated repayment 
+during that period, but if the state has not figured out a way to bridge that 
+debt by then, this deadline could be a real trigger for bankruptcy.
+Legislation
+As mentioned in Tuesday's update, legislators are close to a long-term power 
+buying deal with the so-called "green" producers (wind, solar, hydro, cows) 
+of energy, accounting for 30% of California's total energy production.   This 
+would allow the Department of Water Resources to buy power from them at 8 
+cents per kilowatt hour 
+Bill AB1X--the key piece of legislation for setting long-term power 
+contracts--is still being mulled over in the Senate, but is expected to pass 
+this week.  The keys issues is still the price, which will probably be 
+revised in accordance to the results of the auction.  Other legislation has 
+been introduced, including three bills by Boxer that would increase federal 
+support and impose "windfall profits tax" for wholesalers that sell power at 
+"unfair and unreasonable" rates.  The hydro legislation is still being 
+bantered about, however with going opposition from both Democrats and 
+Republicans 
+Bail out scenarios
+A new scenario is a market-oriented solution that would give the state of 
+California "warrants" on the PG&E and Edison stock in return for lending them 
+the money to get out of this current mess (still the problem of financing the 
+$6B vs. $12B).   As the stock prices recovered, the state could cash in the 
+warrants and rebate to electricity users some of the emergency surcharge 
+needed to pay back the debt.  This is exactly the plan used to bail out 
+Chrysler in the late 1970s and it worked wonders for taxpayers then.  This 
+senario would also provide Davis with some political cover, as the idea of 
+rebates are far more appealing than price increases.  Lots of details remain 
+to be worked out, but even the consumer activist groups threatening to create 
+propositions on fall ballots appeared to like this deal 
+Bankruptcy
+Socal is close to an agreement with 32 bank creditors and QFs to allow a 
+forbearance on debt payments through February 13th.  However, it is not 
+expected that the bondholders would agree to this type of deal.  The 
+bondholders could try to force the utilities into involuntary bankruptcy, but 
+would probably be unsuccessful.  As long as Socal continues working with 
+their creditors and show "good faith" any bankruptcy at this time would have 
+to be voluntary.  As this date (Feb. 13th) fast approaches, the state will 
+have to take quick action and draft and approve legislation between the 
+governor, the generators and the utilities to prevent Socal and PG&E from 
+bankruptcy.    As part of the forbearance agreement, Edison has contracted 
+with around 400 QFs and negotiations have been directed toward separating the 
+rate schedules of generation facilities fuelled between renewables and gas 
+fired generation.  Socal is attempting to shift gas fired QFs to longer term 
+schedules in light of the recent higher gas prices. 
+Auction
+After a nervous night when only one bid had come to the state's Internet site 
+by midnight on Tuesday, California officials were happy to announce that they 
+had almost 40 bids at an average of 6.9 cents per kilowatt-hour, below the 
+7.4 cent real cap state officials had set internally as the threshold between 
+doable and impossible.  This was well above the 5.5 cent ceiling the governor 
+had publicly stated as the preferred level.  Davis will now turn the 
+negotiating process over to David Freeman, who heads the Los Angeles electric 
+agency and is generally considered the dean of public-private utilities in 
+the west.   One thing to note, the State of California has no intention of 
+any credit guarantees for the bids with the Department of Water Resources Several California legislators have made it very clear that they do not want 
+the state to be ultimately responsible for these power purchases.
+Robert Johnston
+01/26/2001 03:07 PM
+Executive Summary:
+AB18X is the focal legislative point for the proposed bailout plan, but=20
+contains several problems.
+Per yesterday's morning report, the bill includes a plan in which the=20
+utilities would issue stock warrants in exchange for financial assistance=20
+from the state.
+The bill will be subject to attacks from consumer groups, which will slow its=20
+passage. Timing is crucial because of the February 7th deadline for the FERC=20
+emergency order and the February 13th deadline for debt forbearance.
+The bill also contains little detail about costs.  The cost of the bailout=20
+cannot be determined until the final auction results are known and the=20
+utilities reach a deal with Davis with respect to the share of outstanding=20
+debt that must be paid by the parent companies of the utilities.
+Sources report that Davis will insist  that at least 43 percent of the=20
+outstanding PG&E/SoCal debt should be absorbed by the parent corporations.
+1. AB18X- The "Bailout" Bill
+There are a number of key problems with AB18X.=20
+The bill is being presented by its drafters as a "work in progress." The=20
+current bill is likely to be significantly different next week after consumer=20
+groups blast it in committee hearings and in the press.  Also, the fiscal=20
+effect of the bill is listed as "unknown", because the costs of the long-term=20
+contracts being bid upon in the auction are not yet known.  Moreover, the=20
+audit of the utilities and its recommendation for the share of utility debt=20
+to be paid by the state versus the parent companies is not yet finalized (see=20
+below).
+The industrial users are unhappy with this bill because they will bear the=20
+burden of the costs.  Approximately 35% of power customers in CA are=20
+residential, and another approximately 10% are commercial or users with=20
+emergency status; this means that half or more of all power customers in CA=20
+will benefit from price controls on their power.  This, in turn, leaves the=20
+large industrial customers footing the bill.  They are saying that this may=20
+result in job losses and may even give them incentive to leave the state.
+The State of California is talking about issuing revenue bonds to pay off the=20
+utilities=01, debt.  There is an important but subtle difference between these=20
+and general obligation bonds, which draw from tax revenues and assets to pay=20
+debt.  Revenue bonds draw from the revenue gained from actually using=20
+something.  For example, a stadium developer might issue revenue bonds to pay=20
+for a new stadium, then make revenue from the team that uses the stadium. =20
+How will that work in the case of the utilities?  There is no guarantee that=20
+there will be positive revenue to pay back the bonds.=20
+California=01,s interruptible power contracts have a 100-hour/year limit.  Most=20
+of those contracts are at or near that limit and will become firm power=20
+contracts.  This removes another option for finding power.
+2. The Audit:
+Many of the details in AB18X are subject to the results of the audit and the=20
+power auction.  Governor Davis has commissioned a study which shows that 43=20
+percent of the PG&E and SoCal Edison debt is owed to their parent companies. =20
+He views this as the minimum acceptable percentage that the parent companies=20
+should contribute to a bailout.
+The companies cannot simply eat the cost of their inter-company debt.  They=20
+do not have the cash to do so.  The question becomes, if the subsidiaries=01,=20
+bills are not paid, will they be forced to go into bankruptcy?
+3. The Auction:
+As told by us to some of you yesterday afternoon and as reported by the Wall=20
+Street Journal this morning, the low bids that have been announced from=20
+Wednesday=01,s auction are based on off-peak power.  This is why they are so=20
+low.  It is estimated that if Davis were to include off-peak power, the bids=20
+would be closer to 9.5 cents per kilowatt hour. =20
+Governor Davis is not disclosing the "true bid price" because to do so would=20
+not be "in the public interest."  While they legally can keep the auction=20
+terms secret, this makes an excellent bluff to try to get other power=20
+providers to bid lower for peak power.
+Since the real cost of power is higher than the auction price is making it=20
+appear, this means that there may actually be little or no margin between=20
+where the state buys power and where the utilities sell it.  No margin would=20
+mean no funds to pay down utility debt.
+4. The Rest of the West
+The federal order for other states to supply CA with power requires Oregon=20
+and Washington to draw down their own reservoirs.  The people of OR and WA=20
+are understandably upset about this.  It is not clear how much longer this=20
+can continue, as reservoir levels continue to drop.
+The problem is the drought impacting the entire Northwest is not getting any=20
+better even as Washington and Oregon hydroelectric plants dump water through=20
+their dams to keep the lights on this winter. Officials in these states are=20
+now bracing for electricity surcharges that could hit 50% by mid-summer and=20
+increase the casualties on the dot-com laden killing field.  Cities from=20
+Seattle to Tacoma and beyond are already passing legislation that scales in=20
+electricity surcharges that high and more. Seattle raised prices by 10% the=20
+first of January, with a further, emergency 18% increase is set to pass the=20
+city council on Monday. And city political officials warn that another 25%=20
+increase would be in effect by mid-summer -- unless the federal government=20
+agrees to plans by the western governors to request an emergency price cap=20
+for the summer.
+Although the Clinton administration and Bush administration steadfastly=20
+refused to impose such a price cap when Governor Davis requested it many=20
+times in the last month, western governors told our sources that they hope=20
+the political and economic considerations will change by late spring.=20
+"Although FERC head Hebert is a free-market freak," one government official=20
+told our sources, "this is very different than the price cap request=20
+California made. First, you could legitimately say California's problems stem=20
+from their screwed up de-regulation plan. But the west's problems this summer=20
+stem from a drought, and that is significantly different. Second, the Bush=20
+administration may want to punish Davis with thoughts of 2004 presidential=20
+politics in their head, but that will not apply to all of us across the=20
+Northwest and Southwest. We have a lot of Republicans on the hook here.=20
+Third, even if you think damage to the US economy from California's troubles=20
+won't be that great, the damage of 50% energy surcharges rolling across the=20
+entire western United States from Arizona to Washington has to get Bush's --=20
+or at least Cheney's -- attention."
+There is almost no snowpack in most of the northwest, according to these=20
+officials, so the usual rebuilding of water reserves necessary to generate=20
+electricity will not occur. Add to that the fact Northwest dams are being run=20
+harder than usual to keep up with the maxed-out energy demands across the=20
+west ,and you have the makings of a mid-summer economic disaster. "The=20
+reservoir behind Grand Coulee dam (the country's largest) is dropping at a=20
+foot a day since New Year's and there is no sign of that slowing," one=20
+official told our sources.
+Dave,
+Did you call Mark Koening?  He expected  your call as of Fri noon
+when he left a message on my voice mail.
+Vince
+Pamela Vande Krol Castro  Let me know if you need anything else. - Pam
+At 11:00 AM 1/26/01 -0600, you wrote:
+Pam

@@ -1,0 +1,957 @@
+This email will confirm that I left voice mail for you today at 3:20 confirming your meeting with Michael Alcantar tomorrow at 9:00 a.m. here in our San Francisco office.  If you have any questions please don't hesitate to contact me.  Thank you.
+Very truly yours,
+Amie C. King
+Alcantar & Kahl
+415-421-4143
+Talked to Edison about getting a meeting with Craver.  They're going to get back to me. 
+Best,
+Jeff
+Edison did not bring up the refund issue at all (doesn't mean that they won't, though).  Agree on the AB 1890 issue.  The clock stops in March of '02.
+Best,
+Jeff
+Wes,
+If Edison sticks to their plan, they will want to meet before November 7th.  They are wanting to discuss completely different issues than PG&E   To date, PG&E issues have been focused around the outcome of the FERC refund case. I have worked through a couple of examples of this under collection issue with Jeff and we agree, Edison's  argument  that the DA load contributed to the under collection is "technically" correct.   We will have to work with Jeff to build a compelling argument that ESP's should not be required to continue to contribute to the under collection, especially as of March 31, 2002, the end of the rate freeze as required in AB 1890.   Somehow we have to convince "the regulators"  that the original intent of the de-reg bill, that utilities recover what they can through no later than March, 02,  stay in place for the current DA load 
+Will keep you posted. 
+Wanda
+I talked to John Fielder (SVP Edison) about setting up a meeting for Barry Tycholiz with Edison's CFO about hedging Edison's QF price risk. Fielder wanted to talk about the negative CTC issue. Here's what he said:
+They plan to "settle" with the ESPs and pay them when they pay everyone else, which he re-iterated would be sometime in Q1'02.
+Edison is holding firm to the notion that the negative CTC contributed to the utility's undercollection and that the ESP's share of the undercollection has to be netted against the payables attributable to the negative CTC and owed the ESP.
+He said that they will propose to net it out in one of two ways:  1) lump sum netting (i.e., if they owe $50MM and the share of the undercollection is $30 MM, then they pay the ESP $20 MM; or 2) future reductions in PX Credit (i.e., they pay the ESP $50 MM, and then reduce the PX going forward until the $30 MM is paid down).  The numbers are illustrative only.
+In addition, he said that they have the view that a decision is going to have to be made about 1) whether DA customers pay for stranded costs tied to the DWR L-T contracts, and 2) whether DA customers pay going forward for stranded costs tied to the QF contracts.  (Edison is clearly lobbying the PUC to get DA customers to pay for these costs.)
+I recommended strongly that he de-link issues 1 and 2 above from the issue of paying us ASAP what they owe us for negative CTC.  He agreed.
+He said that the PUC judge's recently issued pre-hearing conference order requires that Edison "meet and confer" with ESPs prior to the Nov. 7th hearing, and that Edison intends to set something up with ESPs prior to that hearing.
+Fielder is also the point person on "getting ESPs paid" and intends to initiate settlement discussions with ESPs week after next.
+It was very clear from the conversation that Edison is going to do everything possible (at the expense of creditors) to maximize headroom under the settlement it struck with the PUC a few weeks ago.  Edison's stalemate with the QFs is evidence of it.  We shouldn't assume anything different with the Negative CTC issue.
+If you have any questions, let us know.
+Best,
+Jeff
+Jim: FYI.
+Is there someone on the California "Crisis" Team that can answer this question?
+Nancy, when we went through our last big DASR emergency week before last, the question was raised as to what was the effective date of a DASR, e.g., is it midnight of the day that you've submitted it, or if the utility picks up the information from their file server at 5:00 p.m. (SoCal) is does that determine the effective date such that anything submitted later would have an effective date of the following day?  Could you give us some guidance on the right answer?  We used the pickup time of the utility, in which case we had to have all the SCE DASRs submitted by about 3:00 Houston time to give CSC the ability to key the data into their system and run their batch process prior to SCE's pickup time.
+Bob
+Robert D Gresch
+08/31/2001 04:19 PM
+To clarify below.  The 3:00 cutoff for SCE DASRs will not allow for 480 SCE accounts.  CSC has stated they could do about 120 in an hour.  I have indicated it below in a revision.   The 480 would apply to a group of DASRs from all utilities.  Additionally, CSC has stated that from 6:00 forward, the amounts shown below are guesses of what they can do, but there is a lack of certainty.
+Robert D Gresch
+08/31/2001 03:34 PM
+Mark, per our conversations, these are the details of how much CSC can handled from a DASR bandwidth perspective, and what the utility and CSC deadlines are:
+Central Time		DASR Ability		          UDC Pickup Deadline	
+7:00 a.m.		1200
+11:00 a.m.		960				Cutoff for EEMC
+12:00 p.m.		840
+1:00			720
+2:00			600
+3:00			480	(120 SCE)		Need to have SCE DASRs to CSC 
+4:00 - 5:00		Batch Process Shutdown
+5:00			200
+6:00			70
+7:00			50				5:00 Pacific for SCE
+8:00 9:00			Batch Process Shutdown	
+10:00
+11:00
+12:00 a.m.
+1:00 a.m.						12:00 Eastern for PG&E and SDG&E
+Do we run the risk of them saying, Enron, on average your customers represented 5% of the load, therefore you owe us 5% of the undercollection, or $3B * 0.05 = $150M?  That's my biggest concern.  Thoughts?
+What do you think about the % of load argument?  This is Sue's e-mail 
+Wanda
+The new data are out from the CPUC.  Only reported as of 8/31/01.
+Need to think about it a bit.  Here's some of what we know based on the settlement:
+Total debt = 6.35 B
+After they contribute all cash on their books and agree to eat a little, the PUC is allowing them to collect somewhere between $3.0-3.3B--depends on who you talk to.
+The total owed to ESPs is $243 MM.
+Jeff,
+Do we know how much Edison's total under collection is?  Would it be as simple as to determine their total (around $3 billion?) and  gross receivable (before any payments - 145 million) and calculate the % (around 5%)?  This would result in a pretty small percentage.  Another way to look at it would be on a % of load basis.  If you use the DA load information Sue forwarded to us on October 1st,   this % (5.7%)  would also be very small.  How do you think they will look at it?  I think we would all agree to a 5% haircut, if they would JUST PAY US!
+Wanda
+Wanda:  I faxed the examples that Edison faxed us and that you and Michael and I talked about some time back.  I'm sure that's how Edison would calculate it.  Does it make sense to run the numbers and see what our "contribution" to Edison's undercollection would be under Edison's view?  If you need another copy, let me know.  Question:  I don't know what our book looks like on this issue, but if we were to take the "netting" through a reduction in the PX credit going forward, how much of a hit would that be, particularly if we were to get the $120 MM up front?
+Best,
+Jeff
+Jeff 
+How would we calculate EES' "contribution" to SCE undercollection?
+Jim
+I talked to John Fielder (SVP Edison) about setting up a meeting for Barry Tycholiz with Edison's CFO about hedging Edison's QF price risk. Fielder wanted to talk about the negative CTC issue. Here's what he said:
+They plan to "settle" with the ESPs and pay them when they pay everyone else, which he re-iterated would be sometime in Q1'02.
+Edison is holding firm to the notion that the negative CTC contributed to the utility's undercollection and that the ESP's share of the undercollection has to be netted against the payables attributable to the negative CTC and owed the ESP.
+He said that they will propose to net it out in one of two ways:  1) lump sum netting (i.e., if they owe $50MM and the share of the undercollection is $30 MM, then they pay the ESP $20 MM; or 2) future reductions in PX Credit (i.e., they pay the ESP $50 MM, and then reduce the PX going forward until the $30 MM is paid down).  The numbers are illustrative only.
+In addition, he said that they have the view that a decision is going to have to be made about 1) whether DA customers pay for stranded costs tied to the DWR L-T contracts, and 2) whether DA customers pay going forward for stranded costs tied to the QF contracts.  (Edison is clearly lobbying the PUC to get DA customers to pay for these costs.)
+I recommended strongly that he de-link issues 1 and 2 above from the issue of paying us ASAP what they owe us for negative CTC.  He agreed.
+He said that the PUC judge's recently issued pre-hearing conference order requires that Edison "meet and confer" with ESPs prior to the Nov. 7th hearing, and that Edison intends to set something up with ESPs prior to that hearing.
+Fielder is also the point person on "getting ESPs paid" and intends to initiate settlement discussions with ESPs week after next.
+It was very clear from the conversation that Edison is going to do everything possible (at the expense of creditors) to maximize headroom under the settlement it struck with the PUC a few weeks ago.  Edison's stalemate with the QFs is evidence of it.  We shouldn't assume anything different with the Negative CTC issue.
+If you have any questions, let us know.
+Best,
+Jeff
+Sorry I missed your call.  Thanks very much.  Wanted to make sure that I had the correct copies for release.
+Best,
+Jeff
+Hope this helps.
+Please replace the RTO documents sent to you last week, with the REVISED and UPDATED RTO documents attached to this email. =20
+The documents can be used as talking points or handouts in meetings with state and federal policy makers and their staff.  (Documents range in length from 3-6 pages).
+If you have questions, please do not hesitate to contact me.
+Thank you.
+Janel Guerrero
+Director, Government Affairs
+713-853-9104 direct
+713-851-3778 mobile
+Here's what I'll do.  I'll go back and look at the materials they sent us.  Maybe you could do the same, so at least we have an idea of what they'll claim our "contribution" is.
+Best,
+Jeff
+Yeah.  Guess we do have to worry about that.   I was thinking it would apply to our receivable, not the total under collection, but that would not make sense.  Maybe the other idea will work.  It gets difficult to continue to think of ways around some of these problems.  Thanks,
+Wanda
+Do we run the risk of them saying, Enron, on average your customers represented 5% of the load, therefore you owe us 5% of the undercollection, or $3B * 0.05 = $150M?  That's my biggest concern.  Thoughts?
+What do you think about the % of load argument?  This is Sue's e-mail 
+Wanda
+The new data are out from the CPUC.  Only reported as of 8/31/01.
+PS  Ask me how tired of this bleeping issue I am.  Hang in there.
+Yeah.  Guess we do have to worry about that.   I was thinking it would apply to our receivable, not the total under collection, but that would not make sense.  Maybe the other idea will work.  It gets difficult to continue to think of ways around some of these problems.  Thanks,
+Wanda
+Do we run the risk of them saying, Enron, on average your customers represented 5% of the load, therefore you owe us 5% of the undercollection, or $3B * 0.05 = $150M?  That's my biggest concern.  Thoughts?
+What do you think about the % of load argument?  This is Sue's e-mail 
+Wanda
+The new data are out from the CPUC.  Only reported as of 8/31/01.
+Under Angelides flawed reasoning, shouldn't energy efficiency be outlawed, since every kilowatt saved means less money to pay DWR for the contracts and the bonds to fill the hole in the state budget?  Why pick on DA?
+Best,
+Jeff
+I asked Mike Day to make sure that we were kept in the distribution loop on this stuff.
+Best,
+Jeff
+Mike, Jeanne and Bob....the draft looks good...I have noted a few possible
+changes and one question.  Let's discuss at your convenience.
+With regard to interest, APSES asked for an audit.  Why don't we at least
+ask for interest and use it at least as a trading point to get the
+calculation after Jan. 18 pinned down. 
+Dan
+Law Offices of Daniel W. Douglass
+5959 Topanga Canyon Blvd.  Suite 244
+Woodland Hills, CA 91367
+Tel:   (818) 596-2201
+Fax:  (818) 346-6502
+What's your fax number?
+I don't understand the netting that you are referring to.  Does it mean that they will pay negative ctc's up to some just and reasonable amount and anything above the j&r level will be paid out when all of the other people are paid.  How do they define the "ESP's share of the undercollection?"
+I talked to John Fielder (SVP Edison) about setting up a meeting for Barry Tycholiz with Edison's CFO about hedging Edison's QF price risk. Fielder wanted to talk about the negative CTC issue. Here's what he said:
+They plan to "settle" with the ESPs and pay them when they pay everyone else, which he re-iterated would be sometime in Q1'02.
+Edison is holding firm to the notion that the negative CTC contributed to the utility's undercollection and that the ESP's share of the undercollection has to be netted against the payables attributable to the negative CTC and owed the ESP.
+He said that they will propose to net it out in one of two ways:  1) lump sum netting (i.e., if they owe $50MM and the share of the undercollection is $30 MM, then they pay the ESP $20 MM; or 2) future reductions in PX Credit (i.e., they pay the ESP $50 MM, and then reduce the PX going forward until the $30 MM is paid down).  The numbers are illustrative only.
+In addition, he said that they have the view that a decision is going to have to be made about 1) whether DA customers pay for stranded costs tied to the DWR L-T contracts, and 2) whether DA customers pay going forward for stranded costs tied to the QF contracts.  (Edison is clearly lobbying the PUC to get DA customers to pay for these costs.)
+I recommended strongly that he de-link issues 1 and 2 above from the issue of paying us ASAP what they owe us for negative CTC.  He agreed.
+He said that the PUC judge's recently issued pre-hearing conference order requires that Edison "meet and confer" with ESPs prior to the Nov. 7th hearing, and that Edison intends to set something up with ESPs prior to that hearing.
+Fielder is also the point person on "getting ESPs paid" and intends to initiate settlement discussions with ESPs week after next.
+It was very clear from the conversation that Edison is going to do everything possible (at the expense of creditors) to maximize headroom under the settlement it struck with the PUC a few weeks ago.  Edison's stalemate with the QFs is evidence of it.  We shouldn't assume anything different with the Negative CTC issue.
+If you have any questions, let us know.
+Best,
+Jeff
+thanks.  it's on its way.  i'll give you a call, or give me a call when you've had a chance to look at it.  i'll include steve swain on the fax.
+503-464-3740
+What's your fax number?
+I don't understand the netting that you are referring to.  Does it mean that they will pay negative ctc's up to some just and reasonable amount and anything above the j&r level will be paid out when all of the other people are paid.  How do they define the "ESP's share of the undercollection?"
+I talked to John Fielder (SVP Edison) about setting up a meeting for Barry Tycholiz with Edison's CFO about hedging Edison's QF price risk. Fielder wanted to talk about the negative CTC issue. Here's what he said:
+They plan to "settle" with the ESPs and pay them when they pay everyone else, which he re-iterated would be sometime in Q1'02.
+Edison is holding firm to the notion that the negative CTC contributed to the utility's undercollection and that the ESP's share of the undercollection has to be netted against the payables attributable to the negative CTC and owed the ESP.
+He said that they will propose to net it out in one of two ways:  1) lump sum netting (i.e., if they owe $50MM and the share of the undercollection is $30 MM, then they pay the ESP $20 MM; or 2) future reductions in PX Credit (i.e., they pay the ESP $50 MM, and then reduce the PX going forward until the $30 MM is paid down).  The numbers are illustrative only.
+In addition, he said that they have the view that a decision is going to have to be made about 1) whether DA customers pay for stranded costs tied to the DWR L-T contracts, and 2) whether DA customers pay going forward for stranded costs tied to the QF contracts.  (Edison is clearly lobbying the PUC to get DA customers to pay for these costs.)
+I recommended strongly that he de-link issues 1 and 2 above from the issue of paying us ASAP what they owe us for negative CTC.  He agreed.
+He said that the PUC judge's recently issued pre-hearing conference order requires that Edison "meet and confer" with ESPs prior to the Nov. 7th hearing, and that Edison intends to set something up with ESPs prior to that hearing.
+Fielder is also the point person on "getting ESPs paid" and intends to initiate settlement discussions with ESPs week after next.
+It was very clear from the conversation that Edison is going to do everything possible (at the expense of creditors) to maximize headroom under the settlement it struck with the PUC a few weeks ago.  Edison's stalemate with the QFs is evidence of it.  We shouldn't assume anything different with the Negative CTC issue.
+If you have any questions, let us know.
+Best,
+Jeff
+Greetings:
+Thanks for talking the other day.  Quick question.  Are the minimum flows at Blythe set in the BCAP?  Presumably, SoCal's 100% at risk for the flows/dollars once they're set?  Or is there some proportionate sharing?  And what's the sharing, if any on the upside?  If I'm missing something, or don't have this right, let me know.
+Best,
+Jeff
+No, I don't think so.  Haley and Wil's vocabularies may expanded a bit, though.  Thanks again for  having them.  Very kind of you.
+Best,
+Jeff
+PS  You guys get all the cards.
+were we too ribald last night?
+Nancy
+(707) 251-4870 (phone)
+(707) 265-5446 (fax)
+"Plus je bois, mieux je chante"
+Talked to Pescetti yesterday.  Prior to returning my call, he had received the information that Joe Kelliher had already been appointed to the open Republican spot, and therefore understands that there's no longer a Republican seat to run for. We had a good talk. I told him that reinstating DA was the most important energy issue facing California.
+Best,
+Jeff
+Could you forward the gas daily article?  Thanks.
+Jeff
+Jeff, Gas Daily has an article on DWR activities for purchasing gas.... do you know Pete Garris and is he the guy we want to get together with... or is Balwin's co. going to carry the ball. I remain unclear as to who actually is doing the gas buying..
+Further to our conversation of last week... let's meet with these guys soonest. 
+BT 
+u still in DC? jeff
+Could you make sure that whomever's doing the letter to the California Ds gets a copy to me and Sue (want to keep the family happy, don't you know).
+Thanks a million.
+Boy do we need the cash from that merger.  Please hurry.
+Best,
+Jeff
+You know what is more recently?  Reason I ask is that in the past, when volumes have been low, SoCal's had to "prop up" flows, i.e., keep a minimum at Blythe for "operational reasons" to serve San Diego (they said).  So (just to give them the benefit of the doubt), I was wondering if there might be something to that recently.  Pure speculation, but wondering if you had any info.  Because I certainly can't think of ANY other reason for their behavior.  I'm calling another PUC staffer today to discuss. In the meantime, are we continuing to make the request to SoCal for service?  Might be a good idea to keep doing that 
+Best,
+Jeff
+Hi Jeff -  Throughput to Blythe has been averaging about 84% this year with peak flows of 99% in Jan and March.  In your sentence below, do you mean to ensure max vols through Blythe?  Typically, Topock averages higher throughput than Blythe.  Thanks for your help.
+Lorraine
+Talked to someone at the PUC (and I'll be talking to additional folks over there).  Question:  Do we know what volumes through Blythe have been?  One thing that might be happening is that SoCal's restricting flows at Topock in order to ensure minimum volumes through Blythe.
+Best,
+Jeff
+Yes.  I called him yesterday after the call and filled him in on all the details. So he's up to speed; but feel free to forward.
+Best,
+Jeff
+Also, didn't want to put in the note, but I got the impression from Fielder that he's not real keen on extending the stipulation.  But I think we should push it, if for no other reason than to keep the PUC out of it.
+Jeff, thanks.  Can I forward to Mike Day?
+I talked to John Fielder (SVP Edison) about setting up a meeting for Barry Tycholiz with Edison's CFO about hedging Edison's QF price risk. Fielder wanted to talk about the negative CTC issue. Here's what he said:
+They plan to "settle" with the ESPs and pay them when they pay everyone else, which he re-iterated would be sometime in Q1'02.
+Edison is holding firm to the notion that the negative CTC contributed to the utility's undercollection and that the ESP's share of the undercollection has to be netted against the payables attributable to the negative CTC and owed the ESP.
+He said that they will propose to net it out in one of two ways:  1) lump sum netting (i.e., if they owe $50MM and the share of the undercollection is $30 MM, then they pay the ESP $20 MM; or 2) future reductions in PX Credit (i.e., they pay the ESP $50 MM, and then reduce the PX going forward until the $30 MM is paid down).  The numbers are illustrative only.
+In addition, he said that they have the view that a decision is going to have to be made about 1) whether DA customers pay for stranded costs tied to the DWR L-T contracts, and 2) whether DA customers pay going forward for stranded costs tied to the QF contracts.  (Edison is clearly lobbying the PUC to get DA customers to pay for these costs.)
+I recommended strongly that he de-link issues 1 and 2 above from the issue of paying us ASAP what they owe us for negative CTC.  He agreed.
+He said that the PUC judge's recently issued pre-hearing conference order requires that Edison "meet and confer" with ESPs prior to the Nov. 7th hearing, and that Edison intends to set something up with ESPs prior to that hearing.
+Fielder is also the point person on "getting ESPs paid" and intends to initiate settlement discussions with ESPs week after next.
+It was very clear from the conversation that Edison is going to do everything possible (at the expense of creditors) to maximize headroom under the settlement it struck with the PUC a few weeks ago.  Edison's stalemate with the QFs is evidence of it.  We shouldn't assume anything different with the Negative CTC issue.
+If you have any questions, let us know.
+Best,
+Jeff
+u get message from tribolet. re: px credit call at 4 pm (CDT)? jeff
+Thanks.  Laurie:  I'll assume that we'll meet at 7:45-8:00 at the front desk to coordinate a little bit?
+Best,
+Jeff
+Just to be clear, this is the how the presentation is set up.
+Laurie Malone
+Introduction
+Slides 2-4
+Jeff Dasovich
+Slides 5-10
+Laurie
+Slides 11-19
+Laurie and Jeff
+Slide 20 -- Q&A
+Good luck!
+Shirleen
+You know, I ran into Martha once (literally) in Washington D.C 
+Aha!  You really are interested in what Martha thinks after all! (And by the way, Martha never met a plant she didn't like as far as I know 
+_____  
+I like it.......you first.
+I actually did get them, it appear.  Apologies.
+Oakland Option:
+Outbound
+SOUTHWEST AIRLINES 
+THUR 20SEP 
+Depart 		OAKLAND CA 	700A 
+Arrive 		BURBANK CA 	805A
+WN 1494 Y THU 
+AIRCRAFT: BOEING 737-300
+Return
+SOUTHWEST AIRLINES 
+Depart 		BURBANK CA 435P
+Arrive 		OAKLAND CA 540P
+WN 2364 Y THU 
+AIRCRAFT: BOEING 737-500
+YOUR SOUTHWEST CONFIRMATION NUMBER IS: ML2FJT
+TICKET PRICE IS 201.50 ROUNDTRIP REFUNDABLE
+ALL FARES ARE SUBJECT TO CHANGE UNTIL TICKETED/PURCHASED
+-OR-
+SFO Option
+UNITED AIRLINES 20SEP 
+Depart 		SAN F CA       	600A
+Arrive 		BURBANK CA 	708A
+UA 2203    B          THU AIRCRAFT: BOEING 737-300
+UNITED AIRLINES Depart 		BURBANK CA	415P
+Arrive 		SAN F CA       	524P
+UA 2456    B          THU AIRCRAFT: BOEING 737-500
+RESERVATION NUMBER(S)  UA/ZLQ0PI
+TICKET PRICE IS 261.94 ROUNDTRIP REFUNDABLE
+ALL FARES ARE SUBJECT TO CHANGE UNTIL TICKETED/PURCHASED
+(car is booked I just didn't include it in this "condensed" version to you!)
+Joseph Alamo 
+Sr. Administrative Assistant 
+Global Government Affairs 
+ph. (415) 782-7841 
+fax (415) 782-7854 
+e-mail: joseph.alamo@ 
+Hi Mark:
+Any chance of meeting with you and the gang from DWR on Monday morning or sometime Tuesday?
+Best,
+Jeff
+no. body to body.
+with your car?
+_____  
+Calif Resells Surplus Power At A Loss In Second Quarter
+LOS ANGELES -(Dow Jones)- The California agency buying power in lieu of the state's ailing utilities resold electricity in the spot market during the second quarter at an average price of $45 a megawatt-hour, the agency said Wednesday. 
+The announcement by the California Department of Water Resources was an answer to critics who blasted the department this summer for having to resell surplus power for as little as $1 a megawatt-hour because it secured too much electricity under long-term contracts negotiated by the administration of Gov. Gray Davis, the department said. 
+In a press release, the department's California Energy Resources Scheduling division, its power-marketing arm, said it resold 224,871 megawatt-hours, or 1.1% of its total purchases. That power generally was first bought on the spot market or through monthly or quarterly contracts, not the long-term contracts, the department said. 
+Such sales are typical of any power-buying operation, as demand for electricity can vary in unpredictable ways, the department said. 
+The DWR is responsible for buying all the power needed by the customers of the state's three main utilities beyond what the utilities generate themselves or have secured under their own long-term contracts - or about one-third of the total. 
+According to the DWR, power secured under Davis' long-term contracts covers one-third to one-half of the electricity it must supply. Short-term deals, such as monthly or quarterly contracts, represent one-third of the portfolio. The rest is bought in the spot market. 
+The state has put its average cost of power under the long-term contracts at 7.9 cents per kilowatt-hour for the first five years and 6.9 cents per kilowatt-hour for the next five years. 
+Davis has taken heat for locking up too much electricity at high prices. Similarly, the Department of Water Resources has been criticized for amateurish purchasing practices. 
+The DWR releases information on its power transactions quarterly to protect its negotiating position, the department said. 
+The DWR buys power for customers of PG&E Corp. (PCG) unit Pacific Gas & Electric, Edison International (EIX) unit Southern California Edison and Sempra Energy (SRE) unit San Diego Gas & Electric. 
+Nice presentation.  Look out Horowitz!!  My suggestions are attached.  Two other things:
+1) If you're not fully prepared to defend the numbers on the "blunders" slide, I'd reconsider using it. There may be press there, and they may press you on them.
+2) In place of the Jefferson quote ("freedom fighter" may be viewed as somewhat over the top--though I'm in complete agreement--), you might try the J.S. Mills quote "When in doubt, always trust markets."
+Finally, in these sensitive times, the term "hostage" may not be viewed as 100% sensitive.
+Best,
+Jeff
+Here it is
+Those were Rick's and Steffe's.  I was never sure where they came from and didn't use them, per se.  We can talk more about it.
+$12 billion came from IEP, the rest from your slides -- Are your numbers defendable
+Nice presentation.  Look out Horowitz!!  My suggestions are attached.  Two other things:
+1) If you're not fully prepared to defend the numbers on the "blunders" slide, I'd reconsider using it. There may be press there, and they may press you on them.
+2) In place of the Jefferson quote ("freedom fighter" may be viewed as somewhat over the top--though I'm in complete agreement--), you might try the J.S. Mills quote "When in doubt, always trust markets."
+Finally, in these sensitive times, the term "hostage" may not be viewed as 100% sensitive.
+Best,
+Jeff
+Here it is
+on phone with DWR trying to get a meeting for Tycholiz.  will get on phone pronto.
+Thanks.
+Sorry.  It was in yesterday's Gas Daily on page 5.
+Mara
+Didn't work.  Was it in yesterday's gas daily?  If so, I can access it.  Thanks very much for your help.
+Best,
+Jeff
+Barry asked me to send you this article about DWR in yesterday's Gas Daily.  The article is on page 5.  I am not sure if this will work;  if it doesn't, email me back and I will send the article a different way.
+Thanks, 
+Mara Bronstein 
+you're such a kidder.
+i was kidding
+_____  
+bumpy times.  gonna take alot of work to come back.  i'll fill you in some time.
+You guys sure are in the news a lot!!  I think you should take over - it's
+the only way out
+CFO.com's
+Today in Finance
+________________________________Sponsor ________________________________
+Infrastructure: it starts with you.  See the difference when your
+infrastructure works around YOUR needs rather than the other way around.
+Servers are flexible enough to handle multiple operating systems.  Software
+puts your entire infrastructure in reach of your keyboard.  Storage squeezes
+more efficiency out of resources you've already invested in.  It's the HP
+difference at:
+Thursday, October 25, 2001
+Circuit Breaker: Enron Dumps CFO Amid Conflict Questions
+By Stephen Taub
+Enron Corp. is set to replace CFO Andrew Fastow. As CFO.com reported in a
+story earlier this week, Fastow's role in a limited partnership has raised
+concerns about a conflict of interest. 
+Fastow is succeeded by Jeff McMahon, who had been serving as chairman and
+CEO of Enron's Industrial Markets group. From 1998 to 2000, McMahon was
+Enron's treasurer. He resigned that post in part because he disapproved of
+Fastow's role in running two partnerships, according to The Wall Street
+Journal. 
+"In my continued discussions with the financial community, it became clear
+to me that restoring investor confidence would require us to replace Andy as
+CFO," said Kenneth L. Lay, Enron chairman and CEO, in a statement. 
+McMahon, 40, joined Enron in 1994 and spent three years in the London office
+as CFO for the company's European operations. Upon returning to the United
+States, McMahon assumed the post of EVP of finance and treasurer for Enron
+Corp. In 2000, he was named president and COO of Enron Net Works, where he
+focused on E-commerce activities. 
+As reported on Friday, The Wall Street Journal said a limited partnership
+organized by Fastow, who has been Enron's CFO since 1997, racked up millions
+of dollars in profits from transactions conducted with the energy company. 
+On Monday, Enron said the Securities and Exchange Commission requested
+information regarding certain related party transactions. 
+On October 16, Enron stunned Wall Street when it announced that it would
+take a $1.01 billion after-tax charge for the September 30 quarter. 
+Since the announcement, Enron's share price has more than halved. 
+Fastow's dismissal seems to be an about-face for Enron. In a conference call
+Tuesday, Lay said the partnerships were fully disclosed and took steps to
+assure that there was no conflict as Fastow played both roles. Enron has
+since dissolved the partnerships. 
+"Obviously, the board and even the lawyers and auditors realized that there
+would be an apparent conflict of interest there and the board prescribed
+certain methods for it to be dealt with ... so Enron would never be
+compromised," Lay said in published accounts. "We are very concerned [at]
+the way Andy's character has been loosely thrown about in certain articles,
+as well as the company's reputation 
+Predictably, on Wednesday at least two law firms - Stull, Stull & Brody and
+Bernstein Liebhard & Lifshitz, L.L.P - filed class-action suits against
+Enron, Lay, Fastow, and Jeffrey K. Skilling, the former Enron chief
+executive who resigned in August. 
+The suits allege that the defendants issued false and misleading information
+that materially misstated the company's condition and prospects to the
+investing public. Moreover, the suits argue that the company failed to
+disclose material information necessary to make its prior statements not
+misleading. 
+The complaints charge that Enron issued a series of statements concerning
+its business, financial results, and operations which failed to disclose,
+among other things: 
+* The company's Broadband Services Division was experiencing declining
+demand for bandwidth, and the company's efforts to create a trading market
+for bandwidth were not meeting with success, as many of the market
+participants were not creditworthy. 
+* The company's operating results were materially overstated, since Enron
+failed to write down in a timely fashion the value of its investments with
+certain limited partnerships - the partnerships that were managed by Fastow.
+* Enron was failing to write down impaired assets on a timely basis in
+accordance with GAAP. 
+Read On! For More of Today in Finance
+**********************FROM OUR FEATURED ADVERTISER 
+Save on e-billing.  With $25,000 off the top.
+From now until Nov. 2, 2001, you can sign up for the industry-leading
+OpenBill
+Express e-billing system and receive implementation free - a
+$25,000 savings. The secure e-billing system can be implemented in 48 hours
+and you can customize branding, marketing messages and bill design yourself.
+Call (972) 797-4800, or visit
+Take CFO's Budgeting and Planning Software survey!
+The results of CFO's  survey will be used in a December Technology Report
+that will examine the change management issues that surround implementations
+of this type of software in organizations. All responses will only be used
+in the aggregate. Your input is important, please take a moment and
+participate. Thank you! 
+Also on CFO.com:
+BANKING: Banking Without Borders.
+CFOs ON THE MOVE: Parts is Parts? CFO at Lear Corp. Steps Down.
+CFO EXCELLENCE: Lessons from the Top Cop of Risk.
+SOFTWARE: Financial Portals -- Behind the Green Door.
+Get the Magazine - FREE Subscription - CFO Magazine is free to qualified
+readers. To subscribe go to:
+Become a registered user and receive FREE, unlimited access to CFO.com. Go
+To access the Unsubscribe page, click this link:
+This email was sent to:nancy.sellers@robertmondavi.com
+talked to karen denne.  she saw presentation and agrees.  she's going to call sue.
+Sweetheart, very sorry to hear.  You're in my thoughts and prayers and I hope you're doing OK.  Sometimes, things just aren't very fair.
+=20
+Best,
+Jeff
+=20
+=20
+Dear Friends,
+=20
+Today, a very delicate and beautiful bouquet of flowers was delivered to me from Enron Government Affairs.  It is a bouquet of blooming orchids, purple hydrangia, pink roses and one yellow rose.  It is a delicate and beautiful arrangement of flowers that remind me of my relationship with Jude Moussa.
+=20
+Jude was an emissions broker for Cantor Fitzgerald and worked on the 104th floor of the North Tower at the World Trade Center.  Jude and I met last April while I was working at Enron Global Markets.  In addition to sharing some wonderful times together in Houston and New York City, we talked often.  Last Friday morning, Jude called me to say hello - one last time. =20
+=20
+My friend was a kind and considerate man with a gentle heart.  The irony of his life is that he and his family fled Lebanon in the eighties to escape the war there. =20
+=20
+Jude's world is now a world of eternal love and peace.  And his spirit will be kept alive by the memories that his family and friends share with each other, and with those of you who didn't have the joy of knowing him personally.
+=20
+Your flowers, your comforting words, and your friendship have eased my sadness these past few days.  Since yesterday, I have been in contact with Jude's family and I have relayed to them the outpouring of prayers and sympathy that are directed at their son and the other victims of this terrible tragedy.
+=20
+Setting aside my grief, I hope that your own sorrow and loss are eased in the presence of family and friends. =20
+=20
+Love,  Janel
+=20
+=20
+=20
+fyi.  sue's at home.  try her cell phone 415.902.4108.
+best,
+Jeff
+Sue's presentation.
+Here it is
+And here are my comments.
+Nice presentation.  Look out Horowitz!!  My suggestions are attached.  Two other things:
+1) If you're not fully prepared to defend the numbers on the "blunders" slide, I'd reconsider using it. There may be press there, and they may press you on them.
+2) In place of the Jefferson quote ("freedom fighter" may be viewed as somewhat over the top--though I'm in complete agreement--), you might try the J.S. Mills quote "When in doubt, always trust markets."
+Finally, in these sensitive times, the term "hostage" may not be viewed as 100% sensitive.
+Best,
+Jeff
+Here it is
+FYI.
+=20
+The State Board of Equalization (SBE) earlier today voted 3-1 to adopt a revised Rule 905, to go to state assessment of power plants.  They adopted the staff recommendation, but changed the effective date to January 1, 2003.  This is being done in an effort to "push the Legislature to act on AB 81 (Migden)."  The motion was made by Controller Connell and SBE Members Chiang and Klehs voted in support.  Parrish abstained, while Andal voted no.
+=20
+Chris Micheli, Esq.
+Carpenter Snodgrass & Associates
+1201 K Street, Suite 710
+Sacramento, CA  95814
+(916) 447-2251
+FAX: (916) 445-5624
+EMAIL: cmicheli@carpentersnodgrass.com  
+got your message.  one set of golf clubs--right-handed--is all that i'll need (well, that and about 100 golf lessons!).  thanks for your help.
+Best,
+Jeff
+Just a reminder 
+Ginger Dernehl
+Administrative Coordinator
+Global Government Affairs
+Phone# 713-853-7751
+Fax# 713-646-8160
+Rick will hold a conference call on Friday, October 26 to update everyone on what has transpired since last Friday's department call.  The call will take place as follows:
+Date:=09=09Friday, October 26
+Time:=09=093:00 PM (CDT)
+Number:=091-800-283-1805 (domestic)
+=09=09703-736-7385 (int'l)
+Location:=09ECN 4701 (for those in Houston)
+Thanks and please call if you have any questions.
+Ginger Dernehl
+Administrative Coordinator
+Global Government Affairs
+Phone# 713-853-7751
+Fax# 713-646-8160
+His name is Sean Steele.  I'll have his number pronto.
+You're guess is as good as mine.  Jeff?
+Who is the chairman?  Maybe I can find the number on their internet site.
+Ginger Dernehl
+Administrative Coordinator
+Global Government Affairs
+Phone# 713-853-7751
+Fax# 713-646-8160
+Rick asked me to send him the phone number for the Chairman of the California Republican Party.  I don't have his phone number, but I do have the number of Tiffany A. Gharagozlou (Deputy Finance Director).  Her number is 818.841.5210.
+Oops. It's Shawn, not Sean.  And here's what I got.
+Shawn Steele 
+323-951-9000 (law office) 
+818-841-5210 (Rep. Party HQ) 
+I found it already.  Thanks!
+Ginger Dernehl
+Administrative Coordinator
+Global Government Affairs
+Phone# 713-853-7751
+Fax# 713-646-8160
+His name is Sean Steele.  I'll have his number pronto.
+You're guess is as good as mine.  Jeff?
+Who is the chairman?  Maybe I can find the number on their internet site.
+Ginger Dernehl
+Administrative Coordinator
+Global Government Affairs
+Phone# 713-853-7751
+Fax# 713-646-8160
+Rick asked me to send him the phone number for the Chairman of the California Republican Party.  I don't have his phone number, but I do have the number of Tiffany A. Gharagozlou (Deputy Finance Director).  Her number is 818.841.5210.
+Thank you.
+Shawn Steele
+323-951-9000 (law office)
+818-841-5210 (Rep. Party HQ)
+If you need anything else, let me know.
+-Bev
+Sorry about that.  I'll get back to you with some other dates.
+The 15th is Enron's Management Conference and the 22nd is Thanksgiving.  Any other dates?
+Hi Brad:
+I finally got in touch with the people from Perfect.  They'll be in Houston on the 15th and the 22nd of November.  Either of those days work for you?  If so, any time preference?
+Best,
+Jeff
+Jim:
+Let Jeremy know that there will be some big dogs (i.e., large customers) coming out with guns a'blazin' on this and that we're working closely with them.
+Also, Sue and I discussed, and we can't see any reason why we wouldn't want very long, very dragged out hearings on this.  The longer the issue drags on, the more exposed DWR will be, the greater the likelihood of DWR contract negotiation, and the tougher it will be to drag the suspension date back to July 1.  In addition, hearings would (finally) force DWR to answer some questions---this time under oath, and possibly with the press present, which would be very beneficial--I'm talking to other folks to try to get Loretta make that happen.  Either of you see any reason why we wouldn't want to have hearings?
+Best,
+Jeff
+Sue -
+Thanks,
+Jim
+You ain't kidding.  Hope you and yours are OK, given the circumstances.  All the best.
+Jeff
+How much fun is It thinking about gov davis on a saturday? What we do for the mother ship My lapton is not working so I do not have access to my usual mail lists.  Apologies.
+*	About 1 AM this morning, Burton closed down the Senate without voting out the Edison MOU.
+*	Burton said there weren't the votes for it (which is true; there were about 6 votes for the MOU in the Senate), and he didn't want to "embarrass" Davis.
+*	Burton said that there weren't the votes because the vote was a giveaway to big business, a corporate bailout, and a bad deal for consumers.
+*	Davis responded by saying 1) the Assembly did a good job, 2) the Senate failed to do its job and 3) Davis would call a special session to start all over again and try to get an MOU.  The special session would begin in about 2 weeks.
+*	Davis said that Edison promised him they wouldn't take themselves into voluntary bankruptcy in the interim.
+A press account and Davis' statement are attached.
+Best,
+Jeff
+GOVERNOR DAVIS COMMENTS ON FAILURE OF SENATE TO APPROVE EDISON LEGISLATION
+Will Call 3rd Special Session to Keep Edison from Bankruptcy
+SACRAMENTO
+Governor Gray Davis made the following comments after legislation designed
+to restore Southern California Edison to creditworthiness failed to win
+approval in the California State Senate.
+"I am proud of the work done by the Assembly to get the State out of the
+business of buying electricity by restoring Edison to creditworthiness.
+Unfortunately, however, the Senate has not gotten the job done.
+"It is critical to keep Edison solvent so that we do not lose 3,000
+Megawatts of power from renewable energy and small power producers. We
+worked hard to bring this energy, which was crucial in avoiding blackouts,
+back on-line earlier this summer.
+"I will call a Third Extraordinary Session, which will begin in
+approximately two weeks, so that Edison can avoid bankruptcy. Edison has
+assured me that it will not seek bankruptcy and that it believes that its
+creditors will continue to show restraint."
+California Senate adjourns without voting on plan to save struggling utility 
+JENNIFER KERR, Associated Press Writer
+Saturday, September 15, 2001 
+?2001 Associated Press 
+URL 
+(09-15) 02:57 PDT SACRAMENTO, Calif. (AP 
+The state Senate adjourned early Saturday without voting on a plan to rescue Southern California Edison from bankruptcy, and Gov. Gray Davis called an emergency legislative session for next month to try again to help the struggling utility. 
+As the California Legislature rushed to pass hundreds of bills and finish the 2001 session, a $200 million program to help the state's neediest schools won approval. So did bills to give driver's licenses to immigrants seeking citizenship and improve working conditions for shepherds. 
+But senators remained cool to Davis' idea of bailing out Southern California Edison. They failed to vote on the measure after it was approved last week by the Assembly, which also adjourned early Saturday. 
+"We didn't take it up because we didn't want to embarrass the governor," said President Pro Tem John Burton. "It would have been a rip-off of residential people to help big business and bail out a corporation 
+The deal's quiet death closed more than five months of work since Davis first announced the plan in April, saying the state would pay $2.76 billion for Edison's transmission system and let the utility sell consumer-backed bonds to repay the rest of its $3.9 billion debt. 
+Without the deal, Edison faces bankruptcy along with Pacific Gas and Electric Co., the state's largest utility. The company filed for Chapter 11 bankruptcy protection in April, after amassing about $8.9 billion in debt due to last year's sky-high electricity costs. Edison says it has accrued $3.9 billion in debts. 
+The special session is meant to take another shot at saving Edison from sliding into bankruptcy. 
+"I am proud of the work done by the Assembly to get the state out of the business of buying electricity by restoring Edison to creditworthiness," Davis in a statement after midnight Saturday. "Unfortunately, however, the Senate has not gotten the job done 
+The new school-improvement program would provide grants of $400 per student to schools with the state's lowest test scores. They will have nearly four years to improve scores or face sanctions as severe as closing the school. 
+The shepherd bill would give people who watch sheep some of the basic working conditions that other workers have in state law. Those include a 10-minute rest break for every four hours of work, tools paid for by the employer and toilets, lights and water in housing. 
+It also would put into state law a $1,050-a-month minimum wage for sheepherders. 
+While legislators toiled, Tuesday's terrorist attacks were never far from their minds. 
+Davis joined the Assembly for a brief memorial service that included a procession of lawmakers handing in letters they had written expressing their feeling about the attacks. 
+The Legislature approved sending $1 million from the California Victim Compensation fund to a similar program in New York to help victims of the terrorist attacks. 
+The letters will be printed in a special Assembly Journal. 
+"Here in California, our job is to keep the peace and preach tolerance," said Davis. 
+?2001 Associated Press 
+Thanks very much.  I'll try to subscribe again. Hey, forgive me for being a snoop, but do you not wear glasses at all anymore 
+Signed,
+Four eyes
+--- Florian Pestoni  > Subject: Re: Case study option
+__________________________________________________
+Do You Yahoo!?
+Make a great connection at Yahoo! Personals.
+I thought that might be the case.  Didn't want to be so bold as to bring it up, though.  You looked great with glasses.  You look great without them.  Thanks again for the email.
+Best,
+Jeff
+I took the plunge and got LASIK about a month ago. 
+Amazing to be without glasses or contacts for the
+first time in 20 years.  VERY convenient 
+Although some people tell me they miss the specs on
+me.
+Courtney
+--- "Dasovich, Jeff"  > Thanks very much.  I'll try to subscribe again. Hey,
+ forgive me for
+ being a snoop, but do you not wear glasses at all
+ anymore > 
+ Signed,
+ Four eyes
+ 
+__________________________________________________
+Do You Yahoo!?
+Make a great connection at Yahoo! Personals.
+Hey, I can't find steve kelly's email.  can you forward this to him?
+=20
+=20
+I'm not interested.  But is it more, or less, than you described?
+I may have misspoken this morning when describing the package.  Please contact Rick with any questions concerning the package 
+which game is it?
+Nancy
+(707) 251-4870 (phone)
+(707) 265-5446 (fax)
+"Plus je bois, mieux je chante"
+you're fired.
+I have NO idea.   Really.  Sincerely.  I thought I understood it, but I may have it all wrong 
+I'm not interested.  But is it more, or less, than you described?
+I may have misspoken this morning when describing the package.  Please contact Rick with any questions concerning the package 
+Trying again.
+Best,
+Jeff
+Here it is.  It's somewhat quick, but I don' t know what your timeline is (hopefully quick).  Let me know what you think (hope you don't mind that I modified your title).
+Any word from Loretta re: whether a letter from big customers would help in the fight against tantrums from Angelides?
+Best,
+Jeff
+Prentice will call you.
+Indy and KC in KC
+which game is it?
+Nancy
+(707) 251-4870 (phone)
+(707) 265-5446 (fax)
+"Plus je bois, mieux je chante"
+How do the 13th or 20th of November work?
+The 15th is Enron's Management Conference and the 22nd is Thanksgiving.  Any other dates?
+Hi Brad:
+I finally got in touch with the people from Perfect.  They'll be in Houston on the 15th and the 22nd of November.  Either of those days work for you?  If so, any time preference?
+Best,
+Jeff
+You see this?  What the hell is with Cramer?
+Date      October 25, 2001
+Time      07:00 AM - 08:00 AM
+Station   CNBC
+Location  Network
+Program   The Squawk Box
+Mark Haines, co-anchor:
+Joe Kernen, what's going on?
+Joe Kernen, co-anchor:
+We've got to shift gears into this Enron situation which
+has just been--you've been talking about it quite a bit,
+David--how could you not talk about it?  Seventy-six
+million shares yesterday, down fifty percent in the last
+two weeks.  This is a company with--what?--a hundred
+million in revenues.
+James Cramer, guest market commentator:
+Maybe.
+Kernen:  Yeah, right.  Anyone who does any trading in
+energy apparently, you know, uses Enron Online, so anything
+that destabilizes Enron to a great extent could destabilize
+the whole energy trading arena and 
+Cramer:  Go ahead, say it!  Say what you're thinking!  No
+one has said it yet.  We know the truth.  We believe that
+Enron caused a national short squeeze.  They knew every
+single number in this gas situation.  They wrecked the
+California utility system and profited from it.  That's my
+bet.  My bet that this--they had--look, they were the
+market maker.  Imagine if Instinet knew what you were going
+to be buying and took it ahead of you.  I think they
+cornered the market for electricity for about four months,
+made a huge fortune and now the company is unraveling and
+when someone--when the Justice Department gets in there
+we're going to discover this.
+Kernen:  Let's see what happened 
+Haines:  Now, wait a second 
+David Faber, co-anchor:
+Whoa, whoa, whoa!  The Justice Department, Jim?  Now, is
+that new?  Is that something--
+Cramer:  No, that would be, if I were a prosecutor,
+something 
+Faber:  OK, so they are not being investigated?
+Cramer:  Well, no, I'm actually being a little forward
+thinking.
+Kernen:  The SEC wants documents about the limited
+partnership transactions of Mr 
+Faber:  Which is very different from what Jim is talking
+about.
+Cramer:  No, I'm saying that this is what, if I were an
+enterprising prosecutor, I would say, Did we have a
+nationwide short squeeze in electricity caused by one
+company that had access to all the screens and knew exactly
+what was happening with the electricity market which then
+wrecked the California utility system, cost the consumer
+billions of dollars, and is now being hushed up?
+Kernen:  Well, let's talk about the actual news.  Here's
+yesterday's trading--
+Haines:  Wait a minute.
+Kernen:  Well, I just want to say that the guy is gone now.
+That's the new news here.  Did you read--did you know that
+Fastow, after four--
+Faber:  Late yesterday.
+Kernen:  Yeah, after four o'clock, Fastow is gone.  What's
+interesting--
+Faber:  He's the CFO--
+Kernen:  But he's a new CFO.
+Faber:  --who benefitted personally from some of these
+off balance sheet partnerships.
+Cramer:  Mark, you know, I'm not on thin ice here, I'm not
+on thin ice.
+Haines:  I just want to make sure we understand that this
+is your theory.
+Cramer:  This is my theory.
+Haines:  OK.
+Cramer:  It is just a theory.  It is my opinion.  But I
+think we've got to find out more about that short squeeze
+that occurred.
+Haines:  OK.
+Cramer:  We need to find out whether it was orchestrated.
+Kernen:  The new CFO might help regain some credibility for
+the company because he was the old treasurer who left that
+position a year or so ago because of some disagreements
+with how Mr. Fastow was doing business apparently.  So now
+he's back as CFO and we'll whether that calms the market
+down.
+Faber:  Well, what they need to do-- Joe, they need to come
+clean.  I mean, that is what all the investors in Enron and
+those who've left the company as investors over this last
+week have wanted.  Let's see everything; be as transparent
+as you possibly can be; tell us exactly what we need to
+know.  And as much as they need to come clean with their
+investors, they need to come clean with their trading
+counterparties because that is really what people are
+concerned about.
+Kernen:  Why is the credit worthiness issue such a big
+deal?  Anyone who does trading with them, if their credit
+worthiness were to go--if their credit rating were to go
+down, how would that affect energy trading?
+Faber:  Well, you want to know that they're going to be
+there on the other side and make good on the trades.
+Kernen:  I guess you would, wouldn't you?
+Faber:  Right.  Not that they aren't, but why would you--if
+you can trade with seven other guys--seven other companies,
+maybe you cut back a little bit on your exposure there.
+Kernen:  Now, why would--
+Faber:  And that would hurt their core business.
+Kernen:  Why are people expecting some type of action from
+the credit agencies, not because of the stock price, right?
+Because of something that could unravel--
+Faber:  Because of something related to these liabilities
+they may have--
+Kernen:  That they don't know about at this point.
+Faber:  --that they may have with regard to funding some of
+these off balance sheet partnerships that they backstopped
+in terms of borrowing that went on at the project level at
+the off balance sheet partnership.  Will it be a liability?
+They don't know.  But that's one of the reasons--
+Kernen:  We're talking hundreds of millions or billions?
+Faber:  They don't know.
+Kernen:  But there were billions of dollars in limited
+partners?
+Faber:  Yes.  About three billion in financing, I think is
+what some analysts estimated.
+Kernen:  This is a pretty big number.
+Faber:  Yeah, they can get to most of that with the assets
+that they have in the partnerships themselves.
+Kernen:  I use a six month chart to show what's happened
+over the last two weeks.  You got to look at here.  But if
+we went back a year, you'd see eighty as far as the high
+for Enron.  Now we're at sixteen.
+Faber:  Everybody else took a hit yesterday.  Dynegy got
+hurt.
+Kernen:  Well, I got Dynegy next.  Don't--  Here we go.
+Faber:  I'm sorry.  I'm getting a little excited.
+Kernen:  You are.
+Faber:  Enthusiastic about your charts.
+Kernen:  There's a weekly chart of Dynegy, and you know
+what's coming next, don't you?  Now I'm worried about the
+utility average.  I've worried about the transportation
+average a lot in my career.  Mark, now the utilities have
+replaced my worries.  I'm angst-ridden.  Did you see this
+chart?  We're breaking below the--
+Cramer:  That's a positive, not a negative, Joe.
+Kernen:  What's wrong with Cramer today?  What happened?
+Cramer:  I'm all fired up!
+Faber:  He really is.  My, God, he's got the DOJ getting
+all crazy, the FBI, the CIA.  You going down to En--you
+going down to Houston yourself?
+Cramer:  I may just have to.  I may have to clean up that
+whole city.
+Kernen:  Jim, why would the--that's the--now getting down
+to the lows, I mean, the other averages have come back
+quite a bit from the post-attack lows, the utilities are
+retesting those.  That's not something to worry about?
+Cramer:  No, because I think there's a lot of money going
+into more cyclical issues.  I think the economy is showing
+signs of getting better.  The consumer is certainly much
+stronger than we thought.  The base book didn't say the
+corporate was strong, but the consumer is strong.  Much
+stronger than before.
+Kernen:  All right.  In the past people have worried about
+the utility averages being a leading indicator, though.  I
+don't--we're talking about four hundred to two-ninety at
+this point.  That's a long way.
+Cramer:  This average has got a lot of problems to it, but
+I still think that--
+Kernen:  It's no longer the--
+Cramer:  --you sell this as safety.  We don't want safety
+as much as we want a little bit more reciprocality.
+Thanks.  Love to catch up on Tuesday when I get back, if that works for you.
+Best,
+Jeff
+Hey Jeff
+Yep there were a lot of people.  The class seems a lot
+more like an undergrad class: lecture style, one small
+book,  only one exam-in class final, no name tags, no
+attendance monitoring. Lecture seems to VERY closely
+mirror the book. While the logistics look favorable
+from a time perspective, I'm not sure how promising it
+looks from a "wow" that was a great class perspective.
+Class held from 6:00 til 8:30 ish, w/ a 5 min break
+(we voted).
+Hope you're havin fun on vacation!  Let me know if
+you're going to go to this class, or want to catch up
+on Tues durng break-
+Courtney 
+--- "Dasovich, Jeff"  > Hey.  Work prevented me from going to class at all
+ last nite.  Does the
+ course seem like it will be good?  Were there a
+ million people there?
+ Chances are very low that I'll get in, but I'm gonna
+ try anyway.  I'm on
+ vacation next week (yeah), but maybe we can catch
+ during the break on
+ the following Tuesday or Wednesday.  Good to see you
+ the other night.
+ Take care.
+ 
+ Best,
+ Jeff
+ 
+ >   > ATTACHMENT part 2 application/ms-tnef
+name=winmail.dat
+__________________________________________________
+Do You Yahoo!?
+Get email alerts & NEW webcam video instant messaging with Yahoo! Messenger
+Thanks for the invite, but I have class.  She have a job yet?
+Colleen is coming over for dinner next Tuesday and we are going to make some
+lavish dinner from gourmet recipes.  Let me know if you guys want to be
+there so we can plan and get enough for you.
+-C
+Cameron Sellers
+Vice President, Business Development
+PERFECT
+1860 Embarcadero Road - Suite 210
+Palo Alto, CA 94303
+cameron@perfect.com
+650.798.3366 (direct dial)
+650.269.3366 (cell)
+650.858.1095 (fax)
+Baldwin's traveling--meeting with DWR today.  But he knows we want to meet and knows the days we're talking about--left a message with his secretary.  I suspect that, if DWR is free on either Monday or Tuesday, we'll be meeting.
+Followed up with Fielder this morning.  He's at an off-site all day and is supposed to call me back COB today.  He knows we want to meet with Craver and offered to set it up.  If he hasn't got it scheduled when I talk to him, I'll go directly to Craver.  I'll hopefully have things more set in stone by end of today or tomorrow by noon.
+That work?
+Best,
+Jeff 
+Jeff, Just looking at teeing my a schedule.. any feedback from either/ both. 
+BT 
+I'll contact Lydia and you'll have materials well in advance of the meeting.
+The 13th would work much better, preferably in the afternoon.  Please contact Lydia Cannon (713-853-4893) to get a specific time on my calendar.  Also, any specific Perfect company information beforehand would be helpful.
+Thanks,
+Brad
+How do the 13th or 20th of November work?
+The 15th is Enron's Management Conference and the 22nd is Thanksgiving.  Any other dates?
+Hi Brad:
+I finally got in touch with the people from Perfect.  They'll be in Houston on the 15th and the 22nd of November.  Either of those days work for you?  If so, any time preference?
+Best,
+Jeff
+Hi Lydia:
+Could you let me know what time in the afternoon of November 13th works with Brad's schedule?  Will need 60 minutes.  Thanks very much for your help.
+Best,
+Jeff
+The 13th would work much better, preferably in the afternoon.  Please contact Lydia Cannon (713-853-4893) to get a specific time on my calendar.  Also, any specific Perfect company information beforehand would be helpful.
+Thanks,
+Brad
+How do the 13th or 20th of November work?
+The 15th is Enron's Management Conference and the 22nd is Thanksgiving.  Any other dates?
+Hi Brad:
+I finally got in touch with the people from Perfect.  They'll be in Houston on the 15th and the 22nd of November.  Either of those days work for you?  If so, any time preference?
+Best,
+Jeff
+It's going to be sometime in the afternoon on the 13th.
+Nice job.  In line with your letter, and in response to Wood's questionnaire about rolling the suspension date back to July 1, don't you think it is absolutely necessary to have hearings in order to establish a record prior to any decision? Wood throws around the $10 billion number in his questionnaire (ruling, whatever), without any substantiation whatsoever.  Shouldn't DWR and its rev. req. be thoroughly scrutinized in the hearing room before making a decision.  Seems logical though 1) logic has prevailed much lately and 2) I'm not a lawyer, so I could be missing the boat completely.
+Best,
+Jeff
+Dorothy -- Attached is a another version of the letter that takes a little
+different approach.  What do you think?  I worried that your first letter
+looks a little like an invitation to pile on the exit fees, of all types and
+in any magnitude.  I think we need to attack the premise that any DA causes
+an increase in DWR costs for other customers.  Bill
+Wanna sign onto this letter to Loretta? Any suggestions? We could make it a
+CEA thing.
+(I am copying Jeff D. as a courtesy...I think we need this to be just a
+customer deal).
+Dot
+498-3319
+This e-mail is intended solely for use of the individual to whom it is
+addressed and may contain information that is privileged, confidential or
+otherwise exempt from disclosure under applicable law.  If the reader of
+this e-mail is not the intended recipient or the employee or agent
+responsible for delivering this message to the intended recipient, you are
+hereby notified that any dissemination, distribution, or copying of this
+communication is strictly prohibited.  If you have received this
+communication in error, please immediately notify us by replying to the
+original sender of this note.  Thank You.
+Baldwin's secretary called.  He's going to check with DWR and get back to me tomorrow morning regarding whether Monday or Tuesday will work.
+Best,
+Jeff
+Greetings:
+Unlucky you.  It's me again, calling about setting up a meeting with Ms Doll.  Any word?  Greatly appreciate your efforts.
+Best,
+Jeff
+Yes, I have known her for quite some time.  She is the one who recommended me to Korn Ferry for the job that I have at Enron.  I will be happy to make the introduction.  Shall I make arrangements for a meeting in Pebble Beach  
+I'll give her a call when you say the word...Jean
+Jean  
+Laura Doll has been appointed head of the CA Power Authority.  Do you know her?  It would be good to have an introduction for Jeff Dasovich.
+Jim
+No problem.  No hurry.  Whenever you've got it ready is great.
+Best,
+Jeff
+Jeff,
+I apologize for the delay.  I am still waiting on a few pieces to complete the very generic presentations we discussed this morning.  As soon as it is somewhat together I will shoot you a copy.
+,
+Dave
+Jim:
+Thanks for getting people together. There are (at least) 3 things going on here:
+1) Coordinate PG&E/SCE
+2) Edison "meet and confer" (on Monday?  sez Williams) to discuss the prehearing conference at the PUC on Nov. 7th.
+3) Edison meeting to discuss settlement of PX credit that Fielder's coordinating.
+2 and 3 are, of course, extremely related.  It is critical that gov't affairs (you or me or both) be completely involved in items 2 and 3 above, and frankly, i think that one of us needs to be at the meeting.  No finger pointing, but our litigation strategy with edison thus far has been wanting.
+We have a number yet for the call?
+Best,
+Jeff
+Hi Bob:
+Could you please leave on my voicemail the call-in number to discuss the meet and confer call that's happening with Edison?  When exactly is that meeting?  Is it California or Houston.  Thanks very much.
+Best,
+Jeff
+I have class on Tuesday and Wednesday.
+Speaking of dinners, Lizzie wants to come into the city and see us and have
+dinner.  What nights do you have class Jeff?  I don't think we will plan it
+until the first week of October.  At that point Tues and Wed are bad nights
+for me.  Monday, Thursday work for you??
+Cameron Sellers
+Vice President, Business Development
+PERFECT
+1860 Embarcadero Road - Suite 210
+Palo Alto, CA 94303
+cameron@perfect.com
+650.798.3366 (direct dial)
+650.269.3366 (cell)
+650.858.1095 (fax)
+ 650.858.1095 (fax)

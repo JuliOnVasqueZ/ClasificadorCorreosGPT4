@@ -1,0 +1,3168 @@
+Jimmy Hassell
+jimmyhassell@juno.com
+office 281-343-0636
+fax     281-343-8407
+cell    281-788-8435
+Hi Mum!  Sorry I have not called you back.  I have been out late every nite 
+and trying just to keep myself in constant motion.  Am on the trading floor 
+this week and can't really talk b/c too many ears.  But I'll give you a call 
+this afternoon.
+Our little bar examinee is alive and well.  They've changed the schedule so 
+the exam was over yesterday instead of Fri.  She joined me and my work crowd 
+last night at La Griglia and we ordered champagne.  So I've already 
+celebrated appropriately!
+What do you think of my Destin idea?
+talk to you soon
+Love,
+Sooz
+Matt, here are redlined and clean versions.  Let me know whether the 
+revisions are acceptable.
+Thanks,
+Susan
+As you requested.
+Please take a look at this and give me a call.  I didn't know we were 
+expecting any agreement from ECS.  DF
+Mark Courtney@ECT
+07/27/2000 07:35 PM
+How does this draft look to you guys?
+Mark
+Comments?
+Here is the agreement with the changes you requested.
+Here is the latest draft of the filing for transport options.  Significant 
+changes include:
+- added definition of Counterparty
+- added captions and reorganized the filing to more clearly reflect 
+compliance with 154.202
+- included an explanation of how the option fee will be part of a negotiated 
+rate
+- added an example of how options will work
+I think we need to decide whether we are better off with the type of option 
+fee explanation I have in this draft, or whether we should instead state the 
+fee will be market based, and include an explanation that, pursuant to the 
+Commission's discussion in Order 637, market based rates are appropriate 
+because we are going to commit to an open season process that will be 
+nondiscriminatory and that will ensure we aren't withholding capacity from 
+the market 
+Can we have a conference call to discuss your comments this week?  I will 
+have Janet call to determine your availability.
+You have just received the "Aggie Virus 
+Since Aggies arn't very smart and don't have any programming
+experience, this Virus works on the honor system.
+Please delete all the files on your hard drive,
+and manually forward this Virus to everyone on your
+mailing list.
+I do not see any problems with this 
+James Centilli
+08/01/2000 02:53 PM
+Susan
+Bob Chandler and I request some changes inorder to detail the upfront 
+payment.  If you do not have any problems with the document, please advise 
+and we will notify Gerald to create executables.
+Thanks,
+James
+Gerald Nemec@ECT
+08/01/2000 09:25 AM
+Attached is the letter.  I am forwarding per Mark's request.  Let me know if 
+you have any comments.  If everything looks good, let me know and I will 
+create executables.  Thanks.
+Christine, see the attached.  I've changed paragraph 8 to be like our last 
+posting, and added in a sentence saying ties will be decided by lottery (but 
+omitted reference to the lottery provisions of our tariff this time).
+My only other comment is that I think the group needs to discuss beforehand 
+how a shipper's request for alternate points is going to be treated.  As 
+currently drafted, this notice prohibits shippers from conditioning bids on 
+use of alternate points at the bid rate, which calls into question our 
+granting the winning bidder use of alternate points at a discount.  If we do 
+intend to let the winning bidder shippers use alt. points at a discounted 
+rate, we should take this statement out (end of paragraph 5 
+If we're still living in a max. rate world, though, this really is not much 
+of a concern since use of the alternate points would also be at max. rate.
+Any questions -- give me a call.
+S.
+Christine Stokes
+08/03/2000 09:26 AM
+Susan, please review the following IOS posting.  Thanks.
+Rich, would you please add Tim Aron to your distribution list for the Gallup 
+Weekly Updates, and also forward him your latest?  He is working on New 
+Mexico regulatory and legislative issues pertaining to our compression 
+contract, and I thought your updates would help keep him in the loop.  Thank 
+you.
+FYI.
+Christine Stokes
+08/03/2000 01:51 PM
+TRANSWESTERN PIPELINE 
+INTERACTIVE OPEN SEASON APPROVAL
+Please review the attached announcement of Transwestern's Interactive Open 
+Season to be held Thursday, August 10, 2000.  Transwestern will be offering 
+14,000 Dth/d of East of Thoreau to PG&E/Topock capacity for a term of April 
+1, 2001 - October 31, 2001.  Alternate capacity rights associated with the 
+primary capacity shall include alternate receipts in Transwestern's East of 
+Thoreau Area, excluding Rio Puerco, and alternate deliveries at 
+SoCal/Needles, Mojave/Topock and the Citizens Griffith delivery point 
+Please approval via REPLY WITH HISTORY.  Your immediate attention is 
+appreciated as our goal is to post the announcement as quickly as possible in 
+the morning of Friday, August 4th.
+Lorraine, here are a few notes from my review of the Val Verde contract, and 
+my initial impressions.  Let's talk more about how to approach the issue 
+after we meet with Ron tomorrow about MAOP.
+12/31/92 Interconnect Agreement:
+Sec. 1.3 specifies pressures and states that unless there is an agreement to 
+provide firm compression service TW will accept up to 200,000 on an 
+interruptible basis.
+Sec. 2 states that the Blanco Hub MAOP shall not be exceeded.
+Sec. 4.2 limits damages (no consequential damages).
+The contract also has a fairly standard force majeure clause.
+2/18/93 letter amendment:
+Sec. 3 obligates TW to provide firm compression service in order to accept 
+200,000 into TW's system (provided MOGI has pressure of at least 650 and 
+quantity of at least 140).  Acknowledges that this is an agreement to provide 
+firm compression in accordance with Sec. 1.3 of 12/92 agreement.
+9/25/95 letter amendment:
+Increases quantity to be received at the interconnect to 250,000 once the San 
+Juan expansion is effective.
+My initial conclusions:  It is pretty clear we have an obligation to accept 
+250,000 on a firm basis, provided that Burlington complies with the pressure 
+requirements.  Probably the only way we can avoid this obligation is if 
+accepting 250,000 would cause us to exceed the hub MAOP.  In that case we can 
+argue impossibility of performance.  Also, we could avoid the obligation 
+because the summer heat above certain temperatures constitutes force 
+majeure.  This argument is strengthened by the fact that temperatures seem to 
+have gotten hotter over the years 
+The fact that we entered into our most recent agreement with Burlington in 
+January of this year weakens the credibility of our arguments (they will say 
+we should have known by now).  Burlington might try to argue that we have an 
+absolute obligation to comply with the agreement, even if it means expensive 
+system modifications.  That argument is not a very strong one because the 
+agreement contains no such affirmative obligation and in fact quite clearly 
+describes the facilities that are the subject of the agreement.
+In Mark Baldwin's June 19 letter, he proposed the following fee schedule for 
+project development:
+Retainer:  $1000/month plus expenses
+Accepted project (meets TW's predetermined financial hurdles):  Proposal $5000
+Each month TW actively negotiating project:  $1500/month (each project)
+Letter of Intent:  $5000
+Signed Agreement:  $10,000
+Incentive Fee:  To be determined
+When I spoke with Mark, he explained that this schedule was based on 
+reaching certain milestones in the development of individual projects.  In 
+his letter he also proposed monthly fees for regulatory services ($5000/mo and market development services (including SoCal OIR related services $3000/mo.).  This e-mail addresses the project development fee structure 
+only. 
+The recently expired Market Development agreement with IGS provided for a 
+one-time retainer of $15,000 and a monthly retainer of $5000, plus expenses, 
+and an incentive fee structure for any agreement between Transwestern and 
+third party "identified by IGS under this agreement."  As you know, the 
+"identified by" language presented us with some ambiguity in the case of the 
+Southern Energy Gallup Expansion contract, in which both IGS and the TW 
+Commercial Group worked on the deal.  Fortunately, the ambiguity worked to 
+Transwestern's advantage in that case, but my understanding is that in 
+ongoing dealings with IGS both parties would prefer more specificity in any 
+future consulting agreement.
+Mark's proposal represents a step in the right direction because it provides 
+for payment on a per-project basis.  This immediately eliminates the 
+"identified by" problem because we won't be obligated to pay him unless and 
+until he identifies a project we're interested in him working on.
+I propose that we define some general terms and conditions in an enabling 
+agreement.  If Mark brings us a project we want to pursue, we will pay him 
+according to these terms (and any other terms and conditions tailored to the 
+specific project, as needed).  For each project, we would simply enter into a 
+short letter agreement referencing the enabling agreement.  I've outlined the 
+agreement below as a starting point for discussion.  The numbers are Mark's; 
+we'll have to discuss whether they are appropriate.  I've omitted any payment 
+for a letter of intent because since they are nonbinding, letters of intent 
+are of little value to Transwestern.
+Call me after you've reviewed this and let's discuss how you want to 
+proceed.
+From time to time during the term of the enabling agreement, IGS may present 
+brief, preliminary project proposals to Transwestern.  If Transwestern 
+desires IGS's assistance in developing a particular project, it will so 
+notify IGS in writing and shall execute an agreement with IGS adopting the 
+following terms and conditions:
+1.  Retainer for project development:  $1000/month plus expenses.  Project 
+development shall include but not be limited to:  research, due diligence, 
+market analysis, negotiation with counterparties (to the extent specifically 
+authorized by Transwestern), reporting to marketing representatives of 
+Transwestern as requested by Transwestern, and preparing a detailed written 
+proposal.  Transwestern and IGS may agree in writing to other 
+project-specific requirements.  Transwestern shall continue to pay the 
+retainer each month until a definitive agreement is signed with the 
+counterparty or Transwestern notifies IGS in writing that it has decided to 
+terminate the project 
+2.  If Transwestern accepts the project described in IGS's written proposal 
+(or with modifications after reviewing the written proposal), it shall pay 
+IGS a fee of [the lesser of] $5000 [or ___% of the net present value of the 
+project].  "Accepting the project" means that the project meets 
+Transwestern's financial, regulatory and other criteria and the Transwestern 
+Commercial Group has obtained the necessary officer approval to pursue the 
+project to completion.  Accepting the project and paying IGS pursuant to this 
+paragraph in no way obligates Transwestern to pursue the project to 
+completion.
+3.  If Transwestern signs a definitive agreement with a counterparty for the 
+project, it shall pay IGS $10,000.  Additionally, the parties may negotiate 
+an additional incentive fee (to be agreed upon and documented at the outset 
+of the project).
+(I will also include provisions on termination, confidentiality, etc 
+Attached is the latest draft of the Transport Option Program filing.
+There are a couple of important changes from the last draft.
+One is that we're no longer stating that the option fee is going to be 
+"market-based."  At FERC, the term "market-based" has connotations of having 
+to prove to FERC that a non-cost-based rate is appropriate because we lack 
+market power.  While we probably do lack market power, the consensus of the 
+legal/regulatory team was to try to portray the option fee as a built-in 
+feature of the transport rate, which is simply being disaggregated into a 
+separate option fee.  If this theory is not clear to you after you read the 
+filing letter, let's discuss how it should be improved.
+The other significant change (also based on my meeting with legal/regulatory) 
+is that I've structured the tariff language and the agreement so that every 
+shipper, regardless of whether they currently use transport on TW, will have 
+to have a firm transportation agreement when they buy an option.  In other 
+words, a shipper that does not currently have a service agreement will simply 
+execute an agreement with a MAXDTQ of zero.  This structure has two 
+advantages:  1) it's consistent with our option-fee-as-part-of-transport-rate 
+theory, and 2) it will help support that theory in our next rate case.
+I'd like to meet next week, either Wednesday afternoon or Thursday, to 
+discuss the following topics:
+1)  Your comments and questions on this draft,
+2)  Some examples of options, to make sure the tariff provisions and contract 
+work from a logistical standpoint,
+3)  The bidding process, and how bids for options will be evaluated, and
+4)  Comments received from shippers thus far.
+I'll be working on 41 tomorrow; let's talk about what would be a good meeting 
+time.
+I will be out Mon. and Tues.
+Here is a chart cross-referencing Gas Daily price points with points of TW, 
+for purposes of imbalance valuation.  If you have questions call Jeff or me.
+Jeffery Fawcett
+08/11/2000 09:59 AM
+Susan,
+As requested in yesterday's meeting, Lindy and I came up with the attached 
+matrix of prices for purposes of valuing TW imbalances.  Let me know if you 
+have any questions.
+Attached is the latest draft of the Transport Option Program filing.  After 
+our discussion last week I made a couple of significant changes from the last 
+draft.
+One is that we're no longer stating that the option fee is going to be 
+"market-based."   Instead I have tried to portray the option fee as a 
+built-in feature of the transport rate, which is simply being disaggregated 
+into a separate option fee 
+The other significant change is that I've structured the tariff language and 
+the agreement so that every shipper, regardless of whether they currently use 
+transport on TW, will have to have a firm transportation agreement when they 
+buy an option.  In other words, a shipper that does not currently have a 
+service agreement will simply execute an agreement with a MAXDTQ of zero.  If 
+you don't think I've explained this clearly enough, let me know.
+I'm meeting informally with the Commercial Group next week to discuss 1) some 
+examples of options to make sure the tariff provisions and contract work from 
+a logistical standpoint, 2) the bidding process, and how bids for options 
+will be evaluated, and 3) further comments received from shippers.  I'll 
+circulate our ideas on bidding and awarding options, and any other new ideas 
+or questions.
+As I've discussed with some of you, our shippers are asking to see the filing 
+in its entirety before we file it, and would like to have a roundtable 
+meeting prior to filing to discuss their concerns.  I realize there is some 
+concern about showing them our filing.  What if we just show them our final 
+tariff language and form agreement, and offer to host a meeting to discuss 
+their questions?  Let me know what you think.
+Our target filing date will depend on whether we have a customer meeting 
+first, and when FERC staff is available to talk.
+Yesterday Jeff Fawcett, Lee Ferrell and I met with Dynegy marketing and 
+legal/regulatory representatives regarding TW Transport Options.  Overall the 
+meeting was very positive.  We had nothing but encouraging remarks from the 
+marketing representatives.  However, the regulatory people (Sarah Tomalty, Ed 
+Ross) had a couple of issues.  The biggest issue is a marketing affiliate 
+concern.  Apparently Dynegy is on a crusade at FERC to place further limits 
+on deals pipelines can do with their marketing affiliates.  They have run 
+into situations in which pipelines (examples:  Koch, El Paso) have blatantly 
+favored their marketing affiliates to the extent that Dynegy cannot even do 
+deals with them.  (In fact, one of the problems with Koch has been Koch's 
+price option deals with its affiliate.)  The perception is that the 
+affiliates, by using "funny money," can always make themselves the highest 
+bidder, with a net benefit to the entire organization (pipeline affiliate).  The remedy Dynegy is proposing is to require a marketing 
+affiliate, if it is the highest bidder, to credit back the difference between 
+the price it pays and the price offered by the next highest bidder.  The 
+presumption is that the affiliate has an unfair advantage because it is able 
+to pay above market value in order to get the capacity.   Dynegy's proposal 
+would encourage affiliates to pay "real" dollars 
+While it emphasized its belief that TW does not favor its marketing 
+affiliates, Dynegy would like for us to include in our filing some limitation 
+on options transactions with marketing affiliates.   It is likely that other 
+pipelines will file for the ability to sell options once FERC approves our 
+filing, and Dynegy would like for this type of protection to be part of the 
+precedent set by our filing.  Ed hinted that FERC may be considering a 
+divestiture requirement for marketing affiliates, and that pipelines can 
+avoid this extreme result by voluntarily limiting their transactions with 
+affiliates.  Shelley, I know you've discussed this issue with Ed already and 
+our reactions were the same.  Basically we politely told Dynegy that we don't 
+believe we're part of the problem and that we are therefore not inclined to 
+unnecessarily disadvantage our company by further limiting ENA's ability to 
+do business with TW.   We can probably expect an intervention with comments 
+or a limited protest addressing the issue.
+The other regulatory question was whether we intend to file each option deal 
+as a negotiated rate.  My analysis of this issue is that since we're 
+proposing the option fee as part of the transport rate, options would always 
+be a type of negotiated rate and would need to be filed.  If you think this 
+is not the right answer, please let me know because we need to decide it 
+before we file the tariff sheets.  Sarah's question seemed to be more one of 
+curiosity rather than a basis for protest.
+Like the Indicated Shippers, Dynegy appeared interested in an all-customer 
+meeting to discuss the service.  Jeff and the rest of the commercial group 
+are looking further into whether and when we would have such a meeting. 
+If you have any questions or concerns please let me know.
+I've looked into whether we can terminate our Val Verde interconnect 
+agreement with Burlington, and have determined we may do so only if we take 
+the following steps:
+1.  Terminate the OBA by giving 30 days notice to Burlington.  Paragraph 13 
+of the 6/1/94 OBA with Burlington (as successor in interest to Meridian) 
+provides that either party may terminate the OBA "at the end of the primary 
+term, or thereafter by providing thirty (30) days prior written notice" to 
+Burlington.  (The one-month primary term ended June 30, 1994 and has since 
+gone month-to-month.)
+2.  On the effective termination date of the OBA, terminate the interconnect 
+agreement by giving 30 days notice to Burlington.    The 12/31/92 
+Interconnect Point Operating Agreement, Paragraph 6, provides that either 
+party may terminate on 180 prior notice after expiration of the primary 
+term.  This is of limited use to us since the primary term does not expire 
+until 12/31/02.  However, the paragraph also provides that the agreement "may 
+be terminated by either party upon thirty (30) days prior written notice in 
+the event the OBA between the parties is terminated."
+As we've already discussed, termination of the agreement is an extreme 
+measure from a customer relations standpoint and we probably need to weigh 
+our other options first.  Let me know if you have further questions.
+Drew -- here is Lorraine's update on the Val Verde situation that I mentioned 
+in my previous e-mail.   Recall that we've been unable to accept quantities 
+of gas from Burlington because of the high temperatures at the interconnect 
+in recent years.  I've recommended that we seek amendment of the contract as 
+soon as possible to reflect what we CAN do 
+The proposed amendment Lorraine is referring to, which Burlington rejected, 
+modified our obligation to provide firm compression sufficient to accept 
+250,000 MMBtu 
+//
+Burlington Resources - Val Verde Plant - Michelle and I had a follow-up 
+conversation with BR Thursday.  I faxed the proposed amendment to BR Monday 
+and we hadn't heard from them yet.  They claim approximately $135,000/month 
+in lost revenues because we are holding their production down.  Michele and 
+Darrell will work to pull together the data on exactly which days we have not 
+been able to take BR's gas.  I mentioned to BR that we were putting this info 
+together, but they claim since they were told to back off to 180,000 190,000 MMBtu from about mid-June through July, our data would not accurately 
+reflect BR's inability to schedule in excess of 180/190.  They will not 
+accept our wording in the interconnect amendment, specifically "best efforts" 
+and "subject to operating conditions on TW", so we will need to revise this 
+further.
+We offered alternate receipt point flexibility at Ignacio and alternate 
+delivery point flexibility at El Paso Blanco on their Jackrabbit contract but 
+they do not think this is sufficient to agree to amend the interconnect 
+agreement.  They have suggested we consider giving them a deeper discount on 
+their San Juan - Waha contract (80,000/d, $0.14, term 11/30/06 
+The ball is in our court 
+John, I think that sounds fine.
+I really have no other comments on the org chart or job descriptions.
+Thanks so much for your help!
+Comp Temp
+08/18/2000 03:06 PM
+I just met with Steve Harris to review the Transwestern Commercial Group job 
+descriptions and proposed organization chart.  He agreed with the wording of 
+the job descriptions but suggested that the TW employees currently working in 
+NNG's Business Development and Marketing organization be shown on the 
+Transwestern organization chart in a dotted line reporting relationship to 
+him.  A footnote would identify them as 
+"Transwestern employees located in the NNG Business Development & Marketing 
+organization which serves as a resource to support the TW Commercial Group in 
+the areas of Risk Management, Pricing & Structuring, Business Development, 
+Market Analysis and Government Affairs"
+Steve also indicated that a TW employee will also be hired in the next few 
+days to fill a Regional Mgr Government Affairs job currently located in Mike 
+McGowen's group and that this job should also be placed in a dotted line 
+relationship reporting to him.  The existing footnote could be revised to 
+recognize this job as well. 
+After talking to Steve I feel that the above would be the best and least 
+confusing way to portray Transwestern employees in an on-line organization 
+chart.  In this regard I have again revised the Transwestern Commercial 
+organization chart and will deliver/fax it this afternoon to you both for 
+your review and comments.
+John A
+The Mark Morris group performance is the last weekend of this month, the 27th 
+- 29th.  See the website www.spahouston.org and click on "Program Notes" for 
+a detailed description 
+Bill and I will leave for Austin tomorrow a.m. as early as we can manage I'm not picky about where we go for dinner, but was thinking Bill might enjoy 
+going to the Bitter End brew pub -- I'm sure they don't take reservations but 
+it should not be a problem if we go early enough 
+The landscaper removed all the bushes in the front beds and it looks weird Can't wait for her to get the new gravel in my driveway.
+We'll call tomorrow a.m. if not sooner!  Have a good day 
+First of all, I'm delighted you want to stay and would not have a problem 
+with Deron moving in.  However, in return I would ask for increased rent of 
+$650, to take into account the improvements you want and additional water use 
+and wear & tear.  After you read this let me know whether you think this is 
+reasonable.
+I'll try to answer all your questions:
+Q. I believe you had mentioned some termite issues and I wanted to
+make sure that we would not be doing anything to cause the floor to collapse 
+as
+we would be removing light items for heavier items. 
+A.  I really do not think it is a problem.  In addition to the oak floor, 
+there is a subfloor, so heavier items should be fine.  I'd draw the line at a 
+waterbed, though!
+Q.  The stove is a bit problematic 
+A.  No problem to look into this.  I'm sure it can be repaired.  I will give 
+the appliance folks a call 
+Q.  Do you know if the garage apt. would support a 2nd line being installed? 
+A.  I'm sure it will...go ahead and do it; if the phone company runs into any 
+internal wiring problems let me know and I'll call my phone wiring dude.
+Q.  Do you know if the washer/dryer connections in the garage part work for 
+sure?
+A.  I have a bad feeling about those connections!  I'll get them up and 
+running, and can get someone to haul the old washer off.
+Q.  I am guessing that they would need to be gas, not electric? 
+A.  I would strongly recommend a gas dryer because it is so much more 
+economical.  Plus you would not believe how much faster you can get jeans and 
+towels dry than with electric!
+If I have to get a new connection installed it will be gas if possible.
+Q.  At one point, you had mentioned doing something with the kitchen floor as 
+the linoleum has seen better days... Would it be possible to look into this?
+A.  I have always thought linoleum in a black & white checkerboard pattern 
+would look really cute in there.  It's cheap to install and fairly easy 
+except I'm leary of taking on the project myself because pulling up the old 
+stuff is going to be a you-know-what.  I will call & ask my handyman, unless 
+you and Deron are just dying to do it yourselves.
+Q.  Do you know if any paint is leftover?
+A.  The color I used on the trim was Antique White semigloss; there should be 
+some left in the garage.  I'll check and if not I can pick up some for you at 
+the paint store as I'll be going there this week or this weekend.
+The only additional issue I have is parking -- Dianna is staying with me and 
+helping w/rent for the next several months and I'd like her to be able to use 
+that middle space.  I know it's a pain but either you or Deron would have to 
+park on the street.  The other option is to get one of the back garage doors 
+working so there is access to the garage from the alley.  If I did this do 
+you think y'all would use it, or is that too impractical?
+As for timing with the oven, W/D connections and kitchen floor, I'm taking 
+the first full week of Sept. off and it would be easiest for me to get 
+everything done then if that's okay with y'all.
+Call if you have further questions!
+I agree that the proposed facilities could be constructed under the prior 
+notice provisions of TW's blanket certificate if the cost and environmental 
+requirements are met.  The facilities appear to meet the criteria for an 
+"eligible facility" under section 157.202(b)(2)(i):  they are necessary to 
+provide service to Big Sandy within existing mainline certificate levels, and 
+according to my research the facilities are similar to those that the 
+Commission routinely has found to be eligible under a blanket certificate The prior notice project cost limit for year 2000 is $20,200,000.  (Sec. 
+157.208).  If the project is not within this cost limit we will need to seek 
+a 7(c) certificate 
+I've researched the incremental rate question and here's what I've been able 
+to find out:
+In the context of a 7(c) application, FERC generally requires use of existing 
+Part 284 rates.  This was the case when TW applied for a certificate to 
+construct the San Juan lateral.  TW requested a separate zone rate for the 
+lateral in that proceeding but FERC stated that a section 7 proceeding was 
+not the appropriate forum.  The Commission stated, however, that it would be 
+willing to entertain an abbreviated Section 4 filing by TW to revise its Part 
+284 rates to inclue zone rates for the lateral.  So TW made a Section 4 
+filing and got zone rates approved based on the cost of service for the 
+lateral. 
+Whether we construct the Big Sandy lateral under the blanket certificate or 
+not, it appears that we would have to file a limited section 4 if we want to 
+implement rates for the lateral that are different from the West of Thoreau 
+rates.
+As for whether an open season would be required, I assume it would not be if 
+Caithness is going to fully subscribe the capacity on the lateral.  However, 
+if other shippers are interested and we want to get the best rate we'll 
+probably want to have an open season.  In any event, in the context of a 7(c) 
+application FERC is going to put us at risk for recovery of costs, so it 
+would be to our advantage to sell 100% of the new capacity.
+At this point I am uncertain whether we even want or need different rates for 
+the Big Sandy lateral...ultimately it will depend on the cost of the project 
+and what rates would make it economic for TW to proceed.
+I hope this helps...if there are further questions or if any of this does not 
+sound right to you let me know 
+Michele Winckowski                08/17/2000 01:39 PM
+As you are aware, Transwestern is working with a shipper to potentially 
+provide service to a new power plant located approximately 40 miles off the 
+mainline in Arizona.  Although, the final negotiation are not complete 
+certain options are being evaluated, I need some assistance in interpreting 
+the regulations regarding the authority we should use for approval of this 
+project 
+The facilities that would be constructed include a delivery point and 
+approximately 40 miles of pipe.  As these facilities are non-mainline, it may 
+be possible to construct the proposed facilities under the prior notice 
+provisions of TW's blanket certificate, provided the project satisfies the 
+blanket criteria (generally costs and environmental).
+With this in mind, I have the following issues and questions:
+Preliminarily, marketing is thinking that we may want to develop an 
+incremental rate  to recover the cost of the project.
+Would a new incremental rate for this service impact our ability to file for 
+approval under the prior notice provisions?  Note: Generally, Subpart F of 
+Part 157 (blanket regulations) does not address service issues as 
+transportation service is provided under Part 284 of the Commission's 
+regulations.  However, the regulations (o157.204)  set forth Who may apply 
+for a blanket certificate.   The criteria includes, among other things, any 
+interstate pipeline that has rates accepted by the Commission.  Therefore, 
+would an incremental rate have to be approved by the Commission before the 
+proposed facilities would be blanket eligible?
+Can a new incremental rate be established through a limit-section 4 rate 
+filing or is a case-specific certificate required?
+As the facilities will not include any mainline expansion - Is an open season 
+required for the project?  My opinion is "NO".  Do you agree?
+Your thoughts and assistance in this matter would be greatly appreciated Thanks MW
+Somehow the "one-part rate" glossary item fell off of TW's list so I've 
+revised it again.
+I owe Michele a call because she has a couple of questions.  Will do after I 
+finish options draft 
+Have you guys met/discussed this with Michele?  Please get me up to speed Thanks DF  
+As you are aware, Transwestern is working with a shipper to potentially 
+provide service to a new power plant located approximately 40 miles off the 
+mainline in Arizona.  Although, the final negotiation are not complete 
+certain options are being evaluated, I need some assistance in interpreting 
+the regulations regarding the authority we should use for approval of this 
+project 
+The facilities that would be constructed include a delivery point and 
+approximately 40 miles of pipe.  As these facilities are non-mainline, it may 
+be possible to construct the proposed facilities under the prior notice 
+provisions of TW's blanket certificate, provided the project satisfies the 
+blanket criteria (generally costs and environmental).
+With this in mind, I have the following issues and questions:
+Preliminarily, marketing is thinking that we may want to develop an 
+incremental rate  to recover the cost of the project.
+Would a new incremental rate for this service impact our ability to file for 
+approval under the prior notice provisions?  Note: Generally, Subpart F of 
+Part 157 (blanket regulations) does not address service issues as 
+transportation service is provided under Part 284 of the Commission's 
+regulations.  However, the regulations (o157.204)  set forth Who may apply 
+for a blanket certificate.   The criteria includes, among other things, any 
+interstate pipeline that has rates accepted by the Commission.  Therefore, 
+would an incremental rate have to be approved by the Commission before the 
+proposed facilities would be blanket eligible?
+Can a new incremental rate be established through a limit-section 4 rate 
+filing or is a case-specific certificate required?
+As the facilities will not include any mainline expansion - Is an open season 
+required for the project?  My opinion is "NO".  Do you agree?
+Your thoughts and assistance in this matter would be greatly appreciated Thanks MW
+Janet, please meet with Denise (tomorrow if possible) to:
+- explain filing system
+- hand off filing projects you are working on (anytime between tomorrow and 
+next week is fine)
+- explain how you do service lists for FERC filings.
+Also, one of you will need to contact the appropriate person to get Denise 
+access to my Lotus Organizer.
+Don't know how to notify the mailroom people to deliver my mail to Denise's 
+station but see if you can do this also.
+I spoke with Mike, and Emily is going to handle moving the phones.
+Merci beaucoup!
+Denise, here are a few things off the top of my head.
+1.  I mostly work for the Transwestern Commercial Group, which is the 
+following cast of characters:
+Steve Harris
+Kevin Hyatt
+Lindy Donoho
+Jeff Fawcett
+TK Lohman
+Christine Stokes
+Michelle Lokay
+Lorraine Lindberg
+When I am not on 47, I sit near their work area on 41 (and forward my phone 
+to x34516).  These are the people I'm most likely to have you organize 
+meetings with, distribute things to, etc.  Their assistant is Audrey 
+Robertson.  I lost our most recent phone list but please get one from her 
+(x35849).
+2.  Usually I get in around 8:30 and leave around 6.  I'm not picky about 
+when you're in the office; it is very rare that I will need you to come in 
+early or stay late.  I think I asked Janet only twice.
+3.  Major projects I'm working on right now that you'll hear me mention a lot:
+- TW Options (a tariff filing)
+- Order 637 compliance
+- Caithness/Big Sandy (potential pipeline interconnect)
+4.  Standing meetings:
+- TW Commercial Group staff meeting:  Monday at 9:30
+- Omaha regulatory staff meeting:  Tues. at 8:15.
+- Therapist:  every few weeks Thurs. 9:00 (if anyone asks, I'm in a meeting; 
+but if they knew where I really was I'm sure they would understand!)
+5.  Faxes:  I get faxes from Regulatory a lot and they generally don't call 
+first.  Please check the fax machine once a day (and my chair, if I'm not on 
+47 that day, in case someone got a fax for me and put it there).
+6.  Mail:  Please open my mail, and I'll try to come pick it up every day.
+7.  Filing:  I generally avoid keeping files of useless information However, since I'm a regulatory lawyer it is inevitable that I will have a 
+ton of paper to stash away where I can find it later.  Filing is pretty 
+important to me.  I promise to try to let you know what files are more 
+important than others so you can prioritize.  The good news:  I rarely ever 
+go to the extent where I would have you index a file.  Just putting things in 
+the right folder is enough.
+8.  Computer files:  At the beginning of each quarter, please create a new 
+Word file folder (if you look under sscott you'll see I have 2ndqtr00, 
+3rdqtr00, etc.)
+9.  Calendar:  Please obtain access to my Lotus Organizer, and if you get 
+e-mails of meetings I'm supposed to attend go ahead and put them in the 
+calendar. 
+10.  Friends you're likely to hear from a lot:  Ann, Bill, my grandmother 
+("Ms. Savoy"), Dianna
+11.  The Other Susan Scott:  There is a Susan M Scott who works for ENA.  I 
+get her mail and phone calls all the time!  Her extension is 31445.  Not sure 
+of her location as it seems to change a lot.
+I look forward very much to working with you!!
+Not sure of the topic of our meeting but here's the Options filing in case 
+you need it.
+Here is the draft for distribution.  In addition to the customer-friendly 
+"looking forward to meeting with our business partners" language I know 
+you'll include, I'd suggest including something like the following:
+Attached are drafts of the proposed tariff provisions (including the form of 
+Transport Option Amendment) and a filing letter.  We are providing these 
+draft documents to you in advance of filing them with FERC as part of a 
+good-faith effort to resolve any remaining issues with our shippers prior to 
+filing.  The drafts are for purposes of discussion by workshop attendees 
+only, and we ask that you not distribute them to persons outside your 
+company.  Additionally, while we hope that these drafts are close to being in 
+final form, they are of course subject to revision and final management 
+approval prior to filing with the Commission.
+Attached is the proposed contract with Oneok.  Since it is a maximum rate 
+deal, there is no discount letter.  However, I am circulating this for 
+approval because it contains a special provision (found in the "Other" 
+section) regarding marketing of capacity for release, as allowed by Section 
+30.8 of the General Terms and Conditions of Transwestern's tariff.
+Christine, you and Michele will need to fill in the address and account 
+information.  My sincerest apologies for operating outside the usual 
+contracting procedure but since time is even more of the essence that usual 
+here, I felt it was best to get a pro forma version of this out for approval 
+as soon as possible.
+Please e-mail your approval to Christine and me by noon tomorrow if 
+possible.  Thank you.
+The attached letter agreement reflects my discussion with Drew about the 
+marketing fee.  The FTS-1 Agreement will just be a plain vanilla agreement 
+(i.e., minus the marketing fee language) and the parties will execute the 
+attached instead.  Questions or comments -- let me know.
+I've talked to Drew and he can report back-  MK
+Attached is the proposed contract with Oneok.  Since it is a maximum rate 
+deal, there is no discount letter.  However, I am circulating this for 
+approval because it contains a special provision (found in the "Other" 
+section) regarding marketing of capacity for release, as allowed by Section 
+30.8 of the General Terms and Conditions of Transwestern's tariff.
+Christine, you and Michele will need to fill in the address and account 
+information.  My sincerest apologies for operating outside the usual 
+contracting procedure but since time is even more of the essence that usual 
+here, I felt it was best to get a pro forma version of this out for approval 
+as soon as possible.
+Please e-mail your approval to Christine and me by noon tomorrow if 
+possible.  Thank you.
+Janet, please calendar these meetings for me.  Thanks.
+Ronald Matthews
+12/14/99 08:10 AM
+Starting on January 6, 2000 there will be a Gallup status conference 
+call/meeting every Thursday through May.  The Conference Bridge number is 
+713-853-3802 and the access code is 9473 (same as before).  When using the 
+1-800-97ENRON, simply press 1 for the building code then the ext 33802.  Wait 
+for the beep and enter the access code (9473).  For those in Houston, 
+Conference Room EB40C2 will be available.  They're a limited number of ports 
+so please try to group together as much as possible.  This is becoming a 
+critical period for Gallup and we must share information as soon as it's 
+known.  Please don't wait for the "THURSDAY" meeting if any information is 
+critical to the success of Gallup.
+If I have left anyone off the list who should know this information, please 
+pass this along and copy me so I'll know the next time.
+Thank You
+Lorraine, here is the new language for the discount letter.  You might want 
+to compare the other language in the agreement to that of the existing one to 
+make sure I got the right version (or I'll do it on Monday).  Let me know if 
+you have questions.  I just ran it by Drew and he is OK with it.
+Jeff -- since most of Teddy's comments were over my head yesterday, I could 
+use your help on that part of the discussion.
+Transwestern held its Transport Options Workshop on August 31.   Commercial 
+and regulatory representatives of BP-Amoco, Burlington, Conoco, Coral, 
+Dynegy, Phillips and Reliant attended.  After a brief overview of the 
+proposed TW Options filing, we opened the floor for questions and comments Here is a summary of the comments.
+Marketing affiliate concerns.  BP's regulatory representative expressed 
+concern that TW's marketing affiliates would be able to use options to game 
+the system.  For example, since TW and ENA are both Enron companies, if ENA 
+buys a call option it is essentially a free option.  ENA could buy a call out 
+of the money and we could buy it back from them, with the proceeds going to 
+Enron's bottom line.  BP suggested that TW's marketing affiliates be banned 
+from purchasing options, or that the marketing affiliate be required to 
+credit the call money to other shippers.  BP's concern is that TW's filing 
+will set a precedent for other pipelines to offer a similar service, so they 
+want TW's options program to be as restricted as possible.  Dynegy reiterated 
+its suggestion that the marketing affiliate be required to credit back the 
+difference between the option fee paid by the affiliate and the next highest 
+bidder's bid, if the affiliate's bid exceeds the next highest bid by a 
+certain percentage 
+Our response was that while actual abuse of an options program by a marketing 
+affiliate would be a concern, we feel that TW is entitled to a presumption 
+that it has complied and will continue to comply with the rules on sale of 
+capacity to marketing affiliates.  At this point we are not inclined to 
+voluntarily include any limitations on the options program.  If BP and others 
+have issues regarding Commission marketing affiliate policy in general, those 
+issues should be addressed in a different proceeding that pertain to all 
+interstate pipelines.
+Right of first refusal.  Burlington asked whether options would replace the 
+right of first refusal.  Our response was that ROFR will still be available 
+pursuant to the terms and conditions of our tariff.
+Negotiated rate.  BP's representative claimed that options will constitute a 
+negotiated rate and that each deal will need to be filed as such.  We did not 
+respond to this or discuss it further.  However, TW's position at this point 
+is that since the option fee is part of the transportation rate, the deals 
+will only be negotiated rate deals if the total rate exceeds the maximum 
+rate 
+Hoarding capacity.  Several customers expressed concern that the options 
+program would make it easier for a shipper to hoard capacity.  It was not 
+clear why they thought that options would create more opportunity for 
+hoarding than already exists.  Their perception was that options would simply 
+make hoarding cheaper and easier.  We acknowledged that the potential for 
+withholding capacity from the market is one reason for FERC's current policy 
+against reserving capacity for shippers.  Although we did not commit to 
+placing any limits on the quantity of capacity for which a shipper may 
+purchase an option, it is possible that FERC may require us to do so.
+Our plan is to meet with PG&E and SoCalGas in California to elicit their 
+comments, and finalize the FERC filing by mid-September.
+Transwestern held its Transport Options Workshop on August 31.   Commercial 
+and regulatory representatives of BP-Amoco, Burlington, Conoco, Coral, 
+Dynegy, Phillips and Reliant attended.  After a brief overview of the 
+proposed filing, TW opened the floor for questions and comments.  Here is a 
+summary of the comments.
+Marketing affiliate concerns.  BP's regulatory representative expressed 
+concern that TW's marketing affiliates would be able to use options to game 
+the system.  In BP's example, since TW and ENA are both Enron companies, ENA 
+could purchase an "out of the money" call option essentially cost free, since 
+its affiliate (TW) would have the ability to buy the option back.  Proceeds 
+from ENA's ability to then "move the market" through the establishment of the 
+long basis position would go directly to Enron's bottom line.  BP suggested 
+that TW's marketing affiliates be banned from purchasing options, or that the 
+marketing affiliate be required to credit 100% of the option proceeds to 
+other shippers.  Although BP admits that Transwestern's prior dealings with 
+ENA have not been suspect, BP fears that TW's filing will set a precedent for 
+other pipelines to offer a similar service.  Since TW will be the first 
+pipeline to offer such services, BP wants TW's program to be as restricted as 
+possible.  Dynegy echoed BP's concern regarding possible affiliate abuse, but 
+rather than shelve the program entirely, Dynegy reiterated an earlier 
+suggestion that Transwestern be required to credit back the difference 
+between the option fee paid by an affiliate and the next highest bidder, if 
+the affiliate's bid exceeds the next highest by a certain percentage 
+TW's response was that while actual abuse of an options program by a 
+marketing affiliate may be a legitimate concern, owing to its unassailable 
+record in this area, TW should be entitled to a presumption that it has 
+complied and will continue to comply with Commission policy covering the sale 
+of capacity to marketing affiliates, and was not inclined to voluntarily 
+include any limitations on the options program.  If BP and others have 
+serious concerns regarding the Commission's overall policy on marketing 
+affiliates, those issues should be raised in a separate proceeding that 
+applies to all interstate pipelines.
+Right of first refusal.  Burlington asked whether options would replace the 
+right of first refusal.  TW's  response was that ROFR will still be available 
+pursuant to the terms and conditions of our tariff.
+Negotiated rate.  BP's representative claimed that option contracts will 
+constitute a negotiated rate and that each deal will need to be filed as 
+such.  TW did not respond to this or discuss it further.  However, TW's 
+position at this point is that since the option fee is part of the 
+transportation rate, transportation deals that include the option amendment 
+will only be considered negotiated rate deals if the total rate including the 
+option fee exceeds the maximum transport rate 
+Hoarding capacity.  Using the recent large block sale of capacity on El Paso 
+as an example, several customers expressed concern that the options program 
+would make it easier for a shipper to hoard capacity.  It was not clear why 
+some of the workshop participants thought that the sale of options would 
+create more opportunity for hoarding capacity than already exists.  Perhaps 
+because the option fee is a lesser cost than the transport rate for the 
+underlying capacity, their perception was that options would simply make 
+hoarding cheaper and easier.  TW acknowledged that the potential for 
+withholding capacity from the market is one reason for FERC's current policy 
+against reserving capacity for shippers.  Although TW did not commit to 
+placing any limits on the either the quantity of capacity or options for 
+capacity that any one shipper may own, it is possible that FERC may require 
+TW to do so in a final order.
+Our plan is to meet with PG&E and SoCalGas in California the week of 
+September 11 to go over details of the program, and to finalize the FERC 
+filing by mid-September.
+FYI.
+Fyi
+Robert, in response to your question, I don't know who the El Paso tax 
+contact is, but I'll find out & let you know.  Thanks again.
+Christine, the "actual fuel usage" provision is probably a material deviation 
+from the tariff, unless we cap the fuel rate at the maximum percentage stated 
+in our tariff.  I have added language to this effect.
+If we're using the "actual fuel" language because we anticipate that the fuel 
+usage will exceed the maximum, and therefore we do not wish to cap the 
+percentage at the maximum, we can certainly leave my additional language out 
+and file a summary of the contract.  I do not think such a filing would 
+generate too much unwanted attention from FERC or our shippers.  Let me know.
+Christine Stokes
+09/07/2000 09:36 AM
+Let me know if you have any revisions to the provided discount letter.
+Note that this contract will only charge ACTUAL FUEL utilized if the Shipper 
+transports along the primary path (Paragraph 2).  Also, Kevin - is $.09 a 
+sufficient TOTAL RATE for alternate deliveries to the California Border?  I 
+think by fixing the rate like this we are leaving a lot of money behind.  We 
+could put wording in the contact that each month the alternate rate to 
+California will be set by Transwestern.  We have, a long time ago, used this 
+language and it forces the shipper to call TK for the appropriate montly rate 
+quote.  If fact, Richardson Products has this arrangement.   Let me know your 
+thoughts.
+Elizabeth, Jeff forwarded me your questions about capacity options.  I've 
+answered them to the extent they involve legal/regulatory issues.  If you 
+need anything further please don't hesitate to call.
+?  Can a new shipper who enters into an FTS-1 contract with zero MDQ in order 
+to purchase a shipper call option or sell a transporter put option be 
+allowed, prior to the exercise date, to transfer the underlying option rights 
+by permanently releasing this contract?    YES.
+?   Will we be required to report these contracts with zero MDQ on the Index 
+of Customers and/or the Transactional Report?  YES.
+? Can the releasing shipper permanently release a portion of his existing MDQ 
+and choose to keep or transfer the option rights?   YES.  The shipper could 
+even release all of its MDQ (reducing it to zero) and keep its option rights.
+? How is it determined whether a contract with an option amendment is within 
+the min/max tariff rate or needs to be filed as a negotiated rate?  The 
+option fee is converted to a per-Dth, per day rate and added to the transport 
+rate.  If the total exceeds the maximum tariff rate, it's "negotiated Otherwise, our position is that it's not negotiated.  We are not 100% 
+positive that FERC will agree with us on this issue.
+How about tomorrow?
+I have the new pro forma OBA in Word format, by the way.  Should make getting 
+a draft out easier.  Here it is if you want to take a look.
+Lorraine Lindberg
+09/11/2000 04:53 PM
+Hey gals - Could we get together for about 30 minutes this week to put 
+together an OBA for Southwest Gas?  I've asked Larry Black (SWG) to review 
+the draft which we filed in our 637 compliance filing and we need to address 
+a couple of issues specific to SWG.  Then, we'll have to go to Las Vegas to 
+wrap up all the details, of course.
+How about discussing this over lunch anytime this week?  Let me know.  Thanks.
+Lorraine
+I think that ultimately I would feel OK about giving them #1 and #2 under the 
+circumstances, if these guys are really that concerned about these issues.  I 
+really don't think TW is ever going to breach its confidentiality 
+obligations.  I need to get Drew's clearance for Colorado law; I'll get back 
+to you.
+Gerald Nemec@ECT
+09/11/2000 07:17 PM
+Susan,  Tri-States comments.  I plan to give them Colorado law but to discuss 
+the other two with them.  Let me know your thoughts.
+"Nocera, Dave"  	09/08/2000 10:41 AM
+Gerald:
+Jere Bates asked that I comment on your redline of the confidentiality
+agreement that I helped draft.  My comments are as follows:
+1. Regarding the strikeout in Section 2 of the language concerning the
+obligations of Enron surviving termination, Tri-State is opposed to striking
+this.  The information is not to be used at any time other than for the
+purpose set forth in the agreement, and the fact that Enron may cease to
+acquire new information should not relieve it of its obligation not to use
+information it has previously received for unintended purposes. We believe
+that language protects against that occurrence-and is consistent with the
+language in the last sentence of Section 5 as well.
+2. Regarding Section 6, Tri-State is opposed to waiving consequential,
+punitive or exemplary damages because in our view, it is likely that many
+damages Tri-State would suffer as a result of a breach would not be direct
+or ordinary, but rather consequential.  In addition, the right to recover
+punitive or exemplary damages is needed in our view to protect against
+blatant disregard for the terms of the agreement.  We also believe that we
+should have three years to commence an action after termination.
+3.  Regarding Section 7(b), we believe Colorado law is appropriate since
+Tri-State is the party that would be bringing an action for breach and
+should have the benefit of doing so in accordance with the laws it is
+familiar with.
+Please feel free to call or e-mail me or Jere with a response.  We are open
+to discussing these points, but do feel very strongly that our position is
+reasonable and appropriate.
+Thanks,
+Dave Nocera  
+Christine, I made a few changes for purposes of clarification.
+Christine Stokes
+09/12/2000 09:45 AM
+Here it is.
+I've discussed the "actual fuel" provision with Christine and Bob and made 
+them aware that this is a nonconforming provision that would need to be 
+filed, since the FTS-1 rate schedule provides that fuel payments are to be 
+made according to the percentages set forth in the rate sheets 
+According to Bob's calculations, the actual fuel used by Duke under this 
+contract is likely to exceed the applicable percentages in our tariff.
+I don't think FERC or any of our shippers would have any immediate objection 
+to our charging actual fuel.  However, I know that fuel is a sensitive issue 
+on TW so I wanted to be sure to draw your attention to this provision.  Let 
+me know what you think.
+Christine Stokes
+09/12/2000 02:00 PM
+TRANSWESTERN PIPELINE COMPANY
+CONTRACT APPROVAL FORM
+Please review the attached non-standard discount letter to Duke Energy 
+Trading & Marketing (DUKE) and the associated letter from Transwestern to 
+Duke which outlines the conditions of Transwestern's Contribution in Aid of 
+Construction (CIAC) payment to Duke for certain facility upgrades.
+Transwestern shall pay Duke $750,000 for Duke facility upgrades in order to 
+increase gas receipts into Transwestern from Duke's Artesia plant and Big 
+Eddy gathering system by an incremental 20,000 Dth/d.  Duke shall 
+subsequently subscribe to a five year transportation contract for 20,000 
+Dth/d of East of Thoreau  (EOT) capacity at a $.05/Dth/d one-part rate 
+effective November 1, 2000.  Duke shall be charged ACTUAL fuel, currently 
+calculated as 1.5% (compared to EOT Tariff fuel rate of 1.31%), for any 
+transportation within Transwestern's EOT Area.  Duke has also been granted 
+the ability to flow to California on an alternate basis at a total rate of 
+$.09/Dth/d plus applicable Tariff fuel (currently 5 
+Please indicate approval via REPLY WITH HISTORY.  Please contact me at x5702 
+if any questions arise.
+Thanks Robert, this is a big help.
+Just wondering -- you make the statement that "El Paso is not directing TW to 
+build the interconnect facilities..."  Do you think that our having an 
+interconnect agreement outlining the specifications for the facilities and 
+setting forth certain indemnities weaken our position at all in terms of 
+saying this is not a CIAC 
+Robert Guthrie
+09/13/2000 08:05 AM
+I can only address this from the tax position.  Books may differ from the 
+noted treatment depending on the true facts.  I have a call to James Centilli 
+for his thoughts.  I also have not reviewed any written language, so this is 
+based on our conversations; therefore the facts may change depending on the 
+final arrangement.
+Based on my understanding, the meter fee will be structured as a fee paid to 
+TW for services and not to build the interconnect facilities.  Because El 
+Paso is not directing TW to build the interconnect facilities TW will not 
+record these fees as a CIAC for tax.  In short, the management fee is just 
+normal operational type revenue.  The benefit to El Paso is that they avoid 
+the gross-up because this payment does not fall under the guidelines of IRS 
+Code Section 118 (b).  However, please note that the management fee is still 
+taxable to TW in the year actually received or deemed received.   It is just 
+not classified as a CIAC for tax purposes 
+The potential book benefit to TW is that the interconnect facilities built 
+should be allowed as part of rate base because the assets were built by TW 
+and not contributed from El Paso -- I have a call to James Centilli to 
+confirm.
+Clarification on CIAC ( IRC 118(b)).  This is a code section that governs for 
+tax only how payments received from customers or potential customers for 
+services that benefit the customer are treated for tax purposes.  For tax the money received is recognized in the year received or deemed received, and 
+the asset is depreciated, normally 15 years, MACRS.  The Gross-up paid is the 
+time value of money over the life of the asset and is paid by the customer 
+requesting the service 
+The Management fee structure will generate the same result as the CIAC for 
+tax.  For tax, the money is received and taxed.  The money is then used 
+indirectly to build the interconnect facilities that are deprecated over 15 
+years, MACRS for tax.  The piece missing is that El Paso avoids the gross-up 
+of approximately $50,000.  The $50,000 becomes a lost cost to TW for doing 
+the deal with El Paso.  The lost cost should be off-set in part from rate 
+recovery.  I don't know how this piece will work -- James Centilli should be 
+able to confirm.
+Let me know if we need to discuss further.  I am out of the office after 
+12:30 today to return on Monday.  I will check my voice mail.  However, If 
+you need to move on this or need additional help,  please call me on my 
+mobile number (832) 647-4610.
+Robert, here is the beginning of a note I need to send to Drew Fossum 
+explaining what we're doing with El Paso.  Can you elaborate on the "meter 
+fee" approach 
+I'm not sure I really understand what keeps it from being a CIAC, and why we 
+get to include it in the rate base 
+If you can add to this I would appreciate it, or just give me a call and we 
+can discuss it further.  Thanks so much for your help.
+El Paso Field Services wants TW to build interconnect facilities.  Estimated 
+cost:  $280,000.  EPFS will contribute $165,000 pursuant to an interconnect 
+agreement.  The Commercial Group would like to avoid the tax gross-up 
+associated with a contribution in aid of construction.  The Internal Revenue 
+Code expressly provides that contributions in aid of construction and other 
+contributions made by a customer or potential customer (collectively, 
+"CIACs") are not contributions to capital and thus are not excluded from 
+gross income.  Accordingly, such amounts are required to be included in gross 
+income 
+EPFS has proposed, instead of the $165,000 being paid in a lump sum, that the 
+contribution instead be paid in equal monthly installments as a "meter fee Our tax department has advised me that while this approach does not absolve 
+TW from tax liability on that revenue, it does have a couple of advantages It would remove the contribution from the CIAC category (why is it not a 
+CIAC?)and TW would be allowed to include it in its rate base.  Additionally, 
+TW would be allowed to treat the interconnect facilities as a depreciable 
+asset 
+OK, here's my first attempt.  Although I think Red Cedar's lawyers might be 
+looking for more, they have not specifically requested it, so I decided to 
+stick to making only the statements Ed Meaders mentioned in his 2 voice 
+mails.  I believe this may suffice.
+Attached for your review and comment are the draft changes to the 
+Comprehensive Settlement due to the withdrawal of Altra.? Thanks.
+Zenee G. Angeles 
+SEMPRA ENERGY 
+213 244-3831 
+- settlementrevTPSP.doc
+Hi Mum!  What an eventful few days it has been.  Sorry I didn't call over the 
+weekend.  I had my hands full painting my bedroom!  It took forever!  Luckily 
+I got the color right on the first try:  the Happy Yellow looks pretty good Saturday I hauled my paint-covered self to the Met for a pro-am tennis 
+tournament, which was fun.  It was a benefit for DiverseWorks, the 
+theater/art group I've been interested in joining.  In fact, yesterday I got 
+a call from their executive director asking if I was still interested in 
+board membership, and that they would be voting on me tonight!  I'm really 
+excited and am expecting good news.  This could be an auspicious start to 
+life after law for me!
+Sure enjoyed my visit to Austin.  It went by too quickly!  I hope you're 
+having a good week; let me hear from you!
+Love,
+Sooz.
+Ashley, the oven/stove problem should be fixed before the weekend.  If you 
+have any further problems with it please let me know; I realize it's pretty 
+old.  I never noticed the control for the oven doesn't even have temperatures 
+marked on it...the repairman is definitely taking care of that too!  The 
+handy dudes are coming over to give me an estimate on the kitchen and 
+bathroom floors and I'm going to also ask them to replace the wood around the 
+A/C in the second bedroom.  If there's anything else you've noticed that 
+needs fixing let me know.
+Ashley, all that is fine, and I certainly understand, though I would very 
+much hate to lose you because you are a fabulous renter.  Keep your freedom Stay in my apartment!!  If you do not want to renew for 6 months and want to 
+go month to month after Nov., that is fine.  All I ask is 30 days notice 
+before you move out.  In any event, I'll probably get the floors done just 
+because I think it would be a good improvement to make regardless...I'll 
+check with you before I get the work done to make sure the timing is OK with 
+you.
+Susan,
+Before you spend too much making improvements (though the oven does need to be
+fixed!)
+Right now, it looks like Deron is not going to be moving in with me as he has
+some concerns about the wiring for all of his computer gadgets.
+I love my (your!) garage apartment and really do not want to give it up, 
+however
+I am not sure if it makes sense for us to keep paying 2 rents, so I am not 
+100%
+sure whether I will be renewing my lease after November.  If I did, it would
+probably be for another six months (ie, I would delay moving in together, 
+which
+I am considering as there is no real reason to rush).
+If I do not, I would be happy to post an ad for it here at Hewitt as I have
+nothing but nice things to say about it and you!  Plus, one would be very
+hard-pressed to find an irresponsible person here- there are lots of wonderful
+people here.   I will try to make a decision by the end of Sept. as to give 
+you
+notice and enough time to try to help you find a nice tenant!
+I am sorry to seem to fickle-  life is suddenly getting very complicated!
+ashley
+Ashley, the oven/stove problem should be fixed before the weekend.  If you
+have any further problems with it please let me know; I realize it's pretty
+old.  I never noticed the control for the oven doesn't even have
+temperatures marked on it...the repairman is definitely taking care of that
+too!  The handy dudes are coming over to give me an estimate on the kitchen
+and bathroom floors and I'm going to also ask them to replace the wood
+around the A/C in the second bedroom.  If there's anything else you've
+noticed that needs fixing let me know.
+Please see the attached and let me know if you have questions.  If it looks 
+OK to you and the 1/2 reimbursement arrangement is OK with EPFS, please 
+forward to James Centilli for his review.  Thanks.
+Just so you know, I spoke with the group this morning about contracting 
+practices and they agreed to do the Christine/Susan/dealmaker huddle prior to 
+sending any contracts out.  It helps that I have Kevin's support on this.  I 
+think it will work fine.
+TK is going make sure Tenaska gets credited.  The difference between actual 
+and billed amounts is very little.
+Thanks for your attention to this last week.
+Hi Misty!  How's everything?  Are we on for this weekend?  Let me know Since I have plans to see Lyle Lovett on Fri. night, I was thinking of flying 
+in rather than driving Sat. a.m. to save on time & energy, especially since 
+you live so close to the airport!
+Painted my bedroom Happy Yellow while listening to the U.S. Open weekend 
+before last...drank a lot of beer also.  Am amazed it turned out as well as 
+it did.
+You said you work with someone named Hamlet, right?  Apparently he used to 
+live across the street from Karin and Jim, on Evans!  I didn't think there 
+could possibly be 2 Hamlets.  Small world.
+w/b
+Susan
+Approved, subject to Drew's approval.  (Drew, the agency letter is the same 
+as the one with Oneok, except we've omitted some meaningless language that 
+Oneok had requested.)
+Christine Stokes
+09/18/2000 10:32 AM
+TRANSWESTERN CONTRACT APPROVAL REQUEST
+Please review the attached letter to Arizona Public Service Company (APS APS shall enter into a maximum Tariff rate transportation contract effective 
+4/1/01 - 3/31/02 for 8,000 Dth/d of East of Thoreau to California capacity The associated letter designates Transwestern as agent for capacity release 
+transactions such that Transwestern retains an agency fee equal to 50% of any 
+revenues realized through the release of the capacity at rates above maximum 
+Tariff rate.
+Please indicate approval via REPLY WITH HISTORY button 
+Fun quizzes from Cosmo 
+Christine, I spoke with Drew and he is OK with the changes shown in the 
+attached.  Questions--let me know.
+Christine Stokes
+09/18/2000 01:16 PM
+Susan - please note paragraph 2 has changed slightly.   Let me know if you 
+have any comments regarding the new structure of the 1st sentence in 
+paragragh 2.  Also, feel free to call Kevin if you need to discuss the reason 
+for the change. Thanks.
+Mary Kay -- please see the attached -- Red Cedar has essentially asked us for 
+acknowledgement that TW is willing to allow them to act as agent to transport 
+gas for producers even though Red Cedar itself does not have title to the 
+gas.  Drew has seen this and says he is going to discuss it with you 
+Kevin, let me know if you have any questions 
+Attached is a memo addressing the question of whether TW could acquire 
+capacity on a competitor pipeline in lieu of a physical expansion.
+Please e-mail or call (x30596) if you have any questions, or if you would 
+like me to set up a meeting to discuss this further.
+For your information.  If you have any questions, let me know Janet Butler
+09/21/2000 04:50 PM
+Attached is summary of protestor comments to TW's Order 637 compliance 
+filing.  It will be attached to the Weekly Report as well.
+Lindy, FERC has consistently held that pipelines may make "operational" sales 
+of gas.  Specifically this has included occasional sales of gas resulting 
+from cashout requirements and the buying and selling of gas to maintain 
+linepack levels.  TW's sale of excess linepack gas would probably be fine By contrast, buying gas then turning around and reselling it would be suspect 
+as it would look too much like our unbundled merchant function.
+Let me know if you have further questions.
+Lindy Donoho
+09/20/2000 04:43 PM
+In our Plan meeting, we were discussing UAF and Operation's objective to 
+reduce it.  Operation's objective is a volumetric goal, but we are at risk 
+for the gas price.  It started me thinking about our whole fuel expense TW's fuel expense is valued on our books at the TW systemwide index.  Should 
+TW be hedging the fuel that we burn?  Jan-Aug, 2000 (acctg months) Y-T-D fuel 
+expense is at $21MM ($2.6MM/month) at a total volume of 6.7 Bcf.  This 
+summer, with high gas prices and Gallup in service, our fuel has been ranging 
+$3.4-3.8MM a month.  Operations has objectives to minimize the fuel use, but 
+not the price.
+How could we hedge our fuel used?  Would we sell all the fuel retained (hedge 
+it as high as possible) and manage our fuel expense separately through its 
+own purchasing and hedging (as low as possible) effort?  Could we have hedged 
+some portion of our fuel usage last year for this year at $2.36 (like we 
+hedged our excess fuel) and not be subject to the high prices we're seeing 
+this summer?
+Do you think there is an opportunity here to manage our fuel expense more 
+effectively?
+Susan,
+I think you had looked at TW's ability to buy/sell gas a few months back 
+(when we were looking at fuel monetization).  What did the FERC Order say 
+about under what circumstances TW could buy/sell gas?
+You had a question about the meaning of Section 4.3.  Here's a brief 
+explanation.
+Section 4.2 covers indemnification in case one party gets sued by a third 
+party for damage caused by negligence of the other party.  I'm OK with 
+eliminating "stockholders" and the "...judgments of any nature..." clause you 
+two spoke about on the phone as long as they come out of both subparagraphs 
+a. and b.
+Section 4.3 needs to stay in because it covers any potential action by EPFS 
+against TW for damage to EPFS's facilities during the term of the agreement TW is already obligated elsewhere in the agreement to construct and operate 
+the facilities in accordance with industry practice, tariff and DOT 
+standards.  Our policy in interconnect agreements is that if TW complies with 
+these standards we should not then somehow be liable for damage to EPFS in 
+case of explosion, etc.  In other words, both parties bear the risk attached 
+to something unforeseeable going wrong notwithstanding use of industry and 
+DOT standards.
+(By the way, I believe the "notwithstanding anything in this Article 4 to the 
+contrary" language should come out; I'm not sure why it's in the draft.)
+Any questions -- please e-mail or call (713-853-0596).
+Nancy, I've prepared the attached outline in response to FERC Staff's request 
+that we provide "something in writing."  This is basically just a description 
+of our proposal.  I've tried to keep it brief so that staff members are not 
+reading while we're trying to talk to them.  It should be enough information 
+to raise a lot of questions.
+Please wait until Shelley or I give you the go-ahead to pass this along to 
+the relevant Commission people; I'd like to give the other addressees the 
+opportunity to comment on this to the extent possible 
+Everyone else:  please give me your comments ASAP as Nancy has been asked to 
+provide something to them tomorrow.
+Hi Mum -- not going to DC until next week.
+Any ideas for Karin's birthday?  Maybe we could look for something this 
+weekend.
+I plan to get out into the nice weather today as soon as I can!
+Going to Brennan's tonight w/Craig.
+Dianna isn't coming with me to Austin so I guess I will just come first thing 
+Sat. a.m.  I'll give you a call tomorrow!
+S.
+Camp2scott@aol.com on 09/28/2000 03:22:07 PM
+Hi, Sooz!
+Guess you didn't have to make your trip.
+Had thought that seeing Carmen in Houston even though it's being presented
+here in May would be interesting, but think I'll pass on it.  I return Oct 18
+and don't know if Karin wants me to spend the weekend with her and the Bug or
+not since Jim will be gone.  But, I might come the end of Oct to do some
+shopping.  Eric will be coming sometime the first 2 wks of Nov to use his
+free ticket by the 15th.  We're going to get his reservation made when he
+picks me up at the San Jose airport.  I'll be coming at some point for Ann
+Kelly's birthday which is in Nov.  It's always difficult to find a date with
+everyone's busy schedule--especially Ann's.  She never stops.
+Went to the outlet this morning and bought some shoes but couldn't find
+anything else.  That's always a lost cause for me and it will be a long time
+before I go again.
+Gorgeous day here, but it's warming up again.  So pleasant sleeping with the
+bedroom door open to the porch.
+Looking forward to seeing you.  Love, mum
+Drew, here's my first stab at a rehearing argument.  I did not go as far as I 
+could have because I really think we should argue that there should be no 
+limitation at all and that TW should be able to decide for itself what 
+capacity it can sell as firm.  Instead, I've proposed a solution that will be 
+less controversial, as we discussed earlier this week.  If you think this 
+passes the laugh test I can do some rewriting and circulate it 
+My biggest concern is portraying PNM's capacity as "firm" or "interruptible" 
+since PNM does not use that terminology, in its tariff or otherwise, except 
+to assure us over the phone that it is firm!  I'd like to check to see if PNM 
+is comfortable with all this before we file anything 
+Call when you can; this is not due 'til Oct. 15.
+Ted, I made a slight change on the first page.  Also, the blanks of course 
+need to be filled in for $$ amount and term.
+Do we have other guaranties in favor of both TW and NNG?  I know we probably 
+do, and I may have even approved them.  But if possible I'd prefer to have 
+two separate guaranties since TW and NNG are separate legal entities.  It is 
+not a huge concern, since we are not jointly obligating the two companies to 
+do anything.  If it would cause an administrative hassle to have two 
+agreements, let me know.
+Ted Chavez
+09/28/2000 03:52 PM
+Susan,
+Can you take a look at the attached guaranty from BP Amoco.  Please give me 
+your comments or approval at your earliest convenience.
+Additionally, are you still going to Zihuatanejo, Mexico?
+Thanks,
+Ted
+X-37952
+Is that so?!
+Well, I think you are quite a catch!
+Craig Lindberg  Susan,
+I just thought know should know - you have me hook, line and sinker!
+Looking forward to seeing you tonight.
+Craig
+Drew, here is the memo.  I know you will add your own spin before sending it 
+on to Cordes.  However, if there is anything you want me to fix, please do 
+not hesitate to call.
+Jim, if we delete current Section 4.3, then we would like to reinsert the 
+"negligence" clauses in Section 4.2 (I don't remember how they got negotiated 
+out in the first place).  So it would read:
+4.2  a.  TW shall release, protect, indemnify, defend and hold harmless EPFS, 
+its affiliated companies and officers, directors, employees, and agents and 
+servants, contractors and subcontractors ("Indemnified Party" or "Indemnified 
+Parties") from and against that portion of the liabilities, losses, claims, 
+damages, penalties, causes of action, suits (including suits for personal 
+injuries or death or property damage and including reasonable attorneys' fees 
+and expenses) caused or contributed to by the negligence of TW or its 
+agent(s) arising out of or in connection with its obligations under the terms 
+of this Agreement.
+b.  EPFS shall release, protect, indemnify, defend and hold harmless TW and 
+its Indemnified Parties from and against that portion of the liabilities, 
+losses, claims, damages, penalties, causes of action, suits (including suits 
+for personal injuries or death or property damage and including reasonable 
+attorneys' fees and expenses) caused or contributed to by the negligence of 
+EPFS or its agent(s) arising out of or in connection with its obligations 
+under the terms of this Agreement.
+c.  [same as current version]
+d. [same as current version]
+Susan-
+See what you think of using the following in Section 4.2 and deleting
+Section 4.3 in its entirety and replacing it with the below:
+Section 4.2
+a.  TW shall release, protect, indemnify, defend, and hold harmless EPFS,
+its affiliated companies and officers, directors, employees, agents and
+servants, contractors and subcontractors ("Indemnified Party" or
+"Indemnified Parties") from and against any and all liabilities, claims,
+damages, penalties, causes of action, suits (including suits for personal
+injuries or death or property damage and including reasonable attorney's
+fees and expenses) in any way directly or indirectly arising out of or in
+connection with TW's performance of its obligations under the terms of this
+Agreement.
+b.   EPFS shall release, protect, indemnify, defend, and hold harmless TW
+and its Indemnified from and against any and all liabilities, claims,
+damages, penalties, causes of action, suits (including suits for personal
+injuries or death or property damage and including reasonable attorney's
+fees and expenses) in any way directly or indirectly arising out of or in
+connection with TW's performance of its obligations under the terms of this
+Agreement.
+Section 4.3
+In no event shall either party be responsible for the gross negligence or
+wilfull misconduct of the other party or their Indemnified Parties.
+Attached is the final version of the Interconnect Agreement.
+I've changed Section 4.2 in accordance with our e-mail discussion Additionally, I've filled in the blanks for POI# and date of commencement of 
+construction, and added an Exhibit A (and a reference to Exhibit A in the 
+definition of "Facilities") listing what will be installed.
+Darin, kindly fill in the appropriate contact information on page 11, have 
+the agreement executed by EPFS in duplicate originals, and return both 
+originals to me.  I will return a fully executed original to you.  Lorraine 
+Lindberg will be forwarding you wire transfer information for the payments 
+that are due from EPFS upon execution.
+If you have any questions, please do not hesitate to contact me.  Lorraine 
+will be on vacation as of tomorrow.
+Thank you,
+Susan Scott
+Transwestern Pipeline Company
+1400 Smith St., Room 4788
+(713) 853-0596
+Maria reminded me that we are required to file a rate case to be effective 
+Nov. 1, 2006.
+We could file one before then as to non-Current Firm Shippers, but I doubt we 
+will.
+Any other questions -- let me know.
+I just received a copy of a Section 5 complaint filed by SoCal requesting a 
+FERC order 1) determining that the SoCalGas/Topock delivery point is fully 
+subscribed on a firm primary basis, 2) directing El Paso to comply with 
+previous Commission orders that preclude the selling of firm primary capacity 
+at points where none is available and 3) directing El Paso to schedule 
+capacity acquired during an open season (effective Jan. 1, 2000) into 
+SoCal/Topock on a secondary basis only.  SoCal states that it has experienced 
+daily cuts of up to 57% and averaging 25%.
+If you would like a copy of the complaint, let me know.
+given that I don't even know what UAF is, I will plan to attend.
+Yes and Yes.  I'd like our Houston lawyers to attend the Houston presentation 
+and if you can do one up here, I'd like our Omaha lawyers to attend also Thanks.  DF  
+For the past two months I have been visiting the GPG Operations Regional 
+offices giving a presentation on physical "UAF Fundamentals and Issues 
+The presentation has been very well received.  Interest is high, and numerous 
+questions have been raised at each meeting.  The presentation can be given in 
+50 minutes if questions are limited.  It has taken up to 3 hours due to the 
+amount of questions from the attendees. 
+One  focus of these meetings is to give the field staff a better 
+understanding of the impact  UAF has on our bottom line (TW) and  the impact 
+it has on our shipper costs (NNG 
+Yesterday, 10/4/00 I had the opportunity to meet with several members of the 
+financial group in Houston to discuss UAF.  Coming out of that meeting was a 
+request to schedule a Houston presentation on "UAF Fundamentals".  This has 
+been done, and will be at 1 PM on Oct. 18, 2000. (Place yet to be determined.)
+Two Questions:
+Is there any interest in having me give the presentation in Omaha Do you have any staff in Houston that you would like  to invite to the 10/18 
+presentation 
+Copy of the presentation if you are interested 
+Thanks  Steve  37885
+Darin, that is fine.  Revised agreement attached.
+Susan,
+I would like to request 1 final change to the interconnect agreement before
+execution.  It is a simple change to better clarify the intent of paragraph
+3.4
+This is how I would like to see it read,
+3.4 For a period of two (2) years from the date of the Facilities are
+completed and placed in-service, EPFS shall be obligated to
+deliver an average of  12,500 MMBtu/d to TW at the Interconnect
+Point.  At the completion of the second year from the date
+the facilities are completed and placed in service, If EPFS has not
+met the 9.1 Bcf volume  commitment, EPFS will refund
+$100,000 to TW within thirty (30) days.  At any time during the two
+(2) year period should EPFS's cumulative delivery to TW
+at the Inteconnect Point meet or exceed the 9.1 Bcf commitment, EPFS
+is relieved  of its volumetric and monetary obligation
+to TW as described in this paragragh 3.4.  .......  rest as
+originally writen 
+Please let me know what you think.
+Darin
+In response to your question of whether Transwestern Pipeline needs to renew 
+its bond (Bond No. 22000455) to the State of Oklahoma, the answer is yes.
+If you have any questions, please call me at x30596.
+Take a look at the attached and let's talk tomorrow if at all possible.  I 
+want us to have a consensus among ourselves on this draft before I circulate 
+it more widely.
+I neglected to include some of Drew's comments in the version I sent you a 
+few minutes ago...use this draft instead.
+Ted, see the attached; I've made a couple of changes.
+Ted Chavez
+10/05/2000 02:01 PM
+Susan,
+Please see the attached and give your comments.
+Thanks,
+Ted
+X-37952
+Jeff, attached is our summary of the Transwestern receipt point proposal for 
+inclusion in CAC's settlement proposal.  I hope that this is helpful.  If you 
+have any comments, please let me know.
+Barbara, here is my draft of a rehearing request.  As I mentioned, our 
+outside counsel is going to try to add a few sentences; I haven't heard back 
+from them, but will send you the revised draft when I do.  I'd be happy to 
+copy Jay Golub too; please send me his e-mail address.  In the meantime, let 
+me know if you have any comments.  We plan to file on Monday, Oct. 16.
+Thanks,
+Susan
+713-853-0596
+The attached draft reflects revisions made pursuant to our discussions with 
+FERC staff.  You will be receiving a hard copy of the tariff sheets 
+separately.
+Please make sure you read the "Waivers" section towards the end of the 
+document as it contains some additional requests for waivers.
+Also, there seems to be some confusion over whether we are going to post all 
+options, not just Shipper call options.  My previous drafts have provided for 
+posting of Shipper call options only.  All other types of options will be 
+generally available, on a nondiscriminatory basis, through our tariff.  My 
+thinking was that it is commercially impracticable to post the specifics of 
+all types of options, and it's not necessary since options will be noted on 
+our transaction reports required by Order 637.  Let me know what you think.
+Let me know your comments as soon as possible.  I understand that the 
+Commercial Group told Stan Horton this would be filed this week and Shelley 
+reported at staff meeting on Monday that it would be filed this week or next 
+week.  As soon as I get everyone's comments we can get this finalized.
+Thank you.
+Susan Scott
+10/12/2000 01:10 PM
+Mark, Jeff Fawcett asked me to forward the attached documents to you.  One is 
+an interconnect agreement and one is an operating agreement.  I would 
+describe both as "examples" rather than "forms," since every deal is 
+different and we don't really have a standard form we use.  I hope that these 
+are helpful; if you have any questions at all, please do not hesitate to 
+contact me.
+Susan
+713-853-0596
+I left him an extremely short voice mail thanking him for the book and asking 
+him not to contact me again unless his message is kind and positive.  I tried 
+to make my tone very pleasant and calm.
+On Ann's and your advice, I'm going to rescue the shredded letter/envelope 
+out of the trash; be careful what you toss in there.
+I think you should start keeping this stuff now. He is scary and you never
+know Dianna Rosser
+Vinson & Elkins, L.L.P.
+1001 Fannin, Suite 2300
+Houston, Texas 77002
+713.758.3688
+Take a look at this and let me know if you have further comments.
+Please see attached from Steve Stojic.
+- rehearing req.doc
+Here is the latest draft.  If you have any comments, please let me know Thanks.
+Susan Scott
+(713) 853-0596
+"BWhitta@pnm.com" <BWhitta on 10/12/2000 11:03:08 AM
+Jay and Dan:
+This is the first draft of a filing Transwestern is considering filing with
+FERC on Monday, October 16, 2000.  Susan Scott will be finalizing this
+document on Friday, October 13, 2000.  I will be out of town and unavailable
+to review it so she asked if you would look it over here (and as revised on
+Friday) to be sure they do not say anything in the filing that is not true
+or mischaracterized.  If you have any other suggestions, Susan's phone
+number is below.  Again, they are still considering whether or not they will
+make this filing.
+Susan:
+I understand that Jay Golub, too, is traveling this week but is able to view
+and respond to his email.  His email address is jgolub@bakerbotts.com
+Manager of Transportation Services.  Dan's email address is dmcfear@pnm.com
+do not hear from Jay, you can check with Dan.
+I have made changes to the document.  I think the document refers to "peak"
+period when it means to refer to "non-peak" period in the first paragraph of
+the Argument and vice versa in the second paragraph.  You may have caught
+these by now.  I will be in on Monday after all so if you need to talk to
+me, you can call me on Monday.
+Thanks,
+Barbara Whittaker
+Barbara, here is my draft of a rehearing request.  As I mentioned, our
+outside counsel is going to try to add a few sentences; I haven't heard back
+from them, but will send you the revised draft when I do.  I'd be happy to
+copy Jay Golub too; please send me his e-mail address.  In the meantime, let
+me know if you have any comments.  We plan to file on Monday, Oct. 16.
+Thanks,
+Susan
+713-853-0596
+(See attached file: rehearing request.doc  - rehearing request.doc
+That is correct, I returned comments to Accounting, not AA directly.
+I don't think I sent my comments to Drew, but I don't remember very clearly.
+Tony Jackson
+10/13/2000 03:21 PM
+Susan,
+That is pretty much all we needed for now Susan.  I appreciate your offer of 
+the comments, but I will get back to you later if it looks like we need to 
+see those 
+You mentioned you sent comments to someone at AA.  I assume you mean the 
+comments were returned to the NNG and TW accounting folks instead (where 
+Allen is).  Also, do you send your comments to Drew as well 
+Thanks for the quick response.
+Tony
+Susan Scott
+10/13/2000 02:00 PM
+I reviewed the 1999 Form 2 for Transwestern and sent some comments to someone 
+at AA (I apologize, I don't remember who, but I think it might have been 
+Allen Joe).
+If you need to see my comments, I believe I kept a hard copy in my file.
+I also reviewed the 1998 Form 2 for Transwestern.
+If you need further information, please let me know.
+Tony Jackson
+10/13/2000 02:36 PM
+Maria/Susan,
+My name is Tony Jackson with Arthur Andersen, and I am the experienced staff 
+on the Enron Transportation Services (with a focus on NNG and TW) audit 
+team.  Right now, we are in the midst of several internal control reviews 
+related to various risk areas. 
+We are currently testing the risk that NNG and TW reserves (regulatory, legal 
+contingencies, etc.) are inappropriately valued and/or established.  One of 
+the controls that Accounting cited to mitigate this risk was that both Legal 
+and Rates reviewed the NNG and TW FERC Form No. 2s prior to issuance.  Harry 
+Walters and Allen Joe mentioned to us that there is no formal "sign-off" or 
+approval process by Legal and Rates of the Form 2s, but instead, drafts were 
+sent to the groups and any comments were then reviewed with Accounting.  Your 
+names were mentioned as those they sent the 1999 Form 2 drafts to for Legal 
+to review (Maria-NNG and Susan-TW 
+In order for us to test this control, we need to confirm with your group that 
+this type of review was performed for the 1999 NNG and TW Form No. 2s.  What 
+role did you and your group play in this review?
+Please let me know if you have any questions 
+Tony - AA
+x33050
+Attached is the cover letter.  This version incorporates the changes we 
+discussed over the phone on Friday, Stojic & Kelly's suggestions, and further 
+revisions by Shelley.  (I've attached redlined and nonredlined versions Shelley and I might have a further revision or two with respect to footnote 
+9 
+On Monday I'll be in meetings 9:30 - 10:30 and 2:00 - 4:00; otherwise I'll be 
+at my desk.  Please fax me the final version of the tariff sheets when you 
+have them (to 713-646-4095).  And, please call if there are any remaining 
+questions.
+Many thanks,
+Susan
+FYI
+Susan, I did get this, and will print if off for filing.
+We'll fax it as directed below.
+-Nancy
+Susan Scott
+10/16/2000 09:11 AM
+Nancy, attached is the request for rehearing that needs to be filed today Please print it out, sign my name and fax it to Denise LaGesse at 
+713-853-5425.  When my staff meeting is over at around 10:30 I'll take a look 
+at it and give you a call.
+By the way, I don't usually bother with a cover letter but if you believe one 
+is needed, let me know.
+Thanks!
+Many of the customers have requested that we fax them the filing, so I am 
+planning on providing them with courtesy copies 
+It's been signed and ready to be shipped to DC for filing tomorrow.  good 
+job--
+Are you guys calling some of the Tw customers to tell them its being made and 
+should we have a copy delivered to anyone specically at FERC??  MK
+Lorraine, here is the letter.  You will need to fill in the address; 
+otherwise it's ready to go.  Let me know if you need anything else (including 
+initialling).
+FYI
+10/16/2000 02:12 PM
+Nancy Bagot
+Nancy Bagot
+Nancy Bagot
+10/16/2000 02:12 PM
+10/16/2000 02:12 PM
+Shelley, once the filing is made at the Commission, I will hand deliver 
+copies to the following (all are pre-filing meeting attendees, along with Bob 
+Flanders who set up the OMTR/policy meeting):  Bob Flanders, Ed Murrell, 
+Laurel Hyde, Kim Bruno, Kathleen Dias, Demi Pulas, Mike Coleman, Bob 
+Petrocelli and John Carlson.
+PLEASE NOTE that I will be at a technical conference at FERC tomorrow.  All 
+additions or questions about the filing should go to Mike Van Norden 
+[202-466-9148].
+I will be available via beeper at 800-346-3310 
+-Nancy
+Southern Trails proposed, at an estimated cost of $155,000,000, a pipeline 
+project consisting mostly of 693 miles of crude oil pipeline acquired from 
+ARCO.  Ten percent of the project would be new construction and the remainder 
+would be conversion of the crude oil line to gas service.  The pipeline 
+system would be divided into an East Zone and a West Zone.  The East Zone, 
+which will begin in the San Juan Basin and end at the California border, will 
+have 87,500 Dth/d of available capacity.  The West Zone, wholly within 
+California, will have 120,000 Dth/d 
+Southern Trails received certificate authority for the project on July 
+28,2000.  An optional certificate application does not require any showing of 
+market need; however, Southern Trails did hold an open season from Sept. to 
+Oct. 1998 during which it received 22 bids totalling 810,000 Dth/d of 
+demand.  The order issuing the certificate did not say how much of the 
+capacity had been subscribed, only that Southern Trails had contracted with 
+its affiliate, Questar Energy, for 30,000 Dth/d of firm capacity in theh East 
+Zone for 5 years and one month, and taht firm transportation service 
+agreements of 5 and 10 year terms are "being negotiated" with prospective 
+shippers which, if executed, would subscribe the balance of the capacity in 
+both the East and West zones 
+TW is an intervenor in this docket so I have received everything that has 
+been filed.  I have no further information about any further subscription of 
+capacity.  I also have no information regarding any progress that has been 
+made on construction.
+If you need a more detailed summary of the proposal that was filed at FERC, 
+or if you have any other questions, please let me know and I'll see what I 
+can find.  I've got the entire environmental report in my office if we need 
+that for any reason!
+Chad -- Good to see you the other day.  Please give me a call when you return 
+to your office.  I am embarrassed to say that I am not sure I have the right 
+version of the Operating Agreement we sent you in March...if we can compare 
+notes, I can make sure I get the correct one to you without further delay.
+Thank you!
+Susan Scott
+Transwestern Pipeline Company
+(713) 853-0596
+Colleen, thank you so much for your very prompt attention to this.  I 
+definitely had the wrong version of the agreement.
+Jeff confirmed by voice mail this morning that even though we already 
+included the 5.4 language in the draft we sent him back in March, he does 
+find it objectionable and will want to modify it, so he will be very 
+interested in seeing your suggested language too.
+Please send your attachment "CalpineO&M 10-18-00 edits to draft03-20-00".
+Again, thank you so much for your help with this.  (Calpine has finally woken 
+up and realized they want this in place Nov. 1 I will let you know how negotiations are shaping up.
+Colleen Raker
+10/18/2000 07:35 PM
+Attached below is Jeff Fawsett's  3/22/00 note to Calpine with TW's 3/20/00 
+draft of the Operating Agreement .  What changes if any did Calpine require 
+to this draft?  Please note that Section 5.4 of the attached 3/20/00 draft is 
+substantively identical to my further-revised Section 5.4 (with subsections A 
+and B) that I forwarded to you a few days after Jeff's note to Calpine.
+From our meeting this morning I understand that Jeff appears adverse to 
+Transwestern's claiming zero financial responsibility for damages to 
+Calpine's Measurement and Control Facilities that result from TW's O&M 
+Services.  Consequently, I made some modifications to Articles 4 and 5 of the 
+3/20/00 draft for TW management's consideration.  These changes are noted in 
+the attached document marked "CalpineO&M 10-18-00 edits to draft03-20-00 With my 10-18-00 revisions, TW places a limit on its liability to Calpine for 
+loss or damage incurred by Calpine due to TW's Services, including loss or 
+damage to the existing M&C Facilities,  if and to the extent damage is caused 
+by TW's negligent acts or omissions.  To complete my modification to Section 
+5.3, TW is to insert the maximum aggregate amount of financial liability it 
+is willing to assume in any contract year.  This amount could be the amount 
+of Calpine's deductible on its property insurance coverage or a lesser 
+amount.  Whatever the amount chosen, please remember that TW is self-insured 
+for the first $2M, each occurrence.  Therefore, what is the amount of risk 
+that TW is willing to pay out of its earnings if Calpine claims damage to its 
+existing Facility due to TW's negligent operations?  That is the amount to 
+insert in the blank space in Section 5.3 
+FYI, the changes in Sections 3.1 and 4.1 (b) and (c), and the striking of 
+Section 4.1 (d) do not create any substantive changes to the 3/20/00 draft I  made the latter changes for stylistic reasons and to correct typos and 
+redundancies.  Please call me if you have any questions and to let me know 
+the status of this document.  I have lost track of my notes on the status of 
+TW Operations' review and approval of the list of Services included in 
+Exhibit B; this needs to be determined by Jeff (or his designee) before the 
+final definitive agreement is prepared for signing.
+Jeffery Fawcett
+03/22/2000 12:26 PM
+Chad,
+Sorry it took so long to get back with you, but we've had some folks out 
+(including me) on Spring Break with their kids.  Attached is a draft of the 
+Operating Agreement covering TW's operation of the metering station.  It's 
+pretty much a standard form agreement for TW, with the possible exception of 
+the exhibit defining the operating parameters of the South Point plant.  As I 
+mentioned to you in our meeting in Pleasanton, the operating parameters 
+exhibit is a useful tool for both companies to assist in identifing some of 
+the operating conditions the plant might encounter and the ability of TW to 
+load follow those conditions.  I made a number of assumptions regarding the 
+burn rates for your facilities, especially the base rate and minimum rates You'll likely have to fine tune those numbers.   Also, I've yet to ask our 
+engineers to secure the documentation necessary to complete Exhibit "A" from 
+your 3rd party engineers.  We'll include it in the final version.  Please 
+give me a call after you and your team has had a chance to review.  Thanks.
+Ashley, here's an ad in Word format.  If Deron could post it at Hewitt, I 
+would be most grateful!
+I just received word that I'm losing my garage apt. renter as of Nov. 30 If any of you know someone who is looking for a place, have them call me (I found my current renter through a friend and it has worked out great.)
+Here are the specifics:
+2 bedroom/1 bath garage apartment in Houston Heights (Cortlandt St Hardwood floors,  lots of windows, new window A/C units, washer/dryer hookup, 
+garage parking space.  Cats OK.  $650/month.  Available December 1.  Call 
+713-853-0596 (day) or 713-864-4960 (evening).
+Thanks!
+Chad, attached is the draft of the Measurement and Control Facilities 
+Operating Agreement for Calpine's review.  As we discussed, because the 
+exhibits are still being finalized, I have not included them in this draft If you have any questions or comments, please do not hesitate to contact me.
+Thank you.
+Susan Scott
+Transwestern Pipeline Company
+(713) 853-0596
+Attached pursuant to TK Lohman's request is an electronic copy of 
+Transwestern's October 17, 2000 FERC filing proposing a transport options 
+program.
+This copy does not include the tariff sheets as they are not available in 
+electronic format.  If you would like to see the proposed tariff sheets, 
+please let me know and I will be happy to fax them to you.
+If you have questions or comments about transport options, please contact 
+either TK or me.
+Susan Scott
+713-853-0596
+Unfortunately I can't go to Austin next weekend; I've planned to go to L.A. 
+to visit Sue.  I am bringing my new beau with me!  You will meet Craig at 
+some point.  I think it's also safe to say you will like him much better than 
+Bill.
+I'm tentatively planning to come to Austin the weekend of Nov. 11, but you 
+know that is totally up to D.E. (Dreamy Eric).
+In the meantime, send Bug photos if possible!
+Hola and happy Friday! Just a note to let you know that we will be going to
+Austin next weekend for wig control.  Might you be able to join us there?
+Jim left this morning with Dave to go to Zion.  It will be a good male
+bonding kind of trip I guess.  Dave and Sandy (excuse me, David and
+Sandra...)are expecting a baby in December so it will kind of be a "last
+hurrah" for him, I guess! Anyway, mum is going to help me with bug duty this
+weekend for which I am most thankful.  Now I can get at least be assured of
+getting the routine cleaning done.  Well, let me know if you can make it to
+Austin next weekend, otay?
+Karin
+The information in this e-mail is confidential and may be legally
+privileged.  It is intended solely for the addressee.  Access by any other
+person to this e-mail is not authorized.  If you are not the intended
+recipient, please delete this e-mail.  Any disclosure of this e-mail or of
+the parties to it, any copying, distribution or any action taken or omitted
+to be taken in reliance on it is prohibited, and may be unlawful.
+Denise, a few weeks ago someone who is charge of computer stuff (in Omaha, I 
+believe -- I cannot remember her name) called and we discussed replacing my 2 
+machines with a laptop.  Do you know who I am talking about?  I think I had 
+you call her to give her info on my upstairs computer.  Anyhow, before we 
+order anything it might be good to make sure she and Jeff Nguyen are on the 
+same page about this.  Could you follow up on this?  Let me know if you have 
+trouble getting in touch w/the right people.  Thanks.
+DENISE LAGESSE
+10/23/2000 09:57 AM
+Just let me know what you want, and I'll ask Drew to approve it, and I'll get 
+it ordered.  You'll probably also want a docking station, which is listed on 
+the purchase requisition as "Other Options Available."
+Susan and Denise,
+Attached is the Enron Standard M700 Laptop price and the common options 
+ordered.
+Let me know if you have any questions.
+Thanks, Karon
+Jeff Nguyen
+10/20/2000 04:12 PM
+Karon,
+Can you give, Susan Scott, a price quote on an Armada M700, and two docking 
+port replicators.  She is wanting to purchase these items, but needs to know 
+the pricing first 
+Thanks,
+Jeff Nguyen
+ETS Desktop Support
+Janet -- could you please try to find the files Maria references in her 
+e-mail, and I'll take it from there.  Thanks!
+Maria Pavlou
+01/10/2000 03:28 PM
+Rita, see what Lindy and Lorraine confirm and let me know.  I still think 
+there is something related to our request for removal of the at-risk 
+condition that has been filed which shows start and end dates.  Susan, can 
+you pls. have someone check the CP90-2294 (San Juan Expansion) and Docket No. 
+RP92-140 (San Juan Rate Proceeding) files on the 47th floor or have them 
+copied and sent to me.   I think I would remember what the document looks 
+like.   Thanks, Maria
+I am planning to be out Friday, Oct. 27 and Monday, Oct. 30 
+I see no reason to acknowledge your presence given the way you are harassing 
+me.
+I no longer know you.
+It is also not appropriate for you to tell me what is the right thing to do Please do not attempt to contact me again 
+William Krenz@_DEVELOPMENT
+10/25/2000 10:26 AM
+Susan:  I would appreciate it if you would at least treat me civilly (such 
+as, acknowledge my existence) when we encounter eachother in public, like at 
+the Met for example.  I ask you to remember that I did not start this 
+situation, but I was forced to deal with it.  I just responded to the 
+unprovoked things that you did and said to me -- the likes of which I had 
+never before experienced.  Pls keep that in mind.
+It has been quite some time since you said you were going to return those 
+items I brought you from Hong Kong.  I previously told you that I felt it was 
+the right thing to do under the circumstances.  Given what has happened and 
+what those items represent, I do not see how you could now feel it is 
+appropriate to keep them or how you could possibly derive any enjoyment from 
+them.  Pls let me know what you intend to do, and we can make appropriate 
+arrangements.  Thanks.
+Bill  
+Let me know what you think.
+Here's the letter with some slight changes Drew and I thought it better to mention the interconnect for regulatory 
+reasons.  Questions? let's chat.
+Thanks.
+Lorraine -- answers to some of your questions.
+Questar Line 90 Company purchased the facilities from ARCO for a total of $38 
+million.  At the time it made its FERC application, Questar Southern Trails' 
+estimated cost of 1) purchasing the facilities from Line 90 Company and 2) 
+converting the line to gas service via the construction of compressor 
+stations and various pipeline replacements, realignments and extension:  155 
+million.  I assume you want more detail so I'll have Mike Vannorden get the 
+relevant exhibits 
+Southern Trails proposed to install 7 new compressor stations.  These are 
+detailed on Table 1 in their application cover letter (on my desk if you want 
+to take a look).  The various pipeline modifications they proposed to make 
+are described in some detail on pages 12 - 16.
+Available capacity:  120,000 Dth/day in West Zone; 87,500 in East Zone.
+I will have Mike send you exhibits I believe might be of interest.
+Mike, as we discussed yesterday, please get a copy of the following exhibits 
+to the "Happy Trails" application in Docket No. CP99-163-000:
+Exhibit K - Cost of facilities
+Exhibit N - Revenues, expenses, income
+Exhibit O - Depreciation and depletion
+Please send them directly to Lorraine Lindberg at EB4150G.  If you have any 
+questions she can be reached at 713-853-5403.  Or -- I'll be here the rest of 
+the day today.
+Thank you!
+Denise -- can you order this for me?
+Let me know if you need any info.
+I'll need the laptop plus 2 docking stations, one upstairs and one down.
+And a normal monitor & keyboard.
+Jeff Nguyen
+10/30/2000 01:49 PM
+Susan,
+I've spoke to our purchasing person, Karon O'gorman, about an order status in 
+Omaha.  According to Karon, all purchasing from Omaha and Houston goes 
+through her.  Therefore, if you need to order a new laptop, Karon can handle 
+all of the arrangements for you.
+Thanks,
+Jeff Nguyen
+Sugarbooger,
+Looks like Continental is our best bet at $620 per ticket, which I'm assuming 
+reflects the beginning of the official high season in C.R.  American is 
+slightly lower but you have to go THRU MIAMI!  Ick!
+There is a 9:30 a.m. out of Houston on 12/9 and the return trip from San Jose 
+is at 8:10 a.m. (a 3 p.m. was also available).
+They're holding the tickets for us; if we want them, we have to decide before 
+COB tomorrow.
+Muchos besos!
+S.
+Attached is a draft of an answer to protests received in Docket No. RP01-56 Please let me know your comments before noon tomorrow if possible.  Thanks.
+Please print out the attached on my letterhead & bring it over to me.  Thank 
+you!!
+Lorraine Lindberg
+01/11/2000 02:32 PM
+Here it is.
+Here's what I've added to my answer to address Ni's question.  Let me know if 
+you have comments.
+I'll have a final draft out shortly.
+Prior to the deadline for filing interventions, Transwestern received a 
+request from Commission staff for clarification of the criteria for awarding 
+of Shipper call options.  The procedure will be as follows:  an advance 
+posting will specify the term of the available option, term of transportation 
+service, transportation volume, and instructions for bidding.  Shipper call 
+options will be awarded based upon the highest rate payable for the option 
+component 
+Here is what I think is a final draft...I'm going to give it one last read 
+thru...if you have further comments let me know immediately.  Thanks.
+done.
+Great--please make one change for me--change  "influence it" to "comment on 
+it"  at the end of the first par. of B.  thanks DF
+Susan Scott
+11/03/2000 02:32 PM
+Here is what I think is a final draft...I'm going to give it one last read 
+thru...if you have further comments let me know immediately.  Thanks.
+"Kitty Fun Barbie"
+Complete with Marshmallow the cat (with long, brushable fur), cat toys, 
+little cans of Fancy Feast, and, get this:  a carrier thaqt becomes a litter 
+box!  "Marshmallow drinks and wets in the litter box.  Scoop up the clumps 
+after she goes.  So real!"
+L O V E   H O R O S C O P E 
+Sagittarius  Sagittarius  
+Since every Saj is equal parts idealist and gambler, your relationship should 
+be very interesting. 
+You're great pals, marvelous traveling companions, a pair of high-flying, 
+high-rolling 
+activist/adventurers. Just come down to earth once in awhile -- or find 
+someone else to 
+do it for you. This union requires periodic reality checks. You share each 
+others ideals, interests 
+and adventures like no one else can. Both of you like to read, study, 
+observe, learn and teach. 
+When you're doing all those things together, life may get exhausting but 
+never boring. 
+Travel is part of the glue that holds you together. So here's a warning: 
+Separate vacations 
+are a no-no. Each of you is such a wanderer, somebody might not come back or remain at home. 
+by   S T A R   D I V A 
+The Star Diva has spoken!  I believe she is correct in everything but the 
+last part...if you really wanted to go somewhere by yourself, I know you 
+would come back.  And I would miss you while you were gone!  I cannot imagine 
+wanting to go on a trip without you, and I don't consider myself a 
+"wanderer," either 
+Craig Lindberg  How true do you think this is?
+L O V E   H O R O S C O P E
++
+Sagittarius  Sagittarius
+Since every Saj is equal parts idealist and gambler, your relationship
+should be very interesting.
+You're great pals, marvelous traveling companions, a pair of high-flying,
+high-rolling
+activist/adventurers. Just come down to earth once in awhile -- or find
+someone else to
+do it for you. This union requires periodic reality checks. You share each
+others ideals, interests
+and adventures like no one else can. Both of you like to read, study,
+observe, learn and teach.
+When you're doing all those things together, life may get exhausting but
+never boring.
+Travel is part of the glue that holds you together. So here's a warning:
+Separate vacations
+are a no-no. Each of you is such a wanderer, somebody might not come back or remain at home.
+by   S T A R   D I V A
+Here's the service list
+DENISE LAGESSE
+11/06/2000 03:38 PM
+Here it is.  It also includes Naomi's name/address.
+Here is a very rough draft -- an outline, really -- of an answer to Indicated 
+Shippers' protest.
+Please provide comments as you see fit.  I will probably not have time to 
+look at them until later in the afternoon tomorrow, at which time I will also 
+do a lot more writing (i.e., making complete sentences, transitions, heading, 
+conclusion, etc.).  In other words, of greatest interest to me right now are 
+your ideas on the best way to rebut the Shippers' arguments (including 
+identifying those that might be safe to ignore 
+Thank you!
+Denise, please put these meetings on my calendar.  Thanks.
+The schedule is as follows:
+January 2
+January 23
+February 13
+March 6
+March 27
+April 17
+May 8
+May 29
+June 19
+July 10
+July 31
+August 21
+September 11
+October 2
+October 23
+November 13
+December 4
+The meetings are scheduled for 1:30 pm and all are in the Video Conference 
+Room (49C2 in Houston).  I will let you know when conflicts arise.
+Call if you have any questions (x7330).
+Thank you.
+Martha Benner
+Hello Dave.
+My understanding is that FERC does not yet require electronic contracting, 
+but that many pipelines do offer it voluntarily 
+,
+Susan
+Hi,...did I guess correctly as to your e-mail addresses?  If so, I have a
+question 
+Do you happen to know if there are FERC rules requiring interstate pipelines
+(are you familiar with any?) to offer e-contracting (including e-signature)
+to customers/shippers, or is it a discretionary service...... or not a
+service at all?
+Of course, I need to do my own legal research, but maybe you two know off
+the top of your head.
+Thanks, and cheers 
+Dave Anderson 415-973-6659
+I regret to report that I just ended a very unproductive phone conversation 
+with Mr. Hertzberg.  He thanked us for all our cooperation but politely 
+declined to give me any information on what authority he was relying on to 
+conclude that there is a jurisdictional problem.  However, it sounded to me 
+like whatever authority he does have is shaky at best.  He also sounded 
+interested in the possibility of our making some sort of anonymous inquiry at 
+FERC (if such a thing is possible) on the issue.  Obviously they are very 
+leery of making that phone call themselves and risking revealing their 
+identity.  He said he would discuss it with Ed Meaders.  Also, he mentioned 
+that after tomorrow he will be on vacation for a month, and another attorney 
+will be taking over in his absence.  That could be good, or it could be bad Maybe Lorraine can sweet talk Meaders into at least citing us some cases from 
+Hertzberg's memo.  At the very least, I hope he will show it to the Kinder 
+Morgan lawyers.
+Today the Commission issued a tolling order on our request for rehearing in 
+the PNM capacity docket.  As you recall, we asked for rehearing of the 
+Commission's requirement that TW's acquisition of capacity be limited to the 
+summer months.  The tolling order is simply FERC's way of buying time to 
+consider our request.  In the absence of Commission action within 30 days of 
+our rehearing request, our request would have been deemed denied...so we're 
+doing well so far.   There is no deadline for the Commission to act on our 
+request.  I'll watch to see whether it appears on the Commission's agenda.
+The information contained in this e-mail message is intended only for
+the personal and confidential use of the recipient(s) named above. This
+message may be an attorney-client communication and/or work product and
+as such is privileged and confidential. If the reader of this message is
+not the intended recipient or an agent responsible for delivering it to
+the intended recipient, you are hereby notified that you have received
+this document in error and that any review, dissemination, distribution,
+or copying of this message is strictly prohibited. If you have received
+this communication in error, please notify us immediately by e-mail, and
+delete the original message.
+- mini_me.jpg
+Ted, here are a few suggested changes.
+Also, regarding the language you crossed out at the bottom of paragraph 1 
+(about notice of default, payment within 15 days, etc.), I do not think that 
+language was objectionable from a legal standpoint, and might actually be 
+helpful as far as giving them a payment deadline.  However, if it's 
+inconsistent with your procedures, or you just don't like having to give them 
+notice, I see no problem at all with crossing it out.
+Ted Chavez
+11/02/2000 11:42 AM
+Susan,
+Please review the attached guaranty for Sprague Energy.  I have made some 
+changes, but need your approval.
+Please advise if you need anything.
+Thanks,
+Ted
+X-37952
+Ted, I made one addition.
+Ted Chavez
+11/07/2000 10:14 AM
+Susan,
+Please review the following guaranty sent to us by Peoples Energy Corp 
+(PEC).  PEC and ENA will each guaranty 50% of the obligations of Enovate ( I 
+think the guaranty may have a different name- I'll fix it).
+Please review and let me know if it is acceptable or make necessary changes.
+Thanks,
+Ted
+X-37952
+Hi Mum!  So good to see you this weekend!  It was great to meet Eric; what a=20
+sweet man.  Fun too!  I can see why you are so crazy about him!  Craig really=20
+enjoyed meeting you also.
+Our trip home was somewhat hair-raising but we made it back safely.
+I can't believe I am still here at work!  Took a break to make my list for=20
+you.  It is somewhat random.  Feel free to collaborate with K&J 
+Love, Sooz
+- CD case (small -- for 12 or so CDs out of their boxes)
+- small duffel bag to take to the pool (smallest Eddie Bauer, or Nike also=20
+makes a comparable size) -- really need this -- any color except all-black=20
+See:  www.eddiebauer.com/eb/product.asp?product_id=3D17368&nv=3D5|214|231
+- sleepwear -- all kinds -- size XS usually fits best
+- travel coffee mug
+- Clinique "Happy" body lotion
+- Amazon.com wish list =20
+- Bag from Kenneth Cole =01) see website (www.kennethcole.com)=20
+(style =3D "Ladies Night" in black.  Also like "Ladies Who Lunch 
+- Cashmere sweater set from Banana Republic (any color except charcoal gray)=20
+=01) Size S shell; size XS cardigan if available.  See:=20
+www.bananarepublic.com/deptmain.asp?loc=3Dwoman&sid=3D267W16LSL5S92NQB00A3H2K9UAQ2
+6XGD
+Also like cashmere crewneck style in port, size XS
+AND -- merino wool v-neck pullover in any color, size XS
+- gold bracelet -- chain or cuff
+- jewelry -- all kinds
+Here is a draft that incorporates Drew's, Steve Stojic's, Maria's and some of 
+Shelley's comments (Shelley hasn't gotten all the way thru the draft yet 
+Please take a look at the draft and let me know if you have comments today Still working on justifying transporter options, as you can see on page 5 
+If possible I'd like to send it to Nancy to file today.
+Thanks,
+Susan
+Nancy and Mike, please sign the attached and file it today, and deliver 
+copies to those staff members who got copies of our initial filing.  Please 
+fax a signed copy to Denise LaGesse at 713-853-5425 and she'll do the service 
+list mailout.
+Any questions -- give me a call at 713-853-0596 (fyi - I have a meeting from 
+11 to 1 but will take a break to check messages).
+Glen, as we discussed, here is the negotiated rate TW deal which TK did today 
+under Rate Schedule ITS-1.
+The term is ONE DAY, Nov. 15. 
+Quantity:  30,000 Dth/day
+I know this is a bit unusual.  We are just going to have to ask the FERC for 
+a waiver of their "before gas flows" filing requirement.
+Given the price spreads and the shippers' willingness to pay more than max. 
+rates for short-term deals, we might have more deals like this.  We probably 
+need to put our heads together to come up with a better procedure for when 
+this happens.  It would be so much better if we were able to send tariff 
+sheets via e-mail to our D.C. office.
+Call if you have questions or need anything.
+Susan, I did a negotiated rate with PG&E Energy Trading for transport from 
+the EOT Area to WOT area at $0.09 for November 15, 2000.  Their contract # is 
+8265.
+I don't know if it will flow yet.  TW is allocated for tomorrow.
+TK
+p.s. the tariff sheet we need to file is 5B.05.
+Susan Scott
+11/14/2000 02:27 PM
+Glen, as we discussed, here is the negotiated rate TW deal which TK did today 
+under Rate Schedule ITS-1.
+The term is ONE DAY, Nov. 15. 
+Quantity:  30,000 Dth/day
+I know this is a bit unusual.  We are just going to have to ask the FERC for 
+a waiver of their "before gas flows" filing requirement.
+Given the price spreads and the shippers' willingness to pay more than max. 
+rates for short-term deals, we might have more deals like this.  We probably 
+need to put our heads together to come up with a better procedure for when 
+this happens.  It would be so much better if we were able to send tariff 
+sheets via e-mail to our D.C. office.
+Call if you have questions or need anything.
+Susan, I did a negotiated rate with PG&E Energy Trading for transport from 
+the EOT Area to WOT area at $0.09 for November 15, 2000.  Their contract # is 
+8265.
+I don't know if it will flow yet.  TW is allocated for tomorrow.
+TK
+Mary, I finally was able to locate my copy of the Alternative Rates Policy 
+Statement and found the following language:
+"A pipeline may file the numbered tariff sheet implementing the negotiated 
+rate at the time it intends the rate to
+go into effect. The Commission does not intend to suspend the 
+effectiveness of negotiated rate filings or
+impose a refund obligation for those rates. For these reasons, the 
+Commission will readily grant requests to
+waive the 30 day notice requirement."
+I think it might be fair to interpret the first sentence such that it's OK to 
+file on the same day.  This reinforces my belief that 
+our waiver language is fine as is.
+Janet, can you open the attachment?
+The Gallup order did issue today and is available on CIPs.  I am attaching it.
+Mike will be getting the order today (he is at FERC now ) and will fax a copy.
+Ted -- see minor changes on the attached.
+Try to get them to agree to Texas law.  (Might help to point out that our 
+interconnect agreement with Calpine as well as any transport agreement will 
+be governed by Texas law.)
+Thanks,
+Susan
+Ted Chavez
+11/14/2000 01:34 PM
+Susan,
+Please review the attached and make any necessary changes.
+Thanks,
+Ted
+x-37952
+Michael Thomas  Ted,
+Attached for your review is a DRAFT guarantee from Calpine Corporation for
+interruptible transportation service between Transwestern Pipeline Co. and
+Calpine Energy Services, L.P.
+Can you forward me confirmation of the stand-alone credit ratings of
+Transwestern Pipeline Co?
+Please let me know if you have any comments or questions.
+Thanks,
+Michael
+ph: 408-792-1107
+- GUARANTEEtranswesternpipeline.doc
+On November 2, 2000, the California PUC issued an Order Instituting 
+Investigation into the adequacy of Sempra's, SoCal's and SDG&E's planning of 
+SoCal's and SDG&E's gas transmission system and what measures should be taken 
+to correct any deficiencies.  The parties have been ordered to appear and 
+show cause at a hearing (to be scheduled by the assigned ALJ) demonstrating 
+that:
+- SDG&E has adequate gas and transmission supply for the 2000/2001 winter 
+heating season, as well as the longer term throughout the year.  If such 
+supply is not adequate, SDG&E shall submit plans for obtaining an adequate 
+supply.
+- SDG&E's gas and transmission supply is adequate to meet anticipated need 
+for gas-fired electric generation.  If not, SDG&E shall submit plans for 
+obtaining adequate supply.
+- SDG&E's  gas transmission service is not being adversely affected by 
+interests of its corporate affiliates.
+- Recently added demands on SDG&E's capacity are not negatively impacting 
+supply for SDG&E's customers, and are otherwise consistent with 
+representations to the Commission.
+- SDG&E's current gas curtailment rules are just and reasonable; if not, 
+SDG&E shall propose changes.
+A written response from the three parties on these issues is due on November 
+22.  Other parties may file comments on the response within 10 days after the 
+response is filed.
+The Commission also ordered SDG&E to evaluate whether an interim, 
+interruptible program, which will provide cost incentives to those customers 
+voluntarily electing interruptible service, is needed this winter.  If so, 
+SDG&E must submit a proposal for expedited Commission consideration.
+The OII represents the Commission's response to an Advice Letter filed by 
+SDG&E requesting emergency review and approval of its proposal to temporarily 
+revise the gas transportation service level elections of its large electric 
+generation customers.  The Advice Letter was heavily protested and was 
+withdrawn by SDG&E.
+In my conversation with Mark Baldwin regarding our pending consulting 
+agreement for monitoring California regulatory matters for Transwestern, I 
+asked him to watch for Sempra's Nov. 22 filing and to advise whether he 
+believes Transwestern should file comments or appear at the hearing that is 
+to be scheduled.  I will follow up with Mark, and provide you with a copy of 
+the filing.
+Hi Maria Victoria!  I'm planning to be there right at 12.  At the entrance 
+they usually have a table where you pick up your name tag; we can meet there 
+if you like.  See you soon!
+Hello Hope things went really well for you last week/end.  I wanted to check if you 
+will be attending the CLE presentation today so that we can arrange to meet 
+there.
+Maria Victoria
+The information contained in this e-mail message is intended only for the 
+personal and confidential use of the recipient(s) named above. This message 
+may be an attorney-client communication and/or work product and as such is 
+privileged and confidential. If the reader of this message is not the 
+intended recipient or an agent responsible for delivering it to the intended 
+recipient, you are hereby notified that you have received this document in 
+error and that any review, dissemination, distribution, or copying of this 
+message is strictly prohibited. If you have received this communication in 
+error, please notify us immediately by e-mail, and delete the original 
+message.
+Mark:
+Please review the attached agreement, which is similar to what was in place 
+before I have not included specific projects in the agreement, but at the outset, 
+consistent with our conversation the other day, we will need you to monitor 
+the following proceedings and provide us with updates and copies of any 
+orders or presentation materials 
+- Gas Industry Restructuring proceeding (I.99-07-003) 
+- OII on SoCal and SDG&E (I.00-11-002)
+- PG&E Gas Accord II
+If you have any questions, please give me a call.  If the attached is 
+acceptable to you, please print it out and sign it, and return it to me.  We 
+look forward to working with you!
+Sincerely,
+Susan Scott
+Transwestern Pipeline Company
+1400 Smith St., Room 4788
+Houston, Texas 77002
+(713) 853-0596
+(713) 853-5425 (fax)
+From astrology.com (must I beware of overindulgence in such websites?)
+I like the part about charm and charisma and think it is very true.
+Sagittarius and Sagittarius
+When two Sagittarians join together in a love match, the truth-loving natures 
+makes theirs a near perfect relationship. This couple views the world around 
+them with an educated eye and both share an intense hunger for more 
+knowledge. They will engage one another in pleasant conversation and 
+banter that challenges and tickles the mind.  An occasional hotheaded dispute 
+can erupt in the Sagittarius-Sagittarius relationship, when one fact-fanatic 
+Sag 
+partner carries things a little too far. Easygoing and independent, these two 
+are 
+compatible when it comes to balancing personal interests. They've never known 
+jealousy, and each partner keeps busy with personal projects when not with 
+their 
+lover. When they are together, however, they do all they can toward pleasing 
+their partner and satiating common interests.  Although they are adaptable 
+and 
+modern, they can, at times, fly off the handle. However, it is not in the 
+Archer's 
+nature to hold a grudge or let disagreements fester very long. 
+Sagittarius is ruled by the Planet Jupiter (Luck). Expansion is the key word 
+here; 
+as both partners enjoy the acquisition of knowledge, they will carry over 
+exciting 
+ideas into their relationship. They must be mindful of over-indulgences, as 
+such 
+gluttony will only distract them. Their charm and charisma make them a very 
+pleasant couple not only to one another, but the entire crowd. 
+First of all, this is a brand-new contract, not a modification of one that 
+used to be IT.
+It's for LFT space that we have posted according to our usual procedure.  A 
+receipt point has now been specified:  Bloomfield Compressor.  Our tariff 
+allows us to cancel LFT up to 10 days a month, but it also provides that the 
+parties can agree that the number of days can be fewer, so Sempra negotiated 
+us down to only one day.  TK worked with Darrell Schoolcraft on this and they 
+determined this would be acceptable from an operational standpoint Scheduling will happen pursuant to the LFT priority set forth in our tariff.
+I left a message for you just now; call when you have a minute.
+Drew Fossum
+11/19/2000 06:32 PM
+Susan, MKM's got some good questions about this.  I'm still nervous as a cat 
+about the deals, so please give me a call Mon. AM and let me know what you 
+know about the scheduling priority and how it has changed now that this is an 
+LFT deal.  DF 
+Mary Kay Miller
+11/19/2000 07:39 AM
+We really do need to understand the scheduling of this,  if alternates 
+haven't been scheduled, IT are and now an LFT---  seems a little 
+questionable, so we need to understand the answer.  Also without knowing the 
+receipt point how do we know the deal can be done as LFT??  MK
+Mary Darveaux
+11/16/2000 05:34 PM
+I forgot to add that this is an LFT.
+Mary Darveaux
+11/16/2000 04:50 PM
+Alas- a negotiated Rate Filing with a few days notice 
+TK has done it again  Negotiated Rate deal with Sempra
+December 1 thru December 31
+Rate $1.00
+10,000/day
+Receipt Point  ____?  (to be provided)
+Delivery Point  PG&E Topock
+I will prepare the filing for November 30th.  Barb, please add to our filing 
+log 
+Demetrius, what I nice e-mail!  It was great to see you too.  Unfortunately I 
+have a really busy short week this week; we are trying to get something filed 
+at FERC.  If you're in town next week do give me a call or e-mail.  I hope 
+you have a happy Thanksgiving!
+Susan
+713-853-0596
+Susan:
+What a nice surprise seeing you the other evening in Houston. You look 
+wonderful and it appears that life is agreeing with you. As we briefly 
+discussed, I'm in the Firm's Houston office almost weekly working on client 
+matters and client development. It would be great to catch-up with you and 
+take you to lunch or to have a cocktail sometime soon. I'm in Houston on 
+Monday and Tuesday of this week (11/ 20 &21). Are you around/available? Let 
+me know.
+Demetrius
+The information contained in this e-mail message is intended only for the 
+personal and confidential use of the recipient(s) named above. This message 
+may be an attorney-client communication and/or work product and as such is 
+privileged and confidential. If the reader of this message is not the 
+intended recipient or an agent responsible for delivering it to the intended 
+recipient, you are hereby notified that you have received this document in 
+error and that any review, dissemination, distribution, or copying of this 
+message is strictly prohibited. If you have received this communication in 
+error, please notify us immediately by e-mail, and delete the original 
+message.
+- protest2.jpg
+- protest4.jpg
+- protest6.jpg
+I just received a call from Nancy Bagot informing me that FERC has issued a 
+draft order suspending our proposed Transport Options tariff sheets until May 
+1, 2001 and accepting them subject to the outcome of a technical conference The technical conference is to take place within 120 days of the order and 
+will address issues raised in protests.
+I should be receiving a copy of the draft order soon.  Please call or e-mail 
+me if you have questions.
+FYI.  Jan, I know Shelley's out; I left her a voice mail.
+Susan Scott
+11/21/2000 10:42 AM
+I just received a call from Nancy Bagot informing me that FERC has issued a 
+draft order suspending our proposed Transport Options tariff sheets until May 
+1, 2001 and accepting them subject to the outcome of a technical conference The technical conference is to take place within 120 days of the order and 
+will address issues raised in protests.
+I should be receiving a copy of the draft order soon.  Please call or e-mail 
+me if you have questions.
+Bryan, 
+Are you still having a great time?  So what is Bali like?  The only images I 
+can summon are Gauguin's paintings, but weren't those of Tahiti 
+Things are pretty good here.  Lots of Christmas parties, lots of Christmas 
+cheer, etc.  Not a whole lot going on at the office, for a change.  Really, 
+though, I think I would much rather be in Bali 
+Take care.
+S.
+I just rely on the market services folks to do the right thing.  Tell me if 
+you think this is yet another area in which I have too much faith in our 
+business people.
+Who follows up to make sure these changes get made?  Do you guys call market 
+services or do we just rely on them to respond to these Frazier-grams?  DF
+Frazier King
+01/13/2000 05:27 PM
+Please open and read the attached "Mkt Aff Memo11" which gives you notice of 
+the addition of a new company--Bridgeline Holding, L.P.--to the "Exempt 
+Marketing Affiliate" category of the Enron Pipeline list of "Potential 
+Marketing Affiliates".  The notice is effective today, the date of formation 
+of the new company. Standard L of the Marketing Affiliate Rules REQUIRES 
+POSTING OF ANY CHANGES TO MARKETING AFFILIATES WITHIN THREE DAYS.  This means 
+that you must add the name and address of this new companies to the the list 
+of marketing affiliates posted on your respective pipeline's EBB WITHIN THREE 
+DAYS OF THE COMMENCEMENT OF A TRANSPORTATION TRANSACTION IN WHICH THE COMPANY 
+IS INVOLVED.
+Also, please open the attached "Mkt Aff List11" which is the Eleventh Revised 
+list of all "Potential Enron Marketing Affiliates".  This list has been 
+revised to include Bridgeline Holding, L.P.  Keep it in mind that if any of 
+these affiliates commences or ceases involvment in a transportation 
+transaction on your pipeline, the company name and address must be 
+respectively added or deleted from the posting on your pipeline's web site 
+WITHIN THREE DAYS.  This listing will be revised and sent to you immediately 
+when there is a change in the list.
+Finally, note that affiliated companies which are exempt from being 
+classified as marketing affiliates are included at the end of the list.  If 
+any of these companies proposes to transport on your respective Enron 
+pipeline, please check with your Legal Contact to make sure the exemption is 
+still in effect.
+Individuals listed on the Distribution List of the attached memo 
+are requested to acknowledge receipt.
+Couple of minor changes.  Looking good!
+Jeffery Fawcett
+11/21/2000 11:25 AM
+I took all of your good suggestions and incorporated them.  I also reordered 
+a few of the paragraphs and trimmed some of the language.  Look at it again 
+and see if we've got a pretty good work product.  Thanks 
+Susan Scott
+11/21/2000 11:13 AM
+Does anyone know this person or his organization?  Is this something our 
+membership might be interested in?  Frankly I have been too busy to think 
+about this -- if you have any comments let's talk.
+Susan Scott
+713-853-0596
+Gurcan Gulen  About three weeks ago, I inquired about EBA's  interest in organizing a 
+concurrent session at the upcoming IAEE (International  Association for 
+Energy Economics) conference in Houston (April  2001).
+?
+Since I did not hear back from you, I assume that  EBA was not 
+interested.??It would help us a lot in our future planning  if you could 
+perhaps help me with your reasoning.??Did we approach you  too late?(given 
+the Dec 4 deadline)??  We required all participants to pay registration fees, 
+was that an issue??  We couldn't guarantee you a slot even if you proposed a 
+session, was that an  issue?
+?
+Thanks in advance for your response.
+?
+S. Gurcan Gulen, Ph.D.
+Research  Associate
+Energy Institute
+Bauer College of Business
+University of  Houston
+Houston, TX 77204-6283
+713-743-4696 (p)
+713-743-4881 (f)
+www.uh.edu/energyinstitute
+Drew -- I worked with Jeff on this draft so it already contains my comments.
+pls give me your comments next week..  thanks  df
+Jeffery Fawcett
+11/21/2000 01:17 PM
+Attached for your review and comment is a broad outline of a rate proposal to 
+Caithness for the construction and operation of the 40-mile lateral to the 
+Big Sandy project.  This non-binding proposal was requested by Caithness' 
+consultant, George Briden, as a starting point for modeling the economics of 
+the project's gas supply and a basis for further discussions aimed at 
+designing an appropriate deal structure.  For your information, James 
+Centilli calculated the transport rate based on the (+/- 30%) $20.33MM cost 
+estimate with a ten-year (contract) amortization 
+I plan to put this in the mail by the close of business tomorrow.  If you 
+have any suggestions, please let me hear from you by mid-day.   Thanks.
+This would be analogous to every time you send me an e-mail, I forward it 
+directly to Drew and Maria.  How do you tactfully advise your coworkers about 
+corporate etiquette?  I wonder.
+On a substantive note, I sincerely believe the analysis MKM wants is beyond 
+the scope of this letter, and would have no qualms about sending it 
+Jeffery Fawcett
+11/22/2000 08:22 AM
+Now do you see why I didn't want to send this to Keith Petersen???  Anytime 
+you send anything to Omaha, the MKM cult goes into their Satan worship 
+chamber, they sing a few chants, and then sacrifice the good commercial 
+effort to the demon regulatory god 
+Jeez, next time I'm gonna just send it out to the customer and ask for 
+forgiveness later.
+Jeff,  do you have the information for the rate?  We would have to file a 
+certificate and the rate would need to be calculated in accordance with the 
+standard COS methodology-  I want to make sure that the rate you are planning 
+to quote matches what the rate derivation for the filing would be-  avoid a 
+potential issue-  maybe James could send us what he did- thanks  MK
+Keith Petersen
+11/21/2000 04:56 PM
+I have not yet reviewed, this is for your information.
+Keith
+Jeffery Fawcett
+11/21/2000 01:17 PM
+Attached for your review and comment is a broad outline of a rate proposal to 
+Caithness for the construction and operation of the 40-mile lateral to the 
+Big Sandy project.  This non-binding proposal was requested by Caithness' 
+consultant, George Briden, as a starting point for modeling the economics of 
+the project's gas supply and a basis for further discussions aimed at 
+designing an appropriate deal structure.  For your information, James 
+Centilli calculated the transport rate based on the (+/- 30%) $20.33MM cost 
+estimate with a ten-year (contract) amortization 
+I plan to put this in the mail by the close of business tomorrow.  If you 
+have any suggestions, please let me hear from you by mid-day.   Thanks.
+for bullets
+Susan Scott
+11/21/2000 10:42 AM
+I just received a call from Nancy Bagot informing me that FERC has issued a 
+draft order suspending our proposed Transport Options tariff sheets until May 
+1, 2001 and accepting them subject to the outcome of a technical conference The technical conference is to take place within 120 days of the order and 
+will address issues raised in protests.
+I should be receiving a copy of the draft order soon.  Please call or e-mail 
+me if you have questions.
+As to your question about what's going on in California, I've done some 
+reading and here are my thoughts.
+The Nov. 1 FERC order in Docket No. EL00-95-000, in which the Commission 
+ordered a $150/MWh price cap (among other things), was predicated on the 
+Commission's authority under Section 206 of the Federal Power Act Specifically, the FPA provides that if the Commission finds that "any rate, 
+charge or classification for jurisdictional services, or any rule, 
+regulation, practice or contract affecting such rate, charge or 
+classification" is unjust or unreasonable, the Commission shall determine the 
+just and reasonable rate, charge, classification, rule, regulation, practice, 
+or contract that should be in effect.  The Commission recognized that certain 
+areas of the flawed California market are not within its jurisdiction, but 
+"fixed" the areas within its jurisdiction.   Apparently the California 
+governor agrees with me that the Commission's jurisdiction in the area of 
+wholesale electricity prices is questionable 
+In any event, if the Commission wanted to open a proceeding to investigate 
+the justness and reasonableness of negotiated gas transportation rates, its 
+authority to do so would be much clearer.  The Natural Gas Act expressly 
+authorizes FERC to declare unlawful any transportation rate that is not just 
+and reasonable.  "Just and reasonable" has been interpreted in many different 
+contexts and the Commission has significant discretion over what it means As we all know too well, the Commission sometimes acts unpredictably However, my feeling is that it will probably take more than 2 or 3 
+above-max-rate contracts to motivate the FERC to act to declare a negotiated 
+rate deal, struck within a pipeline's tariff authority, to be unjust and 
+unreasonable.  The California proceeding was initiated after entire 
+communities of individual consumers suffered 200-300% increases in their 
+electricity bills.  The prices for electricity in California were outrageous 
+across the board and affected everyone in the state.  By contrast, TW's 
+transport rates for its short-term deals are far removed from end user prices 
+and the practice of negotiating higher than max rate deals is probably not 
+widespread enough for anyone to notice.  It is far from being a consumer 
+issue, and besides, the elections are over.  However, as you and I have 
+already discussed, we must be wary of parties like Dynegy that do notice just 
+about everything and who might try to draw it to FERC's attention.  We do 
+need to watch to see whether other pipelines serving California are doing the 
+same types of deals.  Kathy, why don't you and I discuss a system of 
+monitoring the contract information postings of El Paso, Kern, PGT/NW.  Drew, 
+obviously I've only scratched the surface here so let's talk if you want a 
+more in-depth report.
+That is by far the best line of the day!!  Unconscionability may be the thing 
+I'm remembering , but I think there is some more specific law related to 
+market dislocations--i.e., the Hurricane example.  Its sort of a twist on 
+market power law--i.e., if the fates hand you short term market power, you 
+better not use it.  DF 
+Susan Scott
+11/21/2000 10:08 AM
+I know there is some case law out there on contracts being voided because 
+they are "unconscionable."  There are several examples in consumer law and 
+employment law, in which one contracting party is a corporation and the other 
+is a West Palm Beach voter.  However, if my memory serves me correctly, none 
+of them involve contracts between 2 sophisticated business entities such as 
+TW and Sempra or PG&E.  Absent evidence of fraud, courts uphold bargains 
+struck at arms length Kathy, I'd be happy to take the oars on this but if you've already done some 
+looking, please let me know if you've found anything.
+Stuck on the phone so I thought I'd email you.  Stan has asked Mike Moran if 
+TW has any potential exposure on the high value transport deals under "anti 
+gouging" statutes or common law.  You know, the laws that say you can't 
+charge $100 per sheet of plywood during a hurricane or $50 for a bucket of 
+water during a drought.  I think we need to research two things:
+1.  are there any such laws applicable to our business?  (Cal. state law 
+would probably be the best place to start)
+2.  could the political/regulatory fight in Cal about power and gas prices 
+ever expand all the way to our transport pricing?  I.e., if the CPUC whacks 
+the power sellers for taking unfair advantage of their monopoly power, its 
+not a big leap for the CPUC or FERC or even U.S. congress to whack gas 
+sellers for jacking prices up to $14/MMBtu, as happened on Friday.  If that 
+happens, its just another small jump to whack us for charging $1 for 
+transport, or so the logic goes.  I'd like to hear preliminary views by 8:30 
+Monday am so I can talk to Mike before Stan's staff meeting (no written memo 
+necessary).  Based on that prelim. research, we can decide what else need s 
+to be done.  Thanks df 
+For your information.  The outcome was great for TW because the Cal. PUC 
+adopted our receipt point proposal, eliminating the danger of mandated 
+restriction of TW's deliveries to the California border.  The outcome is not 
+so great for Enron overall because they rejected our proposed settlement The receipt point proposal was able to survive since it was part of both of 
+the competing settlements I'm still trying to get thru the whole order; let me know if you have 
+questions.
+S.
+Well, this shows the direction in which the "new" Commission is heading.  The 
+very good news, though, is that  TW's proposal was included in both 
+settlements (now that's hedging!).  Thus,  the benefits to TW were preserved 
+under both proposals.  Congratulations.  That's fantastic--hard work that 
+paid off.
+We will of course express out extreme dissappointment with the PD, and point 
+out that this decision condemns California to a 20th century infrastructure, 
+when the state's 21st century economy demands much, much better 
+We should discuss.  Since the PD empowers the likes of Norm and Florio, it 
+will be important to play very close attention to implementation of Hector.
+Sorry to have to be the one to deliver the news.   But we have a knack of 
+making lemonade out of lemons and we'll do out best to do the same here, 
+whatever turns up at the end.
+Best,
+Jeff
+Michael.Alexander@sce.com
+11/22/2000 05:27 PM
+The PD in the Gas Restructuring is out.   I have yet to read the whole
+thing, but the title "Approval With Modifications Of The Interim
+Settlement..." does not bode well.  According to Steve Watson (and I only
+have Steve's statement second hand), the decision reflects a fear that the
+timing is wrong in light of the current volatile gas price market.
+(See attached file: Proposed.doc)
+--
+Michael S. Alexander
+Southern California Edison
+626-302-2029
+626-302-3254 (fax)
+- Proposed.doc
+Remember we need to make a filing for our BP Energy deal, which becomes 
+effective Dec. 1.  (Mary, I think you and I talked about this several weeks 
+ago).  The contract simply includes a right of first refusal for BP Energy The contract is such that the shipper would not have been entitled to a ROFR 
+under our tariff, which is why it's a material deviation.
+The filing will simply need to reference a tariff sheet on which the contract 
+provision is described.
+Let me know if you need anything (a copy of the contract, for instance).
+I have a conf. call from 2 to 3 but otherwise should be available if you want 
+to give me a call.
+Maria and Drew, this is a long-winded e-mail but please bear with me 
+The problem:
+As you probably remember, several months ago several of us met to discuss the 
+following language in the ROFR portion of Transwestern's tariff: "if the rate 
+bid exceeds the maximum tariff rate, then the rate will be considered to be 
+the maximum tariff rate," and the additional frustrating language "[a]ll 
+available capacity shall be allocated under these procedures . . .."  At our 
+last meeting, we concluded that probably the best way to ensure that TW could 
+capture the true value of the capacity would be to link the negotiated rate 
+to index prices.  However, since this usually involves an unacceptable amount 
+of risk to both the shipper and TW, the marketers haven't done any 
+index-based rates and have no current plans to enter into any such deals.  I 
+have been asked by the Commercial Group to revisit this issue and to think of 
+other ways we could increase our ability to charge more than the maximum 
+rate.   Ideally they would like to eliminate the language I've quoted above However, my research has indicated that absent our 1) bringing about radical 
+change in the way FERC thinks about recourse rates or 2) showing that TW 
+lacks market power, we are probably stuck with this language.
+Why the problem exists (you may already know):
+Steve Stojic and I did some looking into why the language is in our tariff in 
+the first place.  In the Alternative Rates Policy Statement (RM95-6-000), the 
+Commission explained that it is willing to entertain individual requests for 
+negotiated rates, but only where customers retain the ability to choose a 
+cost-of-service based tariff rates.  "[T]he availability of a recourse 
+service would prevent pipelines from exercising market power by assuring that 
+the customer can fall back to cost-based, traditional service if the pipeline 
+unilaterally demands excessive prices or withholds service.  Thus, the 
+recourse rate mitigates market power 
+The Commission went on to confirmed that under ROFR provisions the highest 
+rate that an existing shipper must match if it wishes to continue its 
+transportation arrangement is the maximum tariff rate. This policy is clearly 
+not limited to ROFR situations:  when capacity is constrained, a shipper 
+willing to pay only the recourse rate cannot lose access to capacity merely 
+because someone else is willing to pay a negotiated rate.  "When there are 
+more requests for capacity than there is capacity available, then the 
+pipeline must allocate capacity among those shippers willing to pay either 
+the negotiated rate or the maximum recourse rate, for example on a pro rata 
+basis if required by its tariff."  The example cited by the Commission:  If a 
+pipeline has 100 Dth/d available and two shippers request that capacity, one 
+who is willing to pay no more than the recourse rate of $5 and another a 
+negotiated rate of $6, then each would be allocated 50 Dth/d on a pro rata 
+basis (assuming the tariff provided for pro rata allocation and not some 
+other allocation method such as lottery 
+When TW filed for authority to charge negotiated rates, it voluntarily added 
+the statement that "if the rate bid exceeds the maximum tariff rate, then the 
+rate will be considered to be the maximum tariff rate."  Presumably we had 
+concluded that we needed to add this recourse rate related provision in order 
+to receive negotiated rate authority 
+Solutions??
+I would like to know whether you concur that changing our tariff language 
+outright is probably out of the question.  I feel as if I've really been 
+chasing my tail here.  I have owed Lindy an answer for some time now.  But I 
+keep coming back to our having to prove lack of market power (which, Drew, is 
+where I believe you were headed when we talked about this in mid-October Steve Harris has asked whether we can just start small and remove the 
+recourse rate cap as to only a portion of our system.  I think we would still 
+have to show lack of market power in order to do this.  Do you agree?  Stojic 
+warns that proving lack of market power is a lengthy and expensive 
+proposition.  Might be worth it to us, though.
+Another idea is to somehow provide shippers with an incentive to pay more 
+than max rate.  After all, we do have authority to charge negotiated rates We've seen one instance in which one of our marketers was able to get more 
+than max rates for IT space based on good customer relations alone.  However, 
+despite our wonderful relationships with most of our customers, it's unlikely 
+we can pull this off with any consistency.  We wondered whether we might be 
+able to get more than max rates in the context of an auction procedure.  But 
+I just am not convinced we could get around the Commission's requirement that 
+recourse rates be available.  That requirement has not changed.  Have either 
+of you seen anything to the contrary 
+I would like to meet with you two, plus several others I have in mind, to 
+discuss this, preferably early this week (Tues. or Wed.), but would like to 
+discuss briefly with you first.  Please call me so we can talk for a few 
+minutes.  Thanks. 
+Lindy -- FYI.  This is just really informal so I'd prefer you not forward to 
+anyone yet.  Drew and Maria are most familiar with this so I'm going to get 
+their feedback first before setting up a meeting.  I'll get with you before I 
+set a meeting time to see when you're available.
+Susan Scott
+11/27/2000 06:28 PM
+Maria and Drew, this is a long-winded e-mail but please bear with me 
+The problem:
+As you probably remember, several months ago several of us met to discuss the 
+following language in the ROFR portion of Transwestern's tariff: "if the rate 
+bid exceeds the maximum tariff rate, then the rate will be considered to be 
+the maximum tariff rate," and the additional frustrating language "[a]ll 
+available capacity shall be allocated under these procedures . . .."  At our 
+last meeting, we concluded that probably the best way to ensure that TW could 
+capture the true value of the capacity would be to link the negotiated rate 
+to index prices.  However, since this usually involves an unacceptable amount 
+of risk to both the shipper and TW, the marketers haven't done any 
+index-based rates and have no current plans to enter into any such deals.  I 
+have been asked by the Commercial Group to revisit this issue and to think of 
+other ways we could increase our ability to charge more than the maximum 
+rate.   Ideally they would like to eliminate the language I've quoted above However, my research has indicated that absent our 1) bringing about radical 
+change in the way FERC thinks about recourse rates or 2) showing that TW 
+lacks market power, we are probably stuck with this language.
+Why the problem exists (you may already know):
+Steve Stojic and I did some looking into why the language is in our tariff in 
+the first place.  In the Alternative Rates Policy Statement (RM95-6-000), the 
+Commission explained that it is willing to entertain individual requests for 
+negotiated rates, but only where customers retain the ability to choose a 
+cost-of-service based tariff rates.  "[T]he availability of a recourse 
+service would prevent pipelines from exercising market power by assuring that 
+the customer can fall back to cost-based, traditional service if the pipeline 
+unilaterally demands excessive prices or withholds service.  Thus, the 
+recourse rate mitigates market power 
+The Commission went on to confirmed that under ROFR provisions the highest 
+rate that an existing shipper must match if it wishes to continue its 
+transportation arrangement is the maximum tariff rate. This policy is clearly 
+not limited to ROFR situations:  when capacity is constrained, a shipper 
+willing to pay only the recourse rate cannot lose access to capacity merely 
+because someone else is willing to pay a negotiated rate.  "When there are 
+more requests for capacity than there is capacity available, then the 
+pipeline must allocate capacity among those shippers willing to pay either 
+the negotiated rate or the maximum recourse rate, for example on a pro rata 
+basis if required by its tariff."  The example cited by the Commission:  If a 
+pipeline has 100 Dth/d available and two shippers request that capacity, one 
+who is willing to pay no more than the recourse rate of $5 and another a 
+negotiated rate of $6, then each would be allocated 50 Dth/d on a pro rata 
+basis (assuming the tariff provided for pro rata allocation and not some 
+other allocation method such as lottery 
+When TW filed for authority to charge negotiated rates, it voluntarily added 
+the statement that "if the rate bid exceeds the maximum tariff rate, then the 
+rate will be considered to be the maximum tariff rate."  Presumably we had 
+concluded that we needed to add this recourse rate related provision in order 
+to receive negotiated rate authority 
+Solutions??
+I would like to know whether you concur that changing our tariff language 
+outright is probably out of the question.  I feel as if I've really been 
+chasing my tail here.  I have owed Lindy an answer for some time now.  But I 
+keep coming back to our having to prove lack of market power (which, Drew, is 
+where I believe you were headed when we talked about this in mid-October Steve Harris has asked whether we can just start small and remove the 
+recourse rate cap as to only a portion of our system.  I think we would still 
+have to show lack of market power in order to do this.  Do you agree?  Stojic 
+warns that proving lack of market power is a lengthy and expensive 
+proposition.  Might be worth it to us, though.
+Another idea is to somehow provide shippers with an incentive to pay more 
+than max rate.  After all, we do have authority to charge negotiated rates We've seen one instance in which one of our marketers was able to get more 
+than max rates for IT space based on good customer relations alone.  However, 
+despite our wonderful relationships with most of our customers, it's unlikely 
+we can pull this off with any consistency.  We wondered whether we might be 
+able to get more than max rates in the context of an auction procedure.  But 
+I just am not convinced we could get around the Commission's requirement that 
+recourse rates be available.  That requirement has not changed.  Have either 
+of you seen anything to the contrary 
+I would like to meet with you two, plus several others I have in mind, to 
+discuss this, preferably early this week (Tues. or Wed.), but would like to 
+discuss briefly with you first.  Please call me so we can talk for a few 
+minutes.  Thanks. 
+Lorraine, please forward the attached to Ed Meaders.
+I am free for lunch on 12/4.  I'll see if Frazier's available.
+Why don't we choose a venue somewhere between Duke and downtown 
+Sounds like an excellent idea.  Does lunch on Monday, December 4th work for
+your schedules?  If not, let's hear a counter-offer.
+Susan,
+I go this email as well.  Unfortunately, I've been busy as well and didn't
+really look at it.  As for future matters, what will be our involvement for
+EBA-Houston events?  Would the two of you like to get together for lunch
+sometime, maybe with Frazier and the other current EBA officers so we can
+understand our roles/duties/functions a little better (hey, aren't we both
+pretty big clients of a certain Houston law firm? -- hint, hint, Charles )
+- Dat
+713-260-7105
+Susan.Scott@e
+dttran@duke-energy.com
+11/21/2000           cc:
+01:13 PM             Subject:     24th IAEE
+International Conference
+Does anyone know this person or his organization?  Is this something our
+membership might be interested in?  Frankly I have been too busy to think
+about this -- if you have any comments let's talk.
+Susan Scott
+713-853-0596
+Gurcan Gulen  
+About three weeks ago, I inquired about EBA's  interest in organizing a
+concurrent session at the upcoming IAEE (International  Association for
+Energy Economics) conference in Houston (April  2001).
+Since I did not hear back from you, I assume that  EBA was not interested.
+It would help us a lot in our future planning  if you could perhaps help me
+with your reasoning.  Did we approach you  too late (given the Dec 4
+deadline)?   We required all participants to pay registration fees, was
+that an issue?   We couldn't guarantee you a slot even if you proposed a
+session, was that an  issue?
+Thanks in advance for your response.
+S. Gurcan Gulen, Ph.D.
+Research  Associate
+Energy Institute
+Bauer College of Business
+University of  Houston
+Houston, TX 77204-6283
+713-743-4696 (p)
+713-743-4881 (f)
+www.uh.edu/energyinstitute
+++++++ Hi Ashley!  A couple of things.  First of all, my new renter, Doug, wonders 
+whether he can just call the utilities & phone and transfer from his name to 
+yours (rather than you cancelling and him having to pay any re-hookup fees 
+that may apply).   I don't know how it would work; maybe he could conference 
+you in when he makes the calls.  For what it is worth, he is a very nice guy 
+to deal with, but it is totally up to you and I really don't care one way or 
+the other. 
+Also, I'm having someone come clean the place so you needn't worry about it, 
+in case you were wondering.  I will take care of it (it looks pretty clean 
+anyway 
+Please let me know your new address and I will send you your deposit refund 
+next week.
+Merci!
+Susan
+Doug, Ashley's e-mail address is in the cc line if you want to get in touch 
+with her.  I hadn't thought that she might have had to put down a refundable 
+deposit (rather than a hookup fee) for some of the utilities so logistically 
+switching to your name might not be worthwhile, but it may be worth asking Remember I have water covered.  Call or e-mail if you have questions!
+I believe Leslie does regulatory/legal work for ENA on a contract basis.
+Steven Harris
+11/29/2000 08:58 AM
+I am not sure about Leslie Lawner but maybe Drew or Susan Scott know. I do 
+not get reports from anyone else regarding activities in any state.
+Mike McGowan
+11/29/2000 08:33 AM
+Steve - is Leslie Launer(sp?) an Enron employee?   I know she once was, but I 
+believe she lives in New Mexico and is used by Enron at times.  Do we use 
+her?  What is her status and relationship with the pipeline group??
+Do you get any reports from Tom Rutherford on New Mexico??
+Frazier tells me he's available.  How about 11:45 at Little Pappasito's on 
+Kirby @ Richmond?
+Date, time, and either of those places are fine with me, subject to
+Frazier's availability.  This would be a good opportunity to discuss topics
+for the luncheons, which Frazier and I have been trying to do for a while.
+I also need to share with you some conversations I've been having with folks
+at EBA in DC and proposals they are pushing at the Houston chapter.
+Oooh, "venue." I like it.  The 24th is good with me.  How about either
+Pappadeaux or Pappasito or anything else around the Kirby/59 area?  Should
+take you guys the same amount of time getting out of downtown.   11:30? (to
+beat the lunch crowd).
+Susan.Scott@e
+11/28/2000                     02:40 PM             Subject:     RE: 24th IAEE
+International
+Conference
+I am free for lunch on 12/4.  I'll see if Frazier's available.
+Why don't we choose a venue somewhere between Duke and downtown.
+Sounds like an excellent idea.  Does lunch on Monday, December 4th work for
+your schedules?  If not, let's hear a counter-offer.
+Susan,
+I go this email as well.  Unfortunately, I've been busy as well and didn't
+really look at it.  As for future matters, what will be our involvement for
+EBA-Houston events?  Would the two of you like to get together for lunch
+sometime, maybe with Frazier and the other current EBA officers so we can
+understand our roles/duties/functions a little better (hey, aren't we both
+pretty big clients of a certain Houston law firm? -- hint, hint, Charles )
+- Dat
+713-260-7105
+Susan.Scott@e
+dttran@duke-energy.com
+11/21/2000           cc:
+01:13 PM             Subject:     24th IAEE
+International Conference
+Does anyone know this person or his organization?  Is this something our
+membership might be interested in?  Frankly I have been too busy to think
+about this -- if you have any comments let's talk.
+Susan Scott
+713-853-0596
+Gurcan Gulen  
+About three weeks ago, I inquired about EBA's  interest in organizing a
+concurrent session at the upcoming IAEE (International  Association for
+Energy Economics) conference in Houston (April  2001).
+Since I did not hear back from you, I assume that  EBA was not interested.
+It would help us a lot in our future planning  if you could perhaps help me
+with your reasoning.  Did we approach you  too late (given the Dec 4
+deadline)?   We required all participants to pay registration fees, was
+that an issue?   We couldn't guarantee you a slot even if you proposed a
+session, was that an  issue?
+Thanks in advance for your response.
+S. Gurcan Gulen, Ph.D.
+Research  Associate
+Energy Institute
+Bauer College of Business
+University of  Houston
+Houston, TX 77204-6283
+713-743-4696 (p)
+713-743-4881 (f)
+www.uh.edu/energyinstitute
+++++++           ++++++ Let's plan on Friday before Christmas!  And Craig will join us, I'm sure Please stay over at my place that night.  That way you would not have to 
+worry about driving all the way back to Tomball after partying downtown and we'd get to visit longer! 
+Right now I'm home with some nasty bug that's been going around the office It is a big drag.  Sheila came down with pneumonia right after Thanksgiving, 
+and had to be hospitalized!  I think I should count myself lucky I only have 
+the office bug.  She is back home now, and begging me not to make the trip to 
+Austin.  Sounds like she is feeling a lot better.
+We're having a surprise party for Craig's 40th on Friday!  I don't know 
+whether he suspects anything Time for more cough medicine!
+And we're coming to Houston!
+Yeah! I am really looking forward to our trip to Houston this year! Got you 
+message over Thanksgiving, hope you had a great (long) weekend! We stayed in 
+town and helped out at the Santa Monica Civic Center then tried to find a 
+turkey dinner to eat... nothin' like eatin' at a restaurant for 
+Thanksgiving 
+We are planning to arrive in Houston on Thursday the 21st and return back to 
+LA on Tuesday the 26th. We'd love to get together with you (and your beau on Friday if you're still in town and are available! Mark and I love to trek 
+downtown and see how the rest of the city lives outside of North Houston. Let 
+me know if that works for you.
+Hope you're having a good week. Talk to you soon, Sue
+Susan McIntyre-Young
+Universal Studios Consumer Products Group
+Sr. Art Director
+818.777.3297 phone 818.866.0292 fax
+susan.mcintyre-young@unistudios.com
+I'm dialling in from home -- got the bug that's going around the office I'll call you in a few 
+Frazier King
+11/29/2000 02:44 PM
+Are you back at work??
+Heard you were sick.
+Susan Scott
+11/29/2000 02:41 PM
+Frazier tells me he's available.  How about 11:45 at Little Pappasito's on 
+Kirby @ Richmond?
+Date, time, and either of those places are fine with me, subject to
+Frazier's availability.  This would be a good opportunity to discuss topics
+for the luncheons, which Frazier and I have been trying to do for a while.
+I also need to share with you some conversations I've been having with folks
+at EBA in DC and proposals they are pushing at the Houston chapter.
+Oooh, "venue." I like it.  The 24th is good with me.  How about either
+Pappadeaux or Pappasito or anything else around the Kirby/59 area?  Should
+take you guys the same amount of time getting out of downtown.   11:30? (to
+beat the lunch crowd).
+Susan.Scott@e
+11/28/2000                     02:40 PM             Subject:     RE: 24th IAEE
+International
+Conference
+I am free for lunch on 12/4.  I'll see if Frazier's available.
+Why don't we choose a venue somewhere between Duke and downtown.
+Sounds like an excellent idea.  Does lunch on Monday, December 4th work for
+your schedules?  If not, let's hear a counter-offer.
+Susan,
+I go this email as well.  Unfortunately, I've been busy as well and didn't
+really look at it.  As for future matters, what will be our involvement for
+EBA-Houston events?  Would the two of you like to get together for lunch
+sometime, maybe with Frazier and the other current EBA officers so we can
+understand our roles/duties/functions a little better (hey, aren't we both
+pretty big clients of a certain Houston law firm? -- hint, hint, Charles )
+- Dat
+713-260-7105
+Susan.Scott@e
+dttran@duke-energy.com
+11/21/2000           cc:
+01:13 PM             Subject:     24th IAEE
+International Conference
+Does anyone know this person or his organization?  Is this something our
+membership might be interested in?  Frankly I have been too busy to think
+about this -- if you have any comments let's talk.
+Susan Scott
+713-853-0596
+Gurcan Gulen  
+About three weeks ago, I inquired about EBA's  interest in organizing a
+concurrent session at the upcoming IAEE (International  Association for
+Energy Economics) conference in Houston (April  2001).
+Since I did not hear back from you, I assume that  EBA was not interested.
+It would help us a lot in our future planning  if you could perhaps help me
+with your reasoning.  Did we approach you  too late (given the Dec 4
+deadline)?   We required all participants to pay registration fees, was
+that an issue?   We couldn't guarantee you a slot even if you proposed a
+session, was that an  issue?
+Thanks in advance for your response.
+S. Gurcan Gulen, Ph.D.
+Research  Associate
+Energy Institute
+Bauer College of Business
+University of  Houston
+Houston, TX 77204-6283
+713-743-4696 (p)
+713-743-4881 (f)
+www.uh.edu/energyinstitute
+++++++           ++++++ Jeff -- good wrap-up.  May I forward to MKM and Drew?
+Jeffery Fawcett
+11/29/2000 10:58 AM
+The GD article today regarding the proposed decision is a pretty good Readers=20
+Digest version of the order.  Susan and I spoke with Jeff Dasovich and Mark=20
+Baldwin yesterday, and the consensus of those conversations was that=20
+Transwestern should remain involved in this proceeding only for purposes of=20
+implementation/documentation.  Jeff offered that he might send a letter to=20
+Governor Gray's office expressing both dismay and indignation that the CPUC=20
+didn't complete their task and warning of the adverse outcome to California=20
+ratepayers if these more modest reforms are approved.  He may ask the other=20
+Comprehensive Settlement parties to join in signing the letter.  Susan, Mark=20
+and I spoke about this idea later, and we've got some reservations about TW's=20
+role in admonishing the CPUC.   We should probably wait to see this letter=20
+first before committing to anything.
+Bilas draft cautious toward SoCal competition
+Mindful of the current chaos over energy markets in the state, California=20
+Public Utilities
+Commissioner Richard Bilas has recommended the adoption of a much more=20
+moderate
+approach to promoting competition on Southern California Gas=01, (SoCal) system.
+In his draft decision, Bilas advised the commission to reject the unbundling=20
+of intrastate
+transmission and instead approve the first settlement filed in the case, the=20
+less far-reaching
+Interim Settlement (IS), submitted in December 1999. SoCal, San Diego Gas and=20
+Electric and
+other parties filed two more settlements after the IS, reaching a=20
+comprehensive agreement in
+April this year.
+But since then, gas and power prices skyrocketed in the state, prompting a=20
+consumer
+backlash and giving competition a bad name.  The draft language notes that=20
+the first interim
+settlement was supported by more customer groups than the later agreements.
+Recent events =01&lead us to conclude that the centerpiece of this=20
+investigation, the unbundling
+of intrastate transmission and the implementation of a system of firm,=20
+tradable intrastate transmission rights, should be delayed,=018 according to the=20
+draft order.  =01&This unbundling is the basis of the [comprehensive settlement]=20
+and we cannot approve it. We do not, however, wish to commit to paralysis=20
+until 2006, as the [post-interim settlement] would have us do. Accordingly,=20
+we believe Californians are better served at this juncture by the adoption,=20
+with modifications, of the IS.=018
+The biggest change to the IS in the draft is the rejection of an automatic=20
+capacity expansion
+by SoCal at Wheeler Ridge, Calif., with rolled-in rates if certain criteria=20
+are met.  El Paso
+Energy had objected to the provision in the IS that would have allowed SoCal=20
+to automatically
+expand capacity at Wheeler Ridge by 100 million cfd if a certain number of=20
+curtailments oc-curred. =20
+El Paso objected to forcing all shippers to pay for the expansion at Wheeler=20
+when only certain customers would benefit. =20
+The draft says SoCal can file a separate application for the Wheeler Ridge=20
+expansion, but approval would be conditioned on a traditional hearing process.
+The draft decision would also:
+=01=07 End SoCal=01,s current =01&windowing=018 process, which limits shippers=01, ability to=20
+change nominations
+for deliveries between receipt points on the system. It is replaced with an=20
+announced
+daily calculation of capacity available at each receipt point;
+=01=07 Establish Hector Road as a formal receipt point for nominations;
+=01=07 Institute an operational flow order (OFO) procedure. Provides a forum for=20
+more changes
+in OFO procedures if excessive OFOs are made;
+=01=07 Set up =01&pools=018 of gas on the SoCal transmission system that are intended to=20
+increase the
+liquidity of gas trading;
+=01=07 Make changes to balancing rules, while retaining the current 10% monthly=20
+imbalance
+tolerance;
+=01=07 Make SoCal=01,s own gas acquisition unit subject to the same balancing rules=20
+and penalties
+as all other shippers;
+=01=07 Allow some limited imbalances trading, as well as the right to assign and=20
+reassign unbundled
+storage contract in a secondary market, with a SoCal electronic bulletin=20
+board set up
+for it;
+=01=07 Unbundle from core transportation rates the storage capacity cost exceeding=20
+that required
+for core minimum reliability; and
+=01=07 Provide for rate recovery of up to $3.5 million in implementation costs.
+In addition, the draft would unbundle core interstate transportation from=20
+rates, eliminate
+core contribution to noncore interstate transition cost surcharges, eliminate=20
+the core subscription
+option as well as the caps for core aggregation programs.  The threshold for=20
+participating in
+core aggregation is reduced, and billing options are offered to core=20
+aggregators.
+Bilas=01, draft also warned that the commission may come back in two years to=20
+open another
+investigation into gas competition, taking into account any changes in market=20
+conditions.
+Bilas gave a little more insight into his decision in the text of the draft.
+=01&The cost of gas as a commodity has vastly increased at the border, showing a=20
+differential
+between the basin and border prices that is more than the cost of transport=20
+and related services;
+we question whether there will be an opportunity for discounting by marketers=20
+if more competition is allowed,=018=20
+Bilas wrote in the draft decision.  =01&With half the state already committed to=20
+a
+restructured competitive natural gas industry, it suddenly seems as if the=20
+benefits of such re-
+structuring to enhance competition are speculative, particularly at this=20
+time.  With one leg in the
+water, the current has switched direction and it will be difficult, if not=20
+foolhardy, to reach our
+goals by forging ahead.
+=01&We choose to take a cautious approach again,=018 the draft continues. =01&Rather=20
+than proceeding
+to unbundle transmission in Southern California now, we approve, with=20
+modifications, the settle-
+ment suggesting smaller steps towards a competitive market. Additionally, we=20
+unbundle core
+interstate transmission and once again urge the Legislature to pass consumer=20
+protection legisla-
+tion aimed at unregulated marketers while we facilitate growth in core=20
+aggregation programs.=018
+The CPUC would not rule out the unbundling of intrastate transmission and=20
+other restruc-
+turing in the future =01&but believe that at this point in time the certain=20
+benefits do not outweigh
+the costs to most ratepayers.=018
+All drafts must be filed 30 days before the meetings at which they will be=20
+discussed. The
+draft decision is currently on the agenda for the CPUC=01,s Dec. 21 meeting.=20
+FYI
+The GIR meeting to discuss the proposed decision issued on November 21 is 
+scheduled for Monday, December 4, in Room 2A of The Gas Company Tower at 555 
+West Fifth Street, in Los Angeles.
+The following is the Conference Line information for those who are unable to 
+attend in person: 
+??????? Dial In No. 1-877-676-6548 
+??????? Confirmation code 4455426 (please follow prompts) 
+Parking validations at the GCT building will be available and lunch is 
+provided. 
+To assist us in planning, please RSVP to Zenee Angeles via e-mail 
+(zangeles@sempra.com) or via phone (213/244-3831) on your attendance.
+Thank you. 
+Noon to 3 our time The GIR meeting scheduled for Monday, December 4, at the Gas Company Tower in 
+Room 2A (second floor) will start from 10:00 AM. to 1:00 PM.
+Thank you. 
+Zenee Angeles 
+213/244-3831 
+Cc:???? Suwara, J.- TPJUS; Wright, Gillian - TP1GXW; Sullivan, Glen J. 
+The GIR meeting to discuss the proposed decision issued on November 21 is 
+scheduled for Monday, December 4, in Room 2A of The Gas Company Tower at 555 
+West Fifth Street, in Los Angeles.
+The following is the Conference Line information for those who are unable to 
+attend in person: 
+??????? Dial In No. 1-877-676-6548 
+??????? Confirmation code 4455426 (please follow prompts) 
+Parking validations at the GCT building will be available and lunch is 
+provided. 
+To assist us in planning, please RSVP to Zenee Angeles via e-mail 
+(zangeles@sempra.com) or via phone (213/244-3831) on your attendance.
+Thank you. 
+I'm confused -- are we asking for an extension of time to comply with the 
+Commission's conditions, or an extension of time to file a motion for 
+rehearing 
+Steve and Lindy, as I mentioned in our staff meeting, it is probably not=20
+going to be possible to solve our max rate cap dilemma by making a tariff=20
+filing unless we can 1) get FERC to change its mind about its policy that=20
+recourse rates always be available as an alternative to negotiated rates or=20
+2) prove that Transwestern lacks market power and should therefore be allowed=20
+to charge market based rates.
+The following is a very brief outline of what would be required to prove lack=20
+of market power.  A warning:  lack of market power is very difficult to=20
+prove.  Koch, a pipeline that most in the industry would agree does lack=20
+market power, tried and failed.  The deck is already stacked against us in=20
+TW's case given the withholding of capacity by El Paso's affiliate and the=20
+price conditions in California.  However, we do need to analyze the=20
+possibilities for TW, if not to the Cal. border, then on other parts of our=20
+system.  Additionally, we need to discuss acceptable incentives for shippers=20
+to pay negotiated rates if we do not end up changing our tariff.
+Would you be availabile on Tuesday to discuss this?  Please let me know.  In=20
+the meantime, here is a summary of FERC's policy on market based rates.
+To obtain authority to charge market based rates, TW would first have to=20
+request a declaratory order, and in its application provide information=20
+showing it meets the requirements outlined below.  If the Commission finds=20
+all requirements have been met, it will issue an order and TW would then make=20
+the appropriate tariff filing to put market based rates into effect.
+=20
+Application for declaratory order must include:
+1.  Detailed description of the services proposed for market-based rate=20
+treatment.  I assume in our case it would be firm transportation service.
+2.  A statement defining the relevant product and geographic markets=20
+necessary for establishing the applicant lacks market power with respect to=20
+the services at issue.  The Commission requires a narrow definition of the=20
+market=01("firm transportation" is probably narrow enough, but for our purposes=20
+we might want to narrow it down more (i.e., firm transportation East of=20
+Thoreau).  We have to define substitute services available to shippers=01(other=20
+pipelines are a "good substitute" only if shippers can obtain the same=20
+quality of service on a timely basis, and if the other pipelines offer such=20
+service at a price that would deter TW from raising its prices more than=20
+10%.  All relevant "origin markets" must be defined (Panhandle; West Texas)=20
+as well as "destination markets," and alternatives for shippers in those=20
+markets identified.  Transportation alternatives are only good alternatives=20
+if they provide a netback to shippers that is roughly the same as if they=20
+used TW.  Note that the Commission has rejected capacity release as a good=20
+alternative since it does not guarantee a shipper its desired contract=20
+quantity.
+3.  Market share and HHI calculations; discussion of other relevant=20
+competitive factors.  Commission looks at size of market share, mitigating=20
+factors such as ease of entry, and market concentration as measured by HHI. =20
+Market concentration has to be calculated for each relevant receipt point and=20
+delivery point.  HHI is calculated by adding up the total market share and=20
+squaring it.  There is a presumption of no ease of entry for transportation=20
+services  because of the expense involved in constructing facilities.
+4.  Proposal for accounting for costs and revenues.
+basically contains the same arguments they launched at our 637 filing, and we 
+did not file an answer to that.
+Kevin -- I've looked at the pooling agreement and I agree with you -- I don't 
+believe taking the compressor down is at all limited under the agreement Any further questions, let me know.
+Well, I have definitely taken a turn for the worse -- lots of drainage and 
+coughing up green/yellow stuff.  No fever at all, though.  I go to the doctor 
+tomorrow and hopefully will be on the road to recovery before Saturday 
+with you to make sure I got the right ones -- he wanted the medium-weight 
+ones that are sort of like long-sleeved t-shirts, right?  The reason I am 
+asking is that Patagonia also makes a capilene that is more like a fleece 
+fabric and comes in a v-neck style 
+I will hold off on the bathtub spa for Mema.  The last thing I want to do is 
+buy her something she does not need!  Will stick to my pedicure gift 
+certificate idea 
+So glad you are doing better.  Too bad there was a delay in the flu vaccine 
+this year or we both could have avoided a lot of trouble!
+Camp2scott@aol.com on 12/04/2000 04:04:44 PM
+The doc thinks I probably had the flu.
+Can we get together tomorrow to discuss the market based rates issues I 
+raised last week?
+If you can do it tomorrow, let me know what times you are not available and 
+I'll schedule something around them.  Thanks.
+We did not answer protests to our Order 637 filing.
+The gist of PNM's protest in RP00-626 is that we shouldn't be able to charge 
+a transport or fuel fee for our imbalance netting and trading service.  I 
+agree with PNM that our tariff language is vague in this regard.  What 
+exactly do we mean by "no additional cost...unless through the allocation 
+process, quantities may be subject to transportation and fuel"??   Can 
+someone help me with this?
+Since we really did not want to make this compliance filing anyway, I would 
+say we probably wouldn't mind if FERC rejected our tariff sheet outright However, it's more likely that they will just instruct us to clarify our 
+language.  Or they could tell us to remove the "subject to transportation and 
+fuel" provision.  If we want to preserve our right to charge transport and 
+fuel, it might be worthwhile filing something in the way of an answer However, I am going to need some assistance in understanding what the 
+language means and why we think we can do it, so I can justify it to FERC Any comments you have in this regard would be appreicated.
+Should we respond to PNM's protest of the dollar valuation of imbalances 
+prior to netting and trading?  Did we already respond to this issue when they 
+filed their protest of the 637 filing?  DF 
+Darlin',
+Someone booked the entire Rainbow Lodge for a party this p.m.
+As alternatives, Chez Sooz recommends:
+La Mora
+Brennan's
+Please advise.
+xxxooo
+S.
+Shelley, I can take a stab at pulling together TW-related information today 
+and will run it by Jeff to see whether he has anything to add.  I am leaving 
+on vacation Saturday and have a lot of other work to finish up here before I 
+go.  Therefore it might be best to bring in someone else from 
+legal/regulatory to pull up the info for El Paso, Kern, etc.
+Shelley Corman
+12/06/2000 10:28 PM
+With concerns about curtailments and force majuere events in California, 
+Steve Kean has asked for the preparation of study of all possible types of 
+disruptions (e.g. curtailment, diversion, penalties, etc,) in the gas chain 
+flowing to Calif and who bears the legal/financial liability for each event Specifically, he has asked if ETS can assemble a description of such 
+provisions for the pipes delivering to Calif.
+In particular, he wants a summary of following:
+Curtailment - When do pipelines curtail? 
+Curtailment compensation
+Imbalance Provisions
+Penalties/OFOs
+Allocations (For El Paso Only)
+Help!  Do you guys have any materials explaining these provisions?  Steve 
+wants this all pulled together by Friday.
+I believe this message was intended for Susan M Scott of ENA.  I'm with ETS 
+Legal.
+I want to recap our understanding of the key cultural/behavioral attributes 
+that you said were important to interview for.      If you want to add to 
+this please don't hesitate to do so.   We will form a questionnaire tailored 
+to your group's needs. 
+The right candidate will desire an environment that will challenge them with 
+new situations on a constant day to day basis.   This person would become 
+bored and restless with routine.   This person would also enjoy learning at a 
+relatively fast and voluminous rate. 
+The candidate will rarely lose a train of thought despite interruptions and 
+can return to the point at which a discussion or idea was disrupted.   There 
+are techniques as well as questions that can address this. 
+The person must indicate a high degree of dependability, endurance, 
+follow-through, and persistence.   They must be equipped with an ability to 
+cope with adversity and be willing to do what it takes to get it done They must not be adverse to working beyond the 45hr week.    It is difficult 
+for the candidate to create a story that combines examples of all of these 
+traits unless it truly happened.   If they have these traits, they have used 
+them in the past. 
+Relatively thick skinned.   How do they accept criticism and/or reprimands A desire to be in control of situations is also a desirable trait.  These 
+applicants must want to make decisions and control outcomes almost all of the 
+time.   Not to be confused with micro-managers or control freaks 
+(yeah-buts Lastly, they must have an entrepreneurial focus.    They need to be the 
+people that make it happen, with possibilities but without guarantees  of 
+personal gain, a desire to take ultimate responsibility, and influence others 
+to get it done and make them feel good about it.   The how, what, when, 
+where, and why of being in a leadership role. 
+We will start formulating the questions and the order in which they should be 
+asked today.   Do you have any candidates in the near future?   We would be 
+glad to help you with interviewing tips hgm
+Lillian, please see the attached authorization memo.  It is still in draft 
+form, but since time is of the essence, Geneva advised me to forward it to 
+you now so that you could start working on it.  We would like to have the new 
+company formed today if possible.  I will let you know if I make any changes 
+to the attached.  In the meantime, please do not hesitate to call if you have 
+questions.
+Susan Scott
+x30596
+Attached is my first try at our motion to extend time.  Your written comments 
+would be appreciated.
+Lillian, I forgot to add that the slate of directors and officers for 
+Capacity Management Corp. will be identical to that of Transwestern Pipeline 
+Company.,
+Steve Stojic called to let me know that the technical conference in RP01-56 
+will be held on Jan. 9 at 10:00.  A notice will be issued shortly 
+Don't you have work to do??
+rmendoza@mail.mdanderson.org on 12/07/2000 03:51:22 PM

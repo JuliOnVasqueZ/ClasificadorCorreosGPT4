@@ -1,0 +1,567 @@
+Really a short position not long.
+Attached is the spreadsheet Raetta put together after receiving all of the billing information to
+review the parties involved in the 3.0 bcf long to the pipe position on NNG for October, 2001.
+If you have any questions, let Raetta or I know. 
+Sue, the Pinnacle Natural Gas imbalance is the 5,000/day balancing Pinnacle is allowed
+before volumes go to park and ride. Thanks. Lynn
+Cara, I hope you surgery goes well.  Very good memo on keeping the team and management
+informed.  Keep up the good work.  Thanks. Lynn
+I will be out Thursday and Friday for oral surgery. I should be back on Monday assuming that everything goes well.  Wednesday I will be training at night with Jean. 
+Panhandle has requested payback gas and Kay has approved it. Thursday and Friday Panhandle will receive 10,000 a day. Randy and I I nomed and confirmed the gas on our system for those two days. They want the payback to continue.  Scott has agreed to cover Panhandle and watch the payback.
+Debra will cover any MOPS activity. 
+Thank you,
+Cara Vaughan
+Ava, let's discuss changes I need for my presentation tomorrow.  Thanks. Lynn
+FYI Only
+Attached is a copy of the Gas Logistics presentation that I gave at Phil Lowry's operations conference this morning.
+Harry, have you seen this?  Are you familiar with the info 	I have a meeting at 3:00 with Dan Fancler, Tracy and Steve Weller
+on the EPPI issues.  Just wondered if you have any detail on
+this attachment I need to understand?  Thanks. Lynn
+Here is Oneok's work on Jan00.  Where do they differ from us?  Steve
+Hey Steve,
+Kim and I have been looking at your spreadsheet.  I am attaching our
+spreadsheet so you can see how we came up with our numbers.  It looks like
+there is a pricing problem on your spreadsheet.  You have a price for
+1/18/00 and there isn't pricing for that day.  The Jan00L tab in our
+spreadsheet calculates the current invoice.  The Jan00S tab calculates what
+we should have paid, inclusive of PPAs.  Kim tells me that our worksheets
+are per the contract.  If you have questions, please email me or give me a
+call.  Hopefully we can get this worked out as soon as possible.
+Thanks!
+Sorry - I didn't mean to bug you - good things take time.  Steve
+I received both your email and fax.  I haven't had a chance to look at
+it
+yet.  I am in the middle of my closing cycle.  I'm trying to get the
+plant
+closed and statements mailed before I can take a look at this.  If I
+don't
+get closed Harry Woodson won't be a happy camper if I'm not able to
+provide
+3rd party shrink numbers to him before he has to close.  I realize you
+are
+trying to pay us $$$$$, but the timing of this issue finally resurfacing
+is
+bad.  I will look at this as soon as the plant is closed.
+Thanks!
+Sherry
+Sherry:  Did you get the fax?  Does any of it makes sense?  Steve 
+Should we be talking about make up when we are allocating Belleville?  I had a question from Alliant,
+"You, NNG and ANR both have room to deliver gas to ANR, even though you are doing an allocation,
+why can't you schedule more delivery at ANR?  Wouldn't that help the system?"  I think it would be
+hard to explain that we are doing make up, allocating and NOT letting a shipper increase deliveries all
+at the same time.  What do you guys think?  Thanks. Lynn
+With low pressure at LS Power, Gas Control resquested ANR stay on rate at Janesville.  We will try to do make-up tomorrow, Nov. 14.
+James
+ANR will try to pull an additional 10,000 for today, 11-13-01 at Janesville POI-180.  They are short about 40,000 on their OBA for current month.
+James
+I have contacted David Holmes regarding POI 506-Plymouth Benedum Plant.
+Mine have been contacted.
+Randy Janzen
+This is the imbalance at these points as of Nov. 10th. Please get with the respective parties to get these points back in balance.
+If you have a question or if I can help please give me a call. 
+Gary
+POI-  2511 Conoco Mertzon       + 16,800
+506    Plymouth                 - 19,000
+183    Shell Tippett             +21,800
+89      Mitchell Plt.              -11,700
+2689   Phillips Spraberry      -22,000
+71214  KN Pony Express    -18,000
+234      NIGAS                  + 18,800
+180       ANR Janesville       + 36,900
+25324   Cabot Moore           -14,800 
+59531   Janzen                 + 20,700
++ long to pipe
+- short to pipe
+Greg, following are the questions you asked and my answers.  Please give me a call if you have
+any questions. (713-853-7637 
+1.  Number 4 is still a little fuzzy.  Does Demarc Deferred get allocated during the same cycles as Demarc?
+Answer:  Yes
+2.   Seems unlikely since Demarc Deferred is a storage point and storage is allocated at a different time?
+Answer:  A transportation delivery directly to Demarc Deferred is a part of the Demarc allocation 			  When NNG looks at a storage allocation, we review all the injections (or withdrawals)
+at the storage point.  The two referenced allocations are done seperately, but during the same
+cycle.
+3.  If we were nominating our Firm from Beatrice to Demarc Deferred where would our customers pull from?
+Answer:  Customers can pick up gas at Demarc Deferred
+4.  The storage that is offered by NNG's park and ride is at what location?  Demarc or Demarc Deferred?
+Answer:  Demarc Deferred
+Hopefully this helped.  Thanks. Lynn
+Frank, where are we on the review you were heading up after our conference call with Dave
+and Measurement?  Looks like more and more customers are questioning our numbers.
+If there is anything we can do to help you out, please let me know.  Thanks. Lynn
+Gary,  I received a call on 11/13 from Bill Lindley (Clayton Energy) agent for City of Hartley, IA.  Bill was inquiring about the actual daily volume allocations at POI 60551, Meter Number 722015-01.  He incurred about $5,503.35 in DDVC penalties for the month of Oct.  2001 due to daily variances at the TBS.  Bill was asking if the actuals were estimated from the 17th - 31st.  In checking with Frankie the end of the month index readings were used to estimate the volume due to the chart being received after close 
+Bill (Clayton Energy) has requested that we pull the chart(s) and check the reading to verify that the penalties and the daily volume are correct for the month of Oct..  Bill has provided me with the daily readings from his check meter at this TBS to compare with.  This check will determine if the daily volumes need to be reallocated and a PPA generated 
+Give me a call if you have any questions 
+j.  floyd	
+Mike, I am covered as long as you or Jodie are attending.   Thanks. Lynn
+I have visited with Kenneth and he said that anyone interested could attend so I am passing this on to see if you can make it or if you want someone to attend.     This product will not currently provide SCADA data but Kenneth is going to see if it can be adapted for SCADA along with the PGAS volumes.
+Tks - Mike W. - Meas. Desk
+I have asked Dan Noack of DataGateway to provide us with a brief presentation and demo of their products.
+Location: 3AC - 3rd floor conference room
+Date: Friday November 16
+Time : 10:00AM - 11:30AM
+They currently have two products, NetMeter and NetBalance.  The NetMeter applications looks like it would provide us with a cost effective way of making our PGAS measurement data available to our customers via the web.  NetMeter is a service they provide and our cost is based on the number of meters we post to their system.
+They also have a new data validation product which will be released first quarter in 2002.  This product could be used with our PGAS system to perform some automated validation of our volume data.  Dan will be providing an overview of this product as part of this presentation.
+Kenneth
+Dan Noack
+DataGateway
+www.datagateway.net
+12811 Dove Point Lane, Houston, TX  77041
+dnoack@datagateway.net
+ph:(713) 256.8052    fax:(713)856.7648
+Mike, let me know what kind of feed back you get.  Thanks. Lynn
+It has come to my attention that changing the operational storage capacity between the Evening process and the NonGrid process can be unduly problematic for customers because most of the pipelines that interconnect with NNG do not recognize the NonGrid process. Such changes can lead to EPSQ issues during the ID1 process when shipper quantities cut during the NonGrid storage allocation end up being less than the EPSQ calculated for ID1. The differences that result will most probably end up as shipper imbalances on NNG. 
+For this reason, it is strongly recommended that operational storage capacity not be changed between the Evening and the NonGrid processes in the future. 
+Audrey, put me on the list.  I plan on attending.  Thanks for the invite.  Lynn
+We are pleased to announce the new date and time of our Appreciation Luncheon.  Please mark your calendars for Thursday, September 27, 11:30a - 3:00p.  We will meet at the same location, Jillians,  7620 Katy Freeway.
+Please RSVP by Friday of this week.
+Thanks in advance,
+Audrey D. Robertson
+Transwestern Pipeline Company 
+email address:  audrey.robertson@
+(713) 853-5849
+(713) 646-2551 Fax
+Please be informed, because a large number of our invitees had conflicting schedules, we are moving the date of our Appreciation Luncheon.  Steve's main objective was to include as many of  ETS' TW Teams as possible.  To achieve this effort, the luncheon will be moved to a date and time which does not conflict with activities within ETS 
+As soon as we confirm our date, we will notify you via email.
+Thanks in advance for your patience and understanding.
+adr
+Audrey D. Robertson
+Transwestern Pipeline Company 
+email address:  audrey.robertson@
+(713) 853-5849
+(713) 646-2551 Fax
+Steve Harris would like to let you know that your hard work during the past few months has been sincerely appreciated.
+A "Thank You Luncheon" has been scheduled to express this appreciation.  Please mark your calendars to attend a luncheon on Friday, September 7, 2001, from 11:30a - 3:00p at Jillian's, 7620 Katy Freeway.
+We hope that each of you will be able to share this time with Steve and the TW Commercial Group.
+Please RSVP to me by Friday, August 31. 
+Audrey D. Robertson
+Transwestern Pipeline Company 
+email address:  audrey.robertson@
+(713) 853-5849
+(713) 646-2551 Fax
+Lori, please coordinate any testing for the Customer teams for NNG and TW with Mike Bodnar.
+Thanks. Lynn
+As we discussed this morning in Shelley's staff meeting, below is the information about the Business Objects Upgrade 
+Lori:  We are recommending a coordinated testing effort to verify that the upgrade does not effect customer reports.  Please coordinate with Legale and any individuals from Rick's, Lynn's or Sheila's group as they so designate 
+Brad
+Brad,
+This is what I would like to convey to the users at this time.  Also, let everyone know that I am available to attend their individual staff meetings.
+The Business Objects IT staff is currently in the process of upgrading the hardware and software for Business Objects.  The hardware will provide better processing times and more stability.  The software upgrade will provide some bug fixes and enhancements.
+As far as the effect to the users, the impact should be minimal 
+If the users accesses Business Objects through InfoSource.ETS.Enron.com, there will be no changes.
+If the users accesses BO through ZABO, they will need the new version installed.  This will accomplished through a Corp script that will either push the new software onto the users PC or they will have to select a Start menu item.
+The go live date is Dec 1.
+Lori Saffer will be sending reminder e-mails as the deadline approaches 
+Thank you for all your help,
+Lori Saffer
+713-853-0641
+fyi.  Thanks. Lynn
+Lynn--
+Today during the team leader meeting you mentioned setting up a meeting with the Solution Center for next Tuesday. I realized
+later that I was planning to comp next Tuesday because I am working this coming weekend. Possibly they might be short-staffed
+next week with it being Thanksgiving week. Could we schedule with them for the Tuesday after Thanksgiving?
+Thanks-
+Shirley 
+Shirley, I have forwarded your message to John.  Thanks. Lynn
+Lynn--
+Today during the team leader meeting you mentioned setting up a meeting with the Solution Center for next Tuesday. I realized
+later that I was planning to comp next Tuesday because I am working this coming weekend. Possibly they might be short-staffed
+next week with it being Thanksgiving week. Could we schedule with them for the Tuesday after Thanksgiving?
+Thanks-
+Shirley 
+FYI.  Thought you guys might be interested in this.  Thanks. Lynn
+could you also send a copy to Lynn Blair and myself.  thanks fs
+Frank, I sent the draft of the summary to Dave yesterday, I'll let you know if I receive any comments. 
+Dave, here is another example of the underlying issues concerning the practice of index readings because of late charts. Courtney will distribute a summary draft of our recommendations later today, specifically addressing the 7 and 16 day charts issues.
+Gary,  I received a call on 11/13 from Bill Lindley (Clayton Energy) agent for City of Hartley, IA.  Bill was inquiring about the actual daily volume allocations at POI 60551, Meter Number 722015-01.  He incurred about $5,503.35 in DDVC penalties for the month of Oct.  2001 due to daily variances at the TBS.  Bill was asking if the actuals were estimated from the 17th - 31st.  In checking with Frankie the end of the month index readings were used to estimate the volume due to the chart being received after close 
+Bill (Clayton Energy) has requested that we pull the chart(s) and check the reading to verify that the penalties and the daily volume are correct for the month of Oct..  Bill has provided me with the daily readings from his check meter at this TBS to compare with.  This check will determine if the daily volumes need to be reallocated and a PPA generated 
+Give me a call if you have any questions 
+j.  floyd	
+Frank, thank you for the update.  I would like to attend this meeting.  Also I added Jodie and
+Steve on here, because they are very interested in the discussion as well.  I hope that
+is OK.  Thanks. Lynn
+Lynn,
+We have a meeting set up with Dave, Don Hawkins and Charlie Thompson to this Friday from 1:00 to 2:00 concerning measurement. I am not sure what the exact topic will be but you are welcome to sit in. Also I plan to distribute a recommendation today concerning the treatment of the 7 and 16 day clocks based upon my understanding of the situation and will copy you.
+Frank, where are we on the review you were heading up after our conference call with Dave
+and Measurement?  Looks like more and more customers are questioning our numbers.
+If there is anything we can do to help you out, please let me know.  Thanks. Lynn
+Gary,  I received a call on 11/13 from Bill Lindley (Clayton Energy) agent for City of Hartley, IA.  Bill was inquiring about the actual daily volume allocations at POI 60551, Meter Number 722015-01.  He incurred about $5,503.35 in DDVC penalties for the month of Oct.  2001 due to daily variances at the TBS.  Bill was asking if the actuals were estimated from the 17th - 31st.  In checking with Frankie the end of the month index readings were used to estimate the volume due to the chart being received after close 
+Bill (Clayton Energy) has requested that we pull the chart(s) and check the reading to verify that the penalties and the daily volume are correct for the month of Oct..  Bill has provided me with the daily readings from his check meter at this TBS to compare with.  This check will determine if the daily volumes need to be reallocated and a PPA generated 
+Give me a call if you have any questions 
+j.  floyd	
+Mary and Dari, here is my answer.  Are you comfortable with it
+before I send it to the shipper.  Thanks. Lynn
+Answer:  If an interruptible shipper is bumped in the Intraday 1
+cycle, the shipper will keep 1/3 of their scheduled volumes.
+Shippers schedule becomes their actual unless they are the
+operator of the point.  Therefore, they would not encounter
+a DDVC penalty.  If the Shipper is the operator, NNG looks at
+total scheduled volumes vs total actual delivered volumes and determines
+if a DDVC is appropriate.  The DDVC is based on the difference
+between total scheduled and the actual delivery at the point 
+If you have any additional questions, please do not hesitate to give me a call.
+Lynn Blair (713-853-7637 
+Lynn, Steve,
+When Gary post the SOL or SUL this verbiage goes along with the critical notice:
+DDVC penalties are applicable to the bumped shipper's quantity 
+Who needs to answer her question?
+ If a shipper is bumped (i.e....their nomination gets cut), how can NNG
+ charge DDVC penalties?
+ 
+ 
+What am I not understanding, please?
+ Joanne
+ 
+Mary, I am going to be out of the office Tuesday and Wednesday of next week as well as
+Monday, November 26th.  Do you need me in the meeting?  If not John Buchanan can
+attend in my place.  Thanks. Lynn
+Attached is a VERY HIGH level evacuation plan we can start with in the morning at 9:00 a.m.
+Don't panic, bring your additions and improvements to the meeting and we can modify this plan.
+I just thought we could start with this.  Thanks. Lynn
+FYI.  Let's discuss in the morning.  Thanks. Lynn
+Shelley & Lynn,   Fran has advised me there are no legal problems with schedulers working a weekend shift from 7 am to 10 pm for one weekend day, the other scheduler will take the other day.  Each will be given a two days of comp time as they are today for their two 8 hour shifts. Fran does have a concern of fatigue in the later hours, just a we do.  There are only two team members that are interested in this schedule, so we'll give it a try and let you know how it goes.  Sheila
+Shelley, here is a PAA I referenced that Donna and I  are recommending for Amy.
+Please let me know if you have any questions.  Thanks. Lynn
+Please post the attached notice.  Thanks. Lynn
+Brad and Donna, you have all of my employees covered.  Only change is Cynthia Rivers and
+Jacob conklin need to be under Sheila instead of me.  Thanks. Lynn
+Attached is the list of employees and necessary information for the PAA distribution.  This was generated by HR 
+Sheila and Lynn:  Please review the list for accuaracy of your employees.  I have reviewed Rick's employees.  Mike and Steve, I have reviewed your employees based on the information you provided.  No Midland employees are included on this list 
+Donna and I are working on the PAA form.  We will forward it along when it is complete 
+Brad
+FYI.  Thanks. Lynn
+It may be standard practice in your opinion, but Kelly, Bill and I have never heard of this or remember it happening to us.  Also Entergy-Koch was completely surprised by it as well.  We just can't understand why you would call a reduction in a withdrawal an injection.  Your allocation is limiting storage injections and we were not making an injection.  We'd like to know where to find this in the tariff so we can read it and understand it better.  We pulled looked at the 8 a.m. process instructions on the web and it doesn't say anything about this.
+What is really upsetting to us is were thought we were set up fine to be in compliance with the SUL and suddenly we couldn't do what we thought we had a right to do, even though Hot Tap accepted the nomination.  On top of that, no one from NNG called us to let us know that our nomination had been undone and the same thing would have happened to us on the 11/15 gas day if we hadn't been lucky enough to have found it on our own.  We pushed the gas across to ANR, but we are going to incur penalties from them as a result.  The other really strange thing is that during the intraday processes we can cut back on our withdrawal even though storage is allocated, but you can't do it at 8 a.m.  It just doesn't make any sense to us.
+>> "Sebesta, Chris"  Jeff, I am sorry WP&L and IES are experiencing allocation problems.  It
+is standard procedure during a storage (injection) allocation the 8 am
+true up process does not allow FDD withdrawal reductions or storage
+injections.  Many other shippers are also working hard to manage their
+business.  Other than getting truer information on your market's needs
+or finding alternate markets for your excess capacity, I don't have any
+other ideas on how to address your zone allocations.
+As requested I will add this item to our December 10 meeting agenda.
+Chris
+You should know that we are unhappy about something else now.  For the
+11/14 gas day you (NNG) did not let us reduce our FDD withdrawal
+nomination to zero in the 8 am process like normal because of a storage
+injection allocation.  Because of this WP&L is going to get hit with SUL
+DDVC penalties. Entergy-Koch who handles the IES assests was surprised
+by this as well and IES may incur penalties too.
+We weren't trying to make an injection, we were just trying to cut our
+withdrawal to zero.  We always schedule a maximum withdrawal in the
+winter because we are always at risk of a zone allocaton just like we
+have been seeing lately.  We've had conference call with Jean Blair and
+Jerry Wilkens on the topic.  We are also in trouble now for the 11/15
+gas day, which we are current trying to figure a way out of.  You can
+add this item to our discussion topics when you visit.
+Jeff
+Jeff Hicken
+Gas Trader
+Alliant-Energy
+608-252-3173
+>> "Sebesta, Chris"  Lynn, as indicated in my voice mail, Frank and I would like you to call
+Jeff Hicken of Alliant Energy.  He would like someone to explain, (1)
+why he is getting allocated at the zone level when he is trying to
+adjust his timely cycle noms later in the day to reflect lower
+requirements, and (2) what are his alternatives, especially as storage
+may have a chance of being allocated.  Please call Jeff today.  He can
+be reached at 608-252-3173.
+Thank you.
+Chris Sebesta
+Northern Natural Gas
+Office:  402-398-7064
+Fax:      402-398-7413
+chris.sebesta@
+FYI.  Thanks. Lynn
+To help clarify, a storage withdrawal reduction essentially created the same physical effect as would an injection during the recent storage allocations.
+For example: If the storage fields had a net injection on a given day of 100 dth(physical maximum)and at the 8:00 a.m. cycle an injection increased by 25 dth, it would be denied because of the physical limitations. The same limitation would occur if a withdraw was reduced by 25 dth (creating a net 125 dth injection) at the 8:00 a.m. process because the same physical limitation existing 		Injections	(150)
+Withdrawals	 50	
+Net 		(100) physical limitation	
+Trying to reduce a redraw of 25 dth would create:
+Injections  (150)
+Withdrawals   25
+Net		(125) physically above the limitation and would be allocated.
+The intra-day process are interative, that is FDD withdrawals/injections can impact the interruptible storage availability during the intra-day cycles, whereas the 8:00 a.m. process is only a individual true-up and not interative with the other storage agreements.
+Lynn and Chris would gladly schedule some time to help clarify these issues, and I am sure it will be a lot more informative than my attempt here 
+It may be standard practice in your opinion, but Kelly, Bill and I have never heard of this or remember it happening to us.  Also Entergy-Koch was completely surprised by it as well.  We just can't understand why you would call a reduction in a withdrawal an injection.  Your allocation is limiting storage injections and we were not making an injection.  We'd like to know where to find this in the tariff so we can read it and understand it better.  We pulled looked at the 8 a.m. process instructions on the web and it doesn't say anything about this.
+What is really upsetting to us is were thought we were set up fine to be in compliance with the SUL and suddenly we couldn't do what we thought we had a right to do, even though Hot Tap accepted the nomination.  On top of that, no one from NNG called us to let us know that our nomination had been undone and the same thing would have happened to us on the 11/15 gas day if we hadn't been lucky enough to have found it on our own.  We pushed the gas across to ANR, but we are going to incur penalties from them as a result.  The other really strange thing is that during the intraday processes we can cut back on our withdrawal even though storage is allocated, but you can't do it at 8 a.m.  It just doesn't make any sense to us.
+>> "Sebesta, Chris"  Jeff, I am sorry WP&L and IES are experiencing allocation problems.  It
+is standard procedure during a storage (injection) allocation the 8 am
+true up process does not allow FDD withdrawal reductions or storage
+injections.  Many other shippers are also working hard to manage their
+business.  Other than getting truer information on your market's needs
+or finding alternate markets for your excess capacity, I don't have any
+other ideas on how to address your zone allocations.
+As requested I will add this item to our December 10 meeting agenda. 
+Chris
+You should know that we are unhappy about something else now.  For the
+11/14 gas day you (NNG) did not let us reduce our FDD withdrawal
+nomination to zero in the 8 am process like normal because of a storage
+injection allocation.  Because of this WP&L is going to get hit with SUL
+DDVC penalties. Entergy-Koch who handles the IES assests was surprised
+by this as well and IES may incur penalties too.
+We weren't trying to make an injection, we were just trying to cut our
+withdrawal to zero.  We always schedule a maximum withdrawal in the
+winter because we are always at risk of a zone allocaton just like we
+have been seeing lately.  We've had conference call with Jean Blair and
+Jerry Wilkens on the topic.  We are also in trouble now for the 11/15
+gas day, which we are current trying to figure a way out of.  You can
+add this item to our discussion topics when you visit 
+Jeff
+Jeff Hicken
+Gas Trader
+Alliant-Energy
+608-252-3173
+>> "Sebesta, Chris"  Lynn, as indicated in my voice mail, Frank and I would like you to call
+Jeff Hicken of Alliant Energy.  He would like someone to explain, (1)
+why he is getting allocated at the zone level when he is trying to
+adjust his timely cycle noms later in the day to reflect lower
+requirements, and (2) what are his alternatives, especially as storage
+may have a chance of being allocated.  Please call Jeff today.  He can
+be reached at 608-252-3173.
+Thank you. 
+Chris Sebesta
+Northern Natural Gas
+Office:  402-398-7064
+Fax:      402-398-7413 
+chris.sebesta@ 
+FYI.  Thanks. Lynn
+After discussing with Lynn and Glen, we think that we would like to file comments in this proceeding concerning an issue we have had since this has been implemented on Nov 1.  In instances where SoCal happens to call their OFO in the Intraday 2 cycle, it can cause Transwestern to have Shipper imbalances because we do not have an opportunity to pass-along these reductions to our upstream parties.  We think we would like to file a letter that may mention our general support of the "direction" of SoCal's changes, but that we do have an issue that has developed since actual implementation that we are currently working on with them.  Lynn & I worked on this rough general description we thought could be incorporated into a brief letter.
+"If SoCal calls an OFO in the Intraday 2 Cycle, an allocation is passed to Transwestern through the confirmation process with SoCal.  Due to the timing of these OFO's, Transwestern is unable to confirm such reductions with Transwestern's upstream parties."
+Lynn thinks if we are unable to resolve this issue with SoCal, TW could have high Shipper imbalance exposure.
+Lindy , can you please take a look at this and let me know if we should file comments. Thanks. You might see if Glen has looked at it yet.
+Steve
+Glen and Steve:
+The attached supplemental advice filing by SoCalGas replaces the  changes to Rule 30, Transportation of Customer-Owned Gas, proposed by AL2837.   The purpose of this filing is to  describe the new internal receipt point operating procedures that SoCalGas is  implementing, and to request Commission authorization to include the revised  operating procedures in Rule 30. SoCalGas says this step is being taken in  anticipation that it will be replaced with a system of firm tradable intrastate  transmission rights in Gas Industry Restructuring (GIR) proceeding, I.99-07-003 During  the GIR panel hearings, several parties requested that SoCalGas publish its  windowing criteria in tariffs to facilitate a better understanding of the method  used to allocate receipt point  capacity.  SoCalGas agreed to make  such a filing, and D.99-07-015 directed SoCalGas to file an advice letter adding  windowing information to its tariffs.  To comply with this directive, on August  6, 1999, SoCalGas filed AL2837, which has not been acted on by the Commission Customer complaints about SoCalGas' windowing  procedures have convinced SoCalGas that it should replace its internal  windowing operating procedures with a system that is open to the maximum  operating capacity at each SoCalGas receipt point.  SoCalGas is making these internal  operating changes effective November 1, 2001.  SoCalGas held meetings with upstream  pipelines on October 17, and with interested customers and stakeholders on  October 18, regarding the upcoming changes.  They were invited to ask any questions in  the days leading up to the meetings. 
+Comments and/or protests are due on November 21.  Have a good  weekend!
+Dan
+Law Offices of Daniel W. Douglass
+5959 Topanga Canyon Blvd.  Suite  244
+Woodland Hills, CA 91367
+Tel:   (818) 596-2201
+Fax:   (818) 346-6502douglass@energyattorney.com 
+- AL2837-A.PDF 
+Alma, please put me on thel ist to attend.  Thanks. Lynn
+RSVP by November 26th, if you are planning to attend the Team Celebration.
+Attached are the Storage Desk 3rd Party Storage Procedures for your information.
+Reyna Cabrera
+(713) 853-3072
+Can you get this note to the people working next weekend.  Thanks. Lynn
+Turkey, ham and all the trimmings will be provided to Gas Control and the Schedulers who are working on Thanksgiving Day. The ham and sides will be delivered by Honeybaked and I will be bringing the turkey in around 11 a.m. Thursday. thanks. sj
+Bob, you are correct in your statement.  But I want to be sure Koch understand
+when they nominate their receipt at Carlton of 2828 the delivery on that
+path will be 2828 less fuel.  Otherwise I agree with you statements.  I will
+be out next week, but Raetta is up to speed on this issue if you have any
+questions.  Thanks. Lynn
+Lynn:  Please verify that if Koch realigns their 35,000/d contract (K# 20510)such that their MDQ at Carlton matches their Carlton flow obligation of 2,828 and has the rest of their 32,172/d at Marshall (They would need to realign 30 mcf from Carlton to Marshall to effectuate the above, and I've checked with Doug Aschwege to make sure he would approve it.) that Steve's and my interpretation as described below is correct.  Basically the question is whether the Carlton flow obligation is only the Tariff stated volume (ie., no fuel imputed) and that the remainder of the MDQ plus fuel on the whole 35,000/d will flow as primary firm receipts at Marshall.  Thanks for your help!
+Bob, 
+Per our conversations earlier this month,  My contract 20510 needs to have
+only 2828 mmbtu at Carlton and 32172 at Marshall.  All of the fuel for the
+transport needs to be taken from Marshall.  Currently, this contract has
+2858 at Carlton.  This is 30 above my obligation.  After this change is
+made, it is my expectation that under no circumstances will my volume at
+Carlton be curtailed below a receipt volume of 32568 at Marshall.   A
+combination of 2828 plus 32568 gives me a delivered volume of 35000.  That
+is my firm entitlement and curtailments below that are unacceptable as long
+as my nominations are primary FT.
+Please contact me at 713-544-4017 if more clarification is needed.
+Thank you 
+Steve Phillips
+Mike, be sure we discuss this on Monday morning.  Thanks. Lynn
+Lynn...Do you have a couple of minutes to discuss this note from Tim?
+Mike,
+I spoke with Steve Sweeney at Cogentrix today regarding this spreadsheet, and he would like to see our data for every day from June 1, 2001 through September 30, 2001 as you calculated for the few random days throughout the summer.  The spreadsheet seems to indicate that we did not allocate Cogentrix on some of the days in question.  This information is contrary to the information Steve provided and must be explored further. 
+Steve is getting impatient with this process.  He would like to see this come to a resolution as soon as possible.  I said that I understand his concern and we will do our best to resolve this in a timely matter 
+Kent, once Mike finishes the spreadsheet, I recommend that we meet and discuss our offer to Cogentrix 
+Tim Johanson
+Call me when you get this.
+Tim
+FYI.  Thanks. Lynn
+FYI.  If you hadn't already heard, sounds like ONEOK has retained a new condensate/water hauler (CP Energy?).  Just a heads up since this may impact your receipt of information (revenue statements and/or run tickets) regarding the quantities of liquid removed from our facilities.
+Charlie
+As most of you are now aware of, OneOk has hired a new trucking company to haul off the pipeline drips and condensate tanks at our locations where drip is contained in the southwest Kansas area.
+There has been an appointment set to meet with this new trucking company representative on Monday, Sept. 24th at the Liberal Region office complex at 1:00 p.m.
+The main focus will be for the teams involved to show the vendor where these locations are that have previously been picked up by WEGO, and to make arrangements for them to review previous schedules to haul these condensates. What they have requested from the teams are maps to each point along with driving directions that are specific to each location. It comes to my mind that maybe we could provide them with a copy of our emergency response driving directions that the teams should have on hand.
+It was also brought to my attention, from my management, that this tasks needs to be handed off to the region operations management people so that they may coordinate the activities to their needs and schedules. It was also discussed that proper safety and procedure practices need be recognized by this new company which will be entering ETS facilities to provide their services for OneOk.
+This would also be a prime opportunity to request that driver "run tickets" be left at all locations that drip is removed from. This would not only provide us with audit trail material for the future, but can give us documentation for comparisons at the places where we have load-out meters installed.
+With these suggestions considered, maybe we can go forward from here with our continued services and work ethics with OneOk to provide a more positive customer relationship.
+Thanks you in advance for your cooperation in this matter.
+RB
+P.S.     All teams do not need to have a rep. present at this meeting. Randy Howard, myself and a few others that I have asked to provide the maps from are all that will be needed.
+Tim and Randy, how did the traning go?  Thanks. Lynn
+Hello,
+Xcel has requested that we provide an afternoon of training at their offices in Denver (similar to last year).  The training would go from 12:00 PM - 4:30 PM on 11/15/01 and would cover any nomination/scheduling questions they have.  Xcel has also asked to have someone there to specifically address capacity release and the final AM true-up process.
+Please let me know who you would recommend as representatives from NNG.  I would like to get back to Xcel by this Thursday regarding our attendees.
+Tim Johanson 
+Let's discuss again on Monday if we need to relook at hard coding the allocation
+based on discussions with Kent and Frank.
+Thanks. Lynn
+Fran, do you have an updated org chart that I could send to the Measurement group?
+Thanks. Lynn
+Lynn,
+Attached are the org charts for ETS Gas Logistics:
+Have a great weekend.  Thanks!
+Miranda
+Sharon, would you please set up a meeting as follows sometime after November 27, 2001.
+Topic:	Restructure the information on the TW pipe for the morning meeting
+Time: 	1 hour
+Attendees:	Shelley Corman*
+Steve January*
+Darrell Schoolcraft
+Lynn Blair*
+Terry kowalke
+Dale Ratliff*
+*Required attendance
+Thanks for the help.  Lynn
+FYI.  Wanted to pass on this information.  After working with Minnegasco to help them
+use Park and Ride as much as possible (considering we were allocating storage), the
+Minnegasco scheduler went into the system for Friday's gas day and changed their business
+between Intraday 1 and Intraday 2.  This caused cuts through Demarc and Mid 17.  We 
+tried to help as much as possible and keep the same rules we have with all other shippers.
+If you have any questions, please let me know.   Thanks. Lynn
+FYI,
+K#21349 CONTRACT RECEIPT NOMINATION FOR 11-16-01:     333,400 DTHS
+SCHEDULE RECEIPT VOLS. (FINAL)                         227,819 DTHS
+-105,581 DTHS SHORT FOR THE DAY RECEIPTS
+ADJUSTED SCHEDULE RECEIPT VOLS. (FINAL)     +  43,834 DTHS
+-61,747 DTHS  SHORT FOR THE DAY RECEIPTS
+**NOTE**
+#1  ALL SCHEDULE STORAGE (POI-98 & 71459) @ FINAL WAS REROUTED TO POI-197 (GLENWOOD)  = 13,103 DTHS
+#2  BROUGHT OUT OF P&R STORAGE (POI-71459) A VOLUME OF 6,459 DTHS TO BALANCE POI-197 (GLENWOOD)
+#3  SCHEDULED DELIVERIES AT THE ZONE (3026) A VOLUME OF 164,025 DTHS
+FYI.  Thanks. Lynn
+Bob, you are correct in your statement.  But I want to be sure Koch understand
+when they nominate their receipt at Carlton of 2828 the delivery on that
+path will be 2828 less fuel.  Otherwise I agree with you statements.  I will
+be out next week, but Raetta is up to speed on this issue if you have any
+questions.  Thanks. Lynn
+Lynn:  Please verify that if Koch realigns their 35,000/d contract (K# 20510)such that their MDQ at Carlton matches their Carlton flow obligation of 2,828 and has the rest of their 32,172/d at Marshall (They would need to realign 30 mcf from Carlton to Marshall to effectuate the above, and I've checked with Doug Aschwege to make sure he would approve it.) that Steve's and my interpretation as described below is correct.  Basically the question is whether the Carlton flow obligation is only the Tariff stated volume (ie., no fuel imputed) and that the remainder of the MDQ plus fuel on the whole 35,000/d will flow as primary firm receipts at Marshall.  Thanks for your help!
+Bob, 
+Per our conversations earlier this month,  My contract 20510 needs to have
+only 2828 mmbtu at Carlton and 32172 at Marshall.  All of the fuel for the
+transport needs to be taken from Marshall.  Currently, this contract has
+2858 at Carlton.  This is 30 above my obligation.  After this change is
+made, it is my expectation that under no circumstances will my volume at
+Carlton be curtailed below a receipt volume of 32568 at Marshall.   A
+combination of 2828 plus 32568 gives me a delivered volume of 35000.  That
+is my firm entitlement and curtailments below that are unacceptable as long
+as my nominations are primary FT.
+Please contact me at 713-544-4017 if more clarification is needed.
+Thank you 
+Steve Phillips
+Jean, here is a blank PAA form to fill out if you have someone you want to recognize.
+Please fill out the form and send to Steve and John for approval since I will be out of
+the office until next Tuesday.  Thanks. Lynn
+Fran Fagan
+Sr. HR Rep
+Enron Transportation Services
+713.853.5219
+fran.fagan@
+Shelley, here is a first review of the document to the employees.
+Thanks. Lynn
+Brad, looks good to me.  I really appreciate you getting these done.  Thanks. Lynn
+Attached are the two PAA's for the above individuals.  I followed the recommendation of Ramona (for consistency purposes) and recommended at $250.  Let me know if you have any comments 
+Sharon, would you please set up the following meeting for me to be held after  Tuesday of next week.
+Topic:	Review of process for testing model office and production
+Time Frame:  1 hour
+Attendees:	Brad Holmes
+Maggie Matheson
+Ramona Betancourt
+Hasan Kedwaii
+John Buchanan
+Terry Kowalke
+Sheila nacey
+Jim Studebaker
+Thanks. Lynn
+Terry, I would like for you to attend as well.  Thanks. Lynn
+Please plan to attend an OBA Meeting to be held on Friday, September 21, 10:00a - 11:30a in EB-49C2/7C2 in Omaha.
+adr
+Audrey D. Robertson
+Transwestern Pipeline Company 
+email address:  audrey.robertson@
+(713) 853-5849
+(713) 646-2551 Fax
+I will be on vacation Tuesday, November 20 through Monday, November 26.  I will be back in the
+office on Tuesday, November 27th.  John and Terry are in the office all week and Terry is on
+call for the holiday weekend for scheduling issues 	
+Terry and Steve can get a hold of me over the holidays if needed.
+For accounting issues, Raetta and Larry will be in the office Tuesday and Wednesday, with Raetta
+taking a half day vacation on Wednesday.
+All of you have a great Thanksgiving with your families.  I look forward to seeing you next Tuesday.
+Thanks. Lynn
+Looks good to me.  Thanks. Lynn
+Same here!  You touched on everything we discussed.
+Looks good to me 
+FYI.  Thanks. Lynn
+See the attached for the NNG Card list by team. SC= SouthCentral Team N=North team and SC-N means both claim the customer. 
+John Buchanan
+Debra, thanks for your reply.  Are you comfortable now that you can perform this function instead
+of Raetta if Jean is gone?  Does Jean need to have more specific instructions to cover Transok that
+specifies the timing for putting the allocations in the system?  Thanks. Lynn
+I had reviewed with Jean the procedures for allocating the volumes using the required spreadsheet from Transok.  However, I did not have procedure for the allocation of
+estimated volumes.  Upon requesting the spreadsheet from Transok for the current month, I learned that the spreadsheet would not be available until after our close.  At
+this point, I  found that I was in need of Raetta's help to put in estimates.  To date, I have  received the current month spreadsheet from Transok which will require
+PPAs,
+Debra, I understand you were covering for Jean Adams while she was on vacation.
+Did we have the proper coverage to get CMS allocated volumes in GVA reviewed
+as we needed.  Just wanted to follow up.  I would be glad to visit with you about
+this if we need.
+Thanks. Lynn
+Tim and Mike, would it be appropriate to have Mike call Bill and get specifics from him?  Then
+we can do a conference call to explain the cuts?  Just a suggestion.  Thanks. Lynn
+Tim,
+I can't find a single date when LSP's  overrun injections were cut completely. The LSP - Whitewater FDD contract has had 27 days this injection season where, at the end of the gas day, overrun injections are scheduled. I have found an example where USES tried to increase their nomination during the gas day. However all the available capacity had been scheduled during an earlier process cycle. When this occurs, no incremental injections can be scheduled unless incremental capacity becomes available. Another problem is that at the end of most gas days USES utilizes storage netting to further complicate the analysis.
+I really need more to go on. If USES can provide a date or dates it would help our analysis. 
+Please find attached a summary showing the injection overrun volumes LSP scheduled on their FDD contracts 23281 and 23282 during the injection months of June, July and August 2001.
+Since the storage allocation is administered in Market Services, I have asked Mike Bodnar to look into specifics of the days allocated vs. LS Power's overrun volumes.  I did do one quick spot check of a day where we allocated storage through the Intraday 2 process, and I found that LSP did indeed schedule injection overrun quantities on that day.  Specifically, I looked at the gas day of September 1, 2001.  I note that LSP schedule 7,825 mmbtu on an MDQ of 3,008 on contract 23281, and they scheduled 5,945 mmbtu on an MDQ of 3,560 on contract 23282 on Sept 1st.  I'm not sure that it is accurate to say they are never getting any injection overrun on days we allocate storage.  I can tell you that I think the allocation process is working correctly, but I'll let Mike speak to these issues further.
+Hope this helps!
+Kay
+Kay,
+Bill Anderson from US Energy mentioned to Kent and I at the KC Operations meeting that his FDD injection overrun volumes are being cut completely when there is a storage allocation.  At first, I thought this was due to a discounted injection overrun rate being charged to LS Power/Cogentrix.  However, you confirmed yesterday that LS Power/Cogentrix is paying the full injection overrun rate, and therefore should get a pro-rata piece of the available capacity at the time of the allocation 
+I told Bill that we would look into our allocation process, and find out why LS Power/Cogentrix was being cut completely.  Could you let me know if you find anything incorrect in our allocation process with   to the LS Power/Cogentrix account?  Perhaps LS Power/Cogentrix is entered into the allocation system incorrectly as a discounted rate 
+Please let me know what you find.  I would like to respond to Bill as soon as possible.
+Thanks!!
+Tim Johanson
+Don, this is great.  This report was a big hurdle for us.  I will check with the team on how it
+is working.  Thanks for all your support as we go forward in our Business Objects training.
+Thanks. Lynn
+I finished development of a BusinessObjects Report to produce the NNG Bushton PVR information.  Today I turned this over to the Gas Logistics South End Team.  The report is available via the intranet web server Infosource.ets.enron.com.  I walked the team through the login process, refreshed and printed the report.  I plan to demonstrate how this report was built to the Gas Logistics report team being coordinated by Mike Bodnar.  I will do so at one of our earliest meetings.  Please let me know if you have questions.
+u Don Powell
+Manager Business Information
+E-mail: Don.Powell@
+n Enron Transportation Services
+phone: 713-853-5801
+fax: 713-646-8000
+Web 
+Tami,
+Thank you so much for your invitation.  I think it is a wonderful idea.  I, 
+however, will be unable to attend.  Thank you againn and I am sure that you 
+will have a wonderful time.
+She is precious...... I need a baby fix 
+Well Now - how interesting - - They were cute.
+oh - laughing
+Who is Joey?
+Sam,  use these pics.  Have a good day.
+- Dsc00060.jpg
+- Dsc00059.jpg
+Just wanted to congradulate you and wish you much success in your new 
+endeavors.
+Warmest Sandra
+Just a quick note to welcome you and congradulate  you on your new endeavors.
+Warmest Sandra
+I can go Monday but I can't Tuesday.  How are you Pam ?  Can you / will you 
+forward to Susan.
+I appreciate your note and yes it has been awhile since we spoke.  I do chat 
+with Ray occasionally.  Steve without sounding abrupt I still have no 
+intention of doing business with your shop.  That situation was difficult  
+for several of us involved, and it is not something  that I believe I will 
+forget. nor understand 
+Sincerely,
+Sandra
+Hello Matt-
+I am not verifying these transactions via EMail - for no other reason than 
+time.  We should send you a confirmation by now.   If you need to confirm 
+these please call Jeff  Royde @ 35295.
+thanks
+KENNY -
+JON SENT ME THIS TODAY - I THOUGHT IT WAS MORE OF A MANS JOKE- IT IS LONG BUT 
+KINDA FUNNY

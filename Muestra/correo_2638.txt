@@ -1,0 +1,871 @@
+__________________________________________________
+Do You Yahoo!?
+Send FREE video emails in Yahoo! Mail!
+The books title is Options, Futures, and Other Derivatives by John C. Hull.  The publisher is Prentice Hall and the ISBN # is 0130224448.  Thanks a million.
+PL
+not sure what happened.  I think I am fixing to put a whole bunch of Enron stuff on Ebay, people are making money hand over fist with this stuff.
+PL
+That's the address that I sent it to that was returned.
+Went to Florida yesterday morning and came back this morning.
+>>  I think they have finally changed the way our addresses work.  It is
+phillip.m.love@ for now.  We will see if it changes to UBS.
+Where
+are you traveling to today?
+PL
+I saw that in USA Today as I was getting on a plane this moring.
+I tried to send you an email to enron.com day before yesterday and
+it
+was returned saying it didn't exist.  Curious.
+>> "Love, Phillip M    Looks like due to the Enron debacle, you guys can make some
+money...On
+Ebay the cups I sent you are going for $50 and higher.  Make your
+money
+while you can.
+PL
+I think they have finally changed the way our addresses work.  It is phillip.m.love@ for now.  We will see if it changes to UBS.  Where are you traveling to today?
+PL
+I saw that in USA Today as I was getting on a plane this moring.
+I tried to send you an email to enron.com day before yesterday and it
+was returned saying it didn't exist.  Curious.
+>> "Love, Phillip M."  Looks like due to the Enron debacle, you guys can make some money...On
+Ebay the cups I sent you are going for $50 and higher.  Make your money
+while you can.
+PL
+That is funny.  I just ordered some more to sell on EBay, I can buy four sleeves for $16.50 and they are going for $40 a sleeve on EBay.  You might want to sell them.  We were actually a skit last week on Saturday Night Live.  Pretty funny stuff.  Keep working on your wife about Jazz Fest.  Ash is working her too.
+PL
+You guys are going to end up as a skit on Saturday Night Live. Also I forgot
+to send you so love
+for the Care Package. No golf course will let me on with them but that's ok.
+I will put them
+in my bag with my Firestone Golf balls.
+Thanks again for the stuff.
+Jilly
+Stephanie Hopkins
+Enron Net Works
+Risk Management
+(713) 853-5211
+This is pretty funny!
+Mark A. Morua
+Deloitte & Touche, LLP
+Assurance and Advisory Services
+713-982-4574
+713-207-3116 (Reliant)
+watch what you shred    XXXXPOP
+This message (including any attachments) contains confidential information
+intended for a specific individual and purpose, and is protected by law.  If
+you are not the intended recipient, you should delete this message.  Any
+disclosure, copying, or distribution of this message, or the taking of any
+action based on it, is strictly prohibited.
+- winmail.dat  
+Greg Couch forwarded your email address to me saying you were interested in some Enron logo sleeves of golf balls.  I have four sleeves of Titleist Tour Prestige 90 and 8 sleeves of Pinnacle Gold Distance golf balls.
+Please let me know if you are interested and what you are willing to pay.  I am going to put them on EBay tonight if I do not here from you.  If you are not interested, I apologize for the message.  Thanks
+PL
+Here is a rough draft of what we discussed yesterday, let me know what if any changes need to be made and we can sit down with Couch.  Thanks.
+PL
+Stephanie Hopkins
+Enron Net Works
+Risk Management
+(713) 853-5211
+This is pretty funny!
+Mark A. Morua
+Deloitte & Touche, LLP
+Assurance and Advisory Services
+713-982-4574
+713-207-3116 (Reliant)
+watch what you shred    XXXXPOP
+This message (including any attachments) contains confidential information
+intended for a specific individual and purpose, and is protected by law.  If
+you are not the intended recipient, you should delete this message.  Any
+disclosure, copying, or distribution of this message, or the taking of any
+action based on it, is strictly prohibited.
+I apologize, we have been a little delinquent on the thank you cards this year, we are usually really good about it.  He got those horses and absolutely loves them.  We got him a fisher price farm for Christmas and he had just opened that when he opened the horses.  We couldn't get him to open another give for half an hour playing with those horses. They go great with the farm and plays with them all the time.  Thanks 
+On second thought, I'll trade you our cup for two dozen Enron golf balls. Also, Karen is driving me crazy wanting to know if Young Jack got his horses and if he likes them. Please let me know, I don't have too far to go on the crazy part. Love, Steve
+Do we need to make any changes to the EOL products?  I see that Steve South is now on the trader list, does he need any products for EOL?  I will work on the curves and get with you on a first pass.  Thanks.
+PL
+We have just decided to divide the western region into two groups.  I will be heading up the Rockies/NW and Northern California, while Phillip Allen heads up the Southwest and Southern California.  Think about whether or not you  would like to change how you serve our groups going forward.  We will need to divide the curve files to reflect the separate regions.  The Southwest will be defined as EP SJ and EP Permian.  P&L summary reports will be separated into two groups.
+Grigsby
+Jason Wolfe
+Frank Ermis
+Steve South
+Jay Reitmeyer
+Allen
+Jane Tholt
+Matt Lenhart
+Matt Smith
+Keith Holst
+Thanks
+will do.
+PL
+Let me know what you find out.  Want to make sure I have the VCR set.
+Pop
+>> "Love, Phillip M."  I am going to call the vet school and check the authenticity of this.
+PL
+Looks like due to the Enron debacle, you guys can make some money...On Ebay the cups I sent you are going for $50 and higher.  Make your money while you can.
+PL
+east is done.
+PL
+The IT group would like to turn off the replication of curves tomorrow.  Have all the ESTATE curve files been converted per the 
+instructions below.  Any file that has not been updated will not be able to load curves effective Thursday.
+If there is any problem with this timing, please contact me.
+Thanks
+Russ
+x37386
+Currently the curves are being published into the old production database and are being replicated to the new Estate environment 
+Here are the steps to migrate the Curve files to the new env.
+1)	Load new ODBC driver utilizing script provided
+A) Go to ( Start\Programs\System Utility Applic \ Installation&Diskette Creation)
+Double click on "ODBC DSN Entries for ERMT & ESTERMTP"
+This will load the correct ODBC on your machine
+2)   On the Publish tab in the Curve File sheet.
+Change the environment name on the 5th row to estermtp
+Change the service name on the 5th row to 7550 
+3) Then hit the   If the sheet does not have the button, just save the file, close it, and bring it back up.
+4)	Save your curves as normal
+5)	Any questions or problems, please give me a call 
+Russ
+X37386
+I suppose
+PL
+Can I take Fri. off?
+here is the file.  You would change the two curve tabs and the publish tabs are linked up.  The BOM file is unchanged.  The two basis files now only have basis curves in them.  Let me know any changes you would like.  Thanks.
+PL
+Just to be more clear.  The file will combine the Gas Daily index and the Physical Index curves.  The Gas Daily BOM can remain in a separate file.
+Thanks,
+Mike
+absolutely.  I will make the changes and have something to you this afternoon.
+PL
+Thanks.  Can we combine the file for Gas Daily and Physical Index curves - I will be updating this file and the Balance of the month file.  Keith Holst will update the CA basis, while Frank Ermis updates the ROX and SW file.
+Mike
+Attached is the curve file for phys and gas daily.  I made this extremely simple on our first pass, but I left in the tabs that were in the old/current file.  All you would do would be to go to the fin tab and hard code balance of month price for each of the curve locations(yellow column).  This will then set the gas daily curve.  We will continue to true up to gas daily each day.  You may want to also reset the next day's curve as well, since this is a hardcode, you simply type over the previous day's load.  The phys tab pulls from the fin tab and adds the phys prem to it.  We can increase the complexity of this file by adding formulas or tabs if you like.  I figure you will want to keep your model and I can pull info from there as well.  I simply wanted to start out at a baseline and build it to best fit your needs.  Please let me know what you would like to see changed and we will do it.  Thanks.
+PL
+already got them slacker.
+My official post ID's from Nov. 30th are 1424131 through 1424152, and 1424156 through 1424167, and 1424262 through 1424279.
+I need all of your official post ids from your old books for the date of 11/30/01.  Please email them to me ASAP.
+PL
+Fyi,
+ubsenergy.com has been registered.  (so for all you trying to squat and extort money for the name, you're too late).  our company name is, reportedly, UBS Warburg Energy LLC
+Here it is.
+PL
+please let me know what risk types each of these postids is please.
+PL
+Gulf 2 - 1424884, 1424920, 1424921, 1424922, 1424928, 1424929
+New York - 1425035, 1425036, 1425037, 1425038, 1425039, 1425046, 1425052
+I need all of your official post ids from your old books for the date of 11/30/01.  Please email them to me ASAP.
+PL
+thanks
+I am going to call the vet school and check the authenticity of this.
+PL
+ > > A friend of my Dad's works with multimedia services at  Auburn and  
+ > > told him that he is leaving this weekend with Tiger  (War Eagle VI) to  
+ > > be in the Winter Olympics opening ceremonies. The  opening  
+ > > ceremonies will be a two hour event and Tiger will be  in the second  
+ > > hour. Tiger is going to fly down from the top of the  stadium to the  
+ > > ground - like football games. Too bad Alabama isn't  invited. Maybe  
+ > > Big Al could just jump from the top of the stadium -  only kidding   
+Are you going to handle this?
+PL
+If the central books have 2 set up then I'll leave MC assigned to GD and we need another set of central books set up for P/B/I.  Please have the new books set up in Global first (with new book codes, not MC) then email me the new IDs, book names, book codes and region codes.
+CP ID	Short Name	Code	Region	Commodity	Uom	Currency	Commodity/UOM/Curr	P	B	Idx	GD	PHY	Y	
+FB-CENT1-CAD-GD?		CENT	NGGJ	GJ	CAD	NG/GJ/CAD	X	X	X			X	
+FB-CENT2-CAD		CENT	NGGJ	GJ	CAD	NG/GJ/CAD	X	X	X			X	
+FB-CENT3-CAD		CENT	NGGJ	GJ	CAD	NG/GJ/CAD	X	X	X			X	
+FB-CENT4-CAD		CENT	NGGJ	GJ	CAD	NG/GJ/CAD	X	X	X			X	
+FB-CENT5-CAD		CENT	NGGJ	GJ	CAD	NG/GJ/CAD	X	X	X			X	
+FB-CENT6-CAD		CENT	NGGJ	GJ	CAD	NG/GJ/CAD	X	X	X			X	
+Call me if you have any questions.  Thanks.
+Cecilia
+x53362
+The West books should be GD and GDY for Canadian deals.  I would think that the central books should have two set up, one for P/B/I and one for GD.  I believe I had called you and said that the books should be set up like FT-ONT-GDL for the gas daily books.  This is correct.  Thanks.
+PL
+Phillip/Kam,
+The following new Canadian gas books are all assigned to "MC" but a canadian book can either be price/basis/index or gasdaily but it cannot be both (otherwise cause problems in PortCalc).  I remember we discussed about this last time and I was told to use FT-ONTARIO as the example, but there are a lot of FT-ONTARIO books like FT-ONT-CENTRAL and FT-ONT-GDL with different setup 
+For example, 166860 has all P/B/Idx/GD checked which it shouldn't be.  And 166859 has GD checked so does it mean it should be set up as a Canadian gasdaily book?  Then if 166860 - 166877 are Canadian price/basis/index, another book code should be assigned instead of using MC.  Please advise.
+CP ID	Short Name	Code	Region	Commodity	Uom	Currency	Commodity/UOM/Curr	P	B	Idx	GD	PHY	Y	
+166860	FB-CENT1-CAD	MC	CENT	NGGJ	GJ	CAD	NG/GJ/CAD	X	X	X	X		X	
+166863	FB-CENT2-CAD	MC	CENT	NGGJ	GJ	CAD	NG/GJ/CAD	X	X	X	X		X	
+166867	FB-CENT3-CAD	MC	CENT	NGGJ	GJ	CAD	NG/GJ/CAD	X	X	X	X		X	
+166871	FB-CENT4-CAD	MC	CENT	NGGJ	GJ	CAD	NG/GJ/CAD	X	X	X	X		X	
+166875	FB-CENT5-CAD	MC	CENT	NGGJ	GJ	CAD	NG/GJ/CAD	X	X	X	X		X	
+166877	FB-CENT6-CAD	MC	CENT	NGGJ	GJ	CAD	NG/GJ/CAD	X	X	X	X		X	
+166859	FB-WEST1-CAD	MC	WEST	NGGJ	GJ	CAD	NG/GJ/CAD				X		X	
+166865	FB-WEST2-CAD	MC	WEST	NGGJ	GJ	CAD	NG/GJ/CAD				X		X	
+166869	FB-WEST3-CAD	MC	WEST	NGGJ	GJ	CAD	NG/GJ/CAD				X		X	
+166873	FB-WEST4-CAD	MC	WEST	NGGJ	GJ	CAD	NG/GJ/CAD				X		X	
+166876	FB-WEST5-CAD	MC	WEST	NGGJ	GJ	CAD	NG/GJ/CAD				X		X	
+166880	FB-WEST6-CAD	MC	WEST	NGGJ	GJ	CAD	NG/GJ/CAD				X		X	
+166881	FB-WEST7-CAD	MC	WEST	NGGJ	GJ	CAD	NG/GJ/CAD				X		X	
+166882	FB-WEST8-CAD	MC	WEST	NGGJ	GJ	CAD	NG/GJ/CAD				X		X	
+166883	FB-WEST9-CAD	MC	WEST	NGGJ	GJ	CAD	NG/GJ/CAD				X		X	
+Also as per our conversation with Kam, all PB-HDG books set up from the original list have been removed from the database as they were not supposed to be set up in Tagg/Erms.
+Thanks,
+Cecilia
+x53362
+I need all of your official post ids from your old books for the date of 11/30/01.  Please email them to me ASAP.
+PL
+Please modify the curve files you are currently loading to incorporate the database changes.  These changes need to be made today.  Please ask myself or Russ if you need any help.  Thanks.
+PL
+Currently the curves are being published into the old production database and are being replicated to the new environment 
+Here are the steps to migrate the Curve files to the new env.
+1)	Load new ODBC driver utilizing script provided
+A) Go to ( Start\Programs\System Utility Applic \ Installation&Diskette Creation)
+Double click on "ODBC DSN Entries for ERMT & ESTERMTP"
+This will load the correct ODBC on your machine
+2)   On the Publish tab in the Curve File sheet.
+Change the environment name on the 5th row to estermtp
+Change the service name on the 5th row to 7550 
+3) Then hit the   button on the publish sheet and save the new file.
+If the sheet does not have the button, just save the file, close it, and bring it back up.
+4)	Save your curves as normal
+5)	Any questions or problems, please give me a call 
+Russ
+X37386
+absolutely.  I will make the changes and have something to you this afternoon.
+PL
+Thanks.  Can we combine the file for Gas Daily and Physical Index curves - I will be updating this file and the Balance of the month file.  Keith Holst will update the CA basis, while Frank Ermis updates the ROX and SW file.
+Mike
+Attached is the curve file for phys and gas daily.  I made this extremely simple on our first pass, but I left in the tabs that were in the old/current file.  All you would do would be to go to the fin tab and hard code balance of month price for each of the curve locations(yellow column).  This will then set the gas daily curve.  We will continue to true up to gas daily each day.  You may want to also reset the next day's curve as well, since this is a hardcode, you simply type over the previous day's load.  The phys tab pulls from the fin tab and adds the phys prem to it.  We can increase the complexity of this file by adding formulas or tabs if you like.  I figure you will want to keep your model and I can pull info from there as well.  I simply wanted to start out at a baseline and build it to best fit your needs.  Please let me know what you would like to see changed and we will do it.  Thanks.
+PL
+Pretty funny.
+PL
+ > Ever wondered what it would be 
+like if Dear Abby were a man? 
+ 
+ 
+ > > > > > Life could be 
+so much simpler (for everyone > 
+ 
+ 
+ > > > > > Dear Mr. 
+Abby: 
+ 
+ > > > > > Q: My husband 
+wants a threesome with my best friend and me. 
+ 
+ 
+ > > > > > A: Obviously 
+your husband cannot get enough of you! Knowing 
+ 
+ > > > that there 
+ 
+ > > > is 
+ 
+ > > > > > only one of 
+you he can only settle for the next best thing > 
+ > > > your best 
+ 
+ > > > > > friend. Far 
+from being an issue, this can bring you closer 
+ 
+ > > > together. 
+ 
+ > > > Why 
+ 
+ > > > > > not get some 
+of your old college roommates involved too? If you 
+ 
+ > > > are 
+ 
+ > > > still 
+ 
+ > > > > > apprehensive, 
+maybe you should let him be with your friends 
+ 
+ > > > without 
+ 
+ > > > you. 
+ 
+ > > > > If 
+ 
+ 
+ > > > > > you're still 
+not sure then just perform oral sex on him and 
+ 
+ > > > cook him a 
+ 
+ > > > > nice 
+ 
+ > > > > > meal while 
+you think about it. 
+ 
+ 
+ 
+ > > > > > Dear Mr. 
+Abby: 
+ 
+ > > > > > Q: My husband 
+continually asks me to perform oral sex on him. 
+ 
+ 
+ > > > > > A: Do it. 
+Sperm can help you lose weight and gives a great glow 
+ 
+ > > > to your 
+ 
+ > > > > > skin. 
+Interestingly, men know this. His offer to allow you 
+to 
+ 
+ > > > perform 
+ 
+ > > > oral 
+ 
+ > > > > > sex on him is 
+totally selfless. This shows he loves you. The 
+ 
+ > > > best 
+ 
+ > > > thing 
+ 
+ > > > > to 
+ 
+ > > > > > do is to 
+thank him by performing it twice a day, then cook him 
+ 
+ > > > a nice 
+ 
+ > > > > meal. 
+ 
+ 
+ 
+ > > > > > Dear Mr. 
+Abby: 
+ 
+ > > > > > Q: My husband 
+has too many nights out with the boys. 
+ 
+ 
+ > > > > > A: This is 
+perfectly natural behavior and it should be 
+ 
+ > > > encouraged. The 
+ 
+ > > > > man 
+ 
+ > > > > > is a hunter 
+and he needs to prove his prowess with other men. 
+ 
+ > > > A night 
+ 
+ > > > out 
+ 
+ > > > > > chasing young 
+single girls is a great stress relief and can 
+ 
+ > > > foster a 
+ 
+ > > > more 
+ 
+ > > > > > peaceful and 
+relaxing home. Remember, nothing can rekindle 
+ 
+ > > > your 
+ 
+ > > > > relationship 
+ 
+ 
+ > > > > > better than 
+the man being away for a day or two (it's a great 
+ 
+ > > > time to 
+ 
+ > > > > clean 
+ 
+ > > > > > the house 
+too)! Just look at how emotional and happy he is when 
+ 
+ > > > he 
+ 
+ > > > returns 
+ 
+ > > > > > to his stable 
+home. The best thing to do when he gets home is 
+ 
+ > > > for you 
+ 
+ > > > and 
+ 
+ > > > > > your best 
+friend to perform oral sex on him. Then cook him a 
+ 
+ > > > nice 
+ 
+ > > > meal. 
+ 
+ 
+ 
+ > > > > > Dear Mr. 
+Abby: 
+ 
+ > > > > > Q: My husband 
+doesn't know where my clitoris is. 
+ 
+ 
+ > > > > > A: Your 
+clitoris is of no concern to your husband. If you must 
+ 
+ 
+ > > > mess 
+ 
+ > > > with 
+ 
+ > > > > it, 
+ 
+ 
+ > > > > > do it in your 
+own time or ask your best friend to help. You 
+ 
+ > > > may wish 
+ 
+ > > > to 
+ 
+ > > > > > videotape 
+yourself while doing this, and present it to your 
+ 
+ > > > husband as 
+ 
+ > > > a 
+ 
+ > > > > > birthday 
+gift. To ease your selfish guilt, perform oral sex on 
+ 
+ > > > him and 
+ 
+ > > > > cook 
+ 
+ 
+ > > > > > him a 
+delicious meal. 
+ 
+ 
+ 
+ > > > > > Dear Mr. 
+Abby: 
+ 
+ > > > > > Q: My husband 
+is uninterested in foreplay. 
+ 
+ 
+ > > > > > A: You are a 
+bad person for bringing it up and should seek 
+ 
+ > > > sensitivity 
+ 
+ > > > > > training. 
+Foreplay to a man is very stressful and time 
+ 
+ > > > consuming. Sex 
+ 
+ > > > > > should be 
+available to your husband on demand with no pesky 
+ 
+ > > > requests 
+ 
+ > > > for 
+ 
+ > > > > > foreplay. 
+What this means is that you do not love your man as 
+ 
+ > > > much as 
+ 
+ > > > you 
+ 
+ > > > > > should -- he 
+should never have to work to get you in the mood. 
+ 
+ > > > Stop 
+ 
+ > > > being 
+ 
+ > > > > so 
+ 
+ 
+ > > > > > selfish! 
+Perhaps you can make it up to him by performing oral 
+ 
+ > > > sex on 
+ 
+ > > > him 
+ 
+ > > > > > and cook him 
+a nice meal. 
+ 
+ 
+ 
+ > > > > > Dear Mr. 
+Abby: 
+ 
+ > > > > > Q: My husband 
+always has an orgasm then rolls over and goes to 
+ 
+ > > > sleep 
+ 
+ > > > never 
+ 
+ > > > > > giving me 
+one. 
+ 
+ 
+ > > > > > A: I'm not 
+sure I understand the problem. Perhaps you've 
+ 
+ > > > forgotten to 
+ 
+ > > > cook 
+ 
+ > > > > > him a nice 
+meal. 
+ 
+ 
+ 
+ 
+_____  
+Chat with friends 
+online, try MSN Messenger: >href >Here
+ 
+ 
+__________________________________________________ 
+Do You Yahoo >Send FREE video emails in Yahoo! Mail! 
+_____  
+Send and receive Hotmail on your mobile device: Click Here 
+The West books should be GD and GDY for Canadian deals.  I would think that the central books should have two set up, one for P/B/I and one for GD.  I believe I had called you and said that the books should be set up like FT-ONT-GDL for the gas daily books.  This is correct.  Thanks.
+PL
+Phillip/Kam,
+The following new Canadian gas books are all assigned to "MC" but a canadian book can either be price/basis/index or gasdaily but it cannot be both (otherwise cause problems in PortCalc).  I remember we discussed about this last time and I was told to use FT-ONTARIO as the example, but there are a lot of FT-ONTARIO books like FT-ONT-CENTRAL and FT-ONT-GDL with different setup 
+For example, 166860 has all P/B/Idx/GD checked which it shouldn't be.  And 166859 has GD checked so does it mean it should be set up as a Canadian gasdaily book?  Then if 166860 - 166877 are Canadian price/basis/index, another book code should be assigned instead of using MC.  Please advise.
+CP ID	Short Name	Code	Region	Commodity	Uom	Currency	Commodity/UOM/Curr	P	B	Idx	GD	PHY	Y	
+166860	FB-CENT1-CAD	MC	CENT	NGGJ	GJ	CAD	NG/GJ/CAD	X	X	X	X		X	
+166863	FB-CENT2-CAD	MC	CENT	NGGJ	GJ	CAD	NG/GJ/CAD	X	X	X	X		X	
+166867	FB-CENT3-CAD	MC	CENT	NGGJ	GJ	CAD	NG/GJ/CAD	X	X	X	X		X	
+166871	FB-CENT4-CAD	MC	CENT	NGGJ	GJ	CAD	NG/GJ/CAD	X	X	X	X		X	
+166875	FB-CENT5-CAD	MC	CENT	NGGJ	GJ	CAD	NG/GJ/CAD	X	X	X	X		X	
+166877	FB-CENT6-CAD	MC	CENT	NGGJ	GJ	CAD	NG/GJ/CAD	X	X	X	X		X	
+166859	FB-WEST1-CAD	MC	WEST	NGGJ	GJ	CAD	NG/GJ/CAD				X		X	
+166865	FB-WEST2-CAD	MC	WEST	NGGJ	GJ	CAD	NG/GJ/CAD				X		X	
+166869	FB-WEST3-CAD	MC	WEST	NGGJ	GJ	CAD	NG/GJ/CAD				X		X	
+166873	FB-WEST4-CAD	MC	WEST	NGGJ	GJ	CAD	NG/GJ/CAD				X		X	
+166876	FB-WEST5-CAD	MC	WEST	NGGJ	GJ	CAD	NG/GJ/CAD				X		X	
+166880	FB-WEST6-CAD	MC	WEST	NGGJ	GJ	CAD	NG/GJ/CAD				X		X	
+166881	FB-WEST7-CAD	MC	WEST	NGGJ	GJ	CAD	NG/GJ/CAD				X		X	
+166882	FB-WEST8-CAD	MC	WEST	NGGJ	GJ	CAD	NG/GJ/CAD				X		X	
+166883	FB-WEST9-CAD	MC	WEST	NGGJ	GJ	CAD	NG/GJ/CAD				X		X	
+Also as per our conversation with Kam, all PB-HDG books set up from the original list have been removed from the database as they were not supposed to be set up in Tagg/Erms.
+Thanks,
+Cecilia
+x53362
+thanks.  That sucks
+Thank you for your inquiry to our web site regarding collegiate license plates.
+The Texas Legislature provides the authority for us to issue collegiate plates.  We have not been provided with the authority to issue plates for any institution located in another state.
+If you have further questions, please contact the Special Plates Branch at (512) 374-5010 or contact one of our Customer Information Services Specialists in the Vehicle Titles and Registration Division at (512) 465-7611, Monday through Friday, between the hours of 8 a.m. and 5 p.m. CST.  When you call, please have the vehicle identification number (VIN) and the vehicle's registration expiration date handy.  Our Customer Information Specialists are available to discuss your vehicle title and registration inquiries in more detail.
+Notice to all Web Site Inquirers:  Please note that there may be additional information contained in the entire body of the law that also addresses these issues. While we make an effort to provide our Web inquirers with current information, we do not represent this information as a legal opinion or as an approval or disapproval, implied or explicit, for any action.
+should be Nicor and Northern Illinois.   If you want to round up the deal numbers/invoices and such, we can get together and I can show you the deals I am showing a variance on.  I took an adjustment to the desk for 5.7 million and that is for Jan 00 - Oct 01. production only.  Let me know.
+PL
+Oh it's noticeable alright!!  Nicor Enerchange, LLC shows an AR balance of $2.3M; Nicor Gas Company has a balance of $6.9M and Northern Illinois Gas Company has a balance of $7.7M.  Which one of those are we talking about??
+CJ
+I was under the impression that there was an outstanding A/R and A/P balance on this counterparty in the 4-5 million dollar range.  Should be pretty noticeable.
+PL
+You might want to call her and see if she can tell you anything.  I was assuming this was the totals still sitting on the ledger, but maybe not all of it.  Let me know if you can't reach her.
+In a word - NO!!  Can you clue me in on what you need?  I have Lisa's email address and phone number if you don't think we can find it 
+Chuck, Do you know the figures to give to Phillip?  I wasn't sure if Lisa filled you in on any of this before she left.
+The desk took the adjustment and we were waiting on Lisa to verify the amounts on the A/R.  We need to know the variance on the A/R by month to compare to my analysis and we can then change the prices in Sitara.  The desk took a 5.7 million dollar expense PMA.  Please let me know if and when you guys have the info and we can get it fixed in Sitara.  Until this gets done, OA will have a variance on flash to actual because the desk already took the adjustment - we wanted to get it in for year end.
+PL
+How is this going?  Jennifer Lee is OA is questioning the impact and is trying to understand everything so I sent her copies of our communications.  Any further communications need to copy her on since Lisa V. is no longer here.
+Thanks,
+Marlo
+still working.  I hope to have it completed before the week is out.  As I am sure you are experiencing as well all the fire drills that are currently going on around here, I have been running since I got back from vacation.  Believe me when I say this is a high priority for me as well because of all the potential P&L fallout for the traders who have been entering this information.
+PL
+How are things going with this.  We need to give updates to our leads.
+can you get me copies of the August Invoice.  Cora is very confident we have done everything correctly and I am still disagreeing with her(agreeing with you guys).  This is pretty confusing and they did not keep spreadsheets or data about these, so I am having trouble tying all the volumes.  Could you also get me copies of the pipeline statements for August.  It looks like I am also missing one of the pipeline statements from July as well.  I do not have the statement for the loan of 73,416.  Thanks.  I am sorry this is taking a while, this deal is very complex and traders/schedulers have not kept good records 
+PL 
+Here's what we have done for all the month's involved.  I'll have to copy the Nicor invoices and get them to you.  I will bring those down to you tomorrow morning.
+can you get me the info on August for Nicor, according to Cora Pendergrass I need to see august numbers because some of July's invoice has august volumes.  I would like a copy of all the stuff you guys gave me for July.  Thanks.
+PL
+Right now the parking and loaned deals that we did or do with NIPSCO are not being booked correctly in Unify.  The volumes are coming over onto Supply Verifications or Sales Invoices depending what we are doing.  These deals should be coming over to the service side so that I can be paying for these deals.  However, I do not have anything on the service side.  Therefore, I have a had to pay (paper) manuals to pay NIPSCO and Darla has outstanding A/R & A/P items since we do not invoice or pay NIPSCO for these deals.  I have requested that Marlene forward the service contracts that are currently in the system to verify what we have setup so that you can make sure the deals are setup and we can get these corrected in Unify.  I need to get my payables issues cleared up as well for the manuals I had to do to get them paid as interest was also charged.  If you need to meet up with Darla and I to show you what we have, please let us know.  The sooner we can get these resolved the better.
+Thanks,
+Marlo 
+Phillip is working on NICOR. I will work on NIPSCO. Marlo's e-mail was the first I have heard of this and it does not really describe what the issue is. Can somebody clue me in with the details? Thanks.
+Scott 
+Hi Phillip, 
+I saw your emails to Marlo James on the Nicor issue that said Scott Palmer would be taking over the Central desk.  I just wanted to see if it would be possible to put this on the highest priority.  Due to the current situation, we need to get this matter resolved ASAP to be able to clear off the balances left sitting on our A/R and A/P.  Let me know if there's any additional information that you would require from me. Again, I stress the urgency of resolving this.  Thanks for your help.  Please update me on any progress as soon as possible.
+Thanks 
+Darla Saucier 
+I think there is also some stuff under a subsidiary of NICOR, Northern Illinois.  Make sure both are included.  If you guys can get the balances and which deal numbers are outstanding I think we can match up with the CPR reports that I have.
+PL
+I can run the A/P for my side.  I don't know how much on the settlements side is all part of this issue since there are some true purchases and sales, I just don't want to give you figures that are not correct even though I know the majority of the balances belong to the cleanup.
+I was under the impression that there was an outstanding A/R and A/P balance on this counterparty in the 4-5 million dollar range.  Should be pretty noticeable.
+PL
+You might want to call her and see if she can tell you anything.  I was assuming this was the totals still sitting on the ledger, but maybe not all of it.  Let me know if you can't reach her.
+In a word - NO!!  Can you clue me in on what you need?  I have Lisa's email address and phone number if you don't think we can find it 
+Chuck, Do you know the figures to give to Phillip?  I wasn't sure if Lisa filled you in on any of this before she left.
+The desk took the adjustment and we were waiting on Lisa to verify the amounts on the A/R.  We need to know the variance on the A/R by month to compare to my analysis and we can then change the prices in Sitara.  The desk took a 5.7 million dollar expense PMA.  Please let me know if and when you guys have the info and we can get it fixed in Sitara.  Until this gets done, OA will have a variance on flash to actual because the desk already took the adjustment - we wanted to get it in for year end.
+PL
+How is this going?  Jennifer Lee is OA is questioning the impact and is trying to understand everything so I sent her copies of our communications.  Any further communications need to copy her on since Lisa V. is no longer here.
+Thanks,
+Marlo
+still working.  I hope to have it completed before the week is out.  As I am sure you are experiencing as well all the fire drills that are currently going on around here, I have been running since I got back from vacation.  Believe me when I say this is a high priority for me as well because of all the potential P&L fallout for the traders who have been entering this information.
+PL
+How are things going with this.  We need to give updates to our leads.
+can you get me copies of the August Invoice.  Cora is very confident we have done everything correctly and I am still disagreeing with her(agreeing with you guys).  This is pretty confusing and they did not keep spreadsheets or data about these, so I am having trouble tying all the volumes.  Could you also get me copies of the pipeline statements for August.  It looks like I am also missing one of the pipeline statements from July as well.  I do not have the statement for the loan of 73,416.  Thanks.  I am sorry this is taking a while, this deal is very complex and traders/schedulers have not kept good records 
+PL 
+Here's what we have done for all the month's involved.  I'll have to copy the Nicor invoices and get them to you.  I will bring those down to you tomorrow morning.
+can you get me the info on August for Nicor, according to Cora Pendergrass I need to see august numbers because some of July's invoice has august volumes.  I would like a copy of all the stuff you guys gave me for July.  Thanks.
+PL
+Right now the parking and loaned deals that we did or do with NIPSCO are not being booked correctly in Unify.  The volumes are coming over onto Supply Verifications or Sales Invoices depending what we are doing.  These deals should be coming over to the service side so that I can be paying for these deals.  However, I do not have anything on the service side.  Therefore, I have a had to pay (paper) manuals to pay NIPSCO and Darla has outstanding A/R & A/P items since we do not invoice or pay NIPSCO for these deals.  I have requested that Marlene forward the service contracts that are currently in the system to verify what we have setup so that you can make sure the deals are setup and we can get these corrected in Unify.  I need to get my payables issues cleared up as well for the manuals I had to do to get them paid as interest was also charged.  If you need to meet up with Darla and I to show you what we have, please let us know.  The sooner we can get these resolved the better.
+Thanks,
+Marlo 
+Phillip is working on NICOR. I will work on NIPSCO. Marlo's e-mail was the first I have heard of this and it does not really describe what the issue is. Can somebody clue me in with the details? Thanks.
+Scott 
+Hi Phillip, 
+I saw your emails to Marlo James on the Nicor issue that said Scott Palmer would be taking over the Central desk.  I just wanted to see if it would be possible to put this on the highest priority.  Due to the current situation, we need to get this matter resolved ASAP to be able to clear off the balances left sitting on our A/R and A/P.  Let me know if there's any additional information that you would require from me. Again, I stress the urgency of resolving this.  Thanks for your help.  Please update me on any progress as soon as possible.
+Thanks 
+Darla Saucier 
+I was under the impression that there was an outstanding A/R and A/P balance on this counterparty in the 4-5 million dollar range.  Should be pretty noticeable.
+PL
+You might want to call her and see if she can tell you anything.  I was assuming this was the totals still sitting on the ledger, but maybe not all of it.  Let me know if you can't reach her.
+In a word - NO!!  Can you clue me in on what you need?  I have Lisa's email address and phone number if you don't think we can find it 
+Chuck, Do you know the figures to give to Phillip?  I wasn't sure if Lisa filled you in on any of this before she left.
+The desk took the adjustment and we were waiting on Lisa to verify the amounts on the A/R.  We need to know the variance on the A/R by month to compare to my analysis and we can then change the prices in Sitara.  The desk took a 5.7 million dollar expense PMA.  Please let me know if and when you guys have the info and we can get it fixed in Sitara.  Until this gets done, OA will have a variance on flash to actual because the desk already took the adjustment - we wanted to get it in for year end.
+PL
+How is this going?  Jennifer Lee is OA is questioning the impact and is trying to understand everything so I sent her copies of our communications.  Any further communications need to copy her on since Lisa V. is no longer here.
+Thanks,
+Marlo
+still working.  I hope to have it completed before the week is out.  As I am sure you are experiencing as well all the fire drills that are currently going on around here, I have been running since I got back from vacation.  Believe me when I say this is a high priority for me as well because of all the potential P&L fallout for the traders who have been entering this information.
+PL
+How are things going with this.  We need to give updates to our leads.
+can you get me copies of the August Invoice.  Cora is very confident we have done everything correctly and I am still disagreeing with her(agreeing with you guys).  This is pretty confusing and they did not keep spreadsheets or data about these, so I am having trouble tying all the volumes.  Could you also get me copies of the pipeline statements for August.  It looks like I am also missing one of the pipeline statements from July as well.  I do not have the statement for the loan of 73,416.  Thanks.  I am sorry this is taking a while, this deal is very complex and traders/schedulers have not kept good records 
+PL 
+Here's what we have done for all the month's involved.  I'll have to copy the Nicor invoices and get them to you.  I will bring those down to you tomorrow morning.
+can you get me the info on August for Nicor, according to Cora Pendergrass I need to see august numbers because some of July's invoice has august volumes.  I would like a copy of all the stuff you guys gave me for July.  Thanks.
+PL
+Right now the parking and loaned deals that we did or do with NIPSCO are not being booked correctly in Unify.  The volumes are coming over onto Supply Verifications or Sales Invoices depending what we are doing.  These deals should be coming over to the service side so that I can be paying for these deals.  However, I do not have anything on the service side.  Therefore, I have a had to pay (paper) manuals to pay NIPSCO and Darla has outstanding A/R & A/P items since we do not invoice or pay NIPSCO for these deals.  I have requested that Marlene forward the service contracts that are currently in the system to verify what we have setup so that you can make sure the deals are setup and we can get these corrected in Unify.  I need to get my payables issues cleared up as well for the manuals I had to do to get them paid as interest was also charged.  If you need to meet up with Darla and I to show you what we have, please let us know.  The sooner we can get these resolved the better.
+Thanks,
+Marlo 
+Phillip is working on NICOR. I will work on NIPSCO. Marlo's e-mail was the first I have heard of this and it does not really describe what the issue is. Can somebody clue me in with the details? Thanks.
+Scott 
+Hi Phillip, 
+I saw your emails to Marlo James on the Nicor issue that said Scott Palmer would be taking over the Central desk.  I just wanted to see if it would be possible to put this on the highest priority.  Due to the current situation, we need to get this matter resolved ASAP to be able to clear off the balances left sitting on our A/R and A/P.  Let me know if there's any additional information that you would require from me. Again, I stress the urgency of resolving this.  Thanks for your help.  Please update me on any progress as soon as possible.
+Thanks 
+Darla Saucier 
+March 13-16th.  You in?
+Not yet! When are you going to be in Vegas?
+Jilly
+any changes in the Jazz Fest verdict?
+PL
+Just another day in the life of P.Love.
+I hope all is well.
+Jilly
+There are rumors around here that all the employees going to the new
+company
+- UBS Energy will be taken off of the Enron servers tomorrow.  If this
+is
+true, I do not know what or when my email service at work will be back
+up.
+Please send in the mean time any emails to plove@houston.rr.com.
+Thanks.
+Hope all of you are doing well.
+PL
+- winmail.dat  
+I will get her on it.  I will have her wear on denise in the same manner I am wearing on you.
+PL
+You need to have Ash start wearing down Denise.
+Jilly
+hahaha.  I am talking to Bosse on the phone and both of us fell out of our
+chairs with that one...You kill me chef Vito.
+PL
+P.S. Bosse said bring your ass to New Orleans
+I should hire you as a travel agent.
+I just saw a fare from SD for $68 roundtrip....I have to seriously
+consider
+moving out there if it is that cheap to go to Vegas.
+PL
+I hope they move to L.A.  GO RAIDERS
+that is absolutely hilarious.  I have heard a rumor that the Chargers
+are
+considering moving to LA....Is that correct?  That will be absolutely
+horrendous.  I saw the game of the century the other day on ESPN
+classics...Chargers vs. Dolphins 1983.  Truly awesome.  My man at the
+time
+Winslow(racist) got carried off three times.
+PL
+YEAH
+I can not open the file...Is this the kid from the man show
+selling
+beer?
+I have also seen him trying to buy beer.
+PL
+Get a load of this cat.
+Jilly
+Funny Stuff!
+Dave Aabram
+MPE CONSULTING
+9466 Black Mountain Road
+Suite #250
+San Diego, CA  92126
+(p) 858.578.4788
+(f) 858.578-4761
+e-mail: dave@mpeconsulting.com
+- winmail.dat  
+just win baby 
+The Raiders have always been my team. The Chargers are my Home team.
+I will ask about the Vegas weekend.
+Jilly
+What????  I thought that was your team?  I am a big raiders fan and I hope
+Chucky gets that ring this year.  Hey, FYI, we are getting a guys trip to
+Las Vegas for the first weekend of March Madness if you are interested -
+March 13-16th.  Got a room at the Mirage and it is $120 per person for the
+three nights.  I figure air fare is pretty cheap from SD, let me know if
+you are interested.  Take care.
+PL
+I hope they move to L.A.  GO RAIDERS
+that is absolutely hilarious.  I have heard a rumor that the Chargers
+are
+considering moving to LA....Is that correct?  That will be absolutely
+horrendous.  I saw the game of the century the other day on ESPN
+classics...Chargers vs. Dolphins 1983.  Truly awesome.  My man at the
+time
+Winslow(racist) got carried off three times.
+PL
+YEAH
+I can not open the file...Is this the kid from the man show selling
+beer?
+I have also seen him trying to buy beer.
+PL
+Get a load of this cat.
+Jilly
+Funny Stuff!
+Dave Aabram
+MPE CONSULTING
+9466 Black Mountain Road
+Suite #250
+San Diego, CA  92126
+(p) 858.578.4788
+(f) 858.578-4761
+e-mail: dave@mpeconsulting.com
+- winmail.dat  
+hahaha.  I am talking to Bosse on the phone and both of us fell out of our chairs with that one...You kill me chef Vito PL
+P.S. Bosse said bring your ass to New Orleans
+I should hire you as a travel agent.
+I just saw a fare from SD for $68 roundtrip....I have to seriously consider
+moving out there if it is that cheap to go to Vegas.
+PL
+I hope they move to L.A.  GO RAIDERS
+that is absolutely hilarious.  I have heard a rumor that the Chargers
+are
+considering moving to LA....Is that correct?  That will be absolutely
+horrendous.  I saw the game of the century the other day on ESPN
+classics...Chargers vs. Dolphins 1983.  Truly awesome.  My man at the
+time
+Winslow(racist) got carried off three times.
+PL
+YEAH
+I can not open the file...Is this the kid from the man show selling
+beer?
+I have also seen him trying to buy beer.
+PL
+Get a load of this cat.
+Jilly
+Funny Stuff!
+Dave Aabram
+MPE CONSULTING
+9466 Black Mountain Road
+Suite #250
+San Diego, CA  92126
+(p) 858.578.4788
+(f) 858.578-4761
+e-mail: dave@mpeconsulting.com
+- winmail.dat  
+I just saw a fare from SD for $68 roundtrip....I have to seriously consider moving out there if it is that cheap to go to Vegas.
+PL
+I hope they move to L.A.  GO RAIDERS
+that is absolutely hilarious.  I have heard a rumor that the Chargers are
+considering moving to LA....Is that correct?  That will be absolutely
+horrendous.  I saw the game of the century the other day on ESPN
+classics...Chargers vs. Dolphins 1983.  Truly awesome.  My man at the time
+Winslow(racist) got carried off three times.
+PL
+YEAH
+I can not open the file...Is this the kid from the man show selling
+beer?
+I have also seen him trying to buy beer.
+PL
+Get a load of this cat.
+Jilly
+Funny Stuff!
+Dave Aabram
+MPE CONSULTING
+9466 Black Mountain Road
+Suite #250
+San Diego, CA  92126
+(p) 858.578.4788
+(f) 858.578-4761
+e-mail: dave@mpeconsulting.com
+- winmail.dat  
+What????  I thought that was your team?  I am a big raiders fan and I hope Chucky gets that ring this year.  Hey, FYI, we are getting a guys trip to Las Vegas for the first weekend of March Madness if you are interested - March 13-16th.  Got a room at the Mirage and it is $120 per person for the three nights.  I figure air fare is pretty cheap from SD, let me know if you are interested.  Take care.
+PL
+I hope they move to L.A.  GO RAIDERS
+that is absolutely hilarious.  I have heard a rumor that the Chargers are
+considering moving to LA....Is that correct?  That will be absolutely
+horrendous.  I saw the game of the century the other day on ESPN
+classics...Chargers vs. Dolphins 1983.  Truly awesome.  My man at the time
+Winslow(racist) got carried off three times.
+PL
+YEAH
+I can not open the file...Is this the kid from the man show selling
+beer?
+I have also seen him trying to buy beer.
+PL
+Get a load of this cat.
+Jilly
+Funny Stuff!
+Dave Aabram
+MPE CONSULTING
+9466 Black Mountain Road
+Suite #250
+San Diego, CA  92126
+(p) 858.578.4788
+(f) 858.578-4761
+e-mail: dave@mpeconsulting.com
+- winmail.dat  
+Attached is the curve file for phys and gas daily.  I made this extremely simple on our first pass, but I left in the tabs that were in the old/current file.  All you would do would be to go to the fin tab and hard code balance of month price for each of the curve locations(yellow column).  This will then set the gas daily curve.  We will continue to true up to gas daily each day.  You may want to also reset the next day's curve as well, since this is a hardcode, you simply type over the previous day's load.  The phys tab pulls from the fin tab and adds the phys prem to it.  We can increase the complexity of this file by adding formulas or tabs if you like.  I figure you will want to keep your model and I can pull info from there as well.  I simply wanted to start out at a baseline and build it to best fit your needs.  Please let me know what you would like to see changed and we will do it.  Thanks.
+PL
+that is absolutely hilarious.  I have heard a rumor that the Chargers are considering moving to LA....Is that correct?  That will be absolutely horrendous.  I saw the game of the century the other day on ESPN classics...Chargers vs. Dolphins 1983.  Truly awesome.  My man at the time Winslow(racist) got carried off three times.
+PL
+YEAH
+I can not open the file...Is this the kid from the man show selling beer?
+I have also seen him trying to buy beer.
+PL
+Get a load of this cat.
+Jilly
+Funny Stuff!
+Dave Aabram
+MPE CONSULTING
+9466 Black Mountain Road
+Suite #250
+San Diego, CA  92126
+(p) 858.578.4788
+(f) 858.578-4761
+e-mail: dave@mpeconsulting.com
+- winmail.dat  
+I can not open the file...Is this the kid from the man show selling beer?  I have also seen him trying to buy beer.
+PL
+Get a load of this cat.
+Jilly
+Funny Stuff!
+Dave Aabram
+MPE CONSULTING
+9466 Black Mountain Road
+Suite #250
+San Diego, CA  92126
+(p) 858.578.4788
+(f) 858.578-4761
+e-mail: dave@mpeconsulting.com
+- winmail.dat  
+I guess it was a bad day to take a ride in an Afghan tank. Read the note
+below.
+ This was just sent to me by a friend on the USS John C. Stennis.  He
+ was
+the
+ strike element lead on this attack, and received these pictures as a
+"thank
+ you" from the US Army controllers on the ground. It is an excellent
+example
+ of a joint, combined arms operation.

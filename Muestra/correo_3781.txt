@@ -1,0 +1,428 @@
+,
+Tim Roberts, SHOP PU
+AO Production Technologist
+Through Terminal Server 
+If you're receiving this email its because we're still waiting on a response from you.  Please reply to this message ASAP.  See below for details.
+Thanks,
+Dan
+We are in the process of confirming that all traders are set up correctly and ready to trade when the system goes live. 
+We need to make sure that your Stack Managers are accessing the correct database. In order to do this, we need to know how you access Stack Manager:
+1) Through Terminal Server (the one that opens up a desktop within a desktop and it actually appears that you have two Start buttons or
+2) By opening the Stack Manager directly from your "native" desktop (stand alone computer).
+Please reply to this message with either a corresponding "1" or a "2" in the subject field.
+If you're not sure which one you have, please contact myself x39673, Teresa Mandola x39807 or Jennifer McQuade x53614 and we'll come by your desk to help you.
+Thank you,
+Dan Diamond
+Jeanie,
+Here is my Resume 
+Please, Please, Please hire me 
+Jon
+Term Prices were down about $0.10/GJ.
+Jon
+Based on the comments in the call this am it sounded like Day gas was down 70c from Friday.  How much do I need to adjust Friday's curves for pricing?
+KJ
+Hi Rod,
+I am forwarding this e-mail just to let you know what I am being told as far as selecting a realtor (see below).  Today I am going to talk to the relocation people and do what I can about keeping things going with you.  The relocation people don't sound like they know what is going on, as demonstrated by their reference to "favorable tax treatment", but if they insist on having Royal LePage I wanted to see if you could speak to them directly.  My preference is to have you represent me, but if they are "paying the bills" I may have little choice.
+,
+Jon
+John:
+I did some investigating on the Canadian homesale piece and found out some
+interesting facts.  First one and the most important one is that I will not
+be handling that piece of the relocation.  Instead a young woman by the name
+of Severine Jennings will be handling that our of our International
+Department and her number is 800/241-6529 ext. 75910.  She specializes in
+Canadian properties and will be the better person to assist you.
+Secondly, there is a real need for you to use Royal LePage as the agency to
+list your home and the reason is that they know everything there is to know
+about the favorable tax treatment on sale of your home.  They know how to
+handle the sale in the "U.S. way" and they follow all the strict guidelines
+of relocation.  Severine will contact you to go over all this with you
+tomorrow.
+I will still be your contact for all othe aspects of your relocation.
+Remember, Billie will call you tomorrow to get you wiring information for
+your lump sum calculations.
+Talk to you on Monday - have a great weekend.
+Cami Mursch, CRP
+Mobility Consultant
+CitiCapital Relocation
+Enron Relo Team
+800/241-6529 ext 75262
+972/657-5262 - direct dial
+972-657-6077 - fax
+camilla_mursch@afcc.com
+Gentlemen;
+For your perusal and comments is a memo outlining the issues raised by the National Energy Board with respect to TransCanada PipeLines Ltd's 2001 and 2002 Tolls application and their relevance to Enron.
+I would be pleased to schedule a time to meet with you to discuss the implications to Enron. Alternatively, you could call me at 6747 or email your comments.
+Thanks,
+Fino Tiberi
+Manager, Government Affairs
+Enron Energy Services Canada Co. Ltd
+(403) 974-6747
+Nov 01 1 year  C$4.92/gj
+Hi Jon;
+This client is looking to contract today. Please give me a live price per the attached file.
+Thanks, Mark.
+Mark, 
+Do you remember this agreement?  I think I told you to pass it along to the new lawyer when he came and I was wondering if this was done, and if I should follow up with him 
+They certainly are persistent in getting us to sign this.
+Please direct me as to what I should be doing 
+,
+Jon
+PS. When you comin' back?
+Hello Mr. McKay
+Please advise on the status of the Powermatch agreement for the above order
+number,and and the estimated return date so I can update the order accordingly.
+Please let me know if you have any questions. Be sure to reference your order
+number on any return correspondence.
+Sean Kelly
+Bloomberg Contracts
+(ph) 212-318-3540
+(fx) 917-369-5540
+1 Year	4.782
+2 Year  4.855
+3 Year  4.885
+Jon   
+Jon
+Could you please provide us with some indicative prices based on a typical load profile.  Out of October 01.
+(1,3,5yrs)
+Month	Volume	
+1	    188,091 	
+2	    128,452 	
+3	    126,159 	
+4	      84,870 	
+5	      64,226 	
+6	      34,407 	
+7	      34,407 	
+8	      30,966 	
+9	      64,226 	
+10	      86,017 	
+11	    133,040 	
+12	    172,034 	
+Total:	 1,146,896 	
+Thanks
+KJ
+CONFIDENTIAL
+If you are not the intended recipient of this document, any disclosure, copying, distribution or other use is prohibited and may be illegal.  Please notify sender immediately if you have received this document in error.
+Thank you.
+Received: by CNRLNTS13 with Internet Mail Service (5.5.2650.21)	id  
+- Stampede Drinking.doc 
+this person does not report to me.
+This request has been pending your approval for  3 days.  Please click   to review and act upon this request.
+Request ID          : 000000000043773
+Request Create Date : 6/29/01 3:33:30 PM
+Requested For       : fabian.taylor@
+Resource Name       : EOL Canada Backoffice Product Data Manager
+Resource Type       : Applications
+Jay,
+The never ending saga of Enrononline vs. NGX continues.
+Under our settle agreement with NGX, we (somehow) agreed to provide NGX with a password and ID that would allow them to see the products on enrononline that coincide with the index's that we are providing data to.  As a temporary solution I created a filer under my master user Id that gives them all physical Alberta gas products one month and under.  The problem is they can see the rest of month product bid/offer and the product descriptions of other Enrononline products 
+Would it be possible to set up a password and user ID for enrononline that only shows the products we are contributing to?  Or at a minimum, have them set up so they have their own limited access that is not associated with my login.
+Call me when you get a chance (403) 974 - 6733.
+Happy 4th of July,
+Jon
+I guess I'm not sure what you are after?  Do you have an example of another one that I could work off of ?  If I had a better idea of what kind of thing were suppose to be included I could probably get you something else.   Are we after more words or more duties.
+Jon
+Hey Jonathan
+anyway in which you could expand this?  If not, I will send it on and see what the feedback is.
+Karen.
+I hope this works Hi Jonathan
+Don't forget to send me your job description (word doc will work).
+Thanks,
+Karen.
+Please note that because this event of force majeure is at the plant, and not on the pipe, it does not qualify as an event of force majeure under our contract.  Any deals we have that are not done under a Enron contract will probably have force majeure applied to them.
+Please endeavor to find commercially reasonable terms to work around this problem regardless of who's contract the deal was done under.
+,
+Jon
+NOTICE OF FORCE MAJEURE
+McMahon gas plant
+Westcoast Energy Inc. hereby gives notice pursuant to Section 19.03 of its
+General Terms and Conditions for Service of an occurrence of Force Majeure
+at Westcoast Energy's McMahon Gas plant on Saturday June 30, 2001.
+At approximately 0714 hours PST on Saturday June 30, 2001 WEI McMahon gas
+plant experienced a total loss of utility steam generation capability within
+the facility. This failure resulted in total loss of processing capacity at
+the facility. Westcoast Energy Inc. is currently working to return the
+facility to full operation.
+Shippers will be kept informed about the operational status of the event via
+the WEI Flow Phone (604-691-5555).
+For more information on the above Force Majeure, Shippers please contact the
+WEI customer service representative on call, Cynthia Scott.  Cynthia can be
+reached at pager number 403.716.8748 or cellular 403.862.4836.
+Murray Bennett
+WEI Field Services Outage Coordinator
+Cellular - (250) 262-6313
+Dated at Ft. St. John, British Columbia, this 30th day of June, 2001
+Murray Bennett
+WEI FS Outages and Reliability
+250-262-3460 or 6313
+Yes, all trades have and associated contract that outlines the "performance obligations" and this is similar to NGX's.  Still waiting to talk to a lawyer on the other issues.  I will get it to you today.
+Jon
+HI Guys, 
+Thanks for the Data files you sent, if I have any other questions, I will contact you guys today sometime this afternoon. 
+Jonathan, Graham and myself were talking to NGX and they said that they almost always have contracts that have "Firm Performance Obligations" and that are non-interruptible.  Is that the same for Enron as well?  And I just wanted to confirm that I will be receiving the policies and procedures for how trades-in-error and breakdowns in communication are dealt with, sometime this afternoon.
+Thankyou, 
+NAZAM JAMAL 
+Consultant 
+Enterprise Risk Services 
+Deloitte & Touche LLP 
+(Direct: (403) 503-1387 
+.Fax:     (403) 263-2390 
+*E-mail: njamal@deloitte.ca 
+Call me on this one.  I think AECO would actually be better due to the fact that plant gate gas in Saskatchewan trades at AECO - X.  Therefore an AECO hedge may be more appropriate to match up their risk.
+Hope all is going well.
+Jon 
+Jon
+Boardwalk are looking at hedging the gas for their properties in Saskatchewan.  What would you recommend or a financial hedge?  AECO, Empress??
+KJ
+IN
+Guys, I have booked a time at Carnmoney for Monday afternoon at 3:57pm. Please let me know if you are in ASAP.
+Thanks Dean
+Did you know before me??............You always seem to.   I'll let you know when the beers are flowing. 
+See ya then.
+Jon
+Congrats..Good news travels fast... So when are you taking me for a beer to
+tell me all about the pending move?
+Cheers
+Could you please do me a favor.
+Deloitte is auditing our NGX feed process and they need to be able to check the integrity of our data.  Grahan Larson at Deloitte wanted us to run the query that is outline in the word doc attached with a few alterations.  He was wondering if we could include the counter party ID, counterpart flag, and the counterpart name in the query we send to him?  Could you please coordinate getting him the information he needs.   His phone number is 630-7618.
+Thanks,
+Jon
+Hi Jonathan.  The attached email contains the requested information regarding Enron security policies.  Additionally, the enclosed document addresses the internal/external issue.  This is the set of information D & T asked me to pass to you to send on to them.
+Thanks!
+--jay
+Jay,
+Attached are the Enron Code of Ethics, which includes Enron's IT Security Policies for employees, and the Enron IT Control Standards, which are the standards against which IT controls are audited by Arthur Andersen, our internal auditors. As you are aware, every employee must sign an acknowledgement that they have read and agree to abide by the Code of Ethics once a year.
+In addition to these documented policies, Enron also has a group, IT Compliance - the group I work in, that is responsible for managing Enron's IT risks and ensuring compliance with policies.
+I hope this is what you were looking for. Please call if there is anything else we can help with.
+Mark Thibodeaux
+Director - IT Compliance
+Enron Corp.
+No problem....go ahead.
+11:15 am - 2:00 pm
+what time do you need it for?
+Hi Jon,
+I wanted to ask if I could use the Video 1 Boardroom for Leadership Training tomorrow.  It is available, but I was informed that I needed to ask you first if we have an outside guest.  Michele Brown is the facilitator (the numbers on the board should mean nothing to her as she is not from the industry) and everyone else is internal.  We were unable to book our regular room at the E&Y Tower and Video 2 is a little crowded.  Could you please let me know as soon as possible.  Thanks.
+Carla
+x 6996
+what time do you need it for?
+Hi Jon,
+I wanted to ask if I could use the Video 1 Boardroom for Leadership Training tomorrow.  It is available, but I was informed that I needed to ask you first if we have an outside guest.  Michele Brown is the facilitator (the numbers on the board should mean nothing to her as she is not from the industry) and everyone else is internal.  We were unable to book our regular room at the E&Y Tower and Video 2 is a little crowded.  Could you please let me know as soon as possible.  Thanks.
+Carla
+x 6996
+Shyla,
+I hope its going well!
+I just wanted to respond to your request to have the buy's/sell's outline for you in the summery of one month trades.  Could you please explain why you need this information to complete your pie chart?  It would be my  preference not to include this information as our trading positions could be piece together prior to us having time to close out of those positions.  The risk of outside parties knowing our positions is of grave concern and it would be my preference to avoid this if at all possible.
+Please give me a call to discuss.
+,
+Jon 
+I hope this works 
+Hi Jonathan
+Don't forget to send me your job description (word doc will work).
+Thanks,
+Karen.
+Jonathan,
+Per Jay's request I am forwarding you the E-Commerce Group Org Chart to be passed on to D&T
+Thanks,
+Mary
+Ryan could you make contact with Jesus and be his contact for pricing. 
+Could you set up a process (maybe the bidfax) where by he can get daily pricing info.
+Thanks,
+Jon
+John,
+Would it be possible for you to assign one person that is easily accessible to provide Jesus with indicative pricing for Empress throughout the month?  Possibly Ryan Watt? Maybe you could include Jesus on an email distribution list (if there is such a thing) to provide him with indicatives.  We have one customer in particular that likes kicking tires, and Jesus doesn't like bothering you guys all the time for him 
+T. Scott Campbell
+Enron Energy Services Canada Co. Ltd.
+3500 Canterra Tower
+400 - 3rd Avenue S.W.
+Calgary, AB T2P 4H2
+ph 403-974-6789
+fax 403-974-6991
+ENRON CHAIRMAN GREETED WITH CREAM PIE IN CALIFORNIA
+Enron Corp President Jeff Skilling defended his company's
+role in the California power crisis and got a cream pie in his
+face for his trouble, reports Reuters. Skilling, speaking at the
+Commonwealth Club of California, attacked the Golden State's
+botched deregulation, adding: "People in California are angry,
+and they should be." The pie thrower was ejected from the
+meeting.
+Later, Skilling voiced doubts about FERC's implementation of
+limited price caps saying they could work against the free market
+principle and put a damper on investment in new generation the
+state badly needs. He suggested that a combination of new
+generating capacity, a more rational regulatory framework and
+consumer conservation could bring prices down. "This one is easy
+to fix, and it will be fixed," Skilling concluded. "You'll get
+supply, you'll get reduction in demand, and prices will
+collapse."
+Meanwhile, today's Washington Post reports that Duke Energy
+has been ordered by FERC to pay millions of dollars in refunds to
+California, turning down the energy generator's explanation of
+the high prices it charged in January for wholesale power. Duke
+was told it should have charged no more than $273 per megawatt
+hour, while the utility argued that charging nearly $3,900 MWH
+during short supply periods was alright because it risked not
+getting paid  (Reuters, June 21, Washington Post, pg. E-2, June
+22 
+Hi Jonathan.  The attached email contains the requested information regarding Enron security policies.  Additionally, the enclosed document addresses the internal/external issue.  This is the set of information D & T asked me to pass to you to send on to them.
+Thanks!
+--jay
+Jay,
+Attached are the Enron Code of Ethics, which includes Enron's IT Security Policies for employees, and the Enron IT Control Standards, which are the standards against which IT controls are audited by Arthur Andersen, our internal auditors. As you are aware, every employee must sign an acknowledgement that they have read and agree to abide by the Code of Ethics once a year.
+In addition to these documented policies, Enron also has a group, IT Compliance - the group I work in, that is responsible for managing Enron's IT risks and ensuring compliance with policies.
+I hope this is what you were looking for. Please call if there is anything else we can help with.
+Mark Thibodeaux
+Director - IT Compliance
+Enron Corp.
+Please review the attached fx memo I have prepared.  Can every body meet Monday June 25th at 2:00 pm to go over it?
+This is the memo that we are going to give to the doorstep auditors and it will also provide me guidance as to the way to proceed in solving our fx issues.
+Kathy
+I am out of the office on Monday afternoon.  Can we meet on Tuesday instead?
+Peggy
+Please review the attached fx memo I have prepared.  Can every body meet Monday June 25th at 2:00 pm to go over it?
+This is the memo that we are going to give to the doorstep auditors and it will also provide me guidance as to the way to proceed in solving our fx issues.
+Kathy
+Hi Jon,  A quick update:
+The NGX guys are getting data fine this morning.  They are now working on the conversion of that do their system, but all looks fine from our end.
+--jay
+The numbers looked good for the 18th's report of numbers for the 15th.  We will watch them closely for a couple of days.  So far 1 for 1.
+Thanks,
+Jon
+The basis numbers published for the 14th were quite different for three of the numbers published
+Sumas CashSpread:  Correct basis:  -.495;  Basis Published: -.315
+Aeco CashSpread:     Correct basis:  --.478;  Basis Published: -.536
+Sumas June Spread:     Correct basis: -.45;  Basis Published +.055
+The Sumas June spread is WAY off.
+Would you be able to get the numbers fixed for the 15th publication.  We have received a phone call for three days in a row now from Lavo wondering why we marked our curves so off.  We have not marked our curves wrong but the report is wrong.  If this schedule helps I can send it tonight as well.  As I have stated before it would not be correct to get Aeco and Sumas IM numbers for ANY pubcode other that Sumas-US/IM or Aeco-Cdn/IM.  The other pubcodes are not correct 100% of the time. 
+Kathy
+Would LOVE to..............however, unable to attend due to prior commitments.  Have a glass for me.
+,
+Jon
+Jon
+Are you coming to the BBQ this saturday?
+KJ
+Jay,
+Thanks for all your work on the NGX issue.  I talked with them today and Dan said all that he need was a Address, ID, and Password to get up and going on their side.  Could you please contact Dan, at your convenience, with this information at (403) 974-4335.
+Again, thanks for the quick turnaround.
+,
+Jon
+- Quotes2.xls 
+- enequotes.xls 
+Confidentiality note: This e-mail contains information from the
+GFI Group Inc. and/or its affiliates, including GFInet inc.,
+that is confidential and/or legally privileged.   This
+information is intended only for the use of the individual or
+entity named on this e-mail.  This e-mail and its content may
+not be reproduced or retransmitted without the express written
+permission of The GFI Group.
+- Quotes.xls 
+i was out friday, heres the closing #'s for the northeast 12/10/01.
+Confidentiality note: This e-mail contains information from the
+GFI Group Inc. and/or its affiliates, including GFInet inc.,
+that is confidential and/or legally privileged.   This
+information is intended only for the use of the individual or
+entity named on this e-mail.  This e-mail and its content may
+not be reproduced or retransmitted without the express written
+permission of The GFI Group.
+- Quotes.xls 
+- Quotes1210.xls 
+- Quotes21.xls 
+- enequotes.xls 
+The transfer of your securities and mutual funds is in process.  There
+are a few Canadian items that will not transfer.  You mentioned that you
+would like to sell the Canadian securities and transfer the cash.  Can
+you please call Dale Onrait at 250-712-2195 and have him liquidate the
+Canadian positions and tell him you would like the proceeds and the
+Candian cash to be converted to US dollars and transfered to RBC Dain
+Rauscher.  This instruction must come from you.  If you have any
+questions, please give me a call.
+Stephen P. Brown
+Financial Consultant
+RBC Dain Rauscher
+2000 West Sam Houston Parkway South, Suite #1500
+Houston, TX  77042
+Phone: 713-623-9258
+Fax: 713-623-9283
+888-246-6675
+- Quotes1211.xls 
+- Quotes21.xls 
+- enequotes.xls 
+- Quotes1212.xls 
+Confidentiality note: This e-mail contains information from the
+GFI Group Inc. and/or its affiliates, including GFInet inc.,
+that is confidential and/or legally privileged.   This
+information is intended only for the use of the individual or
+entity named on this e-mail.  This e-mail and its content may
+not be reproduced or retransmitted without the express written
+permission of The GFI Group.
+- Quotes1.xls 
+- Quotes21.xls 
+- enequotes.xls 
+- Quotes1213.xls 
+- Quotes21.xls 
+- Quotes1214.xls 
+Confidentiality note: This e-mail contains information from the
+GFI Group Inc. and/or its affiliates, including GFInet inc.,
+that is confidential and/or legally privileged.   This
+information is intended only for the use of the individual or
+entity named on this e-mail.  This e-mail and its content may
+not be reproduced or retransmitted without the express written
+permission of The GFI Group.
+- Quotes1.xls 
+- enequotes.xls 
+- Quotes21.xls 
+- Quotes1217.xls 
+- Quotes21.xls 
+- enequotes.xls 
+jon,
+i apologize but i havent had any good northeast markets this week. hopefully
+tomorrow i'll have some for you.
+be well.
+john
+Confidentiality note: This e-mail contains information from the
+GFI Group Inc. and/or its affiliates, including GFInet inc.,
+that is confidential and/or legally privileged.   This
+information is intended only for the use of the individual or
+entity named on this e-mail.  This e-mail and its content may
+not be reproduced or retransmitted without the express written
+permission of The GFI Group.
+- Quotes1218.xls 
+- Quotes21.xls 
+- enequotes.xls 
+- Quotes21.xls 
+- Quotes1219.xls 
+northeast a bit.  merry christmas.
+john
+Confidentiality note: This e-mail contains information from the
+GFI Group Inc. and/or its affiliates, including GFInet inc.,
+that is confidential and/or legally privileged.   This
+information is intended only for the use of the individual or
+entity named on this e-mail.  This e-mail and its content may
+not be reproduced or retransmitted without the express written
+permission of The GFI Group.
+- Quotes.xls 
+- Quotes1220.xls 
+- enequotes.xls 
+- Quotes21.xls 
+- Quotes21.xls 
+- enequotes.xls 
+- Quotes21.xls 
+- Quotes21.xls 
+- enequotes.xls 
+- enequotes.xls 
+- Quotes21.xls 
+- Quotes21.xls 
+- Quotes21.xls 
+Is that the one you got wrong?
+Did you know that they suggest that you not only use your mirrors, but also
+turn your head and look prior to changing lanes?
+xo
+Herer are some more.  look at hwy 59 right by our house!!!! love you - jess
+ amazingly unbelievably astounding >
+- FLOOD1.jpg 
+- flood2.jpg 
+- flood3.jpg 
+- flood4.jpg 
+- flood5.jpg 
+Check these out!  Will you be late again?  Like 8pm or so?  Progress on the
+yard but no mudders.  Can you ask about Derek's wife's doctor?  lemme know
+what time you might be home.  love, jess

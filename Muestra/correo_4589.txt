@@ -1,0 +1,2070 @@
+> 1.   HAVE DINNER READY: Plan ahead, even the night
+before, to have a
+ delicious meal - on time.  This is a way of letting him know  that
+you
+ have > been thinking about him, and are concerned about his needs.
+Most
+ men are hungry when they come home and the prospects of a good
+meal are
+ part of the warm welcome needed.
+ > 2.   PREPARE YOURSELF: Take 15 minutes to rest so you
+will be refreshed
+ when he arrives.  Touch up your make-up, put a ribbon in your hair
+and be
+ fresh looking.  He has just been with a lot of work-weary people.
+Be a
+ little gay and a little more interesting. His boring
+ day may need a lift.
+ > 3.   CLEAR AWAY CLUTTER.  Make one last trip through the
+main part of
+ the house just before your husband arrives, gathering up
+schoolbooks,
+ toys, paper, etc. Then run a dust cloth over the tables. Your
+husband will
+ feel he has reached a haven of rest and order, and it will give
+you a
+ lift too.
+ > 4.   PREPARE THE CHILDREN.  Take a few minutes to wash
+the children's
+ hands and faces if they are small, comb their hair, and if
+necessary,
+ change their clothes.  They are little treasures and he would like
+to see
+ them playing the part.
+ > 5.   MINIMIZE THE NOISE: At the time of his arrival,
+eliminate all noise
+ of washer, dryer, or vacuum.  Try to encourage the children to be
+quiet.
+ Greet him with a warm smile and kiss, letting him know you're glad
+to see
+ him.
+ > 6.   Some DON'TS: Don't greet him with problems or
+complaints. Don't
+ complain if he's late for dinner.  Count this as minor compared
+with what
+ he might have gone through that day.
+ > 7.   MAKE HIM COMFORTABLE.  Have him lean back in a
+comfortable chair or
+ suggest he lay down in the bedroom.  Have a cool or warm drink
+ready for
+ him. Arrange his pillow and offer to take off his shoes.  Speak in
+a low,
+ soft, soothing and pleasant voice.  Allow him to relax and unwind.
+ > 8.   LISTEN TO HIM: You may have a dozen things to tell
+him, but the
+ moment of his arrival is not the time.  Let him talk first.
+ > 9.   MAKE THE EVENING HIS: Never complain if he does not
+take you out to
+ dinner or to other places of entertainment; instead try to
+understand his
+ world of strain and pressure and his need to be home and relax.
+ > 10.  THE GOAL: try to make your home a place of peace
+and order where
+ your husband can relax.
+Look at the FOM numbers.  I'm using your number from cell R40 and take a look 
+at how I come up with my numbers.
+Date JP FOM FOM Sell to ENA Buy from ENA Sell to ENA Other Purchases FOM 
+Adjusted
+1 28498  44283 -11000  0  0  11317   44600
+2 43498  44283 -11000  15000  0  11317   48283
+3 43498  44283 -11000  15000  0  11317   48283
+4 43498  44283 -11000  15000  0  11317   48283
+5 38498  44283 -11000  15000  -5000  11317   43283
+6 38498  44283 -11000  15000  -5000  11317   43283
+This is a breakout of the "Other Purchases".  These are gross numbers
+1252  A06 from Dominion
+4099  Broad Run from EES
+3674  Delmont form EES
+688    Monclova from Central Desk
+1857 A06 from ENA
+11570  Gross = 11,317 delivered
+This is how I get your FOM for the 1st +44283-11000+11317=44600
+Let me know what you think about my voodoo.
+12/07/2000 10:07 AM
+Jeffrey Porter@EES
+Jeffrey Porter@EES
+Jeffrey Porter@EES
+12/07/2000 10:07 AM
+12/07/2000 10:07 AM
+I have it a little different.
+12/1/00 (2,912)
+12/2/00 (4,669)
+12/3/00 (4,669)
+12/4/00 (12,907)
+12/5/00 2,169 
+() is  a sale from NPC to ENA
+we are off by 10,000 2 to 5.
+1st is 
+Chris Germany@ECT
+12/07/2000 09:34 AM
+This is what I'm showing as gas daily activity for the 1st thru the 5th.
+Date  Undertake Overtake
+1  4087 
+2    5999
+3    5999
+4  2548
+5    12202
+I buy the Undertakes and sell you the Overtakes.
+Do these numbers look  close?
+How will New Power establish credit on the intersate pipelines??  EES and ENA 
+used corporate guarantees.  Also, should I set up ENA as agent (when I do 
+this I prefer to be the billing and nominating agent)?  Where is my free 
+lunch and my New Power golf shirt?
+Timothy L Ray@EES
+07/10/2000 10:44 AM
+Are you still willing to provide assistance for establishing New Power to do 
+business on the interstate pipelines?  I would welcome the help if the offer 
+is still there.  Talk with the appropriate individuals internally and give me 
+a call at your convenience. Since ENA is doing all of the nominating upstream 
+at the moment, there is not a tremendous sense of urgency.  However, I would 
+like to move ahead on this quickly anyway 
+I would see TCO, Transco, Sonat and TETCO as first tier requirement.  CNG, 
+NGPL, ANR and Panhandle are probably on the second tier 
+Thanks Chris.
+I just changed the rate on Tenn/transport uage deal 235293 from $.11 to 
+$.0116.  We should get back 85,155 x $.0984==$8,300 tonight.
+Chris Germany
+07/17/2000 09:39 AM
+I just changed the rate on Algon/transport usage deal 233358 from $.26 to 
+$.0206.  We should get back 155,000 x $.2394 == $37,000 tonight.
+Dan does not know what this contract is used for.  I think it has (or had) 
+something to do with the Boston Gas contract.  We currently use k#29667 for 
+that.  I would like to terminate deal 77257 effective 6/30/2000.
+Comments / questions?
+james r barker ees      patricia downey ees
+donnie myers/na/enron
+ENA sold EES 5,000 dth a day delivered on Iroq Zone 1.  The price is $3.14 The total volume is 150,000 for the month.  Patricia is only showing a 
+purchase in your system of 140,000 for the month.  I think you forgot to put 
+in some of the buy/sale activity.
+My system shows ENA delivered 130,000 to Canajoharie and 5,000 to Tenn-Wright 
+one day (you though little ol' ENA was taking advantage of you).  For 3 days 
+we bought the gas back from you and we are showing the buy/sale activity at 
+Tenn-Wright.  The total buy/sale volume is 15,000.  I think you need to add 
+another 10,000 to your buy/sale activity.
+Let me know if you have any questions.  Buddy
+Hi Steph, I don't know if this question should go to you.  If not, please 
+forward it on to the right person and let me know who that is.
+The reservation volumes on the seasonal contracts do not look correct.  The 
+demand charge looks OK, its the demand volume which is not calculating 
+correctly.  And ENA has released this capacity to Energy Express effective 
+June 1.
+Please look at the following contracts/deals.
+Contract Deal  Comment
+779234  003589  Boston releasing to CES
+771157  003668  CES releasing to ENA
+771224  003786  ENA releasing to Energy Express
+Contract Deal  Comment
+779233  003581  Boston releasing to CES
+771156  003666  CES releasing to ENA
+771225  003785  ENA releasing to Energy Express
+Thanks.
+I just had a thought.  Just to keep you guys in the loop, I will send this 
+type of stuff to you unless you tell me not too.  You don't need to do 
+anything with it.  Its more of an awareness type thing.
+Chris Germany
+07/17/2000 09:39 AM
+I just changed the rate on Algon/transport usage deal 233358 from $.26 to 
+$.0206.  We should get back 155,000 x $.2394 == $37,000 tonight.
+I have to look for the house key at home.  I know I don't have it on my 
+keyring.
+Chris,
+I need to get your EB location so that I can forward the owner's manual to 
+you for your drill.
+Also, I need to get my house key back from you if you still have it.
+Thanks!  md
+EB3224b
+Chris,
+I need to get your EB location so that I can forward the owner's manual to 
+you for your drill.
+Also, I need to get my house key back from you if you still have it.
+Thanks!  md
+I just changed the rate on Algon/transport usage deal 233358 from $.26 to 
+$.0206.  We should get back 155,000 x $.2394 == $37,000 tonight.
+Anyone there?  Helloooooo!
+ENA purchased 11.000 dth from New Power at IF flat (deal 509454).  I created 
+a sale deal 522203 (sale to New Power at IF + .0125).  Please Bookout these 
+deals. 
+Rosemary's replacement.
+I am pleased to announce the appointment of Paul F. Egner,
+III to Director, Customer Services & Scheduling for the Transco pipeline
+system. In his new position, Paul will oversee Transco's Northern and
+Southern Market Area, Transportation Marketing, Scheduling, Electronic
+Development & Commerce, Market Area Operations Accounting, Production Area
+Operations Accounting and Imbalance Control.
+This new opportunity comes in recognition of the tremendous
+job Paul has done while serving as Director, Gas Management & Control for
+Transco, a position he has held since 1997. Prior to that, Paul held various
+management positions of increasing responsibility in Gas Control, Customer
+Service and Transportation Marketing. Egner joined Transco's engineer
+training program in 1984, completing assignments in the Transmission
+Department's Corpus Christi division office and in Offshore Pipeline Design.
+His experience in these various areas within Transco make
+him an ideal candidate for this position.
+Please join me in congratulating Paul on this well-deserved
+appointment.
+- C.DTF
+Hi Gang.  Doug found my mistake and the correct price is $4.6913.  I changed 
+the price in Sirara.  Sorry Jeff.
+Chris Germany
+07/14/2000 08:29 AM
+This deal is gas ENA sold to CES for Energy Express.  The daily volume was 
+10,322 dth (a total of 309,660 for the month).  The price is CGAS IF + $.0175 
++ Variable + $.02 demand for ENA transport
+I just changed the price in Sitara.  My calculation shows a price of $4.6738.
+Jeff, I apologize for this if you have sent out the invoice already.  Please 
+correct the invoice for this deal and let me know when you send it out.
+Thanks.
+Scoop
+Thought you might be interested.  Rosemary Schatzman's replacement has been
+named...    ii
+Too heck with the little toot. What about that camera info 
+Your son is sick.  I think you need to come up and take care of him.  I have
+to take him to the doctor this afternoon.
+Mary Germany, Manager
+Accounts Payable
+Payroll
+Accounting Support
+(303) 713-2151
+fax (303) 846-2151
+email - mgermany@ch2m.com
+Brace yourself.  I'm putting in the June charge of $6.26 !!!  I just got the 
+invoice today.
+Sherry Anastas
+07/14/2000 01:03 PM
+Chris, 
+I sent a check to KO Transmission for Monday, 7/20 for $71.19.  This amount 
+covers 2/00 - 5/00 production.
+Sherry
+Chris Germany
+07/11/2000 12:19 PM
+I made the following changes so we can track and pay the KO Transmission 
+invoice.  I terminated deal 236178 (CGAS k#60094) effective 6/30/2000.  I 
+believe Joann has been using this deal to path the KO Transmission activity I created deal 327869 effective 2/1/2000 - this is a CGAS contract with KO 
+Transmission as the service provider.  We will still do the noms via CGAS on 
+this contract.  However, we will pay KO Transmission for the transport 
+expense.
+According to KO, we have not paid our Feb - May invoices.  I set these 
+charges up on deal 327869 as demand charges.  The amount are small Beginning with July, we will reflect a usage charge on deal 327869.
+Questions??
+Chris Germany
+06/29/2000 09:10 PM
+This is what we have so far.
+Primary on k#.7537
+Volume  Comment
+60,000  Telescoped to NY
+30,000  Z3 to NY
+3,000  Z3 to Non NY
+17,000  Z3 to Z4
+Note:  Maybe Scott will Highlight in Red what we have for retail.
+Primary 6-6 space from Leidy/Wharton to NY
+Volume  k#
+16,500  3.4367
+8,850  2.2390
+12,800  2.2173
+Segmented 6-6 Space
+k#3.4367   30,000 maybe ( need to check 1st thing in the morning)
+Backhaul k# 3.5806  6-1 space     20,000 smackerooooos.
+Segmented Space  3-3
+k#.7537    112,800 definite  and another 15,600 maybe( i need to check 1st 
+thing in the morning)
+No segmented 4-4 space
+This deal is gas ENA sold to CES for Energy Express.  The daily volume was 
+10,322 dth (a total of 309,660 for the month).  The price is CGAS IF + $.0175 
++ Variable + $.02 demand for ENA transport
+I just changed the price in Sitara.  My calculation shows a price of $4.6738.
+Jeff, I apologize for this if you have sent out the invoice already.  Please 
+correct the invoice for this deal and let me know when you send it out.
+Thanks.
+FYI - we are moving our local production behind Peoples to Clinton's pool.
+John, I assume you will be the one talking to the producer. 
+Carol_A._Miller@DOM.COM on 07/14/2000 06:37:50 AM
+Paul,
+An Amendment to Appendix "C" will need to completed by both the pool that the
+meters are being transferred from and the pool that the meters are being
+transferred to.  I have discussed this issue with Heidi Boyd at Columbia 
+Energy
+and I believe she will complete this form on their behalf in order to delete 
+the
+meters.  You will also need to complete this form in order to add the meters 
+to
+Clinton's LGA pool once the Pooling Agreement has been completed and the pool
+becomes effective.  I will fax the form to Heidi this morning.  It must also 
+be
+signed by the producer.  Please confirm your fax number (614-760-2794) and I
+will be happy to fax the form to you as well.
+Carol
+Carol,
+Once our production pool is set up, I would like to transfer the CES/ENA 
+meters
+into our pool.  What do you need from me to transfer these meters?
+Thanks,
+Paul
+Chris Germany@ECT
+07/13/2000 04:58 PM
+hboyd@columbiaenergygroup.com on 07/13/2000 12:58:49 PM
+Hi Carol,
+Can you help me with the below information?  I am looking to turn over our
+local production.  After August we won't be in business anymore and this local
+I apologize for this being such a mess, but I have been trying to get this
+cleared up and seem to have no luck.
+Thanks again for your help.
+Hi Karen,
+Please nominate a volume of 24,800 dth's for the month of July 00 for CES'
+local production.
+Please let me know if you need something more from me.  I understand that
+Clinton Energy is setting up a pool and will soon be able to take over our
+local production.  I will be sending in a letter soon relinquishing the local
+production, is there a meter number or identification number that I will need
+to mention in the letter?
+Thanks,
+Heidi Boyd
+703-561-6496
+dkinney@columbiaenergygroup.com on 05/30/2000 10:14:37 AM
+The attached file is an update of the CES FOM June'00 request that was
+transmitted on 5/26/00.  The changes between this version and the original
+version are listed in the worksheet labelled "Comments".   The only changes
+versus Friday's transmittal are to AGL volumes delivered on Transco.
+The worksheet labelled 'Total Reqs.' and the one labelled 'Jun00 EPA Vols' 
+show
+volume requirements at the various citygates.  I have not adjusted our volume
+requirements to reflect supply from local production behind some LDCs per 
+Chris
+Germany's e-mail of 5/24/00.  However, I have inserted notes indicating where
+and what portion of the citygate volumes shown, will be supplied by local
+production per Chris's aforementioned e-mail.
+Also:  The volumes in the attached are requested pursuant to the 12/99 Energy
+Purchase Agreement between Enron and CES.  During June 2000 CES will be
+procuring additonal volumes from Enron under a separate deal, which should not
+be confused with this request.
+Doug Kinney
+Ph:  703-561-6339
+Fax:  703-561-7317
+- Jun00_FOM_Req4.xls
+hboyd@columbiaenergygroup.com on 07/13/2000 12:58:49 PM
+Hi Carol,
+Can you help me with the below information?  I am looking to turn over our
+local production.  After August we won't be in business anymore and this local
+I apologize for this being such a mess, but I have been trying to get this
+cleared up and seem to have no luck.
+Thanks again for your help.
+Hi Karen,
+Please nominate a volume of 24,800 dth's for the month of July 00 for CES'
+local production.
+Please let me know if you need something more from me.  I understand that
+Clinton Energy is setting up a pool and will soon be able to take over our
+local production.  I will be sending in a letter soon relinquishing the local
+production, is there a meter number or identification number that I will need
+to mention in the letter?
+Thanks,
+Heidi Boyd
+703-561-6496
+New Power purchased A06 gas from ENA.  Please bookout dealsl 521753 (sale to 
+New Power) with 521780 (purchase from New Power).
+Here is the transport sheet for July.  I believe its fairly current.
+OK - what kind of car and where are you and I going on vacation?
+Chris,
+How impersonal and Late so first - my apologies.  No excuses but this week 
+has been unbelievable 
+I hope that you had an incredible Birthday - I guess you started early since 
+I did try to call on Frid.  I hope it was fun.
+I bought my self a new BD car!  Kind of exciting.
+Today a few of us in my group are headed to the London office! So In my haste 
+I wanted to be sure and at least send you a belated birthday wish.
+Stephanie
+I would like to RSVP for Judy Townsend and myself.  Is it too late, will we 
+get a free lunch, you how Judy loves a free lunch.  Also, we will not be able 
+to attend until around 11:30 am.
+Let me know it thats ok.
+Please make every effort to attend the following brain storming meeting 
+regarding creating new capture, settlements and reporting
+needs for reimbursements.  I have had some discussions with many of you on 
+this matter and would like to get together to discuss 
+some potential options for this subject.
+Changes needed will involve SITARA, UNIFY, reports, and CPR/UNIFY bridges.
+Where: EB32C2
+When:  Thursday July 13 - 10:30 to 1:00 pm 
+Lunch will be provided.
+Please R.S.V.P.
+Let me know if you have any questions.
+Tom Engel
+X 3-1488
+I think we should try an evening meal again.  This is fun ain't it?
+We have to move to another day.  Sorry.
+How about the 18th 
+thanks
+bob
+Chris Germany@ECT
+06/27/2000 07:45 PM
+{Cough cough cough, Facial Expression Facial Expression}   SURE!  Ruggles on 
+me!
+Anne Bertino@EES
+06/27/2000 04:58 PM
+Chris,
+Are you free for lunch at 12:00 on Thursday, July 13th?  Bob and I have 
+penciled it in on our calendars so let us know.
+Thanks,
+Anne
+New Power Company will be formally taking over the CES-Retail Agreement 
+effective 7/31/00.  Who should be responsible for changing all the deals in 
+Sitara to correctly reflect the new arrangement?    Please advise.
+Mark:
+I received a notice in the mail in connection with Columbia Energy Services 
+Corporation's sale of its "Mass Markets" business to The New Power Company The purpose of the notice was to inform us that effective July 31, 2000 
+Columbia would be assigning its interest in the January 30, 1998 ISDA Master 
+Agreement that it has with ENA to New Power as well as all transactions under 
+it.  Please call me if you have any questions about this.  I expect that we 
+will receive shortly a formal consent agreement.
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@
+Beavy and I changed the following deals for July and August.  We took all the 
+August activity to 0.  This is how these deals should be balanced
+Deal 318562 with 318686.  And 318691 with 318682.
+I'll look at the economics in the morning.
+We do all the KO noms on Navigator via k#60094.  CGAS does not bill us 
+anything on this contract, KO does.  KO somehow gets the information from 
+CGAS.  That's what confused me because I remember us sending in a fax nom We don't even talk to KO anymore.  I wish KO would reference the CGAS 
+contract on the KO invoice.  Maybe we could ask KO to do that.  I had to chat 
+with 1 KO person and 3 CGAS people to get all that information.
+Sorry if this is a stupid question, but why is the pipeline set up as CGAS 
+and what exactly do you mean by doing the noms via CGAS?  Does that mean that 
+we turn the noms into CGAS who then gives them to KO?  It's been a long time 
+since I scheduled CGAS and KO, but I remember that when I had a KO nomination 
+I use to fax KO a paper nom directly and we use to put everything into 
+autonoms under the KO matrix and not the CGAS matrix.  What makes this 
+different?  Just curious 
+Chris Germany
+07/11/2000 12:19 PM
+I made the following changes so we can track and pay the KO Transmission 
+invoice.  I terminated deal 236178 (CGAS k#60094) effective 6/30/2000.  I 
+believe Joann has been using this deal to path the KO Transmission activity I created deal 327869 effective 2/1/2000 - this is a CGAS contract with KO 
+Transmission as the service provider.  We will still do the noms via CGAS on 
+this contract.  However, we will pay KO Transmission for the transport 
+expense.
+According to KO, we have not paid our Feb - May invoices.  I set these 
+charges up on deal 327869 as demand charges.  The amount are small Beginning with July, we will reflect a usage charge on deal 327869.
+Questions??
+Sent by: Enron Announcements@
+A payment test file was sent to the bank in error and, as a result, a deposit 
+was posted on Monday, July 10, 2000.  This impacts only employees who utilize 
+direct deposits (ACH) and are paid semi-monthly.
+To correct this situation, on Tuesday, July 11, 2000 a withdrawal of the 
+amount deposited will be processed.  Your bank may not post this transaction 
+until Wednesday, July 12, 2000.
+If you have any questions, please call (713) 345-5555.  We apologize for any 
+inconvenience.
+I made the following changes so we can track and pay the KO Transmission 
+invoice.  I terminated deal 236178 (CGAS k#60094) effective 6/30/2000.  I 
+believe Joann has been using this deal to path the KO Transmission activity I created deal 327869 effective 2/1/2000 - this is a CGAS contract with KO 
+Transmission as the service provider.  We will still do the noms via CGAS on 
+this contract.  However, we will pay KO Transmission for the transport 
+expense.
+According to KO, we have not paid our Feb - May invoices.  I set these 
+charges up on deal 327869 as demand charges.  The amount are small Beginning with July, we will reflect a usage charge on deal 327869.
+Questions??
+Let's try next week, I'm bouncing in and out this week And THANKS 
+So when do you want to go?  I'm available Friday or any day next week except 
+Monday.
+I hope you had a great birthday!
+Chris Germany
+07/11/2000 08:56 AM
+I love Chic Fil A 
+I entered 3 deals that I do not want included in the P&L tonight.  They are 
+all purchases from New Power
+Deals
+521336
+521342
+521345
+I love Chic Fil A 
+Tommy Garza
+07/10/2000 12:23 PM
+ENRON TENNIS ASSOCIATION TOURNAMENT
+WHERE: THE METROP0LITIAN RACQUET CLUB
+ONE ALLEN CENTER     Houston TX. 77002 =20
+WHEN:  SATURDAY, JULY 15TH, 2000
+TIME:  9:00 A.M.  TO  1:00 P.M.
+FORMAT: DOUBLES
+Warm up begins at 9: a.m.  And play starts at 9:30 a.m.
+Dues are $25.00 for the season.
+It can be paid at the tournament or sent to any of the officers of the Tennis=20
+Committee.
+Make checks payable to =01&Enron Corp=018.
+A new waiver of liability form will need to be completed by each player prior=20
+to the tournament.
+Food and drinks will be provided.
+Those planning to attend please RSVP by Thursday 13th, 2000.
+Due to limited court space and time=20
+If you have any questions, please feel free to contact any one of the Enron=20
+Tennis Association Committee:=20
+Tommy Garza @3-6686, Gene Brantz @6-7428, James Pfeffer @6-7685, Dan Olson @=20
+3-5601 or Robert Smith @6-7427.
+Thanks and we look forward to seeing you there. =20
+Feel free to pass this information on to any one else interested in=20
+participating with the Tennis Association.
+I'm going over the Park & Loan discounts on CNG for May.  I need to see the 
+invoice to compare what we were billed to what CNG is showing on the discount 
+letter.
+Gloria, Terry does not have the invoice.  Could you get me a copy please?
+Thanks.
+Colleen, this is the email response I received 
+Kim, could you find out from payables if we are making payments to a company 
+called "Capacity Center"?  If we are, I would like to know who with Enron is 
+authorizing these payments.
+Thanks.
+It is the policy at CapacityCenter that we not disclose the names of our
+customers.  One Enron person is currently enrolled for our services.  I have
+forwarded your question on to them so they may contact you directly.
+If you are interested in learning more you can sign up for two week free
+trial.  Link to   then click on the free trial
+button.  I would suggest that you print it out for reference while you sign
+up for the trial.
+Carol Christopher
+Business Solutions Manager
+800-883-8227
+- Hugs.jpeg
+Yep.  Went to Dad's on Sat, left Mon before lunch.  Took my woman and went to 
+Jerry's on July 4th.  Had a good time.  He does a good job cooking on his BBQ 
+pit.  I was very tired on Wed though.
+You do that.  Did you have a nice 4th?
+Mary Germany, Manager
+Accounts Payable
+Payroll
+Accounting Support
+(303) 713-2151
+fax (303) 846-2151
+email - mgermany@ch2m.com
+Not a problem.  She can stuff the little sucker if I get all the other
+stuff.  I'll start working on that 50 lbs right after I finish this cookie.
+I try and negotiate that for you.  Also, I think you need to think about
+sharing custody of your son since you will be so close.
+Mary Germany, Manager
+Accounts Payable
+Payroll
+Accounting Support
+(303) 713-2151
+fax (303) 846-2151
+email - mgermany@ch2m.com
+Not hardly.  Will she buy me some toys - a motorcycle, let me get my flying
+licenses, and a cheaper 4 wheel drive vehicle?  I will also need to travel
+back to Texas once a quarter to vist my family.
+Hey I think that if you loose 50 lbs, I can make it happen for you.  But
+you
+might have to move to Denver.  Is that a problem?
+Mary Germany, Manager
+Accounts Payable
+Payroll
+Accounting Support
+(303) 713-2151
+fax (303) 846-2151
+email - mgermany@ch2m.com
+How's that going anyway?  I forgot I had a marriage "arrangement" in the
+works!
+Hey I was working on the proposal to Catherine.  I had dinner with her last
+night.  I can't do everything at once you know.
+Mary Germany, Manager
+Accounts Payable
+Payroll
+Accounting Support
+(303) 713-2151
+fax (303) 846-2151
+email - mgermany@ch2m.com
+What about my camera info 
+Not a problem.  She can stuff the little sucker if I get all the other 
+stuff.  I'll start working on that 50 lbs right after I finish this cookie.
+I try and negotiate that for you.  Also, I think you need to think about
+sharing custody of your son since you will be so close.
+Mary Germany, Manager
+Accounts Payable
+Payroll
+Accounting Support
+(303) 713-2151
+fax (303) 846-2151
+email - mgermany@ch2m.com
+Not hardly.  Will she buy me some toys - a motorcycle, let me get my flying
+licenses, and a cheaper 4 wheel drive vehicle?  I will also need to travel
+back to Texas once a quarter to vist my family.
+Hey I think that if you loose 50 lbs, I can make it happen for you.  But
+you
+might have to move to Denver.  Is that a problem?
+Mary Germany, Manager
+Accounts Payable
+Payroll
+Accounting Support
+(303) 713-2151
+fax (303) 846-2151
+email - mgermany@ch2m.com
+How's that going anyway?  I forgot I had a marriage "arrangement" in the
+works!
+Hey I was working on the proposal to Catherine.  I had dinner with her last
+night.  I can't do everything at once you know.
+Mary Germany, Manager
+Accounts Payable
+Payroll
+Accounting Support
+(303) 713-2151
+fax (303) 846-2151
+email - mgermany@ch2m.com
+What about my camera info 
+- frens2.mpg
+Not hardly.  Will she buy me some toys - a motorcycle, let me get my flying 
+licenses, and a cheaper 4 wheel drive vehicle?  I will also need to travel 
+back to Texas once a quarter to vist my family.
+Hey I think that if you loose 50 lbs, I can make it happen for you.  But you
+might have to move to Denver.  Is that a problem?
+Mary Germany, Manager
+Accounts Payable
+Payroll
+Accounting Support
+(303) 713-2151
+fax (303) 846-2151
+email - mgermany@ch2m.com
+How's that going anyway?  I forgot I had a marriage "arrangement" in the
+works!
+Hey I was working on the proposal to Catherine.  I had dinner with her last
+night.  I can't do everything at once you know.
+Mary Germany, Manager
+Accounts Payable
+Payroll
+Accounting Support
+(303) 713-2151
+fax (303) 846-2151
+email - mgermany@ch2m.com
+What about my camera info 
+How's that going anyway?  I forgot I had a marriage "arrangement" in the 
+works 
+Hey I was working on the proposal to Catherine.  I had dinner with her last
+night.  I can't do everything at once you know.
+Mary Germany, Manager
+Accounts Payable
+Payroll
+Accounting Support
+(303) 713-2151
+fax (303) 846-2151
+email - mgermany@ch2m.com
+What about my camera info 
+Let me know when you want to chat about NYPA.  It should only take about 15 
+min.
+I would like Beverly present because someday I would like to be agent for 
+NYPA on their contract.
+What about my camera info 
+Shame on you :o)
+Can I toss mine 
+Chris Germany@ECT
+07/06/2000 02:05 PM
+Per my discussion with Marde yesterday afternoon - EES is set up to serve 
+CanFibre.  However, National Fuel Gas Distribution (the LDC) will not let any 
+gas flow until CanFibre gets a corporate guarantee in place.  Per Marde, 
+CanFibre is working on getting a guarantee.
+OK - I'm tossing all my info on CanFibre.
+Per my discussion with Marde yesterday afternoon - EES is set up to serve 
+CanFibre.  However, National Fuel Gas Distribution (the LDC) will not let any 
+gas flow until CanFibre gets a corporate guarantee in place.  Per Marde, 
+CanFibre is working on getting a guarantee.
+OK - I'm tossing all my info on CanFibre.
+We have some small annoying park & loan deals on Iroq for July.  The parking 
+deal is 323553 and the loan deal is 323558.  When we get cut by an upstream 
+or downstream pipeline, Iroq uses the park & loan contract to balance the 
+supplies and markets. 
+Joanie Veselack is leaving.  She is going to PG&E in Bethesda
+The deal number for the gas below is $4.44.  We are using ENA transport and 
+the deliveries are on a secondary basis.  The deal number is 322199 and I 
+added the meter numbers that I used to enter the deals.  Robert, Joann, the 
+volumes should not change and CES would like to keep this deal seperate from 
+all other deals.
+Please let me know if there are any questions.
+dkinney@columbiaenergygroup.com on 07/05/2000 03:55:25 PM
+Chris and all--Below is our volume request for July 7-31 for C&I customers
+behind COH.  Its a similar situation to the one we had in June with C&I
+customers taken over from us by Metromedia Energy.  We need to do a separate
+deal to cover these volumes like we did in June.
+Please provide Kara with contract numbers in the morning.  Also, could you
+please provide the pricing on this deal?  Thanks.
+COH Supply to C&I Customers of MME
+July 7-31, 2000
+MARKET
+LDC AREAS  dth  Meter
+per day
+COH 3 3-15   0
+COH 5 5-2   0
+COH 5 5-7   280  23N-02
+COH 7 7-1   1557  23-1
+COH 7 7-3   100  23-3 
+COH 7 7-4   1040  23-4
+COH 7 7-5   1235  23-5 
+COH 7 7-6   124  23-6
+COH 7 7-8   420  23-8
+COH 7 7-9   3131  23-9
+COH 8 8-35  80  24-35
+TOTALS  7967
+Doug Kinney
+Ph:  703-561-6339
+Fax:  703-561-7317
+I will enter this deal in the system and let you guys know what the deal 
+number is.
+dkinney@columbiaenergygroup.com on 07/05/2000 03:55:25 PM
+Chris and all--Below is our volume request for July 7-31 for C&I customers
+behind COH.  Its a similar situation to the one we had in June with C&I
+customers taken over from us by Metromedia Energy.  We need to do a separate
+deal to cover these volumes like we did in June.
+Please provide Kara with contract numbers in the morning.  Also, could you
+please provide the pricing on this deal?  Thanks.
+COH Supply to C&I Customers of MME
+July 7-31, 2000
+MARKET
+LDC AREAS  dth
+per day
+COH 3 3-15   0
+COH 5 5-2   0
+COH 5 5-7   280
+COH 7 7-1   1557
+COH 7 7-3   100
+COH 7 7-4   1040
+COH 7 7-5   1235
+COH 7 7-6   124
+COH 7 7-8   420
+COH 7 7-9   3131
+COH 8 8-35  80
+TOTALS  7967
+Doug Kinney
+Ph:  703-561-6339
+Fax:  703-561-7317
+We are borrowing 110,000 dth (deal 322012) on Transco on the 30th and paying 
+the gas back on July 1st (deal 322007).  We are paying Trco a one time fee of 
+$.0386 (see below)
+Volume   Fee
+0 to 50,000  $.015
+50,001 to 100,000 $.05
+100,001 to 110,000 $.10
+I'm still looking for other emails.
+nbartlo@columbiaenergygroup.com on 01/13/2000 09:02:45 AM
+Chris, I don't believe that this is real. Sounds like a CES system mistake. 
+Let
+us know what you find Scott. Thanks.
+cgerman@ect.enron.com on 01/12/2000 07:27:18 PM
+Please respond to cgerman@ect.enron.com
+I have very little info on this deal.  Who pays for the FT on Equitrans?
+Contract 270, volume=1,000/day, start date = 7/1/97, max demand, all receipts
+and all deliveries, AND the end date is 10/31/2099 (looks suspicious to me).
+Scott is trying to find the term of this deal from Equitrans.  I believe
+Equitrans did say this is a capacity release deal.
+Scott, I'm going to list this as a wholesale deal for now.  It was not on my
+wholesale transport worksheet from Mark Breese.  Please email everyone with 
+the
+end date when you find out.  Also, please find out who the releasing shipper 
+is
+and the primary receipt and delivery points.
+Thanks
+I will try to find out this afternoon exactly what EES is doing and give you 
+an update.
+Craig Breslau
+07/03/2000 05:55 PM
+Could you please keep me apprised of any  proposals that we make to this 
+counterparty.  Also, please be sure to check with credit as I believe that 
+there are some issues with this counterparty.
+Thanks,
+Craig
+Dick will be doing some deals with New Power that is seperate from the "Asset 
+Management" deal.  Following are the spot deals Dick has done with Mike Garred
+Deal  Vol  Price  Comment
+516083  10000  8.00  sell to NP for the 5th at the pool
+521475  20000  8.28  sell to NP for the 6th-31st at the pool - I killed deal 
+516286 which was in Sitara as a purchase from NP.
+510586  1435  7.20  buy from NP at WGL on the 1st
+513896  1500  7.25  buy from NP at WGL on the 2nd-4th
+These deals have no impact on the "asset management" deal with New Power 
+FYI.  Also take a look at today's Gas Daily
+jporte1@columbiaenergygroup.com on 07/03/2000 10:19:15 AM
+Hope you have seen the press release from Friday. If not, please see the
+attached, announcing the agreement to sell the residential and small 
+commercial
+operations to The New Power Company. Please be aware that the deal is not
+closed yet and no customers will be transferred to TNPC until all federal,
+state and utility program requirements have been completed by both CES and
+TNPC. We are attempting to keep you informed of any updates and I remain the
+main gas utility contact for CES, so if you have any questions, please contact
+me at 703/561-6447.
+Thanks,
+Jeffrey P. Porter
+- Press Release -- CES-NPC                     063000.doc
+Hey, send them again.  I don't have them.
+Yesterday I faxed you the forms for establishing a pool on Equiitrans.
+Reminder, those forms must be faxed back to Equitrans TODAY to effect a 
+August 1 start date.
+Thanks,
+John
+I have not discussed August forward with anyone yet.  I would like to discuss 
+our options on handling the pool with Heidi, hopefully after the July 4th 
+holiday 
+I hope you guys have a happy 4th if I don't talk to you before.
+Since we have meters (Phillips Production meters) in the pool, if PNG will 
+allow, it may be best to transfer the pool to ENA's name.  If the CES pool 
+has to be closed, Phillips Production will have to sign documents to move 
+meters from pool to pool.  I'm not sure what the lead time is to move meters.
+If you are going to nom 430 Dth/Day, Heidi needs to nom Phillips Production 9,058 Mcf/Month (9,058 * 1.03 = 9,330 dth) plus Power Gas 4,000 Dth/month.
+Is Clinton going to take the PNG throug the end of the contracts?  Power Gas 
+expires 10/31, Phillips expires 11/30.
+Chris Germany@ECT
+06/29/2000 02:57 PM
+ENA is selling the Power Gas Marketing pool gas behind East Ohio 
+(10,000/month)  to EES for the month of July.  EES has the ability to take 
+this gas for the term of the deal (through Oct 2000).  I told Marde we would 
+talk about that after the 4th.  EES will nominate this gas directly from 
+Power's pool, so Heidi does not need to be involved at all.   Heidi, it looks 
+like this pool can be terminated.
+Peoples, for July ENA is selling 430/day to Clinton Energy (Latrobe).  Heidi 
+is working on that.  Heidi also informed me yesterday that CES was 
+terminating the Peoples pool effective 8/1/2000.  I suggested that we may 
+need to transfer the pool to ENA, because there will still be activity in 
+August due to the Latrobe fuel credit.  However, we may be able to transfer 
+any balances to EES effectve 8/1/2000.  Hopefully, we can talk about this 
+after the 4th.
+Let me know if anyone has any questions.
+This is what we have so far.
+Primary on k#.7537
+Volume  Comment
+60,000  Telescoped to NY
+30,000  Z3 to NY
+3,000  Z3 to Non NY
+17,000  Z3 to Z4
+Note:  Maybe Scott will Highlight in Red what we have for retail.
+Primary 6-6 space from Leidy/Wharton to NY
+Volume  k#
+16,500  3.4367
+8,850  2.2390
+12,800  2.2173
+Segmented 6-6 Space
+k#3.4367   30,000 maybe ( need to check 1st thing in the morning)
+Backhaul k# 3.5806  6-1 space     20,000 smackerooooos.
+Segmented Space  3-3
+k#.7537    112,800 definite  and another 15,600 maybe( i need to check 1st 
+thing in the morning)
+No segmented 4-4 space
+Jesse, I put in a buy deal to purchase the gas back from CES, deal 318748.
+Robert, I entered a buy and a sale to capture the financial difference on 
+CGAS, deals 318749 and 318750.  I may kill these deals if ENA purchases the 
+gas back from CES at Mainline.  I'll keep you posted.
+k#  MDQ
+892510  16136 Access to M3
+892511  7426 Access to M3
+893145  5000 Access to M3
+892875  9496 Access to M3
+Total  38058
+892872  19355 Access to M2
+893589  11250 Access to M2
+Total  30605
+ENA is selling the Power Gas Marketing pool gas behind East Ohio 
+(10,000/month)  to EES for the month of July.  EES has the ability to take 
+this gas for the term of the deal (through Oct 2000).  I told Marde we would 
+talk about that after the 4th.  EES will nominate this gas directly from 
+Power's pool, so Heidi does not need to be involved at all.   Heidi, it looks 
+like this pool can be terminated.
+Peoples, for July ENA is selling 430/day to Clinton Energy (Latrobe).  Heidi 
+is working on that.  Heidi also informed me yesterday that CES was 
+terminating the Peoples pool effective 8/1/2000.  I suggested that we may 
+need to transfer the pool to ENA, because there will still be activity in 
+August due to the Latrobe fuel credit.  However, we may be able to transfer 
+any balances to EES effectve 8/1/2000.  Hopefully, we can talk about this 
+after the 4th.
+Let me know if anyone has any questions.
+Karen_E._Richardson@DOM.COM on 06/28/2000 02:42:17 PM
+The attached file reflects necessary criteria for the customer to participate 
+in
+this program.
+Please refer to the Nomination Procedure section -- it indicates which 
+contracts
+should be used as well as the required fields.
+Please note that both the pool operator and the direct (or its agent) must 
+enter
+corresponding nominations.
+Please feel free to contact me at 216-736-6024 if you have any questions.
+(See attached file: Partialpooling.doc)
+- Partialpooling.doc
+dkinney@columbiaenergygroup.com on 03/29/2000 07:35:08 AM
+Chris--You should be able to open this and print out the table.  Click on the
+Button with a 2 if you want the summary version.
+Doug Kinney
+Ph:  703-561-6339
+Fax:  703-561-7317
+- Apr00_FOMupdat02.xls
+In reconciling with CES I have come across deal numbers 144284, 229286, and 
+232373 that have CES as the counterparty but in the terms they show the deal 
+is actually with Allied.  CES has paid everything we invoiced them, including 
+these three deals, but they have admitted that they are unfamiliar to them I have not said anything to CES yet.  Do we need to change the counterparty 
+or what action should we take?
+Thank You,
+Molly
+Dick has this in at a $6.89, I assume you are ok with saving $2,250 on the 
+$.005.
+12/04/2000 09:09 AM
+Jeffrey Porter@EES
+Jeffrey Porter@EES
+Jeffrey Porter@EES
+12/04/2000 09:09 AM
+12/04/2000 09:09 AM
+didn't think there was a problem. Were not my numbers OK?
+Chris Germany@ECT
+12/04/2000 08:21 AM
+Did Tim and Dick ever chat about the FOM stuff??
+What numbers should I be using now, FOM number, Volume sold back at Index 
+Flat?
+12/01/2000 10:51 AM
+Jeffrey Porter@EES
+Jeffrey Porter@EES
+Jeffrey Porter@EES
+12/01/2000 10:51 AM
+12/01/2000 10:51 AM
+I bought 15,000/d at the TCO Pool from Dick J at $6.895 for 12/2 through 
+12/31. At first he was concerned we were swinging on ENA and not storage and 
+I assured him you folks knew what volume we buy/sell @ GD as soon as you get 
+my nom. I have even included my estimate on the bottom of my daily nom sheet.
+JD is a dead man.   Are you going to give Kori a birthday smooch!
+Chad Gronvold
+06/28/2000 03:26 PM
+Who's birthday?  I'll probably go.  I might try to go to Branson sometime 
+this weekend, but I should be back by then.  Let me know when and where After this Friday, use this as my e-mail:
+c1h2a3d4@earthlink.net
+or (after mid July)
+chad.gronvold@owen2002.vanderbilt.edu
+By the way,  how's Stephanie doing?  JD seems to be doing well.
+The password is 2000tran07
+John, call me when you get a chance.  I called 330-493-7790 and there is no 
+voicemail.
+I show no sales to CES for the month of July.  I created deal 315460 to 
+bookout with deal 217769 and deal 315471 to bookout with deal 223967.  Please 
+let me know if you have any questions.
+FYI.  I changed the meter number on this deal from IMB-508914 to 9170.  They 
+are both Trco Non NY 
+Hey Buddy!  I just had a chat with Kori.  She is very sad she didn't get a 
+birthday kiss from you.  There will be a little birthday bash on Friday July 
+7th and she will be there.  What do you think?
+I would like to RSVP for Chad's party.
+Felicia Doan
+06/26/2000 05:21 PM
+Please forward to anyone I may have mistakenly forgotten.
+Many Thanks,
+Felicia Doan
+Felicia Doan
+06/26/2000 05:00 PM
+Below, please find an invitation to attend Chad Gronvold's happy hour this 
+Friday, June 30th.   RSVP to Amy Ochoa @ ext. 3-5094 or via email no later 
+than Wednesday, June 28th.
+If anyone should have any questions/concerns, please stop by and see any of 
+the assistant's at the desk.
+Many Thanks,
+Felicia Doan
+x3-5709
+Attachment:
+At my Dad's Sat and Sun.  Watching fireworks with Ingrid probably Mon or 
+Tues.  We can go drinking one nite.
+Chad Gronvold
+06/27/2000 04:21 PM
+What are you doing this weekend?  Are you going to be in town?
+{Cough cough cough, Facial Expression Facial Expression}   SURE!  Ruggles on 
+me!
+Anne Bertino@EES
+06/27/2000 04:58 PM
+Chris,
+Are you free for lunch at 12:00 on Thursday, July 13th?  Bob and I have 
+penciled it in on our calendars so let us know.
+Thanks,
+Anne
+If its Stephanie you die!  I'm working on killing JD now.
+Chad Gronvold
+06/27/2000 03:29 PM
+Take a guess
+We have a new backhual contract from Transco.
+Term  12/8/2000 - 12/31/2000
+Demand $.07
+k#  3.7714
+Volume  5,000
+Rec  Zone 6
+Del  Zone 1
+I just set this up in Sitara.  Please try to set up an activity number on 
+this contract this afternoon.  Judy will be using this contract to flow 1 to 
+3, 2 to 3, or 3 to 3.  We may use this contract to hook up with Leidy gas and 
+flow it to the 210 pool or to Doyle.
+Chris,
+I'll assume that Natural Choice deal we discussed a couple of weeks ago is a
+no-go.  Columbia Energy Svcs still hasn't executed its contract.
+Here's a little ditty my sister sent me.  (You need sound.)
+ii
+- Chinese thing.exe
+Hi gang.  I have not changed anything on the storage deals since the middle 
+of last week.  I am still showing our projected ending balance on June 30th 
+to be 3,626,785 dth.  Let me know if you see something different.
+Thanks
+Hey Team.  Doug, correct me if I'm wrong, CES no longer has any Equitrans 
+market and we still have the production.  For July, take all of this gas into 
+CNG.  You will probably need to get the CNG meter set up in Sitara.  You 
+should also make sure the interconnect with CGAS is setup.
+You are all wonderfull people  - I will make this free pop Friday (Wooo Hooo).
+thanks
+as soon as you vgive me back my ice chest
+Briant Baker
+06/27/2000 09:39 AM
+Please take my name off,
+Thanks
+Briant Baker
+Timothy L Ray@EES
+06/27/2000 10:04 AM
+Jeff;
+I recommend that CES have ENA match the pricing for each package that has 
+been bid.  This means that we will let the unbid portion of capacity remain 
+under the posting.
+Please copy me on your e-mail to ENA.  Thanks
+jporte1@columbiaenergygroup.com on 06/26/2000 08:23:12 AM
+This should do it. I believe the BGE Rate Schedule on CNG is GSS. Call if you
+need more info.
+tray@ on 06/25/2000 01:32:18 PM
+Please respond to tray@
+I will have a discussion with Dick Jenkins on Tuesday afternoon.  I will
+see what he can offer to us in terms of of bundled delivered package.  ENA
+has 23K a day going to Zone 5.  They should be willing to deal.  Is there
+anyway you can take a stab at what our position is from Nov 00 to Oct 01 by
+zone and op, less the winter storage and SST that we own?  I need a good
+idea what our needs are.  I could compile this myself but I am loaded up on
+finalizing the deal on Monday.  Thanks
+jporte1@columbiaenergygroup.com on 06/23/2000 03:08:03 PM
+Surprisingly, 12,485 of our 15,500 dth/d of capacity that TCO had put out
+for
+bid, has been bid on for between the minimum, $5.171 and $5.1807. CES
+currently
+has it from 11/99 to 10/00 for $4.56.  We have until 7/6 to tell ENA, as
+our
+agent, to tell TCO whether we want to match those bids for the next year or
+let
+it go to the bidders.
+Also here is an update on the non theoretical storage.
+(See attached file: nonThSto.xls)
+- nonThSto.xls
+- coh2000-2001.xls
+Chris Germany
+05/25/2000 04:19 PM
+John, I took the volumes on deal 226556 to 0 for the term of the deal 
+starting June 1.  This is the purchase from Belden & Blake behind NYSEG. 
+I changed the volume on deal 226563 from 1 dth/day to 1500 dth/day.  This is 
+the purchase from StatOil at CPA.  The price on this deal is NX1 + .434 and 
+the price on John's worksheet is NX1 + .54 (per MCF).  John, is this price 
+adjusted for dth??
+I created deal 280185, purchase from StatOil, volume of 333 day, the price is 
+NX1+ $.56 PER MCF.  This is a purchase of local production behind the 
+citygate.  David, this deal probably needs to be hedged in Sitara.
+Cindy - deal 226563 is a purchase from CES - Statoil Energy.  I set up deal 
+280185 with the same counterparty.  This deal should have been in the system 
+effective 1/1/2000.  According to Elizabeth, we should not use the CES StatOil Energy.  It doesn't matter to me how its set up, however, this deal 
+should have been in the system from Jan and it is the same type of deal as 
+deal 226563.
+I changed the volume on deal 226747 from 1 dth to 1100 dth/day.  This is a 
+purchase from Questar and it is also local production behind CPA John, there are 3 deals for Questar, the other 2 deals have volumes of 0 
+right now.  Can you tell me how the volume should be split out for pricing 
+purposes?
+Molly, I created deal 280132, FOM priced sale to CES.  This deal will be 
+matched with the CPA local production deals.
+Let me know if anyone has any questions.
+Thanks
+cg 3-4743
+Chris Germany
+05/24/2000 05:26 PM
+Please send this email to anyone that may need to see it.  I'm sure I left 
+someone out.
+This is citygate gas ENA will sell to CES for June.  This will reduce the 
+numbers on the sheet Doug sent us yesterday.
+East Ohio Gas on CNG
+10,000 dth/ month from Power Gas Marketing
+CPA on TCO
+500 dth/day from Power Gas Marketing
+1,833 dth/day from StatOil
+1,100 dth/day from Questa - Note:  this is an estimated volume.  We should 
+know the actual volume in the next day or so.
+Note:  CES is not taking any Carnagie gas at CPA.
+National Fuel
+250 dth/day from Belden & Blake.  The deal expires 6/30/2000.
+Equitrans
+All of the Equitrans is production or pool gas on the pipeline.  ENA 
+nominates this gas.  CES still has a citygate load of 1,280 dth/day for June 
+on Equitrans so the production gas will be delivered to CES.
+CES will not be receiving any local production behind Peoples or NYSEG.
+dkinney@columbiaenergygroup.com on 06/26/2000 05:37:36 PM
+The attached file contains updated July 2000 volume requirements for CES.  The
+changes relative to the original request sent on 6/23/00.   Changes are
+described on the worksheet labelled 'Comments' under the date 06/26/00.   The
+only other change that I currently anticipate is to NIPSCO when they post our
+July requirements on their EBB.
+Please call me if you have questions, etc.
+Doug Kinney
+Ph:  703-561-6339
+Fax:  703-561-7317
+- July00_FOM_Req02.xls
+Hey buddy.  We are having all sorts of problems with St 30, 90% internal You should try to sell to someone else if possible.  Maybe Williams??
+Went home and went to bed buddy!  So which of the lovely young ladies did you 
+spend time with?
+Chad Gronvold
+06/26/2000 07:11 PM
+So, what did you end up doing Saturday night?  Did Ingrid come over?  You 
+should have gone to the Black Swan!
+Tim, call Dick Jenkins about this capacity.  His number is 3-5136
+Scott Goodell@
+06/21/2000 01:07 PM
+The clock is running.  The following contracts were bid on the Columbia Gas 
+EBB Today Per the ROFR agreement we must notify TCO by Wednesday July 6 @2pm EST (15 
+calendar days Scott
+This transaction involves 5 contracts.  Nat Fuel is billing ENA a total of 
+($.125 x 1,000,000 dth) or $41,666.67/month for 3 months.  I don't think Nat 
+Fuel knows how we will be billed yet so I am going to show this as a demand 
+charge on contract A02353 until we figure it out.
+Chris Germany
+06/23/2000 03:56 PM
+Hey Team.  I need the following services set up on National Fuel.
+IAS  <== we just created k# A02353
+ISS  <== I think we already have this set up on k#H02262
+FSS  <== Nat Fuel has not assigned this contract to us yet.
+Believe me, this all happened really fast.  I just sent some of the paperwork 
+to legal and I need it back by Monday morning.
+Chris Germany
+06/23/2000 02:35 PM
+We have a new Park & Loan / Storage deal on National Fuel effective 
+6/23/2000.  National Fuel transferred 1,000,000 dth from our parking contract 
+to our brand new firm storage contract.  We are now long FSS and short PALS. 
+FSS
+We have the rights to withdraw on a firm basis up to 33,333 dth per day However, we need to call and get permission to withdraw more than 33,333 dth 
+on any given day.  Also, the withdrawal takes place at an interconnect, like 
+Trco-Leidy.  We do not have to ship the gas on Nat Fuel 
+IAS
+We give Nat Fuel the gas back on an IT basis via our IAS agreement (Nat Fuel 
+is still setting up the contracts).  We can give Nat Fuel the gas back at any 
+point we wish.  We do not have to pay back the gas at the same point we 
+withdraw on the FSS.  And we can pay back the gas before we withdraw it.
+COST
+What we will probably do most of the time is take the FSS into Trco at Leidy 
+and payback the IAS agreement at Niagara and Leidy.  ENA will pay Nat Fuel 
+1,000,000 dth x ($.125 / 3 months) or $41,666.67 per month for June, July, 
+and August.  This deal is over on Aug 31st.  I just entered the demand charge 
+on my Market East demand charge sheet.  I do not have any deals set up in 
+Sitara.  I need to see the contracts from Nat Fuel first.  I will keep track 
+of the balances on an Excel worksheet.  All commodity cost and fuel is 
+capured in the $.125 demand charge.  Beavy and I will make sure the payback 
+and withdrawal tickets are balanced in Sitara once we start flowing gas on 
+this deal.  If we payback 60,000 dth next week and we do not have any 
+withdrawals, then I will show a 60,000 dth withdrawal on 8/31/2000 just to 
+keep the tickets balanced.
+Payback Techniques
+Under the expert eye of the wonderfull, superfantastic, all-around great guy, 
+Dick Jenkins, I've come up with some options on paying back the gas.
+Niagara - only works when Niagara is open.  Nat Fuel has been very close to 
+capacity this week.  However, we should always see what Martin can do with 
+the gas if it gets backed up into TCPL.  OR if Niagara is constrained, we can 
+ship the gas on our firm Nat Fuel contract then pay it back to Nat Fuel, at 
+today's prices that cost about $.105
+Wadd - take our Tenn Z6 length into CNG via Iroq, ship it to Trco- Leidy, and 
+payback the gas at Leidy.  At today's prices, that cost about  $.055, 
+assuming we get to roll over all of our CNG fuel waivers.
+Tenn -   we just need to see what type of IT rate Dan can get to ship the 
+Gulf to Tenn Z4 (Ellisburgh).  We can also move the Dracutt to Nat Fuel on 
+segmented capacity for $.145 or  move Wright to Nat Fuel for $.11.  We cannot 
+use the Net 284 contract on any of the Tenn / Nat Fuel interconnects.
+Let me know if you have any questons.
+My location is EB 3224b  and anyday after 3:45PM is good for me.
+Thanks
+Chris Germany
+06/26/2000 10:43 AM
+Network Pword clg07jul
+Lotus Notes  columbus
+thanks
+John, Chris, I got the Palm V for each of you.  You don't need to be there 
+for me to install but, I will need your network and Notes passwords to 
+install.  Please let me know when will be the best time to install and please 
+verify your location.
+Thanks,
+Felix
+Network Pword clg07jul
+Lotus Notes  columbus
+thanks
+John, Chris, I got the Palm V for each of you.  You don't need to be there 
+for me to install but, I will need your network and Notes passwords to 
+install.  Please let me know when will be the best time to install and please 
+verify your location.
+Thanks,
+Felix
+dkinney@columbiaenergygroup.com on 06/23/2000 05:09:21 PM
+The attached file contains CES's first-of-the-month daily volume requirements
+for July 2000.  This request is submitted 3 business days prior to NYMEX close
+for the month of July.   The file contains volumes to be delivered to the
+citygate as well as volumes to be injected into storage consistent with the
+theoretical storage injection schedule.
+Please call me if you have questions or problems with the attached request.
+Doug Kinney
+Ph:  703-561-6339
+Fax:  703-561-7317
+- July00_FOM_Req.xls
+SmartAlerts@etrade.com on 06/24/2000 01:41:33 PM
+Please respond to SmartAlerts@etrade.com
+3080 is your Authentication Code for e-mail address Chris.Germany@.
+In order to begin receiving emails from E*TRADE, you'll need to complete
+the e-mail authentication process, by entering  this code on the E*TRADE
+Email Authentication page
+within 7 days. Once you've completed this, you'll be able to select this
+email address for Smart Alerts delivery.
+Saturday, June 24, 2000 02:41PM EDT
+713-952-1019
+Joan Veselack@
+06/12/2000 11:43 AM
+Last summer my pool was being renovated... and no ice luge... but it's 
+back!!! Just in time to celebrate Summer 2000.
+WHEN:  Saturday, June 24th, 8 pm to Midnight (yes... ends at midnight... pool 
+rules)
+WHERE: Joni's Pool at 1100 Augusta Drive, Woods on Augusta (directions below)
+WHAT:  Ice Luge (bring your favorite shots in plastic containers... glass not 
+allowed in the pool area)
+Kegs of Shiner and Bud Light (if don't like... tough.... bring your own)
+Snacks will be provided
+BRING:  Swim Suit and Towel for Hot Tub and Pool (okay.... your rubber ducky 
+too)
+NEEDED: Tunes... I have a radio/CD player.... but no CD's.... who wants to be 
+D.J 
+DIRECTIONS: 
+From I-10:  Exit south on Chimney Rock. Pass Memorial and Woodway. First 
+light after Woodway is Sugar Hill. Turn west (right) on Sugar Hill. Pass 
+Bering. Pass Kelsey Seybold on the left. Next Stop Sign is Augusta. My 
+Complex is "Woods on Augusta" on the southwest corner of Sugar Hill and 
+Augusta. Please park outside the complex. Walk-in gates on Augusta and Sugar 
+Hill. My Apartment is #33. We will be at the pool, in the middle of the 
+complex... just follow the noise.
+From 59: Exit north on Chimney Rock. Pass Richmond, Westheimer, and San 
+Felipe. First light after San Felipe is Sugar Hill. Turn west (left) on Sugar 
+Hill. Pass Bering. Pass Kelsey Seybold on the left. Next Stop Sign is 
+Augusta. My Complex is "Woods on Augusta" on the southwest corner of Sugar 
+Hill and Augusta. Please park outside the complex. Walk-in gates on Augusta 
+and Sugar Hill. My Apartment is #33. We will be at the pool, in the middle of 
+the complex... just follow the noise.
+From 610: Exit east on Woodway (outside the loop). Pass Post Oak and Sage. At 
+Chimney Rock turn south (left). First light on Chimney Rock is Sugar Hill. 
+Turn west (right) on Sugar Hill. Pass Bering. Pass Kelsey Seybold on the 
+left. Next Stop Sign is Augusta. My Complex is "Woods on Augusta" on the 
+southwest corner of Sugar Hill and Augusta. Please park outside the complex. 
+Walk-in gates on Augusta and Sugar Hill. My Apartment is #33. We will be at 
+the pool, in the middle of the complex... just follow the noise.
+If I left someone out... it was unintentional 
+Please pass the invite to mutual friends. Because of limited accommodations, 
+please don't invite all of Houston 
+Hey Team.  I need the following services set up on National Fuel.
+IAS  <== we just created k# A02353
+ISS  <== I think we already have this set up on k#H02262
+FSS  <== Nat Fuel has not assigned this contract to us yet.
+Believe me, this all happened really fast.  I just sent some of the paperwork 
+to legal and I need it back by Monday morning.
+Chris Germany
+06/23/2000 02:35 PM
+We have a new Park & Loan / Storage deal on National Fuel effective 
+6/23/2000.  National Fuel transferred 1,000,000 dth from our parking contract 
+to our brand new firm storage contract.  We are now long FSS and short PALS. 
+FSS
+We have the rights to withdraw on a firm basis up to 33,333 dth per day However, we need to call and get permission to withdraw more than 33,333 dth 
+on any given day.  Also, the withdrawal takes place at an interconnect, like 
+Trco-Leidy.  We do not have to ship the gas on Nat Fuel 
+IAS
+We give Nat Fuel the gas back on an IT basis via our IAS agreement (Nat Fuel 
+is still setting up the contracts).  We can give Nat Fuel the gas back at any 
+point we wish.  We do not have to pay back the gas at the same point we 
+withdraw on the FSS.  And we can pay back the gas before we withdraw it.
+COST
+What we will probably do most of the time is take the FSS into Trco at Leidy 
+and payback the IAS agreement at Niagara and Leidy.  ENA will pay Nat Fuel 
+1,000,000 dth x ($.125 / 3 months) or $41,666.67 per month for June, July, 
+and August.  This deal is over on Aug 31st.  I just entered the demand charge 
+on my Market East demand charge sheet.  I do not have any deals set up in 
+Sitara.  I need to see the contracts from Nat Fuel first.  I will keep track 
+of the balances on an Excel worksheet.  All commodity cost and fuel is 
+capured in the $.125 demand charge.  Beavy and I will make sure the payback 
+and withdrawal tickets are balanced in Sitara once we start flowing gas on 
+this deal.  If we payback 60,000 dth next week and we do not have any 
+withdrawals, then I will show a 60,000 dth withdrawal on 8/31/2000 just to 
+keep the tickets balanced.
+Payback Techniques
+Under the expert eye of the wonderfull, superfantastic, all-around great guy, 
+Dick Jenkins, I've come up with some options on paying back the gas.
+Niagara - only works when Niagara is open.  Nat Fuel has been very close to 
+capacity this week.  However, we should always see what Martin can do with 
+the gas if it gets backed up into TCPL.  OR if Niagara is constrained, we can 
+ship the gas on our firm Nat Fuel contract then pay it back to Nat Fuel, at 
+today's prices that cost about $.105
+Wadd - take our Tenn Z6 length into CNG via Iroq, ship it to Trco- Leidy, and 
+payback the gas at Leidy.  At today's prices, that cost about  $.055, 
+assuming we get to roll over all of our CNG fuel waivers.
+Tenn -   we just need to see what type of IT rate Dan can get to ship the 
+Gulf to Tenn Z4 (Ellisburgh).  We can also move the Dracutt to Nat Fuel on 
+segmented capacity for $.145 or  move Wright to Nat Fuel for $.11.  We cannot 
+use the Net 284 contract on any of the Tenn / Nat Fuel interconnects.
+Let me know if you have any questons.
+Chris Germany
+06/23/2000 02:35 PM
+We have a new Park & Loan / Storage deal on National Fuel effective 
+6/23/2000.  National Fuel transferred 1,000,000 dth from our parking contract 
+to our brand new firm storage contract.  We are now long FSS and short PALS. 
+FSS
+We have the rights to withdraw on a firm basis up to 33,333 dth per day However, we need to call and get permission to withdraw more than 33,333 dth 
+on any given day.  Also, the withdrawal takes place at an interconnect, like 
+Trco-Leidy.  We do not have to ship the gas on Nat Fuel 
+IAS
+We give Nat Fuel the gas back on an IT basis via our IAS agreement (Nat Fuel 
+is still setting up the contracts).  We can give Nat Fuel the gas back at any 
+point we wish.  We do not have to pay back the gas at the same point we 
+withdraw on the FSS.  And we can pay back the gas before we withdraw it.
+COST
+What we will probably do most of the time is take the FSS into Trco at Leidy 
+and payback the IAS agreement at Niagara and Leidy.  ENA will pay Nat Fuel 
+1,000,000 dth x ($.125 / 3 months) or $41,666.67 per month for June, July, 
+and August.  This deal is over on Aug 31st.  I just entered the demand charge 
+on my Market East demand charge sheet.  I do not have any deals set up in 
+Sitara.  I need to see the contracts from Nat Fuel first.  I will keep track 
+of the balances on an Excel worksheet.  All commodity cost and fuel is 
+capured in the $.125 demand charge.  Beavy and I will make sure the payback 
+and withdrawal tickets are balanced in Sitara once we start flowing gas on 
+this deal.  If we payback 60,000 dth next week and we do not have any 
+withdrawals, then I will show a 60,000 dth withdrawal on 8/31/2000 just to 
+keep the tickets balanced.
+Payback Techniques
+Under the expert eye of the wonderfull, superfantastic, all-around great guy, 
+Dick Jenkins, I've come up with some options on paying back the gas.
+Niagara - only works when Niagara is open.  Nat Fuel has been very close to 
+capacity this week.  However, we should always see what Martin can do with 
+the gas if it gets backed up into TCPL.  OR if Niagara is constrained, we can 
+ship the gas on our firm Nat Fuel contract then pay it back to Nat Fuel, at 
+today's prices that cost about $.105
+Wadd - take our Tenn Z6 length into CNG via Iroq, ship it to Trco- Leidy, and 
+payback the gas at Leidy.  At today's prices, that cost about  $.055, 
+assuming we get to roll over all of our CNG fuel waivers.
+Tenn -   we just need to see what type of IT rate Dan can get to ship the 
+Gulf to Tenn Z4 (Ellisburgh).  We can also move the Dracutt to Nat Fuel on 
+segmented capacity for $.145 or  move Wright to Nat Fuel for $.11.  We cannot 
+use the Net 284 contract on any of the Tenn / Nat Fuel interconnects.
+Let me know if you have any questons.
+I called Peoples, Karen was out and Deana was swamped so I didn't ask her any 
+questions.  I also received one voice mail from the Can Fibre guy and I have 
+not heard from him either.
+Don't seem like anything is getting done.
+I hope you had a good weekend.
+Modest Too!!
+What happened to all my emails?  How's my Duff?  What's going on?
+We have a new Park & Loan / Storage deal on National Fuel effective 
+6/23/2000.  National Fuel transferred 1,000,000 dth from our parking contract 
+to our brand new firm storage contract.  We are now long FSS and short PALS. 
+FSS
+We have the rights to withdraw on a firm basis up to 33,333 dth per day However, we need to call and get permission to withdraw more than 33,333 dth 
+on any given day.  Also, the withdrawal takes place at an interconnect, like 
+Trco-Leidy.  We do not have to ship the gas on Nat Fuel 
+IAS
+We give Nat Fuel the gas back on an IT basis via our IAS agreement (Nat Fuel 
+is still setting up the contracts).  We can give Nat Fuel the gas back at any 
+point we wish.  We do not have to pay back the gas at the same point we 
+withdraw on the FSS.  And we can pay back the gas before we withdraw it.
+COST
+What we will probably do most of the time is take the FSS into Trco at Leidy 
+and payback the IAS agreement at Niagara and Leidy.  ENA will pay Nat Fuel 
+1,000,000 dth x ($.125 / 3 months) or $41,666.67 per month for June, July, 
+and August.  This deal is over on Aug 31st.  I just entered the demand charge 
+on my Market East demand charge sheet.  I do not have any deals set up in 
+Sitara.  I need to see the contracts from Nat Fuel first.  I will keep track 
+of the balances on an Excel worksheet.  All commodity cost and fuel is 
+capured in the $.125 demand charge.  Beavy and I will make sure the payback 
+and withdrawal tickets are balanced in Sitara once we start flowing gas on 
+this deal.  If we payback 60,000 dth next week and we do not have any 
+withdrawals, then I will show a 60,000 dth withdrawal on 8/31/2000 just to 
+keep the tickets balanced.
+Payback Techniques
+Under the expert eye of the wonderfull, superfantastic, all-around great guy, 
+Dick Jenkins, I've come up with some options on paying back the gas.
+Niagara - only works when Niagara is open.  Nat Fuel has been very close to 
+capacity this week.  However, we should always see what Martin can do with 
+the gas if it gets backed up into TCPL.  OR if Niagara is constrained, we can 
+ship the gas on our firm Nat Fuel contract then pay it back to Nat Fuel, at 
+today's prices that cost about $.105
+Wadd - take our Tenn Z6 length into CNG via Iroq, ship it to Trco- Leidy, and 
+payback the gas at Leidy.  At today's prices, that cost about  $.055, 
+assuming we get to roll over all of our CNG fuel waivers.
+Tenn -   we just need to see what type of IT rate Dan can get to ship the 
+Gulf to Tenn Z4 (Ellisburgh).  We can also move the Dracutt to Nat Fuel on 
+segmented capacity for $.145 or  move Wright to Nat Fuel for $.11.  We cannot 
+use the Net 284 contract on any of the Tenn / Nat Fuel interconnects.
+Let me know if you have any questons.
+Hey Rhonda, my sources tell me that this $3.324 is the correct price.
+Thats a big bonus for EES.
+Chris Germany
+06/22/2000 01:20 PM
+ENA is selling EES gas on CGAS.  Sitara deal #225818.  EES is showing a price 
+of $3.347 for May production and we are billing them $3.324, which price is 
+correct?
+Thanks
+Check out this site:
+ 
+Sent by: Enron Announcements@
+Going once...Going twice...SOLD! 
+Enron Corporate Administrative Services Group will be hosting an all employee 
+surplus furniture silent auction on Saturday, June 24th from 8:00 a.m 10:00 a.m. at the Enron Warehouse located at 3405 Navigation Blvd. Enron 
+employees, contract employees and their families are invited to bid on an 
+array of desk, chairs, lamps, sofas, etc. You must present your Enron badge 
+to purchase items. All items must be purchased with a check made payable to 
+Enron Corp. and removed from the warehouse by 3:00 p.m. on Saturday. Enron 
+reserves the right to limit quantities purchased. Proceeds will be donated to 
+charities supported by Enron.
+We look forward to seeing you at the fun event.
+Click on attachment for directions.
+Good job.  Now what price should we bill EES.
+Elizabeth L Hernandez
+06/22/2000 03:19 PM
+Deal 225818 is a deal that was copied from deal 113293 and looks like we have 
+been invoice EES at NX1 + .235 since 10/99.  If you have any other questions 
+please get with me.
+Chris Germany
+06/22/2000 01:20 PM
+ENA is selling EES gas on CGAS.  Sitara deal #225818.  EES is showing a price 
+of $3.347 for May production and we are billing them $3.324, which price is 
+correct?
+Thanks
+Hey Greg.  Hope this works.  My phone number is 713-853-4743.
+We currently have the following transport contracts on CNG for July.
+k#  MDQ  Comment
+5A2500  15000  Oak to BG&E
+5A2551  4003  Corn to BG&E
+5A2551  383  Lebanon to BG&E
+5A2526  3947  Corn to Leidy
+Total  23,333 dt
+Angie and Beavy are working on the fuel waivers for July.  And we can still 
+take 7950 dth from Cornwell. 
+Please terminate the following CNG contracts effective 6/30/2000.  For June, 
+we released this capacity to Energy Express.  Boston Gas recalled this 
+capacity effective 6/30/2000.  I changed the deal tickets in Sitara.
+k#
+560104
+5A2529
+ENA is selling EES gas on CGAS.  Sitara deal #225818.  EES is showing a price 
+of $3.347 for May production and we are billing them $3.324, which price is 
+correct?
+Thanks
+Hey Z, would you show Beavy how to request the CNG Fuel waivers for July?  I 
+want Beavy to do it for a couple of months so she will be aware of our 
+operational flexibility.
+Remember, you need to keep track of all of this on your 2000 accomplishments 
+for your year end review.
+Thanks.
+You make it sound like you are going away for good.  I'll see you when you 
+come back.
+Audrey Cook
+12/05/2000 01:39 PM
+Well, they put me on this special audit team to research anything that Chris 
+Germany transacted.  (Not really, just kidding 
+I just decided that it is time for a change and an opportunity came up.  I 
+was in Gas Settlements for a little over a 1 1/2.  Don't worry, Mary will 
+take care of you!!  By the way, Darla Saucier will be handling the The New 
+Power Company counterparty.  Please work w/ Darla and Mary for November, 2000 
+business.  It was fun working w/ you.  Take care.
+Chris Germany
+12/05/2000 01:26 PM
+Why did you go to power?  Are you going to look for some of the mistakes I 
+made back in 1994??
+Paul is out of the office today but I found the customer name in my notes it was right below all my notes on CanFibre.  The customer is Latrove Steel I'm going to call Peoples myself to learn how this works.  Does anyone object 
+to that?  I will wait until this afternoon before I call.
+Heidi
+Do you think the production gas can be moved to EES's pool by July 1st?  If 
+not, we can sell the gas to Latrove out of CES's pool for July.  However, we 
+will not see the fuel credit until August(???) to verify if this works or not.
+Marde L Driscoll@EES
+06/21/2000 08:29 PM
+Questions that I have:
+1)  I am assuming that the Clinton end-user will not go into EESs' pool.  It 
+needs to be verified with PNG that I can do a pool to pool nomination to the 
+end-user (only a few stand alone customers are grandfathered to receive these 
+types of noms.)  This is a critical issue for EES as we are already long gas 
+behind the gate and we don't need more production.  If the customer can't 
+take my gas from my pool then I will have to bring it in via CNG which will 
+only make my pool longer.
+2)  If the production meters are moved to EESs' pool then I would suggest 
+just a flat index price between ENA and EES.
+3)  Will EES be supplying the full 1000/d to the end-user or just the amount 
+of the local production transferred to EESs' pool 
+4)  If the fuel credit works the way Chris explains it below then I would be 
+willing to sell all of the gas at index but I will need to confirm that with 
+PNG.
+1. ENA is responsible for purchases of 500 MCFD (515 DthD) Metered Prouction 
+from Phillips Production Company.  This volume is will be decreased  until 
+further notice because PNG has increased line pressures thus reducing the 
+production volumes to 50-60% of normal (Refer to attached schedule).  There 
+are 7 Phillips meters  in CES's pool beginning July 2000.  Heidi Boyd @ CES 
+will have to nominate the production into CES's pool and away from the pool 
+until the meters are moved.  EES should have 6 Phillips Production meters in 
+their pool beginning July 2000.
+2.  See Attached Schedule for Term, Price & Volume 
+Note:  PNG has increased line pressures which reduces production into the 
+system.  Both Phillips Production and Power Gas Marketing are claiming Force 
+Majeure.  Their volumes have been reduced to 50-60% of the original contractd 
+volume.
+Chris Germany@ECT
+06/20/2000 03:59 PM
+Here is what I'm looking at for July 1.  Paul Leanza (Clinton) has a customer 
+that can take around 1,000 day.  I don't know if that's dt or mcf.  I will 
+use mcf for this email until someone corrects me.  This customer has a 
+special deal where the pool operator gets a fuel credit on every mcf the 
+customer pulls.  For July, assuming the gathering fuel is 5%, and this 
+customer pulls 95 mcf from your production pool, you will get a 5 mcf 
+credited back to your imbalance account the following month.  I don't know 
+how this works with trading imbalances.  But, at a NYMX of $3.95 that works 
+out to $.21 - sounds good to me.  Paul said this customer is looking for a 
+CNG Index Flat price or and equivalent basis number.  Marde will not sell at 
+that price but I will.
+Marde said she would charge ENA a $.03 fee for all the volumes flowing Actually, I would prefer to move all the pool and production gas to EES, 
+settle up financially with EES and be done with it.  What we could do to test 
+Paul's statement, is have the customer pull 300 mcf/day out of CES's pool for 
+July.  It would be easy to see since that is the only deal.   AND, have EES 
+take over the pool deal with Power Gas Marketing.  Comments / Questions?
+Questions
+John
+1.  Heidi (EES) said you already have some Phillips production in EES's 
+pool.  Does CES still have metered production from Phillips in CES's pool If yes, how many meters?
+2.  Please give me the following info for the activity behind Peoples
+Phillips   Power Gas Marketing
+Term
+Price
+Volume
+Heidi (EES)
+If we find out from John that there is still metered production in CES's 
+pool, please call Peoples and see if we can move the metered production to 
+EES's pool for July.  Heidi Boyd with CES said you could tell them that CES 
+is going out of business and they may make exceptions for that.
+Marde
+I would prefer to move both supply customers over to EES, where EES makes the 
+payments and bills either Clinton or Clinton's customer.  At what price will 
+you take these deals?  I assume we need to get this info from John before you 
+can anwser this.
+As of today, Power Gas Marketing volume has decreased from 7,500 per month to 
+4,000 per month, until further notice, due to Peoples regulating the volume 
+of production into their system.
+Phillips Production is also down..
+For July, I would sell 4, 000 per month supplied by Power Gas Marketing (pool 
+to pool), and 300 MCFD x 1.03 = 309 Dth/day metered production from Phillips 
+Production.  The Phillips Production meters are in CES's pool.  It will cost 
+$100 per transaction to do a pool to pool transfer.  If Paul Leanza can use 
+the gas through November, we should move the Phillips meters to his pool 
+(309/Day).  The Power Gas volumes go through October.
+John
+You will probably get an invitation to the wedding.  The date is Sat, July 
+29th, in Mangum, OK. at 3:00pm in the afternoon.  I'll expect to see you.
+Big board has $4.368
+$4.35 by $4.365
+Good Boy 
+Duffy is getting mail from Playboy.  I am starting to get worried about him.
+Mary Germany, Manager
+Accounts Payable
+Payroll
+Accounting Support
+(303) 713-2151
+fax (303) 846-2151
+email - mgermany@ch2m.com
+I'm working on your request buddy.  I should have it today or tomorrow 
+morning.
+$4.365 by $4.38
+$4.265 by $4.285
+$4.27 by $4.29
+$4.225 by $4.245
+Do you have a total dollar amount that New Power paid for Oct production According to David Scott at New Power, they did not make any adjustments to 
+the bill.  He said they may not have received all of the bill, there might 
+have been some Michcon activity missing.
+Darla Saucier@
+11/27/2000 11:50 AM
+Hi Chris,
+Please give me a call this afternoon and let me know if you've had a chance 
+to look over the deals for october that Mary Ellenberger emailed to you last 
+week. I would like to get this matter resolved this week. 
+Thanks
+Darla
+seems to be sliding down now $4.245 by $4.265 
+$4.26 by $4.28
+$4.275 by $4.295 at 1"07pm on amtel
+AGA is 64
+$4.155 by $4.165
+I'm trying to change the Receipt Meter on deal 235367 from meter 7126 to 
+meter 010902.  I'm not trying to change the Receipt Interconnect point, I'm 
+trying to change the Receipt Point (From).  I can't change it.  Whats up?
+I'm not sure if it matters but it will make it easier to find, I think.
+Yes, the producer receives a fixed price, however, these deals are probably 
+in TAGG as Nymex plus basis deals.  Phillips deal was transferred to ENA, 
+Power Gas was triggered on ENA books.
+Or does it matter 
+Chris Germany@ECT
+06/21/2000 08:42 AM
+So both of these suppliers are now fixed price because  they locked in the 
+NYMX?
+So both of these suppliers are now fixed price because  they locked in the 
+NYMX?
+Friends don't let friends take home ugly men
+Remember, it's not, "How high are you?" its
+"Hi, how are you?"
+No matter how good she looks, some other guy
+is sick and tired
+of putting up with her shit.
+A Woman's Rule of Thumb: If it has tires or
+testicles, you're
+going to have trouble with it.
+Express Lane: Five beers or less.
+-Sign over one of the urinals, Ed Debevic's,
+Beverly Hills, CA
+You're too good for him.
+-Sign over mirror Women's room, Ed Debevics,
+Beverly Hills, CA
+No wonder you always go home alone.
+-Sign over mirror in Men's room, Ed Debevic's, Beverly
+Hills, CA
+The best way to a man's heart is to saw his breast
+plate open.
+If you voted for Clinton in the last election, you
+can't take
+a dump here. Your asshole is in Washington.
+Beauty is only a light switch away.
+If life is a waste of time, and time is a waste of
+life, then
+let's all get wasted together and have the time of our
+lives.
+Don't trust anything that bleeds for 5 days and
+doesn't die.
+What are you looking up on the wall for? The joke is
+in
+your hands.
+My YTD nymx and your YTD nymx don't tie.  Here is my worksheet.  Would take a 
+look at it and let me know which deals are wrong.  You are a wonderful person 
+by the way.
+Early morning, right?  I want to be rested for the big party.
+Saturday weather - high 64 in Galveston, low 61,  partly cloudy.
+I want to take the boat out and fill it with gas and charge the batteries,
+as I have family in the next week - and they want to take it out.
+jporte1@columbiaenergygroup.com on 06/21/2000 06:23:15 AM
+We only took 80% of what we could, so we can increase by Market Zone delivery,
+or not. We have advised any new buyer of the options and are keeping them
+informed if we are forced to make a move, as in the case of the 15,000 of
+capacity on TCO. We are being conservative and keeping everyone informed.
+Chris.Germany@ on 06/20/2000 04:59:21 PM
+Please respond to Chris.Germany@
+How big of an adjustment can you make as a percentage and are you guys
+looking at that adjustment?   OR, are you letting the buyer know this
+option exists and you just hope its not your problem by then (that's my
+guess)?
+jporte1@columbiaenergygroup.com on 06/20/2000 02:53:42 PM
+Yes, we can adjust by 10/15. If we add, must pay retro to 4/1 and if
+reduce, we
+may not get any $ back.
+Chris.Germany@ on 06/20/2000 02:13:20 PM
+Please respond to Chris.Germany@
+Does CES have the ability to adjust the storage MSQ in Sep or Oct?
+$4.09 by $4.105
+Here is what I'm looking at for July 1.  Paul Leanza (Clinton) has a customer 
+that can take around 1,000 day.  I don't know if that's dt or mcf.  I will 
+use mcf for this email until someone corrects me.  This customer has a 
+special deal where the pool operator gets a fuel credit on every mcf the 
+customer pulls.  For July, assuming the gathering fuel is 5%, and this 
+customer pulls 95 mcf from your production pool, you will get a 5 mcf 
+credited back to your imbalance account the following month.  I don't know 
+how this works with trading imbalances.  But, at a NYMX of $3.95 that works 
+out to $.21 - sounds good to me.  Paul said this customer is looking for a 
+CNG Index Flat price or and equivalent basis number.  Marde will not sell at 
+that price but I will.
+Marde said she would charge ENA a $.03 fee for all the volumes flowing Actually, I would prefer to move all the pool and production gas to EES, 
+settle up financially with EES and be done with it.  What we could do to test 
+Paul's statement, is have the customer pull 300 mcf/day out of CES's pool for 
+July.  It would be easy to see since that is the only deal.   AND, have EES 
+take over the pool deal with Power Gas Marketing.  Comments / Questions?
+Questions
+John
+1.  Heidi (EES) said you already have some Phillips production in EES's 
+pool.  Does CES still have metered production from Phillips in CES's pool If yes, how many meters?
+2.  Please give me the following info for the activity behind Peoples
+Phillips   Power Gas Marketing
+Term
+Price
+Volume
+Heidi (EES)
+If we find out from John that there is still metered production in CES's 
+pool, please call Peoples and see if we can move the metered production to 
+EES's pool for July.  Heidi Boyd with CES said you could tell them that CES 
+is going out of business and they may make exceptions for that.
+Marde
+I would prefer to move both supply customers over to EES, where EES makes the 
+payments and bills either Clinton or Clinton's customer.  At what price will 
+you take these deals?  I assume we need to get this info from John before you 
+can anwser this.
+As of today, Power Gas Marketing volume has decreased from 7,500 per month to 
+4,000 per month, until further notice, due to Peoples regulating the volume 
+of production into their system.
+Phillips Production is also down..
+For July, I would sell 4, 000 per month supplied by Power Gas Marketing (pool 
+to pool), and 300 MCFD x 1.03 = 309 Dth/day metered production from Phillips 
+Production.  The Phillips Production meters are in CES's pool.  It will cost 
+$100 per transaction to do a pool to pool transfer.  If Paul Leanza can use 
+the gas through November, we should move the Phillips meters to his pool 
+(309/Day).  The Power Gas volumes go through October.
+John
+How big of an adjustment can you make as a percentage and are you guys 
+looking at that adjustment?   OR, are you letting the buyer know this option 
+exists and you just hope its not your problem by then (that's my guess)?
+jporte1@columbiaenergygroup.com on 06/20/2000 02:53:42 PM
+Yes, we can adjust by 10/15. If we add, must pay retro to 4/1 and if reduce, 
+we
+may not get any $ back.
+Chris.Germany@ on 06/20/2000 02:13:20 PM
+Please respond to Chris.Germany@
+Does CES have the ability to adjust the storage MSQ in Sep or Oct?
+$4.075 by $4.085
+Does CES have the ability to adjust the storage MSQ in Sep or Oct?
+Hey Jeff, we are meeting tomorrow because Molly is out today.  Is that OK?
+Jeff has training on Monday, so he would like to meet at 1:30 on Tuesday at  
+his desk.
+Let me know if anyone has a problem with that.
+Thank You,
+Molly
+You De Man.  Could you change the spelling from Druckett to Dracut?
+I owe you a Chic Fil A  lunch.
+I will have training class on the East Desk Market Area positions this Wed, 
+June 21st, at 4:00 PM in conference room EB3084.  I will be discussing our 
+operational flexibility with respect to Tenn Z6 and National Fuel.
+Hey Team!  This email is just an FYI for you guys.  I don't expect you to see 
+anything until January.
+Audrey Cook
+12/05/2000 12:38 PM
+Mary & Lisa,
+Please follow up w/ Chris on his e-mail (redraft 
+Chris,
+I am now officially in Power.  Please forward all CES related issues to Lisa 
+and Mary.  They are also working w/ the OA team on the o/s issues.  Thanks.
+ajc
+ajc
+Chris Germany
+12/05/2000 08:21 AM
+There is a demand charge of  $-.22 x 900000 on this deal ticket.  I think the 
+demand charge should be $-.22 x 10,000 x # days on the month.  This equals 
+900,000 over the term of the deal.  I changed the demand charge volume to 
+310,000  for Dec
+310,000 for Jan
+280,000 for Feb
+Audrey, the global contract is 96017642 and 12/2000 is the first month of 
+this deal.  We should receive and invoice from COH for the demand charge There is a very slim chance we will be selling COH any gas on this deal for 
+the month.  Would you forward this email to the person that handles COH?
+Thanks
+chris
+Chris Germany
+12/04/2000 01:56 PM
+ENA has a put to COH (deal 213360) for up to 10,000 dth/day.  This deal was 
+in the system for December and I just took it to 0 for the whole month.  I 
+estimate we should make about $495,000 on the deal change.
+Kimat, this deal also has a demand charge that ENA pays COH for the put.  I 
+believe its in the deal correctly.
+Alvin, please show this on the morning sheet as a "Put to COH at IF" or 
+something real intelligent like that.
+This deal goes thru 2/28/01.
+now $4.085 by $4.095
+$4.115 by $4.13
+The demand charges match what ENA was billed by the pipeline.
+Chris,
+Have you had a chance to look at this yet?  It sound like NIMO is still 
+willing to pay the fair amount, we just need to make sure that we actually 
+bill them.  Let me know how I can help.
+Kate
+Phil DeMoes@
+05/23/2000 03:19 PM
+Chris,
+Can you take a look at the attached spreadsheet that NIMO has sent regarding 
+demand charges due Enron and we have not billed.  Kate and I are not sure if 
+this has been billed correctly and wanted to verify with you.  Please advise.
+I can be reached at 713-853-7912.
+morrowb@NiagaraMohawk.com on 05/12/2000 11:04:05 AM
+Phil,
+Bruce asked me to e-mail our information to you.  The following spreadsheet
+outlines the amounts we owe you for each production month.  This shows you
+the exact charges we are to pay along with how much credit we are due in
+each production month.  Each MARQ and FTNN charge on CNG Demand is credited
+on our monthly CNG Demand billing.  This is showing us that you should have
+been billed this amount by CNG Transmission and then in turn you should
+bill us these amounts.
+(Embedded image moved to file: pic07770.pcx)
+If you need any backup in   to these demand charges, please notify me
+by e-mail or you may call me at (315) 460-4122.  These amounts are showing
+outstanding in our accounting statements, so therefore, I will be happy to
+assist you in any way I can to get these amounts paid.  When billing,
+please fax me a copy of your complete bill and also mail an original in the
+mail.  According to our contracts, we need an original invoice complete
+with wire instructions in order to make payment to your company.
+Sincerely,
+Becky E. Morrow
+Fuel Clerk of Gas Supply
+- pic07770.pcx
+$4.12 by $4.13
+Buy or sell at 4.15 
+$4.14 and $4.155
+$4.15 by $4.165
+Call me $
+Are you inviting your woman to this?  I may need to extend an invitation to 
+Ingrid.
+Joan Veselack@
+06/12/2000 11:43 AM
+Last summer my pool was being renovated... and no ice luge... but it's 
+back!!! Just in time to celebrate Summer 2000.
+WHEN:  Saturday, June 24th, 8 pm to Midnight (yes... ends at midnight... pool 
+rules)
+WHERE: Joni's Pool at 1100 Augusta Drive, Woods on Augusta (directions below)
+WHAT:  Ice Luge (bring your favorite shots in plastic containers... glass not 
+allowed in the pool area)
+Kegs of Shiner and Bud Light (if don't like... tough.... bring your own)
+Snacks will be provided
+BRING:  Swim Suit and Towel for Hot Tub and Pool (okay.... your rubber ducky 
+too)
+NEEDED: Tunes... I have a radio/CD player.... but no CD's.... who wants to be 
+D.J 
+DIRECTIONS: 
+From I-10:  Exit south on Chimney Rock. Pass Memorial and Woodway. First 
+light after Woodway is Sugar Hill. Turn west (right) on Sugar Hill. Pass 
+Bering. Pass Kelsey Seybold on the left. Next Stop Sign is Augusta. My 
+Complex is "Woods on Augusta" on the southwest corner of Sugar Hill and 
+Augusta. Please park outside the complex. Walk-in gates on Augusta and Sugar 
+Hill. My Apartment is #33. We will be at the pool, in the middle of the 
+complex... just follow the noise.
+From 59: Exit north on Chimney Rock. Pass Richmond, Westheimer, and San 
+Felipe. First light after San Felipe is Sugar Hill. Turn west (left) on Sugar 
+Hill. Pass Bering. Pass Kelsey Seybold on the left. Next Stop Sign is 
+Augusta. My Complex is "Woods on Augusta" on the southwest corner of Sugar 
+Hill and Augusta. Please park outside the complex. Walk-in gates on Augusta 
+and Sugar Hill. My Apartment is #33. We will be at the pool, in the middle of 
+the complex... just follow the noise.
+From 610: Exit east on Woodway (outside the loop). Pass Post Oak and Sage. At 
+Chimney Rock turn south (left). First light on Chimney Rock is Sugar Hill. 
+Turn west (right) on Sugar Hill. Pass Bering. Pass Kelsey Seybold on the 
+left. Next Stop Sign is Augusta. My Complex is "Woods on Augusta" on the 
+southwest corner of Sugar Hill and Augusta. Please park outside the complex. 
+Walk-in gates on Augusta and Sugar Hill. My Apartment is #33. We will be at 
+the pool, in the middle of the complex... just follow the noise.
+If I left someone out... it was unintentional 
+Please pass the invite to mutual friends. Because of limited accommodations, 
+please don't invite all of Houston 
+I would like the following pipelines and the following points on the map we 
+discussed the other day.  If possible, I would also like to see the zone 
+boundaries for Transco, Tennessee, and Iroq 
+Thanks
+Chris G.
+3-4743
+Pipeline
+Iroquois
+Nattional Fuel
+CNG
+Transco
+Tenn
+Algonquin
+Interconnect   Point
+TCPL/IROQ   Waddington
+Iroq/Algo -    Brookfield
+Iroq/CNG   Canajoharie
+Iroq/Tenn   Wright
+CNG/Trco   Leidy
+CNG/Tetc   Leidy
+CNG/Tenn   Morrisville
+CNG/Tenn   Sabinsville
+Tenn    St 219
+Tenn/Trco   Rivervale
+Tenn/TCPL   Niagara
+Tenn    White Plains
+Troc/Algo   Centerville
+Trco/Nat Fuel   Leidy
+Nat Fuel/TCPL   Niagara
+Why did you go to power?  Are you going to look for some of the mistakes I 
+made back in 1994??
+Paul Leanza with Clinton may have a market for the Peoples Gas.  Dick wanted 
+me to talk to you to see if it sounds ok.  Give me a call when you get a 
+chance.
+$4.445 bt $4.455
+4.465 by 4.475
+$4.42 by $4.43
+sounds like some are selling at 44's, now $4.425 by $4.44
+Hi
+Call Chris at you convience about EES/CES.
+Cool
+Twyla_S._Strogen@DOM.COM on 06/06/2000 02:01:04 PM
+What would everyone think of having our next meeting in conjunction with the
+October Customer Meeting?
+( October 12 & 13 )
+Bid is bouncing around $4.03 to $4.06
+This is a Zone 4 to 4 fuel percent.  Doyle is .8 miles off the Transco 
+mainline.  What do you think?
+I thought Chris Meyers said they took this into consideration when talking to 
+Transco.  It has no impact on pricing when flowing the gas from St 85 or St 
+65.
+this is a Z6 NNY to Doyle fuel 
+Chris Germany
+12/05/2000 12:00 PM
+Type  Comm Fuel  Total at $8.70
+FT  .044 1.90%  .2125
+IT  .1907 1.90%  .3592
+Diff  .1467
+Test.  Does this work?
+AGA is 78.  Screen dipped to $3.95, currently at $4.05 / $4.06
+Joanie called Kara at CES about deal 282945.  This is the CGAS citygate gas 
+for Energy Express.  We are selling the gas to CES and CES is reselling it to 
+Energy Express.  Kara told Joanie that she does not expect the volumes to 
+change on this deal.
+Scott needs to work on the capacity sheet so we can tell how much transport 
+CES actually has.  There should be some big changes in CES's transport 
+numbers for June.  (Ex  ENA purchased the BG&E capacity on contract 
+k#65403).  Also, if ENA elected to release CES capacity to Clinton or IGS we need to make sure we record that correctly on the ENA sheet.  Any credits 
+we show on the CES sheet will be passed thru to CES.
+cgerman1682
+clg04apr
+Please put the Transco Sims deal #289172 on the morning sheet.
+The total volume we need to deliver to this deal is 480,000 dth and we may 
+deliver 18,000 dt - 22,000 dt per day.  We currently have 20,000 dt in the 
+sitara.
+We don't have to call Transco when we change the volumes.
+thanks
+Tommy Garza
+06/05/2000 06:02 PM
+ENRON TENNIS ASSOCIATION TOURNAMENT
+WHERE: THE METROP0LITIAN RACQUET CLUB
+ONE ALLEN CENTER     Houston TX. 77002 =20
+WHEN:  SATURDAY, JUNE 13TH, 2000
+TIME:  9:00 A.M.  TO  1:00 P.M.
+FORMAT: SINGLES
+Warm up begins at 9: a.m.  And play starts at 9:30 a.m.
+Dues are $25.00 for the season.
+It can be paid at the tournament or sent to any of the officers of the Tennis=20
+Committee.
+Make checks payable to =01&Enron Corp=018.
+A new waiver of liability form will need to be completed by each player prior=20
+to the tournament.
+Food and drinks will be provided.
+Due to limited court space and time please RSVP by Thursday 8th, 2000 if you=20
+are planning to attend. The Tennis
+Association reserves the right to change format to Doubles due to a larger=20
+than normal turn out.=20
+If you have any questions, please feel free to contact any one of the Enron=20
+Tennis Association Committee:=20
+Tommy Garza @3-6686, Gene Brantz @6-7428, James Pfeffer @6-7685, Dan Olson @=20
+3-5601 or Robert Smith @6-7427.
+Thanks and we look forward to seeing you there. =20
+Feel free to pass this information on to any one else interested in=20
+participating with the Tennis Association.
+Let us update the pricing and we will send you a confirm today or tomorrow.
+cdalpho@columbiaenergygroup.com on 06/02/2000 01:22:46 PM
+Chris;
+Can you send me confirmation on the deals that were done for COH outside the
+Enron-CES agreement.
+The IF Index for TCO App pool is 4.53 +.0175+.02+transport.  Can you confirm
+each market area delivery point with volume and delivered price.
+I need a confirmation record for our files since we are buying this gas
+on-behalf of someone else.
+thanks - Charlie
+We are selling 20,000 day to Transco at TP #5564.  It will cost us $.0153 to 
+go from St 65 to the Sims deal, no fuel.  The transport usage deal is 289228.
+Let me know if you have any questions.
+Check out how I entered deal 289172, the final prices are $4.415, $4.435, 
+$4.455, and $4.475.
+Comment?
+I shuffled the storage deal tickets (deal 268090 and 268093) around for 
+June.  We are injecting more gas at the beginning of the month and less in 
+the end of the month.
+On Tuesday, our net injection goes to 29,687 dth.
+On Sat, 19th, our net injection drops to 2,204 dth.
+This keeps us at our 60% max storage balance on 6/30/2000.
+Could one of you fine gentleman give me the details of what New Power paid 
+ENA for October activity?
+Hi team.  Do not discuss this with anyone at CES or EES please.  May not be a 
+problem but just in case.
+Timothy L Ray@EES
+06/02/2000 10:48 AM
+New Power Company is current working on the acquisition of CES' mass market 
+customers.  In light of the acquisition, there are issues that surround our 
+relationship with ENA as we step into the supply management agreement.  Below 
+are the observations  that I have.  I would like to get you feedback on 
+these.  If necessary, let's get together to discuss the ramifications.
+1) We are purchasing customers within only twelve markets.  As such, we will 
+only interpret the language of the agreement related to "existing markets" as 
+applying to only those twelve markets.  For other markets that we conduct 
+business in, we would choose to make a decision on supplier and load 
+management even if it is an LDC identified as an existing market under the 
+agreement.  In essence, we see the supply management agreement being 
+bi-furcated since CES is selling C&I to another marketer.
+2) My interpretation is that New Power Company will only be on the hook for 
+capacity and storage charges as they apply to mass markets.  This would 
+include capacity and/or storage allocations received on CVA, CMD, AGL.  In 
+addition, it would include the FSS and SST purchased on COH.  It would also 
+include the following transportation agreements: 61822, 61825, 61838, 61990, 
+64939, 65418, 62164.  There are some capacity agreements on TCO for 
+CPA(65041, 65042) and BGE(65108) that were purchased by CES for both C&I and 
+mass markets.  It is our contention that we will only be on the hook for the 
+demand charges related to the capacity covering mass market purchase 
+commitments identified in the schedules of the purchase agreement .  All 
+un-utilized capacity would to stay with CES and/or buyer of the C&I 
+agreements.
+3) We need to discuss the application of the contract to additional capacity 
+that New Power procures applicable to the periods prior to Apr. 1, 2001.  I 
+want to keep this capacity separate and under our control.  I will need your 
+viewpoint on this.  If ENA feels strongly that we must place the capacity 
+under the supply management agreement, then I would want to discuss our 
+ability to market any excess capacity in open market.  Bottom-line, I want to 
+avoid gas costs being inflated due to my inability to receive value for 
+un-utilized capacity. 
+4) I would like to get your viewpoint on the right of first refusal clause My view would be that its applicable would be made to transactions of similar 
+nature and service level. (supply management)  To the degree that New Power 
+chose after the primary term to manage its supply, all supply only 
+transactions would not be subject to this clause 
+I know you will need to review the contract.  We have some time to discuss 
+these issues, but would like to have feedback from you no later than next 
+Friday, if at all possible.  I can be reached at ext 39475.  Thanks for your 
+help. 
+I released the Transco and CNG capacity to Energy Express for the term of the 
+deals.  However, Boston should recall all this capacity effective 7/1/2000.
+Transco Offers
+#20100 for 15 dth effective 6/1/2000 - 5/31/2008 from k# 2.4899, Wharton to 
+Algon
+#20101 for 5 dth effective 6/1/2000 - 5/31/2008 from k# 2.8607, Wharton to 
+Algon
+CNG Offers
+#13817 for 67 dth effective 6/1/2000- 3/31/2003 from k# 5A2529, transport to 
+Leidy
+#13824 GSSTE, effective 6/1/2000 - 3/31/2006, Demand Vol = 132, Capacity Vol= 
+14661.
+Let me know if you have any questions.
+Thanks
+Chris 713-853-4743
+Scott Goodell@
+05/26/2000 10:29 AM
+David Familetto  Hi Scott,
+I got your message this morning regarding the releases for the Columbia
+customers.  I'll call you as soon as I complete my nominations for the
+weekend.
+I understand you may be having a problem releasing to EnergyEXPRESS on CNG -
+I'll see if I can't resolve that 
+Thanks,
+David Familetto
+Metromedia Energy
+(508) 599-7124
+I didn't even know about deal 219618.  I will chat with Dick Jenkins about 
+this after trading 
+Drew Hill
+05/17/2000 02:14 PM
+Chris, I have researched the buy and sell from/to AEC Marketing for 4/2000 Here are the details:
+Location:  7126-NFUL/TRCO LEIDY TRANSCO
+transport demand charge(4/2000)    = $56,078.82
+Deal   227196 purchase 9189/day @ NX1 + .22 (3.12 
+Deal  219618 sell              6000/day @ Michcon Citygate G.D. M.I .39(3.39) 
+It seems as though ENA is recouping the demand charge only on 6,000 mmbtu per 
+day.  Do you know if the additional reimbursement has been locked in Perhaps on the financial side I
+Done.
+Whoo hooo!  I just took the demand charge for CALP to $0 for May.  This 
+affects our demand charges on CGAS.
+We are parking 4,875 dth/day for the 27th-30th on CNG (deal 281565) and we 
+are taking out 478 dth/day for the month of June (deal 281565).  ENA is 
+paying CNG $.04 times the total volume parked.
+Angie, these volumes may go up.  I think Tenn is still trying to balance the 
+weekend and they are a little long.  Clarissa will let you know.
+I made some big changes to the CGAS storage deals 268094 (no changes on this 
+ticket), 268090, and 268093.
+Over the 4 day weekend we are over injecting 195,600 dth.  We will show this 
+volume coming out in June.  I also made about a 7,000 dth change to the 
+volumes coming out in August.
+I am still showing most of the withdrawal of the ENA balance in August.
+Let me know if you have any questions.
+ I don't like to relate sad news, but sometimes we need to pause and
+ remember what life is about:

@@ -1,0 +1,473 @@
+Paul.TYO.Davis@BakerNet.com
+03/17/2000 02:34 AM
+Dear Mark
+In Yasuyoshi Goto's view the agreements are well drafted and contain nothing
+which is likely to cause a problem in Japan.  On the understanding that server
+is to be located outside Japan, we have only the following comments:
+Time of Execution
+Section 3. (c) of the ELECTRONIC TRADING AGREEMENT provides that "Transaction
+shall be deemed executed at the time that Enron first signifies its acceptance
+of Counterparty's offer, accessible on the Website server."
+We understand that this means a contract will be formed when Enron 
+"dispatches"
+its acceptance to its Website server so that the acceptance can be seen by the
+Counterparty's computer display (if he has not yet disconnected).  In other
+words, the contract will be formed at that time even though the Counterparty
+does not see Enron's acceptance (due to disconnection, communication error, or
+some other reason).  If this is indeed the intention, the language could 
+perhaps
+be clarified in this regard.  (Since the agreement is governed by New York 
+law,
+we have no objection to the current language if this is clear under New York
+Law.  Perhaps the UCC covers the point?)
+Governing Law/Jurisdiction
+We see no problem with the governing law and jurisdiction provisions as they
+are.
+Taxation
+Would you please confirm the role if any to be performed by Enron Japan in
+relation to this business, so that we can ensure that Enron Japan will not be
+seen as a dependent agent (and therefore permanent establishment) of Enron 
+North
+America Corp.
+Ryan.Donovan@ubsw.com
+05/18/2000 05:57 PM
+Please find attached the Enron working group list.
+The initial distribution of the documentation will occur tomorrow
+- wgl.doc
+This message contains confidential information and is intended only
+for the individual named.  If you are not the named addressee you
+should not disseminate, distribute or copy this e-mail.  Please
+notify the sender immediately by e-mail if you have received this
+e-mail by mistake and delete this e-mail from your system.
+E-mail transmission cannot be guaranteed to be secure or error-free
+as information could be intercepted, corrupted, lost, destroyed,
+arrive late or incomplete, or contain viruses.  The sender therefore
+does not accept liability for any errors or omissions in the contents
+of this message which arise as a result of e-mail transmission.  If
+verification is required please request a hard-copy version.  This
+message is provided for informational purposes and should not be
+construed as a solicitation or offer to buy or sell any securities or
+related financial instruments.
+What is your anticipated start date in Houston?  We need to work on a place 
+for you to sit.
+I got a call from AEP asking that we have Louise initial the changes we made 
+in the CA and fax it back to them - is she here today?
+mukunah@winstim.com
+05/19/2000 01:48 PM
+In connection with the proposed offering of Enron's PATS, we're attaching a
+Cover Letter, the Preliminary Offering Circular and the Closing Document List.
+,
+Hazel Mukuna
+(See attached file: Cover Letter.doc)    (See attached file: Preliminary
+Offering Circular.doc)        (See attached file: Closing Document List.doc)
+______________________________________
+This message, together with any attachments, is intended only for the
+use of the individual or entity to which it is addressed and may contain
+information that is legally privileged, confidential and exempt from
+disclosure.  If you are not the intended recipient, you are hereby
+notified that any dissemination, distribution, or copying of this
+message,or any attachment, is strictly prohibited.  If you have received
+this message in error, please notify the original sender (or the WSPR
+Help Desk) immediately by telephone (212-858-1000) or by return
+E-mail and delete the message, along with any attachments, from
+your computer.  Thank you.
+- Cover Letter.doc
+- Preliminary Offering Circular.doc
+- Closing Document List.doc
+The only other matters I know of are (i) the Thursday morning interview of 
+Timothy Hailes for a position in the Houston Swap Group and (ii) that Mark 
+mentioned to me that he is planning a trip up to Teeside on Wednesday.  We 
+are trying to set up another interview on Thursday (with David Lacey) but it 
+hasn't been finalized yet.
+Meagan,
+The only meeting I know MEH will be attending is the ISDA Bd. Mtg. on 
+Tuesday, Jan. 26th.  at 12:00 noon.  FYI, MEH departs Houston, Jan. 24th at 
+6:55 p.m. and arrives London, Jan. 25th at 9:55 a.m..  MEH will be at the 
+Savoy and plans to return Jan. 29th on the 9:40 a.m. flight.
+Mark Taylor:
+Could you tell me which meeting you believe MEH would like to attend?
+Thank you,
+sts
+This is the North America version.  There are a number of variations for 
+different jurisdictions.  You can see them all on the website by going to 
+enrononline.com and then going to the "How to Register" page.  There is a 
+drop-down that lists all of the available PA's.
+Melba Lozano
+05/17/2000 02:56 PM
+Mark,
+I hope this helps you out.  Please let me know if you need something else.
+Thank you,
+Melba
+58986
+Justin 
+David Samuels and Rahil Jafrey have come up with an idea for an incentive to 
+get people to use EnronOnline.  They want to set up a sports fantasy league 
+system on the website allowing users to accumulate points and then awarding 
+prizes to the winners.  The first proposal relates to European football (I 
+think) and they would like to meet to discuss the idea at 10:00 a.m. Houston 
+time Tuesday.  Any chance you might be available to listen in?
+They said they had agreed but I have not seen a copy initialed by them.
+Andy Zipper@
+05/22/2000 04:04 PM
+Did they agree to our changes and send back a signed one ?
+Mark -
+You might consider treating the choice of law and submission to jurisdiction 
+as two separate issues.  For example, if BC law is not objectionable, we 
+could choose that law to apply but not consent to the jurisdiction of any 
+particular court.  The most likely outcome (at least in many US states) would 
+be that we would end up in a BC court if we had to sue them but unless we 
+have significant contacts with BC (e.g. an office there) they would have to 
+sue us in Alberta.
+Mark Taylor
+Mark Powell\CAL\ECT
+Sent by: Mark Powell
+05/24/2000 07:27 PM
+Enron Canada Corp. ("Enron Canada") is in the process of negotiating a Master 
+Firm Gas Purchase/Sale Agreement (the "Master") with BC Gas Utility Ltd. ("BC 
+Gas").  In this regard, we have recently received a request from BC Gas to 
+amend the "applicable law" of the Master from Alberta to British Columbia 
+such that subsection 17.12 of the Master would read as follows:
+"This Agreement shall be governed by and construed, enforced, and performed 
+in accordance with the laws of the Province of British Columbia, without 
+regard to principles of conflicts of law, and each Party hereby submits to 
+the non-exclusive jurisdiction of the courts of British Columbia 
+BC Gas has also asked that the applicable law for the guarantee of Enron 
+Corp. be governed by the laws of British Columbia.
+While I am fairly sure that we will be able to persuade BC Gas to accept the 
+State of Texas as the appropriate law for the Enron Corp. guarantee, it seems 
+unlikely (because the counterparty is a British Columbia utility that 
+operates primarily in British Columbia) that BC Gas will accept any 
+jurisdiction other than British Columbia with respect to the Master.
+Although I have not been called to the bar in British Columbia and there may 
+be some quirks and minor differences between the jurisdictions, it is my 
+understanding that the commercial law of British Columbia is generally not 
+much different from that of Alberta.  Nevertheless, I am seeking your 
+comments and consent to such an amendment to the Master.
+Should you have any questions or require additional information, please give 
+me a call at (403) 974-6708.  Thank you for your assistance with this matter.
+Yours truly,
+Mark Powell
+Yes, I spoke to her earlier this week.
+Sorry I didn't get back to you in response to your voice-mail.  I was hoping 
+I could talk to Carol and Sara to see if anyone remembers why we incorporate 
+the Credit Support Documents by reference.
+Regarding the cross-default, we usually do not expand the definition since we 
+don't want to bring in other derivatives transactions - of course that was 
+before we started doing derivatives under various master agreements with the 
+same entities.  It may be time to revisit this one.
+Paul Simons
+05/26/2000 11:46 AM
+Mark
+As mentioned at our trading meeting on Tuesday, we are putting together a 
+tailored ISDA schedule for our banking counterparties with which we propose 
+to trade credit transactions.
+One issue we have revisited is whether the definition of Specified 
+Indebtedness (which ties into the cross default provisions) should be 
+expanded to cover derivatives transactions as well as the more conventional 
+bank borrowings 
+We think there are arguments both ways on this, but wonder whether we have a 
+"house view".  Since the definition is not expanded in our standard ISDA 
+schedule, we assume that our preferred position is to exclude derivatives 
+transactions from the cross default provisions of the ISDA.
+Perhaps we can discuss this when you have a spare moment! Thanks
+Kind 
+Paul
+Mark Taylor
+05/17/2000 06:00 PM
+Melba Lozano
+05/17/2000 02:56 PM
+Mark,
+I hope this helps you out.  Please let me know if you need something else.
+Thank you,
+Melba
+58986
+Looks good to me.
+Sara Shackleton
+05/30/2000 08:13 AM
+All:   I would like to take the following dates if no conflicts:
+(1)  Friday, June 30
+(2)  week of July 24 - 28
+Please let me know if there is a problem.  Sara
+This looks fine to me.  The tax section of the draft was a holdover from the 
+initial survey done in Europe last year.  In this case, I assume that Lynn is 
+taking care of the tax issues and may be using different counsel for tax 
+issues.  In Brazil the entire tax section of the memo was deleted before it 
+was sent to counsel.
+Brent Hendry@_DEVELOPMENT
+05/29/2000 12:53 PM
+Mark here is my markup to the survey.  I tried to be more specific in a few 
+areas to adjust it to what is likely to happen in Argentina.  Let me know if 
+you have any comments 
+Lynn we could use some help on drafting the tax questions in Section 9 to 
+more specifically handle the unique tax situation in Argentina 
+Thanks.
+Alan - I know Jeff is out of town and may not see this right away so I 
+thought I would forward it on to you.
+Melba Lozano
+05/30/2000 04:48 PM
+Jeff,
+Andrew Conner wants to trade Pulp Physical Forward on Enron Online.  We 
+currently have Pulp Financial Swaps.  Could you please provide me with the 
+Online GTC that we will be using for this product.  If you have any questions 
+please call me at ext.58986.
+Thank you,
+Melba
+If you want to take a day or two of lessons on a bigger boat or if some of 
+your friends need an intro course, you might try this outfit.  They're the 
+ones who manage my boat.
+My boat:
+Steve:
+Here is the most recent draft of the swap agreement.  The marked copy (the 
+second attachment) shows the changes with the exception of the payee tax rep 
+which has been deleted in the clean version.
+Mark
+Will putting this in the confirmation give the accountants heartburn over 
+treating the transaction as a swap?
+Tana Jones
+05/30/2000 07:31 PM
+Morris Richard Clark
+05/30/2000 07:24 PM
+Tana,
+The language in the Schedule should reflect what is in our Form#3, whereby 
+"Enron Re:" is the U.S. entity and "Swiss RE - EFR" is a Barbados entity Also, the tax form requested should be a W-8.
+In addition, the following language should be added to the confirmation:
+United States Federal Income Tax Characterization and Reporting.  The parties 
+recognize and intend that, for United States federal income tax purposes, any 
+payment by the Counterparty of the Floating Amount will be treated as a 
+payment pursuant to a guaranty by the Counterparty of the obligations of Bob 
+West Treasure, LLC to make payments pursuant to Section ___ of the 
+[underlying Financing Agreement between Bob West Treasure and Royal Bank of 
+Canada.]  The parties agree that to the extent either of the parties is 
+required to report any item of income, gain, loss, deduction or credit 
+relating to the Transaction for United States federal income tax purposes, 
+such party shall report such item consistent with the characterization set 
+forth above and shall not take any position on any tax return or report 
+relating to United States federal income taxes which is inconsistent with 
+such characterization.  The parties recognize that the manner in which they 
+have agreed to characterize the Transaction for United States federal income 
+tax purposes may be inconsistent with the manner in which the Transaction is 
+characterized for other tax purposes and for accounting, regulatory or other 
+purposes.  The provisions of this Section are not intended to affect the 
+manner in which the parties report the Transaction for such other purposes, 
+or the interpretation of the provisions of the Confirmation and the rights 
+and obligations of the Parties arising hereunder, for any purposes.
+Please remember to go into the Performance management System to select 
+reviewers for this series of performance reviews.
+Please remember to go into the Performance Management System to select 
+reviewers for this series of performance reviews.
+Bryan -
+The process for approving these involves sending the names to the General 
+Counsels of the various operating companies here in Houston.  Several of them 
+then send the lists to the senior business people in their organizations Unless there is a real urgency, I would suggest that we send the list all at 
+once instead of piecemeal.  What do you think?
+Mark
+Bryan Seyfried
+05/30/2000 08:09 AM
+We are in the process of selecting a large number of reference credits to be 
+approved for display on the web site.  Our intention is to have 1000 names on 
+line by the end of the quarter.  We are internally scrubbing the lists now 
+and will forward them soon.  In the meantime, can we get approval to quote 
+the following on line:
+Transocean Sedco Forex Inc.
+KPN N.V.
+Deutsche Telekom
+Technost International
+Vivendi
+Ryder Systems
+Petrocanada
+thanks
+Thanks for your note.  In reply:
+1.  We will change United Kingdom to England in the governing law section.
+2.  and 3.  We did switch to the English law form and our form didn't provide 
+for using securities as collateral.  As you point out, it is likely that SR 
+will always be in the money and the CSA provides for an unlimited Threshold 
+for SR at all times so that it will never be providing collateral under that 
+document.   There are certainly other changes that could be made to the 
+document with that in mind but in the interest of time we didn't make much of 
+an effort on that score - our theory was that you wouldn't mind too much 
+since you would never have to post anything under this document.
+Please let me know if you have any other questions or comments.
+Mark
+"Stephen Kruft"  	05/31/2000 08:56 AM
+I looked at the EFR-ENA Schedule in connection with Gordon Boozer's
+comments.  I see no problems except:
+1.  The document is expressed to be governed by the law of the"United
+Kingdom."   I have never seen this formulation and think it should say
+"England," as I believe there are in fact multiple legal systems (e.g.,
+Scottish) within the U.K.
+2.  I am not sure why all collateral except LCs was deleted.  Was this
+agreed by EFR?  If so, OK.  If not, could the CSA provide for other
+collateral as Gordon requested.  It is unusual for SR entities to use LCs
+in non-reinsurance situations and would probably cost them less to post
+Treasuries.  Here it is of course unlikely that EFR will have to post
+anything, since EFR will always be in the money to some extent.
+3. Did you switch to the English law form of CSA?
+That certainly makes sense to me.  I had better talk to Paul about the 
+appropriate procedures going forward.
+Bryan Seyfried
+05/31/2000 09:36 AM
+now that we are officially behind a chinese wall can this process be 
+reevaluated?  I think that it will be increasingly difficult to scale at the 
+pace we need to over the coming months if we can not design an automated 
+process.  Are we trying to avoid actually misusing confidential information 
+or the perception of misusing the information?  our intent is to begin to 
+scale on a massive level from now until we have reached over a million 
+reference credits.
+bs
+Bryan -
+The process for approving these involves sending the names to the General 
+Counsels of the various operating companies here in Houston.  Several of them 
+then send the lists to the senior business people in their organizations Unless there is a real urgency, I would suggest that we send the list all at 
+once instead of piecemeal.  What do you think?
+Mark
+Bryan Seyfried
+05/30/2000 08:09 AM
+We are in the process of selecting a large number of reference credits to be 
+approved for display on the web site.  Our intention is to have 1000 names on 
+line by the end of the quarter.  We are internally scrubbing the lists now 
+and will forward them soon.  In the meantime, can we get approval to quote 
+the following on line:
+Transocean Sedco Forex Inc.
+KPN N.V.
+Deutsche Telekom
+Technost International
+Vivendi
+Ryder Systems
+Petrocanada
+thanks
+I was assuming that Paul might have a process set up for the UK and that we 
+could copy most of it.  Do you know if he has created one already?
+Bryan Seyfried
+05/31/2000 10:19 AM
+Paul is on holiday this week...any chance we could hammer out a skeleton this 
+week and then get with paul on monday 
+That certainly makes sense to me.  I had better talk to Paul about the 
+appropriate procedures going forward.
+Bryan Seyfried
+05/31/2000 09:36 AM
+now that we are officially behind a chinese wall can this process be 
+reevaluated?  I think that it will be increasingly difficult to scale at the 
+pace we need to over the coming months if we can not design an automated 
+process.  Are we trying to avoid actually misusing confidential information 
+or the perception of misusing the information?  our intent is to begin to 
+scale on a massive level from now until we have reached over a million 
+reference credits.
+bs
+Bryan -
+The process for approving these involves sending the names to the General 
+Counsels of the various operating companies here in Houston.  Several of them 
+then send the lists to the senior business people in their organizations Unless there is a real urgency, I would suggest that we send the list all at 
+once instead of piecemeal.  What do you think?
+Mark
+Bryan Seyfried
+05/30/2000 08:09 AM
+We are in the process of selecting a large number of reference credits to be 
+approved for display on the web site.  Our intention is to have 1000 names on 
+line by the end of the quarter.  We are internally scrubbing the lists now 
+and will forward them soon.  In the meantime, can we get approval to quote 
+the following on line:
+Transocean Sedco Forex Inc.
+KPN N.V.
+Deutsche Telekom
+Technost International
+Vivendi
+Ryder Systems
+Petrocanada
+thanks
+"Stephen Kruft"  	05/31/2000 10:52 AM
+This seems fine to me.  I have no other questions or comments.  There is a
+small issue outstanding re. the Enron Re outside counsel opinion, which I
+think LeBoeuf is handling with Bermuda counsel.
+Steve
+Mark.Taylor@ on 05/31/2000 10:57:24 AM
+Thanks for your note.  In reply:
+1.  We will change United Kingdom to England in the governing law section.
+2.  and 3.  We did switch to the English law form and our form didn't
+provide for using securities as collateral.  As you point out, it is likely
+that SR will always be in the money and the CSA provides for an unlimited
+Threshold for SR at all times so that it will never be providing collateral
+under that document.   There are certainly other changes that could be made
+to the document with that in mind but in the interest of time we didn't
+make much of an effort on that score - our theory was that you wouldn't
+mind too much since you would never have to post anything under this
+document.
+Please let me know if you have any other questions or comments.
+Mark
+"Stephen Kruft"
+I looked at the EFR-ENA Schedule in connection with Gordon Boozer's
+comments.  I see no problems except:
+1.  The document is expressed to be governed by the law of the"United
+Kingdom."   I have never seen this formulation and think it should say
+"England," as I believe there are in fact multiple legal systems (e.g.,
+Scottish) within the U.K.
+2.  I am not sure why all collateral except LCs was deleted.  Was this
+agreed by EFR?  If so, OK.  If not, could the CSA provide for other
+collateral as Gordon requested.  It is unusual for SR entities to use LCs
+in non-reinsurance situations and would probably cost them less to post
+Treasuries.  Here it is of course unlikely that EFR will have to post
+anything, since EFR will always be in the money to some extent.
+3. Did you switch to the English law form of CSA?
+by iss05.interliant.com (8.9.3/8.9.3) id JAA13077
+for
+ant.com; Wed, 31 May 2000 09:57:26 -0500 (CDT)
+JAA10211
+for  
+e4VEv8C17711
+for  
+One day, while walking down the street, a highly successful lawyer was 
+tragically hit by a bus and killed. His soul arrived up in Heaven, where he 
+was met at the Pearly Gates by St. Peter himself.
+"Welcome to Heaven," said St. Peter. "Before you get settled in, though, it 
+seems we have a problem. You see,  we've never once had a lawyer  make it 
+this far and we're not really sure what to do with you."
+"No problem-just let me in," said the lawyer
+"Well, I'd like to, but I have higher orders. What we're going to do is let 
+you have a day in Hell and a day in Heaven, and then you can choose whichever 
+one you want to spend an eternity in 
+"Actually, I think I've made up my mind...I prefer  to stay in Heaven," said 
+the lawyer 
+"Sorry, we have rules," said St. Peter, and with that, he put the lawyer in 
+an elevator  and it went  down-down-down to Hell.
+The doors opened and the lawyer found himself stepping out onto the putting 
+green on a beautiful golf course. In the distance was a country club, and 
+standing in front of him were all of his friends and fellow lawyers with whom 
+he had worked. They were all dressed in black tie and evening gowns and 
+cheering for him. They ran up and kissed him on both cheeks and they talked 
+about  old times. They played an excellent round of golf, and that night went 
+to the country club where he enjoyed an excellent steak and lobster dinner.
+The lawyer even got to meet the Devil, who was actually a woman and very good 
+looking.  He had a great time telling jokes and dancing.  In fact, the lawyer 
+was having such a good time, that before he knew it, it was time to leave.
+Everybody shook his hand, thanked him for coming  and waved goodbye as he 
+got on the elevator.
+The elevator went up-up-up and opened back at the Pearly Gates, where he 
+found St. Peter waiting for him. "Now it's time to spend a day in Heaven," he 
+said.
+So the lawyer spent the next 24 hours lounging around on clouds and playing 
+the harp and singing. He had a great time, and before he knew it, his  24 
+hours were up. St. Peter came and got him.
+"So, you've spent a day in Hell and you've spent a day in Heaven. Now you  
+must choose your eternity," he said.  The lawyer  paused for a second, and 
+then replied, "Well, I never thought I'd say this. I mean, Heaven has been 
+really great and all, but I think I had a better time in Hell."  So St. Peter 
+escorted him to the elevator and again he went down-down-down, back to Hell 
+When the doors of the elevator opened, the lawyer found himself standing in 
+a desolate wasteland covered in garbage and filth. He saw his friends and 
+fellow lawyers were dressed in rags and were picking up the garbage and 
+putting it in sacks.
+The Devil appeared before the lawyer.  She now had horns sticking out of her 
+head, fire spit out her ears and nose  and she had a very evil laugh
+The lawyer stammered:   "I don't understand.  Yesterday, I was here and  
+there was a golf course and a country club and we ate lobster and danced and 
+had a great time. Now all there is a wasteland of garbage and all of my 
+friends and fellow lawyers look overworked and miserable 
+The Devil looked at the lawyer and smiled.
+"Yesterday we were recruiting you; today you're ours."
+> (Life in the Law Firm)
+>
+>
+>
+>
+>
+>
+>

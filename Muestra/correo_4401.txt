@@ -1,0 +1,675 @@
+secure and private internet!!
+__________________________________________________
+Do You Yahoo!?
+Send online invitations with Yahoo! Invites.
+- r_t2.1.doc
+NETWORK WORLD FUSION FOCUS: JASON MESERVE on
+SECURITY AND BUG PATCH ALERT
+TODAY'S FOCUS: Social engineering
+04/25/00
+Dear Wincenty Kaminski,
+~~This issue is sponsored by 
+Mission Critical Software 
+FREE SECURITY eSEMINAR
+Windows NT and Windows 2000 security expertise at your fingertips!
+Mission Critical Software presents Windows Security: Step-by-Step as
+part of its new, innovative on-demand eSeminar site. Reduce the risk
+and impact of a security incident by ensuring your NT systems are
+properly configured and managed. Review the SANS Institute Security
+Checklist to lock out violators.
+Register NOW for this and other tracks and product demos!
+Nobody Does Windows 2000 better. Nobody.
+Subscribe to the "Whitepapers Download" newsletter from Network World!!
+Keep up-to-date with summaries and links to the latest vendor-sponsored
+whitepapers on Network World Fusion.
+Subscribe to Whitepapers Download at
+Today's Focus: Social engineering
+Here's an interesting topic that came up in a Butler Group OpinionWire
+e-mail newsletter: social engineering.
+Instead of using technical skills to break into computers, hackers
+often use the weakness of the human mind to gain access to corporations.
+Hackers befriend users and trick them into giving away sensitive
+information that can be used to gain access to systems. These hackers
+also use trickery such as pretending to be from tech support to get
+unsuspecting users to give up their username and password information.
+Serbian hackers used the technique to gain access to Web sites
+registered by Network Solutions, Inc., according to the Butler Group.
+The hackers then defaced these sites as a form of political and social
+protest.
+While no data was stolen, the incidents bring up an interesting point.
+While you may have security in place, it is still important to educate
+users on security practices, such as never giving passwords or other
+sensitive information out to unknown people or Web sites. AOL warns its
+users all the time that administrators do not ask for password
+information when dealing with customers.
+Make sure your employees aren't unwittingly leaving the front door open
+to attack.
+One other note before we get to the latest alerts. Last week, a brain
+cramp had me misreading information about the alleged backdoor
+passwords in Microsoft software. The problem is associated with
+InterDev 1.0, not Version 7.0 as previously reported. Also, I was
+remiss in not mentioning that Microsoft recommends deleting the
+DVWSSR.DLL library that installs as part of a number of Web software
+applications, including FrontPage 98 Extensions. The library could be
+used in buffer overflow attacks.
+Now on with the latest patches and alerts:
+Panda Software warns of W95/CIH virus
+W95/CIH (or Chernobyl) is set to go active on April 26, the anniversary
+of the Chernobyl nuclear disaster of 1986. The virus infects various
+executables with 1K byte of code, and on the 26th is set to destroy the
+Flash BIOS of Intel Pentium processors, rendering the computer useless
+until the Flash BIOS is restored to its original settings.
+For more information:
+Microsoft releases procedure to eliminate  "Server-Side Image Map
+Components" vulnerability
+A vulnerability in several Web server products from Microsoft could let
+a malicious Web site visitor perform actions that the system
+permissions allow, but could not have been accessed without this hole.
+The risk is in FrontPage 97 and 98 extensions htimage.exe and
+imagemap.exe, which provide server-side image-mapping support.
+Microsoft says the affect of this bug is limited, but the company is
+providing a means of remedying the situation.
+For more information on the procedure:
+Buffer overflow in Red Hat's imwheel module
+A buffer overflow condition in the imwheel module that comes with Red
+Hat Powertools could allow a local user to execute arbitrary commands
+as root.
+For more information:
+Red Hat releases new openldap packages
+The new openldap package fixes a vulnerability in Red Hat Linux
+Versions 6.1 and 6.2. The old version of the package creates a link to
+the /tmp directory that is world writable. This could allow users to
+destroy any file on a mounted file system.
+For more information:
+RealNetworks releases patch for denial-of-service vulnerability in
+RealServer
+RealNetworks' RealServer streaming media server contains a
+vulnerability that could allow a malicious user to cause a stack
+overflow and shut down the system until it is rebooted by an
+administrator. RealNetworks says the problem lies in the PNA
+protocol-handling scheme.
+Download the patch:
+Bug in Netscape Navigator could allow others to view bookmarks
+A flaw has been discovered in Netscape Navigator that could allow a
+malicious Web site operator to view a person's bookmark file. By using
+a combination of JavaScripts, cookies and frames, an operator could
+view the contents of a bookmark file, if the browser user is set to
+"default." Also, support for cookies and JavaScript needs to be turned
+on. The problem could be part of Microsoft Internet Explorer as well.
+While no code can be run on the client machine, the problem could
+expose private information in the bookmark file.
+Patch available for "Malformed Environment Variable" vulnerability
+A vulnerability in Windows NT 4.0 and Windows 2000 could allow a
+malicious user to make some or all of the memory on a server
+unavailable, effectively slowing and shutting down the machine. The
+CMD.EXE command processor has an unchecked buffer in part of the code
+that handles environment strings. Microsoft does not believe this to be
+a major threat.
+For more information:
+Patch available for "Mixed Object Access" vulnerability
+Microsoft scores the hat trick with its third vulnerability of the
+week. This patch fixes a limited problem in Windows NT 4.0 and 2000
+that could allow a user to change information in Active Directory
+without permission. The scope of the problem is very small and only
+pertains to certain object attributes.
+For more information:
+WM97/Astia-AI reported in the wild by Sophos
+Many people like to write these Word macro viruses. For hackers, these
+must be the equivalent of the little Pascal programs that sorted simple
+lists, which I had to write back in my early days as a computer science
+major. Hackers must start with these viruses before jumping to the big
+leagues of distributed-denial-of-service attacks. This particular
+strain creates Book.dot and Book.src files in the Word StartUp
+directory and affects the Normal.dot file. The virus will pop up a
+window titled "TITANUS" if a user enters the Visual Basic Macro Editor.
+It will then attempt to infect an open document. Just another pain to
+be aware of.
+For more information:
+Georgi Guninski reports another IE problem
+Georgi Guninski is the king of finding bugs in Microsoft Internet
+Explorer. This time, Guninski has found an error in the way Microsoft
+implements its Java Virtual Machine that could circumvent the cross-
+frame security policy built into the browser. This could allow
+malicious users to use the Document Object Model to gain access to
+files on a vulnerable machine. Guninski reports that fixing the problem
+is not as easy as turning off Active Scripting.
+For a demonstration of the problem:
+Problem with Panda Security 3.0
+DeepZone is reporting a problem with Panda Security 3.0's key handling.
+Local users could override their privileges and gain access to
+administrator rights. This could allow an unauthorized user to
+uninstall the product.
+For more information and patches:
+(user name and password required)
+Denial-of-service problem with some versions of Cisco IOS
+A defect in multiple Cisco IOS software versions will cause a Cisco
+router to reload unexpectedly when the router is tested for security
+vulnerabilities by security scanning software programs. The defect can
+be exploited repeatedly to produce a consistent denial-of-service
+attack. Cisco recommends upgrading affected systems as soon as possible.
+For more information and to see which versions are affected:
+FreeBSD Generic-NQS contains a local root compromise
+Generic-NQS Versions 3.50.7 and earlier contain a vulnerability that
+allows a local user to easily obtain root privileges. Generic-NQS is a
+queuing system for running a batch process across multiple machines.
+Patches:
+ftp://ftp.FreeBSD.org/pub/FreeBSD/ports/i386/packages-3-stable/net/generic-nqs
+-3.50.9.tgz
+ftp://ftp.FreeBSD.org/pub/FreeBSD/ports/i386/packages-4-stable/net/generic-nqs
+-3.50.9.tgz
+ftp://ftp.FreeBSD.org/pub/FreeBSD/ports/alpha/packages-4-stable/net/generic-nq
+s-3.50.9.tgz
+ftp://ftp.FreeBSD.org/pub/FreeBSD/ports/i386/packages-5-current/net/generic-nq
+s-3.50.9.tgz
+ftp://ftp.FreeBSD.org/pub/FreeBSD/ports/alpha/packages-5-current/net/generic-n
+qs-3.50.9.tgz
+Other interesting tidbits:
+Libsafe 1.3 stack protection software
+Some engineers at Bell Labs and MandrakeSoft have developed software
+for preventing "smash attacks" against the network stack of a Linux box.
+The software is said to prevent attackers from smashing the return
+address and taking control of the flow of a running program.
+For more information:
+Alcatel and Funk team to tighten LAN security
+Alcatel is making it possible to keep unauthorized LAN users out of
+resources they shouldn't be using with a security package from Funk
+Software. The package uses Remote Authentication Dial-In User service
+RADIUS) to give network professionals the ability to create logical
+workgroups and virtual LANs, even when those users are spread out on
+different LAN segments or move from location to location with laptops.
+Network World, 04/19/00.
+Miss a newsletter?
+Don't fear, if you're new to the newsletter or are looking for past
+newsletters, you can check out the archives at:
+To contact Jason Meserve:
+May We Send You a Free Print Subscription?
+You've got the technology snapshot of your choice delivered at your
+fingertips each day. Now, extend your knowledge by receiving 51 FREE
+issues to our print publication. Apply today at
+Subscription Services
+To subscribe or unsubscribe to any Network World e-mail newsletters,
+go to:
+To change your email address, go to:
+Subscription questions? Contact Customer Service by replying to this
+message.
+Other Questions/Comments
+Have editorial comments? Write Jeff Caruso, Newsletter Editor, at:
+For advertising information, write Jamie Kalbach, Account Executive,
+at: mailto:jkalbach@nww.com
+Network World Fusion is part of IDG.net, the IDG Online Network.
+IT All Starts Here:
+FYI
+Vince
+The Real Options Seminar which is scheduled on Thursday April 27th will be 
+held in EB46C1.  The seminar will begin at 8:30 and will finish at 11:30 Coffee and bagels will be served 
+The baseball will begin at 3:05, and the ball park opens at 1:00.  Food and 
+drinks will be provided in the suite at 2:00.  There may be a tour of the 
+field scheduled at 1:00, I will let you know the details.
+Dinner is to follow the game, place is still be determined.
+For Chicago attendees, if you are on the 4:44 flight, please let me know if 
+you need transportation to the airport.  Transportation will be provided in 
+Houston upon arrival to the hotel.  Please let me know of your flight 
+itinerary if you are interested.
+Please let me know if you have any questions.
+Thanks,
+Lynn
+312) 541-1379
+Shirley,
+The candidate for Friday. I have already talked
+to him.
+Vince
+nvaldes@txuenergy.com on 04/25/2000 11:11:23 AM
+Hello Vince,
+I enjoyed talking with you this morning.   Per our  conversation, here is
+Norberto Valdes' resume.   I will call you in about an hour to make sure you
+Sincerely,
+Lisa Ford
+281)913-2076
+(See attached file: resumen 4.doc)
+- resumen 4.doc
+We can hire the person as a summer intern
+directly (outside the A&A pool).
+Shirley, please arrange a phone interview
+as in the case of other candidates Osman found.
+Vince
+Osman Sezgen@EES
+04/25/2000 05:41 PM
+FYI.
+Osman
+Amyn Saleh  Hi Osman,
+Hope you are doing well. Thank you for replying to my phone call. I have
+attached my resume to this email and would be extremely grateful if you
+could pass it around to hiring managers. Thank you and I look forward to
+hearing from you.
+,
+Amyn Saleh
+- Amyn Saleh's Resume.doc
+Steve,
+I shall E-mail you my standard real option spin presentation + plus a 
+presentation on Enron
+(for analysts). You can use a few slides to  introduce the company.
+I would prefer not to disseminate the information about the  use of AMC. The 
+industry
+does not know about it yet and I consider it a very  powerful tool (given its
+flexibility).
+I have the files on my laptop. I shall bring it to work to morrow
+and send it to you.
+Please, remind me about it on Thursday (old age and the hectic pace here start
+showing up).
+Vince
+Steven Leppard
+04/26/2000 05:09 AM
+Vince
+Lenos got back to me, and said he'd prefer a high-level overview of real 
+options in Enron, perhaps using my notation to express the ideas.  He wants 
+me to keep away from the technicalities of my work.
+Would you send me your (usual) powerpoint presentation on real options, and 
+I'll look at manipulating it to include my diagrams.  My own efforts to date 
+have been on fairly limited power plant modelling/asset development, and I 
+obviously don't have the high-level view you have.  This will ensure I get 
+the full range of real option type deals in my presentation.
+If required I could present the real option problems I have analysed, namely:
+1. Maintenance scheduling in power plant operation;
+2. Gas storage;
+3. Power plant asset development, which would include (1) as a sub-tree.
+I will also need your advice on whether I can talk about the fact that we 
+prefer American Monte Carlo to build our trees.  I haven't used AMC myself up 
+till now, I've been carrying out static optimizations, with different price 
+curve scenarios being run through.
+I'm still working on selling the full stochastic dynamic programming approach 
+- people are just getting to the stage of accepting my deterministic DP, and 
+they're still being supplied with useful products, as per my "Real Options 
+Strategy" document.
+Cheers,
+Steve
+Larrissa,
+I spoke with Joe Pokalsky. He will be glad 
+to help you.
+Please, call him at the number 770  393 7411.
+Vince
+Larrissa Sharma
+04/26/2000 08:20 AM
+Vince,
+The letter was perfect.  Thanks for the trouble. 
+My name however is spelt with a double "R". ==> Larrissa Sharma.
+larrissa.
+Vince J Kaminski
+04/25/2000 09:19 AM
+Larrissa,
+Please, take a look at the letter.
+My assistant is on vacation, she will be back tomorrow.
+Please, check the spelling of your first name. It was inconsistent in the 
+original letter from the lawyer.
+Vince
+Hello,
+Please, give me a call.
+Vince Kaminski, 713 853 3848.
+Vince
+Darrell,
+I am sending you 2 technical notes on Enron default swaps: I hope that they 
+will
+be useful. I shall read the articles on weekend. I am curious if you
+find these explanations satisfactory.
+We are very slow in preparing a number of technical documents
+for you for model reviews. We still hope you will be able
+to find some time to review our credit models (for our London
+credit trading) and  VaR and option pricing related models.
+Also, please check your invoices. I still think we owe you money.
+Vince
+Darrell Duffie  Vince: According to a Bank of America
+publication, your (Enron) default swap spreads
+are consistently trading about 80
+basis points wider than your asset swaps.
+Any idea of what is going on here?
+Thanks for any guidance, Darrell
+_____________________________________________
+Darrell Duffie
+mail  GSB Stanford CA 94305-5015 USA
+phone 650 723 1976
+fax   650 725 7979
+email duffie@stanford.edu
+web _____________________________________________
+Please add our contact information to your database.  What follows are a
+couple of active searches, should you become aware of interested
+individuals.
+Chief Executive Officer
+LOCATION: San Diego, CA
+COMPANY: **rates.com
+COMPENSATION:  Targeted compensation in the >$200k base range plus extensive
+stock ownership and bonus.
+DESCRIPTION:   The Board of Directors of **Rates.com is seeking a dynamic
+and experienced executive for the position of CEO of this Pre-IPO Internet
+company. The CEO would play a key role in the business strategy of a highly
+entrepreneurial and fast-growing company and answer directly to the Board of
+Directors. This individual must be smart, highly motivated team leader able
+to offer strong business strategies, especially involving the rapid growth
+of operations and resulting financial challenges. The CEO must be
+expansion-capable and have experience with business start ups, growing
+businesses and the ability to get the company to a public offering
+The Chief Executive Officer for this 1-year start-up, B2B e-commerce, single
+location company must be able to commercially launch the company in the
+energy industry, and ultimately expanding into other market niches while
+making this company a market leader in the Internet Rate Comparison market.
+**Rates.com is a California C Corporation company with an industry leading
+Board of Directors and Advisory Board. The company in the process of
+assembling a management team, finalizing the business plan and taking the
+rate comparison service to market. The initially targeted electric and
+natural gas industries have over $200 billion in annual revenues. Currently,
+the three largest internet rate comparison companies have little or no
+market share in the energy industry.
+Possible candidates can come from a variety of experiences, but experience
+in starting up an energy company or leading-edge technology company is
+critical.
+REQUIREMENTS:  The candidate must have 8-15 years of executive management
+experience (i.e., CEO, President, Sr. Vice-President, Partner level
+Consultancy) in the private sector either with a deregulated energy company,
+a large consulting or a services oriented firm. Extensive background in
+either the energy field, high technology, including telecommunications,
+systems software, e-commerce development or e-commerce. Must have a strong
+background in business development and building relationships with large
+companies. Strong visionary with proven leadership qualities and capable of
+building a company. Degree essential.
+Computer literate in word processing/budget formats/ and e-mail necessary
+group and people skills essential organizational and planning skills a must
+over all must be a self-starter and a communicator must be willing to travel
+in states as necessary.
+Position Title: Director of Acquisitions Department: Corporate Development
+Location: DC    Reports to: Vice President, Acquisitions
+Position Summary:
+The person holding this position serves as a transaction team leader for
+large acquisition projects within the Energy Group, performing all
+activities and managing all resources necessary to successfully acquire
+operating power plants, or gas assets.  Working largely through
+self-direction, he or she manages the project team for an assigned project
+and establishes and adheres to budgets and schedules.  Due to high deal
+flow, the Energy Group needs two Directors of Acquisitions, and has one open
+position.
+Principal Duties and Responsibilities:
+1. Manages the project team for an assigned project.  Successfully manages
+the project through signing of an asset purchase agreement.
+2. Manages development of and inputs to, project/proposal economic
+projections.  Obtains sign-off on pro forma inputs from appropriate company
+officers.
+3. Identifies problems and solicits input from appropriate team members
+and/or senior management on project issues.  Develops alternative solutions
+and assesses the alternatives in the context of project and corporate
+objectives.  Chooses and implements the best solutions.
+4. Establishes project budgets and schedules and manages expenditures to
+budgeted levels.
+5. Plans and organizes tasks and short-term goals for the project team
+members to ensure the project stays on schedule.  Coordinates activities of
+team members (including third parties) from different disciplines to ensure
+activities with overlapping disciplinary impacts are performed efficiently.
+6. Represents the project and the company in discussions with interested
+parties, at lender meetings, etc., and develops appropriate relationships
+with individuals involved.
+7. Identifies key issues associated with an acquisition and its potential
+=01&fatal flaws.=018
+8. Assists in maintaining relations with investment banks and legal firms to
+assure that company receives all appropriate =01&deal flow.=018
+9. Leads process of obtaining company's approval for acquisitions and
+coordinates requirements with the corporate office as to due diligence
+scope, structuring issues, risk assessment, financial analysis, etc.
+10. Reviews, edits and assists in negotiating asset purchase and related
+agreements.
+11. Assists in the timely closing of transactions.
+12. Maintains a working knowledge of regional electric market and sub-market
+pricing, load shape, resource mix and transmission characteristics.
+Required Job-Related Qualifications:
+1. BA/BS required; advanced degree in business or related field preferred.
+2. Strong analytical skills, experience in building and managing pro formas.
+3. Substantial record of successfully managing and participating in the
+development or acquisition and financial closing of independent power
+projects or merchant plants.
+4. Excellent oral and written communication skills.
+5. Ability to function in a team environment with multiple and changing
+priorities, as either leader or team member.
+Interview with:  Chief Financial Officer
+Vice President, Acquisitions
+Managing Director, Development
+Director, Acquisitions
+Asian Sales Manager position.
+Selling turbomachinery controls throughout Asia.  The best location for this
+position is in Singapore.  All
+candidates for this position should have a proven track record selling
+controls in the region.
+The Asian Sales Manager will be responsible for growing I&C systems product
+line(direct sales)throughout Asia. This will include sales of control
+systems through engine and turbine packagers and rebuilders. Company will
+also pursue sales directly to end-users with the best candidates being the
+oil & gas producers and power companies. The company will emphasize gas
+turbine applications including compressor and generator drives. The company
+is interested in developing alliances with large users such as ONGC,
+Petronos, and Caltex, as well as pursuing the individual retrofits with
+energy companies. Retrofit opportunities will not be limited to this
+company's machines. The company will retrofit any gas turbine. We will also
+retrofit gas or diesel engines.
+The company expects sales results and then growth plans for leveraging these
+early successes. As they grow, additional sales personnel may be added and
+they will report to the Asian Sales Manager.
+Company hot buttons:
+1. Familiar with Asian oil & gas and power generation markets.
+2. Strong technical understanding of control systems and turbomachinery
+applications.
+3. Well organized, self-managed individual.
+4. Ability to manage and direct other sales people.
+5. Ability to work with key customers, to understand their turbomachinery
+requirements and communicate I&C solutions.
+6. Ability to achieve early sales results and to develop sustained sales
+growth.
+7. Ability to develop long-term alliances with key customers, as well as,
+sales opportunities on individual control retrofit projects.
+8. Strong understanding of sales & marketing principles with the ability to
+implement these principles.
+9. Ability to work well with people of various cultural backgrounds.
+10. The Asian Sales Manager will be based in Singapore and report to the
+Director of Sales and Marketing, located in Houston, Texas.
+An undergraduate degree in Electrical or Mechanical engineering is required.
+A graduate degree is business is also desirable.
+,
+Dave Weir, Sr. Managing Partner
+IEG,Inc.
+215-957-9012 fax. 215-957-1753 or 215-957-6090
+website: www.iegsearch.com
+EMail: dgweir@iegsearch.com or dgweir@aol.com
+Dave Weir, Sr. Managing Partner
+IEG,Inc.
+215-957-9012 fax. 215-957-1753 or 215-957-6090
+website: www.iegsearch.com
+EMail: dgweir@iegsearch.com or dgweir@aol.comDave Weir, Sr. Managing Partner
+IEG,Inc.
+215-957-9012 fax. 215-957-1753 or 215-957-6090
+website: www.iegsearch.com
+EMail: dgweir@iegsearch.com or dgweir@aol.com
+Norberto,
+I would like to invite you  for a preliminary interview 
+nvaldes@txuenergy.com on 04/25/2000 11:11:23 AM
+Hello Vince,
+I enjoyed talking with you this morning.   Per our  conversation, here is
+Norberto Valdes' resume.   I will call you in about an hour to make sure you
+Sincerely,
+Lisa Ford
+281)913-2076
+(See attached file: resumen 4.doc)
+- resumen 4.doc
+I shall invite him for Friday for 
+a preliminary interview.
+Vince
+nvaldes@txuenergy.com on 04/25/2000 11:11:23 AM
+Hello Vince,
+I enjoyed talking with you this morning.   Per our  conversation, here is
+Norberto Valdes' resume.   I will call you in about an hour to make sure you
+Sincerely,
+Lisa Ford
+281)913-2076
+(See attached file: resumen 4.doc)
+- resumen 4.doc
+Anjam,
+Sorry, I am busy on Thursday.
+I shall ask Shirley to contact you. Friday 9:30 to 10:30 my time would work.
+Vince
+Vince
+Anjam Ahmad
+04/25/2000 09:51 AM
+Hi Vince,
+This candidate was forwarded from the Norway office.  He is finishing his PhD 
+in Cambridge but is available soon.  If you are free on Thursday before the 
+regular weekly meeting that would be good - would 3pm or 4pm work for you 
+(9am or 10am your time) to set up the video interview?
+,
+Anjam
+x35383
+CV ATTACHED:
+Dear Vince,
+Firstly, I really appreciate your time and our meeting last week.  Learning
+about Enron's use of leading-edge practices was quite enlightening and I
+truly benefited from our visit.
+Secondly, I've summarized my key "take-aways" as stated below.  Before
+conveying it to my management, however, I really appreciate it if you can
+pls review my conclusions and ensure that they are not miss-stated.
+Again, thanks so much for your time and wisdom.  I was also honored that you
+gave me a copy of the "Managing Energy Price Risk" book and shall reference
+it with interest.  THANK YOU.
+I really look forward to seeing you again next time I'm in Houston.
+,
+Soussan
+(914) 253-4187
+PS.  The latest Fortune article on ENE is a great read and substantiates the
+company's innovative and creative approach to business.
+Our meeting was mainly focused on gaining additional insights re
+leading-edge practices within ENE.  My key findings are summarized below:
+1. ENE does not use corporate price premises.  They use market price info
+only and adhere to mark-to-market accounting.
+2. ENE uses the "Heath, Jarrow, and Morton" methods for modeling price
+dynamics (I've asked BIC for a copy of the associated paper).  They have
+their own "home-grown" software, however, they periodically review selected
+external developments for internal inclusion and advancement.
+3. Vince's group comprises of Mathematicians, Physicists, and Operations
+Researchers who are responsible for the development and advancement of ENE's
+risk management tools.  These models are religiously used by the traders,
+risk managers, and BUs across ENE.
+4. Investment proposals are screened, risked, and "ROVed" by a separate
+corporate group (similar to our Special Studies and with business and real
+options skills) who work in conjunction with the BUs.  All evaluations and
+transactions are marked-to-market.
+5. ENE does not use efficient-frontier portfolio concepts.  They "VC fund"
+any opportunity that has a credible value proposition and can stand on its
+own.  They believe that with the current plentiful liquidity in the market,
+project-financing in not an issue for a "good" opportunity.  However, they
+closely monitor the development of each opportunity, within their deep
+portfolio, at the corporate level and know how to "fail fast".
+6. The employee reward system is based on P&Ls as well as the creation of
+new business.
+7. Most employees have stock options.
+I really enjoyed my visit and hope to meet with Vince again the next time
+I'm in Houston.
+Soussan,
+It looks fine.
+Look forward to meeting you again in Houston or New York.
+Vince
+Dear Vince,
+Firstly, I really appreciate your time and our meeting last week.  Learning
+about Enron's use of leading-edge practices was quite enlightening and I
+truly benefited from our visit.
+Secondly, I've summarized my key "take-aways" as stated below.  Before
+conveying it to my management, however, I really appreciate it if you can
+pls review my conclusions and ensure that they are not miss-stated.
+Again, thanks so much for your time and wisdom.  I was also honored that you
+gave me a copy of the "Managing Energy Price Risk" book and shall reference
+it with interest.  THANK YOU.
+I really look forward to seeing you again next time I'm in Houston.
+,
+Soussan
+(914) 253-4187
+PS.  The latest Fortune article on ENE is a great read and substantiates the
+company's innovative and creative approach to business.
+Our meeting was mainly focused on gaining additional insights re
+leading-edge practices within ENE.  My key findings are summarized below:
+1. ENE does not use corporate price premises.  They use market price info
+only and adhere to mark-to-market accounting.
+2. ENE uses the "Heath, Jarrow, and Morton" methods for modeling price
+dynamics (I've asked BIC for a copy of the associated paper).  They have
+their own "home-grown" software, however, they periodically review selected
+external developments for internal inclusion and advancement.
+3. Vince's group comprises of Mathematicians, Physicists, and Operations
+Researchers who are responsible for the development and advancement of ENE's
+risk management tools.  These models are religiously used by the traders,
+risk managers, and BUs across ENE.
+4. Investment proposals are screened, risked, and "ROVed" by a separate
+corporate group (similar to our Special Studies and with business and real
+options skills) who work in conjunction with the BUs.  All evaluations and
+transactions are marked-to-market.
+5. ENE does not use efficient-frontier portfolio concepts.  They "VC fund"
+any opportunity that has a credible value proposition and can stand on its
+own.  They believe that with the current plentiful liquidity in the market,
+project-financing in not an issue for a "good" opportunity.  However, they
+closely monitor the development of each opportunity, within their deep
+portfolio, at the corporate level and know how to "fail fast".
+6. The employee reward system is based on P&Ls as well as the creation of
+new business.
+7. Most employees have stock options.
+I really enjoyed my visit and hope to meet with Vince again the next time
+I'm in Houston.
+Suresh,
+It did not work.
+Vince
+Suresh Raghavan@
+04/21/2000 01:32 PM
+The internal URL is  
+Please use the userid test and the password test.  And obviously, send us any 
+comments you might have.
+Thanks.  SR 
+Steve,
+RISK will give you more exposure in the peer group faster.
+Shan left (I think they are firing people at RISK - a normal development
+for a successful company that got ahead of itself).
+If RISK does not work, I shall talk to Phelim about speeding the publication.
+Vince
+Steven Leppard
+04/25/2000 08:06 AM
+Hi Vince
+The person I was dealing with (Shan Millie) passed on my paper to her=20
+successor, and I've heard nothing since.  The plan was to try and publish the=20
+article in Risk's "Game Choices" real options book, which is being published=20
+in June, along with a summary version for the magazine.
+I'm supposed to be waiting for them to get back to me, and it's not been at=20
+the front of my mind until now.  I think I'll chase them up.
+Interestingly at a recent Risk course Phelim Boyle expressed an interest in=20
+my work to appear in one the the journals he edits, I think it's Decision=20
+Science or something like that.  Do you think this would be a more=20
+appropriate home for the work?
+One more thing that may be of interest to you is that I've now worked forward=20
+recursive DP into my notation too.  It's simply a matter of putting the=20
+decision nodes on the left hand side of the value symbols!
+Should I chase Risk, or pursue the peer reviewed Phelim Boyle option?
+Steve
+Vince J Kaminski
+04/25/2000 02:00 PM
+Steve,
+How are the discussions with RISK about an article progressing?
+Vince
+Steven Leppard
+04/25/2000 05:07 AM
+Lenos
+I'd like to give a talk entitled "Diagrammatic Representation of Real Options=20
+in Enron", in which I will give a brief run-down of a diagrammatic technique=20
+I have developed for representing real option deals.  My notation allows=20
+originators, managers and quants to communicate unambiguously, while still=20
+appreciating the complexity and subtlety of real optionality.  I have defined=20
+a "diagrammatic grammar" which guarantees that the pricing of the deal=20
+follows immediately and automatically from the diagram.
+I propose to introduce the symbols and grammar, then go on to present some=20
+suitable examples of diagrams.  If appropriate I'll talk about the links with=20
+dynamic programming.  (I will need some guidance as to how much technical=20
+detail I can go into based on the audience.)
+All the best,
+Steve
+=20
+Steve
+thanks for agreeing to talk. I attach the program to see the other speakers
+and style (it is addressed to a professional autience)
+Please give me a suitable title for the talk (replacing Kaminski=01%s slot on
+July 6/Energy session) and the details of your position
+Thanks
+Lenos
+At 05:01 __ 04/20/00 +0100, Steven Leppard wrote:

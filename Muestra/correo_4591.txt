@@ -1,0 +1,1375 @@
+It is definitely a CES deal that will be over in Sep or Oct of this year.
+Cyndie Balfour-Flanagan@
+05/25/2000 04:52 PM
+If the deal is confirmable as a deal that came across on CES's books 
+[reported as an active deal by CES to ENA], then the deal is a CES deal (CES 
+- Statoil). BUT, if this is a newly discovered deal - - - - we will need to 
+confirm with Risk (Mark Breese) to ensure proper booking & that the deal has 
+been quantified; OR if it is a newly negotiated deal or a deal finalized 
+after 1/1/00, then it should be entered without the CES prefix (statoil Based on the production dates of deal# 280185 and #226563, as combine with 
+the fact and that I can not find anything in the CES deal listing (CES 
+'books') specifying a 333/day deal with Statoil I am again hesitant to use 
+the CES prefix (nor can I confirm that deal #226563 should have been entered 
+with the CES prefix.
+John, can you fill in the missing details?
+Cyndie
+Chris Germany@ECT
+05/25/2000 04:19 PM
+John, I took the volumes on deal 226556 to 0 for the term of the deal 
+starting June 1.  This is the purchase from Belden & Blake behind NYSEG. 
+I changed the volume on deal 226563 from 1 dth/day to 1500 dth/day.  This is 
+the purchase from StatOil at CPA.  The price on this deal is NX1 + .434 and 
+the price on John's worksheet is NX1 + .54 (per MCF).  John, is this price 
+adjusted for dth??
+I created deal 280185, purchase from StatOil, volume of 333 day, the price is 
+NX1+ $.56 PER MCF.  This is a purchase of local production behind the 
+citygate.  David, this deal probably needs to be hedged in Sitara.
+Cindy - deal 226563 is a purchase from CES - Statoil Energy.  I set up deal 
+280185 with the same counterparty.  This deal should have been in the system 
+effective 1/1/2000.  According to Elizabeth, we should not use the CES StatOil Energy.  It doesn't matter to me how its set up, however, this deal 
+should have been in the system from Jan and it is the same type of deal as 
+deal 226563.
+I changed the volume on deal 226747 from 1 dth to 1100 dth/day.  This is a 
+purchase from Questar and it is also local production behind CPA John, there are 3 deals for Questar, the other 2 deals have volumes of 0 
+right now.  Can you tell me how the volume should be split out for pricing 
+purposes?
+Molly, I created deal 280132, FOM priced sale to CES.  This deal will be 
+matched with the CPA local production deals.
+Let me know if anyone has any questions.
+Thanks
+cg 3-4743
+Chris Germany
+05/24/2000 05:26 PM
+Please send this email to anyone that may need to see it.  I'm sure I left 
+someone out.
+This is citygate gas ENA will sell to CES for June.  This will reduce the 
+numbers on the sheet Doug sent us yesterday.
+East Ohio Gas on CNG
+10,000 dth/ month from Power Gas Marketing
+CPA on TCO
+500 dth/day from Power Gas Marketing
+1,833 dth/day from StatOil
+1,100 dth/day from Questa - Note:  this is an estimated volume.  We should 
+know the actual volume in the next day or so.
+Note:  CES is not taking any Carnagie gas at CPA.
+National Fuel
+250 dth/day from Belden & Blake.  The deal expires 6/30/2000.
+Equitrans
+All of the Equitrans is production or pool gas on the pipeline.  ENA 
+nominates this gas.  CES still has a citygate load of 1,280 dth/day for June 
+on Equitrans so the production gas will be delivered to CES.
+CES will not be receiving any local production behind Peoples or NYSEG.
+Its good we didn't book anything because CES just sold a lot of their 
+customers to another company.
+FYI
+Scott Neal
+05/04/2000 05:32 PM
+I definatley think we should book these volumes for all of your reasons below 
+plus each month we don't seem to have a decent estimate until the 30th or 
+31st.
+Scott--
+Here is your problem in getting these booked.  You can do what you want, but 
+I still think we should book it.  The flexibility in takes is only 10% so 
+your flash to actual will not be that great--certainly less than if you don't 
+book anything.  Plus, at least if we book something it will be easier to tell 
+if they do not take the volumes they are supposed to.  In addition, per our 
+discussion with Retail--which Dick was in on that meeting--it is unlikely 
+that the sale of the CES-Retail business would occur before September or 
+October, which in my mind means it may not be til the end of the year.  This 
+would pretty much get us to the end of the deal term.  And finally, what if 
+Chris and/or Dick is gone at some point in time--we need the volume info in 
+there.
+Obviously it is just my recommendation to book it---you can do what you 
+want 
+FYI,
+I talked to Chris and Dick about the issue that the CES index positions are 
+not reflected in the books.  Chris was concerned about what (firm) volume to 
+book since there is flexibility in the takes.  Also, he said he has a strong 
+feeling that CES-Retail may go away in the near future so why book it.  Dick 
+agreed that maybe we should not book anything on this right now.  So Chris 
+said he will look into this issue early next week and get with me 
+Hi.
+I probably will not be able to attend the meeting on Thursday.  Should I let 
+someone in your office know about that?
+John, I took the volumes on deal 226556 to 0 for the term of the deal 
+starting June 1.  This is the purchase from Belden & Blake behind NYSEG. 
+I changed the volume on deal 226563 from 1 dth/day to 1500 dth/day.  This is 
+the purchase from StatOil at CPA.  The price on this deal is NX1 + .434 and 
+the price on John's worksheet is NX1 + .54 (per MCF).  John, is this price 
+adjusted for dth??
+I created deal 280185, purchase from StatOil, volume of 333 day, the price is 
+NX1+ $.56 PER MCF.  This is a purchase of local production behind the 
+citygate.  David, this deal probably needs to be hedged in Sitara.
+Cindy - deal 226563 is a purchase from CES - Statoil Energy.  I set up deal 
+280185 with the same counterparty.  This deal should have been in the system 
+effective 1/1/2000.  According to Elizabeth, we should not use the CES StatOil Energy.  It doesn't matter to me how its set up, however, this deal 
+should have been in the system from Jan and it is the same type of deal as 
+deal 226563.
+I changed the volume on deal 226747 from 1 dth to 1100 dth/day.  This is a 
+purchase from Questar and it is also local production behind CPA John, there are 3 deals for Questar, the other 2 deals have volumes of 0 
+right now.  Can you tell me how the volume should be split out for pricing 
+purposes?
+Molly, I created deal 280132, FOM priced sale to CES.  This deal will be 
+matched with the CPA local production deals.
+Let me know if anyone has any questions.
+Thanks
+cg 3-4743
+Chris Germany
+05/24/2000 05:26 PM
+Please send this email to anyone that may need to see it.  I'm sure I left 
+someone out.
+This is citygate gas ENA will sell to CES for June.  This will reduce the 
+numbers on the sheet Doug sent us yesterday.
+East Ohio Gas on CNG
+10,000 dth/ month from Power Gas Marketing
+CPA on TCO
+500 dth/day from Power Gas Marketing
+1,833 dth/day from StatOil
+1,100 dth/day from Questa - Note:  this is an estimated volume.  We should 
+know the actual volume in the next day or so.
+Note:  CES is not taking any Carnagie gas at CPA.
+National Fuel
+250 dth/day from Belden & Blake.  The deal expires 6/30/2000.
+Equitrans
+All of the Equitrans is production or pool gas on the pipeline.  ENA 
+nominates this gas.  CES still has a citygate load of 1,280 dth/day for June 
+on Equitrans so the production gas will be delivered to CES.
+CES will not be receiving any local production behind Peoples or NYSEG.
+We have the following Transco transport for June
+Contract .7537 (does not include any AGL space)
+Vol Comment
+5000 3-6  Con Ed space released month to month thru 10/31/2000
+15000 3-6  Con Ed space 4/1 - 10/31
+10000 3-6  Con Ed space 5/3 - 9/30
+20000 tele - 6  Bug space 5/1 - 10/31
+10000 tele - 6  Bug space 6/1 - 9/30
+10000 tele - 6  Lilco space 6/1 - 9/30
+Contract 3.4367
+10000 Leidy to Pseg Pseg space 5/1 - 10/31
+Other stuff
+20000 of 6-1 I think.
+6500 of 6-6 from PSEG. Open for bids until 2:00pm on 4/26/2000
+2174 of 2-3.  this is on k#.7537
+its a good thing i a good looking stud!
+Sylvia A Campos
+05/25/2000 10:39 AM
+The end date has been changed  (you're not allowed to make mistakes).
+Sylvia
+Chris Germany
+05/25/2000 08:42 AM
+I changed the end date on Transco deal 231538 from 4/30/2000 to 10/31/2000 My mistake.
+I changed the end date on Transco deal 231538 from 4/30/2000 to 10/31/2000 My mistake.
+Please send this email to anyone that may need to see it.  I'm sure I left 
+someone out.
+This is citygate gas ENA will sell to CES for June.  This will reduce the 
+numbers on the sheet Doug sent us yesterday.
+East Ohio Gas on CNG
+10,000 dth/ month from Power Gas Marketing
+CPA on TCO
+500 dth/day from Power Gas Marketing
+1,833 dth/day from StatOil
+1,100 dth/day from Questa - Note:  this is an estimated volume.  We should 
+know the actual volume in the next day or so.
+Note:  CES is not taking any Carnagie gas at CPA.
+National Fuel
+250 dth/day from Belden & Blake.  The deal expires 6/30/2000.
+Equitrans
+All of the Equitrans is production or pool gas on the pipeline.  ENA 
+nominates this gas.  CES still has a citygate load of 1,280 dth/day for June 
+on Equitrans so the production gas will be delivered to CES.
+CES will not be receiving any local production behind Peoples or NYSEG.
+I changed the effective date on the following Transco deals in Sitara Transco told me this morning that these contract agencies were terminated 
+effective 3/31/2000.
+Deals 165415 and 165423.
+I found a couple of big adjustments on the April capcity sheet.  I am still 
+billing CES for the Union Camp capacity and it was terminated effective 
+3/31/2000.
+The net impact is $64,104.00 that needs to be credited back to CES 
+It also appears that I billed CES the scheduling fee of $20,000.00 twice.
+Jeff, the new transport demand charges plus the scheuduling fee of $20,000.00 
+equals $1,865,705.00.  If we billed CES twice for the scheduling fee, then we 
+should  issue a credit to CES of about $84,000.00.  Please redraft deal 
+227081 and let me know what the impact is.  I would like to send out the 
+credit either today or tomorrow.
+Thanks.
+cg
+In today's Gas Daily, Northern Natural Gas has a help wanted ad - you 
+probably aren't doing your job!
+Just be nice to me when you become my BOSS, Boss :o)
+Angie Zeman@
+05/23/2000 05:06 PM
+Ohhhh.......  Sorry- my bad...........  I should never have doubted your 
+superior intellect and experience........   Humbley,  az
+Chris Germany@ECT
+05/23/2000 05:03 PM
+I thought the meter numbers were different.
+Angie Zeman@
+05/23/2000 04:45 PM
+If you'll notice, the 5 postings were all the same.....  :)  I'll make sure 
+to send this postings to all those listed below when they come upnext time Thanks!!  -AZ
+Chris Germany@ECT
+05/23/2000 11:26 AM
+There are five CNG postings listed below.
+Posting #1
+APPALACHIAN PRODUCER NOTICE
+POSTED May 23, 2000
+Dear West Virginia Producer,
+Over the last several years, Dominion Transmission has worked hard providing 
+additional value to producers on its gathering system and through innovative 
+projects and joint ventures.  In continuing with that process to bring you 
+more value for your local production and to improve the efficiency of our 
+gathering system, we would like to continue a process where compression 
+into our gathering system may be approved.  We have been able to grant a 
+limited number of these requests in the past, and would now like to make 
+this opportunity somewhat more widely available to the producers.
+For this second offering, the process we will use is as follows:  For a 
+period of 30 days, beginning 12:00 Noon on May 24, 2000, the Gathering and 
+Production Division of Dominion Transmission will accept applications for 
+compression rights into its gathering system for gas feeding its SCHUTTE 
+compressor station.  The Dominion "bubbles" affected are 4404 & 4405 Dominion recognizes that, although limited, there does exist the incremental 
+capacity for throughput through these compressor stations.  The incremental 
+capacity authorized through new compression agreements will not exceed the 
+limit Dominion determines to be the capacity of the existing compressors Dominion will attempt to be flexible in approving the applications it 
+receives, but will limit approved applications so as to not unreasonably 
+interfere with the production from the existing non-compressed gas entering 
+the system.  Please submit your written application to Joe Thompson at the 
+Dominion Gathering & Production Office.  The application must indicate the 
+amount of "incremental" gas for the specific compression agreement Dominion recognizes that the installation of compression requires differing 
+time frames.  We will balance that consideration with our need to insure 
+that the application process is not abused to the disadvantage of other 
+producers; therefore, once granted, the applicant must have the compression 
+in place and operable within six months of Dominion's approval, or the rights 
+to all unconstructed capacity will be forfeited.  In the event that more 
+requests for compression rights for incremental gas are received than for 
+which there is capacity, Dominion will award the rights on a prorated basis.
+Please include in your written request the mid number or a map of the 
+proposed 
+location where you will be requesting to install compression.  Also include 
+the incremental volume you are wishing to transport under the compression 
+agreement.  Your name, company name and address, state of incorporation, 
+phone and fax number, as well as an e-mail address, if available, should 
+be included (please print or type).
+Forward this information to     Joseph A. Thompson
+Manager, Business Development
+Dominion Transmission
+Gathering & Production Division
+500 Davisson Run Road
+Clarksburg, WV  26301
+After all requests are received, we will review the request and make a 
+determination on granting compression based on capacity available and the 
+capacity requests.  You will be contacted as soon as possible after 
+June 23, 2000 to notify you of those requests that have been approved Please realize that this is a "window" and the opportunity will close 
+after Noon on June 23, 2000.
+I hope that this will provide opportunity for you to increase the value 
+of your production facilities, and I look forward to working with you on 
+this opportunity to add compression.  You can contact Joe Thompson at 
+(304) 623-8709 or Dan Stuart at (304) 623-8705 with any questions you may 
+have regarding this compression  "open season" request on Dominion Gathering.
+Sincerely, 
+H. Dale Rexrode
+Director, Producer Services & Business Development
+Posting #2
+APPALACHIAN PRODUCER NOTICE
+POSTED May 23, 2000
+Dear West Virginia Producer,
+Over the last several years, Dominion Transmission has worked hard providing 
+additional value to producers on its gathering system and through innovative 
+projects and joint ventures.  In continuing with that process to bring you 
+more value for your local production and to improve the efficiency of our 
+gathering system, we would like to continue a process where compression 
+into our gathering system may be approved.  We have been able to grant a 
+limited number of these requests in the past, and would now like to make 
+this opportunity somewhat more widely available to the producers.
+For this second offering, the process we will use is as follows:  For a 
+period of 30 days, beginning 12:00 Noon on May 24, 2000, the Gathering and 
+Production Division of Dominion Transmission will accept applications for 
+compression rights into its gathering system for gas feeding its SMITHBURG, 
+COLLINS, MAXWELL AND NEW OXFORD  compressor stations.  The Dominion "bubbles" 
+affected are 4401, 4403, 4413.   Dominion recognizes that, although very 
+limited, there does exist the incremental capacity for throughput through 
+these compressor stations.  The incremental capacity authorized through new 
+compression agreements will not exceed the limit Dominion determines to be 
+the capacity of the existing compressors.  Dominion will attempt to be 
+flexible 
+in approving the applications it receives, but will limit approved 
+applications 
+so as to not unreasonably interfere with the production from the existing 
+non-compressed gas entering the system.  Please submit your written 
+application 
+to Joe Thompson at the Dominion Gathering & Production Office.  The 
+application 
+must indicate the amount of "incremental" gas for the specific compression 
+agreement.  Dominion recognizes that the installation of compression requires 
+differing time frames.  We will balance that consideration with our need to 
+insure that the application process is not abused to the disadvantage of 
+other 
+producers; therefore, once granted, the applicant must have the compression 
+in 
+place and operable within six months of Dominion's approval, or the rights to 
+all unconstructed capacity will be forfeited.  In the event that more 
+requests 
+for compression rights for incremental gas are received than for which there 
+is 
+capacity, Dominion will award the rights on a prorated basis.
+Please include in your written request the mid number or a map of the 
+proposed 
+location where you will be requesting to install compression.  Also include 
+the 
+incremental volume you are wishing to transport under the compression 
+agreement.  Your name, company name and address, state of incorporation, 
+phone and fax number, as well as an e-mail address, if available, should be 
+included (please print or type).
+Forward this information to     Joseph A. Thompson
+Manager, Business Development
+Dominion Transmission
+Gathering & Production Division
+500 Davisson Run Road
+Clarksburg, WV  26301
+After all requests are received, we will review the request and make a 
+determination on granting compression based on capacity available and the 
+capacity requests.  You will be contacted as soon as possible after 
+June 23, 2000 to notify you of those requests that have been approved Please realize that this is a "window" and the opportunity will close 
+after Noon on June 23, 2000.
+I hope that this will provide opportunity for you to increase the value of 
+your production facilities, and I look forward to working with you on this 
+opportunity to add compression.  You can contact Joe Thompson at 
+(304) 623-8709 or Dan Stuart at (304) 623-8705 with any questions you may 
+have regarding this compression  "open season" request on Dominion Gathering.
+Sincerely, 
+H. Dale Rexrode
+Director, Producer Services & Business 
+Development 
+Posting #3
+APPALACHIAN PRODUCER NOTICE
+POSTED May 23, 2000
+Dear West Virginia Producer,
+Over the last several years, Dominion Transmission has worked hard providing 
+additional value to producers on its gathering system and through innovative 
+projects and joint ventures.  In continuing with that process to bring you 
+more value for your local production and to improve the efficiency of our 
+gathering system, we would like to continue a process where compression into 
+our gathering system may be approved.  We have been able to grant a limited 
+number of these requests in the past, and would now like to make this 
+opportunity somewhat more widely available to the producers.
+For this second offering, the process we will use is as follows:  For a 
+period of 30 days, beginning 12:00 Noon on May 24, 2000, the Gathering and 
+Production Division of Dominion Transmission will accept applications for 
+compression rights into its gathering system for gas feeding its CAMDEN 
+compressor station.  The Dominion "bubbles" affected are 3306, 3307, 3401, 
+3402, 3403, 3406, 3407, 3408 & 3409.   Dominion recognizes that, although 
+limited, there does exist the incremental capacity for throughput through 
+these compressor stations.  The incremental capacity authorized through 
+new compression agreements will not exceed the limit Dominion determines 
+to be the capacity of the existing compressors.  Dominion will attempt to 
+be flexible in approving the applications it receives, but will limit 
+approved 
+applications so as to not unreasonably interfere with the production from the 
+existing non-compressed gas entering the system.  Please submit your written 
+application to Joe Thompson at the Dominion Gathering & Production Office The application must indicate the amount of "incremental" gas for the 
+specific compression agreement.  Dominion recognizes that the installation 
+of compression requires differing time frames.  We will balance that 
+consideration with our need to insure that the application process is not 
+abused to the disadvantage of other producers; therefore, once granted, 
+the applicant must have the compression in place and operable within six 
+months of Dominion's approval, or the rights to all unconstructed capacity 
+will be forfeited.  In the event that more requests for compression rights 
+for incremental gas are received than for which there is capacity, Dominion 
+will award the rights on a prorated basis.
+Please include in your written request the mid number or a map of the 
+proposed location where you will be requesting to install compression Also include the incremental volume you are wishing to transport under 
+the compression agreement.  Your name, company name and address, state 
+of incorporation, phone and fax number, as well as an e-mail address, if 
+available, should be included (please print or type).
+Forward this information to     Joseph A. Thompson
+Manager, Business Development
+Dominion Transmission
+Gathering & Production Division
+500 Davisson Run Road
+Clarksburg, WV  26301
+After all requests are received, we will review the request and make a 
+determination on granting compression based on capacity available and the 
+capacity requests.  You will be contacted as soon as possible after 
+June 23, 2000 to notify you of those requests that have been approved Please realize that this is a "window" and the opportunity will close 
+after Noon on June 23, 2000.
+I hope that this will provide opportunity for you to increase the value 
+of your production facilities, and I look forward to working with you on 
+this opportunity to add compression.  You can contact Joe Thompson at 
+(304) 623-8709 or Dan Stuart at (304) 623-8705 with any questions you may 
+have regarding this compression  "open season" request on Dominion Gathering.
+Sincerely, 
+H. Dale Rexrode
+Director, Producer Services & Business Development 
+Posting #4
+Posted May 9 ,2000 9:30 a.m 
+Dear West Virginia Producer,
+Over the last several years, Dominion Transmission has worked hard providing
+additional value to producers on its gathering system and through innovative 
+projects and joint ventures.  In continuing with that process to bring you 
+more
+value for your local production and to improve the efficiency of our gathering
+system, we would like to continue a process where compression into our 
+gathering
+system may be approved.  We have been able to grant a limited number of these
+requests in the past, and would now like to make this opportunity somewhat 
+more 
+widely available to the producers.
+For this second offering, the process we will use is as follows: 
+For a period of 30 days, beginning 12:00 Noon on May 10, 2000, the Gathering 
+and Production Division of Dominion Transmission will accept applications for
+compression rights into its gathering system for gas feeding its JONES and 
+ORMA
+compressor stations.  The Dominion "bubbles" affected are 3205, 3206 and 3207 
+for Jones station and 3201, 3202, 3203 and 3204 for Orma station.   Dominion 
+recognizes that, although limited, there does exist the incremental capacity 
+for throughput through these compressor stations.  The incremental capacity
+authorized through new compression agreements will not exceed the limit
+Dominion determines to be the capacity of the existing compressors. 
+Dominion will attempt to be flexible in approving the applications it 
+receives,
+but will limit approved applications so as to not unreasonably interfere with 
+the production from the existing non-compressed gas entering the system. 
+Please submit your written application to Joe Thompson at the Dominion 
+Gathering & Production Office.  The application must indicate the amount of
+"incremental" gas for the specific compression agreement.  Dominion 
+recognizes 
+that the installation of compression requires differing time frames.  We will
+balance that consideration with our need to insure that the application 
+process
+is not abused to the disadvantage of other producers; therefore, once granted,
+the applicant must have the compression in place and operable within six 
+months
+of Dominion's approval, or the rights to all unconstructed capacity will be
+forfeited.  In the event that more requests for compression rights for 
+incremental gas are received than for which there is capacity, Dominion
+will award the rights on a prorated basis.
+Please include in your written request the mid number or a map of the
+proposed location where you will be requesting to install compression.  Also
+include the incremental volume you are wishing to transport under the
+compression agreement.  Your name, company name and address, state of 
+incorporation, phone and fax number, as well as an e-mail address, if 
+available,
+should be included (please print or type).
+Forward this information to     Joseph A. Thompson
+Manager, Business Development
+Dominion Transmission
+Gathering & Production Division
+500 Davisson Run Road
+Clarksburg, WV  26301
+After all requests are received, we will review the request and make a
+determination on granting compression based on capacity available and
+the capacity requests.  You will be contacted as soon as possible after
+June 12, 2000 to notify you of those requests that have been approved Please realize that this is a "window" and the opportunity will close after
+Noon on June 12, 2000.
+I hope that this will provide opportunity for you to increase the value of 
+your production facilities, and I look forward to working with you on this 
+opportunity to add compression.  You can contact Joe Thompson at 
+(304) 623-8709 or Dan Stuart at (304) 623-8705 with any questions you may have
+regarding this compression  "open season" request on Dominion Gathering.
+Since rely, 
+H. Dale Rexrode
+Di rector, Producer Services & Business Development
+Posting #5
+Posted May 9, 2000 9:07 a.m.
+Dear West Virginia Producer,
+Over the last several years, Dominion Transmission has worked hard providing 
+additional value to producers on its gathering system and 
+through innovative projects and joint ventures.  In continuing with 
+that process to bring you more value for your local production and to 
+improve the efficiency of our gathering system, we would like to continue a
+process where compression into our gathering system may be approved We have been able to grant a limited number of these requests in the past, 
+and would now like to make this opportunity somewhat more widely available to 
+the producers.
+For this second offering, the process we will use is as follows For a period of 30 days, beginning 12:00 Noon on May 10, 2000, 
+the Gathering and Production Division of Dominion Transmission will accept
+applications for compression rights into its gathering system for gas 
+feeding the Barbour County High Pressure System.  The Dominion "bubble"
+affected is 4205.   Dominion recognizes that, although limited, there does
+exist the incremental capacity for throughput through these compressor 
+stations.
+The incremental capacity authorized through new compression agreements 
+will not exceed the limit Dominion determines to be the capacity of the 
+pipeline system.  Dominion will attempt to be flexible in approving the 
+applications it receives, but will limit approved applications so as to not 
+unreasonably interfere with the production from the existing non-compressed 
+gas entering the system.  Please submit your written application to 
+Joe Thompson at the Dominion Gathering & Production Office The application must indicate the amount of "incremental" gas for the 
+specific compression agreement.  Dominion recognizes that the installation 
+of compression requires differing time frames.  We will balance that 
+consideration with our need to insure that the application process is 
+not abused to the disadvantage of other producers; therefore, once granted, 
+the applicant must have the compression in place and operable within 
+six months of Dominion's approval, or the rights to all unconstructed 
+capacity will be forfeited.  In the event that more requests for compression 
+rights for incremental gas are received than for which there is capacity, 
+Dominion will award the rights on a prorated basis.
+Please include in your written request the mid number or a map of the 
+proposed location where you will be requesting to install compression. 
+Also include the incremental volume you are wishing to transport under 
+the compression agreement.  Your name, company name and address, 
+state of incorporation, phone and fax number, as well as an e-mail address,
+if available, should be included (please print or type).
+Forward this information to     Joseph A. Thompson
+Manager, Business Development
+Dominion Transmission
+Gathering & Production Division
+500 Davisson Run Road
+Clarksburg, WV  26301
+After all requests are received, we will review the request and make a 
+determination on granting compression based on capacity available and the 
+capacity requests.  You will be contacted as soon as possible after June 12, 
+2000
+to notify you of those requests that have been approved.  Please realize that
+this is a "window" and the opportunity will close after Noon on June 12, 2000.
+I hope that this will provide opportunity for you to increase the value
+of your production facilities, and I look forward to working with you on this 
+opportunity to add compression.  You can contact Joe Thompson at (304) 
+623-8709
+or Dan Stuart at (304) 623-8705 with any questions you may have regarding 
+this compression  "open season" request on Dominion Gathering.
+Sincerely, 
+H. Dale Rexrode
+Director, Producer Services & Business Development 
+I thought the meter numbers were different.
+Angie Zeman@
+05/23/2000 04:45 PM
+If you'll notice, the 5 postings were all the same.....  :)  I'll make sure 
+to send this postings to all those listed below when they come upnext time Thanks!!  -AZ
+Chris Germany@ECT
+05/23/2000 11:26 AM
+There are five CNG postings listed below.
+Posting #1
+APPALACHIAN PRODUCER NOTICE
+POSTED May 23, 2000
+Dear West Virginia Producer,
+Over the last several years, Dominion Transmission has worked hard providing 
+additional value to producers on its gathering system and through innovative 
+projects and joint ventures.  In continuing with that process to bring you 
+more value for your local production and to improve the efficiency of our 
+gathering system, we would like to continue a process where compression 
+into our gathering system may be approved.  We have been able to grant a 
+limited number of these requests in the past, and would now like to make 
+this opportunity somewhat more widely available to the producers.
+For this second offering, the process we will use is as follows:  For a 
+period of 30 days, beginning 12:00 Noon on May 24, 2000, the Gathering and 
+Production Division of Dominion Transmission will accept applications for 
+compression rights into its gathering system for gas feeding its SCHUTTE 
+compressor station.  The Dominion "bubbles" affected are 4404 & 4405 Dominion recognizes that, although limited, there does exist the incremental 
+capacity for throughput through these compressor stations.  The incremental 
+capacity authorized through new compression agreements will not exceed the 
+limit Dominion determines to be the capacity of the existing compressors Dominion will attempt to be flexible in approving the applications it 
+receives, but will limit approved applications so as to not unreasonably 
+interfere with the production from the existing non-compressed gas entering 
+the system.  Please submit your written application to Joe Thompson at the 
+Dominion Gathering & Production Office.  The application must indicate the 
+amount of "incremental" gas for the specific compression agreement Dominion recognizes that the installation of compression requires differing 
+time frames.  We will balance that consideration with our need to insure 
+that the application process is not abused to the disadvantage of other 
+producers; therefore, once granted, the applicant must have the compression 
+in place and operable within six months of Dominion's approval, or the rights 
+to all unconstructed capacity will be forfeited.  In the event that more 
+requests for compression rights for incremental gas are received than for 
+which there is capacity, Dominion will award the rights on a prorated basis.
+Please include in your written request the mid number or a map of the 
+proposed 
+location where you will be requesting to install compression.  Also include 
+the incremental volume you are wishing to transport under the compression 
+agreement.  Your name, company name and address, state of incorporation, 
+phone and fax number, as well as an e-mail address, if available, should 
+be included (please print or type).
+Forward this information to     Joseph A. Thompson
+Manager, Business Development
+Dominion Transmission
+Gathering & Production Division
+500 Davisson Run Road
+Clarksburg, WV  26301
+After all requests are received, we will review the request and make a 
+determination on granting compression based on capacity available and the 
+capacity requests.  You will be contacted as soon as possible after 
+June 23, 2000 to notify you of those requests that have been approved Please realize that this is a "window" and the opportunity will close 
+after Noon on June 23, 2000.
+I hope that this will provide opportunity for you to increase the value 
+of your production facilities, and I look forward to working with you on 
+this opportunity to add compression.  You can contact Joe Thompson at 
+(304) 623-8709 or Dan Stuart at (304) 623-8705 with any questions you may 
+have regarding this compression  "open season" request on Dominion Gathering.
+Sincerely, 
+H. Dale Rexrode
+Director, Producer Services & Business Development
+Posting #2
+APPALACHIAN PRODUCER NOTICE
+POSTED May 23, 2000
+Dear West Virginia Producer,
+Over the last several years, Dominion Transmission has worked hard providing 
+additional value to producers on its gathering system and through innovative 
+projects and joint ventures.  In continuing with that process to bring you 
+more value for your local production and to improve the efficiency of our 
+gathering system, we would like to continue a process where compression 
+into our gathering system may be approved.  We have been able to grant a 
+limited number of these requests in the past, and would now like to make 
+this opportunity somewhat more widely available to the producers.
+For this second offering, the process we will use is as follows:  For a 
+period of 30 days, beginning 12:00 Noon on May 24, 2000, the Gathering and 
+Production Division of Dominion Transmission will accept applications for 
+compression rights into its gathering system for gas feeding its SMITHBURG, 
+COLLINS, MAXWELL AND NEW OXFORD  compressor stations.  The Dominion "bubbles" 
+affected are 4401, 4403, 4413.   Dominion recognizes that, although very 
+limited, there does exist the incremental capacity for throughput through 
+these compressor stations.  The incremental capacity authorized through new 
+compression agreements will not exceed the limit Dominion determines to be 
+the capacity of the existing compressors.  Dominion will attempt to be 
+flexible 
+in approving the applications it receives, but will limit approved 
+applications 
+so as to not unreasonably interfere with the production from the existing 
+non-compressed gas entering the system.  Please submit your written 
+application 
+to Joe Thompson at the Dominion Gathering & Production Office.  The 
+application 
+must indicate the amount of "incremental" gas for the specific compression 
+agreement.  Dominion recognizes that the installation of compression requires 
+differing time frames.  We will balance that consideration with our need to 
+insure that the application process is not abused to the disadvantage of 
+other 
+producers; therefore, once granted, the applicant must have the compression 
+in 
+place and operable within six months of Dominion's approval, or the rights to 
+all unconstructed capacity will be forfeited.  In the event that more 
+requests 
+for compression rights for incremental gas are received than for which there 
+is 
+capacity, Dominion will award the rights on a prorated basis.
+Please include in your written request the mid number or a map of the 
+proposed 
+location where you will be requesting to install compression.  Also include 
+the 
+incremental volume you are wishing to transport under the compression 
+agreement.  Your name, company name and address, state of incorporation, 
+phone and fax number, as well as an e-mail address, if available, should be 
+included (please print or type).
+Forward this information to     Joseph A. Thompson
+Manager, Business Development
+Dominion Transmission
+Gathering & Production Division
+500 Davisson Run Road
+Clarksburg, WV  26301
+After all requests are received, we will review the request and make a 
+determination on granting compression based on capacity available and the 
+capacity requests.  You will be contacted as soon as possible after 
+June 23, 2000 to notify you of those requests that have been approved Please realize that this is a "window" and the opportunity will close 
+after Noon on June 23, 2000.
+I hope that this will provide opportunity for you to increase the value of 
+your production facilities, and I look forward to working with you on this 
+opportunity to add compression.  You can contact Joe Thompson at 
+(304) 623-8709 or Dan Stuart at (304) 623-8705 with any questions you may 
+have regarding this compression  "open season" request on Dominion Gathering.
+Sincerely, 
+H. Dale Rexrode
+Director, Producer Services & Business 
+Development 
+Posting #3
+APPALACHIAN PRODUCER NOTICE
+POSTED May 23, 2000
+Dear West Virginia Producer,
+Over the last several years, Dominion Transmission has worked hard providing 
+additional value to producers on its gathering system and through innovative 
+projects and joint ventures.  In continuing with that process to bring you 
+more value for your local production and to improve the efficiency of our 
+gathering system, we would like to continue a process where compression into 
+our gathering system may be approved.  We have been able to grant a limited 
+number of these requests in the past, and would now like to make this 
+opportunity somewhat more widely available to the producers.
+For this second offering, the process we will use is as follows:  For a 
+period of 30 days, beginning 12:00 Noon on May 24, 2000, the Gathering and 
+Production Division of Dominion Transmission will accept applications for 
+compression rights into its gathering system for gas feeding its CAMDEN 
+compressor station.  The Dominion "bubbles" affected are 3306, 3307, 3401, 
+3402, 3403, 3406, 3407, 3408 & 3409.   Dominion recognizes that, although 
+limited, there does exist the incremental capacity for throughput through 
+these compressor stations.  The incremental capacity authorized through 
+new compression agreements will not exceed the limit Dominion determines 
+to be the capacity of the existing compressors.  Dominion will attempt to 
+be flexible in approving the applications it receives, but will limit 
+approved 
+applications so as to not unreasonably interfere with the production from the 
+existing non-compressed gas entering the system.  Please submit your written 
+application to Joe Thompson at the Dominion Gathering & Production Office The application must indicate the amount of "incremental" gas for the 
+specific compression agreement.  Dominion recognizes that the installation 
+of compression requires differing time frames.  We will balance that 
+consideration with our need to insure that the application process is not 
+abused to the disadvantage of other producers; therefore, once granted, 
+the applicant must have the compression in place and operable within six 
+months of Dominion's approval, or the rights to all unconstructed capacity 
+will be forfeited.  In the event that more requests for compression rights 
+for incremental gas are received than for which there is capacity, Dominion 
+will award the rights on a prorated basis.
+Please include in your written request the mid number or a map of the 
+proposed location where you will be requesting to install compression Also include the incremental volume you are wishing to transport under 
+the compression agreement.  Your name, company name and address, state 
+of incorporation, phone and fax number, as well as an e-mail address, if 
+available, should be included (please print or type).
+Forward this information to     Joseph A. Thompson
+Manager, Business Development
+Dominion Transmission
+Gathering & Production Division
+500 Davisson Run Road
+Clarksburg, WV  26301
+After all requests are received, we will review the request and make a 
+determination on granting compression based on capacity available and the 
+capacity requests.  You will be contacted as soon as possible after 
+June 23, 2000 to notify you of those requests that have been approved Please realize that this is a "window" and the opportunity will close 
+after Noon on June 23, 2000.
+I hope that this will provide opportunity for you to increase the value 
+of your production facilities, and I look forward to working with you on 
+this opportunity to add compression.  You can contact Joe Thompson at 
+(304) 623-8709 or Dan Stuart at (304) 623-8705 with any questions you may 
+have regarding this compression  "open season" request on Dominion Gathering.
+Sincerely, 
+H. Dale Rexrode
+Director, Producer Services & Business Development 
+Posting #4
+Posted May 9 ,2000 9:30 a.m 
+Dear West Virginia Producer,
+Over the last several years, Dominion Transmission has worked hard providing
+additional value to producers on its gathering system and through innovative 
+projects and joint ventures.  In continuing with that process to bring you 
+more
+value for your local production and to improve the efficiency of our gathering
+system, we would like to continue a process where compression into our 
+gathering
+system may be approved.  We have been able to grant a limited number of these
+requests in the past, and would now like to make this opportunity somewhat 
+more 
+widely available to the producers.
+For this second offering, the process we will use is as follows: 
+For a period of 30 days, beginning 12:00 Noon on May 10, 2000, the Gathering 
+and Production Division of Dominion Transmission will accept applications for
+compression rights into its gathering system for gas feeding its JONES and 
+ORMA
+compressor stations.  The Dominion "bubbles" affected are 3205, 3206 and 3207 
+for Jones station and 3201, 3202, 3203 and 3204 for Orma station.   Dominion 
+recognizes that, although limited, there does exist the incremental capacity 
+for throughput through these compressor stations.  The incremental capacity
+authorized through new compression agreements will not exceed the limit
+Dominion determines to be the capacity of the existing compressors. 
+Dominion will attempt to be flexible in approving the applications it 
+receives,
+but will limit approved applications so as to not unreasonably interfere with 
+the production from the existing non-compressed gas entering the system. 
+Please submit your written application to Joe Thompson at the Dominion 
+Gathering & Production Office.  The application must indicate the amount of
+"incremental" gas for the specific compression agreement.  Dominion 
+recognizes 
+that the installation of compression requires differing time frames.  We will
+balance that consideration with our need to insure that the application 
+process
+is not abused to the disadvantage of other producers; therefore, once granted,
+the applicant must have the compression in place and operable within six 
+months
+of Dominion's approval, or the rights to all unconstructed capacity will be
+forfeited.  In the event that more requests for compression rights for 
+incremental gas are received than for which there is capacity, Dominion
+will award the rights on a prorated basis.
+Please include in your written request the mid number or a map of the
+proposed location where you will be requesting to install compression.  Also
+include the incremental volume you are wishing to transport under the
+compression agreement.  Your name, company name and address, state of 
+incorporation, phone and fax number, as well as an e-mail address, if 
+available,
+should be included (please print or type).
+Forward this information to     Joseph A. Thompson
+Manager, Business Development
+Dominion Transmission
+Gathering & Production Division
+500 Davisson Run Road
+Clarksburg, WV  26301
+After all requests are received, we will review the request and make a
+determination on granting compression based on capacity available and
+the capacity requests.  You will be contacted as soon as possible after
+June 12, 2000 to notify you of those requests that have been approved Please realize that this is a "window" and the opportunity will close after
+Noon on June 12, 2000.
+I hope that this will provide opportunity for you to increase the value of 
+your production facilities, and I look forward to working with you on this 
+opportunity to add compression.  You can contact Joe Thompson at 
+(304) 623-8709 or Dan Stuart at (304) 623-8705 with any questions you may have
+regarding this compression  "open season" request on Dominion Gathering.
+Since rely, 
+H. Dale Rexrode
+Di rector, Producer Services & Business Development
+Posting #5
+Posted May 9, 2000 9:07 a.m.
+Dear West Virginia Producer,
+Over the last several years, Dominion Transmission has worked hard providing 
+additional value to producers on its gathering system and 
+through innovative projects and joint ventures.  In continuing with 
+that process to bring you more value for your local production and to 
+improve the efficiency of our gathering system, we would like to continue a
+process where compression into our gathering system may be approved We have been able to grant a limited number of these requests in the past, 
+and would now like to make this opportunity somewhat more widely available to 
+the producers.
+For this second offering, the process we will use is as follows For a period of 30 days, beginning 12:00 Noon on May 10, 2000, 
+the Gathering and Production Division of Dominion Transmission will accept
+applications for compression rights into its gathering system for gas 
+feeding the Barbour County High Pressure System.  The Dominion "bubble"
+affected is 4205.   Dominion recognizes that, although limited, there does
+exist the incremental capacity for throughput through these compressor 
+stations.
+The incremental capacity authorized through new compression agreements 
+will not exceed the limit Dominion determines to be the capacity of the 
+pipeline system.  Dominion will attempt to be flexible in approving the 
+applications it receives, but will limit approved applications so as to not 
+unreasonably interfere with the production from the existing non-compressed 
+gas entering the system.  Please submit your written application to 
+Joe Thompson at the Dominion Gathering & Production Office The application must indicate the amount of "incremental" gas for the 
+specific compression agreement.  Dominion recognizes that the installation 
+of compression requires differing time frames.  We will balance that 
+consideration with our need to insure that the application process is 
+not abused to the disadvantage of other producers; therefore, once granted, 
+the applicant must have the compression in place and operable within 
+six months of Dominion's approval, or the rights to all unconstructed 
+capacity will be forfeited.  In the event that more requests for compression 
+rights for incremental gas are received than for which there is capacity, 
+Dominion will award the rights on a prorated basis.
+Please include in your written request the mid number or a map of the 
+proposed location where you will be requesting to install compression. 
+Also include the incremental volume you are wishing to transport under 
+the compression agreement.  Your name, company name and address, 
+state of incorporation, phone and fax number, as well as an e-mail address,
+if available, should be included (please print or type).
+Forward this information to     Joseph A. Thompson
+Manager, Business Development
+Dominion Transmission
+Gathering & Production Division
+500 Davisson Run Road
+Clarksburg, WV  26301
+After all requests are received, we will review the request and make a 
+determination on granting compression based on capacity available and the 
+capacity requests.  You will be contacted as soon as possible after June 12, 
+2000
+to notify you of those requests that have been approved.  Please realize that
+this is a "window" and the opportunity will close after Noon on June 12, 2000.
+I hope that this will provide opportunity for you to increase the value
+of your production facilities, and I look forward to working with you on this 
+opportunity to add compression.  You can contact Joe Thompson at (304) 
+623-8709
+or Dan Stuart at (304) 623-8705 with any questions you may have regarding 
+this compression  "open season" request on Dominion Gathering.
+Sincerely, 
+H. Dale Rexrode
+Director, Producer Services & Business Development 
+Suzie's working on your ICTS, it ain't working so far.
+Probably.
+Hey Chris,
+Just out of curiousty, do you happen to have a copy of the contract for New 
+Power on Transco and Sonat?  I just want to make sure that I'm fully getting 
+all the peices 
+Thanks!
+Chris, Iroq cannot find the payment for May 1999 of $1,934.42.  Can you 
+provide some support showing the monies being paid to Iroq.
+Christopher Spears
+04/19/2000 10:31 AM
+Chris,
+We paid parking fees to Iroquois in two months:
+May 1999 $1,934.42
+June 1999 $1,872.02
+Total  $3,806.44
+Let me know if you need anything else.
+Chris
+Hi!
+I killed deal 233231.  The contract number was incorrect.
+There are five CNG postings listed below.
+Posting #1
+APPALACHIAN PRODUCER NOTICE
+POSTED May 23, 2000
+Dear West Virginia Producer,
+Over the last several years, Dominion Transmission has worked hard providing 
+additional value to producers on its gathering system and through innovative 
+projects and joint ventures.  In continuing with that process to bring you 
+more value for your local production and to improve the efficiency of our 
+gathering system, we would like to continue a process where compression 
+into our gathering system may be approved.  We have been able to grant a 
+limited number of these requests in the past, and would now like to make 
+this opportunity somewhat more widely available to the producers.
+For this second offering, the process we will use is as follows:  For a 
+period of 30 days, beginning 12:00 Noon on May 24, 2000, the Gathering and 
+Production Division of Dominion Transmission will accept applications for 
+compression rights into its gathering system for gas feeding its SCHUTTE 
+compressor station.  The Dominion "bubbles" affected are 4404 & 4405 Dominion recognizes that, although limited, there does exist the incremental 
+capacity for throughput through these compressor stations.  The incremental 
+capacity authorized through new compression agreements will not exceed the 
+limit Dominion determines to be the capacity of the existing compressors Dominion will attempt to be flexible in approving the applications it 
+receives, but will limit approved applications so as to not unreasonably 
+interfere with the production from the existing non-compressed gas entering 
+the system.  Please submit your written application to Joe Thompson at the 
+Dominion Gathering & Production Office.  The application must indicate the 
+amount of "incremental" gas for the specific compression agreement Dominion recognizes that the installation of compression requires differing 
+time frames.  We will balance that consideration with our need to insure 
+that the application process is not abused to the disadvantage of other 
+producers; therefore, once granted, the applicant must have the compression 
+in place and operable within six months of Dominion's approval, or the rights 
+to all unconstructed capacity will be forfeited.  In the event that more 
+requests for compression rights for incremental gas are received than for 
+which there is capacity, Dominion will award the rights on a prorated basis.
+Please include in your written request the mid number or a map of the 
+proposed 
+location where you will be requesting to install compression.  Also include 
+the incremental volume you are wishing to transport under the compression 
+agreement.  Your name, company name and address, state of incorporation, 
+phone and fax number, as well as an e-mail address, if available, should 
+be included (please print or type).
+Forward this information to     Joseph A. Thompson
+Manager, Business Development
+Dominion Transmission
+Gathering & Production Division
+500 Davisson Run Road
+Clarksburg, WV  26301
+After all requests are received, we will review the request and make a 
+determination on granting compression based on capacity available and the 
+capacity requests.  You will be contacted as soon as possible after 
+June 23, 2000 to notify you of those requests that have been approved Please realize that this is a "window" and the opportunity will close 
+after Noon on June 23, 2000.
+I hope that this will provide opportunity for you to increase the value 
+of your production facilities, and I look forward to working with you on 
+this opportunity to add compression.  You can contact Joe Thompson at 
+(304) 623-8709 or Dan Stuart at (304) 623-8705 with any questions you may 
+have regarding this compression  "open season" request on Dominion Gathering.
+Sincerely, 
+H. Dale Rexrode
+Director, Producer Services & Business Development
+Posting #2
+APPALACHIAN PRODUCER NOTICE
+POSTED May 23, 2000
+Dear West Virginia Producer,
+Over the last several years, Dominion Transmission has worked hard providing 
+additional value to producers on its gathering system and through innovative 
+projects and joint ventures.  In continuing with that process to bring you 
+more value for your local production and to improve the efficiency of our 
+gathering system, we would like to continue a process where compression 
+into our gathering system may be approved.  We have been able to grant a 
+limited number of these requests in the past, and would now like to make 
+this opportunity somewhat more widely available to the producers.
+For this second offering, the process we will use is as follows:  For a 
+period of 30 days, beginning 12:00 Noon on May 24, 2000, the Gathering and 
+Production Division of Dominion Transmission will accept applications for 
+compression rights into its gathering system for gas feeding its SMITHBURG, 
+COLLINS, MAXWELL AND NEW OXFORD  compressor stations.  The Dominion "bubbles" 
+affected are 4401, 4403, 4413.   Dominion recognizes that, although very 
+limited, there does exist the incremental capacity for throughput through 
+these compressor stations.  The incremental capacity authorized through new 
+compression agreements will not exceed the limit Dominion determines to be 
+the capacity of the existing compressors.  Dominion will attempt to be 
+flexible 
+in approving the applications it receives, but will limit approved 
+applications 
+so as to not unreasonably interfere with the production from the existing 
+non-compressed gas entering the system.  Please submit your written 
+application 
+to Joe Thompson at the Dominion Gathering & Production Office.  The 
+application 
+must indicate the amount of "incremental" gas for the specific compression 
+agreement.  Dominion recognizes that the installation of compression requires 
+differing time frames.  We will balance that consideration with our need to 
+insure that the application process is not abused to the disadvantage of 
+other 
+producers; therefore, once granted, the applicant must have the compression 
+in 
+place and operable within six months of Dominion's approval, or the rights to 
+all unconstructed capacity will be forfeited.  In the event that more 
+requests 
+for compression rights for incremental gas are received than for which there 
+is 
+capacity, Dominion will award the rights on a prorated basis.
+Please include in your written request the mid number or a map of the 
+proposed 
+location where you will be requesting to install compression.  Also include 
+the 
+incremental volume you are wishing to transport under the compression 
+agreement.  Your name, company name and address, state of incorporation, 
+phone and fax number, as well as an e-mail address, if available, should be 
+included (please print or type).
+Forward this information to     Joseph A. Thompson
+Manager, Business Development
+Dominion Transmission
+Gathering & Production Division
+500 Davisson Run Road
+Clarksburg, WV  26301
+After all requests are received, we will review the request and make a 
+determination on granting compression based on capacity available and the 
+capacity requests.  You will be contacted as soon as possible after 
+June 23, 2000 to notify you of those requests that have been approved Please realize that this is a "window" and the opportunity will close 
+after Noon on June 23, 2000.
+I hope that this will provide opportunity for you to increase the value of 
+your production facilities, and I look forward to working with you on this 
+opportunity to add compression.  You can contact Joe Thompson at 
+(304) 623-8709 or Dan Stuart at (304) 623-8705 with any questions you may 
+have regarding this compression  "open season" request on Dominion Gathering.
+Sincerely, 
+H. Dale Rexrode
+Director, Producer Services & Business 
+Development 
+Posting #3
+APPALACHIAN PRODUCER NOTICE
+POSTED May 23, 2000
+Dear West Virginia Producer,
+Over the last several years, Dominion Transmission has worked hard providing 
+additional value to producers on its gathering system and through innovative 
+projects and joint ventures.  In continuing with that process to bring you 
+more value for your local production and to improve the efficiency of our 
+gathering system, we would like to continue a process where compression into 
+our gathering system may be approved.  We have been able to grant a limited 
+number of these requests in the past, and would now like to make this 
+opportunity somewhat more widely available to the producers.
+For this second offering, the process we will use is as follows:  For a 
+period of 30 days, beginning 12:00 Noon on May 24, 2000, the Gathering and 
+Production Division of Dominion Transmission will accept applications for 
+compression rights into its gathering system for gas feeding its CAMDEN 
+compressor station.  The Dominion "bubbles" affected are 3306, 3307, 3401, 
+3402, 3403, 3406, 3407, 3408 & 3409.   Dominion recognizes that, although 
+limited, there does exist the incremental capacity for throughput through 
+these compressor stations.  The incremental capacity authorized through 
+new compression agreements will not exceed the limit Dominion determines 
+to be the capacity of the existing compressors.  Dominion will attempt to 
+be flexible in approving the applications it receives, but will limit 
+approved 
+applications so as to not unreasonably interfere with the production from the 
+existing non-compressed gas entering the system.  Please submit your written 
+application to Joe Thompson at the Dominion Gathering & Production Office The application must indicate the amount of "incremental" gas for the 
+specific compression agreement.  Dominion recognizes that the installation 
+of compression requires differing time frames.  We will balance that 
+consideration with our need to insure that the application process is not 
+abused to the disadvantage of other producers; therefore, once granted, 
+the applicant must have the compression in place and operable within six 
+months of Dominion's approval, or the rights to all unconstructed capacity 
+will be forfeited.  In the event that more requests for compression rights 
+for incremental gas are received than for which there is capacity, Dominion 
+will award the rights on a prorated basis.
+Please include in your written request the mid number or a map of the 
+proposed location where you will be requesting to install compression Also include the incremental volume you are wishing to transport under 
+the compression agreement.  Your name, company name and address, state 
+of incorporation, phone and fax number, as well as an e-mail address, if 
+available, should be included (please print or type).
+Forward this information to     Joseph A. Thompson
+Manager, Business Development
+Dominion Transmission
+Gathering & Production Division
+500 Davisson Run Road
+Clarksburg, WV  26301
+After all requests are received, we will review the request and make a 
+determination on granting compression based on capacity available and the 
+capacity requests.  You will be contacted as soon as possible after 
+June 23, 2000 to notify you of those requests that have been approved Please realize that this is a "window" and the opportunity will close 
+after Noon on June 23, 2000.
+I hope that this will provide opportunity for you to increase the value 
+of your production facilities, and I look forward to working with you on 
+this opportunity to add compression.  You can contact Joe Thompson at 
+(304) 623-8709 or Dan Stuart at (304) 623-8705 with any questions you may 
+have regarding this compression  "open season" request on Dominion Gathering.
+Sincerely, 
+H. Dale Rexrode
+Director, Producer Services & Business Development 
+Posting #4
+Posted May 9 ,2000 9:30 a.m 
+Dear West Virginia Producer,
+Over the last several years, Dominion Transmission has worked hard providing
+additional value to producers on its gathering system and through innovative 
+projects and joint ventures.  In continuing with that process to bring you 
+more
+value for your local production and to improve the efficiency of our gathering
+system, we would like to continue a process where compression into our 
+gathering
+system may be approved.  We have been able to grant a limited number of these
+requests in the past, and would now like to make this opportunity somewhat 
+more 
+widely available to the producers.
+For this second offering, the process we will use is as follows: 
+For a period of 30 days, beginning 12:00 Noon on May 10, 2000, the Gathering 
+and Production Division of Dominion Transmission will accept applications for
+compression rights into its gathering system for gas feeding its JONES and 
+ORMA
+compressor stations.  The Dominion "bubbles" affected are 3205, 3206 and 3207 
+for Jones station and 3201, 3202, 3203 and 3204 for Orma station.   Dominion 
+recognizes that, although limited, there does exist the incremental capacity 
+for throughput through these compressor stations.  The incremental capacity
+authorized through new compression agreements will not exceed the limit
+Dominion determines to be the capacity of the existing compressors. 
+Dominion will attempt to be flexible in approving the applications it 
+receives,
+but will limit approved applications so as to not unreasonably interfere with 
+the production from the existing non-compressed gas entering the system. 
+Please submit your written application to Joe Thompson at the Dominion 
+Gathering & Production Office.  The application must indicate the amount of
+"incremental" gas for the specific compression agreement.  Dominion 
+recognizes 
+that the installation of compression requires differing time frames.  We will
+balance that consideration with our need to insure that the application 
+process
+is not abused to the disadvantage of other producers; therefore, once granted,
+the applicant must have the compression in place and operable within six 
+months
+of Dominion's approval, or the rights to all unconstructed capacity will be
+forfeited.  In the event that more requests for compression rights for 
+incremental gas are received than for which there is capacity, Dominion
+will award the rights on a prorated basis.
+Please include in your written request the mid number or a map of the
+proposed location where you will be requesting to install compression.  Also
+include the incremental volume you are wishing to transport under the
+compression agreement.  Your name, company name and address, state of 
+incorporation, phone and fax number, as well as an e-mail address, if 
+available,
+should be included (please print or type).
+Forward this information to     Joseph A. Thompson
+Manager, Business Development
+Dominion Transmission
+Gathering & Production Division
+500 Davisson Run Road
+Clarksburg, WV  26301
+After all requests are received, we will review the request and make a
+determination on granting compression based on capacity available and
+the capacity requests.  You will be contacted as soon as possible after
+June 12, 2000 to notify you of those requests that have been approved Please realize that this is a "window" and the opportunity will close after
+Noon on June 12, 2000.
+I hope that this will provide opportunity for you to increase the value of 
+your production facilities, and I look forward to working with you on this 
+opportunity to add compression.  You can contact Joe Thompson at 
+(304) 623-8709 or Dan Stuart at (304) 623-8705 with any questions you may have
+regarding this compression  "open season" request on Dominion Gathering.
+Since rely, 
+H. Dale Rexrode
+Di rector, Producer Services & Business Development
+Posting #5
+Posted May 9, 2000 9:07 a.m.
+Dear West Virginia Producer,
+Over the last several years, Dominion Transmission has worked hard providing 
+additional value to producers on its gathering system and 
+through innovative projects and joint ventures.  In continuing with 
+that process to bring you more value for your local production and to 
+improve the efficiency of our gathering system, we would like to continue a
+process where compression into our gathering system may be approved We have been able to grant a limited number of these requests in the past, 
+and would now like to make this opportunity somewhat more widely available to 
+the producers.
+For this second offering, the process we will use is as follows For a period of 30 days, beginning 12:00 Noon on May 10, 2000, 
+the Gathering and Production Division of Dominion Transmission will accept
+applications for compression rights into its gathering system for gas 
+feeding the Barbour County High Pressure System.  The Dominion "bubble"
+affected is 4205.   Dominion recognizes that, although limited, there does
+exist the incremental capacity for throughput through these compressor 
+stations.
+The incremental capacity authorized through new compression agreements 
+will not exceed the limit Dominion determines to be the capacity of the 
+pipeline system.  Dominion will attempt to be flexible in approving the 
+applications it receives, but will limit approved applications so as to not 
+unreasonably interfere with the production from the existing non-compressed 
+gas entering the system.  Please submit your written application to 
+Joe Thompson at the Dominion Gathering & Production Office The application must indicate the amount of "incremental" gas for the 
+specific compression agreement.  Dominion recognizes that the installation 
+of compression requires differing time frames.  We will balance that 
+consideration with our need to insure that the application process is 
+not abused to the disadvantage of other producers; therefore, once granted, 
+the applicant must have the compression in place and operable within 
+six months of Dominion's approval, or the rights to all unconstructed 
+capacity will be forfeited.  In the event that more requests for compression 
+rights for incremental gas are received than for which there is capacity, 
+Dominion will award the rights on a prorated basis.
+Please include in your written request the mid number or a map of the 
+proposed location where you will be requesting to install compression. 
+Also include the incremental volume you are wishing to transport under 
+the compression agreement.  Your name, company name and address, 
+state of incorporation, phone and fax number, as well as an e-mail address,
+if available, should be included (please print or type).
+Forward this information to     Joseph A. Thompson
+Manager, Business Development
+Dominion Transmission
+Gathering & Production Division
+500 Davisson Run Road
+Clarksburg, WV  26301
+After all requests are received, we will review the request and make a 
+determination on granting compression based on capacity available and the 
+capacity requests.  You will be contacted as soon as possible after June 12, 
+2000
+to notify you of those requests that have been approved.  Please realize that
+this is a "window" and the opportunity will close after Noon on June 12, 2000.
+I hope that this will provide opportunity for you to increase the value
+of your production facilities, and I look forward to working with you on this 
+opportunity to add compression.  You can contact Joe Thompson at (304) 
+623-8709
+or Dan Stuart at (304) 623-8705 with any questions you may have regarding 
+this compression  "open season" request on Dominion Gathering.
+Sincerely, 
+H. Dale Rexrode
+Director, Producer Services & Business Development 
+Scott Goodell will be attending as well.  Could you make sure he is covered 
+for lunch please?
+Please plan to attend a follow up meeting to discuss what is needed as far as 
+position screens for trading transportation capacity on EOL.  The meeting 
+will be at 11:30 -12:30 today, May 23, 2000, in Room 3321 
+There is a NYMEX screen in this conference room, and lunch will be provided. 
+Please plan to attend a follow up meeting to discuss what is needed as far as 
+position screens for trading transportation capacity on EOL.  The meeting 
+will be at 11:30 -12:30 today, May 23, 2000, in Room 3321 
+There is a NYMEX screen in this conference room, and lunch will be provided. 
+May cash $4.00
+June Numbers
+Nymx   $3.78
+CNG Basis Bid  $.215
+CNG Index Prem (.0075)
+Net   $3.9875
+actually losing $.01 or so before we figure the fuel of 1.95%
+Fuel Cost at $4.00 = $4.00/(1-.0195) - $4.00 = $.08
+Now its $.09 in the hole (.01+.08)
+As of today's gas day, ENA has a balance of 658,375 dth in CES's storage.  We 
+still have 56,000 dth we can over inject for the month of May to reach our 
+"approved" max monthly injection amount.
+In Sitara, I am showing all 658,375 dth of ENA gas coming out of storage in 
+the month of August.
+One free soda for you upon request and providing I have $.50 in my pocket.
+Angie Zeman@
+05/23/2000 08:47 AM
+FYI-
+Thanks to the help of Terry Franklin and Dominion Transmission, all our CES 
+and CEM appalachian pools will now be combined into ENA pools beginning June 
+1.  Hopefully this should help to alleviate some confusion and hassle for 
+everyone.   -AZ  
+Hey!!  You still exist!!
+Type  Comm Fuel  Total at $8.70
+FT  .044 1.90%  .2125
+IT  .1907 1.90%  .3592
+Diff  .1467
+Did you get the fax of all the deals in our system for June?
+We have the Equitrans capacity (1,000 dt/day)  through July.  Scott will tell 
+John Singer we need to get out of this capacity.  Scott and I have decided to 
+leave this on the CES Retail worksheet and see what happens.
+ENA purchased the 19,000 of BG&E space from CES.
+Per our discussion on Monday, we need to give CES-Retail a bid for the two 
+TCO transportation contracts that were dedicated to c&i customers that they 
+will no longer need once they sell their c&i business effective 6/1/00.  As 
+you recall, one contract is to COH for 20,000/d through 10/31/00 (#65402 the other is to BG&E  for 19,000/d through 4/01(#65403).  This is the 
+information that Jeff Porter and Charlie gave to me--you need to confirm that 
+this information is accurate.
+I am going to call Charlie back tomorrow morning (Friday, 5/12) and suggest 
+that he talk to one of you two directly for a bid on the agreements.  I think 
+this will be more efficient (and put the pressure on you to price it 
+up!!).    If there is any problem with this, please let me know.
+Did you get the fax of the Consumers Energy invoice??
+Hey you said I could delete this one.  Yea!!
+Elizabeth L Hernandez
+05/22/2000 10:26 AM
+Can you confirm the price on deal 231760 for Lisa Valderrama.
+Robert Allwein
+05/22/2000 10:21 AM
+This is a CES deal. I do not know who is confirming the pricing for the CES 
+deals. I would reccomend maybe getting with Chris Germany. Please let me know 
+if you need something else.
+Elizabeth L Hernandez
+05/22/2000 09:16 AM
+Who is the trader for deal 231760?  As you can see from Lisa's note we have a 
+price discrepancy.  Can you please help us out.
+Lisa Valderrama
+05/21/2000 10:39 AM
+It looks like we have a price discrapency on deal 231760 for April 
+production.  Columbia Natural Resources has invoiced ENA  at $3.02 and we 
+have the deal priced at $2.14.  Could you please check with the trader and 
+confirm which price is correct 
+Thanks
+Lisa 
+3-7134
+I just spoke with CES.  CES will keep the National Fuel for the month of June 
+since June is the last month.   Please call me when you get a chance to 
+discuss everything.
+I did not discuss the Equitrans gas with CES.  I want to talk to Scott about 
+that tomorrow.
+No home yet. May have to take to Penn Fuel.  I left a message with Equitable 
+to see if they are interested in Peoples, EOG, Equitrans and Penn Fuel.
+What are you going to do with the CPA.  Bary Vanderhorst w/EES might be 
+interested.  If not I wll contact Equitable.
+I will contact Dominion to see if they are interested in any of this gas.
+John
+Chris Germany@ECT
+05/22/2000 11:26 AM
+Do you have a home for the T&F Explor behind Penn Fuel for June 
+I left a message for Charlie at CES this morning about all the other citygate 
+production.  I'm also trying to get a bid from CNG for the month of June on 
+the EOG and 
+Peoples gas.  I'll keep you posted.
+Chris Germany@ECT
+05/09/2000 12:33 PM
+Do you have a current Citygate production worksheet?
+Yep.  So that would be part of our $100,000.00 gain, right?
+Crystal Hyde
+05/22/2000 12:54 PM
+Hey Chris,
+The numbers I have in the P&L for the SE  net  are  (297,048)
+The numbers in your worksheet net are  (281,238) 
+That isn't too big of a difference, plus it is in our favor.   A mere 
+$15,810.  Should I go ahead and let that into the P&L for tonight?
+Thanks!
+Just got word from EES, they can take the EOG gas.  Marde will show me a 
+number after I find out if CES wants this or not.  Marde also said the seller 
+pays a flat $100.00 to transfer gas out of their pool to EES's pool.  Marde 
+said the nom for June would be done as an imbalance transfer and she paid IF 
++$.09 for gas this month.
+EES cannot take any Peoples gas.  Should I have Scott Hendrickson try to sell 
+it to Peoples?  I'm also going to leave a message for Paul at Clinton.  Marde 
+is going to check around.
+Chris Germany
+05/22/2000 11:26 AM
+Do you have a home for the T&F Explor behind Penn Fuel for June 
+I left a message for Charlie at CES this morning about all the other citygate 
+production.  I'm also trying to get a bid from CNG for the month of June on 
+the EOG and 
+Peoples gas.  I'll keep you posted.
+Chris Germany@ECT
+05/09/2000 12:33 PM
+Do you have a current Citygate production worksheet?
+Do you have a home for the T&F Explor behind Penn Fuel for June 
+I left a message for Charlie at CES this morning about all the other citygate 
+production.  I'm also trying to get a bid from CNG for the month of June on 
+the EOG and 
+Peoples gas.  I'll keep you posted.
+Chris Germany@ECT
+05/09/2000 12:33 PM
+Do you have a current Citygate production worksheet?
+I'm always willing to drive for a free lunch.
+Scott Goodell@
+05/22/2000 11:15 AM
+Janet Edwards
+05/22/2000 11:12 AM
+I can drive.  I am parked at Clay.  BUT,  maybe Chris will offer since he 
+probably parks at Allen. ....Chris should drive since I am 
+paying 
+Janet
+Did Cove Point approve that?
+Robert Allwein
+05/19/2000 01:56 PM
+Dick gave us the OK to nom 2,000 at Cove for June. I am just waiting on 
+Joanns contract to fax over the nom to Laura at Cove. Thanks
+I just faxed the inventory list to Jerry 
+Don, do you have a fax number I could send it too?
+New Virus Taking Offices By Storm
+This virus warning is genuine.
+There is a new virus going around, called "work."   If you receive any sort
+of "work" at all, whether via email, Internet or simply handed to you by a
+colleague...DO NOT OPEN IT.
+This has been circulating around our building for months and those who have
+been tempted to open "work" or even look at "work" have found that their
+social life is deleted and their brain ceases to function properly.  If you
+do encounter "work" via email or are faced with any "work" at all, then to
+purge the virus, send an email to your boss with the words "I've had enough
+of your crap...  I'm off to the bar."    Your brain should automatically
+forget the "work".
+If you receive "work" in paper-document form, simply lift the document and
+drag the "work" to your garbage can.  Put on your hat and coat and skip to
+the nearest bar with two friends and order three bottles of beer  (or rum
+punch). After repeating this action 14 times, you will find  that "work"
+will no longer be of any relevance to you  and that "Scooby Doo" was the
+greatest cartoon ever.
+As usual, you are awesome!  Let Steve know what the fuel waivers are when you 
+get them.
+Thanks
+Angie Zeman@
+05/17/2000 10:07 AM
+Chris-
+I sent all the paperwork to Pam for the June fuel waiver requests this 
+morning.  I will let you know when I hear about the results.   Thanks- AZ
+Chris Germany@ECT
+05/09/2000 12:33 PM
+Do you have a current Citygate production worksheet?
+ Subject: FW: Fw: Just the facts

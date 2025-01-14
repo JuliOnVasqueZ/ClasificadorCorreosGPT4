@@ -1,0 +1,128 @@
+College Football analyst Brent Musburger made the call. "We felt that
+with
+ a
+ number of points still not added in by Jamaar Tombs
+ and the Aggies, we were certain A&M would carry this game. We may have
+ been
+ premature in our prediction."
+I believe this was suppossed to be a much bigger deal.  There was some 
+confusion between CES and Eagle Point and it ended up just being more or less 
+and exchange deal on ANR and a transport deal on CGAS.
+Chris,
+Everything looks fine with the deal except the volumes.  The information that 
+CES gave us had at least twice as much volume on both of those tickets.  Do 
+they have the right to swing like that?
+Dave
+Chris Germany
+01/13/2000 11:27 AM
+deals 136749 & 149838
+Thanks Buddy
+Chris,
+Can you please give me the Sitara number on this deal.
+Thanks,
+David
+Chris Germany
+01/12/2000 03:42 PM
+Per John Grass - CES sold Eagle Point gas on ANR (deal 136749) at ANR IF 
++.01.  and bought Eagle Point gas on CGAS (deal 149838) at CGAS IF +.005.
+The sale to Eagle Point is in Sitara.  I just added the purchase deal on 
+CGAS, it was not in Sitara.  Per John - Eagle Point is guaranteed to recover 
+the ANR variable cost plus $.02.
+Chris, still missing 2247/day buy ticket from Eaglepoint/Central Desk for 
+Paulding Gas - F1
+Thank you 
+Not yet.  However, the contract is valid because Vickie is using it.
+Chris, I saw Noel's response--have we found out yet whether this contract is 
+really real or not?
+Chris Germany
+01/12/2000 07:25 PM
+I have very little info on this deal.  Who pays for the FT on Equitrans Contract 270, volume=1,000/day, start date = 7/1/97, max demand, all receipts 
+and all deliveries, AND the end date is 10/31/2099 (looks suspicious to me Scott is trying to find the term of this deal from Equitrans.  I believe 
+Equitrans did say this is a capacity release deal.
+Scott, I'm going to list this as a wholesale deal for now.  It was not on my 
+wholesale transport worksheet from Mark Breese.  Please email everyone with 
+the end date when you find out.  Also, please find out who the releasing 
+shipper is and the primary receipt and delivery points.
+Thanks
+deals 136749 & 149838
+Thanks Buddy
+Chris,
+Can you please give me the Sitara number on this deal.
+Thanks,
+David
+Chris Germany
+01/12/2000 03:42 PM
+Per John Grass - CES sold Eagle Point gas on ANR (deal 136749) at ANR IF 
++.01.  and bought Eagle Point gas on CGAS (deal 149838) at CGAS IF +.005.
+The sale to Eagle Point is in Sitara.  I just added the purchase deal on 
+CGAS, it was not in Sitara.  Per John - Eagle Point is guaranteed to recover 
+the ANR variable cost plus $.02.
+Chris, still missing 2247/day buy ticket from Eaglepoint/Central Desk for 
+Paulding Gas - F1
+Thank you 
+Done - take a look.
+Gloria G Barkowsky
+01/12/2000 07:05 PM
+Deal #99663 - Thanks - gb
+Chris Germany
+01/12/2000 06:58 PM
+Email works good.  Do you know which deal I should put that on?
+Gloria G Barkowsky
+01/12/2000 04:27 PM
+Hi!  Remember last month changing the rate in sitara so the
+discounts could be taken....well, I need it done for 12/99 now.
+The total volumes for CNG/Sabine for 12/99 are
+7,676,198 and we should be paying $13,298.60 for at rate of .00172794.
+Let me know if you need more information, or copies, or whatever.  And
+does emailing this work ok, or what would work best to update this every
+month?  Let me know.  Thanks, Gloria.  How are you?
+I have very little info on this deal.  Who pays for the FT on Equitrans Contract 270, volume=1,000/day, start date = 7/1/97, max demand, all receipts 
+and all deliveries, AND the end date is 10/31/2099 (looks suspicious to me Scott is trying to find the term of this deal from Equitrans.  I believe 
+Equitrans did say this is a capacity release deal.
+Scott, I'm going to list this as a wholesale deal for now.  It was not on my 
+wholesale transport worksheet from Mark Breese.  Please email everyone with 
+the end date when you find out.  Also, please find out who the releasing 
+shipper is and the primary receipt and delivery points.
+Thanks
+The Equitrans capacity deals exist!!
+I just created deal 149901, an Equitrans, capacity deal.  I populated all the 
+fields because Sylvia Campos had created the information prior to my creating 
+the deal.  After I released the deal, the pipeline contract and agency 
+contract disappearred.
+No replying this late at night.  Then I don't have an excuse for not doing my 
+job.
+Email works good.  Do you know which deal I should put that on?
+Gloria G Barkowsky
+01/12/2000 04:27 PM
+Hi!  Remember last month changing the rate in sitara so the
+discounts could be taken....well, I need it done for 12/99 now.
+The total volumes for CNG/Sabine for 12/99 are
+7,676,198 and we should be paying $13,298.60 for at rate of .00172794.
+Let me know if you need more information, or copies, or whatever.  And
+does emailing this work ok, or what would work best to update this every
+month?  Let me know.  Thanks, Gloria.  How are you?
+This is in Sitara.
+Sylvia A Campos
+01/12/2000 02:06 PM
+Transco contract 3.2846 is set up in Global.
+Sylvia
+Chris Germany
+01/12/2000 01:45 PM
+Opps -   3.2846
+Sylvia A Campos
+01/12/2000 01:41 PM
+Chris,
+What is the contract no.?
+Chris Germany
+01/12/2000 01:32 PM
+Please set up the following contract 
+Shipper  Columbia Energy Services
+Agent  ENA
+Pipe  Transco
+Firmness IT 
+Service Type Transortation
+Rate Sched IT
+Term  1/1/2000 - 1/31/2000 then evergreen.
+-
+ Subject: OU/A&M Game
+ Date: Mon, 13 Nov 2000 09:34:46 -0800

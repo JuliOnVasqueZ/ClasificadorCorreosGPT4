@@ -1,0 +1,4 @@
+- Consolidation of Business Objectives.doc
+ As promised at the last ADR meeting, attached are three documents
+ summarizing the settlement proposal El Paso would like to discuss at the
+ June 12 meeting in San Francisco.

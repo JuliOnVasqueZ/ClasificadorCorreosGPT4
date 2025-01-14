@@ -1,0 +1,499 @@
+Visit our website at  
+This message contains confidential information and is intended only
+for the individual named.  If you are not the named addressee you
+should not disseminate, distribute or copy this e-mail.  Please
+notify the sender immediately by e-mail if you have received this
+e-mail by mistake and delete this e-mail from your system.
+E-mail transmission cannot be guaranteed to be secure or error-free
+as information could be intercepted, corrupted, lost, destroyed,
+arrive late or incomplete, or contain viruses.  The sender therefore
+does not accept liability for any errors or omissions in the contents
+of this message which arise as a result of e-mail transmission.  If
+verification is required please request a hard-copy version.  This
+message is provided for informational purposes and should not be
+construed as a solicitation or offer to buy or sell any securities or
+related financial instruments.
+My guys are telling me that all of the broker sheets we collected are now in your hands.   The validation for East Power should be very easy because we collected broker quotes almost every day and marked curves nearly every day.   If there are gaps, please let me know.
+With respect to vol curves, I am having Wang and Stalford go back and validate.
+Thanks for your help with this.  We are validating everything from December 3 until the present.
+I agree with the delegation except for Chris Dorland.   Tim Belden needs to determine who validates the West Power curves.   With respect to vol curves, Steve Wang and Rob Stalford need to validate.
+What time period are we validating?
+FYI - I spoke with Kevin today and he volunteered the following individuals to help you curve validation. 
+Chris Dorland - West 
+Doug Gilbert-Smith - ERCOT 
+Dana Davis - NE 
+Fletch Sturm - MW/SE 
+Ed 
+There is one left - Net 10000 DYN short with 10000 DYN long.
+Kevin Presto
+East Power Trading
+Phone:  713-853-5035
+Cell:  713-854-3923
+Fax:  713-646-8272
+I agree with the delegation except for Chris Dorland.   Tim Belden needs to determine who validates the West Power curves.   With respect to vol curves, Steve Wang and Rob Stalford need to validate.
+What time period are we validating?
+FYI - I spoke with Kevin today and he volunteered the following individuals to help you curve validation. 
+Chris Dorland - West 
+Doug Gilbert-Smith - ERCOT 
+Dana Davis - NE 
+Fletch Sturm - MW/SE 
+Ed 
+Yes, Wang and Stalford picked this back up yesterday.
+Kevin -
+Is anyone marking vol curves for you currently?
+RH
+I agree with Rogers.   Because only one entity can mark curves and I have once again made this a requirement for all traders to get re-acquainted with value in the market, it makes sense for Netco/UBS to mark curves until the cutover occurs.   At that point, both entities will assume separate responsibility.
+Kevin/Paul -
+Apparently the new/separate curve database will not be copied until Monday 2/4.  Therefore, we need to decide who will be responsible for marking curves until such time.
+Over the last few days our group has attempted to mark curves but has not been able to because the Netco group is still performing this function (in most cases).  My suggestion is that Netco employees continue to mark curves until the new database is completed.  At that time, there will be two separate processes.  The Enron estate process will only be marking curves where we have live (not terminated) positions including vol positions.
+In the meantime, our group will be focusing on validation of the 11/30 and 12/03 curves as well as any other dates that will be crucial for termination calculation purposes.  We will need access to all back-up curve data captured during these time periods.
+Please let me know if you agree.
+Rogers
+Please coordinate with Kim Melodick to make this happen.
+Hi,
+My current boss - Dr. Vince Kaminski - has informed Enron Credit that I will be moving to your group.  In addition, he has me training my "successors" to take over my current projects 
+I have accepted a verbal offer from Harry but wanted to know what the next steps are.  Should I be receiving something in writing regarding my new job description, title, moving arrangements to the 31st floor, etc.?
+Thanks in advance for your time 
+,
+Iris
+Iris here is the schedule:
+Fletch Sturm 1:30-2:00 EB3125
+Kevin Presto 2:00-2:30 in EB3125
+Harry Arora 2:30-3:00 in EB3125
+If you have any questions please let me know.
+Thanks
+Lisa x39194
+Harry is getting with Kim Melodick (HR for wholesale trading) to coordinate the transfer.
+Hi,
+My current boss - Dr. Vince Kaminski - has informed Enron Credit that I will be moving to your group.  In addition, he has me training my "successors" to take over my current projects 
+I have accepted a verbal offer from Harry but wanted to know what the next steps are.  Should I be receiving something in writing regarding my new job description, title, moving arrangements to the 31st floor, etc.?
+Thanks in advance for your time 
+,
+Iris
+Iris here is the schedule:
+Fletch Sturm 1:30-2:00 EB3125
+Kevin Presto 2:00-2:30 in EB3125
+Harry Arora 2:30-3:00 in EB3125
+If you have any questions please let me know.
+Thanks
+Lisa x39194
+Doug Gilbert-Smith runs our Texas power group.
+Kevin, we are in a transaction in which we will be looking at hedging the electricity into the mtbe plant for the next 3 years , who should i talk to about this hedge ?
+Yes, I will call you tonight or tomorrow to give you an update.
+Can I use you as a reference?
+Let's bring him in for an interview.
+Kevin this is the forecaster with an attitude.
+Sounds like he has a fair amount of drive and would fit in well at Enron.
+I have been emailing Craig once a week until I heard from Gerald who I have a lot of faith in as far as reference as I did not want to inherit a problem PHD.  I have asked research (Vasant) to check him out as well.
+I believe that this cat might be what I need to get the forecast Rogers and Services need for our wholesale to retail delivery amounts with limited or no metering.  I would have him work on a project that uses the metering we receive to forecast Rogers wholesale delivery requirements hourly.
+I will proceed to bring him in unless I hear otherwise from you.
+Lloyd
+I am on Craig's committee and worked with him for two years (1999-2000)
+through his major professor, Eric Bartlett.  I think that Craig is a
+self-starting person, familiar with neural networks and statistics.  He has
+done a good job with programming on the internet and is very interested in
+forecasting.
+I think that with the right opportunities, he will do very well.
+Gerry
+Gerald can you provide me with the link you are referring to.
+Also I have been in contact with a Craig Carmichael.  Can you provide me
+with any insight in his forecasting abilities and potential.
+[mailto:IMCEANOTES-+22Sheble+2C+20G+2EB+2E+22+20+3Cgsheble+40iastate+2Eedu+3
+E+40ENRON@]
+Sent:   Wednesday, June 20, 2001 7:27 PM
+Lloyd
+I have been out of the country and out of town for some time.
+I was to visit with Vince Kaminski, but this was delayed and then not
+rescheduled.
+I would like to discuss the web page portal that ENRON has with regard
+to
+retail customers.  We are studying such portals for service marketing.
+Another student and I are designing a set of web pages for a given
+product
+set as a class project.  Could you provide a contact for a short
+conference
+call?
+Thank you,
+Gerry
+Professor, Electrical and Computer Engineering
+1115 Coover Hall
+Ames, Iowa 50011
+voice: 515.294.3046
+FAX: 515.294.4263
+email: gsheble@iastate.edu
+web     Access approved.
+Kevin,
+Please grant Mike Ratner curve access.  Mike works for Rod Hayslett.  He is evaluating Enron Transportation Services business/asset development initiatives.  He will not share the pricing information with others either inside or outside the company but will share the results of his analyses with ETS senior mgt.  Please let me know if you have other concerns that need to be addressed.
+Eric Gadd
+Eric, I can send the model with curve fetch functionality to Mike Ratner.  To clarify the curve request process, you or your assistant will need to send a request (email, phone, in-person) to Kevin Presto (VP of Power Trading) outlining the reasoning for the curve access.  Upon approval from Kevin, you or your assistant will then need to send in an eRequest for curve access which goes through the system to Lloyd Will, who will verify Kevin's approval, and set up Mike's security access in the system.  Please let me know if you have any questions.  Thanks
+- Jim
+Jim,
+Mike Ratner is the person inside ETS to have access to the forward curves.  Please provide him with a spread option model that includes the curve fetch function.
+Thanks,
+Eric Gadd
+Mike Ratner.
+Rod,
+Jim Meyn is Bernie Aucoin's successor.  He's provided the attached spread option model for us to use but will not release forward price curves without authorization from Kevin Presto, who runs East Power Trading.  I think the best way to address ENA's concerns will be to limit the number of people in ETS that have access to the curves.  From my perspective, somebody in your organization would be the most rationale choice.  Any suggestions?
+Here is the model we were reviewing this afternoon, minus the curve fetch function.
+- Jim
+Please put on calender
+As most of you may know the New Albany Purchase and Sales Agreement has been executed.  A meeting has been scheduled for Wednesday, June 27th to discuss going forward between the execution of the documents and closing.
+It is imperative that each of you participate in the meeting.  If you are unable to attend in person, please call in using the following call in information:
+Call in Number: 		800-713-8600
+Passcode:  		65186
+Duration: 		11:30 am - 1:00 pm
+Room:			EB 8C1 (Enron Building Participants Only)
+Lunch will be provided. 
+Thank you 
+Angie Collins
+Per Lavo, he would like to see ASAP the break-even price on the reg-switch options where length was booked and when wholesale goes below tariff, we can cover and re-create free option.
+When can we have summary valuation of this done for East positions?
+Doesn't it become a free option if you can serve physically or reg-gen via utility tariff.   For example in Illinois and Ohio, wouldn't these markets create free options if the wholesale price goes below reg gen?
+Kevin 
+we were in the process of extracting all of these options into a separate book for ease of identification and management.  This process was stalled so that we did not create unexpected errors surrounding our current CA efforts.  However, I spoke to Don and I think we are back on track.  Jay - can we pull together this info one way or another (prioritize our top 5 positions maybe).
+Also, this does not create a free option.  To the extent the wholesale prices decline to the point where they equal the assumed underlying transition supply values then we should have no losses associated with erroneous dereg date assumptions.  However, if you step in and buy the wholesale power to "mitigate" this exposure and the wholesale curve continues to drop, you could be faced with new wholesale losses - especially if dereg is stalled and we have to purchase tarriff power at a pass-through and absorb our new wholesale hedge position loss.
+Bottom line:  The loss associated with blown dereg assumptions decreases as wholesale prices drop to a point - we should be in good shape here as this will definitely minimize our clean-up costs associated with these errors.  We can probably best manage this exposure by purchasing wholesale call options as we observe the wholesale curve drop below the regulated tariff energy price.
+RH
+Per Lavo, he would like to see ASAP the break-even price on the reg-switch options where length was booked and when wholesale goes below tariff, we can cover and re-create free option.
+When can we have summary valuation of this done for East positions?
+Are drinks on the house?
+Kevin,
+New York Pizzaria just called and wanted to know if we would like to have a Happy Hour at their new location in Mid Town @ Gray & Bagby.  We would have to set it up between the following dates:  June 26th - July 6th (4:30pm - 7:30pm).  They are asking their top clients to come in and try out the new location.
+Let me know what you think,
+TJae
+Based on what Fletch and Doug are doing, I would increase your #'s significantly.   Your liquidity data is very conservative compared to Fletch and Doug.   Your forward volumes are approx. 20% of Doug and Fletch and your ST data is about 50%.
+I would complete the form based on the liquidity we saw in Aug and Sept.
+Kevin-
+Have a quick look before I send it out.
+Before we book the New Albany sale, Lavo would like to have a final meeting with myself, Lavo, Louise, Stuart, and Don to go through final economics and determine appropriate booking.
+Stuart & Don - Can you set up meeting?
+We will pass.
+No...just the food is included.
+$1 Rasberry & Lemon Drop Shots
+$2 Beer
+$3 Margarita's & Belini
+$4 Well 
+Are drinks on the house?
+Kevin,
+New York Pizzaria just called and wanted to know if we would like to have a Happy Hour at their new location in Mid Town @ Gray & Bagby.  We would have to set it up between the following dates:  June 26th - July 6th (4:30pm - 7:30pm).  They are asking their top clients to come in and try out the new location.
+Let me know what you think,
+TJae
+thanks.
+Kevin,
+Dana did a 2004-2006 deal on Friday at Zone G as follows:
+Buy swap from Constellation 50 MW/Hr peak at $46.25 (deal #659636)
+Also, as an FYI, he did a 2005-2007 deal at Zone G on Friday, as well, as follows:
+Sell swap to EES 50 MW/Hr peak  at $49.75 (deal #659631) 
+Let me know if you need anything else.
+-Casey
+$100k.
+Kevin:
+Mark Haedicke is looking for an indication of the net settlement value to Enron from Calpine (apparently standard procedure for the settlement of lawsuits). David Portz is running the traps on this. I checked with risk mngt. to determine value of the cal '03 Nepool icap purchase. They couldn't find the deal. Can you give me a ballpark value ?
+I'll be happy to pass the info. to Portz. 
+Thanks
+Distributed  Generation Conference
+August 7-10, 2001 Denver, Colorado
+Overview
+The distributed generation (DG) market is growing  rapidly, estimated to reach 25-30 gigawatts by 2010. Join us at the Distributed  Generation Conference and hear the latest information and overview of the  business and technical prospects for distributed generation. Our panel of expert  speakers will address the economics of distributed generation, evolving  regulatory policies, market projections, interconnection challenges, pricing  issues and much more. The Conference will also debate the role of distributed  generation (where and how), and identify the strengths and weaknesses of the  different generation technologies.
+The brochure for the Conference and associated  Workshops is attached in pdf format. Please print the brochure and fax the registration  form back to us at 303-741-0849 if you would like to attend. Or you may register  online.
+Electric Power  Market Performance Conference
+September 20-21, 2001, Denver,  Colorado
+Overview
+Each year there is additional opportunity to draw  lessons regarding electricity market structure and design from actual market  performance. These lessons are leading to a convergence in market design, at  least in the Eastern Interconnection and Ercot. One focus of this conference  will be on the lessons to be drawn from the experience of the new Ercot markets,  the continuing market design problems in California, and the difficulties in  developing and implementing a market based congestion management system in the  Midwest.
+A second focus of this conference will be on the  existing markets in PJM and New York, which have now moved beyond managing their  internal markets and are being pushed by market participants and regulatory  agencies to better address inter-RTO coordination and develop market based  incentive systems for transmission expansion.
+Finally, the conference will highlight one of the  important, but little noticed successes of the Eastern ISOs, which is the  explosive growth in the PJM and New York financial rights auctions.
+The brochure for the Conference and associated  Workshop is attached in pdf format.Please print the brochure and fax the registration form back to us at  303-741-0849 if you would like to attend. Or you may register  online.
+Kindly  forward this announcement to your colleagues who might benefit from attending  these conferences/workshops/courses.
+Best L.  Mrig
+Electric Utility Consultants, Inc. (EUCI)
+5555 Preserve  Drive
+Greenwood Village CO 80121
+(303) 770-8800Lmrig@euci.com 
+Send  us a note if you do not wish to receive these announcements.
+A former FPL employee (Ken Olan) will be calling you regarding a potential alternative to Orimulsion.   The fuel is sourced from US refinery and can be burned in the same manner as Orimulsion, creating two fuel sources.
+Let me know.
+Agreed.
+Berney -
+I think that we need to go with 
+ 1 million Mwh = Presto 
+ 2 million Mwh = Lavo 
+This may still be too restrictive and burdensome on Lavo and Presto.
+Kevin - what do you think?
+Rogers 
+Is the level for Presto/Belden still too low? What about 500,000 or 1 million?
+Thoughts?
+Bern 
+California deals done during the next two weeks need to be signed by Perry, Richter, and Belden.  Thanks.
+While soliciting signatures for the IBM DASH, John Lavorato stated that Rogers Herndon and/or Tim Belden should sign the RAC DASH.  Effective immediately, we will remove Lavorato from the Approval to Issue Executable Pricing and the RAC DASH signature page.  With these changes in place, the approval authority for the EWS Power Desks will be as follows:
+Please let me know as soon as possible if you have any changes.  In the meantime, we will proceed with the approval authorities above.
+Note: forwarded message attached. 
+Do You Yahoo!?
+Get personalized email addresses from Yahoo! Mail - only $35  a year 
+Note: forwarded message attached. 
+Do You Yahoo!?
+Get personalized email addresses from Yahoo! Mail - only $35  a year 
+A woman walks into a shop that sells VERY 
+ > > > > > EXPENSIVE PERSIAN RUGS. She looks around and 
+ > > > > > spots the perfect rug and walks over to inspect it. 
+ > > > > > As she bends to feel the texture of the rug she 
+ > > > > > farts loudly. 
+ > > > > > Very embarrassed she looks around 
+ > > > > > nervously to see if anyone has noticed her 
+ > > > > > little accident and hopes a sales person does 
+ > > > > > not pop up right now. As she turns back, there 
+ > > > > > standing next to her is a salesman. "Good day 
+ > > > > > Ma'am, how may we help you today    > > > > > > Very uncomfortably she asks, "How much does this 
+ > > > > > rug cost?" He answers, "Lady if you farted 
+ > > > > > just touching it, you're gonna shit your pants when 
+ > > > > > you hear what the price is 
+I slept great.
+funny......I had sent this one out earlier today (got it from Jimmy  
+Aguilera's sister....remember him....lives in Pueblo)....anyway then I also  
+sent it to Toni Sturm so she must have sent it to Fletch huh love ya..........I didn't get much sleep last night....how about you?  you  
+probably slept like a cat huh 
+Please call me as soon as we find out about the Duke board mtg results.   I need to know ASAP.
+If I picked 6102, why am I getting 6103?
+Yes...you picked 06102...I will get your things from down stairs.  Looks like they are ready to move in the attorneys now.
+Tjae
+Is this the office I selected?    Please confirm.
+Here are the office locations that Louise has assigned: 
+Calger  06105 
+Presto  06103 
+Shively 06102 
+T Jae, it was decided today that legal will move over here this weekend.  Can you please arrange for Kevin's things to be boxed up so legal can move in downstairs over the weekend.
+Ina, if there are any of John Arnold's personal effects left on 5 can you please have them boxed up? 
+If we can hold off until next week to set the new offices up I'm sure that Darren and David would be very grateful! 
+Thanks for your help! 
+Tammy 
+Tammy, 
+Chris indicated on Friday that he has an office on this floor.  Please let me know the location so I can have his office set up at a later date.
+Thanking you in advance. 
+Tina Rode 
+Assistant to Chris Calger 
+713-853-9582 
+Cell 713-419-6237 
+Please put in contact book.
+I will be leaving the office today at 4:00 to catch a flight.  Will be available on my cell until about 6:30 
+If you need to reach me tomorrow, please feel free to call my cell (713-859-6266) or my home (908-806-6619).   I will be checking e-mails throughout the day as well.
+Jeanie Slone will also be available for any questions or assistance.
+Thanks!
+Amy
+Greg,
+My brother is looking to make a career change from teaching (currently a biology teacher at Richland High School) into something where performance is rewarded.
+He is an extremely hard worker who is ultra competitive.  Do you have any needs for entry level hourly guys?   I think he could learn the business quick and do well in our industry.
+I know there is a ton of market uncertainty in the West right now with the California debacle, so I'm not sure if you need people or not.  Let me know if there is any chance for an interview and I can have my brother send a resume.
+Hope everything is going well for you and your family.
+Thanks.
+Is the deal done.
+In preparation for tomorrow's meeting, please review the attached.
+Thanks,
+Stuart
+Hello Everyone,
+The time/location of the New Albany meeting has changed.  The meeting will now be held from 1:30 p.m. - 3:00 p.m. in EB791
+Please confirm your availability.   We apologize for any inconvenience 
+Beverages/Snacks will be provided.
+Thank you,
+Angie Collins
+As most of you may know the New Albany Purchase and Sales Agreement has been executed.  A meeting has been scheduled for Wednesday, June 27th to discuss going forward between the execution of the documents and closing.
+It is imperative that each of you participate in the meeting.  If you are unable to attend in person, please call in using the following call in information:
+Call in Number: 		800-713-8600
+Passcode:  		65186
+Duration: 		11:30 am - 1:00 pm
+Room:			EB 8C1 (Enron Building Participants Only)
+Lunch will be provided. 
+Thank you 
+Angie Collins
+I received an e-mail from Greg Wolfe.   They do have needs for entry level people.   For whatever reason, he did not receive the attached resume in my previous e-mail.   Please send me a final version of your resume so I can forward to Greg.
+thanks.
+Kev,
+If you get a chance on monday, send me an email or give me a call
+in the evening in   to Portland.
+DP
+What advantages does this bring for East and/or West Power (other than less mid-yr reviews to do)?
+I would like you guys to think about moving your scheduling into Sallys' world. I'm sure you can still get whatever you want and it would be consistent with the rest of the world.
+John
+I am pleased to announce the following changes in the Global Risk Management Operations organization: 
+Bob Hall will lead operations for Enron Americas. Bob previously served as one of the business controllers for gas operations for Enron Americas, with direct responsibility for Gas Logistics and Volume Management.  The leadership team reporting to Bob will include Peggy Hedstrom (Calgary Operations), Jeff Gossett ( U.S. Gas Risk and South America Operations), Stacey White (U.S. Power Risk), Leslie Reeves (U.S. Gas and Power Confirmations and Settlements), and Bob Superty (U.S. Gas Logistics 
+Brent Price will continue to lead Operations for Enron Global Markets and fulfill his dual role as Chief Accounting Officer for Enron Global Markets. 
+I am very pleased to announce that Kevin Sweeney will lead Operations for Enron Industrial Markets.  Kevin brings to his new role extensive risk and operations experience from stints in our Houston, London and Singapore offices.  Kevin fills the role that was previously held by Brenda Herod, who will now report directly to Beth Apollo. 
+Beth Apollo will be the Operations Project Manager for the assimilation of EES Wholesale. This will include Deal Capture, Risk Analysis,  Confirmations, and Global Data functions which have been moved into EWS under Global Risk Management Operations.  Successfully leveraging the infrastructure to support the EES business plan will also require close coordination with Gas Logistics, Settlements and the Operational Analysis (OA) process, and Beth will actively coordinate operations efforts with these teams and the commercial teams.  I have asked Beth to project manage the effort to look for opportunities to streamline and improve systems, processes and controls, and to consider alignment, where it makes sense, with existing EWS processes.  Reporting to Beth will be Scott Mills, with a focus on Deal Capture, Risk Analysis and Confirmations, and  Brenda Herod, with a focus on invoicing control guidelines and reporting requirements. 
+Beth will also continue to manage the Global Services function, which includes the consolidated DPR process and Global Operations Standards, led by Shona Wilson, and the Global Data function which is lead by James Scribner.
+Mike Jordan will continue to lead operations for Enron Europe, working closely with me and other EWS operations leads to insure the proliferation of best operational practices worldwide for Enron 
+Thanks for your continued support especially in exploring and seizing commercial opportunities to strengthen our contributions to Enron.
+Lloyd Will is my fundies interface, and, in general, we have received very good support from Research.
+Kevin,
+Hello!  I hope you will remember me from the EPP days.  You may be aware that I joined the Research group here in Houston in February.
+You maybe aware that Stinson Gibner who was in the Research group left late last month, and I am now taking over some of the things he was earlier looking into.
+One of those is trying to get a good feel for how well your group is being supported by Research, and to provide timely help where needed.  Whenever you have a moment, I would like to meet with you or anyone you designate to get a better idea for your needs and also collect any feed back that you may have for me.
+,
+Sandeep.
+Wow - imcompetence at its best.
+Joe -
+You mean that because we have no curve out there 19 - 22 that we have a price = $0.00 on our cost side?  Wow - were these people brain dead around here 
+Yes- you are on the right path to correct this.  Please let me know the p/L impact.
+Rogers
+I have been trying to run some P&L with   to hub changes and changes in ancillary assumptions.  I came across the fact that our Gulf Power deal with Enron Compression Services goes through 2022 but the off peak curves only go out until 2019.  Therefore the P&L has not been taking into account curve shift with the unerlying for these years.  We basically have a position marked against a zero price.  I am working with Ress and Jeff Jackson to resolve this issue.  Just wanted to keep you aware of the situation.  Since this is an off peak price out beyond the normal curves, I was going to have the curve generator pull the 2019 price and increase it based on the percentage increase in on peak prices for the respective years 2020-2022.  I will also calculate the P&L associated with this change to see when we want to recognize it.  Let me know what you have any comments and or suggestions.  Thanks 
+-Joe
+Please give the names of the plants effected ASAP.
+The following information is from a Union source:
+Union planning to go on strike at 6am tomorrow morning  (1200 employees of which 250 are Management)
+The current shift is the last prior to the strike
+Meeting continue today and through out the night
+A Federal mediator has been bought in to try and help the situation
+The only way the Union won't go on strike is if there is a tentative agreement in place with Midwest, however, everyone involved feels these chances are slim 
+When a strike occurs, it will affect 7 plants
+Currently getting info from Midwest - will pass it on when received
+Just got word that the 250 Managers will not go on strike and will instead take over operations of the following plants:
+(2) Chicago - Fisk Station and Crawford Station
+(1) Pekin - Powerten
+(1) Joliet - Joliet Station 9 and Station 29
+(1) Morris - Kalins
+(1) Romeoville - Will County
+(1) Waukegan - Waukegan Station
+Union workers will also walk away from 5 peaking units:
+Electric Junction, Aurora 
+Lumbard 120, Lumbard
+Seabrook, Rockford 
+Calumet, Chicago
+Bloom, Chicago
+Please give the names of the plants effected ASAP.
+The following information is from a Union source:
+Union planning to go on strike at 6am tomorrow morning  (1200 employees of which 250 are Management)
+The current shift is the last prior to the strike
+Meeting continue today and through out the night
+A Federal mediator has been bought in to try and help the situation
+The only way the Union won't go on strike is if there is a tentative agreement in place with Midwest, however, everyone involved feels these chances are slim 
+When a strike occurs, it will affect 7 plants
+This list is wrong.   Can you reconcile our headcount by functional group with this "incorrect" headcount.
+Could you both take a look at the headcount file I received and let me know if anybody is missing or if somebody is included in the wrong region?
+Thanks,
+David Vandor
+x36306
+Sounds fine to me.
+FYI - in case you didn't see this already. 
+It seems harmless.
+Attached is a draft press release regarding Duke's purchase of our New Albany facility.  Duke expects to release late in the day on Thursday, June 28.  They will be meeting with the employees on Friday.
+It is not much different than Cinergy's or AES's releases when they purchased peakers.  Please forward all comments to me at your earliest convenience.  While I am out of the office, I am accessing e-mail and voice mail or you can page me at 877-576-8750.  Thanks.
+Eric
+- release na draft 1.doc  
+No trading on the 4th
+Just wanted to double check that there will be no trading July 4th.  EOL wants to have the correct amount of support.
+Thanks,
+Stacey
+Hello Everyone,
+If you could all verify if there will be trading on July 4th, regarding your specific desk or commodity, it would be greatly appreicated.  July fourth is an Enron Holiday, and we want to make sure that we have appropriate coverage.  Thanks for your help.  TARA
+Please summarize and hand out to traders.   In addition, create a section on our web site for enviornmental related matters.
+Rika please assign this to our analysts covering emissions.
+This is a very good document and will be helpful in evaluating this area. 
+Not sure if you have seen this yet.  But NESCAUM has compiled a list of power plants they could find that have committed to install SCRs, sample SCR experiences (and the timing of outages to install SCRs), and an aggregated look at the states' NOx allowance budgets vs. SCR commitments. (paints a good picture of who has yet to pay the piper.)  It might be a good way to double check & update some of the research efforts you were undertaking last winter.
+Let me know if you have questions or need additional information.
+Mary Schoen
+Environmental Strategies
+Enron Corp
+As you can see, I was copied on the original e-mail.
+As we reported yesterday and confirmed by the press this morning, the Local 15 went on strike at 6 am today.  In addition to walking out on eight plants (listed in yesterday's report and in today's article below), Local 15 also walked out on five peakers.  The walk out on the five peakers was again confirmed this morning through a union source, although we have yet to see any press information.  We are the following the developments and will keep you posted.  Please let us know if you have any questions or further tasking.
+Thursday June 28, 8:50 am Eastern Time 
+Press Release
+SOURCE: International Brotherhood of Electrical Workers, AFL-CIO 
+Local 15, International Brotherhood of Electrical Workers, Announces Strike Against Midwest Generation
+First Local 15 Strike in 50 Years, as Company Refuses to Negotiate in Good Faith
+NAPERVILLE, Ill., June 28 /PRNewswire/ -- Local 15, International Brotherhood of Electrical Workers (IBEW), AFL-CIO, announced that its 1,150 members went on strike against Midwest Generation, EME, LLC, today at 6 a.m. The union's decision to strike comes after several months of unsuccessful negotiations with representatives of the California-based unit of Edison International Co. 
+Local 15 had proposed a collective bargaining agreement that would retain the ordinary and customary practices and the arbitration awards that have been in place for 13 years. The union also proposed maintaining the progressive discipline procedure that was contained in the previous contract. In response, Midwest Generation told union negotiators that it would reject the union's entire proposal, which includes the retention of existing procedures. 
+``Because we have proposed no new language, it's unclear what Midwest Generation is trying to accomplish beyond a strike,'' said William H. Starr, President and Business Manager of Local 15, IBEW. ``We understand, given the fact that Midwest Generation is part of a financially troubled California power corporation, that there are concerns about Midwest Generation's ability to operate and maintain its Illinois operations. However, during the course of our negotiations, Midwest Generation representatives informed Local 15 that there was nothing in the union's proposal that would hurt the company's revenues or profitability in today's competitive marketplace Local 15 is also troubled by Midwest Generation's misrepresentations of the union's position in this dispute. For example, Local 15 proposed no contract language to impede or limit the company's use of outside contractors. And it is Midwest Generation, not Local 15, that, after months of refusing to come to the bargaining table, has also refused to bargain in good faith. 
+Formal negotiations began one week after Midwest Generation was forced to sign a settlement agreement with the National Labor Relations Board (NLRB), Region 13, on June 6. The settlement required the company to meet and bargain in good faith with Local 15 for a new contract. The previous contract had expired on March 31, 2001. On May 25, Local 15 announced its members had voted overwhelmingly to authorize a strike against Midwest Generation, with 89% voting in favor of the strike authorization. 
+``By working without a contract since April 1, our members have demonstrated that they are absolutely dedicated to maintaining service for the Illinois communities that rely on power from Midwest Generation facilities,'' said Starr. ``However, because the company has refused to accept reasonable proposals offered by Local 15, we are forced to strike. It is unfortunate that Midwest Generation has so little regard for its employees, the livelihood of our members and their families and the people of Illinois. We are disappointed, but we will continue to fight for a new contract that is fair, reasonable and mutually beneficial Local 15 members have established picket lines outside of each of Midwest Generation's seven fossil-generating stations in Northern Illinois. The plants supply approximately 40% of the electrical power capacity in the Chicago area. They are: 
+Crawford Station: 3501 S. Pulaski Road, Chicago. 
+Fisk Station: 1111 W. Cermak Road, Chicago. 
+Collins Station: N. side of Pine Bluff Road, 4 miles east of IL
+Rt. 47, Morris. 
+Joliet Station, #9: 1601 S. Patterson, Joliet. 
+Joliet Station, #29: 1800 Channahon Road, Joliet. 
+Powerton Station: 2 miles south of Pekin, off IL Rt. 29 on Manito 
+Road, Pekin. 
+Waukegan Station: 10 Greenwood Ave., Waukegan. 
+Will County Station: 529 E. Romeo Road, Romeoville. 
+In 1999, Midwest Generation acquired the plants from Commonwealth Edison Co. and entered into a purchase agreement that requires Midwest Generation to sell 80% of the power it generates at peak production to ComEd. ComEd, in turn, sells the power to about 3 million customers in the Chicago area. Several months after Midwest Generation acquired the plants, the company entered into a collective bargaining agreement with Local 15, IBEW, effective from December 15, 1999, until March 31, 2001. 
+Local 15, International Brotherhood of Electrical Workers, AFL-CIO, represents 1,150 operations, production, maintenance and clerical workers at Midwest Generation's seven fossil-generating stations in Northern Illinois. 
+SOURCE: International Brotherhood of Electrical Workers, AFL-CIO 
+Please handle.
+Mr. Presto - Enron submitted banking information to ERCOT for the settlement of financial transactions.  Please be advised that if you want either of your sub-QSE transactions to clear through a different bank account, you need to submit a Notice of Change of Information Form with the sub-QSE banking information by July 6, 2001.  If you have any questions, please let me know.  Thanks.
+Tracy Hancock 
+ERCOT Business Rules & Contracts 
+512-248-6599 
+My recommendation is that Berney's retail structuring group value the generation deals that are intended to serve retail load.
+Berney -
+As we have mentioned in the past, York has no significant strategic value to the retail business.   The plant is located in PJM - West Hub, one of, if not the most, liquid, transparent and retail friendly supply location.  Bring us another deal with legitimate due diligence in PJM - East or Zone J/G and we could attribute some strategic value.  We have more than generously valued this generation and it does not interest me from a VAR allocation standpoint or otherwise..
+Regarding our role in these generation efforts - I view them as minimal, but it is obvious they see differently.  I do not anticipate that our book will acquire generation but I am not sure if we need to staff up to handle this vs. distracting our regional structures with these efforts on an as requested basis.  One suggestion would be to have wholesale structuring price up these projects.  The drawback there is that we have most of the experts and Bernstein & Co. want to value ancillary adders etc.
+Kevin, what are your thoughts?
+RH  
+2 issues: 
+1) Bernstein has asked us to comment on the strategic value of their York proposition. Apparently, he has revisited the Fixed O&M assumptions with Virgo and the new numbers have him close to where our mid would be (approx. $22 million). Once again, we are representing our valuations based on limited information and NOT full pro-forma economics. I've suggested to Bernstein to talk to Don Miller's group for an exit strategy in case the buy this thing. (i.e., Alamac structure) Anyway, it leads to my next question.
+2) If I'm asking this for the hundredth time, I apologize BUT: Do I need to staff up to accommodate "generation-based" pricing in our shop? Bernstein has asks me to facilitate getting access to structuring models to do their own notional pricing on deals. We need to address two possible scenarios:
+They have access to structuring models but need access to curves in order to price their deals. In theory, they can use the precedent within EES that Orig/Product Development does their own notional pricing before going to Deal Mgmt./Structuring for Executable pricing. 
+They come to us for notional pricing. If this is the answer, I need to add to my staffing needs to accommodate this service. 
+Rogers, I'm indifferent as to which scenario is the "right thing to do" because I'm operating on the notion that we will not be managing the commodity risk associated with their deals. If this has changed, maybe both scenarios above are necessary to accommodate these value propositions.
+I do realize the fact that our current retail systems can't accommodate spread options or even report the simple Greeks off of a straight forward Fixed Strike Euro, but we can handle this later if we are to warehouse this risk. I think you and I need to have clarity on this issue as we are getting more request to support that business.
+Thx 
+Bern 
+Can you believe Duke paid book value.   Wow!   They even accepted all the risk associated with the Power Systems BS.
+I honestly never thought I'd see the day when ol' New Albany was in the rear view mirror 
+Enron Corp (ENE) (48.34 +1.62)
+DUKE ENERGY CORP. said it agreed to buy a 400-megawatt natural
+gas-fired power plant in Mississippi from ENRON CORP. subsidiary
+(Reuters 02:35 PM ET 06/28/2001)
+Cover letter and resume from my brother are attached.
+Kev,
+Here is everything.  Keep me posted.
+- ENRONC~1.DOC 
+- ENRONR~1.DOC 
+- ENRONR~2.DOC 
+I think they are low in FRCC by $1.00-1.50, and I will fix tonight.   The GTC and FL/GA marks are good.   On-Peak in FRCC, however, I will be moving down some, particularly in the shoulder months starting in 03 as alot of combined cycles are added in Florida by both utilities and merchant players.
+Kevin -
+Are you comfortable with your FLA off-peak marks?  When I look at them as relative basis values to SOCO/ENT they look ok, but when I look at them as rates they may appear low as that region definitely has some building to do and everything incremental should be gas.  They are probably fair - just wanted to check and see if you were comfortable.
+RH
+No problem.   $0.50/Mwh is enough for this service.   You don't need to pay a $1.00/Mwh.   I would say anytime she gets more that $75/Mwh, she gets a $1.00/Mwh to keep her motivated to sell at the highest price.
+Sound OK?
+Kevin -
+Billy closed this deal yesterday in the mid $70's.  i was planning on having Laura liquidate this position daily and pay her something like $1.00 per Mwh.   I would want her to liquidate daily and help me stay informed of what is going on down there and then reserve the right to sell for longer terms - if i say nothing the she would assume to continue to liquidate hourly.  However, my intent is to stay in tune with the market to maintain a good feel of issues in the South so i plan to speak to her daily.
+Your thoughts?
+RH
+This is all wrong - Amy has latest list.
+Could you both take a look at the headcount file I received and let me know if anybody is missing or if somebody is included in the wrong region?
+Thanks,
+David Vandor
+x36306
+It was actually Stuart Zisman.
+I'd be putting Don Miller up for "Eskimo ice cream salesman" of the year!
+Can you believe Duke paid book value.   Wow!   They even accepted all the risk associated with the Power Systems BS.
+I honestly never thought I'd see the day when ol' New Albany was in the rear view mirror 
+Enron Corp (ENE) (48.34 +1.62)
+DUKE ENERGY CORP. said it agreed to buy a 400-megawatt natural
+gas-fired power plant in Mississippi from ENRON CORP. subsidiary
+(Reuters 02:35 PM ET 06/28/2001)
+I can speak with Chris Ahn when he gets back from his honeymoon.
+Terry Donovan has dug up another two candidates, but both are on the fence.  Could either or all of you volunteer to call them and discuss the benefits of joining this effort?
+The pitch should center around the broad reaching interface within both the EES and EWS organization, the exposure to the entire risk management process from cradle to grave, and eventually, good face time with many of the senior leaders within both organizations as they present their research findings.
+This is a very hard group to recruit for, so anything you can do would be appreciated.  Send me a mail if you intend to help 
+Suzette Emmons - She had some interest and is preparing to rotate but is leaning towards the SE Power Origination group in ENA because she is looking for modeling and commercial experience.  I think she would be a good fit (and also might want to go to Portland) and would like to figure out a way to get her.  She would be another good candidate for a phone call.
+Chris Ahn - He had already committed to rotate through Power Structuring and was scheduled to begin following return from his honeymoon in a couple of weeks.  He is reasonably interested in our opportunity (and following that by going to Portland to work in Tim's group) but had concerns about walking away from his commitment to structuring.  By the time he left he was almost ready to join us but wanted to think about it some more.  He is definitely someone that we could sway with a call from the right person.
+Terry,
+Please set aside 30 minutes on my calender sometime next week to talk to Suzette.   I don't know her so your help in setting up the meeting would be appreciated.   Please coordinate with TJ Black (3-5800).
+My conversations with Chris have been along the same lines - Personally the modeling thing is a very minor concern to me.  That is only one component of what we are doing and, based upon what I have heard about Chris, he will be able to pick it up quickly.  Obviously his mind is on other things right now but I am very comfortable that he would be able to add value to our effort.
+In Suzette's case, again she obviously wants to develop her skill set but I think she would be a good fit.  Tim, I agree with your point that Kevin might be the right person to follow-up with her.
+I spoke to Chris Ahn last Friday.  He left for his wedding and honeymoon on Monday or Tuesday of this week.  He has two concerns.  The first is that he doesn't want to flake on east power structuring.  I told him that Presto should be able to smooth that over.  The second one is that he isn't sure that he has yet developed the modeling skills that are necessary for this type of heavy lifting.  He is smart and hardworking, but I personally haven't witnessed his modeling skills nor does he have a "stamp of approval" via a RAC, structuring, or Fundies rotation.  I suggested that he have a heart to heart with Terry to assess whether his current skills are up to snuff.  Terry, have you had that discussion yet????  What is your independent assessment of his capabilities????  As far as the Portland thing goes, I would take Chris in Portland in a heartbeat.  If you would like me to call Suzette I'd be happy to.  Presto might be more effective since her alternative is a rotation in east power.
+Terry Donovan has dug up another two candidates, but both are on the fence.  Could either or all of you volunteer to call them and discuss the benefits of joining this effort?
+The pitch should center around the broad reaching interface within both the EES and EWS organization, the exposure to the entire risk management process from cradle to grave, and eventually, good face time with many of the senior leaders within both organizations as they present their research findings.
+This is a very hard group to recruit for, so anything you can do would be appreciated.  Send me a mail if you intend to help. =20
+Suzette Emmons - She had some interest and is preparing to rotate but is leaning towards the SE Power Origination group in ENA because she is looking for modeling and commercial experience.  I think she would be a good fit (and also might want to go to Portland) and would like to figure out a way to get her.  She would be another good candidate for a phone call.
+Chris Ahn - He had already committed to rotate through Power Structuring and was scheduled to begin following return from his honeymoon in a couple of weeks.  He is reasonably interested in our opportunity (and following that by going to Portland to work in Tim's group) but had concerns about walking away from his commitment to structuring.  By the time he left he was almost ready to join us but wanted to think about it some more.  He is definitely someone that we could sway with a call from the right person.
+Isn't this an EOL cost?
+Kevin,
+We would like to get this cost approved. Thanks.
+I spoke to Jeff Haggard.   Out of the 10 slots they rotate every 10 seconds, they can give us 7 slots.  This means that our ad will be on the site 70% of the time.  We can't take all 10 ads since they have to appear to be "fair" to other companies.
+They are in a pilot phase and only doing this for 3 months for now.  This should be ok since they are willing to modify the  contract to reflect that we have first right of refusal if they extend the program.  We do risk any price increase after 3 months.  But, they are unwilling to offer a longer term than 3 months 
+They have verbally reserved the space for us for today.  Please approve the following cost asap so that I can finalize the contract with them before someone else takes the slots:
+3 months x $500/mo x 7 ads = $10,500
+Ad development cost:  Don't know yet (I would guess about $5,000, we can discuss)
+Thanks.
+Kal
+ Robert,

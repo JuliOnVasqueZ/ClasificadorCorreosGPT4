@@ -1,0 +1,122 @@
+Vince
+Vince:
+Cassandra asked me to forward this note to you, hope it is of some help.
+Ding.
+I have talked with Gordon regarding to the impact of current Enron stock price on the Raptor structure.  Here are the main points:
+1) After the March  fix-up, Raptor hedged ENE credit capacity all the way down to ENE $20/share.  And the collars are consists of European type options.  The maturities are:  original collars for Raptor I, II, IV will mature in 2003.  The new collars for Raptor II and IV will mature in 2005 
+2) The collars were transacted with ENE.
+3) The option settling method will be equity method.  Enron will hand over shares at the maturity.  But there is a maximum 3 share per option limit.   For example:   With a strike of $80,  if ENE price drop down to $20, the intrinsic value of the option is $60 which means ENE will have to hand over $60/$20=3 shares.   But if ENE price drop down to $10, ENE still only hand over 3 shares, with $30 in value.
+4) When options exercised, Enron will have share dilution but no impact on Enron income.
+5) A good portion of the public equities have been liquidated by Raptor at a substantial discount. (I have the list and the share numbers) The notional value of all the swapped assets at the time of Raptor inception was $733.68 MM.  Current value of assets remain in Raptors are $141.8 MM.
+6) While the raptors have hedged Enron's credit capacities,  the current Enron credit capacity dropped from around ($36MM) after the fix up, to around ($237MM) as of 8/20/01.
+Hope these information help answering some of the question you had.
+Ding.
+Ehud,
+Thanks for your  message.
+I have talked briefly to Rick about it and we came to the conclusion that we could substitute Greg Whalley 
+for Jeff. I assume that your interest is more in having a speaker from Enron than a specific person.
+Of course, we have to get on Greg's calendar but I can make these arrangements as soon as I hear from you.
+Vince
+Vince / Rick,
+Greetings.
+With the two-week passage of time since the 8/14 announcement, I write at
+this time to inquire:
+1.  Has sufficient time elapsed for this to be a propitious time to raise
+this issue?
+2.  Does the issue require re-visiting, and would a renewed invitation be
+favorably received by both Skilling and Enron?
+My colleagues and I look forward to Vince's 9/10 visit.  Best,
+Ehud
+Professor of Finance and Jack S. Josey Professor in Energy Studies
+Director, Center for Energy Finance Education and Research
+McCombs School of Business
+University of Texas at Austin
+Austin, TX. 78712-1179
+Voice:  (512) 471-5853
+FAX:  (512) 471-5073
+Internet:  eronn@mail.utexas.edu
+Shirley
+Please, inform the group.
+Vince
+Rice/Enron Finance Seminar Participants:
+Kent Daniel from Northwestern University will present a paper on Friday, August 31, co-authored with Sheridan Titman, entitled "Market Reactions to Tangible and Intangible Information."  The full text of the paper is available in PDF form on the seminar website Fu-Kuo Albert Wang
+Assistant Professor
+Jones Graduate School of Management -- MS 531  
+Rice University  
+6100 Main Street  
+Houston, TX 77005  
+Phone: 713-348-5404  
+Fax:     713-348-5251
+email: wangfa@rice.eduhttp ://www.ruf.rice.edu/~wangfa/ 
+Albert,
+Thanks. What is the time of the presentation?
+Vince Kaminski
+Rice/Enron Finance Seminar Participants:
+Kent Daniel from Northwestern University will present a paper on Friday, August 31, co-authored with Sheridan Titman, entitled "Market Reactions to Tangible and Intangible Information."  The full text of the paper is available in PDF form on the seminar website:   Fu-Kuo Albert Wang
+Assistant Professor
+Jones Graduate School of Management -- MS 531  
+Rice University  
+6100 Main Street  
+Houston, TX 77005  
+Phone: 713-348-5404  
+Fax:     713-348-5251
+email: wangfa@rice.eduhttp  
+Dear Dr. Whitaker,
+I was contacted a few days ago by my friend, Richard McMinn, who is currently holding the Swiss Re Chair in the Management of Risk,  Centre for Risk and Insurance Studies, Nottingham University Business School. Before moving to England, he was for many years with the University of  Texas at Austin. He is also an editor of The Journal of Risk and Insurance.
+Richard expressed interest in coming back to the States, and specifically to Texas. I remember from a number of conversations with you and other rmembers of your staff, that you are thinking about making several additions to the Faculty of Jones School, especially in the area of risk management. Richard is a well qualified candidate that you may consider in your search.
+I am attaching the address of Richard's CV. Please, feel free to contact me if you need more information about his academic credentials.
+Vince Kaminski
+Attached is my response to the questionaire related to Learning forums, etc.
+Sent: Tuesday, November 20, 2001 9:08 AM
+gerald.w.mcelvy@exxonmobil.com; dph@swbellnet;
+Bob.Peebler@halliburton.com; tina.sivinski@eds.com;
+TNTipton@marathonoil.com; bwillia6@us.ibm.com
+Cc: bobcasey@uh.edu; pkumar@uh.edu
+I just sent you an e-mail for the sub-group but failed to include the
+attachment. Thought it would be helpful if I did!  Happy Thanksgiving.
+Lane
+- Energy Community.doc  
+Cathy,
+Thanks.
+I can use the tickets on the 12th or on the 25th.
+Vince
+We have a very limited number of tickets for the Houston Astros still available for the remainder of the season.  For each of the games listed below we have four seats available in section 116, row 33, seats 20 - 23.  Please check the list below and let me know as quickly as possible if you are interested in obtaining any of these remaining games.  If notified quickly, first preference will be given for client entertainment.  Any other requests will be honored on a first come, first serve basis.
+Tuesday, August 28th		7:05 PM
+Wednesday, August 29th 	7:05 PM
+Thursday, August 30th		3:05 PM
+Saturday, September 8th		7:05 PM
+Tuesday, September 11th	7:05 PM
+Wednesday, September 12th	7:05 PM
+Tuesday, September 25th	7:05 PM
+Thank you.
+Cathy Phillips
+X-36898
+13 files sent for R (public version of S).
+Bill,
+Thanks for selecting me as a panel participant.
+Unfortunately, I have to decline: I am planning extended 
+vacation following Thanksgiving.
+I hope your company is doing fine.
+Vince
+Would you be interested in participating in a panel discussion at @Market
+Expo 2001 in Chicago Nov 28-30?  I would like to propose a discussion
+similar to the following:
+Proposed panel discussion -
+Electronic commerce is quickly expanding the capabilities that enable the
+exchange of structured derivative contracts.  Derivative contracts,
+including swaps and options, embody substantial financial risks related to
+both underlying market prices and creditworthiness of participants.  The
+technology needed for these new derivative marketplaces includes
+multi-parametric exchange functionality, rapid response to changing
+preferences for exotic contract structures, and control over the exposure of
+financial risk to traders.  These developments promise to bring electronic
+commerce into the OTC marketplace.  This panel brings together leaders from
+the field of financial risk management to discuss these emerging
+capabilities.
+FYI
+Vince
+Vince,
+It is 3:30pm at Room 115.    then.
+Albert
+At 02:34 PM 8/27/01 -0500, you wrote:
+Albert,

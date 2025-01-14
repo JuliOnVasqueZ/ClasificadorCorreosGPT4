@@ -1,0 +1,502 @@
+"Oh, my god!" she screamed, "Schwartz is dead!"
+Mike,
+DVD time huh?  I like my player, but there is a substantial premium for it And actually, Sony has come out with the next evolution of the mega DVD 
+changer.  I think it lists for $900, but can probably be had for $600-$700 
+range.  It is also huge.  I'm not trying to talk you out of it, just let you 
+know of the downside.  Both models have identical specs, so quality is not an 
+issue.  Let me know if you have anymore questions.
+DG
+Mike Fultz  Darron,
+What is going on??  Not much here...same old same old.  How is the Mustang
+running?  Looks like I will be getting rid of the TA within the next month
+or two.  I have been looking pretty hard at Tahoe's and finally have a firm
+price to work with.  Anyway, it is about time to get my DVD player and I was
+wondering if you are happy with your 200 disc DVD Player.  I can get it off
+the internet for ~$400 or I can get Scott's for ~$275.  Sony has released
+their next generation of DVD  - I think the 'S' series.  There is one that
+is designed to match the Wega tv's.  It is a single disc and costs about
+$330 on the internet.  I am not exactly sure what the differences between
+the new 'S' series and the 'C' series are.  I don't know if I should get the
+new one and pay the extra money or just get an older model.
+Michael Fultz
+Machinery Technology
+PHONE : (713) 753-4229
+FAX :      (713) 753-4132
+Email :    Mike.Fultz@Halliburton.com
+Frank,
+I know this is late.  I appologize.  I need some help with the development 
+plan.  The review is complete.  Let me know if I need to change some items.
+Thanks.
+DG    3-9573
+See if this works.
+DG
+Darron:
+I understand from Chris Abel that the deals contained within this book were 
+transferred to a new book.  Would that be the FT-Lonestar book recently 
+created?  If so, did you calc and officialize the book one last time to 
+insure that the positions are zeroed out for credit purposes?  If you did 
+not, can you please do so.  You can make the effective date the 19th as that 
+is the day the deals were moved to a new book.  It necessary for you to calc 
+and officialize one last time as the Credit system looks back at the last day 
+officialized to pick up credit information.  This will insure that duplicate 
+datat is not present for credit.
+Thanks for you help in this matter.
+,
+Nancy
+See if this works.
+DG
+Could you please let me have a signed original copy of your review.  Thanks.
+DG
+William E Kasemervisz
+01/19/2001 02:00 PM
+Make sure your group is looking out for this 
+1. If copying post ids to run mini books they need to take the TDS flag off
+2.  Since not everyone will do #1 - they should watch their position loads to 
+make sure they are bringing in the correct post ids (they are listed in the 
+load statement)   After they have closed this screen there isn't a way of 
+seeing this.
+Note I have changed working hours & currently come during lunch.  If you have 
+questions concerning TDS systems call Bill Fortney x39952, or you can talk to 
+Russ Severson.
+Thanks,
+Bill
+Bill:
+The PortCalc screen has been changed in production to copy the TDS position 
+load flag as is,
+instead of setting it to 0. 
+Jeremy
+x3-0573
+William E Kasemervisz
+11/16/2000 07:08 PM
+It seems after some discussion the prevailing wisdom is to change the way the 
+TDS flag works when copying a Post ID.
+Risk would like to have the TDS flag copy to new Post IDs 
+Please make the change when possible.  I would put the Meta Calc having the 
+flag a higher priority.
+Thanks,
+Bill
+The TDS position load flag has been added to the PortCalc screen in
+production. Please close your PortCalcs screens and bring up new ones 
+to access this feature.
+(The field is labelled TDS, and is located in the middle, left side of the 
+screen.)
+Thank you,
+Jeremy
+x3-0573
+William E Kasemervisz
+11/14/2000 05:54 PM
+Jeremy Wong will be moving the TDS position load flag onto the Port Calc 
+screen Thursday morning 
+Kenny Ha will then move the new release of TDS to use this flag into 
+production Thursday night 
+Risk will have to flag their books with the new flag Thursday night so the 
+trader positions will load correctly into TDS for Friday.  I will talk to 
+everyone about the change on Thursday & send out a notice of other changes.
+Bill
+x5-7579
+Done.  Sorry it took so long.
+DG
+Tricia Truong
+01/18/2001 02:27 PM
+Darron, 
+This is just a friendly reminder Thanks,
+T
+Tricia Truong
+01/09/2001 11:19 AM
+Hi Daron,
+Could you please change rate on the above deal from $2.24246 to $2.156695 for 
+days 2/21/00 - 2/29/00?
+Please let me know if you have any questions.
+Thanks for your help,
+T  3-9852
+Sounds good.  I'm available just about any day over the next few weeks.
+DG
+SSCHROED@us.ca-indosuez.com on 01/18/2001 04:35:19 PM
+How about getting together for lunch in the next couple of weeks?
+I just spoke with Toni.  She should call you soon.  Let me know if you don't 
+hear from her today.  Thanks.
+DG
+Luvarson@aol.com on 01/18/2001 01:22:39 PM
+Hi Darron,
+This is Kristen Clause.  I have been trying to get in touch with Toni 
+Graham all day and have not had any luck.  Is there someone else I can 
+contact in Human Resources or should I just wait for her to call me?  I am 
+very anxious, can you tell 
+Thanks,
+Kristen Clause
+(409)766-6456 - Work
+(281)286-7005 - Home
+?
+This is graphic....not profane or sexual, just graphic.?  I think it was 
+caught on camera in France.? Reminds me of the pizza man  .mpeg Cheerioooooooooo,? Tom
+?
+- jump.mpeg
+Could you please read this request and get back to Mark with the info ASAP Thanks.
+DG
+Mark C Austin@
+01/16/2001 03:38 PM
+Darron,
+Is there someone else that can direct us to?  I would like to get this 
+information as soon as it is possible.  Please let me know.
+Mark
+Mark,
+I'm in Chicago right now and will return on Thursday.  Let me know if you can 
+wait until then.  Thanks.
+DG
+Mark C Austin@
+01/16/2001 10:57 AM
+As part of our monthly testing we review the monthly Natural Gas P & L 
+Statement and identify specific regions for which we would like to review 
+additional documentation.  Please find below, the regions that we have 
+identified.  We are requesting that you supply the P & L top pages for the 
+last day of the month for those regions that are applicable to you.  Once we 
+have reviewed these top pages, we will be contacting you to discuss the 
+drivers of these regions.  Please let me know if you have any questions or 
+comments.
+Thank You,
+Mark Austin
+Arthur Andersen
+ext. 68680
+November  December
+IM-East   IM-East
+IM-Central  IM-Central
+IM-Texas  IM-Texas
+FT-West  FT-East
+FT--Nwest  FT-NY
+FT-MGMT-West FT-West
+FT-Nwest
+West Gas Daily  FT-MGMT-West
+Storage
+NYMEX
+MANAGEMENT
+Henry Hub Gas Daily
+Texas Gas Daily
+West Gas Daily  
+Sunflower 
+ >? A woman awoke during the  night to find that her 
+ >? husband was not in bed.? She put  on her robe and went 
+ >? downstairs. He was sitting at the  kitchen? table with 
+ >? a cup of coffee in front of him. He  appeared to be 
+ >? in deep thought,? just staring at the  wall. She saw him 
+ >? wipe a tear from his eye and take a sip of  his coffee. 
+ >? "What's the matter dear? Why are you down here  at this 
+ >? time of night?" she asked. 
+ >? "Do  you remember twenty years ago when we were dating, and you were 
+only  
+ >16?" he asked. 
+ >"Yes, I do," she replied. 
+  >"Do you remember when your father caught us in the back seat of my car  
+ >making love > >"Yes, I remember > >"Do you  remember when he shoved that big shotgun in my face and said, 
+  >"Either you marry my daughter or spend twenty years in jail >  >? "Yes, I do," she said. 
+ >? He wiped  another tear from his cheek and said, "You 
+ >? know.....I would  have gotten out today 
+Thanks.  I think I can get them both done tomorrow.
+DG
+Take a look at this for me.  Thanks.
+DG
+Darron:
+I am trying to track an origination for Fred Lagrasta.  Sherry Dawson said 
+you would probably be the one to grant this origination.  The deal is HS 
+Energy and the Deal number is V58190.  Fred would like to have this granted 
+in April, so if I need to give you any additional information please let me 
+know.
+Thanks
+Trey Hardy
+I didn't realize she sent it to the entire company.
+DG
+Please review this internal candidate for your Risk positions.    His 
+supervisor has ok'd him to search opportunities within Commercial Support He has a good recommendation from his current supervisor. He is not 
+comfortable on the commercial side. 
+How goes it?  I'm in Chicago right now.  I am back in Houston tomorrow.  I'll 
+follow up then.  See ya.
+DG
+Thanks.
+DG
+I forwarded this to Carole to take care of Northwest as she was running it 
+Nov and Dec.
+I also sent off the Mgmt-West P&L
+Jason
+We can come.  It is cold up here.  I return later today.  See you later.
+DG
+AA is all over me today.  Please get this for Mark.  Thanks.
+DG
+Mark C Austin@
+01/16/2001 08:43 AM
+Darren,
+As part of our monthly testing we review the Originations Report and identify 
+items for which we would like to view additional documentation.  Could you 
+please provide the deal ticket, confirmation, and applicable forwards detail 
+for deal#EC3952.32?  Any additional information on this deal would be 
+appreciated as well.
+Thank You,
+Mark Austin 
+Arthur Andersen
+ext. 68680
+I asked people in my group to respond to you.  Let me know if you don't have 
+anything by tomorrow.
+DG
+Could you please read this request and get back to Mark with the info ASAP Thanks.
+DG
+Mark C Austin@
+01/16/2001 03:38 PM
+Darron,
+Is there someone else that can direct us to?  I would like to get this 
+information as soon as it is possible.  Please let me know.
+Mark
+Mark,
+I'm in Chicago right now and will return on Thursday.  Let me know if you can 
+wait until then.  Thanks.
+DG
+Mark C Austin@
+01/16/2001 10:57 AM
+As part of our monthly testing we review the monthly Natural Gas P & L 
+Statement and identify specific regions for which we would like to review 
+additional documentation.  Please find below, the regions that we have 
+identified.  We are requesting that you supply the P & L top pages for the 
+last day of the month for those regions that are applicable to you.  Once we 
+have reviewed these top pages, we will be contacting you to discuss the 
+drivers of these regions.  Please let me know if you have any questions or 
+comments.
+Thank You,
+Mark Austin
+Arthur Andersen
+ext. 68680
+November  December
+IM-East   IM-East
+IM-Central  IM-Central
+IM-Texas  IM-Texas
+FT-West  FT-East
+FT--Nwest  FT-NY
+FT-MGMT-West FT-West
+FT-Nwest
+West Gas Daily  FT-MGMT-West
+Storage
+NYMEX
+MANAGEMENT
+Henry Hub Gas Daily
+Texas Gas Daily
+West Gas Daily  
+Mark,
+I'm in Chicago right now and will return on Thursday.  Let me know if you can 
+wait until then.  Thanks.
+DG
+Mark C Austin@
+01/16/2001 10:57 AM
+As part of our monthly testing we review the monthly Natural Gas P & L 
+Statement and identify specific regions for which we would like to review 
+additional documentation.  Please find below, the regions that we have 
+identified.  We are requesting that you supply the P & L top pages for the 
+last day of the month for those regions that are applicable to you.  Once we 
+have reviewed these top pages, we will be contacting you to discuss the 
+drivers of these regions.  Please let me know if you have any questions or 
+comments.
+Thank You,
+Mark Austin
+Arthur Andersen
+ext. 68680
+November  December
+IM-East   IM-East
+IM-Central  IM-Central
+IM-Texas  IM-Texas
+FT-West  FT-East
+FT--Nwest  FT-NY
+FT-MGMT-West FT-West
+FT-Nwest
+West Gas Daily  FT-MGMT-West
+Storage
+NYMEX
+MANAGEMENT
+Henry Hub Gas Daily
+Texas Gas Daily
+West Gas Daily  
+Both of us are out of town right now.  I'm in Chicago and Kristi is in 
+Roundtop (outside of Brenham).  I'll let you know.  We may be spending the 
+night at the lake.  But I'm not sure.
+DG
+Hey!  Do you guys want to play bunko Sat night?   Let me know 
+Sheri
+This is a physical deal.  Leg 4 is unwinding Leg 1.  Leg 1 had the Price and 
+Basis components and Leg 3 had the Index component.  I am in Chicago today 
+and tomorrow.  If you have any further questions, please let me know.
+DG
+Darron:
+Leg 4 of this deal is in TAGG as a physical swap instead of a physical 
+forward.  Is this a physical or financial deal?
+Thank you:
+Derek
+Toni,
+The following people will interview the candidates:
+Jeff Gossett
+Darron Giron
+Kam Keiser
+Will Kelly
+Phillip Love
+Dave Baumbach
+Errol McLaughlin
+We will interview them two at a time.  Meaning two of the above referenced 
+people will be in the room at the same time interviewing the candidates.  You 
+can contact Irena Hogan for scheduling.  If you have any questions, let me 
+know.  I will be in Chicago Tues and Wed.  I will be back in the office on 
+Thurs.  Thanks.
+DG
+Who would you like to have interview these people and is there an assistant 
+who controls the calendars?
+I am having these people phone screened next week and we'll arrange 
+interviews as we talk to them Thanks
+Toni 
+Toni,
+Thanks again for the resumes.  We have identified the following candidates we 
+would like to interview:
+Wesley Wilder
+Kenneth Potochnic
+Michael Montgomery
+Bin Wang
+Richard Gonzales
+Angela Chen
+Michael Green
+Ryan Yarbrough
+Jennifer Chapman
+John Allison
+Let me know if there is anything else I need to do.  Thanks.
+DG    3-9573
+Andrea,
+We would like to bring Bradley D. Jones into the Risk Management group.  The 
+location may change.
+Sladana Anna Kulic
+EB3255C
+Energy Operations
+ENA
+083E
+103818
+Kam Keiser
+Thanks.
+DG    3-9573
+Mark C Austin@
+01/12/2001 11:13 AM
+Darron,
+Per our earlier conversation, the following is a list of new deals that we 
+have identified for further testing.  At your earliest convenience, could you 
+please provide the applicable deal ticket and forwards details for these two 
+deals?  Please let me know if you have any further questions or comments.
+Thank You,
+Mark Austin
+ext. 68680
+I would love to go, in fact, PLove is going along with some other Enron 
+people.  But I'll be skiing in Colorado.  How's the system?  Did you get the 
+other speaker yet?  We have a Christmas present for you.  We want to find a 
+weekend when we can come up.  Most likely with the kids.  Let me know.
+DG
+John,
+The Sitara deal for the West Region is 555798
+DG    3-9573
+John Griffith@
+01/11/2001 06:17 PM
+Hey guys how are you doing?  Do you know the Sitara numbers for the Brazos 
+deals that we changed last week?  Please let me know.  Thanks.
+John Griffith
+hi john,
+do you have the new sitara deal tic # for these vpp vols?
+thanks
+joan
+Sent by: Enron Announcements@
+Want to Get Innovative at Home?
+We are excited to extend an invitation to you to participate in Pilot 3 of 
+Enron's new ClickAtHome program.
+The ClickAtHome program is Enron's innovative solution to provide eligible 
+employees with a high-end computer and high-speed internet connection.
+If you are interested in participating in the ClickAtHome pilot program, 
+please read about  "How to get started in Pilot 3" by clicking the link below.
+Details pilot member expectations, commitments, and a tentative pilot time 
+table.
+Ordering will begin on Friday, January 12th.    To get more information about 
+the program or place your order, visit 
+Dell will be in Houston to assist you with any questions you may have :
+1/16/2001  8:00:00 AM-5:00:00 PM
+1/17/2001  8:00:00 AM-5:00:00 PM
+1/18/2001  8:00:00 AM-5:00:00 PM
+1/19/2001  8:00:00 AM-2:30:00 PM
+Location: EB568 and EB560
+If you have questions, please send them to clickathomepilot3@.
+We look forward to enabling you to Get Innovative at Home!
+ClickAtHome Project Team
+Bill,
+I need to have FT-DENVER set up in TDS.  The trader is Jay Reitmeyer.  There 
+are two Tagg books that need to be mapped to this:  FT-DENVER and 
+INTRA-DENVER.  The following people in Risk need access to the book:  Darron 
+Giron, Chris Walker, Pat Ryder, Jason Wolfe, Carole Frank, Anne Bike, and 
+Jennifer Bagwell.  I also want it to roll up into ALL-WEST.  Call me if you 
+have any questions.  Thanks for your help.
+DG    3-9573
+William E Kasemervisz
+01/09/2001 04:51 PM
+To set up the Denver desk in TDS send a message to Bill Fortney with the 
+following:
+What to call it in TDS (it can be different than TAGG)
+The names of the TAGG books to map to it
+Who needs access
+A roll up desk if needed.  Does it need to be added to ALL-WEST, have a 
+different roll up or doesn't need a roll-up desk at all.
+Any questions give me a call x5-7579 or Bill Fortney x3-9952
+We have two new Analysts in this group, and therefore should probably go to 
+this.  I nominate the two of you.
+DG    3-9573
+Donna Jones
+01/10/2001 11:43 AM
+Jeffrey C Gossett
+01/10/2001 11:39 AM
+I appreciate everyone's help in making sure that all the information for 
+Lagrasta's originated is deals is accurate.  He is now receiving a daily 
+report with all originated deals 
+He has also asked that we give him the data on the deals that his group has 
+done that do not have origination.  Therefore,  going forward we will need to 
+put all deals for Lagrasta's group into the origination file.  Meaning,  if 
+his group does a deal where no origination is granted,  you will need to put 
+all the relevant information into the origination file and just put a $0 for 
+the Origination granted on the report.  Thanks so much for your help.
+Jeffrey C Gossett
+04/26/2001 10:17 AM
+Here is a list by group of suggested improvements for OA.  I will arrange a 
+meeting to discuss how we can implement these quickly.  The groups with few 
+suggestions are not doing everything correctly,  I  just got fewer to no 
+responses out of those groups.  Please thank the people in your groups that 
+responded.  I appreciate your help in improving this process.
+Thanks,
+Jeff
+Andrea,
+We would like to bring Sladana Anna Kulic into the Risk Management group The location may change.
+Sladana Anna Kulic
+EB3265B
+Energy Operations
+ENA
+083E
+103845
+David Baumbach
+Thanks.
+DG    3-9573
+What is your price on an MB Quart RKC116? 
+DG
+What is your price for a MB Quart QM218.61Q?
+DG
+Jeffrey C Gossett
+01/08/2001 04:04 PM
+Fred Lagrasta (Middle Market NYMEX) will begin getting a daily report 
+begining today with all of his groups daily origination.  As such,  it is 
+essential that all information is accurate on the origination schedule Meaning :
+All entries must have:
+Book
+Deal #
+Date originated
+Customer
+Origination Group
+Origination Value
+Originator
+New information needed in this order:
+B/S
+Term
+Price
+Pub code
+Thanks for your help
+Maybe one of the guys is Long Duck Dong from 16 Candles
+DG
+ I was a little reluctant to forward this, but this is a legitimate news
+story off Bloomberg from yesterday.

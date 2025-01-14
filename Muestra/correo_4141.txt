@@ -1,0 +1,777 @@
+john.sherriff@
+Tanya Tamarchenko
+09/01/2000 01:05 PM
+It's been a while since I put this together. Some assumptions, such as those 
+about the current VAR methodology may not be correct. But my ideas and the 
+math involved are hopefully reasonable. Let me know if you have any questions.
+Pavel, x34778
+Dear Colleagues and Friends
+As some of you may know, I accepted the Swiss Re Chair at the University of
+Nottingham.  I have finally arrived.  All my email addresses will continue
+to work.  My new address is in my signature.
+Cheers
+Richard
+Richard MacMinn, Editor
+The Journal of Risk and Insurance
+The Swiss Re Chair in the Management of Risk
+Centre for Risk and Insurance Studies
+Nottingham University Business School
+Jubilee Campus, Wollaton Road
+Nottingham, NG8 1BB
+United Kingdom
+JRI Office: 512 471 0018
+Nottingham Office: 44 0115 846 6679
+eFax: 305 768-0522
+Journal: mailto:jri1@uts.cc.utexas.edu
+Editor:  mailto:macminnr@uts.cc.utexas.edu
+Other: mailto:richard.macminn@nottingham.ac.uk
+JRI Editor Vita 
+The only thing necessary for the triumph of evil is for good men to do
+nothing. Edmund Burke
+Attached is the latest issue of Btu Weekly.
+e-mail: info@Btu.net
+phone: 732-758-8222
+fax: 732-758-8286
+- wg091800.pdf
+Attached is the latest issue of Btu's Weekly Power Report
+e-mail: info@Btu.net
+phone: 732-758-8222
+fax: 732-758-8286
+- wp091800.pdf
+mkorn@nymex.com
+VKaminski@aol.com on 09/12/2000 12:32:40 AM
+-0400
+2000 13:00:58 -0400
+pbulk01-o0.thestreet.com with QMQP; 11 Sep 2000 16:22:06 -0000
+Date: 11 Sep 2000 12:22:06 -0400
+RealMoney.com's MIDDAY UPDATE
+September 11, 2000
+______________________________________________________________________
+Advertisement
+Online Banking - Special Offer
+Get a free subscription to RealMoney.com =01) the best financial insights
+and commentary from TheStreet.com =01) when you open a qualifying account
+with Membership B@nking(sm) from American Express Centurion Bank.
+Consider it a quick return on investment =01) from the official bank of
+TheStreet.com.
+Click here for details
+______________________________________________________________________
+If you would like to be removed from our bulletin mailing list, or
+would like to select which of our bulletins you receive, please go to
+the following URL:
+______________________________________________________________________
+Market Data as of 9/11/00, 11:30 AM ET:
+o Dow Jones Industrial Average: 11,258.76 up 38.11, 0.34%
+o Nasdaq Composite Index: 3,991.02 up 12.61, 0.32%
+o S&P 500: 1,501.97 up 7.47, 0.50%
+o TSC Internet: 820.94 up 12.03, 1.49%
+o Russell 2000: 537.80 up 2.10, 0.39%
+o 30-Year Treasury: 107 15/32 down 11/32, yield 5.715%
+______________________________________________________________________
+In Today's Bulletin:
+o Herb on TheStreet: Taking a Closer Look at the Honey Well
+Telecom: The Quantum Bridge Question: How Far Can Optical Mania Go?
+The maker of networking gear is preparing for an IPO. Will the market
+hold up long enough for this niche play?
+____________________________________
+Wrong! Dispatches from the Front: Currency Pain Will Be Commencing
+Shortly
+International tech companies and giant pharma names begin feeling the
+sting of a weak euro.
+____________________________________
+Brokerages/Wall Street: MarketXT Making Move Into Institutional Trading
+Having picked up top talent from competitor Instinet, the off-Wall
+Street underdog is aiming high.
+____________________________________
+Global Portfolio: Readers Find a Way to Play the Old Sod
+The mailbag holds a closed-end fund focusing on Ireland, while others
+look to the eurozone.
+____________________________________
+Mutual Funds: 10 Questions With MFS Utilities Fund Manager Maura
+Shaughnessy
+The skipper sees more growth despite big price run-ups.
+____________________________________
+Asia/Pacific: Nikkei Indices' Components Will Change
+______________________________________________________________________
+Advertisement
+Chicago Mercantile Exchange
+The Chicago Mercantile Exchangec introduces the Fortune e-50TM Index
+Futures, the purest way to take advantage of the Internet economy.
+This
+electronically traded contract includes only dot-com superstars
+and
+companies that make the Internet run.
+______________________________________________________________________
+Herb on TheStreet: Taking a Closer Look at the Honey Well
+By Herb Greenberg
+Senior Columnist
+9/11/00 6:30 AM ET
+An item in one of last week's Hotlines questioned whether a key "tell"
+toward a possible preannouncement from Honeywell (HON:NYSE) was an
+earnings warning from Invensys, a British controls and automation
+company. Invensys is a Honeywell competitor, and Honeywell fans had
+been looking at the company's controls group for signs of strength this
+quarter. Got a bunch of angry email, in response, telling me I must be
+a kook (or actually, something much worse ) because just a few weeks
+ago Honeywell said it was comfortable with earnings estimates of 76
+cents per share, which would be a pleasant 10% gain.
+True, but this is, after all, the same Honeywell that in June gave
+expectations of one thing for second-quarter revenues, only to amend
+that a few weeks later with a lower number. And this is, after all, the
+same Honeywell that several quarters ago said it would take no more big
+charges, and then turned around and took a whole bunch of new charges.
+Will the same thing happen this time round? Hard to say, and as of
+Friday all a Honeywell spokesman would say to me was: "We're sticking
+with our guidance." On earnings, that is. Interestingly (and subtly)
+Honeywell didn't say anything about revenues in its recent update, and
+the spokesman said there will be no revenue guidance now, either. Stung
+once, too smart to be stung twice, I guess.
+But that also highlights that Honeywell has entered the quarter with
+negative revenue momentum, which is not what Wall Street wants to see.
+Earnings can meet estimates lots of different ways (an item here back
+in March showed how half of Honeywell's 20% earnings gain came from
+pension income) but revenue represents business in the raw.
+So, why worry now? According to one longtime Honeywell watcher, who
+prefers to go incognito (so he can protect his relationship with the
+company, in which he still holds a small stake), events that could
+further effect this quarter's earnings and revenues include the sharp
+rise in oil prices -- the same rise in oil prices that last week helped
+clobber DuPont (DD:NYSE), which warned of lower earnings (thanks, in
+part, to oil). Honeywell also disclosed that problems with brakes it
+makes for buses will shave 2 cents per share off earnings. The warning
+came after the earnings reassurance a couple of weeks ago, but was
+included in the recent forecast. It's unclear, however, how the
+problems will affect brake sales (and therefore revenues), going
+forward. Oh, and Honeywell is laying off 5% of its workforce. (A
+supposed growth company firing people?!) Then there are more charges,
+lots of charges -- but the 76 cent per share number excludes them.
+What's more, analysts are just starting to take a close look at the
+company now that they're back from summer vacation. At least one
+analyst who has tried to get some sign of how things are going was told
+the company hasn't seen the August numbers yet, which means there still
+could be reasons for concern.
+All of that said, Honeywell has been doing loads to improve itself, but
+our longtime Honeywell watcher, who is looking for the right time to
+hop back in, doesn't think there'll be signs of a solid rebound until
+next summer. At the earliest.
+Short Positions
+o From reader John Lee: "How's this for an inflation indicator? Down
+here in our cafeteria today we were confronted by a sign that indicated
+the cafeteria was raising prices "to cover rising food and labor
+costs..." But inflation is nearly nonexistent, right? Right (he said,
+sarcastically). Wouldn't be surprised to see a few fast-food chains
+that missed earnings last quarter, because of rising costs, bite the
+bullet and raise prices, too. (A dime or a quarter isn't going to drive
+customers away; but a dime here at one place and a quarter there at
+another would certainly lead to higher prices across the board. Or so
+you'd think!)
+o Stupid poll?!: That's what some folks thought of Friday's poll which
+asked whether you should pay more attention to a company, friendly
+analysts or unfriendly analysts. (Unfriendly won by a landslide.)
+Several readers, however, wish I'd had a fourth alternative: All of the
+above. Says reader Bridget Magnus: "I think that if a person is going
+to make a realistic, informed decision about a company it is a good
+idea to listen to all three of those sources (the company, friendly
+analysts, and unfriendly analysts). Putting them together will give a
+potential investor a much clearer picture of what is (or isn't) going
+on." Great point! Which brings us to today's poll:
+Feel free to send emails to my sidekick Mark Martinez with any reason
+why you think the way you do. Cramer has pretty strong opinions about
+this. And speaking of JJC, don't forget that he and I will be going
+head-to-head at RealMoney.com's "Cramer Live" conference in San
+Francisco later this month. Click here for more info.
+o Bye, George: Marketing columnist George Lazarus of The Chicago
+Tribune died Friday while commuting on the train to work. He was 68 and
+he still wrote a daily column. He was a former colleague and I'd like
+to think, a friend, whom I didn't keep in touch with nearly enough.
+George wrote the textbook on how to be a hard-working, daily,
+news-oriented columnist. You could see just how hard he worked when he
+walked through the office at the end of every day, looking exhausted,
+as he handed the finished copy into his editor. His salutation to me,
+when he saw me was always, "Hey, scoop." Coming from the scoop, that
+was an honor. Hey, George. -30-
+Herb Greenberg writes daily for TheStreet.com. In keeping with TSC's
+editorial policy, he doesn't own or short individual stocks, though he
+owns stock in TheStreet.com. He also doesn't invest in hedge funds or
+other private investment partnerships. He welcomes your feedback and
+invites you to send any to Herb Greenberg. Greenberg also writes a
+monthly column for Fortune.
+Mark Martinez assisted with the reporting of this column.
+______________________________________________________________________
+TheStreet.com Tips
+Now available
+James J. Cramer Live! - The Video
+Learn the incredibly valuable lessons that can make you money, as
+presented by James J. Cramer in New York City at a paid event on August
+7, 2000.
+$79.95 for RealMoney.com subscribers
+Shipping and Handling included
+Running time: 2 hours 24 minutes.
+The program:
+-Bottom Fishing for Non-Anglers: How to spot companies primed to move
+off the bottom.
+-James J. Cramer and William Fleckenstein, of Fleckenstein Capital
+Partners, debate trading versus investing.
+-Cramer=01,s Top 15 stocks now, and five to avoid, plus audience Q & A.
+To order go to:
+______________________________________________________________________
+Except for making one printed copy of this or any other materials,
+files or documents available from, accessible through or published by
+TheStreet.com Inc. for your personal use (or downloading for the same
+limited purpose), these may not be reproduced, republished, broadcast
+or otherwise distributed without prior written permission of
+TheStreet.com Inc.
+For bulk reprints of any article, please contact Brad Glouner at
+Reprint Management Services, at (717) 399-1900 ext. 130, or via email
+at bglouner@rmsreprints.com.
+______________________________________________________________________
+For general comments, questions or suggestions, please send an email to
+feedback@realmoney.com.
+For letters about our editorial content intended for publication,
+please send an email to letters@realmoney.com. Remember to include your
+full name and city.
+If you have a question regarding your account, please contact us at
+members@realmoney.com.
+______________________________________________________________________
+Zimin Lu
+09/11/2000 02:06 PM
+Darren,
+Glad to hear from you !   I heard that you moved to Japan, hope everything 
+goes well for you.
+The catastraphe option was listed in Chicago broad of trade, but the open 
+interest was very small. 
+Internally, Enron insurance group knows a few insurance companies offer such 
+product. The contact
+person is Jim Bouillion.
+If you are interested to offer such bond/insurance in Japan,  we can look 
+into the pricing and "hedging" (i.e. reinsurance)
+issues.  I will discuss this with Vince, Stinson and Vasant. 
+,
+Zimin
+Hello Zimin. I hope all is well with you.
+As you may have heard,I moved to Enron Japan about 2 weeks ago in order to 
+foster a financial trading presence here, with the intention of utlizing this 
+location to better optimize the management of Gary's exisitng portoflios, as 
+well as to identify and act on local trading or financial opportunities.
+One peripheral, recurring idea has been for Enron to somehow establish a 
+market in catastraphe bonds and/or insurance. Earthquakes are perhaps the 
+greatest risk that the Japanese people fear according to various polls, a 
+natural response to the significant number of earthquakes that occur in the 
+area . Such a product  would have tremendous and widespread appeal and from a 
+cursary review,  it does not appear that there is a developed,liquid market 
+for such products.
+I was wondering if you could talk to Vince briefly about his thoughts 
+regarding the feasibility of such a product, in terms of hedging where a  
+natural offset is not found. Is this a product that research feels a hedge 
+can be made against with a reasonable amount of statisitcal confidence? I 
+realise this is vague and if you need any more information, please contact 
+me 
+Sincerely,
+Darren
+81-3-5219-4635
+Vince,
+Have you seen the latest version of our article?  In a nutshell, it
+establishes both what's right and what's wrong with r-squared/regression.
+Essentially, r-squared is fine PROVIDED that the amount of the derivative
+optimal, but otherwise it makes little sense.
+Please let me know what you think about this.
+,
+Andy
+Andrew Kalotay Associates, Inc.
+(212) 482-0900
+andy@kalotay.com
+Visit our web-site  
+- FAS133 article.pdf
+Maureen Raymond
+09/14/2000 04:54 PM
+Jim,
+In response to the 3 questions below:
+Who prepares Enron's country curves? - The Foreign Exchange and Country Risk 
+What is the criteria in determining the curves? Please explain. - The FX and 
+Country Risk team analyses a host of data and information to forecast foreign 
+exchange curves and predict inflation.   Primarily, we depend on the work of 
+the Institute of International Finance (IIF), we also talk with their staff 
+Senior Ph.D. Economists.  We review the current macroeconomic policy mix 
+including monetary, fiscal and exchange rate policies and their 
+sustainability.   We also analyze the balance of payments to make sure their 
+are no pressures on the current account, capital account  or foreign exchange 
+reserves.   In addition, we look at economic output in light of all the above 
+mentioned factors and incorporate our global outlook of global growth and 
+international commodity prices.  Then we determine our expectations for 
+changes to these conditions based on many domestic and international 
+factors.  We also evaluate the progress of  IMF program and the countries 
+ability and willingness to meet the IMF criteria, and whether or not they are 
+in compliance with the Fund.    In addition, we analyze the political 
+risk/stability of the country, timing of elections and or major 
+constitutional or policy changes which would have a major impact on the 
+economy.  We also perform a ratio analysis of a country's ability to repay 
+its debt in the context of debt-to-GDP ratios, debt service, import coverage, 
+FDI-to-current account, etc.   We analyze the stability of the country's 
+banking system, level non-performing loans-to-total, bankruptcy laws, and 
+progress on restructuring bad debts.   All these factors influence the 
+outlook on local price changes and movement of the exchange rate.
+How often do the curves get updated? - Curves are updated upon request from 
+the Enron business units or RAC.  The business units need to have the curves 
+updated before Risk Assessment and Control evaluates the projects.
+Maureen Raymond-Castaneda
+Jim Cole@_DEVELOPMENT
+09/13/2000 12:14 PM
+Maureen,
+Could you please answer the three brief questions below ASAP?
+Thanks,
+Jim
+Ramon Rodriguez
+09/13/2000 12:16 PM
+Jim,
+Please call Maureen or your contact TONIGHT to get the appropriate response.
+R
+Jirayut Rungsrithong
+09/13/2000 04:15 AM
+Ramon:
+We received questions from the lenders re: Enron's country curves:
+Who prepares Enron's country curves?
+What is the criteria in determining the curves? Please explain.
+How often do the curves get updated?
+Could you please answer these questions?
+,
+Jay
+Zimin Lu
+09/13/2000 05:19 PM
+John, 
+Thanks for the fax.  I think we can build a similar model as in fx market  
+outlined in my writing attached below.
+Give me your comments and we will make it work.
+Zimin
+Thanks.
+Vince
+Stinson Gibner
+04/16/2001 04:47 PM
+I have talked twice to Althea.  Once last week and once after your email this 
+morning.  She has told me both times that she would arrange with Shirley to 
+put Rusty on your schedule and on mine.
+--Stinson
+Vince J Kaminski
+04/16/2001 04:19 PM
+Stinson,
+A reminder.
+Vince
+Vince J Kaminski
+03/31/2001 10:17 AM
+Jim,
+I shall contact Althea and make sure Rusty meets with the Research Group 
+members.
+Vince
+Jim Garven  Dear Stinson,
+I would like to call your attention to Rusty Parks, who is an MBA student 
+here and has been serving as my research assistant since last fall.? Rusty is 
+a very outstanding individual with a very impressive work ethic and interest 
+in topics such as financial engineering and technology, particularly as these 
+issues pertain to the energy industry.?? In fact, you met Rusty during your 
+recent visit to Baylor (specifically, last month over dinner at the Gamma 
+Iota Sigma chartering  ceremony).
+I happen to know that Rusty is already scheduled to visit Enron for an 
+interview for a summer internship on April 19.? He has been invited by Althea 
+Gordon.? If there is any possibility that you could meet with him during his 
+visit, I am sure that he would be most grateful.?  Rusty is one of the very 
+best research assistants I have ever had, and I am sure that Enron would 
+benefit from having him aboard during the coming summer. 
+Sincerely,
+Jim Garven
+P.S.: Please find Rusty's resume attached to this email.
+_________________________________________
+James R. Garven, Ph.D.
+Professor of Finance & Insurance
+Department of Finance, Insurance and Real Estate
+Hankamer School of Business
+HSB 336
+Baylor University
+Box 98004
+Waco, TX? 76798
+Voice: (254) 710-6207
+Fax: (603) 994-6680
+E-mail: James_Garven@baylor.edu
+Home Page Vita Research Paper Archive _________________________________________
+- Rusty Parks Resume.doc
+Ryszard Domanski
+Zgrupowania Zmija 23 m. 22
+Warszawa
+Wyzsza Szkola Handlu i Finansow Miedzynarodowych
+03-972 Warszawa, Alzacka 15a
+Phone : 011 48 22 639 7907 (h)
+011 48 601 302 714 (c)
+Fax   : 011 48 22 616 2920
+E-mail:RDOMAN@elpis.sgh.waw.pl
+msh_isc@it.com.pl
+Jim,
+This is my write-up on enetrprise Wide Risk Management.
+Vince
+James L Bouillion
+09/15/2000 03:42 PM
+Would it be possible to get the information from you  before close today?
+FYI
+Vince
+Vince,
+Here is a copy of the article I received from Maureen/Gwyn a couple of weeks 
+ago.  When you get back from your  vacation, would you please let me know if 
+it is usable?
+Thank You!
+Sam
+Gwyn Koepke
+08/31/2000 05:22 PM
+Sam,
+Attached is a tech corner article on the british pound sterling for the next 
+issue of the weekly newsletter.  I will be out of the office on Friday Sept 
+1st.  If you have any questions or issues to address with the article, please 
+refer to Maureen Raymond Castaneda or Yana Kristal in my absense.  Thanks.
+Gwyn
+Shirley Crenshaw
+09/15/2000 02:31 PM
+Vince:
+Here is the itinerary from the travel agency and I am also attaching the one
+I create.
+Shirley
+Catherine Elder                                                     SALES AGT: CE/YGOBD8
+KAMINSKI/WINCENTY
+EB 1962
+ENRON CORP
+DATE:  SEP 15 2000
+DATE  SERVICE               FROM               TO
+AIR FRANCE            20SEP HOUSTON TX     PARIS          415P    845A
+AF 33      Y          WED   G.BUSH INTERCO CHARLES DE GAU         21SEP
+NON SMOKING      TERMINAL D     TERMINAL 2C
+MEAL/BREAKFAST                NON STOP
+RESERVATION CONFIRMED         9:30 DURATION
+AIRCRAFT: AIRBUS INDUSTRIE A340-300
+SEAT 24A NO SMOKING CONFIRMED KAMINSKI/WINCEN
+AIR FRANCE            21SEP PARIS          WARSAW         935A    1150A
+AF 2046    Y          THU   CHARLES DE GAU OKECIE
+NON SMOKING      TERMINAL 2B    TERMINAL 1
+BREAKFAST                     NON STOP
+RESERVATION CONFIRMED         2:15 DURATION
+AIRCRAFT: AIRBUS INDUSTRIE A319.
+HOTEL                 25SEP VICTORIA INTERCONTINENTAL
+26SEP KROLEWSKA 11
+WARSAW, 00 065
+POLAND
+TELEPHONE: 48-22 6578011
+FAX: 48-22-6578057
+CONFIRMATION: 1504592
+SINGLE ROOM
+RATE: ENR DEM 310.00 PER NIGHT
+GUARANTEE GIVEN
+HOLD POLICY: 6PM
+ENRON CORP NON SMOKING KING
+AIR FRANCE            26SEP WARSAW         PARIS          810A    1035A
+AF 1447    Y          TUE   OKECIE         CHARLES DE GAU
+NON SMOKING      TERMINAL 1     TERMINAL 2B
+BREAKFAST                     NON STOP
+RESERVATION CONFIRMED         2:25 DURATION
+LO 0331                    FLIGHT OPERATED BY LO LOT POLISH AIRLINES
+AIRCRAFT OWNER: LO  LOT POLISH AIRLINES
+AIRCRAFT: BOEING 737 ALL 100-800 SERIES PSGR
+AIR FRANCE            26SEP PARIS          HOUSTON TX     1255P   425P
+AF 34      Y          TUE   CHARLES DE GAU G.BUSH INTERCO
+NON SMOKING      TERMINAL 2C    TERMINAL D
+MEAL/SNACK                    NON STOP
+RESERVATION CONFIRMED         10:30 DURATION
+CO 0011                    FLIGHT OPERATED BY CO CONTINENTAL AIRLINES
+AIRCRAFT OWNER: CO  CONTINENTAL AIRLINES
+AIRCRAFT: BOEING 777-200/300
+SEAT 37A NO SMOKING CONFIRMED KAMINSKI/WINCEN
+MISCELLANEOUS         25NOV HOUSTON TX
+SAT   ** THANK YOU FOR USING THE TAP 
+RESERVATION NUMBER(S)  AF/2BGHRB
+KAMINSKI/WINCENTY  S0C0011R1000
+SHIRLEY CRENSHAW: 853-5290
+INTL TVLRS: CARRY SOS WALLET CARD W/ENRONASSISTANCE INFO
+CALL SOS: IN U.S 800 523-6586/INTL 215 245-4707 (COLLECT)
+AIR FARE $1714.18
+PLEASE NOTE ENRON CHARGES A $50.00 SERVICE FEE FOR PERSONAL
+INTERNATIONAL TRAVEL 
+Andreas:
+Here it is:
+Vincent Kaminski
+Managing Director - Research
+Enron Corp.
+1400 Smith Street
+Room EB1962
+Houston, TX 77002-7361
+Phone: (713) 853 3848
+Fax  :  (713) 646 2503
+E-mail: vkamins@
+Vince
+Dear GARP Speak
+?
+I am writing to request some information regarding  the GARP 2001 Convention. 
+?
+Can you please furnish me with your full postal  address so that I can send 
+you a copy of the GARP brochure in the near  future.
+?
+I look forward to your response in due  course.
+?
+Kind  
+?
+Andreas
+?
+____________________________
+Andreas  Simou
+GARP 2001 - Conference Producer
+Tel? +44 (0) 20 7626  9301
+Fax +44 (0) 20 7626 9900
+John,
+I have another meeting at 9:30 (hopefully a very short one I shall join your meeting in progress.
+Vince
+Confirming a meeting to discuss the appropriate valuation assumptions for 
+Clean Fuels.  Let's meet in Dwight Larson's office (EB 4912) at 9:30 AM..
+Kerry, I suspect this is the first time that you have heard about this 
+meeting, but I think you could add value to the discussion.  Hope you can 
+make it.  Feel free to call either Dwight or me for any further clarification 
+you might need.
+Thanks, JNG
+Giuseppe,
+That would be great.
+Please, do.
+Vince
+Vince, 
+In case you have little time for it, I could write the answer for the 
+technical corner for Monday. I have an intuitive explanation based on 
+probability trees.
+My wishes of a good weekend,
+Giuseppe
+Vince,
+Good morning.
+As you may know, last Thur. Enron honored this year's recipients of the
+Enron MBA Excellence Fund Scholars at a dinner in Austin.  In addition to
+the three recipients, Business School Dean May and several of my
+colleagues, Enron attendees included Sally Beck, Cindy Justice, Karen
+Marshall (newly-appointed coordinator of higher education initiatives for
+Enron Community Relations Dept.) and Rick Causey.
+I write you at this time to advise you I had occasion to discuss two
+current Enron/UT issues with Rick:
+I.  Spring 2001 Conference Participation by Jeffrey K. Skilling
+II.  UT Participation in EnronTraining Activities
+Per my conversation with Rick last Thur., I followed up on that discussion
+with an e-mail this morn that touched on those two topics.
+I.  With respect to the first, I wrote Rick this morning that:
+1.  We at the UT Center for Energy Finance Education and Research (CEFER)
+are planning a practitioner-industry Conference in Spring 2001 (late Feb.
+or early March) to discuss four topics:  Risk management, Deregulation,
+Real options, and International/globalization.
+2.  The Conference will kick off with a dinner/keynote address Thur.
+evening, then continue all day Fri.
+3.  I have had several discussions with you regarding Conference timing,
+structure, participation and content.
+4.  Further to Rick's agreement to do so during our discussion last Thur.,
+in today's e-mail I asked Rick to extend an invitation to Jeff Skilling to
+be the keynote speaker at the Thur. evening dinner.
+II.  With respect to the second topic, Rick and I also discussed UT
+partcipation in Enron Corp. internal training for incoming Enron Corp.
+analysts and associates.  Consequently, I e-mailed Rick this morning a
+specific set of issues -- "Valuation and Risk Management in Energy Markets"
+-- which my UT colleagues and I have covered in public as well as
+customized exec ed settings, and which we would be pleased to customize for
+presentation at Enron.  FYI, I am enclosing a copy of said topics at the
+end of this e-mail.
+I look forward to seeing you again soon, and to your UT visit on 10/11.  Best,
+Ehud
+Training Program:  "Valuation and Risk Management in Energy Markets"
+Target Audience:  Associates, Analysts, Traders, Marketing/Sales, Risk
+managers, Financial analysts
+Program Objectives:
+1.  Understanding the physical and financial U. S. markets for electricity
+and natural gas
+2.  Understanding the structuring, reverse engineering and valuation of
+exchange-traded and OTC energy derivatives, including "exotic" options,
+structured products, and spread and basis products
+3.  Promoting a common language between trading and marketing personnel
+regarding valuation and hedging of structured products
+4.  Risk-management
+Program Contents:
+I.  "Electricity 101"
+-- Problems in pricing
+-- Spot markets
+-- Forward markets
+-- Trading:  Basis, fixed-price, volatility
+-- Markets:  Characteristics and participants
+II.  Valuation/Structuring/Hedging
+1.  Fundamentals of Forwards and Futures Contracts:
+-- Forward Contracts:  Definition, Payoff Diagram, Pricing by Arbitrage
+-- Futures vs. Forwards
+-- Commodity Futures
+-- Swaps
+-- Constructing Forward Curves:  Contrast with price forecast; Using the
+spark spread; Incorporating regional bases
+2.  Introduction to Option Pricing:
+-- Payoffs
+-- Put-Call Parity
+-- Binomial Model
+-- Black-Scholes Formula
+-- Option "Sensitivities" (the "Greeks"); Delta and Gamma
+3.  Uniqueness of Energy Derivatives:
+-- "Term Structure" of Volatility
+-- Convenience Yield / Seasonality
+-- Basis
+4.  Estimating Volatility in Energy Markets:
+-- Estimating Volatility in Financial Markets
+-- Hourly vs. Daily Vols
+-- Historical or Implied Vols?
+-- Characterizing the Volatility "Surface" Across Time and Strike
+5.  Design and Valuation of Structured Products in Commodity Markets:
+-- Valuation of European Call Options in Energy Markets
+-- Average Options on Oil Futures Contracts
+-- Spread and Basis Products
+-- "Swing" Options in Power Markets
+-- Weather Derivatives
+6.  Risk-Management
+-- Motivation for Structured Trades
+-- Valuation of real options (e.g., valuation of power plant or gas field)
+-- Value-at-Risk (one- and multi-factor models)
+-- Repowering option
+7.  Advanced Topics (for qualified audiences)
+-- Relationship between forward prices and expected spot prices
+-- The Importance of Hedging Volatility Changes
+-- Consistent Method for Estimating Hourly, Daily and Monthly Term
+Structures of Volatility
+-- Practical Alternatives to Vega-Hedging
+-- Applying Options Theory to the Valuation of Power Plants
+-- Valuation of "Swing" Options under Ruthless and Non-Ruthless Exercise
+Professor of Finance and Jack S. Josey Professor in Energy Studies
+Director, Center for Energy Finance Education and Research
+McCombs School of Business
+University of Texas at Austin
+Austin, TX. 78712-1179
+Voice:  (512) 471-5853
+FAX:   (512) 471-5073
+Internet:  eronn@mail.utexas.edu
+Shirley_Keeney@eogresources.com
+09/11/00 06:40 PM
+Click on Lyrics; then select a candidate to get the words to the songs.
+They will rap for you!  Very clever. I put
+George and Bill behind the others - have fun!
+Make sure to look at the words to the songs and enjoy!
+(See attached file: JibJab (1).exe)
+(See attached file: JibJab (1).exe)
+- JibJab (1).exe
+Ron,
+The resume of the Rice student I mentioned to you.
+Vince
+Dear Mr.Kaminski,
+I have found the EnronOnline project a very interesting one and have enjoyed
+working with everyone in the Research department as well as those from other
+departments. I am keenly interested in this area and was wondering if there
+would be any summer internship opportunities. I have attached my resume to
+this mail for your review and look forward to hearing from you soon.
+Thank you
+IVY GHOSE
+RICE MBA 2002
+- resume.doc
+Vince, 
+My schedule for the RISK 2001 conference in Houston is: 
+arrive Sunday 4/13 9pm 
+Staying at the Houstonian 
+depart Tuesday 4/15 5:30 pm. 
+Hopefully, we can get together. 
+thanks, Aram? (cell phone 503-701-6692) 
+Eugenio,
+Thanks for the invitation. Can we reschedule the dinner?
+I shall be in San Antonio on Friday.
+Vince
+I spoke to my wife, and we would be happy to have you over for dinner on 
+Friday the 20th.
+Are there any foods that you avoid?
+Eugenio
+Vince J Kaminski
+09/01/2000 04:35 PM
+Aram Sogomonian
+Phone: (503) 813 5754 (w)
+5608 (w) 
+(503) 701 6692 (c)
+(503) 636 9471 (h)
+Vince J Kaminski
+09/01/2000 04:35 PM
+Vince J Kaminski
+09/01/2000 04:36 PM
+Vince J Kaminski
+09/01/2000 04:37 PM
+FYI
+Vince
+Vince J Kaminski
+09/08/2000 05:43 PM
+Alison,
+I recommended inviting Duane Seppi and Steven Shreve. I would also invite 
+Brian Routledge.
+I don't know him but heard many good things about him. Kevin Kindall may have 
+other recommendations.
+Vince
+Kristin had said she was interested in a faculty lunch, and Kevin said he 
+would host it. Are there any professors you would recommend be invited?
+Here is a list of Finance Faculty:
+Robert Dammon  rd19@andrew.cmu.edu 412.268.3696
+Richard Green  rg0b@andrew.cmu.edu 412.268.2302
+David Heath   heath@andrew.cmu.edu 412.268.2545
+Christine Parlour  parlourc@andrew.cmu.edu 412.268.5806
+Brian Routledge  rout@andrew.cmu.edu 412.268.7588
+Duane Seppi   ds64@andrew.cmu.edu 412.268.2298
+Steven Shreve  shreve@andrew.cmu.edu 412.268.8484
+Chester Spatt  cs9z@andrew.cmu.edu 412.268.8834
+Christopher Telmer  telmerc@andrew.cmu.edu 412.268.8838
+Stanley Zin   sz0h@andrew.cmu.edu 412.268.3700
+*
+Alison,
+I recommended inviting Duane Seppi and Steven Shreve. I would also invite 
+Brian Routledge.
+I don't know him but heard many good things about him. Kevin Kindall may have 
+other recommendations.
+Vince
+Kristin had said she was interested in a faculty lunch, and Kevin said he 
+would host it. Are there any professors you would recommend be invited?
+Here is a list of Finance Faculty:
+Robert Dammon  rd19@andrew.cmu.edu 412.268.3696
+Richard Green  rg0b@andrew.cmu.edu 412.268.2302
+David Heath   heath@andrew.cmu.edu 412.268.2545
+Christine Parlour  parlourc@andrew.cmu.edu 412.268.5806
+Brian Routledge  rout@andrew.cmu.edu 412.268.7588
+Duane Seppi   ds64@andrew.cmu.edu 412.268.2298
+Steven Shreve  shreve@andrew.cmu.edu 412.268.8484
+Chester Spatt  cs9z@andrew.cmu.edu 412.268.8834
+Christopher Telmer  telmerc@andrew.cmu.edu 412.268.8838
+Stanley Zin   sz0h@andrew.cmu.edu 412.268.3700
+*
+Youyi Feng@
+09/08/2000 05:18 PM
+Dear Vince,
+The following message is from co-PI, Prof. Baichun Xiao in Long Island 
+University. 
+In this message, he told me how Enron would be registered. To my best 
+knowledge,
+IBM, Lucent and other big companies have registered in NSF for long. 
+Your kindly understanding is acknowledged very much. 
+Good weekend,
+Youyi
+Baichun Xiao  Dear Youyi:
+The person in charge of external grants in your company needs to contact
+nsf by calling the following numbers for institution registration.
+FastLane User Support: 1-800-673-6188.
+FastLane Availability (Recording): 1-800-437-7408.
+After enron is registered (I think it's a free registration), you provide
+the following information to the enron official so he/she will send it to nsf.
+NSF will assign you a password for future access to electronic submission
+(called fastlane). Since all proposals have to be submitted through
+fastlane after Oct. 1, 2000, this is the must.
+Name
+Highest Degree
+Year Conferred
+Present Institution
+Department
+Street Address
+City
+State
+Zip Code
+Social Security Number (SSN)
+Email Address
+Business Phone Number
+Business Fax Number
+For more information, you may go to
+www.fastlane.nsf.gov/fastlane.htm
+Baichun
+At 05:14 PM 9/6/00 -0500, you wrote:

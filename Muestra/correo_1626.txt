@@ -1,0 +1,379 @@
+When I open this letter there is nothing there.  Can you send again?
+Rob 
+Here is the letter with the section on the YPF GSA revised as we discussed.
+,
+EDD
+Rob 
+Here is the letter with the section on the YPF GSA revised as we discussed.
+,
+EDD
+Rob G Gay
+01/31/2001 09:55 AM
+Two agreements have been negotiated with Siemens as part of the plant 
+turnover for Provisional Completion Phase III on oil: 1) the EOT Claim 
+Agreement between Siemens and SCC and 2) modifications to the TAA between 
+Siemens and EPE.
+The changes which the lenders should review are as follows:
+EOT Claim Agreement
+14 Day Availability Test with respect to Provisional Completion Phase III on 
+oil, on a look-back basis over 6 months, required as a specific performance 
+requirement
+After PC on oil, Siemens can demobilize
+Compensation for commissioning on oil $5,720,000; $30,000 per day for owner 
+delay
+Bonus of $15,000 per day that PC achieved before 17 Feb
+Phase III Substantial Completion on gas
+60 days prior written notice on gas availability
+If sound level guarantees demonstrated on oil, only need to demonstrate far 
+field sound on gas
+Owner must operate and maintain per O&M manuals and industry practices on 
+oil; if not, owner must correct items materially affecting Contractor's 
+commissioning obligations
+Performance guarantees remain in tact per EPC
+Long stop date on Phase III Substantial Completion on gas of 31 Dec 01
+Substantial Completion on gas - punchlist limited to deficiencies from Work 
+performed to achieve Substantial Completion on gas
+Risk of Loss remains with owner during commisioning on gas
+Siemens agrees to enter into negotiations to provide operational assistance
+Degradation - agree to use curves with credit to owner for degradation during 
+commissioning
+Compensation for commissioning on natural gas $1,220,000 lump sum; $20,000 
+per day for owner delay
+Warranty - 6 months after Provisional Completion on oil
+Option to buy extended warranty for up to 6 months at $175,000; must elect 60 
+days prior to expiration of Primary Warranty Period
+Performance LD's on gas per the EPC contract with first $4,000,000 forgiven 
+by owner
+Delay LD's on gas do not start until 60 days after performance test on gas
+Payments to be paid (including EOTof $5,720,000): 15 Feb  $5,446,141; 28 Feb  
+$14,353,401 with offset of $4,000,000 for Phase I LD payment due from Siemens 
+to SCC
+Late payment interest rate of 14%
+TAA Agreement
+Effective date Provisional Completion Phase III on oil
+No 12 month look back
+12 month Initial Guarantee Period, with the clock suspended for gas 
+commissioning unless owner delay. 
+Additional Insurance
+In order to provide the lenders an adequate warranty period on gas (if there 
+are additional delays on the P/L) our Insurance group has  indicated that we 
+will have no problem obtaining 12 months renewable business interruption 
+insurance when we go operational on gas.  This should solve the issue over 
+the revised warranty with Siemens because it covers defects, design, and 
+workmanship on the turbines and includes lost profits, etc.  Incidentally, 
+for insurance purposes the turbines are designated DE3 which is not a new 
+technology designation.   The duration of BI coverage is 18 months per event 
+with US$150,000 deductible.
+Typically we will always have this coverage in place but if their is a 
+supplier warranty then the party providing the warranty pays ahead of the 
+insurer.  In the case where the supplier does not pay or the warranty has 
+ended then the insurer is the primary.
+We will need to execute these agreements immediately.  Please advise with 
+your thoughts as soon as possible..
+Jose Bestard@_DEVELOPMENT
+01/30/2001 12:59 PM
+FYI
+Created 01/30 10:55 AM   Modified 01/30 12:55 PM
+Title: Meeting With Furnas - Jan 29 01 - Tariff until Gas Commisioning
+Furnas:  Celso Ferreira, Roberto de la Nina
+EPE: Jose Bestard, Laine Powell, Christiaan Huzier
+Consent.- Before entering into the purpose of the meeting, I told Celso that 
+we were sending him a letter to confirm our understanding from the previous 
+meeting, that they are linking the approval of the Anex 4/Consent to changes 
+in the contact. and that they refused to sign the original consent language. 
+For avoidance of doubt, the text of both versions are included in the letter.
+He said that our understanding was correct and that he would answer in the 
+affirmative.
+He was not familiar with the original text. I showed him my copy with the 
+three initials. He asked whose initials were from Furnas. (I don't know - was 
+not present at that meeting. Rick  and John may know).
+Roberto de la Nina gave him the background from Furnas side.
+Tariff and Commissioning. 
+Celso started the session by drawing a diagram of the Contractual Obligation 
+provisions compared to the Current Situation. He wanted to lead us  to pay 
+the fuel differential, from 100% dispatch or alternatively buy from the MAE 
+(lower cost to us [Comment.- Irrespective of  the Force Majeure arguments that we have, the MAE 
+make up possibility has to be used carefully to avoid  falling into the trap, 
+by precedent, or assuming a market exposure that we presently do not have.]
+I replied that his reading of the Contract was correct, except that he did 
+not read the Force Majeure section.  We had the obligation to change to gas 
+on the dates he mentioned, except that we have a Force Majeure due to the 
+Government Actions, and therefore we have the right to change the schedule.
+Celso replied that his people did not think this fit the case; i.e. 
+"additional difficulty of drilling through rocks"; I replied that we have a 
+strong case that everyone  knows about, including the regulator Aneel, which 
+extended the use of the CCC until June 2001.
+[Comment.- I expect Furnas to challenge our documentation to calculate how 
+many days we are entitled due to FM causes. At the end there will be a 
+"negotiated agreement", or the result or arbitration.]
+Aneel Authorization.-  I told him that we needed to bring him up to date 
+about Aneel's approval.
+Aneel sent us a letter that we were not authorized to operate in Combined 
+Cycle, not that we had CCC account coverage during for CC operation.
+Gave him a copy of the letter of our request to Aneel asking for both ; CC 
+and CCC coverage. We were ready for 480 MW, but on diesel.
+Celso asked what we would do if we got CC authorization but not CCC 
+coverage.- I told him that we did not have the money to pay for the fuel, 
+that we would have to convert back to Simple Cycle, use the current 
+authorization for minimum use and wait  for the gas to be available to go 
+through commissioning.
+He said that under the contract we are obligated to provide power; that he 
+would buy from the MAE and sent us the bill. I told him that under the 
+Contract we can change the gas-change-over date because of FM. During a FM 
+period our mutual obligations would cease, except that they in this case they 
+had a capacity payment obligation given that the cause was Government 
+action He understood that they have a right to cancel the Contract after 12 months 
+[Comment - but they would have the MAE exposure as well for the Initial 
+Contracts]
+Laine gave him an update of the ridge contruction and the parallel path that 
+we will take on Ridge 10; drill and also seek a permit for a partial crossing 
+of the first crest, drilling through the second crest, all withing the 
+existing ROW.
+Laine explained the processes and limitatios of returnind to SC operations 
+and then back again to CC gas comissioning.
+Our Proposal.-  Our proposal is that we get authorization to enter into 
+operation as combined cycle unit; the CCC administration pays for the diesel, 
+and receives the gas revenues as compensation. This keeps us and Furnas at 
+the Contract equilibrium, and the Brazilian electric system has 480 MW 
+combined cycle plant; providing stability to that area.
+Under this proposal, until the gas gets there to start commissioning, ONS 
+would dispatch the power plant according to economic dispatch at R$110/Mwhr; 
+minimum 290 MW. The CCC covers the actual dispatch the MRE cover the dispatch 
+to the Initial Contracts with Furnas.
+I suggested that they join us for that petition to Aneel. He called Mario 
+Santos to set up a meeting, to enlist the help of ONS in that petition as 
+well.
+The meeting is set up for Wednesday at 9:30 AM.   To prepare we need to 
+provide the factual information, heat rates, costs, etc.
+I need the PPA reference for the Eletrobras performance guarantee.  Quickly 
+please - this has to go out tonight.
+In preperation for our call, the memo which was requested.  I will also be 
+able to brief you on this week's progress with Furnas.  I have a lawyer 
+tracing the section reference for the Eletrobras performance guarantee which 
+appears as brackets in the memo.  I should be able to advise you of the exact 
+reference tomorrow morning when we talk.
+,
+Rob
+I've updated the memo to insert the missing references.  I also learned that 
+he meetings with ONS and ANEEL are scheduled for tomorrow.  Thanks
+The banks have given us the  green light on gas.  That means that they will 
+be prepared to fund with the back-up agreements only, even if the YPF GSA is 
+being re- negotiated or if we are in discussions with other suppliers. 
+All the Best. Jim 
+You have meant a lot to countless people and their families.  The Gays in 
+particular will be forever in your debt.
+,
+Rob, Dee, Chelsea, & Derek Gay 
+James M Bannantine
+02/01/2001 02:34 PM
+It is with mixed emotions that I inform you that I have decided to leave 
+Enron to pursue other interests.  It has been a pleasure and an honor to have 
+worked with all of you over the past few years.   I can be reached through 
+the following numbers:
+Jim Bannantine
+email at bannant@attglobal.net 
+phone at 55-11-247-4449
+fax at 55-11-5548-5528
+The banks are considering and they have enlisted Bob Shapiro's help as of 
+today.  The y are shooting for an answer by next Friday 
+Richard A Lammers
+02/01/2001 01:28 PM
+great news. anything new on Furnas?
+Rob G Gay
+02/01/2001 01:55 PM
+The banks have given us the  green light on gas.  That means that they will 
+be prepared to fund with the back-up agreements only, even if the YPF GSA is 
+being re- negotiated or if we are in discussions with other suppliers. 
+Cliff Rankin has indicated he won't be available until Thursday so I think we 
+may need to shoot for the budget on Wednesday and the ECA on Thurs.  Will 
+this work?
+According to Cliff Shedd, we would be covered by insurance if we terminated 
+the contract with Furnas and Furnas failed to pay the termination payment However the insurers will only pay after we receive an arbitration judgement 
+against them and the refuse to honor the judgement.  I assume we would also 
+have to exhaust our remedies against trhe guarantor (Eletrobras).
+Also, we are required to notify the underwriters immediately of a material 
+default 
+I believe that is correct.
+Tracee Bersani@ECT
+02/01/2001 05:02 PM
+Rob,
+Didn't he say we were only covered up to $200 MM (e.g. the limit of our 
+contract frustration cover?) With the current Shell/enron sharing 
+percentages, it would seem that we are entitled to 72% of the $360 MM payment 
+or $259 MM, thus we would only be out by $59 MM.
+Tracee
+Rob G Gay@
+02/01/2001 04:57 PM
+According to Cliff Shedd, we would be covered by insurance if we terminated 
+the contract with Furnas and Furnas failed to pay the termination payment However the insurers will only pay after we receive an arbitration judgement 
+against them and the refuse to honor the judgement.  I assume we would also 
+have to exhaust our remedies against trhe guarantor (Eletrobras).
+Also, we are required to notify the underwriters immediately of a material 
+default 
+?
+- 1403 OCEANSIDE DMQ FOR ELECTRIC EXTRAS REVISED 1-26-01.xls
+- BILLS MEMO on gay residence revision #2 -01-26-01.doc
+I noticed on your web site that you have a number of Joana Zjawinska's for 
+sale including "Love, Life  & Money Suite 2"  (which we currently own) and 
+"Startled".
+I was wondering if you would consider a trade where we would provide "Love 
+Life & Money" (framed) and we would receive "Startled"?
+As far as I know only the Hermes fee is refundable (less a small, unknown 
+admin cost).  We may also have some fees payable, we will have to check.
+Celso Bernardi@_DEVELOPMENT
+02/02/2001 11:46 AM
+Rob,
+could you please tell me, in case of non funding, how much EPE/GASMAT/GABOL 
+will receive back from OPIC and KfW related to the par-paid costs like, 
+commitment fees, Hermes fee,etc.
+rgds
+Celso
+Hi, we have been missing each other on the phone.  Were you able to trace the 
+package?
+My home Email is RGGDEE@AOL.com
+The insurance has been purchased by Enron exclusively to cover our equity and 
+our subd debt through our commercial program (not OPIC).  We  have covered 
+the following investments to date on Cuiaba.
+EPE                 $235MM
+GASMAT $  60MM
+GASBOL $132MM
+Up to US$200MM could be reimbursed for an insuarble event.  However, that 
+$200 may be limited by draws associated with insurable events at other 
+projects.  This $200MM could be further limited by draws from other projects 
+because the program has a cap of $250MM total, but the cap can be reinstated 
+following a draw with an exclusion for the country where the previous hit 
+occurred.
+Mariella Mahan@_DEVELOPMENT
+02/02/2001 11:27 AM
+Rob,
+Isn't the $200 million the cap of OPIC and doesn't that apply to 100% of the 
+equity covered by OPIC, which means that, I guess (and I don't know if Shelll 
+qualifies or if we structured around this) we share with Shell the $200 
+million on the basis of equity percentages held by each?
+Thanks
+Rob G Gay@
+02/02/2001 09:27 AM
+I believe that is correct.
+Tracee Bersani@ECT
+02/01/2001 05:02 PM
+Rob,
+Didn't he say we were only covered up to $200 MM (e.g. the limit of our 
+contract frustration cover?) With the current Shell/enron sharing 
+percentages, it would seem that we are entitled to 72% of the $360 MM payment 
+or $259 MM, thus we would only be out by $59 MM.
+Tracee
+Rob G Gay@
+02/01/2001 04:57 PM
+According to Cliff Shedd, we would be covered by insurance if we terminated 
+the contract with Furnas and Furnas failed to pay the termination payment However the insurers will only pay after we receive an arbitration judgement 
+against them and the refuse to honor the judgement.  I assume we would also 
+have to exhaust our remedies against trhe guarantor (Eletrobras).
+Also, we are required to notify the underwriters immediately of a material 
+default 
+Thank you for the refund.  I am still hopeful you will be able to find the 
+card.  Its a fine piece of history.
+,
+Rob
+Colorado Mountain Sports  We have a trace running on the package which could take a long time with the 
+Post Office. We sent you back a refund yesterday. If we can locate your item 
+or another one that is similar we will be sure to let you know.
+CMS
+Hi, we have been missing each other on the phone.? Were you able to trace
+the package?
+My home Email is RGGDEE@AOL.com
+I have attached my review of the electrical list.  This should allow us to 
+have another discussion.  The ones with oK we want but I would like to 
+discuss further your "costs" for these items because you have a separate 
+mark-up.
+Rob G Gay
+02/01/2001 10:50 AM
+I've updated the memo to insert the missing references.  I also learned that 
+he meetings with ONS and ANEEL are scheduled for tomorrow.  Thanks
+He and I talked. You can stop bothering him for now. When we get him next 
+week will extract our pound of flesh and we will make him buy the beer.
+Rob,
+Does this mean Cliff won't be available for our call on Friday or to return 
+my three weeks of accumulated voice-mails and e-mails until next week?
+If so, I'll stop trying to reach him.
+Steve Gray
+The address for St. Mary's church is as follows:
+1612 East Walker
+League City, Texas
+281-332-3031
+If you could have your brick man see about the brick and the color of the 
+mortar..
+Thanks
+Rob
+When would you like to get together to go through the comments to the specs 
+Thanks so much for the card, and remembering.
+rongay@msn.com on 01/24/2001 09:25:17 PM
+rongay@msn.com has sent you an MSN card!
+To view your card, please click the following
+Web address any time over the next three (3) weeks:
+Need some help?  See below!
+Perhaps your E-mail program doesn't recognize the Web address as an active 
+link.
+No problem!  You can copy and paste the Web address into your Web browser.
+Here are instructions on how to copy and paste:
+Step One: With your mouse, highlight the *entire* Web address above
+Step Two: Select the EDIT menu and choose COPY
+Step Three: Go to your Web browser and *click inside* the window where
+you normally type a Web address to visit
+Step Four: Select the EDIT menu and choose PASTE
+Step Five: Now hit ENTER on your keyboard to take you to the Web address
+It's that easy 
+If you need help or have a question about your greeting card, we're happy to
+help. For further assistance, go to:
+(c)2000 Microsoft Corporation. All rights reserved.
+James M Bannantine
+02/01/2001 02:34 PM
+It is with mixed emotions that I inform you that I have decided to leave 
+Enron to pursue other interests.  It has been a pleasure and an honor to have 
+worked with all of you over the past few years.   I can be reached through 
+the following numbers:
+Jim Bannantine
+email at bannant@attglobal.net 
+phone at 55-11-247-4449
+fax at 55-11-5548-5528
+I'll touch base with the appropriate folks.
+,
+Rob
+Rob
+I just spoke to Mike Banks at Milbank who said payment has not yet been
+Novak and others at Enron and undertands that payment has been approved
+but for some reason not yet made.  I would appreciate if you could look
+into this to see what the status is.
+Mike understands that we are in a holding pattern on the permanent
+financing until the changes in the project are completed.
+Bill
+will do
+Richard A Lammers
+02/06/2001 12:43 PM
+Sent by: Richard A Lammers
+Rob - can you or Blanca send me the latese ECA so I can sent the exact 
+covenant language regarding development costs on to Shell . We also need to 
+decide if we need to revisit this with both Shell and the Lenders .Thanks.
+I think this will take about 1-2 hours.  It can be done by phone but in 
+person would be better.  I would like to make sure that our documentation is 
+clean before we start.  The specs have a lot of discrepencies with the 
+drawings, the Bordeaux, and our contract.  Also, I am not sure that we each 
+have a drawing of the electrical which matches and conforms to the lists we 
+are working on with Bill.  I would also like to see whatever supplement we 
+are going to sign to the contract so we can make sure that there are no 
+misunderstandings on what is included. I think we have everything worked out 
+but there are a lot of players and we all need to be on the same page.  I can 
+make time to finish all of this just let me know what your schedule is (and 
+Bill's, Joe's etc if they are needed).
+Thanks
+OK we are on.  I'll 
+Rob, I have arranged for Bill, Joe and myself to be available at 1:00 p.m.
+today Wednesday for the finalizing of the issues on your home.  Please call
+or e-mail to confirm.  You and I will meet at my Homewood office at #9
+Exbury Way.  Directions:  610 west to Woodway exit-west on Woodway-first
+light is Post Oak Lane-left (south) stay in right lane-turn into Homewood
+development (guard building at front of brick wall entrance-take first
+street on left-my office is at the end of this street (house has detached
+garage-brick and stucco front elevation)  Call me if you have troubles
+finding me.
+Diana
+(713) 626-2206

@@ -1,0 +1,1778 @@
+--
+Bradley Romine
+EES/OR Stanford University
+bradley@leland.stanford.edu
+Vince Kaminski
+EB1962
+3-3848
+Mark your calendars for Friday, January 21 from 11:30 am to 1 pm.  The String 
+Trio of New York will be performing in room 5C2.
+This lecture/demonstration will feature the Trio taking an in-depth look at 
+the labeling and stereotyping in our society,and in particular,
+in the arts. It is being provided via the courtesy of DaCamera, and has 
+This promises to be an entertaining and educational performance.  Please 
+e-mail your RSVP to Deb Gebhardt. The first 80 people
+to respond to this invitation will be notified.  Please feel free to bring 
+your lunch!
+Shelley,
+My colleague, Clayton Vernon, who has a background in  economics, wrote a 
+short summary of arguments
+against the ROFR. 
+We are working on the second approach to the problem: we try to come up with 
+a numerical estimate of the
+value of this option. The fact that an incumbent shipper has this option has 
+distributional consequences:
+he has something  of value he never paid for. Having a numerical estimate of 
+the value of this option
+could help to argue against it. The value of such an option is case specific; 
+so we shall rather 
+produce a template you can use for valuation case by case.
+Vince Kaminski
+Clayton Vernon@
+01/20/2000 08:29 AM
+Vince-
+Here is an essay on the issue you are discussing:
+The Adverse Economic Impact of "Rights of First Refusal"
+An option to "first refuse" to match a competitor's offer is a restraint of 
+free trade and an impediment to efficiency in the marketplace. This economic 
+conclusion is unambiguous.
+If an "incumbent" has the right to match an offer made by a competitor, for 
+an item or service of value, then few competitors will invest the time and 
+expense necessary to prepare and submit offers, those offers will be lower 
+than they would have been otherwise, and the contract will often be awarded 
+to an inefficient incumbent instead of a more efficient challenger.
+In a traditional auction, where all bids are sealed and the item up for 
+auction is awarded to the highest bidder, we can safely predict the item will 
+be awarded to the bidder who values it the most, at a price reflecting the 
+full value of the item up for auction.  This is the efficient result in a 
+market economy, because the financing of the high bid reflects resources 
+freely allocated to the high bidder.  If the auction has open bids, we can 
+again safely predict the item to be awarded to the correct bidder, albeit at 
+a slightly lower price to the donor of the item since the bidder with the 
+highest valuation can simply increment by an infinitesimal amount the 
+second-highest valuation.
+Now, in a modified auction, where an incumbent bidder has the right to match 
+the highest bid and retain the item for himself, each competing bidder must 
+justify his own due diligence and bid preparation expenses against the 
+following, and likely, scenario: the incumbent does not spend himself for due 
+diligence, but instead uses these savings to help finance his matching the 
+top bid from a competitor.
+Simply put, the incumbent with a "right of first refusal" can be safely 
+predicted to simply match their competitor's bid by "rule of thumb." But the 
+incumbent's valuation of the item up for auction can be less than the 
+valuation of the competitor, by the amount of the due diligence and 
+administrative expenses.  And, the incumbent firm expropriates the expertise 
+of his competitors, not only in their valuations themselves, a nontrivial 
+financial exercise, but in any operational details required to be submitted 
+along with the bid.
+Furthermore, in an esoteric concept known as the "Winner's Curse," a bidder 
+realizes that if his bid actually prevails, if the incumbent fails to match 
+it, he almost certainly overbid.
+Given this, most competitors will not even bother to bid in an auction when 
+an incumbent has the right of first refusal, and those that submit a bid do 
+not rationally invest the time, expense and expertise necessary; they may 
+just "fire off" a "low-ball" bid.  After all, in almost every conceivable 
+"state of the world" arising from the auction the competitors expect to lose 
+money.  So, the incumbent almost always retains the contract at a 
+below-market price, despite the incumbent not necessarily placing the highest 
+value on the contract because the incumbent cannot put the contract to its 
+most efficient use.
+Lou,
+Thanks a lot.
+Vince
+Congratulations on your promotion.  Lou
+Fati,
+Please contact Krishnarao Pinnamaneni or
+Osman Sezgen.
+Vince
+Fatimata Liamidi@EES
+03/14/2001 03:45 PM
+Hello Vince:
+My name is Fati Liamidi.  I work as an Associate in the URM group in EES. 
+I have come up with an value proposition which I think could make sense for
+my group and wanted to run it by one of your colleagues to see if they could 
+help me out in terms of pricing. 
+Would you mind directing me toward somebody in your group who would be 
+willing to talk to me?  The idea involves options. 
+Thanks you very much in advance. 
+Fati Liamidi
+3-4563
+Maricela,
+EB 1962
+Vince Kaminski
+Thanks
+Maricela Trevino on 01/19/2000 10:33:23 AM
+Good morning.  I had an individual attempt to deliver an invitation for you, 
+but he was told your location is incorrect.  Please send me your correct room 
+location.  Thank you.
+Kim,
+Thanks a lot. I appreciate your kind words.
+Vince
+Kimberly Watson@
+01/19/2000 04:46 PM
+Vince, I want to congratulate you on your promotion to Managing Director!  As 
+I scanned the list of people who were promoted, I was so pleased to see your 
+name on the list.  As large as Enron is, it is refreshing to see people like 
+you with incredible skill and talent  receive deserving promotions.  I have 
+certainly enjoyed working with you and the R&D team over the past year and 
+look forward to a successful 2000 as we break new ground for ET&S.  Kim.
+Stinson,
+Did you have the chance to audit the UK vol generator?
+Vince
+She  will come on Thu at 10:15.
+Vince
+Jeanne A Klein@_DEVELOPMENT on 01/12/2000 11:55:49 AM
+Vince,
+My name is Jeanne Anne Klein and I am a financial modeler working with 
+Mingcheng Lian on a high profile pipeline project in China. 
+Zimin Lu referred us to you regarding questions we have on the Real Option 
+Valuation Approach.  We are very enthusiastic about what we have read and 
+heard about this valuation method.
+We have been doing some preliminary research on the Real Option Valuation 
+approach and believe that integrating this approach into our financial model 
+would bring a significant increase to the value to the project.   We have 
+identified some deal aspects we believe would be ideal to valuate as real 
+options.  Our goal is to work with the development team to structure the deal 
+to incorporate the Real Option Valuation approach into the model enabling us 
+to arrange the contracts within the deal to optimize the project's value.
+We would like to arrange a meeting with you at your ealiest convenience to 
+brainstorm on additional deal aspects that can be valued using the real 
+option approach as well as on ways to quantify these aspects using the Real 
+Option valuation Method. 
+Please advise if you will be able to meet with us within the next week or 
+two. 
+Thank you for your kind attention,
+Jeanne Anne
+X 6-6547
+This person might qualify for the Enterprise-Wide  Risk Management effort.
+Vince
+Jean-Sebastien Fontaine@_DEVELOPMENT
+01/18/2000 10:14 AM
+Vince
+Please find attached a copy of my resume.  I will call Shirley to arrange a 
+meeting with you and Stinson.
+Thank you
+Jean-Sebastien
+Analyst
+APACHI / Transaction Service
+67115
+Ed,
+I sent a message to Louise Kitchen who runs the EnronOnline effort.
+She should be getting back to you shortly.
+Vince
+ekrapels  Dear Vince,
+Greetings from Boston, where we're doing all we can to help keep the price
+of gas high.
+As I may have told you earlier, I'm writing a "Guide to Electricity Hedging"
+for Risk Publications similar to the report on Oil. I had planned to write a
+significant section on Enrononline, and in the midst of my research on the
+topic was denied access by Enron's gatekeeper. Can you help get me in?
+As always, the best from here.
+Ed Krapels
+Dear Mr. Krapels:
+Thank you for requesting guest access to EnronOnLine.  Unfortunately, we are
+unable to give you quest access at this time.
+EnronOnLine is exclusively for those companies who can transact wholesale
+energy
+commodities and related products.
+In addition, you had indicated within the comments section of your email
+that
+you are preparing a "Guide to Electricity Hedging"
+for Risk Publications.  I have forwarded your inquiry to our Public
+Relations
+Department along with your contact information.
+Should you not hear back from anyone within a reasonable amount of time,
+please
+feel free to contact our Call Center at
+713 853-HELP (4357).
+Sincerely,
+Donna Corrigan Greif
+EnronOnline Help Desk
+713/853-9517
+- att1.htm
+Louise,
+It would be a good commercial for Enron. What can we do to help him and 
+get free publicity?
+Vince
+ekrapels  Dear Vince,
+Greetings from Boston, where we're doing all we can to help keep the price
+of gas high.
+As I may have told you earlier, I'm writing a "Guide to Electricity Hedging"
+for Risk Publications similar to the report on Oil. I had planned to write a
+significant section on Enrononline, and in the midst of my research on the
+topic was denied access by Enron's gatekeeper. Can you help get me in?
+As always, the best from here.
+Ed Krapels
+Dear Mr. Krapels:
+Thank you for requesting guest access to EnronOnLine.  Unfortunately, we are
+unable to give you quest access at this time.
+EnronOnLine is exclusively for those companies who can transact wholesale
+energy
+commodities and related products.
+In addition, you had indicated within the comments section of your email
+that
+you are preparing a "Guide to Electricity Hedging"
+for Risk Publications.  I have forwarded your inquiry to our Public
+Relations
+Department along with your contact information.
+Should you not hear back from anyone within a reasonable amount of time,
+please
+feel free to contact our Call Center at
+713 853-HELP (4357).
+Sincerely,
+Donna Corrigan Greif
+EnronOnline Help Desk
+713/853-9517
+- att1.htm
+Shirley,
+Works for me.
+Vince
+Shirley Crenshaw
+01/17/2000 01:15 PM
+Looks like the 16th is free for both of you (Stinson you show a reading for
+Alex's class at 4:00 pm - rest of day is free).
+Vince J Kaminski
+01/17/2000 12:51 PM
+Shirley,
+Any conflict?
+Vince
+Stinson Gibner
+01/17/2000 09:57 AM
+Amit planning to spend the day of February 16th at Enron in order to give an 
+update on his bandwidth pricing research.    We will also try to spend some 
+time in more of a round-table discussion designed pick his brain on any other 
+related issues on which he may be able to help us.   I am corresponding with 
+Amit to set up a more detailed agenda.    Please let me know if there are 
+conflicts which should lead us to choose a different date.
+,
+--Stinson
+Anjam,
+It's a very good job description.
+Vince
+Anjam Ahmad
+01/18/2000 04:34 AM
+Hi Vince/Dale,
+We now have one internal candidate (Amit) and are seeking others.  We are 
+also exploring our external contacts to see if we can find someone suitable Please take a look at the proposed job specification created by Ben Parsons 
+(word document attached below).
+,
+Anjam
+x35383
+Benjamin Parsons
+18/01/2000 10:08
+Kate,
+The London Research team is expanding, and we need to find a person to fill 
+the role I have occupied during the last year or so. We are looking both 
+externally and internally, so could you post the following Job Specification 
+on the Intra- and Internets for us:
+Many thanks,
+Ben
+Rick,
+I read your memo regarding Global Risk Management Initiative.  I am sending 
+you the
+information regarding a related initiative on which I have been working last 
+year and which
+is moving now into the implementation stage. It's Enterprise - Wide Risk 
+Management
+and it's really an effort to measure business risks consistently across the 
+company.
+I hope my group can be helpful in designing the general approach to this 
+problem.
+Please, let me know what your thoughts are.
+Vince
+Madre,
+Thanks for your message. I was at the meetings all the time.
+Vince
+Madre Nell
+03/21/2001 08:23 AM
+Hi  Vince
+I tried to call you on 36771.  The Dinner tonight with Chris and Jeff is at 
+the Malabar for 20h45.
+Please let me know if you need anything else.
+Madr,
+37239
+Rick,
+I read your memo regarding Global Risk Management Initiative.  I am sending=20
+you the
+information regarding a related initiative on which I have been working last=20
+year and which
+is moving now into the implementation stage. It's Enterprise - Wide Risk=20
+Management
+and it's really an effort to measure business risks consistently across the=20
+company.
+I hope my group can be helpful in designing the general approach to this=20
+problem.
+Please, let me know what your thoughts are.
+Vince
+=20
+Sent by: Enron Announcements@
+Recognizing Enron=01,s increasing worldwide presence in the wholesale energy=20
+business and the need to insure outstanding internal controls for all of our=20
+risk management activities, regardless of location, a global risk management=20
+operations function has been created under the direction of Sally W. Beck,=20
+Vice President.  In this role, Sally will report to Rick Causey, Executive=20
+Vice President and Chief Accounting Officer. =20
+Sally=01,s responsibilities with regard to Global Risk Management Operations=20
+will mirror those of other recently created Enron global functions.  In this=20
+role, Sally will work closely with all Enron geographic regions and wholesale=20
+companies to insure that each entity receives individualized regional support=20
+while also focusing on the following global responsibilities:
+1. Enhance communication among risk management operations professionals.
+2. Assure the proliferation of best operational practices around the globe. =20
+3. Facilitate the allocation of human resources. =20
+4. Provide training for risk management operations personnel.
+5. Coordinate user requirements for shared operational systems.=20
+6. Oversee the creation of a global internal control audit plan for risk=20
+management activities.
+7. Establish procedures for opening new risk management operations offices=20
+and create key benchmarks for measuring on-going risk controls.  =20
+Each regional operations team will continue its direct reporting relationship=20
+within its business unit, and will collaborate with Sally in the delivery of=20
+these critical items. The Houston-based risk management operations team under=20
+Sue Frusco=01,s leadership, which currently supports risk management activities=20
+for South America and Australia, will also report directly to Sally.  =20
+Sally retains her role as Vice President of  Energy Operations for Enron=20
+North America, reporting to the ENA Office of the Chairman.  She has been in=20
+her current role over Energy Operations since 1997, where she manages risk=20
+consolidation and reporting, risk management administration, physical product=20
+delivery, confirmations and cash management for ENA=01,s physical commodity=20
+trading, energy derivatives trading and financial products trading. =20
+Sally has been with Enron since 1992, when she joined the company as a=20
+manager in Global Credit.  Prior to joining Enron,  Sally had four years=20
+experience as a commercial banker and spent seven years as a registered=20
+securities principal with a regional investment banking firm.  She also owned=20
+and managed a retail business for several years.=20
+Please join me in supporting Sally in this additional coordination role for=20
+global risk management operations.=20
+Jim,
+I can send you copies of the  reprints of some papers I wrote
+or co-authored. Please, let me know how many copies do you need.
+I shall prepare power point presentations for the student meeting
+and for the faculty meeting.
+For the students: review of my group (things we work on) with an intention
+of generating some interest among the students and soliciting resumes.
+For the faculty meeting: challenges that energy markets pose to financial 
+modeling.
+I shall be able to E-mail the Power Point presentations later this month.
+Vince
+Jim Garven  Dear Vince,
+Would you mind emailing to me a short biography/vita sometime when you get
+a chance?  Also, if you have a paper to circulate or any PowerPoint slides
+that you'll want to use either in your presentations to my students
+Thursday afternoon, 2/3, or to the faculty seminar on Friday morning, 2/4,
+please email these to me.  This would be greatly appreciated.
+My colleagues and I are looking forward to your visit on Feb. 3-4 to LSU.
+Sincerely,
+Jim Garven
+_________________________________________
+James R. Garven
+William H. Wright, Jr. Endowed Chair for Financial Services
+Department of Finance
+2158 CEBA
+E. J. Ourso College of Business Administration
+Louisiana State University
+Baton Rouge, LA  70803-6308
+Voice (225) 388-0477  |  Fax: (800) 859-6361
+E-mail:  jgarven@lsu.edu
+Home Page Vita Research Paper Archive _________________________________________ 
+- att1.htm
+Ted, please take a quick look at the outline of discussion notes for Friday.
+Vince
+Shirley,
+Any conflict?
+Vince
+Stinson Gibner
+01/17/2000 09:57 AM
+Amit planning to spend the day of February 16th at Enron in order to give an 
+update on his bandwidth pricing research.    We will also try to spend some 
+time in more of a round-table discussion designed pick his brain on any other 
+related issues on which he may be able to help us.   I am corresponding with 
+Amit to set up a more detailed agenda.    Please let me know if there are 
+conflicts which should lead us to choose a different date.
+,
+--Stinson
+FYI
+Vince
+Tanya Tamarchenko
+01/17/2000 09:27 AM
+Hi, everybody,
+you are invited to meet at 3:30 tomorrow, 1/18/00 in 1938 (Research area) to 
+discuss
+Full Requirements Deals modeling.
+,
+Tanya.
+Clayton,
+I agree. This would happen when there is an insufficient pipeline capacity
+to move gas. The market developments you describe happen quite
+often and this is one of the reasons we want to have the model you are working
+on.
+Vince
+Vince
+Clayton Vernon@
+01/17/2000 09:30 AM
+Vince-
+I forgot to mention to you one other development I propose, a theory I call 
+"uncoupling" of basis. As an example, severe cold weather specific to the 
+Midwest can result in an elevation of spot market prices at Henry Hub, where 
+prices elsewhere in the Northeast are such that the basis appears to be less 
+than the commodity charge to ship gas from Louisiana to the Northeast. This 
+can happen when gas is not being moved in the spot market from Louisiana to 
+the Northeast at that time.  The notion of "equilibrium" cannot, in my view, 
+always assume "spot" gas is flowing along all nodes of the network.
+Clayton
+Walter,
+Thanks. My new location  is EB 1962.
+Vince
+Darlene,
+Thanks. Congratulations and best wishes. Please, let me know if I can
+help you in any way (driving you home, delivering things from the office, 
+etc Hope to talk to you soon.
+Vince
+3-3848
+281 367 5377 (h)
+Vince:  Congratulations on your promotion.  I know it is well deserved!  I 
+have not seen you in a while since I am not riding the Woodlands bus much 
+these days.  I am expecting a baby for the end of February 2000 and it is 
+much easier to drive than to ride the bus 
+Take care and Congratulations again,
+Darlene Norris
+Rita,
+Thanks.  See  you soon.
+Vince
+Hi Vicek,
+Ludmila mentioned that you've got a promotion to a director level,
+but  more important, the decent salary raise.
+I am very happy for you and wishing you success on the new level.
+See you in Februry, perhaps both, Geoff and I, will be attending
+parents weekend at Stanford.
+Rita 
+- att1.htm
+Tanya Tamarchenko
+03/21/2001 09:58 AM
+Naveen,
+the "analytical VAR" approach is working for Equity portfolio. 
+It gives us the tool to examine the tails' behavior for this portfolio and 
+calculate "Expected Tail Loss".
+The same should be done for commodities portfolio as well.
+Meanwhile, as we discussed, we can give some rough estimates of the losses 
+corresponding to percentiles other than 5th.
+Look at the figure below. You can see VAR numbers for 5%, 1%, 0.5% and 0.1% 
+calculated with 
+1) simulations (100 thousand simulations);
+2) analytical VAR (gamma-delta positions representation)
+1) and 2) are very close because there are not many options in Equity 
+portfolio.
+3) simulations (1000 simulations) to calculate 5% VAR. Then in order to 
+approximately estimate VAR for 1%, 0.5% and 0.1%
+I scaled 5% VAR with factors corresponding to normal distribution (for 
+example: Norminv(0.001,0,1)/Norminv(0.05,0,1) for 0.1 The result of such extrapolation in this case is quite good (just 5% 
+different from the correct number We probably can use such rough estimates of tail for commodities portfolio 
+until we have proper methods implemented. 
+Tanya Tamarchenko
+02/28/2001 01:17 PM
+Debbie,
+I am forwarding to you a 2 page document describing implementation of 
+"analytical" VAR in RisktRAC.
+Here is why this effort is very important:
+1. We need to calculate VAR for other percentile but 5 (1% or even 0.2% as 
+mentioned by Rick Buy)
+and our simulation model can not handle required number of simulations;
+2. We need to present additional risk measures (such as Mean Tail Loss) to 
+the Board.
+The analytical approach is implemented in a spreadsheet and fully tested 
+already so there will be no problems
+with the algorithm itself.
+We need to get together and discuss IT implementation.
+What do you think?
+Tanya
+Sue,
+Thanks.
+Vince
+Sue Haynes
+01/13/2000 09:31 AM
+Congratulations on the much deserved recognition you have recently received 
+from the Enron Executive Committee 
+Sue Haynes
+Enron Staffing
+Bonnie,
+Thanks both for your message and for all the help in this difficult
+matter. I shall try to stop by one day to formally introduce myself.
+Vince
+I received a notice from the court that the order of dismissal of the 
+plaintiff's case was signed on 1/06/00.  We are requesting a copy of the 
+signed order and will send a copy to each of you when it is received 
+Gary and Vince,  Congratulations on your recent promotions.
+Bonnie
+Mark,
+We are really swamped and I would like to keep our involvement in
+conferences to a reasonable minimum. I can promise that we shall help you
+with a future conference if it happens to be in Houston.
+Vince
+Mark Thabet  Vince:
+I am sorry to hear about your scheduling conflict. Your expertise would have
+been a great value to our conference.  Is there anyone else at your company
+whom you could recommend as a speaker?  Thanks again for your time.
+Mark Thabet
+VP, Energy & Utilities Division
+Institute for International Research
+708 Third Avenue, 4th Floor
+New York, NY  10017
+T: 212-661-3500 x3181
+F: 212-599-2192
+Mark,
+I am sorry to inform you that due to a scheduling conflict I cannot
+speak at
+this conference.
+I want to thank you for considering me as a speaker.
+Vince Kaminski
+Mark Thabet  
+Vince:
+I have attached a rough draft of the agenda with the topics being
+considered
+for the conference.  It is being held in Washington, DC on June
+19-20, 2000.
+If your schedule allows, please join our speaking faculty.  You will
+notice
+that the topic on "Forecasting and Measuring your Exposures to
+Energy Price
+Risk" is not currently on the agenda.  We can add it once you have a
+chance
+to check your schedule.  I also ask that you make recommendations of
+any
+colleagues or industry professionals who can add expertise to the
+conference
+as well.
+If you have any questions or concerns, please do not hesitate to
+contact me
+at 212-661-3500 x3181.  I look forward to hearing from you.  Thank
+you once
+again for your time and assistance.
+Mark Thabet
+VP, Energy & Utilities Division
+Institute for International Research
+708 Third Avenue, 4th Floor
+New York, NY  10017
+T: 212-661-3500 x3181
+F: 212-599-2192
+Ron,
+We are really swamped and I would like to keep our involvement in
+conferences to a reasonable minimum. I can promise that we shall help you
+with a future conference if it happens to be in Houston.
+Vince
+Vince,
+I am sorry you can't join us.  Is there someone on your staff who might be
+able to do the presentation "A Real Options Approach to Asset Valuation,"
+scheduled for Thursday, May 11th, from 10:30 am to 12:00 pm.?
+Ron
+Ron,
+I am sorry to inform you that due to a scheduling conflict I cannot speak at
+this conference.
+I want to thank you for considering me as a speaker.
+Vince Kaminski
+Please respond to ronh@informationforecast.com
+Hi Vince,
+I would like to invite you, or one of your staff, to be a speaker at
+Infocast's upcoming conference "Market Price Volatility: How to Model,
+Assess, and Manage Price Volatility in Today's Power Markets," scheduled for
+May 10-12, 2000, in Chicago.  I am attaching a copy of the draft program
+agenda for your review.  As you may note, we wish to take our recent Houston
+meeting a step farther by making this next session a more
+technically-oriented meeting.
+There are two spots you may wish to consider:
+1. The session entitled "Case Study in Modeling Volatility," scheduled for
+Wednesday, May 10th, from 3:30 to 5:00 pm.  You will note below, what we had
+in mind for the case study.
+2. The talk "A Real Options Approach to Asset Valuation," scheduled for
+Thursday, May 11th, from 10:30 am to 12:00 pm.
+I am running behind schedule in finalizing this program, so I will give you
+a call shortly to follow up with you.  If you wish, please feel free to call
+me at 818-888-4445 ext. 28.
+I hope you can join us.
+Ron Henderson
+Infocast
+818-888-4445 ext. 28
+ronh@informationforecast.com
+CASE STUDY GUIDELINES
+1.   Model should be for a particular market. Examples: PJM, Chicago, ECAR,
+Southern California.
+1B (optional). Model should be for a particular purpose. Examples: valuing a
+new combustion turbine at the Florida/Georgia border, bidding on a portfolio
+of power plants up for sale in NEPOOL, valuing a retail portfolio in
+Pennsylvania.
+2.   Model should be estimated on a particular data set. Examples: daily
+NYMEX
+close prices for Palo Verde, PJM hourly spot prices for 1998-1999.
+3.   Case study should describe several candidate models, for volatility
+and/or market price, that were considered. Case study should discuss why
+these models were considered. Candidate models should be described
+mathematically and verbally.
+4.   Evaluation criteria for choosing among the models should be explicitly
+identified, and quantified to the extent possible. Examples of evaluation
+criteria: residuals that are not autorcorrelated, stationarity, R-squared,
+Akaike information criterion.
+5.   Parameter estimates for each candidate model should be displayed. The
+estimation procedure employed should be briefly described.
+6.   Some diagnostics of model fit (vis-a-vis data set) should be presented.
+7.   If possible, predictive power of model should be assessed.
+Generally, the case study should include all of the items above. The case
+study may include other things.
+Alan,
+Thanks.
+Vince
+Alan Aronowitz
+01/12/2000 09:00 AM
+Congratulations on your promotion to MD!
+Alan
+Elizabeth Boudreaux
+01/11/2000 06:11 PM
+Thank you for volunteering to participate in the Interview Process of the 
+January 15 Associate Super Saturday.  Our team is working on the weekend 
+arrangements and will deliver your information packet to you Thursday, 
+January 15.  If you have any questions, please let Elizabeth Boudreaux know 
+at x3-6176.
+Thank you!
+Ginger Gamble
+Manager
+Associate & Analyst Program
+Donna,
+Thanks.
+Vince
+Congratulations on your promotion! That is really good.
+Tony,
+Thanks. Let's go out one night and have a few  drinks.
+Vince
+Your Majesty,
+Congratulations on your well deserved promotion to Managing Director. I am 
+very happy for you and a little sad as well because this was so long overdue. 
+The list every year was not complete without your name on it. We shall need 
+to celebrate this sometime.
+All the best,
+Tony.
+Jempy,
+Thanks.
+Vince
+Congratulations!  Very well deserved.
+Best of luck,
+Jempy
+JoAnn,
+Yes, Sorry. 413 was the number on the form I received.
+Vince
+Enron Property & Services Corp.
+Vince,
+On your reclass information, the company number indicated should be 0011 not 
+413.
+Jo Ann Holloway
+x35957
+Vince J Kaminski
+01/11/2000 01:33 PM
+The following Payroll Reclassification Request has been approved.
+Click on this link to view document 
+Attached is the report I discussed yesterday. It considers the impact of last 
+2 recessions on demand.
+Jen Fraser
+713-853-4759
+Bob,
+Thanks.
+Vince
+Robert Hermann@
+01/11/2000 02:19 PM
+Sent by: Bobbie Moody@
+Vince,
+Congratulations on your promotion to Managing Director.
+Best wishes for your continued success.
+Bob
+Ludkam@aol.com on 01/11/2000 01:55:38 PM
+# 1245 for $30.00 Reception for 3 on Friday, at 5:30-7:00 during the Parents
+Weekend. L.
+Emma,
+Here is the file.
+Vince
+Lucy,
+Thanks.
+Vince
+Lucy M Marshall
+01/11/2000 12:26 PM
+Congratulations on your promotion--well deserved!!
+Lucy
+Barbara,
+Thanks.
+Vince
+Barbara G Dillard@
+01/11/2000 10:51 AM
+Sent by: Barbara G Dillard@
+Vince:
+Congratulations on your promotion!!
+Barbara
+Laura,
+Congratulations. Well deserved.
+Vince
+Dale,
+Congratulations. Well deserved. I am very happy your tremendous
+contribution to the company has been recognized.
+Vince
+Bryan,
+Congratulations. I am very  happy your contribution to the company  and team 
+building spirit has been recognized.
+Vince
+Anthony,
+Congratulations. Well deserved. I am very happy for you. Better late than 
+never.
+Vince
+Barry,
+Congratulations. Well deserved.
+Vince
+Tom,
+Sounds great. There are some professors at UT who
+worked on automated trading systems. I shall review my files
+and try to locate the paers they sent me.
+Vince
+Tom Barkley@
+03/21/2001 11:58 AM
+Vince,
+Just to update you on how things are going with regard to EOL -
+I had a meeting with John Arnold yesterday to show him what had been 
+accomplished to date, and I think that he was fairly impressed by the 
+information available. I asked him for his input, and he expressed his 
+interest in having a couple of reports made up that couldn't be created from 
+the format the data was in. I spoke to Clayton about this, and he has already 
+made changes that will reflect a number of the modifications John requested.
+I am also continuing to research the issue of an automated trading platform 
+for EOL. I have some information about how the NASDAQ operates, and I have 
+looked at some websites for ECNs, such as Archipelago, Island and Instinet. I 
+have also had a look at the International Securities Exchange (ISE) web-site, 
+but they do not seem to explain much about their system. Any further 
+suggestions would be appreciated.
+I want to find out more about where EOL is currently and what modifications 
+may be necessary in the existing system, finish reading the material at the 
+websites I have investigated, and then I will try to put together a 
+presentation for you and/or Greg Whalley.
+Tom
+Meredith,
+Congratulations. Well deserved.
+Vince
+Rick,
+Congratulations. Well deserved.
+Vince
+Jean,
+Congratulations. Well deserved.
+Vince
+Brad,
+Congratulations. Well deserved.
+Vince
+Harry,
+Congratulations. Well deserved.
+Vince
+Kristina,
+Congratulations. Well deserved.
+Vince
+Bob,
+Congratulations. Well deserved.
+Vince
+Julia,
+Congratulations. Well deserved.
+Vince
+Paula,
+Congratulations. Well deserved.
+Vince
+Sandeep,
+I sent E-mail msg  from the plane.
+Vince
+Sandeep Kohli@_DEVELOPMENT
+03/20/2001 12:29 PM
+Vince,
+This is to remind you to either talk to or to send in a mail to Jim Hughes 
+asking for Anshuman to be here in Houston for analysis of the LNG side of the 
+Enron issue.
+,
+Sandeep.
+George,
+Congratulations. Well deserved.
+Vince
+Richard,
+Congratulations. Well deserved. I am very happy your contribution to the
+company has been recognized.
+Vince
+Louise,
+Congratulations. Well deserved.
+Vince
+Joe,
+Congratulations. Well deserved. 
+Vince
+P.S. I shall call you Wed regarding a request to sponsor a publication
+by the Commodities Now magazine.
+Jeff,
+Congratulations. Well deserved.
+Vince
+Janet,
+Congratulations. Well deserved.
+Vince
+Dave,
+Congratulations. Well deserved.
+Vince
+Harold,
+Congratulations. Well deserved.
+Vince
+Ray,
+Congratulations. Well deserved.
+Vince
+Jeremy,
+Congratulations. Well deserved.
+Vince
+Damon,
+I am in London this week. Please, call me at 713 853 3848 next week, starting 
+Thu.
+Vince
+Damon Kovelsky  Mr. Kaminski;
+I am a Research Associate at Meridien Research
+(www.meridien-research.com) in the greater Boston Area. We specialize in the
+reporting and analysis of technology in the financial service industry.  I
+work in the Risk and Trading Group.
+Currently I am working on a report on Energy Risk Applications.  I
+introduced myself to Mr. Scott Neal who informed me that I should contact
+you (see below). I would like to spend some time talking to you about
+Enron's risk management for energy trading.  And if possible, I would like
+to be able to include Enron in my report since they are the global leader in
+Energy.
+If it is possible, I would like to talk this week.  My calendar is
+pretty open so whenever you would like to talk.  I think the conversation
+should take about 45 minutes to an hour.  If you would like a list of
+questions, I would be more than happy to provide them.
+I can be reached at 617-796-2830 or dkovelsky@meridien-research.com.
+I look forward to talking to you,
+Cheers,
+Damon Kovelsky
+Research Associate
+Emerging Trading Technologies and Risk Management
+Meridien Research
+dkovelsky@meridien-research.com
+617-796-2830
+I believe Vince Kaminski could possibly be of assistance in this matter.
+Damon Kovelsky  
+Mr. Neal,
+I wrote you last week a request to spend some time talking to you
+about Enron's Energy Risk Management for a report I am writing on energy
+risk management applications.  I understand that you are a busy man, but I
+would just like a half hour to talk.  If you would like a list of
+questions,
+I would be happy to provide them.
+This conversation does not have to be on the record if you don't
+want it to.  The main purpose for my enquiry is to understand how energy
+risk applications are being used "on the ground".  I would like to be able
+to write about Enron, but it is not required.
+I look forward to hearing from you.
+Cheers,
+Damon Kovelsky
+Research Associate
+Emerging Trading Technologies and Risk Management
+Meridien Research
+dkovelsky@meridien-research.com
+617-796-2830
+Mark,
+Thanks.
+Vince
+Mark Lay
+01/10/2000 06:15 PM
+Congratulations on your official designation as a poohbah!  Just goes to show 
+you, smart guys can finish first also.
+Mark
+Bani,
+Thanks.
+Vince
+Bani Arora@_DEVELOPMENT
+01/10/2000 06:14 PM
+Hi Vince:
+I just received the email announcing your promotion, and I wanted to take 
+this opportunity to congratulate you.
+,
+Bani
+Trang,
+Thanks.
+Vince
+You did again!  I just read about your most recent accomplishment Congratulations on your promotion!  Go Vince....go Vince... go Vince 
+Sending warmest Trang
+Shalesh,
+Thanks.
+Vince
+Vince,
+Congratulations!  I wish you the best of luck with your new responsibilities.
+Shalesh Ganjoo
+Jordan,
+Thanks.
+Vince
+Vince: Just a short note to congratulate you on your well-deserved promotion.
+Jordan
+Zhiyong,
+Thanks.
+Vince
+Vince,
+Congratulations on your promotion to Managing Director. You certainly deserve 
+it.
+Zhiyong
+Beth,
+Thanks. I shall be in London in February.
+Vince
+Beth S Perlman
+01/11/2000 02:13 AM
+Sent by: Beth Perlman
+Congrats to you too!  I'll see you in February unless you're in London 
+sooner.  Can't wait to start up the dinner club again!
+See you soon.
+Beth
+Vince J Kaminski
+11/01/2000 00:01
+Beth,
+Congratulations. Well deserved.
+Vince
+Rob,
+Thanks.
+Vince
+Robert Saltiel
+01/11/2000 02:55 AM
+Vince,
+Congrats on your promotion!  Well-done!
+Rob
+Eklavya,
+Thanks.
+Vince
+Eklavya Sareen                01/11/2000 03:19 AM
+Congratulations! on your promotion!
+Bill,
+Thanks a lot.
+Vince
+Congrats on your promotion to MD. I appreciate the work you group is doing 
+for ET&S, and I know the promotion is well deserved.
+Bill Cordes
+Jim,
+Thanks a lot. Sorry for a delay in responding to your message. March 29 works 
+for me and I shall ask Shirley Crenshaw
+to call you and agree on the time. I am in London without access to my 
+calendar.
+Vince
+Clayton,
+Thanks. Constrained is a term that means "from a tight labor pool."
+Vince
+Clayton Vernon@
+01/11/2000 08:41 AM
+Vince-
+Nice job, Dr. Managing Director
+Hey, is "Constrained Technical" anything like "constrained optimization 
+Clayton
+Julie,
+Thanks.
+Vince
+Dear Vince-
+I am soooo gland to see you get the promotion you so deserve.  I have always 
+thought you should have received such honors many years ago.  I'm glad to see 
+Enron finally did you right.
+Good luck and congratulations,
+Julie 
+Sherry,
+Thanks.
+Vince
+Sherry J Graham
+01/11/2000 08:49 AM
+Congratulations on your promotion to Managing Director!  It's great that your 
+hard work and dedication to Enron have been recognized 
+Sherry
+Rick,
+I have just looked at the memo regarding promotions.
+Congratulations - well deserved.
+Vince
+Kevin,
+Thanks for taking good care of us.
+Vince
+Kevin G Moore
+01/11/2000 07:16 AM
+On yesterday I spoke with our plant caretaker for the
+19th floor.
+She made mention to me that she was going to bring 
+more plants for our department therefore , requesting
+from facilities will not be necessary.
+She will replace the old plants with new fresh plants.
+Thanks
+Kevin Moore
+Let's see what happens 
+Doug,
+Thanks.
+Vince
+Doug Leach
+01/11/2000 07:32 AM
+Vince,
+Congrats on your promotion to MD.
+Doug
+Richard,
+Thanks a lot.
+Vince
+Richard Shapiro@EES
+01/11/2000 07:37 AM
+Congratulations- well deserved.
+Kevin,
+Let's plan for a celebration next week, Thursday. I shall talk to you about 
+it.
+Vince
+Kevin G Moore
+01/11/2000 06:35 AM
+I am so excited for my Boss , Mike Robert's.
+I was wondering: Can we do something special 
+for him celebrating his promotion?
+Kevin Moore
+Ding,
+Thanks.
+Vince
+Ding Yuan@_DEVELOPMENT
+01/10/2000 09:48 PM
+Vince:
+Congratulations on your promotion to MD.   You certainly are well deserving 
+this long overdue promotion.
+Cheers,
+Ding Yuan
+John,
+Thanks a lot. 
+Vince
+John Sherriff
+01/11/2000 01:06 AM
+Vince
+Congrats on the promotion to MD.  Well deserved and a sign of many years of 
+real service to the company.  Not a bit of controvery in the election process.
+Well done!
+John
+VKaminski@aol.com on 03/19/2001 11:12:34 PM
+isranir@rice.edu, demianen@rice.edu, tbal93@yahoo.com, maue@rice.edu,
+loughrid@rice.edu, jblantonjr@yahoo.com, gjohnson@rice.edu,
+emchombo@rice.edu, nazareth@rice.edu, vanstone@rice.edu, ganguzza@rice.edu,
+nelsonb@rice.edu, sssmith@rice.edu, wheelock@rice.edu, westmore@rice.edu,
+gaudette@rice.edu, otaylor@rice.edu, dikeman@rice.edu, jettke@rice.edu,
+litton@rice.edu, chilkina@rice.edu, helms@rice.edu, wankhade@rice.edu,
+monfan@rice.edu, kostya@rice.edu, pcp@rice.edu, yueguo@rice.edu,
+nlwbio@rice.edu, zhangn@rice.edu, rishad@rice.edu, yoshiura@rice.edu,
+howard@rice.edu, dayangd@rice.edu, wuwei@rice.edu, so@rice.edu,
+wooddy@rice.edu, lamas@rice.edu, tbalestrery@houston.rr.com,
+hingoran@rice.edu,
+planck@rice.edu
+Ludmila,
+#16 & 18.
+Vince
+Ludkam@aol.com on 01/11/2000 01:50:10 AM
+prosze wybrac 2 wyklady na piatek Feb. 25: 2:45-3:30 i 3:45-4:30, musze sie
+zarejestrowac do Jan.13. Ludmila 
+Beth,
+Congratulations. Well deserved.
+Vince
+Ludkam@aol.com on 01/10/2000 05:47:29 PM
+#1244 $24.00 to Palo Alto Pathology, Inc.
+#1243 $266.00 to Vehicle Registration DMV CA
+Elizabeth,
+Yes, manager.
+Thanks.
+Vince
+We'll get right on it.  Are you looking at him for a specific level (Manager?)
+- Elizabeth
+Vince J Kaminski
+01/10/2000 12:56 PM
+Elizabeth,
+We would like to invite Bob Lee for an interview, January 24, Monday.
+He will be interviewed by me, Stinson Gibner,
+Zimin Lu, Paulo Issler, Vasant Shanbhogue, Krishnarao Pinnamaneni,
+Grant Masson.
+Thanks
+Vince
+Greg,
+These are proposed bonuses:
+Managers:
+Superior
+1. Ravi Thuraisingham  40K  
+2. Ronnie Chahal   40K
+3. Amitava  Dhar   40K
+Excellent
+1. Osman Sezgen   35K
+2. Tanya Tamarchenko  35K
+3. Joe Hrgovcic   30K
+4. Vincent Tang   30K
+Directors:
+Superior
+1. Mike Roberts   100K
+2. Krishnarao Pinnamaneni  60K
+Excellent
+1. Zimin Lu   50K
+2. Maureen Raymond  40K
+Assistants:
+1. Shirley Crenshaw   6K
+2. Robert Moore   5K
+You already have the VP numbers.
+Vince
+FYI
+Vince
+Dear Clients:
+Attached is a new ESAI report that takes the analysis of trends in financial
+markets one step further: into equity market valuations of energy companies.
+We intend to issue this report monthly.
+There is an enormous amount of information about money flows behind this
+report. For the sake of brevity, we have presented only a selection of what
+we evaluate to derive these new forecasts of energy index prices. Please
+direct feedback to Ed Krapels at ekrapels@esaibos.com 
+Edna O'Connell
+Office Manager
+ESAI
+301 Edgewater Place, Suite 108
+Wakefield, MA 01880
+(781) 245-2036
+(781) 245-8706
+ednao@esaibos.com
+- Jan 2000.pdf
+Shirley,
+I cannot approve it.    APPROVE button does not work.
+Vince
+Security Resource Request System	
+Request Approval		
+Instructions
+Please review and act upon this request. You have received this eMail because 
+the requestor specified you as their For: 		Amitava Dhar Comments             			Needs for Research Projects		
+Requested Resource(s):	Original: 		Review the  Requested Resources section at 
+left and comments (if any).
+For more on who the request is for, you can:
+Click on the for name for PeopleFinder info
+See the Further Information section below
+Click [Approve] or [Reject].
+Type	Name	Service	Cost		Request Date: 01/07/2000 01:13:34 PM
+Application/Database	Crystal Ball Turbo	Grant	Not Available		
+Further Information		
+Requestor:			Shirley Crenshaw/HOU/ECT
+RC #:	100038	WO Company #:	0011	Priority:	Normal
+Manager:	Vince J Kaminski/HOU/ECT	VP:	
+Elizabeth,
+We would like to invite Bob Lee for an interview, January 24, Monday.
+He will be interviewed by me, Stinson Gibner,
+Zimin Lu, Paulo Issler, Vasant Shanbhogue, Krishnarao Pinnamaneni,
+Grant Masson.
+Thanks
+Vince
+Ron,
+I am sorry to inform you that due to a scheduling conflict I cannot speak at 
+this conference.
+I want to thank you for considering me as a speaker.
+Vince Kaminski
+Hi Vince,
+I would like to invite you, or one of your staff, to be a speaker at
+Infocast's upcoming conference "Market Price Volatility: How to Model,
+Assess, and Manage Price Volatility in Today's Power Markets," scheduled for
+May 10-12, 2000, in Chicago.  I am attaching a copy of the draft program
+agenda for your review.  As you may note, we wish to take our recent Houston
+meeting a step farther by making this next session a more
+technically-oriented meeting.
+There are two spots you may wish to consider:
+1. The session entitled "Case Study in Modeling Volatility," scheduled for
+Wednesday, May 10th, from 3:30 to 5:00 pm.  You will note below, what we had
+in mind for the case study.
+2. The talk "A Real Options Approach to Asset Valuation," scheduled for
+Thursday, May 11th, from 10:30 am to 12:00 pm.
+I am running behind schedule in finalizing this program, so I will give you
+a call shortly to follow up with you.  If you wish, please feel free to call
+me at 818-888-4445 ext. 28.
+I hope you can join us.
+Ron Henderson
+Infocast
+818-888-4445 ext. 28
+ronh@informationforecast.com
+CASE STUDY GUIDELINES
+1. Model should be for a particular market. Examples: PJM, Chicago, ECAR,
+Southern California.
+1B (optional). Model should be for a particular purpose. Examples: valuing a
+new combustion turbine at the Florida/Georgia border, bidding on a portfolio
+of power plants up for sale in NEPOOL, valuing a retail portfolio in
+Pennsylvania.
+2. Model should be estimated on a particular data set. Examples: daily NYMEX
+close prices for Palo Verde, PJM hourly spot prices for 1998-1999.
+3. Case study should describe several candidate models, for volatility
+and/or market price, that were considered. Case study should discuss why
+these models were considered. Candidate models should be described
+mathematically and verbally.
+4. Evaluation criteria for choosing among the models should be explicitly
+identified, and quantified to the extent possible. Examples of evaluation
+criteria: residuals that are not autorcorrelated, stationarity, R-squared,
+Akaike information criterion.
+5. Parameter estimates for each candidate model should be displayed. The
+estimation procedure employed should be briefly described.
+6. Some diagnostics of model fit (vis-a-vis data set) should be presented.
+7. If possible, predictive power of model should be assessed.
+Generally, the case study should include all of the items above. The case
+study may include other things.
+- Draft Agenda v.2.doc
+Sent by: Enron Announcements@
+THE DOCTOR=01,S OFFICE
+=20
+The Doctor=01,s Office, located on the 3rd floor of the Enron Building, offers=20
+convenient on-site medical care for all Active Enron employees who are=20
+enrolled in any of the Enron Corp. Medical Plan options (except the "No=20
+Coverage" option).  Dependents of employees, contractors and visitors are not=20
+eligible to receive these services, as well as employees not eligible for=20
+"Enron Corp." benefits.
+Hours of Operation are:
+Monday through Friday
+7:30 am - 12:30 pm
+1:30 pm -   2:30 pm (Closed for lunch from 12:30-1:30 pm)
+Appointments are encouraged, but walk-ins are accepted.  To call for an=20
+appointment, call (713) 750-7074.
+A $10 copayment is required for a visit at The Doctor's Office, regardless of=20
+the Medical Plan option you have elected.   You will be required to present=20
+your Medical Plan ID card on your first visit each year, so that your file=20
+may be updated.  Please bring cash or check covering your $10 copayment each=20
+time you visit The Doctor's Office.  (The Doctor's Office is not equipped to=20
+bill you for the copayment - please be prepared to make your copayment when=20
+you arrive for your appointment or you may have to return to your work=20
+location without receiving service.)  The Doctor's Office will also require=20
+you to update your patient information form each year so your file is=20
+complete.
+If you are prescribed medications at The Doctor's Office, they can be ordered=20
+through Maxor Pharmacy (located at Christus/St. Joseph Hospital) and=20
+delivered to The Doctor's Office twice daily.  You will be contacted when=20
+your order has arrived and you may pick it up from The Doctor's Office during=20
+their normal business hours.  PLEASE BE PROMPT IN PICKING UP YOUR MEDICATION,=20
+AS ALL PRESCRIPTIONS WILL BE RETURNED TO THE PHARMACY IF NOT PICKED UP WITHIN=20
+24 HOURS.  You may pay for your order by cash, check or credit card.
+Remember, prescription drug copayments are changing effective 1-1-2000: =20
+Generic medications are $8.00 and Name Brand medications are $16.00 for a=20
+30-day supply.  (If the medication prescribed has a generic equivalent but=20
+you receive the name brand medication, you must pay the difference in=20
+ingredient cost plus the generic copayment.)
+Stinson,
+Let's talk about it. It seems like an open personality clash developing 
+for the first time in the history of the group.
+Vince
+Zimin Lu
+05/02/2001 01:41 PM
+Our convention is whoever finalizes the model should write the 
+documentation.  It does not make sense
+to write one when changes are anticipated.  You have been working on this 
+almost a year, it never 
+strikes you that we need a documentation 
+I created Exotica.xll, does that also give you an excuse not working on 
+Exotica documentation 
+Zimin 
+Paulo Issler
+05/02/2001 11:52 AM
+I am surprised that we do not have the documentation ready.
+I can make that for you. It is not there because you did not put that 
+together by the time it was created and all the changes I have made did not 
+required changes on the functionality.
+Paulo Issler
+Zimin Lu
+05/02/2001 11:29 AM
+Tai Woo,
+Here are the c-codes for the CrudeAPO.  'Sig' is the spot
+volatility meaning the price volatility within the delivery period. 
+You should consult  with Pavel for the definition of this "extra" 
+parameters.   We 
+would like to see the Position Monitor once you get it running.
+We might have some additional suggestions.
+Paulo,
+Why don't we have a documentation on CrudeAPO you worked on ?
+I can not find it in Exotica help file.   Please supply that to Tai, thanks.
+This morning, Zimin told me that Pavel is using a special model in evaluating 
+his Asian option portfolio. 
+He asked me to talk to you in order to access to the code so that I can see 
+the difference made to the model.
+As I cannot find the doc. describing this model, please tell me what that new 
+input parameter 'Sig' is.
+Thanks,
+Greg,
+Two things I did not manage to mention to you at the meeting on Monday.
+1. Joe Carson. I was very positively impressed by Joe Carson.
+Enron  badly needs a senior economist of his stature and 
+experience. He has many contacts in the industry and can represent 
+Enron well. He is very pragmatic and, also, I expect a cool head on old 
+shoulders.
+One negative is that he wants to work out of New York. The tradeoff is 
+between
+maintaining  his contacts and working closer with the desks. 
+2. Tony Mends. I think you, or Louise, should explore the possibility of 
+using the skills of Tony Mends.
+Tony and I are good friends so I may be biased. I think that he is a very 
+smart
+and efficient person and can contribute a lot to the organization that 
+relies
+on processing huge volumes of information.
+Vince
+Ludkam@aol.com on 01/10/2000 11:40:44 AM
+#1243  $266.00   #1244  24.00       L.
+To whom?
+Ludkam@aol.com on 01/10/2000 11:40:44 AM
+#1243  $266.00   #1244  24.00       L.
+Shirley,
+Please,  put a regular Enron NA meeeting on Mondays at 9:30
+to 11:00.
+Vince
+Eckao@aol.com on 12/11/99 08:21:06 AM
+Dear Vince:
+I am in some preliminary dialogues with some faculty in the math
+department about the possibility of establishing a special program perhaps at
+master's level on financial engineering.  The attach pdf file is my own
+sketch about the program. Since you have extensive knowledge about these
+things, can you give me some comments.
+Ed
+- FIN_ENGR.PDF
+Shirley,
+Please, ask me about it.
+Vince
+Shirley,
+No problem.
+Vince
+Shirley Crenshaw
+01/07/2000 03:56 PM
+Vince:
+If it is alright, I would like to take vacation on Friday, January 14th and 
+Friday, February 4.
+Thanks!
+Shirley
+Vince
+Thank you for your time and sorry for a delay with the Strategic plan.I would 
+appreciate your comment.
+Have a nice weekend hope it will be a good reading.
+Boris
+- ECIStategicPlan.doc
+John Peyton
+01/07/2000 01:45 PM
+Vince, 
+Included is the rest of the prices for 4th and 5th Generation 
+Semi-submersibles in the Gulf of Mexico.  The only additional Data is from 
+Sept 99 through Dec 99.
+Chris and I look forward to your analysis on Tuesday.
+Here is ESAI's latest issue of the "Natural Gas Fundwatch"
+Edna O'Connell
+Office Manager
+ESAI
+301 Edgewater Place, Suite 108
+Wakefield, MA 01880
+(781) 245-2036
+(781) 245-8706
+ednao@esaibos.com
+- ng0107001.PDF
+John Peyton
+01/04/2000 11:12 PM
+Attached are the historical numbers for the Semi-submersibles 4th and 5th 
+generation day rates.  Their price is 155,000/day for the next 4 years.  I 
+would think that a floor of $100,000 would be the place to start Jan 1, 2001 
+through Dec 31, 2004.  We need to know the Call strike that would make it 
+costless.
+I plan on making some examples discussion purposes to discuss with them on 
+Friday of this week.  I will update you ASAP on the balance of day rate 
+prices.  Let me know what else you will need to prepare the statistical 
+analysis.   The numbers include highs and lows; let me know your ideas on how 
+to address this in the quote.
+Thanks,
+John
+30395
+Tanya,
+Please, look into it.
+Vince
+Vince,
+FEA has arrived at a very simple, direct, and inexpensive approach to
+licensing our two VaR-related patents as a package.  I hope that you will
+agree that our proposed license fee of $2,500 plus $1 per employee, with
+licenses to go to all of your affiliates, would be an attractive offer.  I
+would love to sign up Enron for this package as an early customer.  Do you
+think you could forward the attached pdf license agreement to the
+appropriate people at Enron, together with your recommendation? I am highly
+motivated to get Enron as a licensee, and I strongly believe that it will be
+a worthwhile effort for both parties.
+,
+Mark B. Garman
+President, Financial Engineering Associates, Inc.
+2484 Shattuck Avenue, Suite 225
+Berkeley CA 94704-2029
+Tel    +1-510-548-6200
+Fax    +1-510-548-0332
+- Microsoft Word - patent_lic.pdf
+Stinson Gibner
+01/05/2000 08:39 AM
+Here is a party invitation with updated address.    The party will be at 3421 
+Cason.    This is 2.5 blocks West of Buffalo Speedway and 1 Block north of 
+Holcomb (
+Bellaire) Blvd.
+Directions from major freeways:
+From Southwest Freeway (59):
+Exit on Buffalo Speedway and go south.  (Greenway plaza is on the north side 
+of the freeway.)
+Pass through stoplights on Bissonette, Sunset, Rice, and University.
+Turn right on Cason  (the last small street before the next stoplight, which 
+is at Holcomb Blvd.)
+House is on your left in 2.5 blocks.
+From  West Loop 610 :
+Exit on Bellaire Blvd. and go east  (inside the loop).
+After you pass the stoplights at Auden and at Edloe street,  start watching 
+for JiffyLube on your right.
+When you near JiffyLube, turn LEFT onto Sewanee Street.
+At first intersection, turn Right onto Cason
+House is on your right.
+If you miss the turn at JiffyLube, just turn LEFT at the stoplight at 
+Buffalo and turn left again onto Cason.
+"Webmaster@cera.com" <webmaster on 12/08/99 04:37:03 PM
+URL 
+There is a merger and acquisition dilemma facing the power industry today.
+The fact that no clear-cut winning strategy has emerged makes the dilemma
+more difficult to resolve. In a December 1 CERA North American Power client
+conference call and web presentation, Paul Parshley, CERA Director,
+discusses:
+*  The long term strategy and short term returns of M&A: What does it mean
+for multi-service providers, super-regional provides and the global power
+and energy companies?
+*  The M&A wave continues: Is it better to be near the front of the pack and
+embark on an unproven and risky strategic option and hope for the best, or
+to wait until strategic options are better understood and run the risk of
+missing the best opportunities?
+*  Stock prices of recently merged or acquired companies: Is Warren Buffet
+right about the power industry?
+To view and listen to a replay of this presentation (an example of a new
+technology we are using), please click on the link above.
+**end**
+Follow URL for complete report.
+- att1.htm
+Dear Vince,
+Do you think you would be able to confirm a talk title and bullet points for 
+your 'new research' talk by the end of the first week of January?  In terms 
+of the panel discussion we will confirm the actual content and structure 
+closer to the date of the conference - in the meantime, if you have any ideas 
+as to how we can make the panel as discussive as possible that would be great.
+,
+Oliver
+Oliver,
+I can cover both presentations.
+Vince
+Dear Vince,
+Thank you for agreeing to take part in our annual US congress.
+There were 2 things that I would ideally like you to be involved in.  The 
+first
+would be to present any new research you may have.  This would be part of 
+stream
+3 (see attached) which looks at new research in derivatives modelling and
+analysis.  If you would like to present any new research that fits into 
+the
+rough areas outlined that would be great.
+The second would be part of a panel discussion on weather derivatives 
+(number 44
+attached).  I have also invited Jeff Porter (Koch) and Ravi Nathan 
+(Aquila).
+Please let me know if you would like to present any new research and/or 
+take
+part in the panel.
+i look forward to hearing from you soon.
+Oliver
+Direct: 212 925 1864 ext.152
+Risk Publications, 270 Lafayette Street, Suite 700, NY 10012, New York
+Fax: 212 925 7585  Email: conf-ny@msn.com
+www.riskpublications.com
+- att1.htm
+Stinson,
+N o problem.
+Vince
+Stinson Gibner
+01/07/2000 10:51 AM
+Vince:
+I would like to take four days of vacation time in February, from Feb. 22 
+through 25th.
+thanks,
+--Stinson
+Shirley,
+OK.
+Vince
+Alex Huang@
+01/07/2000 08:28 AM
+Hi Shirley,
+I would like to request for a new PC.  My current PC is quite old with not 
+enough memory.  Twice 
+I ran out of memory and had to have IT people coming to clean it for me. 
+Their suggestion is
+to either get a new hard drive or a new PC.  Given that Dell has Pentiumc III 
+Processor at 800 MHz
+on market, I would like to request a PC with process at 500 MHz or higher 
+level. 
+Thank you very much.
+Best,
+Alex
+Michael,
+Sorry, Thursday schedule is full. What about Fri, 1 to 2?
+Vince
+Michael Guerriero@_DEVELOPMENT
+01/06/2000 08:23 AM
+1pm does not look good. How about between 3-5 pm. Is there something there 
+that works for you?
+MFG
+Vince J Kaminski@ECT
+01/05/2000 08:21 PM
+Michael,
+What about 1:00 p.m. Thursday?
+Vince
+Michael Guerriero@_DEVELOPMENT
+01/05/2000 05:47 PM
+Could we meet tomorrow afternoon?
+MFG
+Vince J Kaminski@ECT
+12/30/99 06:41 PM
+Michael,
+Sorry, I was out around the holidays.
+I shall be glad to meet with you in the 1st week
+of January. Please call me (3-3848) or my assistant,
+Shirley Crenshaw, 3-5290.
+Vince
+Michael Guerriero@_DEVELOPMENT
+12/20/99 02:31 PM
+I am responsible for our Argentina operation and would like to discuss some 
+modelling issues with you. Could you be available Wednesday for a meeting.
+Thanks
+MFG
+Tony,
+Happy New Year and Congratulations. I hope you feel better soon.  Let's meet 
+for lunch when you get back
+to the office.
+Vince
+Vince,
+Thanks for the information. You predicted this would happen. Where is he 
+headed?
+I have been ill since the new year. I did not work yesterday and  I am here 
+today till only about 1:30 p.m. Some have said it is not a good way to start 
+the millennium but I think I was only getting rid of the bad stuff from the 
+past!
+I wanted to let you know myself (I am sure however, that you know already 
+from "BBC") that I have been promoted as vice president of  Knowledge 
+Management at Azurix. I really need to see you sometime soon and  I shall 
+call your assistant and for time on your calendar. 
+See you soon.
+Tony.
+Janette,
+Thanks.
+Vince Kaminski
+ENRON  Corp 1400 Smith Street, Room 1962  
+Houston, TX 77251-1188
+Phone: (713) 853 3848
+Fax  :    (713) 646  2599
+E-mail: vkamins@
+Vince
+Dear Mr Kaminski,
+I do hope that you had a pleasant Christmas and New Year, like ourselves at 
+Risk.
+I am currently producing the Author Cards which you discussed with my 
+Manager, Paula Soutinho, and would like to know where you would like them 
+delivered to.   I have ordered a quantity of 200 which I hope is to your 
+satisfaction.
+If you have any queries please do not hesitate in contacting either myself or 
+Paula,
+Kind  
+Janette Jagernauth
+Marketing Assistant - Risk Books 
+- att1.htm
+Alex Saldana
+01/05/2000 12:15 PM
+This meeting has been rescheduled for:
+Friday, January 7th
+2:15-3:15pm
+EB 3084
+If you have questions please call George Smith @36993
+or Alex @ 57389.  I will keep you informed of any changes.
+Thanks
+Alex
+Alex Saldana
+01/05/2000 11:30 AM
+Please plan to attend the above mentioned meeting:
+Thursday, January 6th
+3:30-4:30pm
+EB 3013
+If you have any questions please call George Smith @ 36993, 
+for any scheduling conflicts call me at @ 57389.
+Thanks
+Alex
+FYI,
+Please, check with Shirley.
+Vince
+Dear Vince,
+Our record indicates that payment for invoice number 2001-M608 in the amount
+of $5,700.- has not been received.  Please send your payment at your
+earliest convenience.  Your timely attention to this matter will be greatly
+appreciated.  If you have any questions or need further information, please
+feel free to contact us.
+Thank you very much for your assistance in this matter.
+Sincerely,
+Connie Tadesse
+Accounting Manager
+Financial Engineering Associates., Inc
+Telephone Number 510-549-8702, ext 104
+Fax Number 510-548-0332
+Michael,
+What about 1:00 p.m. Thursday?
+Vince
+Michael Guerriero@_DEVELOPMENT
+01/05/2000 05:47 PM
+Could we meet tomorrow afternoon?
+MFG
+Vince J Kaminski@ECT
+12/30/99 06:41 PM
+Michael,
+Sorry, I was out around the holidays.
+I shall be glad to meet with you in the 1st week
+of January. Please call me (3-3848) or my assistant,
+Shirley Crenshaw, 3-5290.
+Vince
+Michael Guerriero@_DEVELOPMENT
+12/20/99 02:31 PM
+I am responsible for our Argentina operation and would like to discuss some 
+modelling issues with you. Could you be available Wednesday for a meeting.
+Thanks
+MFG
+Shirley,
+Please, put on my schedule.
+Vince
+Veronica Valdez
+01/05/2000 04:58 PM
+This is to confirm  the meeting will take place on Friday, January 21 at 
+12:00 - 5:00p,  at the DoubleTree Hotel, 400 Dallas Street The meeting room is Suite 407 
+Those in attendance:
+Rick Buy
+Ted Murphy 
+Rick Carson
+Vince Kaminski
+Dave Gorte
+Kevin Kindall
+Grant Masson
+Lunch will begin at 12:00 noon and a snack will be served at 2:30p.
+Please give me a call with questions at x31881.
+Vince:
+As we discussed earlier, I attached the copy of the petition for my summer 
+internship with Enron Analyst and Associate group.
+I also have the hard copy of the letter, which I will deliver to you 
+presonally.
+I am looking forward to, finally, become an official Enron employee.  Thank 
+you very much for your valuable contributions to
+my experience with the company.
+Jason Sokolov
+Shirley,
+Please, put on my schedule.
+Vince
+Alex Saldana
+01/05/2000 12:15 PM
+This meeting has been rescheduled for:
+Friday, January 7th
+2:15-3:15pm
+EB 3084
+If you have questions please call George Smith @36993
+or Alex @ 57389.  I will keep you informed of any changes.
+Thanks
+Alex
+Alex Saldana
+01/05/2000 11:30 AM
+Please plan to attend the above mentioned meeting:
+Thursday, January 6th
+3:30-4:30pm
+EB 3013
+If you have any questions please call George Smith @ 36993, 
+for any scheduling conflicts call me at @ 57389.
+Thanks
+Alex
+Shirley,
+The place to stay is Mariott Financial Center in NYC.
+Vince
+Mary Jaffier  We confirm receipt of your registration for the above-mentioned conference The conference will be held at New York University Stern School of Business, 
+Henry Kaufman Management Center, 44 West 4th Street, New York City Registration and continental breakfast will begin at 8:30 a.m., when you will 
+receive the conference material and a name tag. Meanwhile, if you have any 
+questions regarding the conference, please do not hesitate to contact me.
+Mary T. Jaffier
+NYU Salomon Center
+Stern School of Business
+44 West 4th Street, Suite 9-160
+New York, NY 10012
+Tel:  212-998-0706
+Fax: 212-995-4220
+greetings@ynot.com (Why Not Creations) on 01/05/2000 10:54:33 AM
+Please respond to greetings@ynot.com
+Your cards to the following individuals have been queued for sending on the 
+proper date (those listed for today have already been sent):
+Richard at richard@austin.rr.com
+If you want to check your card, visit:
+ile=JXMZ685787
+Stinson Gibner
+01/05/2000 08:39 AM
+Here is a party invitation with updated address.    The party will be at 3421 
+Cason.    This is 2.5 blocks West of Buffalo Speedway and 1 Block north of 
+Holcomb (
+Bellaire) Blvd.
+Directions from major freeways:
+From Southwest Freeway (59):
+Exit on Buffalo Speedway and go south.  (Greenway plaza is on the north side 
+of the freeway.)
+Pass through stoplights on Bissonette, Sunset, Rice, and University.
+Turn right on Cason  (the last small street before the next stoplight, which 
+is at Holcomb Blvd.)
+House is on your left in 2.5 blocks.
+From  West Loop 610 :
+Exit on Bellaire Blvd. and go east  (inside the loop).
+After you pass the stoplights at Auden and at Edloe street,  start watching 
+for JiffyLube on your right.
+When you near JiffyLube, turn LEFT onto Sewanee Street.
+At first intersection, turn Right onto Cason
+House is on your right.
+If you miss the turn at JiffyLube, just turn LEFT at the stoplight at 
+Buffalo and turn left again onto Cason.
+Greg, Liz,
+Here are the instructions how to get to Stinson's house.
+Directions from major freeways:
+From Southwest Freeway (59):
+Exit on Buffalo Speedway and go south.  (Greenway plaza is on the north side 
+of the freeway.)
+Pass through stoplights on Bissonette, Sunset, Rice, and University.
+Turn right on Cason  (the last small street before the next stoplight, which 
+is at Holcomb Blvd.)
+House is on your left in 2.5 blocks.
+From  West Loop 610 :
+Exit on Bellaire Blvd. and go east  (inside the loop).
+After you pass the stoplights at Auden and at Edloe street,  start watching 
+for JiffyLube on your right.
+When you near JiffyLube, turn LEFT onto Sewanee Street.
+At first intersection, turn Right onto Cason
+House is on your right.
+If you miss the turn at JiffyLube, just turn LEFT at the stoplight at 
+Buffalo and turn left again onto Cason.
+Vince
+richard@austin.rr.com (Richard) on 01/05/2000 10:30:38 AM
+Please respond to richard@austin.rr.com
+Hello Vince!
+Richard has sent you an animated card from Ynot.com. Click on the URL below 
+to see how much Richard appreciates you.
+ile=Jhid685744&recip=0
+(or cut and paste the URL address above into your browser's address/location 
+window.)
+To view this card you will need to install the Flash 4 player. It's a quick, 
+easy and free download. Click below to get it now:
+veFlash
+If you'd like to save this card to your mY! cards received folder on 
+Ynot.com, click on the link below, login and your card will be stored for you.
+Here's another great service from Ynot.com:  In November, Ynot will debut 
+Audyo's! (pronounced Aud-ee-o). Audyo's feature MP3 music by real performers, 
+coupled with our great greeting card animation. Audyo's for many occasions, 
+so give them a listen!
+Environmentally conscious and more fun than flying a kite...Ynot.com, where 
+we put the fun in free greetings. Send your own card for absolutely nothing 
+(that means Free!) by clicking on the link below:
+Thanks!
+Ynot.com
+Molly,
+Stinson Gibner is the best person to interview Mark.
+Vince
+Vince:  Tony Vasut, another recruiter, is bringing Mark Boland in for a 
+series of interviews on 3/20 and 3/21, and asked if there was any chance that 
+you or someone in your group would be able to interview him.   His resume is 
+attached, and I will also send you a list of his deals under separate 
+cover.    Shirley has told me that you will be in and out for the next 
+several weeks, so if you are unavailable would you please suggest someone 
+else in your group who might be able to interview Mark?
+Thanks, as always,
+Molly
+Molly:
+Here is Mark's resume as discussed.  Please let me know if anyone in research 
+(preferably Vince) is available to meet w/ him on either 3/20 or 3/21.
+Thanks,
+Tony
+ To summarize my situation: I'm in charge of structuring equity linked, IR,
+ FX, commodity and other
+ linked bonds and investments for one of Northern Europe s leading banks.
+ I'm 34 years old and married to Lisa who is Swedish. I have over 7 years
+ in the Structured Derivatives business in Capital
+ Markets, with a solid Wall Street foundation at Bankers Trust and overseas
+ at a more senior level
+ of sales, structuring and managing deals from conception to completion.

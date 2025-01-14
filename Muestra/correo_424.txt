@@ -1,0 +1,429 @@
+This is clearly an Associate.  He just left business school didn't he.
+I was thinking Manager given his work experience.   Is that a problem?
+so did I.  Are we going to make him rotate.  He should probably rotate for 6 to 12 months.
+I guess you are right.   He had 4-5 years of work experience prior to MBA and now approx. 8 months after his MBA.
+Regulatory:
+Based on the on-going CA PUC hearings and opinions of Enron legal and regulatory groups, it seems that the Commission is likely to increase tariff rates by anywhere from 10 to 20% (PG&E and SCE are arguing for a 30% increase - not realistic). The critical decision is to leave EES direct-access customers on that tariff. Alternatively, if the PUC rules to end the rate freeze, eliminates the existing CTC credits and does not allow EES customers to switch to this tariff, we stand to lose somewhere between $600-650 million, as EES would have to serve their customer loads by buying expensive CA power during 2001.
+A 10% increase in tariff rates results in ~$50 million loss for EES. However, if the tariff is extended beyond 2001, it will create additional value for EES (the tariff is lower than Cal-02 power prices 
+CA Gov. Davis met with Clinton yesterday where they have decided to extend the emergency status in the state.
+Ken Lay is scheduled to meet with Davis today to address the following topics:
+- clarify any inaccurate information about Enron's role in CA markets
+- urge the Governor to not go overboard with this situation and give the "world" to the CA utilities
+- remind about the upside PG&E and SCE will realize from high valuations of hydro plants (increased almost three-fold from a year ago)
+Hearings and oral arguments will continue this week. CA PUC decision is expected to come on Jan-4th, followed by multiple appeals.
+Credit issues:
+- Enron is attempting to reduce credit exposure with PG&E, whereby PG&E will assign its out-of-the-money trades with Avista and MS to EPMI and 	  EES will assign its in-the-money positions with PG&E to EPMI, creating an off-set. These assignments will reduce PG&E exposure by ~$265 MM, 	  in exchange for Avista and MS exposures.
+- PUC is not likely to rule removal of retail tariff retroactively (to May 99) - this will enforce EES position in collecting its accounts receivable from 	  PG&E of ~$150 MM (so far, they have not paid Enron on the premise of retroactive ruling).
+Market Risk:
+12/27 VaR is $7.8 MM - limit violation. An increase of $0.5 MM because of:
+- addition of long Feb-01 positions at MidC
+- overall increase in prices
+- incorrectly booked trades at PJM (50 MWs Cal-03 Long instead of a Short)
+My suggestion, at a high level, to Don Black and Dennis Benevides to sell MWs in both East and West in order to reduce VaR. However, because of the holidays the liquidity in the market is very scarce.
+Vlady.
+I didn't get it and I still don't have it.  Just in case.  Lavorato@
+John:
+I gave you a rewrite of Redman's list and the percentages.  I will send it again in case it got lost.     Mark
+Mark
+You still own me you expected values for Pan Nat.
+Kim 
+Print this guys resume and then hand it to me.
+Dear John,
+Thank you for getting back to me.
+Please find  attached my resume and cover letter stating my career objective for your  perusal.
+I really appreciate your taking time out of your busy schedule to  follow up on this.
+Irfan Ali
+- winmail.dat 
+Joe, you should come clean on this one - you know what the understanding was ...... At  least for the North American piece maybe not EE&CC.
+John, take a look at the DASH - I think I wrote several comments.
+Delainey
+Louise Kitchen@ECT
+04/18/2001 01:30 PM
+That was a pretty clear answer and pretty speedy too.  Suggest we have a chat at some point Dave on how we move forward on this.
+Louise:
+I am NOT taking the P/L swings or funding this investment.  If there is confusion, let's get together with Dave.
+Andy
+We have the AIG Highstar Fund in ENA.  As I understand it ENA committed to $12.5M on this with the other 50% coming from EE&CC.  I understand from Dave that you are taking the P&L swings on this fund.  As they are about to pull further on this money (<1m to date), I wondered how you wanted it treating.
+Let's discuss
+Louise
+yes
+I am assuming you are referring to a plan of commercial execution. I.E. What are we going to do with it now.
+Please confirm.
+MFG
+Congrats
+Please put a plan together for me.
+John
+As of this moment the acquisition of the Arcor Modesto Maranzana Power Facility has been completed. All documents and assets have been executed and/or transferred. =20
+Congratulations to the deal team and all those who have diligently worked on this project over the past eighteen months. Your efforts our are greatly appreciated and you have achieved bottom line results for Enron.
+Michael F. Guerriero
+JEAN
+WHY ARE WE STILL SLEEVING DEALS FOR BRIDGELINE.  UNLESS WE ARE GETTING COMPENSATED FOR THIS I DON'T WANT TO DO IT.
+Frank,
+I think that you are handling it appropriately.  Lavorato and other ENA sr. mgmt should be apprised of the facts and the your opinion of the potential risks and solutions.  After they have made the decision, then we need to make sure that the procedures/processes/ and risk capture are consistent with the business expectations.  Please make sure that the Energy Operations staff is aware of this as well as credit so that they may adjust their behaviour accordingly.
+As a house-keeping item, I do not think that it is appropriate for me to be CRO of Bridgeline.  I would nominate you or Vlady.
+Ted
+Ted,
+A little background regarding this email.  Sometime back a ENA "sleeving" arrangement was set up for Bridgeline, addressing Bridgeline's poor credit rating.   Upon execution with the broker, confirms would be sent to Bridgeline/ENA and ENA/counterparty.  Evidently, a majority of these deals were short term in nature and dealt primary with intramonth gas daily markets.
+Today, Bridgeline has a larger budget and is striving to trade larger, consequently the sleeving arrangement is being used more frequently.  I spoke with Brad Horn regarding this and told him that it would be far more appropriate to trade using EOL instead of the sleeving arrangement.  He resisted this idea because of the EOL "haircut", and difficultly getting market data if not transacting in the "real" world 
+This potentially creates a legal issue, as well as may cause ENA to wear unnecessary execution and market risks.  I say this because, at times, in order to execute the trade, Bridgeline has to represent themselves as Enron, and basically tell the broker that the deal is done with so and so on the 32nd floor. (Think of what would happen should the counterparty "walk" on an in-the-money deal because Brad wasn't an authorized trader --admittedly, this hasn't happen and the deal is still sleeved.....  An additional note is that I spoke with Brad regarding the situation and he promised never again to represent himself as an ENA employee.  (He recognized his error 
+I apprised Scott Neal and John Lavorato of the issue and at present it is my understanding that they are working on a solution. I have recommended that either the sleeving arrangement become formalized (written and reviewed by legal) or that transactions be directed through EOL.
+Let me know your thoughts.
+Frank 
+Vlady,
+I spoke with Brad regarding the current situation.  In summary, we agreed that the present relationship between ENA and Bridgeline, allowing deals to be sleeved needs to be formally documented (satisfying legal concerns/issues) and/or trades need to be directed through EOL.  Specifically, directing trades through EOL presents problems for Bridgeline, from wide bid/ask spreads to "stagnant" market information.  (i.e. knowing that El Paso is active in the market helps them better manage/optimize their system)
+Frank
+5/8341
+Chris
+Presto got some info the Calpine got a great price on their power sale to California.  Are we negotiating with California and will they agree to credit terms that we like.  It seems like we are going to sell to someone who is going to sell the California.  If this is true we should evaluate the margin vs the credit and legal risks.
+Lavo
+CDWR is not positioning itself to buy new power assets.  Whether or not they buy the output from Pastoria, the plan would be for us to sell the project this year.  Calpine is the high bid and they are open to the project having a California toll on it.   We believe that the proposed pricing of the power sale to CDWR would be attractive to other power plant buyers as well as Calpine. Our current obstacle relates to water - Azurix breached their water deal with the project so we are "fixing" it by dealing directly with a backup water supplier 
+Can we sell them Pastoria or do we have to sell them the power from us.
+Gentlemen:
+I have spoken with CDWR several times since we submitted our proposal.  They are immediately interested in a 5 year power sale and then want to discuss Pastoria.  I updated a price for Freeman for 200MW Peak SP-15 5 Year ($124/MWh).  I also spoke with their lawyers a couple of times to start trading comments.  I volunteered to send a team to LA today or tomorrow, but so far they prefer to discuss by phone.   Their lawyers acknowledge that the primary issue for suppliers is credit.  They are working on an agreement with CPUC that would ensure that CDWR would have an adequate revenue stream to support the contracts.  Their intent is to make the supply contracts have priority over the bonds.  Until that happens, we maintain that we require a cash prepayment or letter of credit to support any deal.  I expect to hear from them again later today.  I will keep you posted.
+,
+Chris
+I keep hearing that we will resolve the tape issue soon.  Can we go over to the broker's office and listen to the tapes.
+Not yet.  Geralsul wants to listen to the tapes first, but refuses to sign a letter that protects the broker against any lawsuit (even though customary, conversation recording without express awareness of the counterparty is "illegal").  We hope to resolve the tapes issue by Friday.
+Remi
+Is the Geresul contract done.
+Unfortunately we seem to have lost the deal with CSN today.  This caught us by surprise: they claim that they were offended by the changes in the contract that we submitted this morning as well as by the call that was made to S? Paulo de Oliveira (to try to get CSN guarantee).
+Next step: I don't think that there is much of a chance of getting the deal with any type of intervention, although opinions differ on the matter.  We need to talk about it tomorrow.
+Remi
+My question is where do I find the graphs.
+I ask again. Who in ENA did the deal.
+Rogers,
+The only other detail that I have is that it is a FIRM delivery, full requirements contract, and the monthly volume fluctuated from 7,000 MMBtu to a monthly high of 32,000 MMBtu.  The P&G Plant is located in Lima, Ohio on the West Ohio Gas, a local distribution company.
+I don't have much more detail as the user information at EnergyGateway.com is confidential.  But we know that ENA was the lowest bidder and that EES/EWS was the second lowest bidder 
+There may be an overlap of responsibilities here where we could help out and consolidate these retail positions 
+Jess
+Rogers Herndon@ECT
+05/22/2001 07:39 AM
+Jess -
+Can you provide some more detail here. 
+John, I have always been told that the East desk did not wnat to consolidate the scheduling of retail with wholesale due to all of the balancing risks associated with load like this.  I am ok with them bidding on load, but I think this is a sign that we should begin consolidating scheduling functions under wholesale - I think this would be most efficient.
+Rogers 
+I'm confused by this one. Who in ENA is bidding this stuff and did we know about the balancing.
+FYI.  John, you said to smother you with e-mails so you could understand what was going on so just let me know if I am overdoing it.
+Rogers
+Jess Hewitt@EES
+05/21/2001 05:05 PM
+Don/Rogers,
+We have a situation that occurred today where ENA beat us on a retail gas deal.  I don't know how accurate our information is in this case but I wanted to pass this on to you for further consideration:
+1.  Energy Gateway is a retail gas portal where users can request proposals for gas supply to Commercial and Industrial sites.
+2.  EWS Gas Desk (fka EES Gas Desk) monitors and makes offers on the system where the buyers meet our requirements.
+3.  Procter and Gamble requested bids today for a site inside West Ohio Gas that is supplier balanced.
+4.  P&G wanted a one year deal beginning 7/2001.
+5.  Load was shaped and averaged 534 MMBtu/day or 195,200 MMBtu per year.
+Bottom line:  We were beat by ENA by 7 cents/MMBtu 
+I don't think we need to compete against each other and had ENA not bid we would have been the low bid at a price that was 7 cents higher.  Your thoughts?
+Jess Hewitt
+Director, Gas - Risk Management
+ENRON ENERGY SERVICES
+Ph:  (713) 853-9464
+Is the paper done?
+Still don't know what project Maple Leaf is.
+No, paper in this instance, is a formality and will be signed this week. 
+Rob is the deal actually signed.
+John, as requested, please see the attached summary regarding the pcog extension. Eric did an excellent job at moving this forward through the "petro-can machine" and demonstrated a lot of patience and perserverance.
+Milnthorp
+On Wednesday the President of Petro-Canada approved the extension of our Wholesale Gas Services Agreement after the first term expires November 1, 2002, for an incremental 5 years.  This has taken me a a while to get closed (and while doing so we have had to keep up a consistently high level of service), but keep in mind it's not easy to renew something half way through the first term.
+This extension is very significant for the following reasons:
+1. It creates a MTM income of $2.9 MM CDN, net of directly attributable costs to provide the back-office services;
+2. It supports further deal flow and potential incentive arrangement income (along with all the production information etc 3. Of even greater importance it provides a very critical and frequently used marketing tool as we continue to build our gas and power businesses across Canada.  As you know, we have used the Petro-Canada arrangement as an example of the services we can provide, not only when marketing in Canada but also in the US and Europe.  Now we can tell potential customers that we not only have provided services to this customer for 3 years, but they've liked it so much they've already extended the agreement for five more years after the first term - the message has to be that we are providing a good quality of service. 
+Obviously this is a great credit to our Commercial staff and the Operations, Accounting and IT staff that work with Petro-Canada.   I will separately advise each of the individuals who works on this account about the renewal and congratulate them.  It takes alot of effort to "enchant" the customer day after day, year after year.  In fact it's incredibly difficult to be effectively on trial day in and day out as a service provider.
+The numbers:
+Under the extension, we have provided Petro-Canada with a rebate applied to the remaining term of the agreement from our original base fee.
+Original base fee is $1.75 MM CDN per year, payable monthly.
+Rebate offered:
+Jan/01 - Nov/01				($458,300) CDN
+Nov/01 - Nov/02			($517,000) CDN
+Fee charged for extension term:
+Nov/02 - Nov/03			$1,366,000 CDN
+Nov/03 - Nov/04			$1,400,000 CDN
+Nov/04 - Nov/05			$1,435,000 CDN
+Nov/05 - Nov/06			$1,470,000 CDN
+Nov/06 - Nov/07			$1,510,000 CDN	
+We have thoroughly defined our back-office costs required to provide these services at $428,700 CDN/yr (2000$), and have 3 years of operating history to support this as a projection (with escalation at 2% per year) for the second five year term.  These costs include back-office staff allocations (salaries and benefits), and rent/infrastructure allocation.  We have checked on the allocation of Houston costs, and on a per transaction basis these are insignificant compared to our base business transaction levels.  We do not include commercial staff costs in the above as they are covered by the incentive arrangement and ongoing transaction deal flow.
+In discussions with Wes, this definition of the costs and certainty about the arrangement scope, will allow us to MTM this income.  The MTM income of $2.9 MM CDN includes the rebate offered for the last two years of the current term, and has been reduced by the above annual costs.
+Notes:
+1.  We have not defined the incentive fee for the second five year period yet as we are doing some work at the moment with PCOG on what our benchmark should be, given that much of the intermediate Producers in the group of 40 have disappeared.  We will revise the agreement to reflect the fact that there will be a further revision once the incentive fee is agreed to.
+2. If Petro-Canada's sales volumes fall to 60% of last years levels, there will be a price reopener for the remaining term because we have defined the fee as an absolute cost rather than per unit rate.  We also have a reopener on price if the volumes grow to about 140% of today's levels.  Petro-Canada has a growth strategy for gas so this is not at all expected.  Volumes over the last 6 months have increased by about 7-8% year on year.
+3. Peter and I should have the amended agreement out next week.
+tease colts +4 under 48 250
+tease colts +4 over 36 250
+tease miami +8 under 48 250
+tease miami +8 over 36 250
+st louis minus 6 1/2 250
+After a great deal of work the Canadian team has renewed our outsourcing arrangement with PetroCanada for another 5 years.  This was a great accomplishment for Enron Canada.  The Logistics, Accounting and Commercial execution over the last 3 and 1/2 years played a key role in extending this deal.
+John
+John, as per our telecon, please see the attached for details. Let me know if you require something further.
+On Wednesday the President of Petro-Canada approved the extension of our Wholesale Gas Services Agreement after the first term expires November 1, 2002, for an incremental 5 years.  This has taken me a a while to get closed (and while doing so we have had to keep up a consistently high level of service), but keep in mind it's not easy to renew something half way through the first term.
+This extension is very significant for the following reasons:
+1. It creates a MTM income of $2.9 MM CDN, net of directly attributable costs to provide the back-office services;
+2. It supports further deal flow and potential incentive arrangement income (along with all the production information etc 3. Of even greater importance it provides a very critical and frequently used marketing tool as we continue to build our gas and power businesses across Canada.  As you know, we have used the Petro-Canada arrangement as an example of the services we can provide, not only when marketing in Canada but also in the US and Europe.  Now we can tell potential customers that we not only have provided services to this customer for 3 years, but they've liked it so much they've already extended the agreement for five more years after the first term - the message has to be that we are providing a good quality of service. 
+Obviously this is a great credit to our Commercial staff and the Operations, Accounting and IT staff that work with Petro-Canada.   I will separately advise each of the individuals who works on this account about the renewal and congratulate them.  It takes alot of effort to "enchant" the customer day after day, year after year.  In fact it's incredibly difficult to be effectively on trial day in and day out as a service provider.
+The numbers:
+Under the extension, we have provided Petro-Canada with a rebate applied to the remaining term of the agreement from our original base fee.
+Original base fee is $1.75 MM CDN per year, payable monthly.
+Rebate offered:
+Jan/01 - Nov/01				($458,300) CDN
+Nov/01 - Nov/02			($517,000) CDN
+Fee charged for extension term:
+Nov/02 - Nov/03			$1,366,000 CDN
+Nov/03 - Nov/04			$1,400,000 CDN
+Nov/04 - Nov/05			$1,435,000 CDN
+Nov/05 - Nov/06			$1,470,000 CDN
+Nov/06 - Nov/07			$1,510,000 CDN	
+We have thoroughly defined our back-office costs required to provide these services at $428,700 CDN/yr (2000$), and have 3 years of operating history to support this as a projection (with escalation at 2% per year) for the second five year term.  These costs include back-office staff allocations (salaries and benefits), and rent/infrastructure allocation.  We have checked on the allocation of Houston costs, and on a per transaction basis these are insignificant compared to our base business transaction levels.  We do not include commercial staff costs in the above as they are covered by the incentive arrangement and ongoing transaction deal flow.
+In discussions with Wes, this definition of the costs and certainty about the arrangement scope, will allow us to MTM this income.  The MTM income of $2.9 MM CDN includes the rebate offered for the last two years of the current term, and has been reduced by the above annual costs.
+Notes:
+1.  We have not defined the incentive fee for the second five year period yet as we are doing some work at the moment with PCOG on what our benchmark should be, given that much of the intermediate Producers in the group of 40 have disappeared.  We will revise the agreement to reflect the fact that there will be a further revision once the incentive fee is agreed to.
+2. If Petro-Canada's sales volumes fall to 60% of last years levels, there will be a price reopener for the remaining term because we have defined the fee as an absolute cost rather than per unit rate.  We also have a reopener on price if the volumes grow to about 140% of today's levels.  Petro-Canada has a growth strategy for gas so this is not at all expected.  Volumes over the last 6 months have increased by about 7-8% year on year.
+3. Peter and I should have the amended agreement out next week.
+Where are you?  I hear your already living the new life.  Sick last week.  Vacation this week.  Buying land in Colorado next week?
+Lavo
+John, I spoke to Milly - he is on side.  I have completed all reviews except Kishkill and Orlando - how do you want to handle this?
+Delainey
+yadayadayada
+maybe that would be the best solution
+When are you and Laura coming down for a Golf game.
+Thanks for the recognition.  It's very much appreciated.  Hope all is well with you & the family.
+Peg
+After a great deal of work the Canadian team has renewed our outsourcing arrangement with PetroCanada for another 5 years.  This was a great accomplishment for Enron Canada.  The Logistics, Accounting and Commercial execution over the last 3 and 1/2 years played a key role in extending this deal.
+John
+John, as per our telecon, please see the attached for details. Let me know if you require something further.
+On Wednesday the President of Petro-Canada approved the extension of our Wholesale Gas Services Agreement after the first term expires November 1, 2002, for an incremental 5 years.  This has taken me a a while to get closed (and while doing so we have had to keep up a consistently high level of service), but keep in mind it's not easy to renew something half way through the first term.
+This extension is very significant for the following reasons:
+1. It creates a MTM income of $2.9 MM CDN, net of directly attributable costs to provide the back-office services;
+2. It supports further deal flow and potential incentive arrangement income (along with all the production information etc 3. Of even greater importance it provides a very critical and frequently used marketing tool as we continue to build our gas and power businesses across Canada.  As you know, we have used the Petro-Canada arrangement as an example of the services we can provide, not only when marketing in Canada but also in the US and Europe.  Now we can tell potential customers that we not only have provided services to this customer for 3 years, but they've liked it so much they've already extended the agreement for five more years after the first term - the message has to be that we are providing a good quality of service. 
+Obviously this is a great credit to our Commercial staff and the Operations, Accounting and IT staff that work with Petro-Canada.   I will separately advise each of the individuals who works on this account about the renewal and congratulate them.  It takes alot of effort to "enchant" the customer day after day, year after year.  In fact it's incredibly difficult to be effectively on trial day in and day out as a service provider.
+The numbers:
+Under the extension, we have provided Petro-Canada with a rebate applied to the remaining term of the agreement from our original base fee.
+Original base fee is $1.75 MM CDN per year, payable monthly.
+Rebate offered:
+Jan/01 - Nov/01				($458,300) CDN
+Nov/01 - Nov/02			($517,000) CDN
+Fee charged for extension term:
+Nov/02 - Nov/03			$1,366,000 CDN
+Nov/03 - Nov/04			$1,400,000 CDN
+Nov/04 - Nov/05			$1,435,000 CDN
+Nov/05 - Nov/06			$1,470,000 CDN
+Nov/06 - Nov/07			$1,510,000 CDN	
+We have thoroughly defined our back-office costs required to provide these services at $428,700 CDN/yr (2000$), and have 3 years of operating history to support this as a projection (with escalation at 2% per year) for the second five year term.  These costs include back-office staff allocations (salaries and benefits), and rent/infrastructure allocation.  We have checked on the allocation of Houston costs, and on a per transaction basis these are insignificant compared to our base business transaction levels.  We do not include commercial staff costs in the above as they are covered by the incentive arrangement and ongoing transaction deal flow.
+In discussions with Wes, this definition of the costs and certainty about the arrangement scope, will allow us to MTM this income.  The MTM income of $2.9 MM CDN includes the rebate offered for the last two years of the current term, and has been reduced by the above annual costs.
+Notes:
+1.  We have not defined the incentive fee for the second five year period yet as we are doing some work at the moment with PCOG on what our benchmark should be, given that much of the intermediate Producers in the group of 40 have disappeared.  We will revise the agreement to reflect the fact that there will be a further revision once the incentive fee is agreed to.
+2. If Petro-Canada's sales volumes fall to 60% of last years levels, there will be a price reopener for the remaining term because we have defined the fee as an absolute cost rather than per unit rate.  We also have a reopener on price if the volumes grow to about 140% of today's levels.  Petro-Canada has a growth strategy for gas so this is not at all expected.  Volumes over the last 6 months have increased by about 7-8% year on year.
+3. Peter and I should have the amended agreement out next week.
+I thought you would find this funny.
+by this ratio the rest ot the power group is really underperforming 
+This 250K came from about 3 MW.
+We tried all day to sell this volume below.  Market is extremely illiquid, given Annex V uncertainty and other regulatory issues: generators believe Parente will help them out in May, while LDCs look at their contracts and reduced demand.  However AES Sul accepted to buy this volume at 25% discount to May spot price, payment on June 25th.  We will net about R$600,000 (US$250,000) between sale and purchase prices.  Credit is OK.
+We will keep a very small, long position at MAE settlement for May.
+Remi
+Luis Berti
+06/04/2001 05:39 PM
+This is to inform that we have closed 2.200 MWh for May to AES Sul at 25% discount rate against spot price at southeast sub-market to be paid on Jun 25th.
+Berti
+Tammy
+Check into this.  If these were index trades they should be in our physical volumes not financial.
+i am 95 percent certain that the power financial volumes are really power index transactions.  when we do an index transaction enpower splits it into a financial swap and a physical transaction.  if you look at the pattern it perfectly mirrors our index transactions.  volumes began to increase in april of 1998 when the california market opened and we had a large volume of sales to ees at a px index price.  volumes grew as ees' load grew.  then ees began to hedge themselves and buy index from others, so we saw a steady decline in the index volumes.  last april we had a large number of index sales which accounts for that blip.  now the index market is dead and the volumes reflect this.
+the physical volumes are right on.  they perfectly match the data that we use here.
+I remember that we talked about him.  Can you please give me a call.
+I gave you his resume 3 months ago.   I am sending another copy upstairs today.   He would be a manager level hire.   No, he is not the ex-metals trader.
+I would like to hire this guy ASAP.
+sounds good
+John,
+Here is the calculation of the 487,856.
+The taxable benefit from the option was 537,672 - 153,174 = 384,498.
+We then allocated a portion of the benefit to work days in Canada between
+the grant date of August 11, 1997 and the exercise date November 30, 2000.
+The ratio of Canadian days to total worked out to be 645/755.
+We then calculated the Canadian portion (645/755 * 384,498) which was
+328,478.
+Then converted it to Canadian dollars (1.4852 * 328,478) which equaled
+487,856.
+Hopefully this explanation answers your question.
+Clay Blakley
+PWC
+This 250K came from about 3 MW.
+We tried all day to sell this volume below.  Market is extremely illiquid, given Annex V uncertainty and other regulatory issues: generators believe Parente will help them out in May, while LDCs look at their contracts and reduced demand.  However AES Sul accepted to buy this volume at 25% discount to May spot price, payment on June 25th.  We will net about R$600,000 (US$250,000) between sale and purchase prices.  Credit is OK.
+We will keep a very small, long position at MAE settlement for May.
+Remi
+Luis Berti
+06/04/2001 05:39 PM
+This is to inform that we have closed 2.200 MWh for May to AES Sul at 25% discount rate against spot price at southeast sub-market to be paid on Jun 25th.
+Berti
+Call me on this.
+We tried all day to sell this volume below.  Market is extremely illiquid, given Annex V uncertainty and other regulatory issues: generators believe Parente will help them out in May, while LDCs look at their contracts and reduced demand.  However AES Sul accepted to buy this volume at 25% discount to May spot price, payment on June 25th.  We will net about R$600,000 (US$250,000) between sale and purchase prices.  Credit is OK.
+We will keep a very small, long position at MAE settlement for May.
+Remi
+Luis Berti
+06/04/2001 05:39 PM
+This is to inform that we have closed 2.200 MWh for May to AES Sul at 25% discount rate against spot price at southeast sub-market to be paid on Jun 25th.
+Berti
+Almost pulled off the 4 tease yesterday.
+I was robbed
+Denver +3 350
+Phili +3 350
+Possibly April 5th Morning and Lunch, leaving sometime late afternoon to Houston.
+John- this is not the finished copy... will get Julie to forward 
+On the 4-6, I would just want you to meet the key funds... Tudor, Catequil, Harvard, SAC Capital (and maybe Paloma) here in NY- I'd condense the meetings into a few hours around lunch/dinner to maximise your time..
+It would be great if you could make it.... let me know.. I'll be in Houston next week.. will say hello..
+Here's the latest 
+This is the unabridged version - I will be getting the executive summary done by next week 
+Julie 
+Attached is the revised overview you requested; specifically, slide 15 was altered where the cash prices were moved to the appropriate production line area.  Please let me know if I can be of further assistance.
+Thank you.
+Elizabeth A. Dees
+Graphic Designer
+image | center |
+(713) 853-3515 P
+(713) 646-4029 F
+Attached is the revised Natural Gas Overview presentation you requested.  Please note on slide 15, whenever the rig and production count is altered, the Henry Hub Cash Prices do not fall within the line chart.  Please advise whether you would prefer the HHCP to adjust with the line, and if so, indicate placement since most of the dollar values are below the line.
+Please let me know if I can be of further assistance.
+Thank you.
+Elizabeth A. Dees
+Graphic Designer
+image | center |
+(713) 853-3515 P
+(713) 646-4029F
+Kim 
+Print Julie's report for me.
+John- this is not the finished copy... will get Julie to forward 
+On the 4-6, I would just want you to meet the key funds... Tudor, Catequil, Harvard, SAC Capital (and maybe Paloma) here in NY- I'd condense the meetings into a few hours around lunch/dinner to maximise your time..
+It would be great if you could make it.... let me know.. I'll be in Houston next week.. will say hello..
+Here's the latest 
+This is the unabridged version - I will be getting the executive summary done by next week 
+Julie 
+Attached is the revised overview you requested; specifically, slide 15 was altered where the cash prices were moved to the appropriate production line area.  Please let me know if I can be of further assistance.
+Thank you.
+Elizabeth A. Dees
+Graphic Designer
+image | center |
+(713) 853-3515 P
+(713) 646-4029 F
+Attached is the revised Natural Gas Overview presentation you requested.  Please note on slide 15, whenever the rig and production count is altered, the Henry Hub Cash Prices do not fall within the line chart.  Please advise whether you would prefer the HHCP to adjust with the line, and if so, indicate placement since most of the dollar values are below the line.
+Please let me know if I can be of further assistance.
+Thank you.
+Elizabeth A. Dees
+Graphic Designer
+image | center |
+(713) 853-3515 P
+(713) 646-4029F
+ya
+Haug?
+They forgot one.
+short but sweet Ken Lay and Jeff Skilling@
+03/13/2001 09:19 PM
+Sent by:	Enron Announcements@
+We regret to announce that with the reduced emphasis on developing large infrastructure projects in certain countries, a number of individuals have elected to leave Enron.  Diomedes Christodoulou, formerly Chief Commercial Officer of Enron Broadband Services, James Bannantine, formerly CEO of Enron South America, and Sanjay Bhatnagar, formerly CEO of Enron Broadband Services for the Middle East and Asia, have elected to leave Enron to pursue other opportunities.  Diomedes, Jim and Sanjay built and led strong and talented teams at Enron.  We wish all of these individuals the very best in their new endeavors.
+wow
+Joh/Kevin
+I am sorry, but I cannot believe what I read below 
+Arch of Chicago - multiply by EXPECTED number of accounts Suiza - How do we measure milk production, we cannot even manage energy consumption - Got Milk Packaged Ice - ??? I hope we don't have any ice facilities in California.
+Conclusion - I do not expect that we will do any more deals like this anytime soon.
+Rogers
+The brief synopsis on causality of the losses are as follows:
+Arch of Chicago
+The deal was originally priced (in 1998) with one account and the results were multiplied by the expected number of accounts.  We have re-priced the deal with actual volumes from our billing system (to capture all active volumes).
+Suiza
+The revenue is based on a production index (gallons of milk).  We have updated the revenue from the Consumption Desk and re-priced costs with data from our billing database.  In addition, we have worked with the Account Manager to segregate pass-through vs. active volumes.
+Packaged Ice
+The revenue is based on a production index (bags of ice).  We have updated the revenue with data from the Account Manager and the Consumption Desk.  We have also re-priced costs with data from the our billing system.
+Conclusion
+The losses are amalgamation of structured vs. actual volume differences, production index revision and initial modelling error.
+If I can be of further assistance to you, I can be reached at 3-1902.
+Thank you.
+,
+Mike Kim
+Are these changes in the forward volumes (unrealized losses).  Can you explain the reason for these adjustments?  How much more exists that we need to address?
+Thanks,
+Rogers
+20 Million !!!!!!  Is this back money or forward money.  Why did the volumes change so much.
+FYI
+Wade Stubblefield@EES
+05/21/2001 05:35 PM
+FYI
+We have re-priced Suiza, Packaged Ice, and Arch of Chicago with updated volume information from our billing system.  The impact is as follows:
+The impact will be recognized on the DPR and G/L, pending Accounting Department's "green light."
+Thank you.
+,
+MSK
+FYI
+Michael -
+Are these changes in the forward volumes (unrealized losses).  Can you explain the reason for these adjustments?  How much more exists that we need to address?
+Thanks,
+Rogers
+20 Million !!!!!!  Is this back money or forward money.  Why did the volumes change so much.
+FYI
+Wade Stubblefield@EES
+05/21/2001 05:35 PM
+FYI
+We have re-priced Suiza, Packaged Ice, and Arch of Chicago with updated volume information from our billing system.  The impact is as follows:
+The impact will be recognized on the DPR and G/L, pending Accounting Department's "green light."
+Thank you.
+,
+MSK
+I'm talking to Dave about Hughes reporting to Sally.
+They don't need to even check the bill.  They can have a customer service group and if the customer calls the customer service group can deal with our guys.
+JOHN
+John -
+FYI.  From what I vave seen thus far I think it will be difficult getting anything accurate or timely out of Evan Hughes' group.  This is the group that is responsible for billing and settlements - the weakest link in our reconciliation problems.  Unlike ENA Power, Retail has Deal Capture and Risk Analysis under Sally Beck and the Settlements process under EES (Evan Hughes).  All three of these functions need to work together and feed into Wade Stubblefield (Wes Colwell) in order to get an accurate and timely reconciliation.  Dave has wanted to keep Billing and Settlements because of the "Customer Touch" they want to maintain.  I think this approach is delaying our getting control of and resolving the issues that are keeping us from monthly reconciliations and cash to actual liquidations.  I think EES needs to be given an ultimatum to 1) either provide us with a Settlements function that allows us to flash and reconcile or 2) get out of the way.  We can provide them with the bill and they can lick it.
+Rogers=20
+=20
+=20
+Wade Stubblefield@EES
+05/22/2001 07:57 AM
+Rogers,
+I'll wait for Mike's response, but these should all be forward volume adjustments as a result of truing up the volumes based on actual data received.  The past activity difference is captured in our potential flash to actual adjustment that we have pegged at a rough $75MM right now.  One of the difficulties we have in reconciling flash to actual is the difference in actual volumes versus volumes liquidated from the books/batch models.  With respect to how much more exists, this is one of the key items, I think, that the Project Phoenix team will want to get from Evan Hughes' group to get the forecasted volumes right.  My suspicion is that we need volumetric true-ups on many of our deals.
+Again, let's verify the above with what Mike's response is.
+Wade
+=20
+Rogers Herndon@ECT
+05/22/2001 07:43 AM
+Michael -
+Are these changes in the forward volumes (unrealized losses).  Can you explain the reason for these adjustments?  How much more exists that we need to address?
+Thanks,
+Rogers
+20 Million !!!!!!  Is this back money or forward money.  Why did the volumes change so much.
+FYI
+Wade Stubblefield@EES
+05/21/2001 05:35 PM
+FYI
+We have re-priced Suiza, Packaged Ice, and Arch of Chicago with updated volume information from our billing system.  The impact is as follows:
+The impact will be recognized on the DPR and G/L, pending Accounting Department's "green light."
+Thank you.
+,
+MSK
+Tycholiz
+John,
+I've booked flights if the invitation is still there 
+Who should I coordinate with on meeting in San Fran and the associated logistics.?
+Derek
+So are you in or out.
+John,
+Clare is out of town that weekend (yee haw)
+Flights are avaiable to San Fran (cheap, cheap)
+All systems are go....but.....looking at significant Alberta transaction closing on March 12,13, or 14 
+I'll have more info on timing and probability early next week.
+Derek
+Derek
+Your in on Pebble if you want.
+Lavo.
+I'm I still banned from Hockey pools because I always win?
+Hey Chris;
+The property with the party room facing the Gardiner (not Gardener dumb ass)
+has already garnered me offers worth $120,000 more than I paid for my suite,
+which means I could use just my profit portion to purchase the property next
+to yours! I wouldn't live there though, as I have a red Rumplestiltsken like
+acquaintance whose looking to move into a neighborhood where he can "feel
+comfortable." The $200 monthly rent I'd get would come in handy in my
+philanthropic endeavors in helping rid the world of Red Scourge Disease,
+which is deadly when left unchecked and unabated.
+Keep 'em coming pal, you serve them up and we'll keep knockin' them out!
+Take care Red mate.
+Joseph Galea.
+ Gentlemen - season ends Sunday April 8 so I'm guessing playoffs start
+ Tues 10th or Wed 11th.  How about hooking up for the annual (anal)
+ Buzzie Pool XIV???   on either Sunday aft the 8th or Monday eve the 9th.

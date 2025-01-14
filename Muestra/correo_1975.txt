@@ -1,0 +1,1729 @@
+"Patti Young"
+Per my conversation this morning with the lawyer at NYPA, they would like to 
+transact business on a going forward basis under the attached form of what we 
+consider an "ISDA Confirmation" (it seemed to me their lawyer thought this 
+document was a sufficient ISDA Master).  Sara has a call into him to get his 
+thoughts about this document  Per my conversations w/Sara, we would like to 
+get our standard governmental form of ISDA Master in place.  We wonder what 
+your thoughts are on his document.  Further, he seemed quite firm that they 
+would not be issuing a legal opinion, but would give us a certified copy of 
+the resolution I am about to fax to you.   We look forward to getting your 
+comments.
+- CFD1.DOC
+I was a little dismayed after our lunch when you disclosed the number of 
+broadband masters potentially close to signature. However, I was a little 
+cheered up when I got back and checked with the Swap Group and found out we 
+have 13 masters out for signatures right now.  It still may be hard to beat 
+you at your going rate...but, all I have to say is we're still in the 
+game...GO TEAM 
+FYI,
+I will be preparing this assignment for signature.
+Tom Moran
+09/22/2000 02:33 PM
+Tana,
+The following trades that were down predominantly on EOL need to be re-booked 
+from Aquila Energy Marketing Corporation to
+Utilicorp United Inc.
+Let me know if you have any questions.
+,
+tm
+9/20/00
+QO3341.1 438137
+QO3350.1 438148
+QO3483.1 438271
+QO3601.1 438389
+QO3788.1 438605
+9/21/00
+QO4798.1 439512
+QO4802.1 439523
+QO4810.1 439545
+QO4821.1 439592
+QO4826.1 439605
+QO4829.1 439613
+QO6730.1 No EOL number
+On the list for 9/19/00:
+1.  On the counterparty styled "United States Department of Interior" only, 
+Leslie is not permitting them to trade power, however, she will give them 
+read access.
+2.  Public Service Electric & Gas Co. - My notes show I already opened them 
+for financial power
+On the list for 9/21/00:  I am OK for shutting Aquila Energy Marketing 
+Corporation down for financial, since they are now trading financial out of 
+Utilicorp.  However, I didn't want to put "X's" in all those darn boxes, so I 
+hope by my note only it will do the job.  I am also preparing an assignment 
+of the online trades that I will send to the Confirm Desk when it is executed.
+The execution documents were sent over to Duke Energy yesterday.  I spoke to 
+them this morning and they we going to forward the documents internally for 
+signature.  I, or Marie upon her return from vacation, will keep you posted 
+on the progress of execution.
+Cossette.Helene@hydro.qc.ca
+09/22/2000 03:26 PM
+Hi Tana,
+I know that you are expecting to get back to me next Wednesday but our
+traders faced credit issues with Enron today and they asked me to push
+forward the process of getting all agreements in place as soon as. Thus, I
+am sending you a draft of a restated and amended guaranty agreement hoping
+that this will help to speed up the process. I will call you on Monday.
+H,lSne Cossette
+ConseillSre Contrats Commerciaux
+*  (514) 289-6720
+*  514) 289-6722
+*  cossette.helene@hydro.qc.ca
+* A
+75 Ren, L,vesque Boulevard West, 18th floor
+Montr,al, Qu,bec, H2Z 1A4
+- HQ@epmi_$30M.doc
+I have forwarded your email on to Mary Cook, she is actually the attorney 
+working on the transaction.  I am a paralegal.  Her direct number is 
+713/3457732 
+Cossette.Helene@hydro.qc.ca
+09/22/2000 03:26 PM
+Hi Tana,
+I know that you are expecting to get back to me next Wednesday but our
+traders faced credit issues with Enron today and they asked me to push
+forward the process of getting all agreements in place as soon as. Thus, I
+am sending you a draft of a restated and amended guaranty agreement hoping
+that this will help to speed up the process. I will call you on Monday.
+H,lSne Cossette
+ConseillSre Contrats Commerciaux
+*  (514) 289-6720
+*  514) 289-6722
+*  cossette.helene@hydro.qc.ca
+* A
+75 Ren, L,vesque Boulevard West, 18th floor
+Montr,al, Qu,bec, H2Z 1A4
+- HQ@epmi_$30M.doc
+Bradley Diebner
+09/22/2000 04:45 PM
+The EOL approvals for 09/22/00 are attached below.
+,
+bd
+You're welcome.
+Camille Gerard@
+09/22/2000 05:16 PM
+Thanks!!
+Sara Shackleton
+09/22/2000 06:50 PM
+Attached are revised commodity swap confirms.  I didn't change the rate swap 
+and we're still waiting for input from the bank.
+At the request of Sara Shackleton, I am enclosing clean and blacklined drafts 
+of each of the Bow River Trust and Royal Bank of Canada ISDA Schedules.
+Leslie Hansen asked me to forward to you our draft list of Legal contacts for 
+online trading issues, and see if there is anyone you deal with on a regular 
+basis that I may not know of that we need to add to the list 
+I hope you're OK?!   You probably don't remember (especially after getting 
+hit by that polo ball!), but Barclays is one you negotiated on your 
+secondment here oh so many years ago.
+It's always good to hear from you 
+Justin Boyd
+09/25/2000 11:11 AM
+thanks tana!
+j
+ps. i got hit by a polo ball on saturday!
+Matthew Dawson
+25/09/2000 17:04
+Hi tana
+We have recently negotiated and signed an Isda with Barclays Bank ,(ECTRIC 
+being the Enron Entity) which included some additional clauses in the 
+Schedule( regarding Enron online trading) which Barclays want to include in 
+the already existing ISDA  between ENA and Barclays. The details and The 
+suggested Amendment  Agreement are included below. Please could you take a 
+look at this  wording.The clauses are identical to those that we have argeed 
+in the latest Isda.
+Good to speak to you this afternoon and I will let you know how Edmund is 
+doing.
+Matt D 
+Justin Boyd
+25/09/2000 15:53
+matt
+you will need to pass this by tana jones in the US for approval
+j
+Matthew Dawson
+25/09/2000 15:03
+Hi  Justin,
+Just to let you know the Guarantee arrived from Houston this morning. I have 
+sent it on to Leigh. Also she requested that we amend the other Existing ISDA 
+I attatch her proposed amendment agreement. The wording of the clauses is 
+identical to that which was agreed in the ECTRIC  Master that has just been 
+signed, although the numbering of Part 5 (o) differs in the recent Isda with 
+ECTRIC. Barclays cannot trade with ENA until the Isda has been amended.  Are 
+we able to accommodate the   agreement?
+Obviously, you haven't lost your touch!
+Justin Boyd
+09/25/2000 11:35 AM
+...and what a cracker of a document it was!
+j
+I hope you're OK?!   You probably don't remember (especially after getting 
+hit by that polo ball!), but Barclays is one you negotiated on your 
+secondment here oh so many years ago.
+It's always good to hear from you 
+Justin Boyd
+09/25/2000 11:11 AM
+thanks tana!
+j
+ps. i got hit by a polo ball on saturday!
+Matthew Dawson
+25/09/2000 17:04
+Hi tana
+We have recently negotiated and signed an Isda with Barclays Bank ,(ECTRIC 
+being the Enron Entity) which included some additional clauses in the 
+Schedule( regarding Enron online trading) which Barclays want to include in 
+the already existing ISDA  between ENA and Barclays. The details and The 
+suggested Amendment  Agreement are included below. Please could you take a 
+look at this  wording.The clauses are identical to those that we have argeed 
+in the latest Isda.
+Good to speak to you this afternoon and I will let you know how Edmund is 
+doing.
+Matt D 
+Justin Boyd
+25/09/2000 15:53
+matt
+you will need to pass this by tana jones in the US for approval
+j
+Matthew Dawson
+25/09/2000 15:03
+Hi  Justin,
+Just to let you know the Guarantee arrived from Houston this morning. I have 
+sent it on to Leigh. Also she requested that we amend the other Existing ISDA 
+I attatch her proposed amendment agreement. The wording of the clauses is 
+identical to that which was agreed in the ECTRIC  Master that has just been 
+signed, although the numbering of Part 5 (o) differs in the recent Isda with 
+ECTRIC. Barclays cannot trade with ENA until the Isda has been amended.  Are 
+we able to accommodate the   agreement?
+Just a note to let you know that per my conversation with Tanya, after review 
+by Brent, today I will be sending out am amendment to BMO allowing for the 
+provision of Cash as Eligible Collateral under the ISDA.  When we get this in 
+signed I will send my usual email out to the world explaining this amendment, 
+but you may want to think about what procedures you will need to put in place 
+to make sure this happens EVERY time we take collateral in (not to mention, 
+we will also have to pay Canadian counsel to file releases as well , and this 
+will cost us money too!  We don't want to have to do this too often Anything you want to tell me before I send this out today?!
+Ask and you shall receive 
+Yes, except for weather, the financial GTC's are designed to cover all energy 
+commodities.
+Dianne Seib
+09/25/2000 03:34 PM
+Tana,
+Enron Canada Corp. will be offering a Canadian power financial swap on EOL 
+within the next couple of weeks.  Can you confirm that the current EOL 
+financial GTC is sufficient for power trades.
+Thanks!
+Dianne
+Per a conv. I just had with John Arnold, Shankman is not trading natural gas 
+at all.  His back trade is Mike Maggi.
+Bradley Diebner
+09/25/2000 04:05 PM
+The EOL approvals for 09/25/00 are attached below.
+,
+bd
+We have received the executed Letter Agreement dated August 23, 2000 amending 
+the Electronic Trading Agreement with the referenced counterparty.  Copies 
+will be distributed to Frank Davis and to Peter Keohane for the Enron Canada 
+Talisman file. 
+Per our conversation, attached is the proposed form of amendment to the ISDA 
+Master to provide for cash collateral under the Credit Support Annex.  Please 
+call me at 713/853-3399 or Tanya Rohauer in our Credit Department at 
+713/853-3263 if you have any comments or questions.
+Per our conversation, the above counterparty is approved by Legal to trade 
+online physical pulp & paper only.  We cannot trade financial until Credit 
+receives financial statements and can determine whether they are an eligible 
+swap participant or not.
+Chris,
+Per our conversation, I am attaching  a sample form of ISDA for both a 
+Canadian corporate and a Canadian governmental.  With the governmental, the 
+proposed form of legal opinion attached to the ISDA Schedule would have to be 
+modified depending on your particular situtation (see footnotes in opinion As I also mentioned, we are making some revisions to the guaranty we are 
+getting from Hydro-Quebec in response to comments from counsel, and we may 
+want to make some of the same changes to guarantees we receive from any 
+governmental guarantor.  If you end up having a governmental guarantor, let 
+me know and I'll send you down the revisions.
+By copy of this email to Joe Hunter on the Confirmation Desk, I am asking him 
+to email you copies of the form of Omnibus Confirmation and Annex A thereto 
+for an ECC/Canadian Counterparty Deal.  I have to say that if you end up 
+transacting with a governmental entity, our form of confirmation will not 
+include the reps and warranties required to transact with such 
+counterparties, since we never trade financial with governmentals prior to 
+execution of a master.  If you go down that road we may have to come up with 
+some kind of form, but the best route is to get the ISDA in place first.
+The bottom of this email will explain my email to Gaffer.
+Chris Gaffney
+09/26/2000 01:25 PM
+Tana - I am going to need the materials referred to in Greg's emails very 
+soon.  Is there a problem?  If so let me know, if not, please sent the 
+documents.
+Did you contact Steve Ashbourne at Blakes in Toronto?
+CJG
+ps. How is your new pad working out?
+Greg Johnston
+09/12/2000 04:23 PM
+Tana, I know we exchanged a couple of e-mails since the below about you 
+providing to me the Canadian financial trading precedents described below, 
+but I forget where it was left.  We do need to get these precedents to the 
+counterparty as soon as possible and I apologize for not following up on it As suggested, I need the actual base ISDA agreement, paragraph 13, credit 
+support annex, etc. as well as the short form financial GTC but I do not need 
+the municipal government schedule at this point.  Could you gather together 
+these precedents and forward them directly to Chris Gaffney in Toronto?
+Let me know if you need anything else from me.
+Cheers
+Greg
+Greg Johnston
+06/20/2000 01:41 PM
+Tana, Enron Canada is currently negotiating a transaction with 6 major 
+municipalities in Ontario (the "G6") to provide various services to a company 
+those 6 entities are setting up, which services will include physical and 
+financial trading (both gas and electricity).  John Suttle is working with 
+Jan Wilson of our Toronto office to set the credit terms applicable to this 
+entity on both the physical and financial trading side, but they have not yet 
+made a final determination.  In the interim, the G6 has requested that we 
+send them a copy of our precedent form of master financial trading agreement 
+(both the ISDA and our short form financial GTC).  I assume you get requests 
+like this all the time and was hoping that you could e-mail to me (i) the 
+ISDA, credit support annex, Paragraph 13, etc. that we would typically put in 
+place between ECC and a Canadian counterparty to financially trade gas and 
+electricity in Canada (ie. incorporating the Canadian provisions), leaving 
+the credit terms blank for the time being and (ii) the financial GTC we use 
+for Canadian counterparties.
+Call me if you have any questions or if there are any problems with preparing 
+and forwarding these documents to the counterparty.
+Thanks
+Greg
+Thanks Joe, you're the best!
+Larry Joe Hunter
+09/26/2000 03:34 PM
+Requested form of GTC Confirmations attached:
+Chris,
+Per our conversation, I am attaching  a sample form of ISDA for both a 
+Canadian corporate and a Canadian governmental.  With the governmental, the 
+proposed form of legal opinion attached to the ISDA Schedule would have to be 
+modified depending on your particular situtation (see footnotes in opinion As I also mentioned, we are making some revisions to the guaranty we are 
+getting from Hydro-Quebec in response to comments from counsel, and we may 
+want to make some of the same changes to guarantees we receive from any 
+governmental guarantor.  If you end up having a governmental guarantor, let 
+me know and I'll send you down the revisions.
+By copy of this email to Joe Hunter on the Confirmation Desk, I am asking him 
+to email you copies of the form of Omnibus Confirmation and Annex A thereto 
+for an ECC/Canadian Counterparty Deal.  I have to say that if you end up 
+transacting with a governmental entity, our form of confirmation will not 
+include the reps and warranties required to transact with such 
+counterparties, since we never trade financial with governmentals prior to 
+execution of a master.  If you go down that road we may have to come up with 
+some kind of form, but the best route is to get the ISDA in place first.
+I'm sad (sniff...sniff...sniff 	Stephanie Sever
+09/26/2000 04:01 PM
+Please add Lisa Lees to the distribution list for the EOL Profiles and remove 
+Frank Davis.  Let me know if you have any questions.
+Thanks,
+Stephanie
+Julian,
+The "Confirmation" will be the actual written Confirmation, which confirms in 
+writing the terms of the deal agreed to on the phone.  I don't know if what 
+they're looking for is a form of Confirmation (not deal specific) of what a 
+Confirmation might look like if they did a trade, or if you actually have 
+done or are proposing a particular trade and need to see the Confirmation 
+filled in with the proposed deal terms.  I left Roni Cappadonna with Duke a 
+voicemail asking her which specifically she was looking for.  As soon as I 
+hear from her I'll get her what she needs.  If you have any more questions, 
+email me back, or call.  I'm at your service!
+Bradley Diebner
+09/26/2000 04:15 PM
+The EOL approvals for 09/26/00 are attached below.
+,
+bd
+Russell,
+I spoke  to the cpy about this, and what it turned out he wanted was the 
+Local Currency ISDA form.  I gave that redraft to Mary to sign off on the 
+same day I wrote that note, but she's been too busy to look at it, and the 
+file is now MIA from her office.  I'll check with her tomorrow and she what 
+she did with it.
+Russell Diamond
+09/26/2000 05:53 PM
+Samantha,
+Tana,
+I have attached an amended credit worksheet for the referenced counterparty This amended worksheet includes a Guaranty from its parent company of $5MM, 
+thus increasing the collateral threshold to $5MM, and amending other credit 
+covenants.
+Per the Legal Comment in the Master Swap Lotus Notes Database, Tana received 
+a call from the counterparty requesting a 'less complicated' agreement.  In 
+the comment, Tana suggested using an Industrial Master, if this agreement is 
+OK from a Legal standpoint, I am OK using the Industrial from a Credit 
+standpoint 
+Please draft this amended credit worksheet to an amended Industrial Master 
+Thank you,
+Russell
+I would like to take the week of Thanksgiving off.  My mom is coming from NY 
+to visit with my 10 year old niece.
+Susan Bailey
+09/27/2000 08:57 AM
+Tana,
+I plan to take Wednesday, November 22 and Monday, November 27th off during 
+the Thanksgiving holiday.  My parents are coming in from Pennsylvania for 
+Thanksgiving.
+Susan S. Bailey
+It appears that we have now opened up our first Japan based financial product 
+on EnronOnline, and I need to get some direction from you as to what 
+restrictions, if any, we have on (1) counterparties located/incorporated in 
+Japan trading Japan based financial products, and (2) counterparties not 
+located in Japan trading Japan based financial products.
+Previously, the only Japanese financial product we had was weather, but it 
+wasn't being sold by a Japan based Enron company, so my understanding was 
+that I didn't have any particular restrictions under Japanese law for 
+counterparties located in or outside Japan in trading this product.  Now that 
+the product is being sold by a Japan based company I am wondering was 
+restrictions I might have to keep in mind when doing my daily online 
+approvals.
+The only are Japan based direction I am getting is from the Broadband legal 
+team (Robbi Rossi) which have told me Japanese counterparties can only trade 
+US bandwidth segments.
+P.S. we do have a Japanese counterparty on the 9/26/00 list.
+Thanks, I appreciate it!  What should I do with the Japanese counterparty on 
+the 9/26/00 list?  Shut them down for all trading on Japan based products 
+until I hear from you?  Will you be coming to the Legal Conference here in 
+Houston next week?  Maybe we could chat then?!
+Jane McBride@
+09/27/2000 09:46 AM
+Dear Tana,
+Am hoping to get something to you by end Friday.
+Jane McBride
+Tana Jones@ECT
+09/27/2000 11:37 PM
+It appears that we have now opened up our first Japan based financial product 
+on EnronOnline, and I need to get some direction from you as to what 
+restrictions, if any, we have on (1) counterparties located/incorporated in 
+Japan trading Japan based financial products, and (2) counterparties not 
+located in Japan trading Japan based financial products.
+Previously, the only Japanese financial product we had was weather, but it 
+wasn't being sold by a Japan based Enron company, so my understanding was 
+that I didn't have any particular restrictions under Japanese law for 
+counterparties located in or outside Japan in trading this product.  Now that 
+the product is being sold by a Japan based company I am wondering was 
+restrictions I might have to keep in mind when doing my daily online 
+approvals.
+The only are Japan based direction I am getting is from the Broadband legal 
+team (Robbi Rossi) which have told me Japanese counterparties can only trade 
+US bandwidth segments.
+P.S. we do have a Japanese counterparty on the 9/26/00 list.
+FYI,
+I have a database where I keep track of my online approvals/declines and 
+reasons why (if there are any!).  I don't know to what extent Frank ever 
+looked at it, but you might find it helpful.  It is called "ENA Legal Online 
+Trading Agreements" database.  If you're interested, I'll ask Mike Neves to 
+get you access.
+As a reminder,
+We need to talk about some documentation Marcus Nettleton passed on to me for 
+handling.  It's about the disclosure of the MG acquisition, some 
+subordination loans & guarantees w/the NYMEX.  I asked Al Pennisi if it could 
+wait until you got back and he said yes.
+Mike,
+Can you take care of this and let us know when Lisa has access.  Thanks.
+Lisa Lees
+09/27/2000 12:36 PM
+Yes, I would like to have access.  Please ask Mike to email me once he's 
+given me access.
+Thank you.
+FYI,
+I have a database where I keep track of my online approvals/declines and 
+reasons why (if there are any!).  I don't know to what extent Frank ever 
+looked at it, but you might find it helpful.  It is called "ENA Legal Online 
+Trading Agreements" database.  If you're interested, I'll ask Mike Neves to 
+get you access.
+We have received the executed Letter Agreement dated 9/12/00 which amends the 
+ETA to provide that Ameren Energy, Inc. can act as authorized agent for and 
+on behalf of the following entities ("Operating Companies") under such ETA:
+1.  Union Electric Company (d/b/a Ameren UE)
+2.  Ameren Energy Generating Company
+3.  Ameren Energy Marketing Company
+The amendment to the ETA makes additional changes with respect to the agency 
+relationship between Ameren Energy, Inc. and the Operating Companies.
+In connection with such amendment to the ETA we have also received:
+1.  The originally executed Password Application 
+2.  Consent and Acknowledgement executed by the Operating Companies with 
+respect to such agency relationship
+Copies will be distributed.
+Following up on our conversation re: a visit to Santa Fe when you come to 
+Houston, check out the Website for The Bishop's Lodge in Santa Fe 
+(www.bishopslodge.com).   Some friends of mine bought a weekend there at a 
+silent auction at a charity event recently and their brochure looked great The website has pictures, prices, activities at the resort, and a hyperlink 
+to the Website for the Santa Fe Chamber of Commerce which lists the 
+activities going on in Santa Fe.  I think you are going to be too late for 
+their summer opera series, but I took a look and there appears to be other 
+fun things going on.  The website for the lodge shows a fabulous looking 
+pool, horseback riding and shooting.  Take a look.
+As some of you may be aware, there have been substantial revisions to the 
+U.S. Tax Code which will require revising the tax language in our swap 
+agreements.  I will be providing Steve Douglas in the Tax Dept. copies of the 
+current tax language in our swap agreements and will coordinate with him 
+revisions to the forms.  I'll keep you posted when the changes occur.
+Is anyone working on a confirmation for the Argentina office for a swap 
+between ECT and Duke Energy International out of Argentina, Don Black would 
+be the business person on this.  If you know, I need to get the draft faxed 
+ASAP to Duke here in Houston.
+Yes.
+Michael Neves
+09/27/2000 01:22 PM
+read only access?
+Mike,
+Can you take care of this and let us know when Lisa has access.  Thanks.
+Lisa Lees
+09/27/2000 12:36 PM
+Yes, I would like to have access.  Please ask Mike to email me once he's 
+given me access.
+Thank you.
+FYI,
+I have a database where I keep track of my online approvals/declines and 
+reasons why (if there are any!).  I don't know to what extent Frank ever 
+looked at it, but you might find it helpful.  It is called "ENA Legal Online 
+Trading Agreements" database.  If you're interested, I'll ask Mike Neves to 
+get you access.
+Bradley Diebner
+09/27/2000 04:35 PM
+The EOL approvals for 09/27/00 are attached below.
+,
+bd
+At the request of Sara Shackleton, I am enclosing drafts of the following 
+documents:
+1.  Clean and blacklined copies of the ISDA Schedule showing revisions from 
+the 9/22/00 draft.  Please note that RBC needs to complete the notice 
+information.
+2.  Copies of the Interest Rate and Commodity Confirmations.  Please note 
+that certain dates, rates and pricing need to be determined early tomorrow 
+Please call me or Sara with any questions or comments with respect to the 
+enclosed.
+At the request of Sara Shackleton, I am enclosing drafts of the following 
+documents:
+1.  A draft of the ISDA Schedule .
+2.  Copies of the Interest Rate and Commodity Confirmations.  Please note 
+that certain dates, rates and pricing need to be determined early tomorrow 
+Please call me or Sara with any questions or comments with respect to the 
+enclosed.
+Attached are (1) the RMT Confirms and (2) the Incumbency Certificates 
+required to be executed under the ISDA.
+Attached please the proposed forms of Confirmation with respect to the 
+referenced transaction.  Please call me or Sara Shackleton if you have any 
+comments or questions.
+I have some appointments outside the office this afternoon and will need to 
+leave early today.
+I don't know why I am on these emails?
+Wilma Low
+09/28/2000 04:26 AM
+As discussed, please would you clarify the temporary purchasing procedures 
+you're recommending for Enron Metals while we wait for the new 'E-buy' system 
+to be rolled-out on October 9.
+Pls would you send confirmation to the cc list above as a matter of urgency.
+Many thanks,
+Wilma
+Director, IT Support
+x 37275
+Mobile 07771 887413
+Tom Moran
+09/27/2000 05:59 PM
+The Clickpaper approvals for 9/27/00 are attached below.
+,
+tm 
+Frank L Davis
+09/27/2000 03:18 PM
+I receive these emails from several different people within legal.  I'm not 
+sure who we need to talk to in order to get you on the distribution list possibly Tana 
+fld
+Samantha Boyd@
+09/27/2000 01:11 PM
+We have received and executed Master Agreement:
+Type of Contract:  ISDA Master Agreement (Multicurrency-Cross Border)
+Effective Date:   May 11, 2000
+Counterparty:   Small Ventures USA, LLC
+Transactions Covered:  Approved for all products with the exception of: Pulp 
+& Paper
+Foreign Exchange
+Sasha Beard
+07/30/99 06:58 AM
+Dear All
+This is just a quick note to let you know that I will be leaving Enron next 
+Friday to return to New Zealand in order to enjoy an extra summer and to 
+study a bit more law.
+I'll be around until Friday 6th August should you have anything specific you 
+would like me to deal with, but Michael Slade will now be dealing with all of 
+my files. Michael has joined us from Covington & Burling and can be contacted 
+on 0171 970 7433 or at mslade@.co.uk.
+Thanks to all of you for your assistance and advice over the past few years, 
+it has been a pleasure working with you.
+Kindest Sasha
+Per an email from Soma yesterday, Brian Hull wanted to transact out of their 
+Toronto Branch, so I used their Toronto address in the agreement.  We do not 
+have "transactions numbers" on our ISDA's.  I would take it if things proceed 
+today, that we will date the agreement as of today, so the date of the 
+agreement will be the only identifying information.  Toronto-Dominion will 
+need to look at the notice information I put in the agreement and confirm 
+that it is acceptable.  I pulled it from a recent agreeement they sent us.
+Greg Johnston
+09/28/2000 09:29 AM
+Sara/Tana, do you know the answers to Kevin's questions below?  If so, could 
+you e-mail the particulars to him as soon as possible.
+Thanks
+Greg
+As per my voicemail, attached are the officer's certificates we will require.
+Do you know what address TD Bank will be using on the ISDAs?  (presumably 
+their Calgary Main Branch)  also, are there transaction numbers for each of 
+the ISDAs yet so that we can fill in the blanks on the certificate and 
+opinions (RE ISDA Agreement Master No 
+Thanks
+Kevin
+Kevin A. Fougere
+Blake, Cassels & Graydon LLP
+Suite 3500, Bankers Hall East
+Calgary, AB  T2P 4J8
+Tel: (403) 260-9646
+Fax: (403) 260-9700
+e-mail: kevin.fougere@blakes.com
+This e-mail communication is confidential and legally privileged.  If you are 
+not the intended recipient, please notify me at the telephone number shown 
+above or by return e-mail and delete this communication and any copy 
+immediately.  Thank you.
+- BowRiver.DOC
+- RBC-ISDA.DOC
+Tana Jones
+09/27/2000 07:11 PM
+Attached please the proposed forms of Confirmation with respect to the 
+referenced transaction.  Please call me or Sara Shackleton if you have any 
+comments or questions.
+Can you change Peter's name, I had it wrong, it's "Peter C.M. Keohane Thanks!
+carrd2@tdcibg.com
+09/28/2000 09:21 AM
+Tana/Sara - Could one of you please call me at (416) 983-9473 to discuss the
+ISDA Schedule?  I don't have your numbers.  Thanks, Dan.
+Tana.Jones@ on 09/27/2000 07:58:32 PM
+At the request of Sara Shackleton, I am enclosing drafts of the following
+documents:
+1.  A draft of the ISDA Schedule .
+2.  Copies of the Interest Rate and Commodity Confirmations.  Please note
+that certain dates, rates and pricing need to be determined early tomorrow.
+Please call me or Sara with any questions or comments with respect to the
+enclosed.
+(See attached file: ECCRBCnymex2.doc)    (See attached file:
+ECCTDBrate.doc)     (See attached file: 796ctr (Toronto Dominion).doc)
+- ECCRBCnymex2.doc
+- ECCTDBrate.doc
+- 796ctr (Toronto Dominion).doc
+Tom Moran
+09/28/2000 11:22 AM
+The Clickpaper approvals for 9/28/00 are attached below.
+,
+tm 
+carrd2@tdcibg.com
+09/28/2000 01:04 PM
+Alberta law is OK.
+Dan Carr
+09/28/2000 01:48 PM
+Attached please find the revised draft Schedule.
+(See attached file: Enroncan.doc)
+,
+Dan Carr
+- Enroncan.doc
+carrd2@tdcibg.com
+09/28/2000 12:48 PM
+Attached please find the revised draft Schedule.
+(See attached file: Enroncan.doc)
+,
+Dan Carr
+- Enroncan.doc
+carrd2@tdcibg.com
+09/28/2000 01:04 PM
+Alberta law is OK.
+Dan Carr
+09/28/2000 01:48 PM
+Attached please find the revised draft Schedule.
+(See attached file: Enroncan.doc)
+,
+Dan Carr
+- Enroncan.doc
+carrd2@tdcibg.com
+09/28/2000 12:48 PM
+Attached please find the revised draft Schedule.
+(See attached file: Enroncan.doc)
+,
+Dan Carr
+- Enroncan.doc
+Please find attached a clean and blacklined draft of the revised ISDA Master.
+Bradley Diebner
+09/28/2000 03:32 PM
+The EOL approvals for 09/28/00 are attached below.
+,
+bd
+So far as much as I've been able to track, the Houston Confirmation Desk does 
+not know about this Duke Confirm yet.  Don, can you contact Dale Neuner on 
+the Confirmation Desk ASAP with the proposed deal terms so he can prepare the 
+Confirm and get it sent over to Duke.  Thanks!
+Tana, do you know what's the "Confirmation Letter" Duke is talking about in 
+the e-mail below? They are requesting us to send it to them.
+Julian
+Federico Cerisoli
+19/08/99 19:43
+Good!  I hope this is the first of a number of transactions we enter into 
+together.   Please have your people sending the ISDA back to our lawyers in 
+Houston with Duke's signature so we then complete the loop.
+Julian, would you please co-ordinate asap with our Houston staff to have them 
+sending the confirmation to Roni at the fax number below?  Thanks.
+We are in receipt of the ISDA agreement, partially executed by ECT.
+We would like for ECT to send the confirmation letter to Roni Cappadonna in 
+Houston, at 713-627-4778.  The fax number is 713-627-6524.
+Per,
+What's the deal he's talking about?  I also do not think we could put ENA and 
+Enron Metals Ltd. trades under the same master.  When you have a mingute give 
+me a ring.
+Tana
+Craig Young
+09/29/2000 07:16 AM
+Name Catequil
+MD  Paul Touradji (X Tiger)
+We were advised that a swap document is in the works through Per Sekse Enron 
+New York. We would like this document to cover all products and Enron Metals 
+Ltd. ---not just North America.
+My guess--- we trade with most of Per Sekse funds and this issue should be 
+clarified 
+Craig
+Please call Morris Clark or Steve Douglas.
+Jeff hasn't left the group, has he?
+Larry Joe Hunter
+09/29/2000 08:47 AM
+To all,
+Please remove Jeff Sorenson from your distribution lists for the 
+Confirmations group.  Please send all Master Agreements, Amendments, and all 
+else directly to me @ EB3094A.
+Thanks,
+Joe Hunter
+Attached is a clean and blacklined draft of the Schedule reflecting your 
+insert.  I think it is our intention to just insert the revised page into the 
+agreement.
+"Ross, Tracy "  	09/29/2000 08:12 AM
+Attached is the language that is necessary to make sure the CSA is one way As it now stands, it is still a 2 way CSA. 
+Tracy Ross, Counsel, Royal Bank of Canada
+Phone: 416-974-5503; Fax: 416-974-2217
+File 
+This email may be privileged and confidential Any dissemination or use of this information by a person other than the 
+intended recipient(s) is unauthorized.? If you receive this in error, please 
+advise me immediately.
+- CSA Rider.doc
+Larry Joe Hunter
+09/29/2000 08:50 AM
+He has.  He now works with EGM.
+joe
+Jeff hasn't left the group, has he?
+Larry Joe Hunter
+09/29/2000 08:47 AM
+To all,
+Please remove Jeff Sorenson from your distribution lists for the 
+Confirmations group.  Please send all Master Agreements, Amendments, and all 
+else directly to me @ EB3094A.
+Thanks,
+Joe Hunter
+"Ross, Tracy "  	09/29/2000 08:15 AM
+Attached is the interest rate swap for those of you who did not receive it or 
+could not read it last night. 
+Tracy Ross, Counsel, Royal Bank of Canada
+Phone: 416-974-5503; Fax: 416-974-2217
+File 
+This email may be privileged and confidential Any dissemination or use of this information by a person other than the 
+intended recipient(s) is unauthorized.? If you receive this in error, please 
+advise me immediately.
+- interest rate confirm.doc
+Here is the interest rate we are going to mirror to create for Toronto 
+Dominion.
+"Ross, Tracy "  	09/29/2000 08:15 AM
+Attached is the interest rate swap for those of you who did not receive it or 
+could not read it last night. 
+Tracy Ross, Counsel, Royal Bank of Canada
+Phone: 416-974-5503; Fax: 416-974-2217
+File 
+This email may be privileged and confidential Any dissemination or use of this information by a person other than the 
+intended recipient(s) is unauthorized.? If you receive this in error, please 
+advise me immediately.
+- interest rate confirm.doc
+"Ross, Tracy "  	09/29/2000 10:10 AM
+Attached is the revised optional termination language for all the confirms. 
+Tracy Ross, Counsel, Royal Bank of Canada
+Phone: 416-974-5503; Fax: 416-974-2217
+File 
+This email may be privileged and confidential Any dissemination or use of this information by a person other than the 
+intended recipient(s) is unauthorized.? If you receive this in error, please 
+advise me immediately.
+- early termination2.doc
+NYPA called today wanting to know the status of our review.  Can we pow wow 
+about this 1st thing Monday 
+Bradley Diebner
+09/29/2000 03:06 PM
+The EOL approvals for 09/29/00 are attached below.
+,
+bd
+Mike, have you been able to figure out how to get Brent Hendry, who is now in 
+Buenos Aires, access to our Master Swap Agreement database?  Can you let me 
+know.  I'm getting bugged about this.
+I do not know the answer to your question.  I suggest you talk to Credit Financial does indeed have a master with Weyerhaueser Company Limited.  I 
+have no idea what we trade physical under or what other Weyerhaueser  
+companies we may have business with.
+Bridgette Anderson@
+09/29/2000 06:37 PM
+Karen et al.,
+To begin with, I contacted Legal (Tana Jones) in reference to Weyerhaeuser 
+Company listed on the Clickpaper Credit Response 090700, and left her a 
+voicemail message since she was not available.  She has not yet responded.
+Since then, I have been in contact with Global Counterparty and they have 
+advised me that the CP#11319 Weyerhaeuser Company (the CP reported on 
+Clickpaper 090700) is the parent to CP#81012 Weyerhaeuser Company Limited 
+(the CP that we currently have an executed contract 
+Based on similar issues in the past, and supported by Mary Solomonson's 
+agreement with the Legal department, the Global Contracts group will not 
+provide a response until Legal clarifies the issue.  Accordingly, we will not 
+include the current Global Contract number given to CP#81012 Weyerhaeuser 
+Company Limited unless and until Legal approves the contract for Weyerhaeuser 
+Company.
+,
+Bridgette
+I am just confirming with each of you that I will be opening up The Toa 
+Reinsurance Company Limited, a Japanese counterparty on the 9/26/00 list to 
+trade all physical and financial products, including Australian and Japanese 
+weather, which seems to be the products they are truly interested in 
+trading.  Let me know if you have any problems with that immediately.
+I sent down the list for 9/27/00 on Friday.  On the 9/26/00 list, for Edison 
+Mission Marketing & Trade, I am showing them as "amended-no change" becuase I 
+already had them open for emissions.  Same on FPL Energy Power Marketing, I 
+am showing them as "amended-no change" because I already had them opened for 
+physical gas.
+I confirmed w/Brad that they are still an ESP, so it's OK to open them up for 
+all financial.
+Lisa Lees
+10/02/2000 03:42 PM
+Bradley Diebner
+10/02/2000 03:38 PM
+Lisa,
+Here are the products Xeron wants to trade
+US Nat gas fin swap, US nat gas FOB phy fwd, US Normal Butane Fin, US Normal 
+Butane FOB fwd,  US propane fin, and US propane phy, US purity ethane fin, US 
+purity ethane phy fwd.
+Thanks,
+Brad
+Bradley Diebner
+10/02/2000 04:29 PM
+The EOL approvals for 10/02/00 are attached below.
+,
+bd
+What's the scoop on this?
+Camille Gerard@
+10/03/2000 09:23 AM
+Tana, I have a second user applying for this company.  I show them as not 
+open for trade - is this still correct? Not really urgent Thanks,
+Camille
+Will do, I'll send you a copy too.  I'm just waiting to get Sara's direction 
+on one comment to the Legal Opinion, then I'll be ready to send it out.
+Janelle Scheuer
+10/03/2000 09:57 AM
+Hi Tana....When you email the comments to Bill, ca you please email them to 
+my contact as well.....Carey.M@NYPA.gov
+.....thanks!
+As you all are probably aware, we trade physical and financial products with 
+Northern Illinois Gas Company under each of the following names:
+1  Northern Illinois Gas Company (the legal incorporated entity)
+2.  Nicor Gas Company (an assumed name for Northern Illinois Gas Company as 
+reflected in the Assumed Name Certificate dated 12/15/99 filed with the 
+Secretary of State of Illinois.  The name needs to match the Assumed Name 
+Certificate, no "Co 3.  Northern Illinois Gas Company d/b/a Nicor Gas Company
+The EnronOnline counterparty has been set up as "Nicor Gas Company".
+Pursuant to Bob Bruce's conversation with our Illinois outside counsel, we 
+are comfortable transacting business in the State of Illinois under the 
+assumed name "Nicor Gas Company".  In connection therewith, it is OK to set 
+up the online entity as "Nicor Gas Company", and attach the relevant physical 
+or financial products to the relevant master under each of the above 
+counterparty names.  Further, it will be OK if the confirmations go out as 
+"Nicor Gas Company" even though the masters may be under one of the above 
+names.
+PLEASE NOTE, HOWEVER, this should be considered an exception to the rule.  We 
+do not want counterparties to be set up under assumed names, d/b/a's or 
+divisions for EnronOnline.  As previously agreed with the Online team, every 
+attempt should be made to incorporate the legal name as part of the 
+counterparty name (such as "Northern Illinois Gas Company d/b/a Nicor Gas 
+Company" or "Koch Industries, Inc. acting through its Koch Hydrocarbon 
+Company Division").   Any exceptions to this should be run by Legal for 
+approval.
+Did you make a note under H.Q. Energy Services in Lotus Notes 
+Mary Cook
+10/03/2000 01:58 PM
+I was able to get an agreement with HQ counsel that they would complete their 
+review by early next week, at which time I will conf call them with our 
+Quebec counsel and work to resolve outstanding issues.  Thank you for your 
+patience in respect of this unusual counterparty.  Mary
+No can do...just made appt. to go to lunch with CSS.  However, he cancels on 
+me half the time, so if he cancels again I'd love to go 
+Mary Cook
+10/03/2000 03:08 PM
+Birthday tomorrow.  Can you come to dong ting to celebrate at lunch?  Let me 
+know and I will make the reservations at 12 noon.
+August 30 is fine for lunch.
+At the request of Sara Shackleton, Senior Counsel, I am attaching a copy of 
+our proposed form of Schedule to the ISDA Master Agreement and proposed form 
+of counterparty legal opinion.  If you have any questions, please call Sara 
+at (713) 853-5620 or me at (713) 853-3399.  We look forward to getting your 
+comments.
+We have received a revised Unanimous Consent of Directors dated 8/28/00 
+("Board Resolution") from the referenced Counterparty which expands the 
+approval given in their initial Board Resolution (provided when we executed 
+the ISDA Master Agreement) to allow them to enter into "pulp, lumber and 
+paper commodity price swap and options, and other commodity price swap and 
+option transactions"  with ENA.
+For ClickPaper, this should allow them to trade all the financial products we 
+trade.  For EnronOnline, this should allow them to trade all commodity swaps 
+and options.  If Credit will add this to the next spreadsheets for both 
+ClickPaper and EnronOnline, I will amend my approval.
+I will circulate a copy of the revised Board Resolution to Global Contracts 
+and Camille Gerard.
+Pretty funny!  I went over to harass him, but he must be on vacation!
+Marie Heard@MUNICATIONS
+10/03/2000 03:32 PM
+See Mark's e-mail below.  Wow, this is what I call vacation time!  I'm going 
+to work in the London office.
+Marie Heard
+Senior Legal Specialist
+Enron Broadband Services
+Phone:  (713) 853-3907
+Fax:  (713) 646-8537
+Marie_Heard@.net
+Mark Elliott@ECT
+10/03/00 03:20 PM
+I will be out of the office from 02/10/2000 until 09/10/2000.
+In my absence, please contact my PA, Nicola Beales, if you require further 
+assistance.
+fyi,
+=09exchangeinfo@nymex.com
+=0910/03/2000 05:43 PM
+=09=09=20
+Notice No. 00-337
+September 29, 2000
+Re: Selection of Kiodex as enymexSM system provider
+The Exchange and Kiodex Inc., an application service provider of=20
+risk-management solutions for the commodity markets, have agreed on terms to=20
+use the Kiodex Trade Engine as the order-matching system for enymexsm, the=20
+Exchange=01,s e-commerce venture that is intended to become the premier, global=20
+exchange for trading and clearing a wide range of standardized physical=20
+commodity contracts, with an initial focus in the energy and metals markets.
+The Exchange and Kiodex have further agreed to co-market Kiodex=01,s companion=20
+product, the Kiodex Risk Workbench, which will be highly compatible with the=20
+Kiodex Trade Engine on enymexsm.  The Kiodex Risk Workbench will provide=20
+state-of-the-art portfolio management and risk analytics to its customers.
+The Kiodex Trade Engine is an automated, scalable, fault-tolerant=20
+order-matching system that will enable customers to enter orders for cash and=20
+derivative commodity products and receive executions and confirmations.
+enymexsm, which will be launched early in 2001, will provide a global=20
+one-stop shop for commodity risk management, providing a neutral=20
+internet-based trading and clearing platform for energy and metals products=20
+that were previously limited to over-the-counter markets where participants=20
+are exposed to counterparty credit risk. The Exchange plans to use its proven=20
+clearing infrastructure to introduce complete counter-party risk management,=20
+and create net margining with Exchange futures markets by calculating a=20
+consolidated clearing position.  Subsequent enymexsm functionality will also=20
+provide an internet-based interface to the established Exchange futures=20
+market by routing futures orders to the trading floor and the NYMEX ACCESSc=20
+electronic trading system, depending on the session.
+Kiodex builds trading and risk-management technology and solutions for=20
+internet-based commodity markets. Kiodex was created to increase the safety,=20
+fairness, transparency, and liquidity of commodity markets. By embedding=20
+Kiodex=01,s technology in traditional and emergent commodity exchanges, portals,=20
+and web sites, the Company enables users to trade fairly and encourages the=20
+proper management of financial products that mitigate risk. Its home page is=20
+www.kiodex.com.
+__________________________________________________
+Bradley Diebner
+10/03/2000 05:00 PM
+The EOL approvals for 10/03/00 are attached below.
+,
+bd
+Tom Moran
+10/03/2000 06:10 PM
+The Clickpaper approvals for 10/3/00 are attached below.
+,
+tm 
+The Mounties have arrived!
+Stacey Richardson
+10/04/2000 03:57 PM
+Thanks for the update!  I hope things are getting better for you since you're 
+getting more people to help with financials.
+We have received a revised Unanimous Consent of Directors dated 8/28/00 
+("Board Resolution") from the referenced Counterparty which expands the 
+approval given in their initial Board Resolution (provided when we executed 
+the ISDA Master Agreement) to allow them to enter into "pulp, lumber and 
+paper commodity price swap and options, and other commodity price swap and 
+option transactions"  with ENA.
+For ClickPaper, this should allow them to trade all the financial products we 
+trade.  For EnronOnline, this should allow them to trade all commodity swaps 
+and options.  If Credit will add this to the next spreadsheets for both 
+ClickPaper and EnronOnline, I will amend my approval.
+I will circulate a copy of the revised Board Resolution to Global Contracts 
+and Camille Gerard.
+When you have a minute can we talk about this...thanks!
+Alan Aronowitz
+10/04/2000 09:05 AM
+Please remove me from the Clickpaper.com approval list, and replace me with 
+Julia Murray or her designee.
+Thanks
+Tana Jones
+10/04/2000 08:57 AM
+Tom Moran
+10/03/2000 06:10 PM
+The Clickpaper approvals for 10/3/00 are attached below.
+,
+tm 
+Attached is revised list opening Edison Mission Marketing & Trade for 
+emissions.
+Bradley Diebner
+10/04/2000 04:45 PM
+The EOL approvals for 10/04/00 are attached below.
+,
+bd
+Tobin,
+You don't need to keep Taffy on the list about our volume positions.  She is 
+mine and Mark's assistant and just prints out the forms for us.  She really 
+doesn't need to know the specific position limits in the form.
+For Xeron, Inc.-amended no change means, they were initially open for 
+financial, shut down for power, open for all other physical products.  No 
+change from that approval.
+Tom Moran
+10/05/2000 08:59 AM
+The Clickpaper approvals for 10/4/00 are attached below.
+,
+tm 
+My assistant, Taffy Milligan will be sending it to you.
+Martin Rosell
+10/05/2000 08:16 AM
+Tana, hope you're doing well 
+We'd wish to replicate the terms in the ENA-Utilicorp. United Inc. ISDA 
+referred to below in a similar contract between ECTRIC and Utilicorp. United 
+Inc.   Pls send me a electronic copy of the executed contract.  Tks.
+Martin
+Yumi Takei
+2000-10-05 13:20
+Hi!
+Thanks for your help.  According to Matt Dawson, it looks like a signed ISDA 
+has been executed between ENA and Utilicorp United Inc. in the past.  We will 
+also need an ISDA between ECTRIC and Utilicorp United Inc.  You mentioned 
+perhaps mirroring the existing ISDA however with the restricted lists I 
+believe you will be to obtain the copy easier than we will.  However, if you 
+would like Utilicorp to produce a draft, let  me know and I can request that 
+from the woman in the e.mail below. 
+Please advise and I will pass the information on to Utilicorp.
+Thank you
+Yumi
+x34708
+Hi Yumi,
+I did confirm with our weather desk that we will be transacting as Utilicorp
+United Inc.  Sorry for the confusion!  How do you want to proceed on the
+ISDA?
+Thanks,
+Angela Weber
+Aquila Energy
+Associate Contract Specialist
+1100 Walnut Street, Suite 3100
+Kansas City, MO 65106
+Phone:  816-527-1293
+Fax:  816-527-4293
+e-mail:  aweber@utilicorp.com
+There seems to be some question whether Utilicorp. can trade financial.  I 
+opened them to trade all financial (including power) on 7/26/00.  I think the 
+customer is calling Kathy for access.  There should be no change in their 
+physical power profile.
+"Ernsthaft, William"  	10/09/2000 07:44 AM
+Tana, attached is the Authority's proposed opinion. We would be expecting a
+comparable opinion from Enron. Bill
+- SWAPOP3.DOC
+Bradley Diebner
+10/06/2000 04:32 PM
+The EOL approvals for 10/06/00 are attached below.
+,
+bd
+Tom Moran
+10/06/2000 03:52 PM
+The Clickpaper approvals for 10/6/00 are attached below.
+,
+tm 
+Frank L Davis
+10/06/2000 10:58 AM
+Attached below is the Argentine customer list for EnronOnline.  My 
+understanding is that we will launch EnronOnline in Argentina within the next 
+couple of weeks.  With this in mind, I think we will have to shoot for the 
+end of next week (October 13) to have customer profiles completed.  Please 
+let Lisa Lees know of any conflicts or issues that arise.
+Thanks!
+Frank
+Leonardo Pacheco@
+10/03/2000 05:19 PM
+Frank,
+It seems now that we are going to proceed with Argentina. Therefore, I am 
+attaching the customer list. I am not sure if you already have it.
+Thanks!
+Leonardo Pacheco
+Patrick Hansen
+10/03/2000 04:40 PM
+Esta es la lista que querias.
+can you fax her the fron of the ISDA Schedule for Utilicorp.  She must be in 
+the Oslo office.
+Yumi Takei
+10/06/2000 05:14 AM
+Good Morning Tana,
+Thank you so much for faxing the ISDA with Utilicorp.  However would you be 
+so kind to send the 1st 18 pages again.  They seem to have disappeared in our 
+office.  I have everything after that (Schedule to the Master Agreement, 
+Credit Support Annex, Paragraph 13 Annex, Exhibit A to Paragraph 13, and 
+Exhibit A Guaranty)
+I would greatly appreciate if you would fax the first 18 pages of the ISDA 
+(footer states "ISDA 1992") to +47 23 10 25 50.
+Thank you for your help.
+Have a great day and weekend.
+Sincerely,
+Yumi Takei
++47 23 10 25 57
+Tom Moran
+10/05/2000 05:18 PM
+The Clickpaper approvals for 10/5/00 are attached below.
+,
+tm 
+Looks good!  Thanks!
+Bradley Diebner
+10/05/2000 05:21 PM
+The EOL approvals for 10/05/00 are attached below.
+,
+bd
+=09exchangeinfo@nymex.com
+=0910/06/2000 03:55 PM
+=09=09=20
+Notice No. 00-347
+October 6, 2000
+MEMORANDUM
+TO: ALL NYMEX AND COMEX MEMBERS
+FROM: Neal L. Wolkoff, Executive Vice President
+DATE: October 6, 2000
+RE:
+Notice of CFTC Approval of Executive Committee Resolution Amending Price=20
+Fluctuation Limits for Trading on NYMEX ACCESSc
+____________________________________________________________________
+Please be advised that the CFTC has approved a Resolution of the Executive=20
+Committee of the Board of Directors.  The Resolution amends on a temporary=20
+basis a number of Exchange price fluctuation limit rules for trading on NYMEX=20
+ACCESSc so as to ensure the successful implementation of the new implied=20
+order functionality on NYMEX ACCESSc. (The price fluctuation limit rules that=20
+are now in effect for the Exchange=01,s contracts will remain the same for=20
+trading occurring during Regular Trading Hours ("RTH") on the trading=20
+floor.)  The Resolution is attached and will become effective with the=20
+commencement of the NYMEX ACCESSc session on Sunday, October 8, 2000.
+By significantly expanding the price fluctuation limits applicable to trading=20
+activity occurring on NYMEX ACCESSc, the Resolution reduces the possibility=20
+that a price limit would be triggered by the implied functionality.  The=20
+Resolution amends the Exchange=01,s price fluctuation limit rules with regard to=20
+trading on NYMEX ACCESSc in three ways:
+(1) The initial and subsequent price fluctuation limits (for each Exchange=20
+futures contract that has such limits) would be expanded to 200% of the=20
+initial and subsequent price fluctuation limits applicable to the first two=20
+contract months for energy contracts, or to the first contract month with=20
+limits in effect for metals contracts, of that futures contract under the=20
+applicable rule.
+(2) This expanded limit (e.g., 200% of the limits for the front two months=20
+for energy contracts) would be applicable to all contract months for that=20
+futures contract.
+(3) In the event that an expanded price limit was touched by a bid or offer,=20
+trading on NYMEX ACCESSc generally would be halted immediately, rather than=20
+requiring the market to trade at that price for five minutes. During the last=20
+90 minutes of a NYMEX ACCESSc session, the market would be halted only far as=20
+long as it takes for the system to incorporate expanded price limits.
+Finally, notwithstanding the changes noted above, in the event that a=20
+contract trading on NYMEX ACCESSc traded for five minutes at a price=20
+fluctuation limit applicable to RTH trading, then the RTH session would open=20
+with expanded price fluctuation limits as provided under the applicable rule,=20
+even though there had been no temporary cessation of trading during the NYMEX=20
+ACCESSc trading session.
+If you have any questions, please contact Stu Homler, Director, NYMEX ACCESSc=20
+Operations, NYMEX ACCESSc Department, at (212) 299-2754, Matt Morano, NYMEX=20
+ACCESSc Department, at (212) 299-2679, or Brian Regan, Senior Associate=20
+General Counsel, at (212) 299-2207.
+APPROVED RESOLUTION OF THE EXECUTIVE COMMITTEE
+OF THE BOARD OF DIRECTORS REGARDING PRICE
+FLUCTUATION LIMITS FOR EXCHANGE CONTRACTS
+The Executive Committee of the Board of Directors hereby
+Resolves that, until further notice, the price fluctuation limit rules for=20
+each futures contract that is listed for trading on NYMEX ACCESSc and that=20
+has such applicable rules shall continue in effect except as amended below=20
+with regard to market activity occurring on NYMEX ACCESSc:
+The initial and subsequent price fluctuation limits (for each Exchange=20
+futures contract that has such limits) shall be expanded to 200% of the=20
+initial and subsequent price fluctuation limits applicable to the first two=20
+contract months of that futures contract that have price limits under the=20
+applicable rule.
+This expanded limit (200% of the limits for the first two months with limits)=20
+shall be applicable to all contract months for that futures contract.
+In the event that such a price fluctuation limit is reached by a bona fide=20
+bid at the high price fluctuation limit or a bona fide offer at the low price=20
+fluctuation limit, trading on NYMEX ACCESSc shall be halted immediately=20
+except as directed otherwise by the President or the President=01,s designee. =20
+Following resumption of trading, the price limits in effect shall be 200% of=20
+the limits applicable to RTH trading.  In the event that a limit is touched=20
+during the last 90 minutes of a NYMEX ACCESSc session, the market shall be=20
+halted briefly, and price limits shall be expanded thereafter
+In addition, in the event that a contract trading on NYMEX ACCESSc traded for=20
+five minutes during the NYMEX ACCESSc session at a price fluctuation limit=20
+applicable to the Regular Trading Hours session, then the RTH session shall=20
+open with expanded price fluctuation limits as provided under the applicable=20
+rule, even though no temporary cessation of trading occurred during the NYMEX=20
+ACCESSc trading session.
+__________________________________________________
+Matt,
+Can you provide me with the name and address of who we should send this 
+amendment to for signature?  I still have to run it by an attorney, though.
+Matthew Dawson
+10/05/2000 10:34 AM
+HI Tana 
+Here is the Amendment Agreement containg the additional "online" wording 
+agreed for the ECTRIC ISDA  that  Barclays want included in the ENA Isda. I 
+hope this is O.K. If you need anything else please call. Will also  enter the 
+new ISDA in data base ASAP.
+Thanks
+Matt Dawson
+Justin Boyd
+25/09/2000 15:53
+matt
+you will need to pass this by tana jones in the US for approval
+j
+Matthew Dawson
+25/09/2000 15:03
+Hi  Justin,
+Just to let you know the Guarantee arrived from Houston this morning. I have 
+sent it on to Leigh. Also she requested that we amend the other Existing ISDA 
+I attatch her proposed amendment agreement. The wording of the clauses is 
+identical to that which was agreed in the ECTRIC  Master that has just been 
+signed, although the numbering of Part 5 (o) differs in the recent Isda with 
+ECTRIC. Barclays cannot trade with ENA until the Isda has been amended.  Are 
+we able to accommodate the   agreement?
+Attached is the referenced list.  I am saying "amended-no change" because for 
+Calpine, I originally had them open for power & financial, and I am not 
+changing that approval, and for Nicor, I originally had them open for 
+financial and shut down for power and I am not changing that approval.
+I'm preparing for a presentation I have to give tomorrow.  Once I'm done with 
+this I'll give you a call 
+Susan D Trevino
+10/09/2000 03:46 PM
+Tana - I understand that a new product needs to be added to the Meta-Calc 
+Report.  Please advise.
+Thank you,
+Susan Trevino
+3-1462
+Enron Canada has a Master Agreement [ECT form, non ISDA] in place with Energy 
+West Incorporated (which ENA could trade under per the Services Agreement 
+with ECC covering financial trades only).  Per my conversation a second ago 
+with Credit, Energy West Incorporated and Energy West Resources are not 
+showing up in their records as being one and the same corporation.  Sounds to 
+me you need to call Credit for approval.  If we do not have a master, they 
+would have to get Credit approval to do a trade w/o a master in place.
+John Malowney
+10/09/2000 04:18 PM
+Tana, I am attempting to put together a "spark spread" with Energy West 
+Resources (AKA Energy West).  EPMI has a master in place with Energy West 
+Resources Inc. their current and correct business name.   I understand we 
+have an ISDA in place with Energy West Incorporated who is one and the 
+same.   In addition to credit concerns, is there any problem doing a 
+financial transaction with Energy West Resources Inc. under the name on the 
+ISDA of Energy West Incorporated ?
+See email below to John.
+Tana Jones
+10/09/2000 04:35 PM
+Enron Canada has a Master Agreement [ECT form, non ISDA] in place with Energy 
+West Incorporated (which ENA could trade under per the Services Agreement 
+with ECC covering financial trades only).  Per my conversation a second ago 
+with Credit, Energy West Incorporated and Energy West Resources are not 
+showing up in their records as being one and the same corporation.  Sounds to 
+me you need to call Credit for approval.  If we do not have a master, they 
+would have to get Credit approval to do a trade w/o a master in place.
+John Malowney
+10/09/2000 04:18 PM
+Tana, I am attempting to put together a "spark spread" with Energy West 
+Resources (AKA Energy West).  EPMI has a master in place with Energy West 
+Resources Inc. their current and correct business name.   I understand we 
+have an ISDA in place with Energy West Incorporated who is one and the 
+same.   In addition to credit concerns, is there any problem doing a 
+financial transaction with Energy West Resources Inc. under the name on the 
+ISDA of Energy West Incorporated ?
+Sounds good to me!
+Lisa Lees
+10/09/2000 05:39 PM
+It appears that all we need to do for these new product types is copy 
+customer profiles from US HeatingOil2Fin Swap and US UNL Gas Fin Swap Unless I hear back from any of you before 10:00 a.m. Tuesday, 10/10, we'll 
+just copy the profiles.  Sorry for the short notice.
+Your review and approval of the following product type in the EOL Datamanager 
+is needed (for directions on approval , please see steps for approval at the 
+bottom of this e-mail 
+These will be for existing spread products that are under the existing 
+product type : US HeatingOil2 Fin Swap and US UNL Gas Fin Swap they need to 
+be split up for sigma factor purposes. 
+Product Type #1   US HeatingOil2 FIN Spread
+Product Type #2   US UNL Gas Fin Spread
+STEPS FOR APPROVAL:
+click the  START button 
+select  PROGRAMS
+select  TEST APPLICATIONS
+select ENRONONLINE CLUSTER(PROD)
+PROCEED WITH USUAL LOGIN/PASSWORD 
+click the Enron Online Production Cluster "START" button  
+select EnronOnLine (this is the EOL Datamanager)
+PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up 
+TO APPROVE:  Right mouse click on "Approved"
+Thanks - Rob Cass  -  Melba Lozano
+x35491   x58986
+Take today off (from EOL at least 	Tom Moran
+10/10/2000 07:20 AM
+There are no EOL approvals for 10/9/00.
+,
+tm
+We just received what we hope is a final draft of the documents from Deutsche 
+Bank, and I hope to respond back to you shortly, once I have had a chance to 
+confirm they made all the changes.
+Clare.Godson@AllenOvery.com
+10/10/2000 04:33 AM
+Many thanks. Apologies for the error, I obtained Tana's e-mail details from
+someone at Enron in London and they had misspelled it for me.
+Thanks again for all your help.
+Clare
+Clare,
+Thanks for your note.  Your e-mail trouble is due to the spelling of Tana's
+name - should only be one 'n.'  I am forwarding this on to her.
+Mark
+Clare.Godson@Alle
+cc:
+10/09/2000 04:50         Subject:     FW: Deutsche Bank
+ISDA Master Agreements
+AM
+Mark,
+I am having some problems sending this to Tanna.  her e-mail keeps bouncing
+back.  Could you pass this on to her please?
+many thanks for your help.
+Kind 
+Clare
+    This email is confidential and may also be privileged.  If you are not the
+intended recipient please notify us immediately by telephoning +44 (20)
+7330 3000 and requesting the Technology Services Helpdesk. You should not
+copy it or use it for any purpose nor disclose its contents to any other
+person.
+Allen & Overy
+One New Change
+London
+EC4M 9QQ
+Tel:+44 (20) 7330 3000
+Fax: +44 (20) 7330 9999
+General Email: Helpdesk@allenovery.com
+www 
+Allen & Overy is a solicitors' partnership.  A list of the names of
+partners and their professional qualifications is open to inspection at the
+above office.  The partners are either solicitors or registered foreign
+lawyers.
+Brent,
+I am having this woman with Duke here in Houston, Roni Cappadonna, calling me 
+wanting to get the form of the confirmation.  I don't know what to tell her Can we get her a draft of a confirm with proposed deal terms or do we have to 
+wait until the trade is done?  I think the person that really needs to be 
+handling this is Dale Neuner, not me.  I am kinda just in the middle of the 
+confirm thing.  Can we get Scott Neal, or whoever needs to relay the confirm 
+information, to deal with Dale Neuner directly, so we can get Dale dealing 
+with Roni.
+The omnibus swap below, plus this Annex A make up the "omnibus" confirm.
+Larry Joe Hunter
+10/09/2000 05:26 PM
+Tana,
+Here's a Draft I had in my personal file.  I thought this would be easier 
+than deleting the coding from the system template
+Joe
+Tana Jones
+10/09/2000 02:35 PM
+Attached is the referenced list.  I am saying "amended-no change" because for 
+Calpine, I originally had them open for power & financial, and I am not 
+changing that approval, and for Nicor, I originally had them open for 
+financial and shut down for power and I am not changing that approval.
+It was cute!
+Genia FitzGerald
+10/10/2000 03:23 PM
+Thanks for inviting me to share Mexican food with you.  Tana said it was YOUR 
+fault I wasn't invited 
+Genia
+- Hotdog PHOTO2.jpg
+Can you forward alison the template for an omnibus swap.  The attached 
+appears to be an EOL template.
+Allison McHenry@EES
+10/10/2000 03:16 PM
+The Confirmation I'm wanting is the other form you gave us which under 
+General Terms starts with "Notional Quantity per Determination Period". Do 
+you have it? Thanks.
+That's what I just sent you 
+Allison McHenry@EES
+10/10/2000 03:04 PM
+Thanks Tana. Do you also have the Confirmation (SWAP) form that said "EOLID I think that was the form we understood you to say was the "preferred" form. 
+Thanks again.
+The omnibus swap below, plus this Annex A make up the "omnibus" confirm.
+Larry Joe Hunter
+10/09/2000 05:26 PM
+Tana,
+Here's a Draft I had in my personal file.  I thought this would be easier 
+than deleting the coding from the system template
+Joe
+Can you pass this on to the next person...thanks!
+Tanya Rohauer
+10/10/2000 03:44 PM
+Standard ownership change is fine.
+It has been brought to my attention that we have done several internal trades 
+the last few days with the referenced wholly owned Enron company (right 
+Tony?!).  With Tanya's approval, we need to get out an ISDA Master between 
+Northern and RMT with no credit except the standard change of ownership 
+clauses.   If that is OK with Tanya, Susan, can you pass on this master to 
+the next paralegal in the rotation.  Tony will attend to getting the master 
+signed from Northern's side.
+Thanks.
+It's really all Genia's fault, she goes to lunch too darn early.  I guess we 
+need to make a date beforehand for lunch with you 
+Marie Heard@MUNICATIONS
+10/10/2000 04:04 PM
+Hey, I was an invited guest.  It wasn't my party!  Sounds like someone is 
+trying to weasel herself out of trouble.
+Marie Heard
+Senior Legal Specialist
+Enron Broadband Services
+Phone:  (713) 853-3907
+Fax:  (713) 646-8537
+Marie_Heard@.net
+Genia FitzGerald@ECT
+10/10/00 03:23 PM
+Thanks for inviting me to share Mexican food with you.  Tana said it was YOUR 
+fault I wasn't invited 
+Genia
+- Hotdog PHOTO2.jpg
+On the 10/05/00 List:  Tembec, Inc.'s bylaws require that agreements signed 
+by the company must be signed by any two of the following officers:   the 
+President or a Vice President together with any Director, Secretary or 
+Assistant Secretary.  If you are going to trade with them online you must 
+ensure that the Password Application gets signed by those officers, or if not 
+by those officers, they must provide a resolution if any officer except those 
+above signs the documentation.  Because of this signatory restriction 
+EnronOnline was hesitant to open them for financial trading.  It's up to your 
+group, but you must comply with these special signatory requirements.  If you 
+would like Legal to pass on the documentation if you are unsure, forward it 
+up to me.
+Bradley Diebner
+10/10/2000 05:22 PM
+The EOL approvals for 10/10/00 are attached below.
+,
+bd
+It's no surprise to me to find Reggie's been stirring it up!
+Genia FitzGerald
+10/11/2000 07:43 AM
+You are both wrong, it is Reggie's fault, he told me not to hang around 
+either of you 
+Marie Heard@MUNICATIONS
+10/10/2000 04:21 PM
+Yeh, you're right.  It is her fault.  In the past, she always had plans and 
+couldn't (or just didn't want to) go with us.  I guess that's the price you 
+pay for being so popular and in demand.
+Marie Heard
+Senior Legal Specialist
+Enron Broadband Services
+Phone:  (713) 853-3907
+Fax:  (713) 646-8537
+Marie_Heard@.net
+Tana Jones@ECT
+10/10/00 04:09 PM
+It's really all Genia's fault, she goes to lunch too darn early.  I guess we 
+need to make a date beforehand for lunch with you 
+Marie Heard@MUNICATIONS
+10/10/2000 04:04 PM
+Hey, I was an invited guest.  It wasn't my party!  Sounds like someone is 
+trying to weasel herself out of trouble.
+Marie Heard
+Senior Legal Specialist
+Enron Broadband Services
+Phone:  (713) 853-3907
+Fax:  (713) 646-8537
+Marie_Heard@.net
+Genia FitzGerald@ECT
+10/10/00 03:23 PM
+Thanks for inviting me to share Mexican food with you.  Tana said it was YOUR 
+fault I wasn't invited 
+Genia
+- Hotdog PHOTO2.jpg
+We have been doing this here in Houston via a Unanimous Consent of the 
+Directors of the Company appointing the individual(s) as agents and 
+attorneys-in-fact.  Do you sugguest I proceed this way or via the Power of 
+Attorney below? 
+Cindy Buckley
+10/11/2000 06:44 AM
+Hi Mark and Tana
+I have been given your name by Justin Boyd as someone who can help me or 
+point me in the right direction.
+We need to raise a power of attorney to enable Amita Gosalia of Enron House 
+to execute EnronOnline Password Applications for each of the above company Please could you let me know if you can prepare such a document and also what 
+if any additional information you require.  I have attached a copy of the 
+Power of Attorney which we use in the UK for such authority for your 
+information.
+Unfortunately this is becoming quite urgent and any assistance you can give 
+will be greatly appreciated.
+Please let me know if you have any queries.
+Thanks and  
+Per Steven Vu's message, I still haven't received the info we need to 
+complete the online weather GTC's.  Any word on when we can expect it? 
+FYI-waiting for direction.
+Tana Jones
+10/11/2000 09:03 AM
+We have been doing this here in Houston via a Unanimous Consent of the 
+Directors of the Company appointing the individual(s) as agents and 
+attorneys-in-fact.  Do you sugguest I proceed this way or via the Power of 
+Attorney below? 
+Cindy Buckley
+10/11/2000 06:44 AM
+Hi Mark and Tana
+I have been given your name by Justin Boyd as someone who can help me or 
+point me in the right direction.
+We need to raise a power of attorney to enable Amita Gosalia of Enron House 
+to execute EnronOnline Password Applications for each of the above company Please could you let me know if you can prepare such a document and also what 
+if any additional information you require.  I have attached a copy of the 
+Power of Attorney which we use in the UK for such authority for your 
+information.
+Unfortunately this is becoming quite urgent and any assistance you can give 
+will be greatly appreciated.
+Please let me know if you have any queries.
+Thanks and  
+Susan Bailey
+10/11/2000 08:37 AM
+All,
+I will be taking an early lunch in order to receive some new furniture at my 
+house and to meet with my decorator.
+I will leave the office @ 11:00 am and will return by 1:30pm or earlier.
+See you all then.
+Susan S. Bailey
+That change will have to be approved by Mark Taylor, who is out of town until 
+next week.
+These could take a few days (or more!).  They have to be circulated to the 
+directors of the Company for signature and timing will depend on their 
+availability for signature.  If Amita wants to start signing today, she can 
+go ahead and start signing now and I'll make her appointment effective as of 
+today.
+Cindy Buckley
+10/11/2000 09:22 AM
+Hi Tana
+Thanks for quick response.
+I'm happy for the unanimous consents of the directors and the 
+attorneys-in-fact.  Please could you let me know when these have been signed 
+and are effective.
+Thanks for your help.
+John Arnold wants this counterparty opened ASAP for financial.  We didn't 
+have any financial statements from them when they originally came thru, so we 
+couldn't determine their ESP status, but we're OK now, so if you could open 
+them for financial ASAP.
+Thanks.
+I just got off the phone w/Derek.  I'll make sure someone handles it.
+Shari Stack
+10/11/2000 01:55 PM
+Here this is - can you please let Derek know you will handle? 
+Thank you, 
+S
+Derek Davies
+10/11/2000 01:41 PM
+Shari,
+I sent a copy of a standard short form agreement to encore.  They have sent 
+back comments.  Could you please review and get back to me.  We also need to 
+exchange C$10MM guarantees between Enron & Epcore.
+Derek
+Paul McMillan  Derek, we indicated we were reviewing your short form agreement.  Here are
+our comments.  We would like to set up a mutually convenient time to discuss
+them with you.
+Paul McMillan
+VP & General Manager
+403.297.0347
+paulm@encoreenergy.com
+- 2909 - enron - shortform.doc
+Karen,
+Upon re-review w/Credit, we have decided not to open this counterparty up for 
+financial trading until further legal and credit issues are resolved.
+Karen Lambert
+10/11/2000 12:06 PM
+Please confirm that this is the counterparty previously approved for online 
+trading for EOL under the same name and identified as CP ID # 77297.
+Also, please confirm whether you need financials for ENA or for all worldwide 
+financial product trading categories.
+Please respond to the rush request below.
+Thanks.
+John Arnold wants this counterparty opened ASAP for financial.  We didn't 
+have any financial statements from them when they originally came thru, so we 
+couldn't determine their ESP status, but we're OK now, so if you could open 
+them for financial ASAP.
+Thanks.
+Thanks, I appreciate your help!
+Dianne Seib
+10/11/2000 03:12 PM
+Here is a copy of the confirmation letter prepared for Encore.  Let me know 
+if there is anything else I can do.
+Dianne
+Melinda Whalen
+10/11/2000 02:09 PM
+Thanks Joe, you're the best!
+Larry Joe Hunter
+10/11/2000 03:44 PM
+Melinda,
+Here's the Annex A that you should be using:
+Thanks,
+Joe
+Dear Greg,
+As we discussed, I am attaching our proposed form of ISDA Schedule and Credit 
+Support Annex for your review.  If you have any comments or questions, please 
+do not hesitate to call me at 713/853-3399.  We look forward to hearing from 
+you.
+Have you done deals in the UK and France that we should use as our model?
+Stewart Peter
+08/20/99 11:35 AM
+you should have the UK and Fance already cia the deals done and the Norway 
+data was mailed to steve tuesday.
+If you dont please let me know what you need via email tonite and You will 
+have it when you get in on monday
+stew
+Bradley Diebner
+10/11/2000 04:44 PM
+The EOL approvals for 10/11/00 are attached below.
+,
+bd
+MALCOLM Greg -CONTROLLER  	10/12/2000 08:19 AM
+Let me know if you still don't get the attachment.
+Tanya
+I will call.  Didn't receive attachments though
+Greg
+Dear Greg,
+As we discussed, I am attaching our proposed form of ISDA
+Schedule and
+Credit Support Annex for your review.  If you have any
+comments or
+questions, please do not hesitate to call me at
+713/853-3399.  We look
+forward to hearing from you.
+cc:       Tom May
+Ed Sacks, Credit
+Bob Bruce, Senior Counsel
+We will try to get back to them soon.  We had to locate Indiana counsel to 
+advise us on this, and hope to engage them today 
+Kim S Theriot
+10/12/2000 09:34 AM
+Tana,
+I keep getting calls from a lady named Kathy at ACES (who is agent for 
+Wabash) looking for a draft of the ISDA Agreement.  She gave me another  
+contact for Wabash .... Jill Hoerger at (317) 481-2851. 
+Kim Theriot
+Please remember that all online confidentiality agreement should be logged in 
+through me, I prepare a list of them for the Online Team.  All regular 
+conffidentiality agreements should be logged in through one of the paralegals 
+so we can monitor them.  Also, we need to do a conflicts check with Kay Thanks.
+Just a reminder that we have the Customer Access Agreement that Craig Breslau 
+sent up for our review.  We need to (1) determine what procedures, if any, we 
+need to put in place with respect to user ID's to other online trading 
+websites, and (2) respond to Craig about this agreement.  When you both get 
+back in town can we set a time to discuss this.  Thanks 
+This seems like something the Confirmation Desk should do, or you.  I have 
+never dealt with the deal tickets before.
+Allison McHenry@EES
+10/12/2000 10:41 AM
+Can everyone meet tomorrow around 3-4pm to talk about SWAP Deals? If not 
+Friday, when would be a good time on Monday? Marianne Castano would like for 
+Paul to explain the Springs deal to us and have Tana show us how to transfer 
+the information to a Deal Ticket form. Thanks.
+I don't see any problem with this request, do you?
+Stephanie Sever
+10/12/2000 11:31 AM
+Please let me know if this request is OK?
+Thanks,
+Stephanie
+Brant Reves
+10/12/2000 11:19 AM
+We are ok with this request for Utilicorp United, Inc.
+brant
+Tom -
+What do you think?
+Thanks,
+Griff
+x35753
+Per our conversation while you were here, attached is a list of all the 
+Japanese counterparties that have requested Password Applications from 
+EnronOnline.  Let me know you thoughts about this, and, as we discussed, 
+online due diligence with respect to Japanese counterparties. 
+Lisa Lees
+10/05/2000 08:53 AM
+Let me know if you need anything else.
+Justy,
+I don't think there is any problem with this.  But since Harry told me to run 
+it by you, I am.  Could you sign off ASAP.  Thanks!
+Harry M Collins
+10/12/2000 12:29 PM
+I do not know of any reason that they should not be able to transact UK oil 
+and products. However, it would be best to also check with London on this 
+request.
+Tana Jones
+10/12/2000 11:55 AM
+I don't see any problem with this request, do you?
+Stephanie Sever
+10/12/2000 11:31 AM
+Please let me know if this request is OK?
+Thanks,
+Stephanie
+Brant Reves
+10/12/2000 11:19 AM
+We are ok with this request for Utilicorp United, Inc.
+brant
+Tom -
+What do you think?
+Thanks,
+Griff
+x35753
+Any problem?
+Alan Aronowitz
+10/12/2000 05:17 PM
+Tana:
+Please check with Robert Quick on this. Thanks.
+Alan
+Harry M Collins
+10/12/2000 12:29 PM
+I do not know of any reason that they should not be able to transact UK oil 
+and products. However, it would be best to also check with London on this 
+request.
+Tana Jones
+10/12/2000 11:55 AM
+I don't see any problem with this request, do you?
+Stephanie Sever
+10/12/2000 11:31 AM
+Please let me know if this request is OK?
+Thanks,
+Stephanie
+Brant Reves
+10/12/2000 11:19 AM
+We are ok with this request for Utilicorp United, Inc.
+brant
+Tom -
+What do you think?
+Thanks,
+Griff
+x35753
+Mark Taylor is going the be the host of the next ECT Legal Conference to be 
+held in the Woodlands in October and he asked me to contact you to see if you 
+know yet which of the Brits are going to be attending because we need to 
+start making reservations.  If you get a minute and can drop me a line I'd 
+appreciate it.  Thanks!
+For the online trading project, I am trying to track down for the U.K., the 
+Datasource, Reporting Service, and Reporting Agency for the GTC.  I 
+understand that you might either have that information or be able to direct 
+me to someone who does.  I appreciate whatever help you can give me!
+Can y'all help me get the document below signed by an officer of ECC and 
+return the originally signed document to me.  I will send them all out 
+together back to the counterparty.  FYI-Andy Zipper is second in command to 
+Louise Kitchen for EnronOnline.  Thanks for your help!
+Andy Zipper@
+10/12/2000 05:44 PM
+Tana,
+Can you please have ENA, EPMI, and Enron Canada Corp. each sign a copy of the 
+participant agreement attached below for the Intercontinental Exchange. When 
+signed please return them the fax number listed and let me know when they 
+have gone out. I got Mark Taylor's okay on this.
+Let me know if you have any questions.
+Andy
+Duuna Richardson  >  Dear Andy,

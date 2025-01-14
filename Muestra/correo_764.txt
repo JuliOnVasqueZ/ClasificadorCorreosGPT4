@@ -1,0 +1,93 @@
+Sleep well, America. It's time to vote!
+- C.DTF
+Mike,
+We are currently looking into a query which will allow us to see all of our 
+officialized books each night.  It is not ready now, but should be soon I'll let you know.
+DG    3-9573
+Kevin,
+Please remember to link up all deals.  By this, I mean Tagg numbers in 
+Sitara, Sitara numbers in Tagg, Tagg numbers in SCI, and especially EOL 
+numbers in Tagg.  I just got a call about the park & loan on Friday.  You 
+need to put EOL as the system of origin and the EOL number.  Thanks.
+DG
+It should reference the EOL number.  It looks af if Kevin did not link it 
+up.  I'll remind him.
+DG
+Dawn C Kenne
+10/17/2000 09:08 AM
+Darron,
+When you are manually entering the EMW deals into tagg, are you referencing 
+the EOL number 
+I was looking at the tagg deal you gave me last Friday (Q40121) and it does 
+not reference it.  Should it?  Or, because it is funky, does it not have to?
+Dawn
+Scott,
+These places carry the Onkyo receiver.  I don't think they carry Polk, but 
+ask them who you should call for Polk speakers.  The place I got mine from a 
+couple of years ago no longer carries them.  I'm still looking.  Lee's Audio 
+& Video have the Onkyo listed at $629.  Their sight is at leesvideo.com
+J&R Music World 800-221-8180
+Lee's Audio & Video 425-643-5555
+Soundcity  800-370-3156
+DG
+Have you seen this?  It's from Kevin, an Aggie.
+D
+Kevin Bosse
+10/16/2000 01:46 PM
+Edmund_A_Bosse@comerica.com on 10/16/2000 01:07:13 PM
+***************************************** (on the network)
+TexasFight.jpg was scanned and no virus found.
+- TexasFight.jpg
+Mike,
+The reason my mistake was not caught on the benchmark signoff procedure is 
+that the postid in question did not have a net position.  The procedure 
+Rahmann showed you is where we check GERMS positions to the position reports 
+we run using Excel queries.  If a postid has a net position and is not 
+officialized, it will be caught using this procedure.  It will not, however, 
+if the postid does not have a position.  I understand the importance of 
+officializing postid's, as does the entire West desk.  Thanks.
+DG    3-9573
+Jeff,
+FYI - Darron Giron didn't officialize the West-NW-GDL book on Friday.  Please 
+re-emphasize the importance of not forgetting.  Also, Rahmann showed me a 
+control he has to catch books not officialized each night which looked like 
+an effective tool.  I wonder why he didn't see this book on Friday.
+Mike
+We have been tracking books that are not officialized on a daily basis.  This 
+list goes to Sally Beck and is reviewed at the end of each week by Rick Buy Rick has been vocal about taking corrective action if people forget to 
+officialize.   It is imperative that we take extra care to ensure that all 
+books are marked official each night before going home.  A control process 
+should be implemented immediately to absolutely avoid being on the list 
+Please contact me if you have any questions (x-35242).
+Thanks,
+Mike 
+Greg Couch
+10/13/2000 10:43 AM
+I would like each of your book admins using WeaponX to begin using the 
+following procedures at least once/week (if they aren't already).
+Open the database while holding down on the shift key.  This will open the 
+database, but prevent the main form from opening automatically.  Next, the 
+admin should go to Access menu selections and choose Tools/Database 
+Utilities/Compact Database.  After the database has completed compacting, you 
+can use the database as normal.
+Just a quick explanation:
+This is standard procedure for Access databases.  WeaponX imports and deletes 
+a lot of data on a daily basis.  When data is deleted, the space is not freed 
+up that was used by the data.  Therefore, as time goes by, the database size 
+grows and grows and needs to be periodically compacted.
+The Texas WeaponX file that I compacted reduced from 520 MB to 30 MB and one 
+for the west went from 400 MB to 12 MB.  You can see that we will save 
+several GB if everyone begins compacting the databases on a regular basis.
+Please note:  Even though this is standard Access procedure, I would 
+recommend that the book admin save a copy of their existing WeaponX file 
+prior to compacting for the first time.  Once the file is compacted and a 
+daily run has been successful, they can delete the backup file.  It is not 
+necessary for them to save a backup copy each time before compacting.  I am 
+only recommending it for the first compact.
+I don't anticipate any problems with this procedure.  As a matter of fact, 
+Crystal (East desk I believe) already compacts the database on a daily 
+basis.  In addition Ann (West desk) ran a test for me with no problems.
+Please let me know if you have any questions.
+Greg
+this is painful 
+- ouch.mpeg

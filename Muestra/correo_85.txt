@@ -1,0 +1,345 @@
+College Football analyst Brent Musburger made the call. "We felt that
+with
+ a
+ number of points still not added in by Jamaar Tombs
+ and the Aggies, we were certain A&M would carry this game. We may have
+ been
+ premature in our prediction."
+Anne Labbe@
+11/10/2000 01:47 PM
+The final window for making your 2001 benefits elections or changes ends=20
+11/15 at 5 pm.  If you do not elect to make any changes, your 2000 health=20
+benefit elections will rollover for 2001.
+If you still need to make changes, logon to www.enron.benefitsnow.com or call=20
+1-800-425-5864.  You will need your PIN number that is printed on your=20
+personal worksheet to access the web and hotline. =20
+If you have any questions, please call the Benefits Dept. directly at x37979,=20
+option 1, or Anne Labbe=01, at x57809.
+"perfmgmt@"<perfmgmt on 11/14/2000 09:18:38 PM
+NOTE:  YOU WILL RECEIVE THIS MESSAGE EACH TIME YOU ARE SELECTED AS A REVIEWER.
+You have been selected to participate in the Year End 2000 Performance 
+Management process by providing meaningful feedback on specific employee(s Your feedback plays an important role in the process, and your participation 
+is critical to the success of Enron's Performance Management goals.
+To complete requests for feedback, access PEP at and select Perform Review under Performance Review Services.  You may begin 
+providing feedback immediately and are requested to have all feedback forms 
+completed by Friday, November 17, 2000.
+If you have any questions regarding PEP or your responsibility in the 
+process, please contact the PEP Help Desk at:
+Houston: 1.713.853.4777, Option 4
+London:  44.207.783.4040, Option 4
+Email: perfmgmt@
+Thank you for your participation in this important process.
+The following is a CUMULATIVE list of employee feedback requests with a 
+status of "OPEN."   Once you have submitted or declined an employee's request 
+for feedback, their name will no longer appear on this list.
+Review Group: ENRON
+Feedback Due Date: Nov 17, 2000
+Employee Name                   Supervisor Name                 Date Selected
+Sent by: Enron Announcements@
+=20
+Good news!  Deferral program enrollment begins Wednesday, November 15, 2000. =20
+Enron's Bonus Stock Option and Bonus Phantom Stock Programs provide you with=20
+an opportunity to receive stock options and phantom stock in lieu of all or a=20
+portion of the cash bonus you may receive during 2001.   To make enrollment=20
+even more convenient for you, this year's deferral program information is=20
+available on eHRonline. =20
+To learn more about your deferral program opportunities and to enroll for=20
+2001 deferrals, access eHRonline at    (Call the=20
+ISC Help Desk at 713-345-4727 if you need your ID or password to access the=20
+system.)
+1. Review the program descriptions (attached to the Election Form) before you=20
+make your elections.
+2. If you decide to defer compensation, complete the Election Form before=20
+Friday, December 8,  2000 (the enrollment deadline).
+3. Print your 2001 Election Form and Confirmation Statement right from the=20
+web site and you=01,re   finished!=20
+Sound easy?  It is!
+DEFERRAL ENROLLMENT 2001--ADDED VALUE FOR YOUR FUTURE
+lamoss@duke-energy.com on 11/01/2000 08:44:48 AM
+Alan Lambeth out of our Baytown office is who they can talk to about
+that meter.
+Hist # is 281.424.6812.
+alucio@vertical.net on 03/06/2001 10:37:52 AM
+This is an auto-generated e-mail. 
+Dear JUDITH TOWNSEND, Log into InvestInMe. enron.com with the following Login 
+ID and Password:
+Login ID   -  judy.townsend@ Password  - TOWNSENDJ55868 
+The first step is to get started with a Login ID and Password noted above Web site demonstrations will be held in EB 568 March 6th, from 9 - 5 a.m. 
+(every half hour). Please plan to attend one session. If you have any 
+questions regarding your login information, you can contact the Development 
+Center on x 3-0357.
+InvestInMe. enron.com is a new tool to help you manage your professional 
+development. It brings together the listings of internal programs, as well as 
+access to register from a database of external programs, on-line courses and 
+materials. 
+lamoss@duke-energy.com on 10/18/2000 02:05:54 PM
+Here is the message I received from my technical folks. (below in red).
+As you can see a lot of work is involved.  Let me know how much you would
+plan to nominate at this point, etc.    And can they committ to a certain,
+volume, etc.   Also,  have they talked to HPL about taking gas at this
+point.
+After visiting the site (M&R 71886/76886), I found the following work that
+would need to be done before custody transfer measurement could be
+performed :
+(The site has two 12" meter runs with valve switching (bidirectional flow)
+and run switching - and has not flow gas in over 10 years)
+1. All valves will need to be inspected & overhauled
+A. Run switching valve - major overhaul (needs to be sent off for this
+work)
+B. Control valves - inspected & overhauled (needs to be sent off for
+this work)
+C. Small regulators overhauled
+2. Both meter tubes pulled and inspected
+A. Sr. fitting needs to be overhauled
+B. Tubes will need to be honed (needs to be sent off to have fitting
+overhauled and tubes honed)
+3. All transmitter need to be replaced
+A. Differential - 2
+B. Temperature - 2 (1 additional from original setup)
+C. Pressure - 4
+D. Direct mount manifolds - 2
+E. UPS system
+4. RTU boards need to be furnished
+A. Mother board
+B. STI REM
+C. Main terminal board
+D. Serial IO LEM
+E. Analog Output board
+5. New batteries ( 4 @ $ 160)
+6. Two sets of orifice plates (In .50" increments through Beta range)
+It would take at least 1.5 months to re-work the station controls and
+associated valves, meter runs, and EGM.  If you need more information
+please let me know.
+For June 2000, please schedule the volumes on the FT contract .5618 to the 
+FTR .6942 as follows:
+FT   Z1 surplus 879 to FTR  Z3 shortage
+FT   Z2 surplus 45,206 to FTR Z3 shortage
+FT   Z3 surplus 2,333 to FTR Z3 shortage
+If you have any questions, please call me at 713-853-1755.
+Thanks,
+Judy
+It is amazing and yet not surprising how much Enron has accomplished in the=20
+first six months of this year. You continue to make it happen.  We recognize=20
+that you work hard every day to accomplish Enron=01,s business goals, and we are=20
+pleased that many of you have shared in the company=01,s financial success=20
+through Enron stock options.=20
+As you may know, the current employee stock option program (also known as the=20
+All Employee Stock Option Program or AESOP) began in 1994 and provided value=20
+to participants through 2000.  Employees who have participated in this=20
+program from its inception have realized a 1,119% increase in the value of=20
+their stock options (assuming a stock price of $70) over the life of the=20
+program.  =20
+Enron stock options are a valuable part of your total compensation package=20
+and a contributing factor to your performance and to Enron=01,s continued=20
+success.  Therefore, the Enron Executive Committee and the Compensation and=20
+Management Development Committee of the Enron Board of Directors have decided=20
+to continue to offer stock options as a part of your compensation package.
+On May 1, 2000, the Committee approved an employee stock option program for=20
+calendar years 2001 - 2005 (EnronOptions =01) Your Stock Option Program).  It is=20
+expected that EnronOptions =01) Your Stock Option Program will be granted,=20
+effective on or about December 29, 2000, for those employees who are eligible=20
+on that date (please see note below).  The new program, which is subject to=20
+final approval by Enron=01,s Board of Directors, is as follows:
+? EnronOptions =01) Your Stock Option Program will give stock options to=20
+eligible full-time and part-time regular employees in domestic and=20
+international companies/locations.
+? The grant of non-qualified stock options will equal 25% of annual base=20
+salary (5% of annual base salary for each year of a 5-year period) on=20
+December 29, 2000. (Salary calculation and value may vary in some=20
+international locations.)
+? The Board will grant the stock options on December 29, 2000.
+? Eligible employees hired in subsequent years will receive a prorated grant=20
+of stock options.
+Why commit your talent and energy to Enron?  EnronOptions =01) Your Stock Option=20
+Program, among other good reasons=01( that=01,s why.
+In the coming weeks, you will be receiving more details about EnronOptions =01)=20
+Your Stock Option Program.  To provide information and answer your questions,=20
+we will introduce a special link on the Human Resources web-site, host=20
+several eSpeak sessions and continue to communicate with you on a regular=20
+basis.  In the meantime, if you have immediate questions, please contact your=20
+Human Resources representative.=20
+Note: In addition to final approval by Enron=01,s Board of Directors, granting=20
+of options will be subject to New York Stock Exchange and state and federal=20
+regulatory requirements.  It is expected that EnronOptions =01) Your Stock=20
+Option Program will be available to most Enron employees; however, some Enron=20
+companies=01, employees may not be eligible due to legal, accounting, tax, labor=20
+or business issues.  As you know, Enron changes to meet the needs of the=20
+marketplaces we serve.  Given that need to change, we will continue to refine=20
+the eligibility for EnronOptions =01) Your Stock Option Program and will=20
+communicate more details throughout the year with final eligibility being=20
+determined on December 29, 2000. =20
+My location is EB 3224C and ext 31755
+agoddard@nisource.com on 03/08/2001 09:16:57 AM
+Attached is Columbia Distribution's notice of capacity available for release
+for
+the summer of 2001 (Apr. 2001 through Oct. 2001).
+Please note that the deadline for bids is 3:00pm EST on March 20, 2001.
+If you have any questions, feel free to contact any of the representatives
+listed
+at the bottom of the attachment.
+Aaron Goddard
+- 2001Summer.doc
+Sent by: Enron Announcements@
+EnronOptions Announcement
+We have updated the EnronOptions =01) Your Stock Option Program web site!  The=20
+web site now contains specific details of the EnronOptions Program including=20
+the December 29, 2000 grant price and additional information on employee=20
+eligibility.
+Access EnronOptions =01) Your Stock Option Program web site by clicking on=20
+or by typing the address into your web browser.
+We hope you find the revised site helpful in addressing your questions about=20
+the EnronOptions Program.  If you have any additional questions, please=20
+contact your H.R. Representative.
+Stay tuned for more information throughout March and April 2001.
+alucio@vertical.net on 03/06/2001 10:37:52 AM
+This is an auto-generated e-mail. 
+Dear JUDITH TOWNSEND, Log into InvestInMe. enron.com with the following Login 
+ID and Password:
+Login ID   -  judy.townsend@ Password  - TOWNSENDJ55868 
+The first step is to get started with a Login ID and Password noted above Web site demonstrations will be held in EB 568 March 6th, from 9 - 5 a.m. 
+(every half hour). Please plan to attend one session. If you have any 
+questions regarding your login information, you can contact the Development 
+Center on x 3-0357.
+InvestInMe. enron.com is a new tool to help you manage your professional 
+development. It brings together the listings of internal programs, as well as 
+access to register from a database of external programs, on-line courses and 
+materials. 
+Do you know anyone who would like or need detailed maps from the Final 
+Environmental Impact Statement for Gulfstream?  I typically don't keep 
+environmental information for projects because it takes up so much room and 
+nobody ever asks for it.  However, this does have facility location maps of 
+the project and various alternatives.  The full system is broken down into 
+121 topographic maps, so it's very detailed.  This may not be the final 
+routing, but it will be pretty close.
+First come, first served.  I only have one volume.
+Sent by: Enron Announcements@
+It is not under Business Application....can't find it.
+Judy
+It should be under Business Applications...is it not there?
+Julie
+Julie, 
+I can not find the CQG application, but I still need it.
+Thanks.
+Judy
+Judy,
+Could you let me know if you are still using the CQG application?
+Thanks,
+Julie Pechersky
+Market Data
+x39225
+Judy Townsend
+jtownse@yahoo.com
+Please send me your home e-mail address.
+Kimberly Bates
+East Gas/Origination
+713-853-5193
+713-646-8453 Fax
+Leah, here is shanna's resume.  Call me.
+Judy 
+- Shanna Boudreaux .doc 
+- Backup of cover letter-gaspipe.wbk 
+Works with Hendrickson
+mark mckee
+mmckee@nisource.com
+Julie, 
+I can not find the CQG application, but I still need it.
+Thanks.
+Judy
+Judy,
+Could you let me know if you are still using the CQG application?
+Thanks,
+Julie Pechersky
+Market Data
+x39225
+no, i still need 1149026 invalidated and then i can change counterparty name.  thanks.
+Judy,
+those deals should be invalidated.  Do you want me to chang the book names?
+SPR
+Today we announced another positive development in our efforts to regain shareholder and market confidence, strengthen our balance sheet and help maintain our credit rating.
+We have executed a commitment letter with two of our longstanding banking partners, JPMorgan (the investment banking arm of JPMorgan Chase & Co.) and Salomon Smith Barney (the investment banking arm of Citigroup Inc.), that will provide us with additional secured credit lines worth $1 billion.  Our Northern Natural Gas Company and Transwestern Pipeline Company will support these assets.  The proceeds will be used to supplement short-term liquidity and to refinance maturing obligations.
+The pipelines are not being sold.  Enron is only using these assets for this new credit line.  Secured financing like this provides an expeditious way to increase liquidity and restore confidence.  We also have the capacity to increase this facility by an additional $200 million if we bring in additional banks to participate.
+This money is in addition to the $3 billion in our credit lines we accessed last week to pay off short-term commercial debt and keep more than $1 billion in cash.
+I know it is discouraging to read the negative media coverage about our company.  On a positive note, there was an editorial in last Sunday's Houston Chronicle that I want you to read:  <   This is an extremely difficult time for everyone and I appreciate everything you do for Enron.
+Don't forget to read our voice mail and e-mail transcripts covering these developments on the Enron Updates intranet site at 
+Thank you.
+The ClickAtHome Database shows that you have placed an order with Dell Computer with an order number of 693288078. Please read below for instructions:
+1.  If this is correct, enjoy your computer!
+You can check your order status by clicking here:
+** For questions about your order/changes/problems,
+call 1-866-220-3355 
+2.  If you did NOT place an order with Dell for the ClickAtHome program,
+please email enron@avenueb2e.com or call 713-895-9001 to report
+the incorrect order on your behalf.
+3.  DELL OFFERS A 30 DAY NO QUESTIONS ASKED RETURN POLICY.
+THE 30 DAYS BEGINS FROM THE DAY YOUR PC IS SHIPPED FROM DELL.
+YOU WILL NOT BE ABLE TO RETURN YOUR PC AFTER THE 30 DAY PERIOD HAS PASSED.
+IF FOR ANY REASON, YOU BELIEVE YOU MAY NEED TO RETURN YOUR PC
+(INCLUDE FOR REPAIR OR SERVICE ISSUES), YOU MUST CALL DELL AT
+1-866-220-3355 BEFORE THE END OF THE 30 DAY PERIOD AND RECEIVE
+A RETURN AUTHORIZATION NUMBER. YOU MUST HAVE THIS NUMBER
+BEFORE THE END OF THE 30 DAYS.
+Thank you!
+ClickAtHome Team!
+sorry,  tetco is right....  .035  Do I need to change the ticket?
+Contract 910262, Deal # 1072014
+Pipe invoiced a demand rate of .035 ($1.085) on volume of 20,000.  The rate in Sitara is .03.  The amount of variance is  $3,100.
+Which is correct?
+Thanks,
+Brenda
+Hi Connie,
+I was just asking Scott H. about Melissa...I thought she was due in December.  He said you might be staying.  Did she know it was a boy? Everything go well?  Now you have two beautiful grandchildren!!  Baby Kyle missed Rob's birthday by one day....Rob's is today 
+Hope things are going well for you.  I'm still here.  I don't know for how long...sounds like we may know something by tomorrow????  Don't know for sure.
+Hope to talk to you soon!
+Judy
+As things begin to calm down somewhat after events of last week, we wanted to update all employees of certain organizational and personnel changes that have occurred recently.
+Organizational Matters
+The Creditors' Committee was formed last week by the United States Trustee.  This committee is comprised of 15 individuals representing various creditor groups including: banks, bondholders, insurance companies and employees.  The Creditors' Committee will be the key point of contact as we reorganize the company and emerge from Chapter 11.  Initially, they will send financial advisors to our offices to monitor any asset liquidations as well as review our cash flow projections.  Ultimately, they will be responsible for approving our reorganization plan as to which assets or businesses we sell and which ones we retain.
+From an Enron perspective, the plans for reorganization have already begun.  Overhead has been reduced dramatically, certain employee retention programs have been put in place and a wider retention program is currently being developed.  We hope to share the wider retention program with you in the very near future.  Furthermore, detail cash flow projections are in their final stages of preparation and will be reviewed by senior management this week.  This will be the critical first step in formulating our reorganization strategy to emerge from Chapter 11 as a healthy company.
+As for the remaining businesses of Enron, they are all under review as to which ones will be proposed for sale and which ones will be proposed for retention.  This review process will take time as it will require approval of the Creditors' Committee.  We will update you periodically on our process.
+Personnel Matters
+As a result of our current situation, we have made many personnel changes over the past several months to maximize the value of the organization.
+Office of the Chairman - Enron Corp
+Jeff McMahon, Executive Vice President and Chief Financial Officer, has been added to the Office of the Chairman of Enron Corp along with Ken Lay and Greg Whalley.  Among other things, Jeff has been working on the business plan for reorganization in Chapter 11 and is the primary contact with the newly formed Creditor's Committee.
+Treasurer - Enron Corp
+Ray Bowen was elected to Executive Vice President, Finance and Treasurer of Enron Corp recently.  In this role, Ray is responsible for all finance activities of Enron Corp.  Ray also has the lead role in managing the cash activities of the company on a day to day basis.
+Corporate Development
+Mark Muller has been appointed Executive Vice President - Corporate Development.  In this role, Mark will work with Enron's various business units on all asset disposals, which will be a key element in Enron's reorganization plan and value preservation.
+Wholesale Services
+The Wholesale Services group has been reorganized under the leadership of Jim Fallon.  Included in this group are the following businesses, ENA, EBS, EIM and EGM.  As part of the Chapter 11 reorganization, efforts in these businesses will be directed at maximizing value for the creditors as well as determining which businesses or assets will be part of Enron's reorganization plan.
+Management Committee Departures
+Unfortunately, due to the current financial condition of the company, the following members of the management committee have left the company or will be leaving the company by the end of December:
+Michael Brown
+Mark Frevert
+Steve Kean
+Mike McConnell
+Jeff Shankman
+Additionally, John Lavorato and Louise Kitchen have resigned from the Management Committee to arrange for the joint venture energy activities of NETCO.
+We know as employees the uncertainty surrounding the future of the company is unsettling.  Unfortunately, that aspect will not change in the near term.  We ask for everyone's patience and continued support as we move forward through the Chapter 11 process.  We are committed to reorganizing into a strong company once again and will need the help of all the employees to achieve that goal.
+I heard the good news!!!! I am so excited for you.  Merry Christmas and keep in touch.
+Judy
+Hey Ya'll,
+Just wanted to let ya'll know that I am employed now!!  Yeah!!!!  I am going
+to be a Algonquin Gas Scheduler for Duke-Energy!  I am so excited and
+relieved.
+Hope ya'll have a great Christmas!
+Keep in touch,
+Shanna
+_________________________________________________________________
+Join the world's largest e-mail service with MSN Hotmail.
+If you are a participant in the Enron Corp. Savings Plan, please read this very important message.
+We understand that you are concerned about the timing of the move to a new Savings Plan administrator and the restricted access to your investment funds during the upcoming transition period scheduled to take place beginning at 3:00PM CST on October 26 and ending at 8:00AM CST on November 20 
+We have been working with Hewitt and Northern Trust since July.  We understand your concerns and are committed to making this transition period as short as possible without jeopardizing the reconciliation of both the Plan in total or your account in particular 
+Remember that the Enron Corp. Savings Plan is an investment vehicle for your long-term financial goals.  The Enron plan will continue to offer a variety of investment opportunities with different levels of risk 
+As always, we advise you to review your overall investment strategy and carefully weigh the potential earnings of each investment choice against its risk before making investment decisions that are aligned with your long-term financial plans and your risk tolerance. 
+For that reason, it is critical that ALL trades among your investment funds be completed by 3:00 PM CST Friday, October 26 before the transition period begins.
+Mark your calendar 	the Enron Corp. Savings Plan is moving to a new administrator!
+In preparation, here are a few things you need to remember.
+For All Savings Plan participants, Friday, October 19 at 3:00pm CST will be the last day to:
+?	Request a loan or a loan payoff so that funds can be allocated or distributed in time.
+?	Request a withdrawal (In-service or Hardship).
+For SDA Participants, Friday, October 19 at 3:00pm CST will be your last day to:
+?	Make trades in your Schwab SDA brokerage account so that we can move your holdings in-kind. 
+?	Re-invest any Schwab mutual funds into your choice of funds  - the default will be your money market fund.
+Other transactions, such as Contribution Rate Changes and Investment Fund Transfers, will continue until 3:00pm CST on October 26 
+EnronBenefits... keeping pace with your lifestyle.
+ Subject:     FW: Is he holding you?

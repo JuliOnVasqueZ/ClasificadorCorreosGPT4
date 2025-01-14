@@ -1,0 +1,363 @@
+(See attached file: AnnualStats.xls)
+This staff meeting is monday at 9:30 in 3AC.
+Something for us to talk about during our next staff meeting.
+There are three projects which have significant cash flow problems and thus difficulties in meeting debt obligations: these are: SECLP, Panama and Gaza.  In the past, as I suppose we have done in Dabhol, we have taken the position that we would not inject cash into these companies and would be prepared to face a default and possible acceleration of the loans.  SECLP has been the biggest issue/problem.  Panama is much less (a few million of floating of our receivables from the company) would be sufficient to meet the cash crunch in April of this year.  Note that, in Panama, the debt is fully guaranteed by the government and is non-recoursed to the operating company, BLM.  In the past, we have discussed letting the debt default, which would cause the bank to potentially seek complete payment and acceleration from the GoPanama.  The reason: the vast majority of BLM's problems stem from actions taken by the regulator that have effectively amended our PPA's with private parties; those actions resulted in significant loss of revenues, which although today have stopped or have been limited, have left a "mark" on the company's liquidity position. =20
+Now the question is: come April of 2002, should any of our actions in Panama or decisions related thereto (which we would have otherwise taken or made) be affected in any way by either the proposed merger or an effort by Enron to preserve efforts to re-establish investor/creditor confidence?  The same could go for SECLP and Gaza.
+This is simply an overall "guidance" question.  Let's take it up during our staff meeting next week, if that's ok with you.
+Many thanks, Mariella
+I need to send this to Jeff and Ray and get it back agreed to before we can actually fund otherwise I am not comfortable with the agreement and the reps we are making. 
+The following representations (among others) have been made to various parties relative to both the credit agreement (with the banks) and the Preferred Stock Agreeement (Dynegy) to the Boards of Transwestern (TW), Northern (NNG) and Enron Transportation Services (ETSC) and it subsidiaries, as well as to Dynegy and the banks:
+The funds that are being loaned out of NNG and TW to various entities and the further loans of these funds to Enron will carry Enron Corp guaranties.
+The note agreements will reimburse NNG, TW and ETSC and their subsidiaries for their actual expenses associated with these endeavors.
+The credit agreements actually require a large degree of separateness and an arm's length standard needs to be applied to dealings between ETSC and its subsidiaries and Enron and the rest of it's subsidiaries.
+Before the funding under the credit agreement takes place I would like to make sure that you two are aware of this, have agreed to and understand the conditions and further agree that you will assist me in cleaning up whatever documentation needs to be cleaned up between Enron and ETSC and it's subs to make the above representations not be false.
+Rod Hayslett
+Managing Director, Chief Financial Officer and Treasurer
+Enron Transportation Services Company
+EB4054
+1400 Smith Street
+Houston, TX  77002-7361
+713-853-6178
+rod.hayslett@
+I don't know but I need you to call me (i'm at work) and check your email for one I just sent out.
+Is the plan still to execute CA this morning?
+The following representations (among others) have been made to various parties in due diligence relative to both the credit agreement (with the banks) and the Preferred Stock Agreement (Dynegy) to the Boards of Transwestern (TW), Northern (NNG) and Enron Transportation Services (ETSC) and it subsidiaries, as well as to Dynegy and the banks:
+The funds that are being loaned out of NNG and TW to various entities and the further loans of these funds to Enron will carry Enron Corp guaranties.
+The note agreements will reimburse NNG, TW and ETSC and their subsidiaries for their actual expenses associated with these endeavors.
+The credit agreements actually require a large degree of separateness and an arm's length standard needs to be applied to dealings between ETSC and its subsidiaries and Enron and the rest of it's subsidiaries.
+Before the funding under the credit agreement takes place I would like to make sure that you two are aware of this, have agreed to and understand the conditions and further agree that you will assist me in cleaning up whatever documentation needs to be cleaned up between Enron and ETSC and it's subs to make the above representations not be false.
+Rod Hayslett
+Managing Director, Chief Financial Officer and Treasurer
+Enron Transportation Services Company
+EB4054
+1400 Smith Street
+Houston, TX  77002-7361
+713-853-6178
+rod.hayslett@
+If we do this, we need to have both an internal group and an external group.
+Rod, Charlie if we are looking for someone internally to do a review process, Sarabeth possibly can provide this function.  Your thoughts?
+Do you have a candidate?    I would argue that we are looking at a process review, so anyone who can do a process review could do this.
+Rod,
+I agree with Kenneth Cessac's response.  We should evaluate our current process for collecting, validating and distributing measurement data and consider new ideas and alternatives to improve the process.  Assistance from a consulting firm that specializes in this area would probably be better than using Rutherford.
+Charlie 
+This question has been raised several times over the past 10+ years, should we combine GMS, Field Operations, and some of the Gas Control functions to create a single source for measurement data.  I do not feel that changing a reporting relationship would correct any problems 
+I feel the time and effort can e better spent improving our current data collect process and data flow between SCADA and PGAS.  While this process is working I feel that it requires to much manual intervention and handling.  The IT department, Measurement Technology, Gas Control Hot Seat, and the Data Analysis are all involved in keeping the data flowing between SCADA and PGAS.  We should step back and re look and the current process and see what improvements can be made to better control and maintain this process.
+A second area that should be looked at is the data validation process.  Currently Field Operations, Data Analysis, and GMS all  manually review measurement data.  With all of the computer and software technology available I feel that we could easily automate most of the current manual data validation.
+I have limited experience with the Rutherford company and what they could provide towards improving these items.  I feel that a company that specializes in SCADA and such as UTSI would be a better option 
+Charlie, Ken, I would like to meet with you this afternoon if possible (2:00 pm) so you can bring me up to speed on PGAS and Sullivan's concern so we can respond to Rod by early next week.
+Thanks,
+Don
+I'm going to defer this to the experts.  Please convey your thoughts to Rod.
+Would you agree that something needs to be done?
+The PGAS reporting project recently completed requirements gathering meetings with data users in gas measurement technology, gas control, gms, gas accounting, and gas logistics.  We think, those discussions have pointed to a need to assess inefficiencies that appear to exist related to data integrity as data moves between systems and users that span the entire gas volume/quality collection, transformation and delivery process.  In other words there seem to be too many questions and reconcilliations that people have to address along the process as data changes hands and is used for different internal and external purposes.  There also appears to be a lack of a single point of responsibility in the organization for gas volume data from start to finish.
+The PGAS reporting project proposed to assess this at a high level and make some recommendations.  But as important as the issue appears to be, you might want to consider using Rutherford to help ETS do a more thorough job of this.
+This effort would extend outside FA&A.
+Please advise.
+Mike, Ellis and I are in agreement that the need for the Rutherford Consulting group is complete.  Rutherford achieved what their goal was; to provide structure and format for the PGAS issues to be addressed in an efficient manner.  The procedures for listing new issues are in place and are being followed by the team.  The meetings are efficient in that only status updates and priorities are reviewed and discussed. There is now only one list for all issues that are being addressed or need to be addressed and they are prioritized.   The monthly meetings are now only needed twice a month.  What is the procedure for notifying Rutherford that their services are no longer needed on this project as they have completed what was asked of them?   cvb
+Does this make us feel better?
+Fine with me.
+,
+Jeff
+The following representations (among others) have been made to various parties in due diligence relative to both the credit agreement (with the banks) and the Preferred Stock Agreement (Dynegy) to the Boards of Transwestern (TW), Northern (NNG) and Enron Transportation Services (ETSC) and it subsidiaries, as well as to Dynegy and the banks:
+The funds that are being loaned out of NNG and TW to various entities and the further loans of these funds to Enron will carry Enron Corp guaranties.
+The note agreements will reimburse NNG, TW and ETSC and their subsidiaries for their actual expenses associated with these endeavors.
+The credit agreements actually require a large degree of separateness and an arm's length standard needs to be applied to dealings between ETSC and its subsidiaries and Enron and the rest of it's subsidiaries.
+Before the funding under the credit agreement takes place I would like to make sure that you two are aware of this, have agreed to and understand the conditions and further agree that you will assist me in cleaning up whatever documentation needs to be cleaned up between Enron and ETSC and it's subs to make the above representations not be false.
+Rod Hayslett
+Managing Director, Chief Financial Officer and Treasurer
+Enron Transportation Services Company
+EB4054
+1400 Smith Street
+Houston, TX  77002-7361
+713-853-6178
+rod.hayslett@
+I would like each of you to help take ownership of this project to be fully able to explain the trends on these sheets.   I would also like to begin to add 2001 3rd CE to this discussion as soon as possible.   Accounting quite possibly has the answers, but I want to get this documented as soon as possible so that we understand the changes and don't have to go back and do this again.   This is not a project that will be complete by friday, but it does need to get complete this year.
+starting point, okay?
+if possible, please indicate line items you woul like us to "drill down" on
+I think I feel better, but I would like some comfort from the lawyer in the crew.
+Be on the look out.
+Maricela: Would you please coordinate with someone at Bracewell regarding wire transfer information to have paid today the following legal bills with respect to time through today:
+(1) Bracewell: $950,000
+(2) Shearman & Sterling: $265,000
+(3) Davis, Polk: $185,291.59
+(4) Local Counsel (to be designated as such, but wired to Bracewell): $60,000.
+I'm sure there is more to follow (ie. Delaware counsel)
+Let me know if you have any questions.
+Thanks.
+Jordan
+Yes I did
+Approved
+We're there given his response.
+Fine with me.
+,
+Jeff
+The following representations (among others) have been made to various parties in due diligence relative to both the credit agreement (with the banks) and the Preferred Stock Agreement (Dynegy) to the Boards of Transwestern (TW), Northern (NNG) and Enron Transportation Services (ETSC) and it subsidiaries, as well as to Dynegy and the banks:
+The funds that are being loaned out of NNG and TW to various entities and the further loans of these funds to Enron will carry Enron Corp guaranties.
+The note agreements will reimburse NNG, TW and ETSC and their subsidiaries for their actual expenses associated with these endeavors.
+The credit agreements actually require a large degree of separateness and an arm's length standard needs to be applied to dealings between ETSC and its subsidiaries and Enron and the rest of it's subsidiaries.
+Before the funding under the credit agreement takes place I would like to make sure that you two are aware of this, have agreed to and understand the conditions and further agree that you will assist me in cleaning up whatever documentation needs to be cleaned up between Enron and ETSC and it's subs to make the above representations not be false.
+Rod Hayslett
+Managing Director, Chief Financial Officer and Treasurer
+Enron Transportation Services Company
+EB4054
+1400 Smith Street
+Houston, TX  77002-7361
+713-853-6178
+rod.hayslett@
+Won't be able to make it.  Sorry.
+Are you going to join us for lunch?
+Stan called back and explained.    We need to do 100% and begin to look at dollars that could be saved.    This is an estimating process to figure out if we can effectively reduce our spending and by how much and then what portion of that benefits Enron.
+Should I bring you something back?  Have you heard from Stan on the O and M?
+FYI
+MESSAGE FROM GREG PORTER
+________________________________________________
+As you know, Transwestern filed a complaint against Southern California Gas Company (SoCalGas) at the Federal Energy Regulatory Commission on September 28, 2001.  The complaint asked FERC to find SoCalGas' refusal to pay the tariff commodity rate constitutes a violation of Transwestern's tariff and the 1995 Global Settlement.  SoCalGas filed an Answer on October 18, 2001.  In summary, SoCalGas' Answer stated:
+1.	SoCalGas did not affirmatively agree to pay the stated tariff rate during the Global Settlement 
+2.	The commodity charge SoCal has been paying is consistent with the course of performance/conduct prior to, and after, the Global Settlement 
+3.	Since the Global Settlement has been in effect, SoCalGas has relied on the commodity/usage charges that Transwestern has billed 
+4.	SoCalGas claims they had been paying the appropriate rate and that Transwestern failed to include the correct rate in its tariff; such omission has created ambiguity and any ambiguity should be construed against the drafter of the tariff, Transwestern.
+5.	If the Commission disagrees with SoCalGas and declines to reject the complaint outright, any retroactive billing adjustment should be limited to a six-month period.
+6.	SoCalGas admits that a retroactive billing adjustment for the escalation factor for six months is reasonable and an escalation factor going forward for the remaining term of its Contract No. 8255 is appropriate.
+In addition to the foregoing statements, SoCalGas provided that it, like Transwestern, was interested in resolving this matter through ADR.  Accordingly, we will be coordinating with SoCalGas and FERC's ADR group to explore possible ADR procedures.
+We will advise as new developments warrant.  In the meantime, should you have any questions regarding this matter please do not hesitate to contact me at (402) 398-7406 or Maria Pavlou at (402) 398-7097.
+Mary Kay, Ray and Rob:  Can you 3 help her out on 1 & 2?
+Tracy:   Please handle 3.
+We have some investors who are interested in knowing more about the pipes.  Can you please tell me who can anwser/confirm the following:
+1.  Per the latest rate cases the nominal ROE's and related capital structures are as follows:
+ROE				12.89%	12.18%	13.49%
+Equity Ratio(equity to debt)	60%	60%	42%
+2. Is rate base calculated on equity or assets?
+3. What was the percentage of capacity for each of the pipes for the first nine months of this year?
+It would be very helpful if you or someone could respond this afternoon. 
+Thanks!
+_________________________
+Gay Mayeux
+Vice President, Investor Relations
+Enron Corp.
+1400 Smith Street, EB 4931a
+Houston, Texas 77002
+Phone:  713-853-9905
+Cell:      713-416-8821
+Fax:      713-646-3002
+email:    gay.mayeux@
+No, but thank you foroffering
+If you need me I'm in the cafeteria for 5 minutes
+Are you aware of this?
+Stan's meeting with Phil's group is at 2:00 today in 2AC12 - Forum.
+Is this a place that is big enough to handle some extras?
+Stan's meeting with Phil's group is at 2:00 today in 2AC12 - Forum.
+I was actually thinking only about the people in Morris's Brassfield's crew?  But he should now about already, as he supports Phil.
+It is an auditorium-type room. I can't say it is big enough to bring your entire finance group, but I'm sure there will be room for some extras.
+Is this a place that is big enough to handle some extras?
+Stan's meeting with Phil's group is at 2:00 today in 2AC12 - Forum.
+No, I'm working on the credit agreement.
+Yes, Amelia sent us a note early this morning.   Are you coming to it?
+Morris A. Brassfield
+Enron Transportation Services
+Senior Director
+Operations Support Services
+Three Allen Center 3285
+333 Clay Street
+Houston, Texas 77002
+713-646-7006  Business Phone
+713-503-1409  Cell Phone
+Are you aware of this?
+Stan's meeting with Phil's group is at 2:00 today in 2AC12 - Forum.
+Thanks.
+Don't work too hard.   Anything I can do for you, don't hesitate to call.
+Morris A. Brassfield
+Enron Transportation Services
+Senior Director
+Operations Support Services
+Three Allen Center 3285
+333 Clay Street
+Houston, Texas 77002
+713-646-7006  Business Phone
+713-503-1409  Cell Phone
+No, I'm working on the credit agreement.
+Yes, Amelia sent us a note early this morning.   Are you coming to it?
+Morris A. Brassfield
+Enron Transportation Services
+Senior Director
+Operations Support Services
+Three Allen Center 3285
+333 Clay Street
+Houston, Texas 77002
+713-646-7006  Business Phone
+713-503-1409  Cell Phone
+Are you aware of this?
+Stan's meeting with Phil's group is at 2:00 today in 2AC12 - Forum.
+Talk to Steve, but I think he is working on a reliability issue that probably needs to handled, but may be able to be done over a period instead of all at once.   I really don't know, but he will.
+Rod, did you and Steve talk specifically about the emergency back-up center Jean McFarland is trying to get set up at the hangar, and does this directive also mean to put that on hold?
+All spending that can be delayed needs to be delayed.	I want to make it clear that items for health, safety, security and reliability that need to be spent will be spent, if necessary, but all other spending needs to be slowed down as much as possible and delayed until further notice.   This is a directive I have just received from Stan.
+Rod Hayslett
+EB4054
+713-853-6178
+I am hearing all sorts of noise and need confirmation and guidance.  Phil Lowry just have Nick Rahn $2.7 mil to do various upgrades in the field, from server upgrades to phone switch upgrades as well as purchase the new software/hardware for the PHD rewrite. All are necessary upgrades if not done this year will have to be done next year.  Not one of these upgrades projects is over $900k but together it totals $2.7.  We also are continuing to do upgrades in the Houston offices - all budgeted items and if not upgraded this year will have to be done next year.  Do I say STOP - and if so for all companies or just for NNG and TW?   cvb
+I believe so
+Rod, 
+Has NNG received this 
+Whalley predicted transactions would return to more normal levels by the end of the week with the recent $1.5 billion infusion of equity from Dynegy. 
+It's an informal get together that shouldn't last more than about an hour.    I want to make sure you all have access to info and we can share concerns etc.
+We have a conference call scheduled for tomorrow.  What is the specific topic of discussion and do we need to prepare anything and forward it to you for that discussion.
+Thanks
+FYI
+Gay, In response to question No. 1 for NNG and TW, please see the following:
+NNG					TW
+Return on Equity				12.27%					11.50%
+Capitalization Structure		Debt: 41.57%; Equity: 58.43%		Debt: 42.00%; Equity: 58.00%
+In response to question No. 2, rate base is calculated on assets, specifically: net plant, certain regulatory assets, working capital, offset by a credit for deferred taxes.
+Please let me know if you have any further questions.  Tim
+Tim,  we need to put this info together asap.  See me-  MK
+Mary Kay, Ray and Rob:  Can you 3 help her out on 1 & 2?
+Tracy:   Please handle 3.
+We have some investors who are interested in knowing more about the pipes.  Can you please tell me who can anwser/confirm the following:
+1.  Per the latest rate cases the nominal ROE's and related capital structures are as follows:
+ROE				12.89%	12.18%	13.49%
+Equity Ratio(equity to debt)	60%	60%	42%
+2. Is rate base calculated on equity or assets?
+3. What was the percentage of capacity for each of the pipes for the first nine months of this year?
+It would be very helpful if you or someone could respond this afternoon. 
+Thanks!
+_________________________
+Gay Mayeux
+Vice President, Investor Relations
+Enron Corp.
+1400 Smith Street, EB 4931a
+Houston, Texas 77002
+Phone:  713-853-9905
+Cell:      713-416-8821
+Fax:      713-646-3002
+email:    gay.mayeux@
+I think what the partnership values it does not have to have a relationship to what we value it at.
+Jim?
+FYI, we received the signed copy from Williams today on MOPS.
+Steve Dowd called me about the sale of our interest in Trailblazer.  He wanted to know if we were valuing the interest would we treat it differently because we are buying the partnership interest?  Would we treat the depreciation differently at the partnership level than the asset level?  For example, if the asset sold for $110, but the partnership valued it at $100, how would we account for the $10 difference, assuming these figures represented ENE's interest in the assets?
+Thanks,
+Michael
+Kathy Campos
+ETS Finance
+EB4055
+713-853-6833
+Thanks.    Great job.
+Signed and funded. We will hit nng tomorrow.  Thanks for all of your help.
+Do you have any critical people that you are afraid you will lose because of the merger?   How about a group?
+Rod Hayslett
+EB4054
+713-853-6178
+The meeting will at the most last a little more than an hour or 2.    Nothing special to prepare for.
+Please note this meeting will now be from 2:00 - 5:00 PM on Thursday, November 15, 2001 in EB49C2.
+If unable to attend, please join via teleconference at:
+Dial In:		1-800-432-2180
+Passcode:	707819
+Omaha participants please plan on meeting in OMA7C2.
+Thank You,
+Kathy Campos
+Please note this meeting has now been rescheduled for Thursday, November 15, 2001 from 1:00 - 3:00 PM in EB49C2.
+For Omaha participants this meeting will be in OMA 7C2. 
+Please mark your calendars.
+Thank You,
+Kathy Campos
+No reason to be other at this point.
+FYI.  Recall that I directed Arnold to request this as a result of my conversations with Pete Weidler - he wanted to ensure we didn't get too far out in front on expenditures.  I'm going to ask Arnold to indicate that it is our normal review process, unless you guys disagree.
+Jerry
+Arnold,
+I'm in Bolivia this week, returning to Houston over the weekend and then going on to Miami for meetings with GTB's lenders, Exim and CAF.  I will bring the information you requested back with me and give it you when I get back into the office the week after Thanksgiving.  In summary, GTB is in good shape....we raised $10MM more in bridge loans than we planned and are making good progress with our Exim and CAF financing.  The lenders have completed their due diligence and we are meeting next week to finalize term sheets before the lenders go to their respective boards for credit approval 
+Just curious...is this request in accordance with your regularly scheduled review process or something more?  GTB's financial condition if anything has improved since the EPC contract was signed...wish we could say the same for Enron.
+BRS 
+where did you get this?
+A little humor to keep us smiling in these troubled times:
+Make sure to read the last one.
+Social Studies: Some Useful Definitions
+Feudalism
+You have two cows.
+Your lord takes some of the milk.
+Fascism
+You have two cows.
+The government takes both, hires you to take care of them and
+sells you the milk.
+Applied Communism
+You have two cows.
+You must take care of them, but the government takes all the milk.
+Capitalism
+You have two cows.
+You sell one and buy a bull.
+Your herd multiplies, and the economy grows.
+You sell them and retire on the income
+Enron Venture Capitalism
+You have two cows.
+You sell three of them to your publicly listed company, using letters of credit opened by your brother-in-law at the bank, then execute a debt/equity swap with an associated general offer so that you get all four cows back, with a tax exemption for five cows. The milk rights of the six cows are transferred via an intermediary to a Cayman Island company secretly owned by the majority shareholder who sells the rights to all seven cows back to your listed company. The annual report says the company owns eight cows, with an option on one more. - No Balance Sheet provided with the release.
+FYI
+A little humor to keep us smiling in these troubled times:
+Make sure to read the last one.
+Social Studies: Some Useful Definitions
+Feudalism
+You have two cows.
+Your lord takes some of the milk.
+Fascism
+You have two cows.
+The government takes both, hires you to take care of them and
+sells you the milk.
+Applied Communism
+You have two cows.
+You must take care of them, but the government takes all the milk.
+Capitalism
+You have two cows.
+You sell one and buy a bull.
+Your herd multiplies, and the economy grows.
+You sell them and retire on the income
+Enron Venture Capitalism
+You have two cows.
+You sell three of them to your publicly listed company, using letters of credit opened by your brother-in-law at the bank, then execute a debt/equity swap with an associated general offer so that you get all four cows back, with a tax exemption for five cows. The milk rights of the six cows are transferred via an intermediary to a Cayman Island company secretly owned by the majority shareholder who sells the rights to all seven cows back to your listed company. The annual report says the company owns eight cows, with an option on one more. - No Balance Sheet provided with the release.
+Fyi
+Dorothy:
+I am dropping you this e-mail at the request of Rod Hayslett and in response to your voice mail message to him concerning the status of the price redetermination under the LNG contract with Duke.  The parties reached settlement on this issue about a week before arbitration.  The new price beginning September 1 is 92.5% of the Equivalent MMBtu Price of No. 6 Fuel Oil less $0.25 per
+MMBtu.  Of course, the other provisions of the contract,  such as the ceiling price, the floor price and the bank provisions,  remain.
+I trust that makes some semblance of sense.  If you have additional questions, please call.
+Jeff
+I will approve the posting subject to the condition that it be internal only at this time.
+I will submit that that may be the case today.  I am only concerned that when the situation changes that we will not be willing to discuss the opposite and the question still remains as to what the form 2 (regulatory) will require.
+We have done it before, in fact it was the way all of the pipes were originally built, but not for short term stuff.    Gavin Russo can probably help us with his property tax background.   Lou, please try to get hold of Gavin or whomever he believes should take part in the discussion.=20
+Here's a little more detail on the voice mail I left you earlier.  The banks want more than just secured debt.  They want a mortgage on all of TW and NNG's real property.  That's right, they want a filing with every county courthouse where NNG and TW own assets.  I want to talk to you tomorrow before Stan's meeting about why that is just a terrible idea.  In short, at the same time we are doing this big loan and cash infusion into ENA to "calm the market" we will simultaneously have dozens of right of way guys and local real estate lawyers crawling all over the place doing something I don't think any pipeline has done before (at least not in my memory).  Nevertheless, I want to be able to move forward if there is no alternative.  For us to prepare mortgage documents we need (I think) to have approximate property values by county.  Do we have this info somewhere?  Are ad valorem tax values kept by county?  I don't think our FERC books will be much help on this.  Lou is getting Johnny McGee and some folks together after Stan's meeting to talk to me and the Vinson and Elkins folks about how we can do this project if we have to.  It will be a challenge, particularly in the 2 week timetable they are talking about.       Talk to you tomorrow.  DF 
+I'm about to return to the office to see it.  About 15minutes.
+Listen to voice mail forwarded from Jim
+treasury had not recorded a payment, so things should be clean now.  Accounting is double checking.  I have a call into Nora.
+This is fine.
+How's this?
+Recently we've had a couple of mix ups regarding vacant office space and phone moves. In light of this, we'd like to help by coordinating the moves in 3AC like we've been doing in the Enron Building. We know you are all very busy, and we'll be happy to submit move requests for you, including telephone moves and reassignments.
+This will also enable us to keep current on floor space billing and make sure it gets corrected when an employee moves.
+Please contact Ruthann (x66538) for assistance with any moves in 3AC, and Pam (x36135) for assistance with any moves in the Enron Building. Of course, if one of us is unavailable, feel free to call the other. If an office or cubicle is vacant and you would like to put someone in it, please contact us, so we can help coordinate it and hopefully avoid confusion.
+Thanks for your help.
+Pam Daily and Ruthann Frausto
+Maybe overkill, I would rather send them an email talking about the problems, and they have to let you 2 know when they going to use a space, and how they can coordinate stuff with you 2 instead of dictating.   I am little touchy right now about how to approach people, so we need to be careful.   I am open to more discussion on this, just would like to soften the tone a litlle.
+That sounds good. We might also want to include any other request that would potentially use a "space" such as tables for data rooms, contractors, etc. If they think it only applies if they are actually moving a person or phone, the spaces we think we have available may be used without churns. For instance, sometimes I think spaces are available for use, only to find boxes and/or equipment has been set up. Just a thought. What do you think -- overkill?
+What do you think of this to send out to the admins in 3AC?
+In an effort to better control our space planning needs, effective immediately all ETS moves will be coordinated by Pam Daily and Ruthann Frausto. This pertains to all moves, including telephone only moves.
+Please contact Pam (X36135)  regarding any moves in the Enron Building, and contact Ruthann (x66538) regarding any moves in the 3AC building. Of course, if one of us is unavailable, feel free to contact the other.
+Thank you for your cooperation.
+Feel free to make any changes you'd like.
+RF
+How about sending it out from me.
+How's this?
+Recently we've had a couple of mix ups regarding vacant office space and phone moves. In light of this, we'd like to help by coordinating the moves in 3AC like we've been doing in the Enron Building. We know you are all very busy, and we'll be happy to submit move requests for you, including telephone moves and reassignments.
+This will also enable us to keep current on floor space billing and make sure it gets corrected when an employee moves.
+Please contact Ruthann (x66538) for assistance with any moves in 3AC, and Pam (x36135) for assistance with any moves in the Enron Building. Of course, if one of us is unavailable, feel free to call the other. If an office or cubicle is vacant and you would like to put someone in it, please contact us, so we can help coordinate it and hopefully avoid confusion.
+Thanks for your help.
+Pam Daily and Ruthann Frausto
+Maybe overkill, I would rather send them an email talking about the problems, and they have to let you 2 know when they going to use a space, and how they can coordinate stuff with you 2 instead of dictating.   I am little touchy right now about how to approach people, so we need to be careful.   I am open to more discussion on this, just would like to soften the tone a litlle.
+That sounds good. We might also want to include any other request that would potentially use a "space" such as tables for data rooms, contractors, etc. If they think it only applies if they are actually moving a person or phone, the spaces we think we have available may be used without churns. For instance, sometimes I think spaces are available for use, only to find boxes and/or equipment has been set up. Just a thought. What do you think -- overkill?
+What do you think of this to send out to the admins in 3AC?
+In an effort to better control our space planning needs, effective immediately all ETS moves will be coordinated by Pam Daily and Ruthann Frausto. This pertains to all moves, including telephone only moves.
+Please contact Pam (X36135)  regarding any moves in the Enron Building, and contact Ruthann (x66538) regarding any moves in the 3AC building. Of course, if one of us is unavailable, feel free to contact the other.
+Thank you for your cooperation.
+Feel free to make any changes you'd like.
+RF
+Is the same true for the current estimate?
+Please find attached file. Transportation & Storage Revenue is right off the Earning Model Income Statement. Carlton data can be found in the Commercial Function detail within the "Database" worksheet of the Earning Model. The Cash Flow verbiage is very general related to the subject matter, but does provide a business reason on a Direct Cash Flow basis for an item buried within the Indirect Cash Flow format. Call me if you have any further questions.
+Can you help explain how the data in the attached file matches the detailed budgets and current estimates you have provided to me?    It may simply, I just haven't had time to look.
+Rod,
+Thanks for the email.  Can you help me match the information in this email
+to your operating plan or cash flow analysis?
+Kyle
+ Do you have the volume and rate information on Northern Natural that
+ will tie to Rod's forecast as well?

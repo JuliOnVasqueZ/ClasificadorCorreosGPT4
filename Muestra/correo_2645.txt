@@ -1,0 +1,1105 @@
+(Dave's response)
+Oh my God! How worried should I be? There are 11 letters in the name
+"David Pawson!" I'm going into hiding NOW. See you in a few weeks.
+Wait a sec ... just realized "YOU CAN'T HIDE" also has 11 letters! What
+am I gonna do? Help me!!! The terrorists are after me! ME! I can't
+believe it! Oh crap, there must be someplace on the planet Earth I could
+hide! But no ... PLANET EARTH" has 11 letters, too!  Maybe Nostradamus can
+help me. But dare I trust him? There are 11 letters in "NOSTRADAMUS." I
+know, the Red Cross can help. No they can't... 11 letters in "THE RED
+CROSS," can't trust them. I would rely on self defense, but "SELF DEFENSE"
+has 11 letters in it, too! Can someone help?  Anyone? If so, send me email.
+No, don't... "SEND ME EMAIL" has 11 letters 
+Will this never end? I'm going insane! "GOING INSANE???" Eleven letters!!
+Nooooooooooo!!!!!! I guess I'll die alone, even though "I'LL DIE ALONE" has
+11 letters.....  Oh my God, I just realized that America is doomed! Our
+Independence Day is July 4th ... 7/4 ... 7+4_!
+~Dave
+PS. "IT'S BULLSHIT" has 11 letters also.
+_________________________________________________________________
+maybe it was over the internet that the bread was so expensive.  You guys still have charger fever out there after a few loses?
+PL
+That is cool . The price per loaf in SD is about $ 2.95 at Cost co . The
+soup would be a good idea
+as it is starting to get cold. I think we tried on line and it had to be
+bought in the store.
+Jilly
+We have actually been able to find that bread here at Sam's, so we are
+absolutely set man.  If they stop selling it, we can get it over the
+internet, it is just a little pricier.  You need to get us to start buying
+it here and shipping to you man - Sam's has it for less than $4 a loaf.  I
+think Ashley said it is close to $6 in San Diego.  We still need to get you
+some soup don't we?
+PL
+We went to a place called Carpenteria. It was on the beach near Santa
+Barbara. We totally roughed it,tents and all. How is your bread
+situation ?
+Do you need a new shipment?
+Jilly
+We went to the game.  unfortunately, I picked up a cold from being out
+in
+the rain all night Friday and Saturday, but we had a blast.  A win cures
+everything.
+We are now ranked #20, we were previously unranked.  Where did you guys
+go
+camping?  Do you rough it all the way?  My idea of camping is watching
+TV
+outdoors.
+PL
+I did not. We were out of town camping. I did see the score and was
+happy to
+see that they
+roughed up Florida. What is their rank? Were you at the game?
+Everything is going good. Say hi to Ash and J-Bug.
+Jilly
+Did you see my boys this weekend?  Took down he top team in the land.
+Boy we had a great time. Hope things are going well.
+PL
+- winmail.dat  
+how about Friday?
+How is this week to look at Consumers?  I have a spreadsheet put together back to Jan 00.  I have not made it to 1999 yet, but I'm working on it.  I'm available any time this week.  You name the time and place and I'll be there.
+Megan
+This should be mapped to Omicron 3
+PL
+Bharat ;
+Please map IF-NGPL/OK-NW .. I got following error from error log.
+[Book: ARUBA-TP-PHY1        ] Can't Find Vol_group mapping for 2452199,IF-NGPL/OK-NW
+Nilay
+Her Portfolios are given Below Nilay 
+Phillip is sending you the books 
+Bharat
+Stephanie Hopkins
+Enron Net Works
+Risk Management
+(713) 853-5211
+We have actually been able to find that bread here at Sam's, so we are absolutely set man.  If they stop selling it, we can get it over the internet, it is just a little pricier.  You need to get us to start buying it here and shipping to you man - Sam's has it for less than $4 a loaf.  I think Ashley said it is close to $6 in San Diego.  We still need to get you some soup don't we?
+PL
+We went to a place called Carpenteria. It was on the beach near Santa
+Barbara. We totally roughed it,tents and all. How is your bread situation ?
+Do you need a new shipment?
+Jilly
+We went to the game.  unfortunately, I picked up a cold from being out in
+the rain all night Friday and Saturday, but we had a blast.  A win cures
+everything.
+We are now ranked #20, we were previously unranked.  Where did you guys go
+camping?  Do you rough it all the way?  My idea of camping is watching TV
+outdoors.
+PL
+I did not. We were out of town camping. I did see the score and was
+happy to
+see that they
+roughed up Florida. What is their rank? Were you at the game?
+Everything is going good. Say hi to Ash and J-Bug.
+Jilly
+Did you see my boys this weekend?  Took down he top team in the land.
+Boy we had a great time. Hope things are going well.
+PL
+- winmail.dat  
+here are Souad's book names, Bharat is going to give you the portfolios:
+FT-PEOPLES-PRC
+FT-PEOPLES-BAS
+FT-PEOPLES-IDX
+ARUBA-TP-PHY
+FT-PEOPLES-GDL
+ARUBA-SPLY-PRC
+FT-PEOPLES-GDI
+FT-CENTRAL-OPT-GDL
+INTRA-CNT-TRANS-PHY
+Thanks for all of your help.
+PL
+Hey Phillip give him the book and portfolio names 
+I think we know the problem...now we just need to fugure how to get it fixed.  Easier said than done man 
+The log file on Web does not have any error on these three curves. What is the book name ?
+I think there is something else there . Let me know the book and real-portfolio name.
+Nilay
+Yes Nilay I thought the curves below had been mapped to OMICRONS.......why has nothing happened to her VaR?  Nilay let me or Burton know what we need to do....this is urgent 
+Bharat
+Bharat,
+We never had to map curves to Omicron.  I thought that it was done by either RAC or IT.  What is the process?  Let's know ASAP so that VaR can be re-run.
+BM
+Can you map the following three curves to Omicron curves.  Nilay did his side and I need you to do the other side according to the IT guys.
+GDP-St.CLAIR		Omicron 14
+GDP-NGPL(IA-IL	Omicron 11
+GDP-MONCHY		Omicron 11
+Can you let me know when this is done so that I can get Souad's VaR rerun.  Thanks for your help.  You also need to let me know if you guys can go to lunch on me on Friday.
+PL
+GDP-ST.CLAIR and GDP-NGPL(IA-IL
+Thanks.
+PL
+Please give the curve codes properly  ( indicate blank and other characters distinctly  
+I've done GDP-MONCHY
+Nilay
+according to Bharat, he still does not have access to this screen.  Is there anyway you guys can do it today and he can continue trying to log in and do it for us in the future?  Thanks.
+PL
+Phillip,
+Bharat didn't have access to the intra-IF mapping screen  But we have given  him access  to Intra IF mapping screen.
+Please check with Bharat. 
+If you guys have any problem please let me know.
+Thanks,
+Nilay
+Bharat asked that I forward this information to you.  Could you please map the following curves to the appropriate omicrons.  Monchy and NGPL-IA-IL should be mapped to chicago - omicron #11 and St. Clair should be mapped to omicron #14.  Do I need to also send this information to Burton in the controls group?  Thanks for your help.
+PL
+Hey Phillip,
+These are the unmapped curves.  Please let me know what OMICRONS they should be mapped to and I'll have Nilay do it.  This is your problem.  Large hedge benefits are not being captured in her books.
+Bharat
+GDP-MONCHY	             890,193 	
+GDP-NGPL/(IA-IL	          2,315,334 	
+GDP-ST.CLAIR	            (379,744)	
+TOTAL			        2,825,783 
+Can you map the following three curves to Omicron curves.  Nilay did his side and I need you to do the other side according to the IT guys.
+GDP-St.CLAIR		Omicron 14
+GDP-NGPL(IA-IL	Omicron 11
+GDP-MONCHY		Omicron 11
+Can you let me know when this is done so that I can get Souad's VaR rerun.  Thanks for your help.  You also need to let me know if you guys can go to lunch on me on Friday.
+PL
+GDP-ST.CLAIR and GDP-NGPL(IA-IL
+Thanks.
+PL
+Please give the curve codes properly  ( indicate blank and other characters distinctly  
+I've done GDP-MONCHY
+Nilay
+according to Bharat, he still does not have access to this screen.  Is there anyway you guys can do it today and he can continue trying to log in and do it for us in the future?  Thanks.
+PL
+Phillip,
+Bharat didn't have access to the intra-IF mapping screen  But we have given  him access  to Intra IF mapping screen.
+Please check with Bharat. 
+If you guys have any problem please let me know.
+Thanks,
+Nilay
+Bharat asked that I forward this information to you.  Could you please map the following curves to the appropriate omicrons.  Monchy and NGPL-IA-IL should be mapped to chicago - omicron #11 and St. Clair should be mapped to omicron #14.  Do I need to also send this information to Burton in the controls group?  Thanks for your help.
+PL
+Hey Phillip,
+These are the unmapped curves.  Please let me know what OMICRONS they should be mapped to and I'll have Nilay do it.  This is your problem.  Large hedge benefits are not being captured in her books.
+Bharat
+GDP-MONCHY	             890,193 	
+GDP-NGPL/(IA-IL	          2,315,334 	
+GDP-ST.CLAIR	            (379,744)	
+TOTAL			        2,825,783 
+Sorry you could not open it, it was a pretty funny PowerPoint slide.  Your brother still has not responded to my email.  I talked with your dad last night, I think we are going to be hitting dinner with them in the next week before they head out of town.  Hope pregnancy is going well.
+PL
+Hey-
+I can't open this 
+"Love, Phillip M."  10/16/2001 04:42 PM EST
+    GDP-ST.CLAIR and GDP-NGPL(IA-IL
+Thanks.
+PL
+Please give the curve codes properly  ( indicate blank and other characters distinctly  
+I've done GDP-MONCHY
+Nilay
+according to Bharat, he still does not have access to this screen.  Is there anyway you guys can do it today and he can continue trying to log in and do it for us in the future?  Thanks.
+PL
+Phillip,
+Bharat didn't have access to the intra-IF mapping screen  But we have given  him access  to Intra IF mapping screen.
+Please check with Bharat. 
+If you guys have any problem please let me know.
+Thanks,
+Nilay
+Bharat asked that I forward this information to you.  Could you please map the following curves to the appropriate omicrons.  Monchy and NGPL-IA-IL should be mapped to chicago - omicron #11 and St. Clair should be mapped to omicron #14.  Do I need to also send this information to Burton in the controls group?  Thanks for your help.
+PL
+Hey Phillip,
+These are the unmapped curves.  Please let me know what OMICRONS they should be mapped to and I'll have Nilay do it.  This is your problem.  Large hedge benefits are not being captured in her books.
+Bharat
+GDP-MONCHY	             890,193 	
+GDP-NGPL/(IA-IL	          2,315,334 	
+GDP-ST.CLAIR	            (379,744)	
+TOTAL			        2,825,783 
+according to Bharat, he still does not have access to this screen.  Is there anyway you guys can do it today and he can continue trying to log in and do it for us in the future?  Thanks.
+PL
+Phillip,
+Bharat didn't have access to the intra-IF mapping screen  But we have given  him access  to Intra IF mapping screen.
+Please check with Bharat. 
+If you guys have any problem please let me know.
+Thanks,
+Nilay
+Bharat asked that I forward this information to you.  Could you please map the following curves to the appropriate omicrons.  Monchy and NGPL-IA-IL should be mapped to chicago - omicron #11 and St. Clair should be mapped to omicron #14.  Do I need to also send this information to Burton in the controls group?  Thanks for your help.
+PL
+Hey Phillip,
+These are the unmapped curves.  Please let me know what OMICRONS they should be mapped to and I'll have Nilay do it.  This is your problem.  Large hedge benefits are not being captured in her books.
+Bharat
+GDP-MONCHY	             890,193 	
+GDP-NGPL/(IA-IL	          2,315,334 	
+GDP-ST.CLAIR	            (379,744)	
+TOTAL			        2,825,783 
+here is an updated list of the omicrons
+PL
+Dan Thibaut
+Risk Management
+(713) 345-3193
+EB 3256c
+Bharat asked that I forward this information to you.  Could you please map the following curves to the appropriate omicrons.  Monchy and NGPL-IA-IL should be mapped to chicago - omicron #11 and St. Clair should be mapped to omicron #14.  Do I need to also send this information to Burton in the controls group?  Thanks for your help.
+PL
+Hey Phillip,
+These are the unmapped curves.  Please let me know what OMICRONS they should be mapped to and I'll have Nilay do it.  This is your problem.  Large hedge benefits are not being captured in her books.
+Bharat
+GDP-MONCHY	             890,193 	
+GDP-NGPL/(IA-IL	          2,315,334 	
+GDP-ST.CLAIR	            (379,744)	
+TOTAL			        2,825,783 
+#597330
+Phillip,
+I have a Central region OA variance with AEC Marketing which involves TAGG # EC3704.P. I can not find which deal this TAGG goes with. Can you provide me with a deal # for TAGG EC3704.P.
+Thanks,
+Genaro
+Do not suspend this CPID, because we have physical and gas daily deals that are active in this book.  Sorry for the delay.  Thanks for your help on this.
+PL
+Phillip:
+Can you please review these archived RisktRAC book ids and determine if we can archive this CPID.  I noted that there is a PHY book which is receiving a PostID, but I do not know if it has any active deals against it.  Please consider that in order to SUSPEND a CPID there can be no active deals in any deal entry system.  If we can not archive all Risktypes then we can not "SUSPEND" the CPID.  Please read the information below in the original document for additional data.
+Nancy -
+Please send the following to the regional controllers as they look at these books on a daily basis.
+Thanks
+All:
+Attached please review a detail of books marked as "To be Archived" on the Active/Inactive website.  These books have already been archived on RisktRAC, so no positions will be captured going forward.  In order to close the Risk Loop we need to have these counter parties SUSPENDED on the various deal entry systems.  By changing the status of the Counter party codes we do not impact the data related to these counter parties.  The data will still be there and edits of existing deals will be allowed, however no new deals would be allowed for these counter parties.
+Please review the list of books and send an email approving the status change to "SUSPENDED" on the deal entry systems for the books related to your own Business Units.  Please note that in order to "SUSPEND" the counter party code all risk types for that code must be suspended (i.e. IDX,BAS,PRC,GDL,GDI & PHY).  If you have any questions please feel free to contact me at ext 54751.
+Due to the urgent nature of this request, I kindly ask that you reply by Friday Oct 5 or at your earliest convenience 
+Thank you for your time and assistance in completing this task.
+,
+Nancy 
+thanks.
+Attached is the list of counterparties we need moved today.  The list has 140 counterparties on it.  Please let me know if you are not going to be able to move these today by 3:30.  Below is what we need done:
+1.  Only financial deals with these counterparties
+2.  Change the ENA book name from NG-Price to ENA-FT-WC-SJ
+3. commodity code should be NG
+4. cutoff date 1/1/02
+Please shout if you have any questions.  Thanks.
+PL
+schrab is going to have to answer this question.  He put the deal in after sep began.  Sorry I can not help.
+PL
+Mark or Phillip:
+Can either of you confirm the price for deal 1029566 with Consumers?  I don't have copies of the confirms.  They billed 0.02 and we have 0.01.  Their gas exchange contract is 5030-82-95.
+Thanks,
+Megan
+correct.  The information contained in this book matches the information that is in another book that you capture in our P&L.  Thanks.
+PL
+Please bare with me.  This means that this book will not feed into the NGP&L because it is for position purposes and has no P&L associated with it, so I do not need to run it during close.  Right?
+Thanks  -A
+This book simply replaces a book that we were officializing for position purposes only.  We have a separate gas daily calc that is for value that goes into our P&L.  Nothing has changed with that book.  Please shout with anymore questions.  Thanks.
+PL
+Phillip,
+Is this new book (?Y) going to roll into the Intra Ontario DPR or have its own?  We just want to make sure we pick up these new gas daily rolls.
+Thanks,
+Amanda
+Amanda,
+Can you check with Phillip and find out the details on this book.  From the description, it looks like they are trying to get spreadsheet information into RiskRAC, however I am not sure how this will impact our process, if any.
+thanks
+This book request has been completed. Please call me if you have any questions.
+Thank you.
+Jennifer Velasco
+Risk Analytics
+X 5-2526
+The deal still has not been signed, so nothing is currently in those books.
+PL
+Phillip,
+Another question...last month "Z was set up (Michigan Gas Utility).  Jad told me that it was inactive, and I wanted to check if that was still the case.
+Thanks again,
+Amanda
+I checked with Phillip Love and he said that it will be its own book, but that it needs to remain inactive until we start putting deals into it.  He just wants the book set up so that we can start putting deals in when we're ready.
+This book simply replaces a book that we were officializing for position purposes only.  We have a separate gas daily calc that is for value that goes into our P&L.  Nothing has changed with that book.  Please shout with anymore questions.  Thanks.
+PL
+Phillip,
+Is this new book (?Y) going to roll into the Intra Ontario DPR or have its own?  We just want to make sure we pick up these new gas daily rolls.
+Thanks,
+Amanda
+Amanda,
+Can you check with Phillip and find out the details on this book.  From the description, it looks like they are trying to get spreadsheet information into RiskRAC, however I am not sure how this will impact our process, if any.
+thanks
+This book request has been completed. Please call me if you have any questions.
+Thank you.
+Jennifer Velasco
+Risk Analytics
+X 5-2526
+I had no problems accessing it.  Thanks.
+PL
+Philip,
+I have set up a new position called Central - ENA-IM MGU. When you have time see if you can access it, that way when we do decide
+to roll it up into the overall Central position, we will know that there shouldn't be any security issues to contend with.
+GG
+Yes it will.  This deal is still in the structuring stage.  We simply wanted to get the books set up in TAGG and Sitara for if and when this deal goes live.  I will keep you posted.  I think that logistics is also going to be setting up a pipe called MGU that will have all of these deals on them.  I will get with you when I hear the final so that we can map the correct curves to these locations.  Thanks.
+PL
+A new Central desk has been set up "ENA - IM MGU" in Sitara.
+Is this a new physical desk that will need to have it's positions rollup into the "Central Region Intramonth Position".
+Russ
+Jennifer who?
+I don't have the book anymore Jennifer has it.
+Natalie
+Can you take a look at this Natalie, I think you have the binder.  Let me know if I can help.  Thanks.
+PL
+Mark or Phillip:
+Can either of you confirm the price for deal 1029566 with Consumers?  I don't have copies of the confirms.  They billed 0.02 and we have 0.01.  Their gas exchange contract is 5030-82-95.
+Thanks,
+Megan
+I want to keep the two ladies that currently do my OA.  Any deviation from this will result in bodily harm to you and your family.
+PL
+All,
+I am currently reviewing the OA assignments for each desk to determine whether I need to move employees to a different region.  Please let me know if you are satisfied with your OA coordinator.  This will ensure that each of you are getting the proper level of support that you require.  In addition, if there is anything that you think we can do better either as a group or on an individual basis, I welcome that as well.  Thanks.
+John
+Can you take a look at this Natalie, I think you have the binder.  Let me know if I can help.  Thanks.
+PL
+Mark or Phillip:
+Can either of you confirm the price for deal 1029566 with Consumers?  I don't have copies of the confirms.  They billed 0.02 and we have 0.01.  Their gas exchange contract is 5030-82-95.
+Thanks,
+Megan
+open the file and look at the lavo tab
+PL
+Attached is a book request for two new books - one for Lavorato and one for Cuilla.  Due to the problems we had last week/this weekend that you guys helped us try and resolve, we are going to have to go the route of Canada on these Aeco deals and book a spreadsheet for VaR purposes.  Please set the two books up like Calgary's book(Sheet 1 on the attached file) We need to start doing this tonight, because Hunter and Lavorato want their VaR reported correctly tonight.  They both plan on altering their positions and utilizing all of their VaR.  I apologize for the short notice and appreciate all of your help so that I can get this fixed for tonight's VaR.  Please let me know any additional information I can provide you.  Thanks.
+PL
+FYI, I will show you how to work this spreadsheet, just call this guy and tell him what you are going to name the file and why.  Tell him it is like Brian Gillis' file in Canada.  He needs to know the prefix you are going to call the file and then you attach the current date in the MMDDYYYY format.
+Thanks.
+PL
+Note that you must also get Wei Hu to set it up so that it will accept the spreadsheet - he will need a name that you will use - an example is CAND_ED10122001.xls 
+The positions file for last night is saved out to o_dropbox and is attached.
+PL
+this incorporates the change of Stevens orig.
+PL
+Attached is a book request for two new books - one for Lavorato and one for Cuilla.  Due to the problems we had last week/this weekend that you guys helped us try and resolve, we are going to have to go the route of Canada on these Aeco deals and book a spreadsheet for VaR purposes.  Please set the two books up like Calgary's book(Sheet 1 on the attached file) We need to start doing this tonight, because Hunter and Lavorato want their VaR reported correctly tonight.  They both plan on altering their positions and utilizing all of their VaR.  I apologize for the short notice and appreciate all of your help so that I can get this fixed for tonight's VaR.  Please let me know any additional information I can provide you.  Thanks.
+PL
+I am in
+Our game is at 6 this week. Let me know if you're in.
+I think the only other solution is to post two curves, one with an SP and one with PR.  You should be able to simply set up the same curves as risk type PR and have it look to the SP curve.   Then you would publish two curves with the exact same name and value, just two different risk types.  The only other option I see is to change the deals back to the "old" aeco curve that we used prior to this.
+PL
+Brian,
+Please help us resolve the issue around curve:
+GD-AECOCD/FRWKD
+The issue is that this curve is only for risk type "SP" as well as having prices posted for only one 1 reference date, i.e. today.
+There are only two solutions:
+1.	We need you to rename it from risk type "SP" to risk type "PR" 
+a.	Post prices for balance of month, currently you are only posting a price for one day.
+2.	Or, we need you to put out a brand new curve out tonight for this deal.
+a.	Book admins would have to move all positions to this new curve today
+b.	This new curve would have to have Book type code M, and curve type code PR
+c.	Map it to omicron 9, primary curve mapping AECO/Basis, vol group CGPR/EMPRESS
+d.	Prices have to be posted for daily term structure 
+This is urgent as Lavorato has a position on this curve and is rather firmly demanding that VAR be captured.
+To all, am I thinking about this correctly?
+Thanks,
+Frank
+PS.  If Brian is unable to post curve, maybe we can post it here.  (i.e. we cannot have VAR without price and vol curve)
+Kam Keiser suggested I give you a call, the auditors have requested all the deals for the Chicago office books.  I need to get a list of all TAGG deals since 1/00 that are done with the book FT-ENOV and INTRA-ENOV.  Is this possible.  I need to give a list to Arthur Anderson as soon as possible.  Thanks for your help.
+PL
+Kam Keiser suggested I call you to help with a request I received from our auditors.  Can you give me a list of all of the deals that have been put into Sitara for the Chicago office - the book/counterparty name will be Enovate.  The Arthur Anderson auditors have requested this information.  They are doing an audit of Enovate and want a list of all of the deals since the book started in order to get a sample size for their audit.  you should not have to go back farther than 01/00.  Thanks for your help and shout if you need anymore information.
+PL
+One more change to class time.  Today's class only (Midcon) will be held @ 1:45 in room 3270 (same room as our 2:30 daily meeting Thanks
+Just a reminder.  Classes begin Monday the 15th.  They will be in room 3321 from 3 to 4 Thanks,
+Classes have been moved.  We will begin classes on 15th and end on the 26th. 
+Thanks
+I spoke to the professors and we decided that the Midcontinent class will be held Monday's and Wednesday's from 3:00 to 4:00, Ontario class will be held Tuesday's and Thursday's at the same time 
+Classes will commence Monday 8, 2001, and will continue until Thursday 19, 2001.  Midcontinent test will be held on Monday the 22nd and Ontario test will be held on Tuesday the 23rd.
+Please e-mail any suggestions, conflict, registry 
+Thanks
+Did Bruce get this information to you on Friday?  I was out of the office and asked him to respond.  Let me know and I can get it for you.  Thanks.
+PL
+Phillip:
+Can you please review these archived RisktRAC book ids and determine if we can archive this CPID.  I noted that there is a PHY book which is receiving a PostID, but I do not know if it has any active deals against it.  Please consider that in order to SUSPEND a CPID there can be no active deals in any deal entry system.  If we can not archive all Risktypes then we can not "SUSPEND" the CPID.  Please read the information below in the original document for additional data.
+Nancy -
+Please send the following to the regional controllers as they look at these books on a daily basis.
+Thanks
+All:
+Attached please review a detail of books marked as "To be Archived" on the Active/Inactive website.  These books have already been archived on RisktRAC, so no positions will be captured going forward.  In order to close the Risk Loop we need to have these counter parties SUSPENDED on the various deal entry systems.  By changing the status of the Counter party codes we do not impact the data related to these counter parties.  The data will still be there and edits of existing deals will be allowed, however no new deals would be allowed for these counter parties.
+Please review the list of books and send an email approving the status change to "SUSPENDED" on the deal entry systems for the books related to your own Business Units.  Please note that in order to "SUSPEND" the counter party code all risk types for that code must be suspended (i.e. IDX,BAS,PRC,GDL,GDI & PHY).  If you have any questions please feel free to contact me at ext 54751.
+Due to the urgent nature of this request, I kindly ask that you reply by Friday Oct 5 or at your earliest convenience 
+Thank you for your time and assistance in completing this task.
+,
+Nancy 
+Can you please set me up in the XMS system as a manager.  One of my employees has a reimbursement that is outstanding and I would like to get it approved as soon as possible.  Thanks.
+PL
+Phillip,
+Anna Kulic has an expense report awaiting your approval, but the situation is that you are not set up in XMS as a manager.  After discussing it with AP on Friday you have to send an email to Judy Knepshield requesting her to add you as a manager to approve expense reports for your group.  If you could please copy me on your request (email) I will make sure it gets taken care of before the end of the da
+Thank You,
+AC 
+here it is.
+PL
+this is where we stand gentleman, once again I can be reached on my cell - 832-656-4598
+Bruce
+As most of you already know, it has been a crazy weekend for some of us.  I'm going to address why all this happened, what we have done, and the ongoing problems we are having?
+About 8 months ago Martin Cuilla took a position on a curve called GD-AECOUSD-DAIL.  On Friday he wanted to move this position to another curve called GD-AECOCD/FRWKD.  We had being seeing the position come in on the bench report but apparently VaR was not being captured on it.  It was not in the Primary/Secondary curve mapping table in Risktrac and was not mapped to an intra-month curve either (OMICRON 
+On Friday evening I asked Burton to map the new curve in the primary /secondary table and Virendra to map it to OMICRON_9.  If this would have worked we expected Cuillas VaR to fall by approx. $800K given the risk structure of his positions.  But the desired results were not achieved 
+On Saturday with the help of Ramesh, Virendra and Burton we tried several different combinations of mappings with no positive results.  The positions do not seem to be coming in as we are not picking up the book in Component Var.  The book should be INTRA-ONTARIO-CAD2.  It exists but, there are no positions in it 
+The only reason this would happen if the curve had no Volatilities or Prices associated with it.  We need to find out why this is so?  Understand also that AECOCD/FRWKD is a derived curve so it has no Prices and Vols of it's own but takes it from AECO-CDN/IM.  We have also mapped AECO-CDN/IM to CGPR-AECO/BASIS and to OMICRON_9 but still are not getting any changes 
+Ramesh, Burton Virendra, and Bruce have all worked very hard this weekend, despite having other work related commitments, to try to resolve this, and have gone over and above what was expected of them.  But despite all our efforts this is still a problem that needs addressing 
+Cuilla is very concerned about this because Lavorato is watching him.  I have to answer to him tomorrow and cannot use systems issues as an excuse.  I want us as a team to look at this tomorrow and in the short-run fix Cuillas VaR.  We also want curve mapping to become a more front-end solution (with very few users) because of their (the front office) knowledge of where the different curves need to be mapped.  Kam Keiser will help us with this.
+In the long-run I don't want any of us to have to do this again and want to identify a solution.  Ramesh has rightly pointed out that this will take time and resources on his side.  Given the speed of the work in this place none of us have either extra time or resources but, we have to find a way and, most of all be patient while we address these issues.
+Please understand that tomorrow may be a little hectic for all concerned parties but to be patient while we try to reach the root of the problem.  Nilay we will need your expertise about curve mappings, and OMICRONS, for this 
+Thanks again for all your help this weekend 
+Bharat
+can you tell me why EH6453.2 is not on the list?  We are moving EH6453.5, in the comments it says it is an unwind of leg 2.  Counterparty is Boston Gas.  Thanks.
+PL
+Attached are some additional phy gas deals that need to be moved over to the bankruptcy books.
+Thank you!
+Cyndie
+Boy did you call it 3 months ago....WE SHOCKED THE WORLD!!!!  What a great game.
+I just wanted to thank you again for the great tour we had on Friday.  Everyone talked about it all weekend and we look forward to the expanding projects at the raptor center and hope to be able to help in those efforts.  It was great meeting you and I look forward to talking to you again in the future.
+Thanks again.
+PL
+I'm planning on it. In fact, I talked with Joe Shelnutt a little while ago
+and reminded him I'm bringing you guys out there after 1 pm.
+If you want, I can plan to meet you at Chuck's at 12:15 Friday.  How many
+in your party?
+sam
+PS...After watching us the past 2 games and watching UF against LSU, I
+revise my earlier prediction and now am thinking it is not going to be
+pretty.
+SEE ATTACHMENT FOR CHANGES. 
+Phil,
+Please see the attached file with the current structure for Central Gas desk by trader.  For each trader, these are the books that he/she trades.  I am assuming that this list by trader has all books whether active / inactive.  Please review and ensure that all books with or without positions are being captured by traders.  Can you respond by Friday, Oct. 12th.   Thanks.
+Burton
+(x57197)
+works for me or I can do it.  I can not do the first one (I vote for Kam)
+PL
+I take it that the second one is mine?
+John
+From talking with my guys, I came up with 2 more topics for brown bags - curve mapping and how physical deals flow through the systems
+PL
+From talking with my guys, I came up with 2 more topics for brown bags - curve mapping and how physical deals flow through the systems
+PL
+FYI we will be having a meeting next Wednesday from 1:30 to 2:30 with logistics in 32C2 to go over what risk does and what logistics does.  Should be an informative session.  Please also remember to email your goals for the next six months so that we can work on making sure you meet those objectives.  Thanks.
+PL
+Can you guys map the following curve:
+EMPRESS-US/IM needs to be mapped to Dawn and Omicron 14.  Please shout if you have any questions.  Thanks.
+PL
+Please make sure all of your book admins running WeaponX are compressing the databases on a weekly basis AT LEAST.
+I've seen a couple recently approaching 1/2 gigabyte.  As a result, we are wasting tons of disk space.
+Let me know if you have questions.
+Thanks,
+Greg
+You have received this message because someone has attempted to send you an e-mail from outside of Enron with an attachment type that Enron does not allow into our messaging environment. Your e-mail has been quarantined and is being held at the MailSweeper server.
+Sender:  Plove570@cs.com
+Date:  Thu, 11 Oct 2001 14:27:25 EDT
+If the intended email is of valid business-related content and you believe it requires Enron resources to retrieve it, you may call your Help Desk and ask to have it released from quarantine and delivered to your e-mail Inbox. Your message will be scanned and checked for viruses prior to requested release.  If it contains a virus or there is reason to suspect it is malicious code, it will not be delivered.
+North American Resolution Center: 713 853 1411
+European Resolution Center: 0044 207 78 36777
+EES Help Desk: 888 853 9797
+ETS Solution Center: 713 345 4745 (Houston) or 402 398 7454 (Omaha)
+Please DO NOT reply to this address as it is not a monitored system mailbox.
+Yes it will.  This deal is still in the structuring stage.  We simply wanted to get the books set up in TAGG and Sitara for if and when this deal goes live.  I will keep you posted.  I think that logistics is also going to be setting up a pipe called MGU that will have all of these deals on them.  I will get with you when I hear the final so that we can map the correct curves to these locations.  Thanks.
+PL
+A new Central desk has been set up "ENA - IM MGU" in Sitara.
+Is this a new physical desk that will need to have it's positions rollup into the "Central Region Intramonth Position".
+Russ
+sounds great.
+PL
+Phillip - we are set with the soda & cookies - I will get with you when I get back on Tuesday and we can go over who goes first.
+Lisa
+Sounds good - I will bring the soda and cookies.
+Lisa
+I got 32C2 for next Wednesday from 1:30 - 2:30.  How does that sound?
+PL
+Lets make it for like an hour.  I think once we get together we are going to find that we all have a lot of questions.  How about next week?  Like Wednesday afternoon.  Thats the only day that I can do it. 
+Lisa
+What do you think about setting up a meeting between your group and mine in which each of us gives a short 15 minute presentation on what we do and how things other groups do affect our group.  If you think we will need more time, maybe we set up two meetings.  Let me know what you think.  Thanks.
+PL
+Can you do the same thing with a different book id?  Instead of book counterparty FT-CAND-TERMIN, move any deals with the FT-TERMIN-GD book to the bankruptcy book from NG-Price.  Financial deals only.  Thanks.  Let me know if you need any further clarification, should be the exact same script as yesterday, just substitute FT_TERMIN-GD for the two books you were looking for yesterday.
+PL
+Deal moves has been completed and retranslated.
+Cecilia
+1. move to the appropriate book based on the logic - Canadian deal needs to go to CAD
+2. should only have to change deals from NG-Price to bankruptcy (deals are not in any other book)
+3. The Canadian logic deals will probably be in GJ and the US logic should be in NG
+4. Financial only
+5. Cutoff date 1/1/2002
+These are interbook deals and I need to confirm the following:
+1. Which Bankruptcy book you want to move the deals to? BANKRUPTCY (166660) or BANKRUPTCY-CAD (166762)?
+2. Change the counterparty of the deals associated with FT-CAND-TERMIN (166764) or FT-CAND-GONE-PR (166767) from NG-PRICE(11360), ENA-FT-WT-SOCAL(108201), ENA-WT-CAL(105544) to Bankruptcy (166660 or 166762)?
+3. Should we should NGGJ as the commodity instead of NG?
+4. Financial deals only
+5. Cutoff date 1-jan-2002
+Those two counterparties could be currently  in NG-Price, ENA-WT-Socal, or ENA-WT-Cal, not just NG-Price.
+Thanks
+Please move the following book to book trades with Canada from NG-Price to Bankruptcy:
+FT-Cand-Termin
+Ft-Cand-Gone-PR
+Pleae let me know when this is done, we are waiting to calc today on this.  Thanks.
+PL
+I too am a little worried about the outcome on Saturday.  I am bringing two friends that are University of Texas Alums and am just hoping to show them a good time and what true tailgating is all about.
+There will be including myself 7 adults and my 3 year old son.  Is that too many?  Please let me know.  Everyone is extremely exciting and my son is now to the age that he will really enjoy it.  Last year we always took him on game day to see the raptors and he was kind of interested, but now he really enjoys animals 
+Thanks again for all of your help arranging this trip.  Please also let me know again when the scholarship dinner is going to be held, I am sure some of my family would really enjoy attending.  Thanks see you at Chuck's.
+PL
+I'm planning on it. In fact, I talked with Joe Shelnutt a little while ago
+and reminded him I'm bringing you guys out there after 1 pm.
+If you want, I can plan to meet you at Chuck's at 12:15 Friday.  How many
+in your party?
+sam
+PS...After watching us the past 2 games and watching UF against LSU, I
+revise my earlier prediction and now am thinking it is not going to be
+pretty.
+which books in TDS do you need access to?  I approved your erequest, but I have to go into TDS and grant the actual access.  Thanks.
+PL
+You know what he's talking about.....?  Talk to Burtaon Mcintyre if you don't It will get fixed
+Bharat
+Bharat ,
+I've done the mapping of omicron but you need to contact book administrators to do the sec-prim. mapping as I don't have permission to do that.
+Thanks.
+Nilay
+Hi Nilay,
+Did you gets these taken care off?
+The traders VaR is still not coming in correctly.  Let me know ASAP 
+Thanks
+Bharat
+Hi Nilay,
+The curves below have not been mapped.  It's causing a problem with a traders VaR.
+EMERSON-US/IM: Map to NG and to OMICRON_5
+GDC-CHI./N/BORD: Map to NGI/CHI.GATE and OMICRON_11
+GDP-EMERSON: Map to NG and OMICRON_5
+IF-MONCHY: Map to NG and OMICRON_5
+IF-NGPL/OK-NW: Map to and OMICRON_11
+NGPL-IOWA-ILLIN:  Map to NG and OMICROM_11
+Let me know when it is done 
+Thanks
+Bharat
+Just wanted to follow up and make sure we were still on for tomorrow?  Can we make it 12:15 at Chucks BarBQue?  I have your numbers and will give you a call if we run into trouble.  Thanks.
+PL
+Phillip ... greetings from Auburn, where in 9 days the eagle will fly, the
+stadium will rock and the tigers will welcome ball state to our newly named
+"jungle."
+WE have this week received the $12,500 matching money from Enron.
+Also, can you email me your work number again. I think the dean of the vet
+school wants to call and say thanks for setting up the scholarship.
+I still have you on my calendar for a tour of the raptor center on Friday,
+Oct. 12, the day before we (am I getting giddy here?) shock the number one
+ranked gators.
+sam
+thanks.
+It will be available around 11AM today
+Truong
+can you unarchive post id 1280448.  Thanks.
+PL
+Can you run a component VaR report again for me.  We can not figure out where Souad's VaR is coming from.  IT fixed the curves and Burton fixed them on his side, the VaR should be virtually nonexistent.  I am also noticing a high VaR for Virawan Yawaponsiri, can you also run one on hers please.  Sorry to continue to bother you with this, Jeff Gossett just wants this resolved ASAP.  Thanks.
+PL
+You know what he's talking about.....?  Talk to Burtaon Mcintyre if you don't It will get fixed
+Bharat
+Bharat ,
+I've done the mapping of omicron but you need to contact book administrators to do the sec-prim. mapping as I don't have permission to do that.
+Thanks.
+Nilay
+Hi Nilay,
+Did you gets these taken care off?
+The traders VaR is still not coming in correctly.  Let me know ASAP 
+Thanks
+Bharat
+Hi Nilay,
+The curves below have not been mapped.  It's causing a problem with a traders VaR.
+EMERSON-US/IM: Map to NG and to OMICRON_5
+GDC-CHI./N/BORD: Map to NGI/CHI.GATE and OMICRON_11
+GDP-EMERSON: Map to NG and OMICRON_5
+IF-MONCHY: Map to NG and OMICRON_5
+IF-NGPL/OK-NW: Map to and OMICRON_11
+NGPL-IOWA-ILLIN:  Map to NG and OMICROM_11
+Let me know when it is done 
+Thanks
+Bharat
+I got 32C2 for next Wednesday from 1:30 - 2:30.  How does that sound?
+PL
+Lets make it for like an hour.  I think once we get together we are going to find that we all have a lot of questions.  How about next week?  Like Wednesday afternoon.  Thats the only day that I can do it. 
+Lisa
+What do you think about setting up a meeting between your group and mine in which each of us gives a short 15 minute presentation on what we do and how things other groups do affect our group.  If you think we will need more time, maybe we set up two meetings.  Let me know what you think.  Thanks.
+PL
+sure.  I will have it to you in the morning.
+PL
+Phillip,
+Another request - can you provide a report that breaks out the monthly physical volume for the NSS 2 program starting in March 01.
+Thank you,
+Lee
+I think I have all of the financial liquidations that were in your book from 3/01 - 09/01.  Look at the attached file and let me know what you think.  Thanks.
+PL
+What do you think about setting up a meeting between your group and mine in which each of us gives a short 15 minute presentation on what we do and how things other groups do affect our group.  If you think we will need more time, maybe we set up two meetings.  Let me know what you think.  Thanks.
+PL
+Denver is not my region, you might want to try Anne Bike
+PL
+Please find attached below an Excel file containing a deal which we would
+like to receive the deal ticket, confirmation, and forwards detail. Please
+let me know if you have any questions.
+Thanks,
+John Henderson (x-66335)
+(See attached file: sept-orig-request.xls)
+*******************    Darron and I may need it if Ed does not cut the cord by tomorrow.  I would prefer not to have access to force him to use the estate people.
+PL
+Question for NetCo employees:
+The new corp id's xfer to UBS is being considered for this Sunday.  Hence, no start menu access to estate.  You will still have access to NT estate drive data to copy.
+Does anyone have the need to retain a estate id for support estate application during the last week?  Exceptions have to be authorized.
+Wanted to get a preliminary need analysis  
+This was sent by an IT manager, let me know your thoughts... O
+sorry to keep bothering you.  It looks like Souad's VaR continues to go down, but her net positions 5 contracts and her VaR is over $300K.  Can you verify that it is her Aruba book that is causing all of the VaR.  She only has positions at about 5 locations and they should all be mapped to the same omicron curve and either NG or Chi. Gate.  I would think that there would not be that much difference between NG and Chi Gate.  Any assistance is greatly appreciated.  Thanks.
+PL
+You know what he's talking about.....?  Talk to Burtaon Mcintyre if you don't It will get fixed
+Bharat
+Bharat ,
+I've done the mapping of omicron but you need to contact book administrators to do the sec-prim. mapping as I don't have permission to do that.
+Thanks.
+Nilay
+Hi Nilay,
+Did you gets these taken care off?
+The traders VaR is still not coming in correctly.  Let me know ASAP 
+Thanks
+Bharat
+Hi Nilay,
+The curves below have not been mapped.  It's causing a problem with a traders VaR.
+EMERSON-US/IM: Map to NG and to OMICRON_5
+GDC-CHI./N/BORD: Map to NGI/CHI.GATE and OMICRON_11
+GDP-EMERSON: Map to NG and OMICRON_5
+IF-MONCHY: Map to NG and OMICRON_5
+IF-NGPL/OK-NW: Map to and OMICRON_11
+NGPL-IOWA-ILLIN:  Map to NG and OMICROM_11
+Let me know when it is done 
+Thanks
+Bharat
+goss and you can't go now because of some LaGrasta trip on Saturday so looks like we are rescheduling for sometime in December.
+PL
+What happened to the gambling trip?
+Looks like our outing for October 19th for Risk just got cancelled, so are we on for some poker on Thursday the 18th?  Who will offer up there house?
+PL
+Looks like our outing for October 19th for Risk just got cancelled, so are we on for some poker on Thursday the 18th?  Who will offer up there house?
+PL
+Jim Simpson has moved from the Chicago office to the Houston office.  He will be taking over the Mich-CG book.  We need to have the books transferred from Hunter Shively to Jim Simpson. The books are FT-INT-CEN-MKT2-BAS,GDI,GDL,IDX,PRC and INTRA_CNT-MKT2-PHY.  Jim should not need to be set up in the system, because he was in Chicago, he should just need books added.  Thanks for all of your help.
+PL
+thanks a million
+PL
+Done
+Jim Simpson has moved from the Chicago office to the Houston office.  He will be taking over the Mich-CG book.  We need to have the books transferred from Hunter Shively to Jim Simpson. The books are FT-INT-CEN-MKT2-BAS,GDI,GDL,IDX,PRC and INTRA_CNT-MKT2-PHY.  Jim should not need to be set up in the system, because he was in Chicago, he should just need books added.  Thanks for all of your help.
+PL
+Jim Simpson has moved from the Chicago office to the Houston office.  He will be taking over the Mich-CG book.  We need to have the books transferred from Hunter Shively to Jim Simpson. The books are FT-INT-CEN-MKT2-BAS,GDI,GDL,IDX,PRC and INTRA_CNT-MKT2-PHY.  Jim should not need to be set up in the system, because he was in Chicago, he should just need books added.  Thanks for all of your help.
+PL
+please exit the tagg deal so that I can look at the deal.
+PL
+Phillip	
+I'm trying to determine if this liquidation for MichCon VQ7167.2 is related to synthetic storage.  The Sitara ticket referenced on the tagg is 941953 is an exchange ticket, but it was killed on August 3.  Can you help?
+Thanks
+Cathy
+thanks.
+PL
+We don't have much right now.  I'll keep you posted if we have openeings.  We're still trying to finalize the budget/staffing for this project.
+here is that resume we talked about.  Remember I get half.
+PL
+Rachael just got laid off at Deloitte due to cutbacks.  She is outstanding.
+Thought Scott might could use some help and that you might could use $2,000.
+Olga,
+Please tell Dianne I said thank you for doing this.  It would be cool
+working
+for Enron!!!  See ya tomorrow!
+Love,
+Rachael
+- revised resume2.doc  
+can you follow up with the Forum group for me.  It appears only 3 of my six employees returned the feedback.  I have been assured by every member of my team that they sent these in on time.  Several members of our class yesterday had the same issue, with one not having any returned.  This seems curious enough to investigate.  Thanks for your help.
+PL
+REMINDER   
+You are enrolled in the following.
+Becoming an Exceptional Leader: a manager's level training
+October 8, October 18 and November 8
+8:30am - 5:00 pm (first 2 days)
+8:30am - 3:00pm (3rd day)
+Doubletree Hotel - LaSalle "A"
+See you in class Maggie Cruz
+x3-1816
+see the bottom of this email for the locations and mappings.  Thanks for your help and let me know if you need any additional information PL
+You know what he's talking about.....?  Talk to Burtaon Mcintyre if you don't It will get fixed
+Bharat
+Bharat ,
+I've done the mapping of omicron but you need to contact book administrators to do the sec-prim. mapping as I don't have permission to do that.
+Thanks.
+Nilay
+Hi Nilay,
+Did you gets these taken care off?
+The traders VaR is still not coming in correctly.  Let me know ASAP 
+Thanks
+Bharat
+Hi Nilay,
+The curves below have not been mapped.  It's causing a problem with a traders VaR.
+EMERSON-US/IM: Map to NG and to OMICRON_5
+GDC-CHI./N/BORD: Map to NGI/CHI.GATE and OMICRON_11
+GDP-EMERSON: Map to NG and OMICRON_5
+IF-MONCHY: Map to NG and OMICRON_5
+IF-NGPL/OK-NW: Map to and OMICRON_11
+NGPL-IOWA-ILLIN:  Map to NG and OMICROM_11
+Let me know when it is done 
+Thanks
+Bharat
+thanks.  FYI - we will have a pretty big book move for you around lunch tomorrow and need it before 3:30 if possible.  We will be moving third party financial deals(ENA is the Enron counterparty) from NG-PRICE to ENA-FT-WC-SJ.  I will get you the list before lunch tomorrow, just thought you could get started on the script.  Thanks again.
+PL
+Deal moves has been completed and retranslated.
+Cecilia
+1. move to the appropriate book based on the logic - Canadian deal needs to go to CAD
+2. should only have to change deals from NG-Price to bankruptcy (deals are not in any other book)
+3. The Canadian logic deals will probably be in GJ and the US logic should be in NG
+4. Financial only
+5. Cutoff date 1/1/2002
+These are interbook deals and I need to confirm the following:
+1. Which Bankruptcy book you want to move the deals to? BANKRUPTCY (166660) or BANKRUPTCY-CAD (166762)?
+2. Change the counterparty of the deals associated with FT-CAND-TERMIN (166764) or FT-CAND-GONE-PR (166767) from NG-PRICE(11360), ENA-FT-WT-SOCAL(108201), ENA-WT-CAL(105544) to Bankruptcy (166660 or 166762)?
+3. Should we should NGGJ as the commodity instead of NG?
+4. Financial deals only
+5. Cutoff date 1-jan-2002
+Those two counterparties could be currently  in NG-Price, ENA-WT-Socal, or ENA-WT-Cal, not just NG-Price.
+Thanks
+Please move the following book to book trades with Canada from NG-Price to Bankruptcy:
+FT-Cand-Termin
+Ft-Cand-Gone-PR
+Pleae let me know when this is done, we are waiting to calc today on this.  Thanks.
+PL
+we will have to take the PMA, it looks like a deal entry error.
+PL
+Phillip
+Melba and I just noticed there are two lone liquidations for Texex Energy Partners Ltd for August 2001 production that are linked to Sitara deals that say they are for August 2002.  Which year is correct?
+Sitara 848155	August 2002	Tagg VG6573.1	August 2001
+Sitara 848158	August 2002	Tagg VG6577.1	August 2001
+The exposure on these two liquidations together would be $67,911	expense to the desk.
+Let me know what we should do.
+Thanks
+Cathy
+thanks.
+Hi Nilay,
+Did you gets these taken care off?
+The traders VaR is still not coming in correctly.  Let me know ASAP 
+Thanks
+Bharat
+Hi Nilay,
+The curves below have not been mapped.  It's causing a problem with a traders VaR.
+EMERSON-US/IM: Map to NG and to OMICRON_5
+GDC-CHI./N/BORD: Map to NGI/CHI.GATE and OMICRON_11
+GDP-EMERSON: Map to NG and OMICRON_5
+IF-MONCHY: Map to NG and OMICRON_5
+IF-NGPL/OK-NW: Map to and OMICRON_11
+NGPL-IOWA-ILLIN:  Map to NG and OMICROM_11
+Let me know when it is done 
+Thanks
+Bharat
+can you check with IT.  IT looks like Souad's VaR is still way too high.  Thanks.
+PL
+I don't think IT got to it on Friday I'll talk to them again today and get them to do it.
+Bharat
+Bharat,
+Can you send me another component VaR on Souad Mahmassani.  It looks like the fix we put in place did not work, her VaR is still over 400K.  Thanks for your help.
+PL
+Hey Phillip,
+I'm a little busy right now but, will be by later.  Hope the graphs below get you started?
+Bharat
+I am headed out to lunch at 1 and will be back by 2:30.  Is that good?
+PL
+Phillip,
+Do you think you'll have time after lunch today for a little lesson??
+Jim
+3264b
+Will come up in a bit...where do you sit?
+thanks for your help.  Due to my lack of a complete understanding of VaR, can you give me a lesson if you find out exactly why.  All I have ever changed are the correlations.  Thanks.
+PL
+Will Look itnto it.  Suspect it's curve mappings
+Bharat
+I think that the correlations for the points in the Aruba book must be different.  Her position is 5 contracts long in the book and her VaR is $500K.  Is there any way you can tell me the correlations that are being used for the points that she has positions at in that book?  The pub codes are : IF-NNG/VENT, NGI/CHI. GATE, CHI./N/BORDER, NGPL-IOWA0ILLIN,UF-NGPL/OK-NW, NGI/CHI./PEOPLE,NGI/CHI./NIPSCO,ML7/CG.  Any help you can provide would be much appreciated.  Thanks.
+PL
+Hey Phillip,
+I'm a little busy right now but, will be by later.  Hope the graphs below get you started?
+Bharat
+thanks for your help.  Due to my lack of a complete understanding of VaR, can you give me a lesson if you find out exactly why.  All I have ever changed are the correlations.  Thanks.
+PL
+Will Look itnto it.  Suspect it's curve mappings
+Bharat
+I think that the correlations for the points in the Aruba book must be different.  Her position is 5 contracts long in the book and her VaR is $500K.  Is there any way you can tell me the correlations that are being used for the points that she has positions at in that book?  The pub codes are : IF-NNG/VENT, NGI/CHI. GATE, CHI./N/BORDER, NGPL-IOWA0ILLIN,UF-NGPL/OK-NW, NGI/CHI./PEOPLE,NGI/CHI./NIPSCO,ML7/CG.  Any help you can provide would be much appreciated.  Thanks.
+PL
+Hey Phillip,
+I'm a little busy right now but, will be by later.  Hope the graphs below get you started?
+Bharat
+I think that the correlations for the points in the Aruba book must be different.  Her position is 5 contracts long in the book and her VaR is $500K.  Is there any way you can tell me the correlations that are being used for the points that she has positions at in that book?  The pub codes are : IF-NNG/VENT, NGI/CHI. GATE, CHI./N/BORDER, NGPL-IOWA0ILLIN,UF-NGPL/OK-NW, NGI/CHI./PEOPLE,NGI/CHI./NIPSCO,ML7/CG.  Any help you can provide would be much appreciated.  Thanks.
+PL
+Hey Phillip,
+I'm a little busy right now but, will be by later.  Hope the graphs below get you started?
+Bharat
+I think you will have to log off.  I approved the request.  Look at the status of your request and see if it says final approved.  If it does than try logging off and trying again.  Thanks.
+PL
+Phillip,
+I tried Sitara out.  Do I need to log off to get the sitara updates?  Or is that a different group I need to contact??
+Thanks
+Jim
+I'll come by tomorrow, if you have time, for a TDS lesson.
+Please forward to your master email list of all of the risk management/OA group:
+We are planning a group outing for a road trip to The Coushatta Casino.  The trip will be via chartered bus(yes there is a functioning toilet on board) and beverages and snacks will be provided(alcoholic and non-alcoholic).  We are planning on leaving the Enron building at 6 p.m. on a Friday and returning before 6 a.m. on Saturday.  For those of us that run books, if we are not done running our books by 6 p.m.  we will need to come back on Sunday between 4 - 6 p.m. to sign off with the Benchmark guys.  If you do not wish to go on the trip and you are not done by 6 p.m. on Friday, simply finish your P&L and hedge strip and your lead will sign off with the Benchmark guys.  Here is the issue, we have selected two dates, please respond which date you prefer and if either date is good for you.  We have to have an accurate head count to give to the bus company.  If we guarantee a number and that number does not show, the trip is cancelled per the bus company.  If you agree to a day and we provide the final head count a week in advance, barring an emergency, it is expected that you will attend to keep the trip from being cancelled for all of your teammates.  The dates we have selected are Friday October 19th and Friday November 9th.  Please respond to AC by 5 p.m. Monday October 8th.  Thanks and we look forward to another fun outing.
+PL
+this post id for FT-IM-CENTR-CAD-GDL and it is official.  For some reason it is not coming through risktrac.  There are no deals in this book.
+PL
+1. move to the appropriate book based on the logic - Canadian deal needs to go to CAD
+2. should only have to change deals from NG-Price to bankruptcy (deals are not in any other book)
+3. The Canadian logic deals will probably be in GJ and the US logic should be in NG
+4. Financial only
+5. Cutoff date 1/1/2002
+These are interbook deals and I need to confirm the following:
+1. Which Bankruptcy book you want to move the deals to? BANKRUPTCY (166660) or BANKRUPTCY-CAD (166762)?
+2. Change the counterparty of the deals associated with FT-CAND-TERMIN (166764) or FT-CAND-GONE-PR (166767) from NG-PRICE(11360), ENA-FT-WT-SOCAL(108201), ENA-WT-CAL(105544) to Bankruptcy (166660 or 166762)?
+3. Should we should NGGJ as the commodity instead of NG?
+4. Financial deals only
+5. Cutoff date 1-jan-2002
+Those two counterparties could be currently  in NG-Price, ENA-WT-Socal, or ENA-WT-Cal, not just NG-Price.
+Thanks
+Please move the following book to book trades with Canada from NG-Price to Bankruptcy:
+FT-Cand-Termin
+Ft-Cand-Gone-PR
+Pleae let me know when this is done, we are waiting to calc today on this.  Thanks.
+PL
+FYI, 
+I spoke with the erms team about the problem we have with curveview going through runm.  If you open runm on your PC instead of a sun machine, you need to open curveview first.  If open curveview before any other applications, the screen will be blue and all others will be set up correctly as well.  According the Erms guys this is an ancient program and they are unable to fix the logic.  Pass this on to your groups.
+PL
+FYI - Andy and Martin will be giving classes to the trading track guys on the two different locations.  They are opening these classes to everyone.  I would recommend that you attend, I am going to try and attend as well.  THE ONLY CATCH IS THERE WILL BE A TEST AT THE END AND THE RESULTS WILL BE SHARED WITH HUNTER.  I think it would look very good if you attend, I only caution you to pay close attention because the two guys have been known to ask tough questions.
+PL
+I spoke to the professors and we decided that the Midcontinent class will be held Monday's and Wednesday's from 3:00 to 4:00, Ontario class will be held Tuesday's and Thursday's at the same time 
+Classes will commence Monday 8, 2001, and will continue until Thursday 19, 2001.  Midcontinent test will be held on Monday the 22nd and Ontario test will be held on Tuesday the 23rd.
+Please e-mail any suggestions, conflict, registry 
+Thanks
+just a status reminder of what is going on:
+-Please give me a list of your goals and objectives, we will plan on meeting at least once a month and going over those to determine how I can better help you meet those and we can track progress.
+-We now have a file in the central file in excel entitled project list central desk.  there are a list of projects already out there that each of you need to sign up for.  This will assist in the PRC process in terms of providing me with examples of things each of you are doing that are contributions to the organization.  If you can think of a project that will be an improvement, please add it.  If you add a project, put an expected completion date and then put the date it was completed.
+-  We will meet this week or first thing next week to go over the status of each of your "training plans"
+PL
+According to our benchmark guys up here, it looks like the Central Transport GDL book did not make it into risktrac under souad.  The book is named FT-Central-opt-gdl.  I also should have asked you to send the FT-Peoples-GDI book over to Souad.  It appears that the remaining FT-Central-Opt- books (PRC,BAS,IDX) are under Martin Cuilla, these should be under Geoff Storey.  Can you please make these changes.  Thanks for all of your help.
+PL 
+The only FT-Central-Opt book that should move to her is the GDL.  The others should remain with Geoff Storey.  She also needs to have the INTRA-CNT-TRANS-PHY book.  Sorry for the mistake.
+PL
+Please set up Souad Mahmassani in risktrac.  She is a new trader on the central desk.  She will be running the Aruba and central transport books.  The following books will be her responsibility:
+ARUBA-SPLY-PRC
+ARUBA-TP-PHY
+FT-PEOPLES-BAS,PRC,IDX,GDL
+FT-CENTRAL-OPT-BAS,GDL,IDX,PRC
+Souad would need to roll up to the Central desk in natural gas, I would say she should be set up similar to Denver Plachy.
+Please shout with any questions or additional information that you may need.  Thanks.
+PL
+The only FT-Central-Opt book that should move to her is the GDL.  The others should remain with Geoff Storey.  She also needs to have the INTRA-CNT-TRANS-PHY book.  Sorry for the mistake.
+PL
+Please set up Souad Mahmassani in risktrac.  She is a new trader on the central desk.  She will be running the Aruba and central transport books.  The following books will be her responsibility:
+ARUBA-SPLY-PRC
+ARUBA-TP-PHY
+FT-PEOPLES-BAS,PRC,IDX,GDL
+FT-CENTRAL-OPT-BAS,GDL,IDX,PRC
+Souad would need to roll up to the Central desk in natural gas, I would say she should be set up similar to Denver Plachy.
+Please shout with any questions or additional information that you may need.  Thanks.
+PL
+here is what I said.
+PL
+Please set up Souad Mahmassani in risktrac.  She is a new trader on the central desk.  She will be running the Aruba and central transport books.  The following books will be her responsibility:
+ARUBA-SPLY-PRC
+ARUBA-TP-PHY
+FT-PEOPLES-BAS,PRC,IDX,GDL
+FT-CENTRAL-OPT-BAS,GDL,IDX,PRC
+Souad would need to roll up to the Central desk in natural gas, I would say she should be set up similar to Denver Plachy.
+Please shout with any questions or additional information that you may need.  Thanks.
+PL
+Please set up Souad Mahmassani in risktrac.  She is a new trader on the central desk.  She will be running the Aruba and central transport books.  The following books will be her responsibility:
+ARUBA-SPLY-PRC
+ARUBA-TP-PHY
+FT-PEOPLES-BAS,PRC,IDX,GDL
+FT-CENTRAL-OPT-BAS,GDL,IDX,PRC
+Souad would need to roll up to the Central desk in natural gas, I would say she should be set up similar to Denver Plachy.
+Please shout with any questions or additional information that you may need.  Thanks.
+PL
+Aruba-Sply is an active book, there are just a few deals and there are two with external counterparties.
+PL
+Phillip
+Please take a look at the emails below and let me know what you think about the ARUBA?
+Thanks
+Keith
+Keith -
+Anything in risktrac that is "-PHY" is intra-month.  Anything with "-PRC",  "-BAS", "-IDX", "-GDI",  are all "term" books.  There are some rules around "-GDL" where it is intra-month for all but two days at the end of each month.
+The OIL-NG (Lavo's) book would only have internal deals.  That may be why his book is not in credit.  Not really sure what the deal is with ARUBA-SPLY.  You should probably give Phillip Love a call.
+Jeff-
+I'm looking with the AGG-CREDIT portfolio to determine if the portfolio content is complete/correct.  In doing a comparison between AGG-CREDIT and AGG-PROD-DPR-BU, the following books are shown as active in AGG-PROD but not included in CREDIT.  Any thoughts on whether or not these should be included/excluded?  Based on the book id, I assume they are not intramonth - thus should likely be included 
+ARUBA-SPLY-PRC	US Gas Central		
+OIL-NG-HDG-C-CA-GDL	US GAS Financial		
+Separately I heard that there are books labeled as intramonth that include forward positions & vice versa forward books that contain intramonth positions.  Do you have a listing of these?
+Thanks
+KC
+separate region.  It is within the Mich P&L.  Also starting in October, Central transport will no longer be in FT-OC, it will be in Aruba and needs to continue to roll up to Central.  Do I need to call you back?
+PL
+P LOVE,
+For September OA, do you want Ontario broken out as a seperate region or rolled into Central region? 
+Thanks,
+G MAU
+thanks
+Done.
+Can you please grant access to calc the ENA-FT-WT-SOCAL book to the following people:
+ebrady
+dgiron
+plove
+Thanks.
+PL
+did you get to this?
+Hey Bruce or Phillip,
+Could one of you please make sure these two deals get flipped to 
+the FT-US/CAND-ERMS book by 2:30 Houston time.  I'm just waiting
+for these two deals to be fixed before I get started on my invoicing.
+Please let me know if you have any questions on this.
+Thanks
+Stacey
+work with ed on this and please do this asap.  Check the rest of your books as well please.  Rember this will be any deal with Transcanada and any other canadian counterparty.  Or search in TAGG for your book with ECC as the Enron counterparty - should take 5 minutes.  Thanks.
+PL
+Hey Phillip,
+Could you please make sure these two deals get flipped to the FT-US/CAND-ERMS book as soon as possible.
+Y20134.1
+Y20477.1
+I need to invoice for them this afternoon.  Please let me know if you have any questions on these, and when
+they've been flipped.
+Thanks
+Stacey
+sounds good, I heard from Bruce that the booking is not going to well.  I don't think it is that complicated, but I will be happy to do it tomorrow.  Any luck on getting it into an existing book and not having to calc another book from here on out?  Hopefully we can do it tomorrow since it is not going live until 11/01.  Talk to you in the morning.
+PL
+Phillip -
+Storey is trying to get us a reprieve from booking MGU tonight.  We are shooting for tommorrow so that you will be here. 
+We do not receive this information currently - Jackson Logan forwards the email to us currently.  I would appreciate having myself added to the list for email notification.  Since there will be an allocation to my cost center, please limit access to this to myself - Bruce Mills does not need access.  Please call if you have any questions.
+PL
+Jackson Logan mentioned that you need access to information from Canadian Enerdata.  We are currently in the process of renegotiating/renewing our agreement and I am trying to identify users who need continued access to this data.  Are you currently
+receiving the data?  If so, would you like to continue receiving it in the future?  Please read my initial message below.
+Thanks,
+Julie
+I am not certain as to weather they are on the list or not.  The best thing to do would be to call them.
+Thanks,
+Jackson Logan
+Thanks.  Do you know if they are currently receiving it?  They were not on the list that the vendor provided.
+Julie
+I do not need to receive this publication anymore, however, I am aware that Phillip Love and Bruce Mills need to receive this.
+Thank you,
+Jackson Logan
+You are listed as receiving information either by email or fax from Canadian Enerdata.  Our agreement with Canadian Enerdata is up for renewal and we need to identify whether or not you need continued access to this information.  Upon renewal, if you are a continued user, a portion of the cost will be allocated to your cost center.
+Please respond to this message and let me know if you need continued access.
+I appreciate your help.
+Julie Pechersky
+Enron Market Data
+713 853-9225
+FYI - please continue sending this to Robin Rodrigue and change the book admins name to Lynn Pikofsky for the Chicago office(EMW).  Kevin Radous is no longer with the company.  Thanks.
+PL
+Hello!
+Here are the variances between the Risk P&L and the GL as of August 31 for the books that I handle.  Please call me if you have any questions.
+Thanks,
+Amanda
+x 53334
+Give Mark a call and get him a copy of the transport model for the central and ontario for 8/31/01.  His number is x68680.  Thanks
+PL
+Phillip -
+Who was the contact on your desk that was supposed to send me the Transport
+Model information?  I have yet to receive it and thought that I would try
+to get in touch with him.
+Thanks,
+Mark
+(713) 646-8680
+*******************    Bruce Mills x58118.
+PL
+Phillip -
+Who was the contact on your desk that was supposed to send me the Transport
+Model information?  I have yet to receive it and thought that I would try
+to get in touch with him.
+Thanks,
+Mark
+(713) 646-8680
+*******************    I have never heard of this location.  I only see a basis and index curve for this, no intra month, Storey has this location in his curve file.  We have no deals at this location.  Does Canada?  We do not do the pub posting on Mich_CG-GD, rates does this one.  I would think they should post the NGI as well.
+PL
+Is there a problem with this curve?
+This is TIGHT 
+Happy shooting!!
+If you want an updated value on the deal, give the ticket numbers that need to be modified/deleted to Bruce and he can get it taken care of.  Let me know if you have any questions.  Thanks.
+PL
+This is an update to keep you posted on recent changes:
+The October start has been waved-off.  November is now the firm target.  Russell is planning to have the contract executed a week from today, Oct 5th.
+The Mich vs ML7 and Consumers vs ML7 basis spreads have been moved back into the main body of the summary sheet.  We are going to use those tickets.
+Geoff said to drop the two NYMEX fuel hedge tickets.  He is not going to put that hedge on with the NYMEX desk.
+The contract language hasn't evolved in a manner that supports the 2nd and 3rd winter Mich and Consumers FPPrgm.  Therefore, that volume will revert from FPPrgm to Mich index sale.
+The treatment of summer injection cost still has not been resolved.  If MGU agrees to bear that cost adjustments will be required to our Mich index sale ticket.
+There's probably more but that's all that come to mind right now.
+Let me know if you have any questions.
+Louis R. DiCarlo
+ENA Gas Structuring
+Phone: 713-345-4666
+Email: louis.dicarlo@
+Please move the following book to book trades with Canada from NG-Price to Bankruptcy:
+FT-Cand-Termin
+Ft-Cand-Gone-PR
+Pleae let me know when this is done, we are waiting to calc today on this.  Thanks.
+PL
+That's my man.
+PL
+I thought you'd get a kick out of this. 
+AC - can you check on this for me please.  I am in the chicago office and will not be back until next tuesday.  Irena said this was taken care of, you might check with her.  Thanks.
+PL
+Employee Name: Phillip Love
+Report Name:   plove91201
+Report Date:   9/12/01
+Report ID:     52E1D3E3A59411D5B43F
+Submitted On:  9/12/01
+You are only allowed 2 reports with receipts outstanding.  Your expense reports will not be paid until you meet this requirement.
+I am sorry to ask for a change on this reservation, but a colleague just mentioned he wanted to get a separate room, so could we have two rooms non smoking with double beds, I realize this may increase the rate.  Thanks for all of your help.
+PL
+AGENT RF/RF BOOKING REF Y8YB77
+LOVE/PHILLIP
+EB 3264B
+ENRON CORP
+DATE:  SEP 26 2001
+HOTEL                 02NOV BEST WESTERN RIVER NORTH HOTEL
+04NOV 125 WEST OHIO STREET
+CHICAGO, IL 60610
+UNITED STATES OF AMERICA
+TELEPHONE: 1-312 4670800
+FAX: 1-312 4671665
+CONFIRMATION: 184006702
+REFERENCE: ROHHFHA
+SINGLE ROOM
+RATE: HFH USD 92.00 PER NIGHT
+GUARANTEE GIVEN
+ENRON CORP NON SMK KING
+TO ADVOID BILLING CANCEL BY 4PM DAY OF ARRIVAL
+MISCELLANEOUS         04MAR HOUSTON TX
+MON   ** THANK YOU FOR USING THE TAP 
+LOVE/PHILLIP  S5C083ER1038
+PHILLIP LOVE 713 853-7376
+INTL TVLRS: CARRY SOS WALLET CARD W/ENRON ASSISTANCE INFO
+CALL SOS MEDICAL EMERGENCY:IN U.S 800 523-6586
+CALL SOS MEDICAL EMERGENCY:INTL 215 245-4707 (COLLECT)
+ALL FARES ARE SUBJECT TO CHANGE UNTIL TICKETED/PURCHASED
+thanks.
+PL
+Work is 334-844-1446, and home is 334-826-1449.
+sam
+Phillip.M.Love
+we should be in Auburn in plenty of time for lunch, but I would like to get
+your phone number so that I can call you if we get held up in traffic or
+flight delays.  We arrive in Atlanta at about 9:30 auburn time and should
+be to Auburn well before noon, but with everything going on, I an not sure
+of our arrival time.  Looking forward to it.
+PL
+[mailto:IMCEANOTES-hendrix2+40alumni+2Eauburn+2Eedu+40ENRON@]
+Sent:   Tuesday, September 25, 2001 10:15 AM
+I checked with Joe ... 1 p.m. will work fine.  Our new $500,000 worth of
+construction will be finished and in use by then, so I'm really looking
+forward to showing you the place.
+If you guys would like to get together for lunch before that, Chuck's
+barbecue is right around the corner from the Raptor Center.  I could
+meet
+you there.  Let me know.  Just learned our Miss State game will be on
+espn2
+at 6 p.m.  I hope we put on a better show for TV than we did the other
+night.
+sam
+Phillip.M.Love
+You are right, that game was very difficult to watch.
+I know we were scheduled to take a tour around 3 p.m.  I was wondering
+if
+we could move it up to around 1 p.m.  We are going to be getting into
+Auburn before lunch time on Friday and we have some friends coming that
+have never been to Auburn and we would really like them to see the
+Raptor
+Center.  Even if Tiger is not going to be there, we would still like to
+have a look if that is feasible for you.  Maybe if we move it up to 1,
+she
+will still be there.  Let me know what you think.  Thanks and look
+forward
+to seeing you in a couple of weeks.
+War Eagle.
+PL
+[mailto:IMCEANOTES-hendrix2+40alumni+2Eauburn+2Eedu+40ENRON@]
+Sent:   Monday, September 24, 2001 4:31 PM
+Phillip ...  hope all is well there in Houston.  We are still
+wondering
+what we ran into at the Carrier Dome.  I thought Lawrence Taylor had
+retired, but apparently he is still playing and wears number 54 for
+Syracuse.
+In any event, I have learned that the School of Nursing is having a
+fund
+raising event on Friday, Oct. 12, from late afternoon through the
+evening,
+and Joe Shelnutt will be taking War Eagle to that event.  That of
+course
+means he and  Tiger won't be at the Raptor Center at the time we had
+planned to go out there.
+Do you guys want to try it on another trip to Auburn?
+sam
+Interesting take on the state of affairs.
+PL
+ THOUGHT YOU MIGHT ENJOY THIS ONE

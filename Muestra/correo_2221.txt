@@ -1,0 +1,1411 @@
+Please be advised that a conference call has been scheduled for TODAY 
+(Tuesday, October 24, 2000) at 5:00 p.m. central time regarding the 
+above-referenced matter.  The dial in number is 1-800-998-2462; pincode 4718933
+Thanks.
+Richard
+We were experiencing difficulties earlier with the number.  Please try it 
+again.
+The dial-in number is 1-800-998-2462.  The pincode is 4718933
+"Fergus, Gary S."  	10/24/2000 04:45 PM
+PRIVILEGED AND CONFIDENTIAL
+ATTORNEY CLIENT PRIVILEGE
+Richard,
+After today's discussion here are our brainstorming ideas on
+options:
+1.   WAIT FOR A BETTER PROTECTIVE ORDER
+Ask Harvey Morris where they are on fixing the protective order that
+is being litigated by others.  If the protective order has not  changed,
+then unilaterally postpone production until it is.  Pro: Better protection
+and more time; Con: Even with a more stringent
+protective order Enron still questions whether the PUC is entitled
+to financial performance data.  Thus, this option does not fully
+disclose all of Enron's positions and the company may be accused later of
+simply engaging in delaying tactics.  Under this option  we file our
+formal objections as well.
+2. TURN OVER THE TRANSACTION DATA AS IS
+Continue on our present course of turning over transaction data for
+electricity that was delivered.  Pro: PUC will get the data  anyway
+either through FERC, unfair competition, antitrust or price gouging
+litigation.  By turning over the data that will show  profits, PUC might
+slow down investigation there as opposed to interrupting the business by
+seeking to depose witnesses etc.  Con:  This would be waiving the
+legitimate question that Enron has as to the PUC's ability to discovery this
+information through a  subpoena.  There is also a question of how
+confidential this data would be given the current political agenda.  It
+might also serve  to whet the appetite of the PUC for more Enron
+information and discovery.   This option would also provide confidential
+proprietary information to the PUC about how Enron gets its competitive
+advantage.
+3. TURN OVER DATA FOR OUTSIDE OF CALIFORNIA AND LET PUC GET REST OF
+DATA FROM ISO AND PX.
+We have told the PUC we do not want to duplicate the efforts of ISO
+and PX so the way to relieve the burden on us is to give  only missing
+data. PRO:  It would be easier and quicker to just give the outside of
+California data and would sidestep for the
+moment the ongoing jurisdictional question.  Con:  Without Enron
+cost data for the California ISO and PX transactions, the PUC
+would not be able to arrive at what they want -- a profit and loss
+picture.  We would have a hard time representing to the PUC that  the
+combination of the PUC data and the Enron data would be all that they need
+to calculate the answers to Request Nos. 7-10.
+4. TURN OVER EVERYTHING BUT PRICE
+This option would simple omit the price data.  Pro:  It would not
+reveal the profit and loss information.  Con:  It would not reveal the
+profit and loss information.  In other words, the PUC is clear that this is
+what they are after.  By giving them everything else, we
+would in effect be telling them we will not turn over profit and
+loss.  Moreover, by piecing some of it together with the ISO and PX
+data, the PUC might be able to put together a revenue picture which will be
+quite large, but just not the cost or expense side.
+5. DECLINE TO PRODUCE THE DATA
+We would tell Harvey Morris that Enron has reconsidered its position
+for the following reasons:  (1) Our firm belief that the PUC is  not
+entitled to the profit and loss data they are seeking; (2) in his latest
+email, Harvey has made it clear that the PUC wants more  data (1999)
+than we discussed earlier; (3) continued threat that if they do not like the
+transaction data they will come back and  ask for profit and loss
+information that we do not believe they are entitled to; (4) Commissioner
+Wood's statement that the purpose  of this investigation is to get
+money from market participants in the hands of consumers; (5) investigation
+by the AG into activities  of other market participants and the notice
+that other governmental agencies are cooperating -- who are we producing
+this  information to and for what purpose; (6) Enron favors public
+disclosure of trading data but only if all participants are required to
+do so; (7) Enron is a small player in this market and many other market
+participants are not involved in the process BPA etc.    PRO:  This
+may be the only way to preserve Enron's challenge to the jurisdiction of the
+PUC to get this data.  Moreover, in the  current political
+environment there is no assurance where this information will be leaked.  It
+also makes sense to see what FERC  will do with their published 11/1/00
+report on investigation date. Under this option, we file our formal
+objections and sit back and  wait.
+6. ME TOO
+Upon reflection, we agree with the approach taken by the other
+market participants.  We will not produce until the protective order  is
+modified and then only data that is within the PUC jurisdiction.  PRO:  This
+makes it look like all the market participants are  acting in concert
+and really is no different than option 1 above.  Moreover, if you read
+Reliant's responses, they appear ready to  turn over financial data if
+the protective order is modified. (Terry and Mike Day are both out of their
+offices today.)  Note that  Williams is adopting a strategy that says
+the PUC needs to go to Superior Court to enforce its subpoena.  This may be
+met with  strong opposition by the PUC given their California
+constitutional contempt authority.
+7. MOVE TO QUASH BEFORE THE ALJ
+Here we would raise all of the arguments that we have about why the
+PUC does not have jurisdiction and fight it out on the merits  before the
+ALJ.  PRO:  The ALJ is a forum to raise the jurisdictional questions.  It
+has the least procedural risks of being  dismissed.  CON:  Reading
+the tea leaves, we believe it unlikely that the ALJ will determine that the
+PUC has no jurisdiction.
+Moreover, because the PUC has its own constitutionally granted
+contempt power, the PUC will take the view (according to Mike  Day) that
+they need not go to the Superior Court for enforcement.  They will also take
+the view that the Superior Court has no  jurisdiction  to hear our
+appeal.  Appeals have to go to the PUC and those orders are appealable at
+the Court of Appeal level.   Thus, the only de novo review of our
+objections might be at the ALJ level.
+8. FILE DECLARATORY RELIEF ACTION IN FEDERAL COURT IN CALIFORNIA
+We would claim federal question jurisdiction under the Federal Power
+Act and in particular the provisions of 824(g) under which the PUC
+issued its subpoena in part.  The dispute to be decided is whether the PUC
+has the jurisdiction to seek the profit and  loss information from the
+wholesale market.  The authority for this would be Mississippi Power & Light
+v. Mississippi  487 US  354 (bright line between wholesale market regulated
+by FERC and the retail market regulated by states); Bristol Energy Corp v.
+New Hampshire 13 F.3d 471 (1st Cir. 1994)(federal question whether state
+agency can inquire into business and financial data  in the wholesale
+market but found no cognizable claim.)  PRO:  The federal forum may be more
+even handed than the ALJ, but  the question is whether we can state a
+cognizable claim.  There may be greater protections from disclosure of the
+information as  well.  CON:  The PUC may continue on a parallel track unless
+we are able to obtain injunctive relief.  The PUC might seek  discovery of
+the same information in the Federal court proceeding.  We should assume that
+this action will trigger the strongest  response from the PUC and/or the AG
+in form of further investigations or alternative forums for getting the same
+information (e.g  unfair business practice suit, price gouging,
+anti-trust etc.).   We should anticipate deposition requests for traders
+etc.  By taking  this position, we will clearly be conceding that if
+FERC asks for the data it is germane to their authority.
+9. SEPARATE RESPONSES/STRATEGIES FOR DIFFERENT ENRON ENTITIES
+It may make some sense to chart a different course for Portland
+General, EES and EEMC and continue to produce some data from  those
+entities.  PRO:  The information provided for these entities is not likely
+to generate profit and loss information that would be  germane to the fight
+we are about to engage in (e.g. EES's description of % off tariff rates for
+example.)  For Portland General,  Dave Aamodt is out of the office and
+not able to participate in any change of direction discussions.
+Hope this is helpful.
+Thanks
+Gary
+Richard B Sanders
+10/24/2000 05:34 PM
+"Fergus, Gary S."  	10/24/2000 04:45 PM
+PRIVILEGED AND CONFIDENTIAL
+ATTORNEY CLIENT PRIVILEGE
+Richard,
+After today's discussion here are our brainstorming ideas on
+options:
+1.   WAIT FOR A BETTER PROTECTIVE ORDER
+Ask Harvey Morris where they are on fixing the protective order that
+is being litigated by others.  If the protective order has not  changed,
+then unilaterally postpone production until it is.  Pro: Better protection
+and more time; Con: Even with a more stringent
+protective order Enron still questions whether the PUC is entitled
+to financial performance data.  Thus, this option does not fully
+disclose all of Enron's positions and the company may be accused later of
+simply engaging in delaying tactics.  Under this option  we file our
+formal objections as well.
+2. TURN OVER THE TRANSACTION DATA AS IS
+Continue on our present course of turning over transaction data for
+electricity that was delivered.  Pro: PUC will get the data  anyway
+either through FERC, unfair competition, antitrust or price gouging
+litigation.  By turning over the data that will show  profits, PUC might
+slow down investigation there as opposed to interrupting the business by
+seeking to depose witnesses etc.  Con:  This would be waiving the
+legitimate question that Enron has as to the PUC's ability to discovery this
+information through a  subpoena.  There is also a question of how
+confidential this data would be given the current political agenda.  It
+might also serve  to whet the appetite of the PUC for more Enron
+information and discovery.   This option would also provide confidential
+proprietary information to the PUC about how Enron gets its competitive
+advantage.
+3. TURN OVER DATA FOR OUTSIDE OF CALIFORNIA AND LET PUC GET REST OF
+DATA FROM ISO AND PX.
+We have told the PUC we do not want to duplicate the efforts of ISO
+and PX so the way to relieve the burden on us is to give  only missing
+data. PRO:  It would be easier and quicker to just give the outside of
+California data and would sidestep for the
+moment the ongoing jurisdictional question.  Con:  Without Enron
+cost data for the California ISO and PX transactions, the PUC
+would not be able to arrive at what they want -- a profit and loss
+picture.  We would have a hard time representing to the PUC that  the
+combination of the PUC data and the Enron data would be all that they need
+to calculate the answers to Request Nos. 7-10.
+4. TURN OVER EVERYTHING BUT PRICE
+This option would simple omit the price data.  Pro:  It would not
+reveal the profit and loss information.  Con:  It would not reveal the
+profit and loss information.  In other words, the PUC is clear that this is
+what they are after.  By giving them everything else, we
+would in effect be telling them we will not turn over profit and
+loss.  Moreover, by piecing some of it together with the ISO and PX
+data, the PUC might be able to put together a revenue picture which will be
+quite large, but just not the cost or expense side.
+5. DECLINE TO PRODUCE THE DATA
+We would tell Harvey Morris that Enron has reconsidered its position
+for the following reasons:  (1) Our firm belief that the PUC is  not
+entitled to the profit and loss data they are seeking; (2) in his latest
+email, Harvey has made it clear that the PUC wants more  data (1999)
+than we discussed earlier; (3) continued threat that if they do not like the
+transaction data they will come back and  ask for profit and loss
+information that we do not believe they are entitled to; (4) Commissioner
+Wood's statement that the purpose  of this investigation is to get
+money from market participants in the hands of consumers; (5) investigation
+by the AG into activities  of other market participants and the notice
+that other governmental agencies are cooperating -- who are we producing
+this  information to and for what purpose; (6) Enron favors public
+disclosure of trading data but only if all participants are required to
+do so; (7) Enron is a small player in this market and many other market
+participants are not involved in the process BPA etc.    PRO:  This
+may be the only way to preserve Enron's challenge to the jurisdiction of the
+PUC to get this data.  Moreover, in the  current political
+environment there is no assurance where this information will be leaked.  It
+also makes sense to see what FERC  will do with their published 11/1/00
+report on investigation date. Under this option, we file our formal
+objections and sit back and  wait.
+6. ME TOO
+Upon reflection, we agree with the approach taken by the other
+market participants.  We will not produce until the protective order  is
+modified and then only data that is within the PUC jurisdiction.  PRO:  This
+makes it look like all the market participants are  acting in concert
+and really is no different than option 1 above.  Moreover, if you read
+Reliant's responses, they appear ready to  turn over financial data if
+the protective order is modified. (Terry and Mike Day are both out of their
+offices today.)  Note that  Williams is adopting a strategy that says
+the PUC needs to go to Superior Court to enforce its subpoena.  This may be
+met with  strong opposition by the PUC given their California
+constitutional contempt authority.
+7. MOVE TO QUASH BEFORE THE ALJ
+Here we would raise all of the arguments that we have about why the
+PUC does not have jurisdiction and fight it out on the merits  before the
+ALJ.  PRO:  The ALJ is a forum to raise the jurisdictional questions.  It
+has the least procedural risks of being  dismissed.  CON:  Reading
+the tea leaves, we believe it unlikely that the ALJ will determine that the
+PUC has no jurisdiction.
+Moreover, because the PUC has its own constitutionally granted
+contempt power, the PUC will take the view (according to Mike  Day) that
+they need not go to the Superior Court for enforcement.  They will also take
+the view that the Superior Court has no  jurisdiction  to hear our
+appeal.  Appeals have to go to the PUC and those orders are appealable at
+the Court of Appeal level.   Thus, the only de novo review of our
+objections might be at the ALJ level.
+8. FILE DECLARATORY RELIEF ACTION IN FEDERAL COURT IN CALIFORNIA
+We would claim federal question jurisdiction under the Federal Power
+Act and in particular the provisions of 824(g) under which the PUC
+issued its subpoena in part.  The dispute to be decided is whether the PUC
+has the jurisdiction to seek the profit and  loss information from the
+wholesale market.  The authority for this would be Mississippi Power & Light
+v. Mississippi  487 US  354 (bright line between wholesale market regulated
+by FERC and the retail market regulated by states); Bristol Energy Corp v.
+New Hampshire 13 F.3d 471 (1st Cir. 1994)(federal question whether state
+agency can inquire into business and financial data  in the wholesale
+market but found no cognizable claim.)  PRO:  The federal forum may be more
+even handed than the ALJ, but  the question is whether we can state a
+cognizable claim.  There may be greater protections from disclosure of the
+information as  well.  CON:  The PUC may continue on a parallel track unless
+we are able to obtain injunctive relief.  The PUC might seek  discovery of
+the same information in the Federal court proceeding.  We should assume that
+this action will trigger the strongest  response from the PUC and/or the AG
+in form of further investigations or alternative forums for getting the same
+information (e.g  unfair business practice suit, price gouging,
+anti-trust etc.).   We should anticipate deposition requests for traders
+etc.  By taking  this position, we will clearly be conceding that if
+FERC asks for the data it is germane to their authority.
+9. SEPARATE RESPONSES/STRATEGIES FOR DIFFERENT ENRON ENTITIES
+It may make some sense to chart a different course for Portland
+General, EES and EEMC and continue to produce some data from  those
+entities.  PRO:  The information provided for these entities is not likely
+to generate profit and loss information that would be  germane to the fight
+we are about to engage in (e.g. EES's description of % off tariff rates for
+example.)  For Portland General,  Dave Aamodt is out of the office and
+not able to participate in any change of direction discussions.
+Hope this is helpful.
+Thanks
+Gary
+Kevin Presto
+Claudia Meraz
+10/25/2000 11:02 AM
+Richard 
+Per your request a Work Order will be opened for PCA Bankruptcy.  I need to 
+know who the business contact is for PCA Bankruptcy. 
+Thank you,
+Claudia Meraz
+Garrick Hill
+10/25/2000 05:36 PM
+Attached is the document we've drafted that we wish to send to Steve Tick in 
+the morning.  Please provide your comments or approval to send this out as 
+quickly as possible.
+RH
+Garrick Hill
+10/25/2000 05:36 PM
+Attached is the document we've drafted that we wish to send to Steve Tick in 
+the morning.  Please provide your comments or approval to send this out as 
+quickly as possible.
+RH
+Garrick Hill
+10/25/2000 05:36 PM
+Attached is the document we've drafted that we wish to send to Steve Tick in 
+the morning.  Please provide your comments or approval to send this out as 
+quickly as possible.
+RH
+What is this?
+ARSystem@mailman.enron.com
+10/27/2000 07:02 PM
+This request has been pending your approval for  4 days.  Please click 
+to review and act upon this request.
+Request ID          : 000000000005452
+Request Create Date : 10/23/00 11:15:18 AM
+Requested For       : linda.r.guinn@
+Resource Name       : MS Project
+Resource Type       : Applications
+no
+"Tetrault, Charles D."  	10/27/2000 06:14 PM
+As you know, in the past, I have had problems sending attachments to you.
+Also, sometimes a simple e-mail message sent without an attachment would
+appear to have a phantom attachment, which you could not open or which
+contained gibberish.
+Our IS Department has been working on some possible solutions.
+THIS  IS A TEST MESSAGE BEING SENT WITHOUT ANY ATTACHMENTS.  PLEASE RESPOND
+AND LET ME KNOW WHETHER YOU "SEE" ANY ATTACHMENT.  THANKS.
+Charles D. Tetrault
+Vinson & Elkins L.L.P.
+1455 Pennsylvania Ave., N.W.
+Washington, D.C. 20004-1008
+ctetrault@velaw.com
+202.639.6551 [voice]
+202.639.6604 [fax]
+"Tetrault, Charles D."  	10/28/2000 05:09 PM
+Any success in locating the Enron press release on the volumetric production
+payment involving EOG that we discussed on October 10?
+Charles D. Tetrault
+Vinson & Elkins L.L.P.
+1455 Pennsylvania Ave., N.W.
+Washington, D.C. 20004-1008
+ctetrault@velaw.com
+202.639.6551 [voice]
+202.639.6604 [fax]
+++++++ I have set up a conference call at 11:30 on Monday to discuss.
+Christian Yoder
+10/27/2000 12:15 PM
+In the days immediately before the application for a price cap, Puget came to 
+us and asked us to enter into several put options.  We did so. I am advised 
+by the traders that if this price cap were to actually be in effect,  our put 
+option transactions would not make sense for us economically and we would 
+never have entered into them had we known of their intention to make this 
+filing.   I am under some pressure  to explain two things:  (i) whether the 
+fact that they knew they were going to file for the cap when they did the 
+options is some kind of fraud, and (ii) whether the WSPP Agreement or our 
+ISDA swap agreements have any clauses in them to address this kind of 
+thing,ie. is this some kind of "illegality" issue?  I am working on the 
+second issue and have discussed it with Mark Taylor, but on the first issue, 
+I need advice from Richard and anyone else who can help.----cgy 
+Mary Hain
+10/27/2000 09:50 AM
+Puget Sound has filed a complaint against all jurisdictional sellers of 
+wholesale energy and/or capacity in the Pacific Northwest, including parties 
+to WSPP agreement.  Puget Sound requests FERC to impose price cap on 
+wholesale sales of energy and capacity in the Pacific Northwest equal to the 
+lowest price cap "established, ordered, or permitted by the Commission for 
+wholesale purchases by the Cal ISO or Cal PX . . . ."  Puget requests an 
+effective date of December 25,2000 
+please put on my stationary
+Richard,
+Please see the attached document for your final review; I have made the 
+changes from your mark-up.  Also could you send me a copy of the demand 
+letter you sent to Jack North of Rio Vista Gas/Energy a few months back.  I 
+do not have a copy for my files.  Thank you.
+Eric Gillaspie
+x5-7667
+FYI
+"WENDY EDWARDSON"  	10/27/2000 10:00 AM
+Status Report re: tape transcripts
+At this time, this summary has been sent to you only.
+Counsel for Powerex has indicated that he now has instructions to share with 
+us the information that has been seized from their offices by the Bureau in 
+exchange for our providing similar information to them.
+He has also indicated to us that between the 19th and the 25th of October, 
+the Bureau came to Vancouver and listened to the Powerex tapes using Powerex 
+equipment in that they had been unable to listen to them with their own 
+equipment.
+As you are aware, the tapes seized from the Enron offices in Calgary cover 
+the period of September of 1999 to the end of October.
+The tapes which we have listened to, but which they have not seized, cover 
+the period commencing in late May of 1999 to September, 1999.
+With respect to the tapes that they have seized, initially we exerted a claim 
+of privilege to all of the tapes.  The Bureau has now come back to us and has 
+asked us to clarify how we would propose resolving the privilege question We have volunteered to have this discussion with them, but to this point in 
+time, they have not responded to us.
+If, as and when the conversation occurs, our position will be that we intend 
+to claim privilege with respect to conversations with lawyers only.  How this 
+particular aspect of the matter would be resolved is not as yet clear.
+Our view is that with respect to the conversations they have, they are not 
+particularly damaging but the conversations do not particularly add to the 
+flavour of the matter to our benefit.
+On Wednesday of next week, we will be meeting with counsel for Powerex to see 
+exactly which conversations they have delivered to the Bureau.  We will 
+advise him of the conversations that have been taken by the Bureau from our 
+offices and at the conclusion of this matter, we should be able to see 
+exactly what it is that the Bureau has in terms of conversations between 
+Powerex and Enron.
+We look forward to discussing this matter with you at your convenience.
+Yt
+Web Macdonald
+The e-mail should suffice as an official policy. Let me know if you need 
+anything more.
+Robert Knight
+10/03/2000 08:10 AM
+Richard,
+Will there be an official amendment to the retention policy or should we use 
+this email as our documentation?
+Thanks,  Robert
+Will there be an official amendment to the current tape policy?
+Have/are you implementing a document which the head trader and legal counsel 
+can fill out and sign to request call be retained and for what period it is 
+to be obtained? If so, can Mike and I get a copy of it?
+Thanks!
+Robert Knight
+09/28/2000 03:10 PM
+fyi
+Effective October 15, 2000, the retention period on tape recordings of trades 
+done by telephone will be reduced from four months to one month.  The tapes 
+regarding significant transactions may be retained for such longer period as 
+approved in writing by both the Head Trader and the General Counsel.  Please 
+propose those significant transactions on which you may wish to retain the 
+tapes, prior to October 15, 2000, since the tapes on conversations older than 
+one month (except with respect to litigation matters) will be destroyed on 
+that date.  If you have any questions, please contact Mark Haedicke or 
+Richard Sanders. 
+John Lavorato and Mark Haedicke
+The answer is yes but I would like to hear from Barbara or Shonnie before I 
+give you the go-ahead. Ladies?
+Darren P Adamik
+10/06/2000 03:25 PM
+Richard,
+Enron Net Works currently supports the joint venture between Enron and Texaco 
+called Bridgeline in the Three Allen Center Building.  My group supports the 
+Trading telephony and recording equipment for this company.  My question is 
+does this new audio retention policy cover this operating company or not 
+since we do support them?
+,
+Darren Adamik
+Mgr.-Trading Technology
+Enron Net Works
+713-853-4764
+Make sure we take care of this asap.
+Effective October 15, 2000, the retention period on tape recordings of trades 
+done by telephone will be reduced from four months to one month.  The tapes 
+regarding significant transactions may be retained for such longer period as 
+approved in writing by both the Head Trader and the General Counsel.  Please 
+propose those significant transactions on which you may wish to retain the 
+tapes, prior to October 15, 2000, since the tapes on conversations older than 
+one month (except with respect to litigation matters) will be destroyed on 
+that date.  If you have any questions, please contact Mark Haedicke or 
+Richard Sanders. 
+John Lavorato and Mark Haedicke
+I have a trip to Portland scheduled for the 2nd and 3rd. What about the week 
+of the 6th? The 6th, 7th, and 8th are especially good.
+melanie.gray@weil.com
+10/27/2000 02:40 PM
+Our friend Jane called this morning and left the following message:
+"David Paulker apologizes for cancelling yesterday.  They are all available on
+11/2 or 11/3 at 9:30 am."
+I can't do it on the 3rd, but I can do it on the 2d.  What do your schedules
+look like?  Thanks.
+**********NOTE The information contained in this email message is intended only
+for use of the individual or entity named above.  If the reader
+of this message is not the intended recipient, or the employee or
+agent responsible to deliver it to the intended recipient, you
+are hereby notified that any dissemination, distribution or
+copying of this communication is strictly prohibited.  If you
+have received this communication in error, please immediately
+notify us by telephone (713-546-5000), and destroy the original
+message. Thank you.
+Lisa-- this looks fine to me but you have a better feel for what you want. I 
+would keep a close eye on the bill( perhaps a maximum amount Millbank can 
+bill)
+SHoward@milbank.com
+10/26/2000 06:48 PM
+Attached is a memorandum outlining my understanding of the project that we 
+have been asked to take on by Lisa Mellencamp and Linklaters.
+Lisa and Richard, I would very much appreciate your reviewing the attached 
+memorandum and giving me your comments.? I want to make sure we are on the 
+right track.
+- 3__KX01!.doc
+Bonnie-- If you have not already done so, we should gather our documents
+Linda-- Please coordinate this effort
+"Markel, Gregory A."  	10/27/2000 02:45 PM
+See below for categories of documents to be preserved.
+Greg Markel
+Brobeck Phleger & Harrison
+1633 Broadway
+New York, New York  10019
+212-237-2592
+Fax -212-586-7878
+gmarkel@brobeck.com
+- 42CG01!.DOC
+Bonnie white, an Enron inhouse litigator, and my paralegal, Linda Guinn, Will 
+gather the requested documents. Linda--713-853-6104, Bonnie---713-853-7244
+Richard B Sanders
+10/29/2000 09:22 AM
+Bonnie-- If you have not already done so, we should gather our documents
+Linda-- Please coordinate this effort
+"Markel, Gregory A."  	10/27/2000 02:45 PM
+See below for categories of documents to be preserved.
+Greg Markel
+Brobeck Phleger & Harrison
+1633 Broadway
+New York, New York  10019
+212-237-2592
+Fax -212-586-7878
+gmarkel@brobeck.com
+- 42CG01!.DOC
+My paralegal, Linda Guinn, will call you about this--- which is another way 
+of saying "my dog ate my homework"
+"Tetrault, Charles D."  	10/28/2000 05:09 PM
+Any success in locating the Enron press release on the volumetric production
+payment involving EOG that we discussed on October 10?
+Charles D. Tetrault
+Vinson & Elkins L.L.P.
+1455 Pennsylvania Ave., N.W.
+Washington, D.C. 20004-1008
+ctetrault@velaw.com
+202.639.6551 [voice]
+202.639.6604 [fax]
+++++++ Although I would love to allow someone else the opportunity to participate in 
+this project, it makes more sense for me to be the  Enron rep. What do I need 
+to do to begin the transition?
+Robert C Williams@_DEVELOPMENT
+10/27/2000 08:45 AM
+Gary, I am circulating the protocol for internal review and will get back to 
+you shortly on both the protocol and our participation in this working 
+group.  Thank you.
+Dear Mr. Williams,
+?
+This is a follow-up to?the October 5 meeting on the AAA's  eCommerce Dispute 
+Management Protocol.? One of the most exciting aspects of  that meeting was 
+the enthusiasm for the systems and services we are developing  to support the 
+Protocol.? We are now at the stage in which we need to get  direct feedback 
+from potential users, and I am putting together a working group  to look at 
+several aspects of our efforts, including:
+?
+??? - The mechanics and timelines of the  services
+??? - The qualifications of arbitrators and  mediators
+??? - Integration and data transfer  issues
+??? - Dispute tracking events
+??? - Incorporating adjunct services to  offer?a complete dispute management 
+process
+?
+At the meeting you expressed interest and?support for  our?proposed 
+services?and how they might benefit Enron.? Enron's  involvement?in 
+developing and refining our services would be invaluable to  us, and if?there 
+is someone at Enron who could  participate in our efforts, please let me 
+know.? Alternatively, you can  simply forward this message to them?and they 
+could get in touch with  me.
+?
+Should you have any questions, you can reach me by e-mail 
+(gstrathmann@mediaone.net) or  telephone (978-376-9004).
+?
+Thank you.
+?
+-> Gerry Strathmann
+??? American Arbitration  Association
+?
+?
+"Markel, Gregory A."  	10/27/2000 02:45 PM
+See below for categories of documents to be preserved.
+Greg Markel
+Brobeck Phleger & Harrison
+1633 Broadway
+New York, New York  10019
+212-237-2592
+Fax -212-586-7878
+gmarkel@brobeck.com
+- 42CG01!.DOC
+Can you find this demand letter?
+Richard,
+Please see the attached document for your final review; I have made the 
+changes from your mark-up.  Also could you send me a copy of the demand 
+letter you sent to Jack North of Rio Vista Gas/Energy a few months back.  I 
+do not have a copy for my files.  Thank you.
+Eric Gillaspie
+x5-7667
+The Joint Defense Agreement looks good,except for the application of Florida 
+law. Have you looked at Fla. law?
+With respect to limitations on possible claims, you have a good point. Please 
+look at the limitations issue in light of what you know. An extensive review 
+of the depositions doesn't seem warranted to me. I would also suggest we 
+enter into a Tolling Agreement w/ Power systems ASAP. Call me to 
+discuss--853-5587
+"John Barr"  	10/26/2000 01:59 PM
+Attached is the Joint Defense Agreement from Shook, Hardy & Bacon with my 
+comments in redline. This agreement was sent to us to allow Enron access to 
+the Power Systems' attorney's opinion regarding whether the proposed redesign 
+for the New Albany and Doyle turbines might infringe GE patents.
+My comments are intended to preserve Enron's rights to bring any claims that 
+it may have against Power Systems. Do we have any other agreements of this 
+type with Power Systems?  Some claims that Enron may have against Power 
+Systems such as claims for breach of warranty may have limitations periods 
+that are approaching.  I believe we have discussed having Bracewell review 
+the depositions and any documents related to the installation of the 
+allegedly infringing systems into Enron's facilities.  Please advise if you 
+would like for us to undertake this review and ensure that any claims that 
+Enron may have are protected.
+Thanks.
+- JOINTDEF.WPD
+Kje451@aol.com
+09/29/2000 03:34 PM
+Dear Richard:
+Thanks for the offer to get my resume to the people that might have a need
+for someone with my background.
+With Jim Ebeling
+- RESUME2.DOC
+"LORRAINE PHILLIPS"  	10/30/2000 10:21 AM
+Glenn asked me to forward to you a copy of a message he received from Jim 
+Sutton.
+- FILEOCTO.DOC
+Attached is a draft memo to ENA Employees regarding the Email Retention 
+Policy.  Please review and provide me with any comments.
+Thanks
+Richard
+This works for me-- please confirm if the call is going forward
+"JOANNE BENNETT"  	10/30/2000 12:30 PM
+Dan Fournier would like to have a conference call today at  3:00 Calgary time 
+to discuss the Project Stanley file. 
+?
+Please let me know if this works with your schedule.? If  so, the dial in 
+number will be 1-888-265-0030, participants pass code - 618 929 ?
+Thanks, 
+Joanne
+Assistant to Dan Fournier
+?
+The attachment opened
+"Tetrault, Charles D."  	10/31/2000 12:33 PM
+This is the "homework" that I mentioned.  We are trying to resolve our
+"attachment" problem.  Can you open the test attachment that accompanies
+this e-mail?
+Charles D. Tetrault
+Vinson & Elkins L.L.P.
+1455 Pennsylvania Ave., N.W.
+Washington, D.C. 20004-1008
+ctetrault@velaw.com
+202.639.6551 [voice]
+202.639.6604 [fax]
+++++++  - DC_110685_1.DOC
+Yes. She is ex-Bracewell and I know her pretty well.
+Bonnie White@
+10/30/2000 10:00 AM
+I have received correspondence from Vinmar's counsel that they propose Judge 
+Katie Kennedy as the sole arbitrator to be used in this matter.  What do you 
+think?
+Christi L Nicolay
+11/01/2000 11:10 AM
+The order issued from today's meeting is attached.  It is approximately 80 
+pages.
+- EL00-95.1
+The 8th at 8:30 is good. The extension is fine as long as it is short.
+melanie.gray@weil.com
+11/01/2000 12:00 PM
+The Trustee has proposed a conference call with Paulker on Nov. 8th beginning 
+at
+8:30 am our time.  Are you both still available and want to go forward at that
+time.
+Also, they have asked that we agree to delay the briefing on the arbitration
+motion.  The request, from Jane, is that they would like to first see if we 
+can
+resolve this without the need to incur more legal fees and that a delay of a 
+few
+weeks to allow that process to continue will not prejudice either party.  The
+schedule right now, as set by the court yesterday, is the Trust's response is
+due on Nov. 13th. and our reply would be due on Nov. 17th.  The court is
+scheduled to hear argument on Nov. 28th.
+I like the idea of keeping pressure on them, but I don't view an extension as
+unreasonable or as prejudicial to EPMI.  Let me know your thoughts.  Thanks.
+**********NOTE The information contained in this email message is intended only
+for use of the individual or entity named above.  If the reader
+of this message is not the intended recipient, or the employee or
+agent responsible to deliver it to the intended recipient, you
+are hereby notified that any dissemination, distribution or
+copying of this communication is strictly prohibited.  If you
+have received this communication in error, please immediately
+notify us by telephone (713-546-5000), and destroy the original
+message. Thank you.
+Christi L Nicolay
+11/01/2000 11:10 AM
+The order issued from today's meeting is attached.  It is approximately 80 
+pages.
+- EL00-95.1
+Isn't it time for our ex-Bracewell lunch?
+Sanders - Forgot to send you this earlier.?  Takes a while to download, but 
+it is worth the wait. -  Gage
+- waasszzu.mpeg
+Steve C Hall
+10/30/2000 05:38 PM
+Richard and Elizabeth,
+At Christian's suggestion, I am sending a memo I prepared summarizing some of 
+the more exotic strategies used by our traders.  Christian has reviewed the 
+memorandum and believes that it will assist you both in preparing for our 
+Thursday meeting.  Between now and Thursday, Christian and I are going to 
+analyze the ISO tariff to determine if the tariff prohibits any of these 
+strategies.
+Steve
+You should now have both. If not, call my Asst, Twanda Sweet, at 713-858-9402
+"Meringolo, Peter"  	11/01/2000 03:39 PM
+Richard,
+I have not received your email attaching the FERC order or the document from
+Steve Hall.  In case your having trouble, here's a link my email address:
+pmeringolo@brobeck.com  I am sure that Gary will have access to his email, so feel free to send it
+on to both of us.
+Peter
+Peter P. Meringolo
+Brobeck, Phleger & Harrison LLP
+Spear Tower
+One Market
+San Francisco, CA 94105
+Main:  (415) 442-0900
+Direct:  (415) 442-1285
+Fax:  (415) 442-1010
+Call me about this
+"Tetrault, Charles D."  	11/04/2000 05:15 PM
+I've never heard from Linda Guinn regarding the volumetric production
+payment press release issue.
+Charles D. Tetrault
+Vinson & Elkins L.L.P.
+1455 Pennsylvania Ave., N.W.
+Washington, D.C. 20004-1008
+ctetrault@velaw.com
+202.639.6551 [voice]
+202.639.6604 [fax]
+++++++ I cannot get into the system---please send me a paper approval sheet
+ARSystem@mailman.enron.com
+11/03/2000 07:01 PM
+This request has been pending your approval for  9 days.  Please click 
+to review and act upon this request.
+Request ID          : 000000000005452
+Request Create Date : 10/23/00 11:15:18 AM
+Requested For       : linda.r.guinn@
+Resource Name       : MS Project
+Resource Type       : Applications
+Yes we won, but no we shouldn't change our response. The Judge sent us a=20
+letter with his rulings, but has not signed an official order. In fact ,last=20
+week the judge heard the Plaintiff's motion to reconsider and stated that his=20
+letter was not an order. In light of this, I would leave the description the=20
+same. Your thoughts?
+=09Rex Rogers@
+=0911/03/2000 05:35 PM
+=09=09
+Richard:  I'm sure I must be wrong about this, but it was my understanding=20
+(second-hand hearsay, at best) that the trial court ruled in our favor=20
+against class certification after remand from the Supreme Court.  If I am=20
+indeed incorrect, sorry for wasting your time with this message--just=20
+disregard.  Thanks, Rex.
+=09Gary Peng
+=0911/03/2000 05:17 PM
+=09=09=20
+I have no changes to the Intratex case description.
+=09Gary Peng@
+=0910/19/2000 06:13 PM
+=09=09=20
+Find below the Litigation and Other Contingencies footnote from the the June=20
+30, 2000 Form 10-Q.  Please update the section of the disclosure for which=20
+you are responsible for inclusion in the third quarter 2000 Form 10Q .  Also,=20
+please let me know if there are any new items that should be considered.
+Please respond no later than Monday October 30.
+Gary
+3-6841
+3.  Litigation and Other Contingencies
+Enron is a party to various claims and litigation, the significant items of=20
+which are discussed below.  Although no assurances can be given, Enron=20
+believes, based on its experience to date and after considering appropriate=20
+reserves that have been established, that the ultimate resolution of such=20
+items, individually or in the aggregate, will not have a material adverse=20
+impact on Enron=01,s financial position or its results of operations.
+Litigation.  In 1995, several parties (the Plaintiffs) filed suit in Harris=20
+County District Court in Houston, Texas, against Intratex Gas Company=20
+(Intratex), Houston Pipe Line Company and Panhandle Gas Company=20
+(collectively, the Enron Defendants), each of which is a wholly-owned=20
+subsidiary of Enron.  The Plaintiffs were either sellers or royalty owners=20
+under numerous gas purchase contracts with Intratex, many of which have=20
+terminated.  Early in 1996, the case was severed by the Court into two=20
+matters to be tried (or otherwise resolved) separately.  In the first matter,=20
+the Plaintiffs alleged that the Enron Defendants committed fraud and=20
+negligent misrepresentation in connection with the =01&Panhandle program,=018 a=20
+special marketing program established in the early 1980s.  This case was=20
+tried in October 1996 and resulted in a verdict for the Enron Defendants.  In=20
+the second matter, the Plaintiffs allege that the Enron Defendants violated=20
+state regulatory requirements and certain gas purchase contracts by failing=20
+to take the Plaintiffs=01, gas ratably with other producers=01, gas at certain=20
+times between 1978 and 1988.  The trial court certified a class action with=20
+respect to ratability claims.  On March 9, 2000, the Texas Supreme Court=20
+ruled that the trial court=01,s class certification was improper and remanded=20
+the case to the trial court.  The Enron Defendants deny the Plaintiffs=01,=20
+claims and have asserted various affirmative defenses, including the statute=20
+of limitations.  The Enron Defendants believe that they have strong legal and=20
+factual defenses, and intend to vigorously contest the claims.  Although no=20
+assurances can be given, Enron believes that the ultimate resolution of these=20
+matters will not have a material adverse effect on its financial position or=20
+results of operations.
+On November 21, 1996, an explosion occurred in or around the Humberto Vidal=20
+Building in San Juan, Puerto Rico.  The explosion resulted in fatalities,=20
+bodily injuries and damage to the building and surrounding property.  San=20
+Juan Gas Company, Inc. (San Juan Gas), an Enron affiliate, operated a=20
+propane/air distribution system in the vicinity, but did not provide service=20
+to the building. Enron, San Juan Gas, four affiliates and their insurance=20
+carriers were named as defendants, along with several third parties,=20
+including The Puerto Rico Aqueduct and Sewer Authority, Puerto Rico Telephone=20
+Company, Heath Consultants Incorporated, Humberto Vidal, Inc. and their=20
+insurance carriers, in numerous lawsuits filed in U.S. District Court for the=20
+District of Puerto Rico and the Superior Court of Puerto Rico.  These suits=20
+seek damages for wrongful death, personal injury, business interruption and=20
+property damage allegedly caused by the explosion.  After nearly four years=20
+without determining the cause of the explosion, all parties have agreed not=20
+to litigate further that issue, but to move these suits toward settlements or=20
+trials to determine whether each plaintiff was injured as a result of the=20
+explosion and, if so, the lawful damages attributable to such injury. The=20
+defendants have agreed on a fund for settlements or final awards. Numerous=20
+suits have been settled and 20 cases have been set for trial in the federal=20
+court beginning in February 2001. Although no assurances can be given, Enron=20
+believes that the ultimate resolution of these matters will not have a=20
+material adverse effect on its financial position or results of operations.
+Trojan Investment Recovery.  In early 1993, Portland General Electric=20
+Company (PGE) ceased commercial operation of the Trojan nuclear power=20
+generating facility (Trojan).  In April 1996 a circuit court judge in Marion=20
+County, Oregon, found that the Oregon Public Utility Commission (OPUC) could=20
+not authorize PGE to collect a return on its undepreciated investment in=20
+Trojan, contradicting a November 1994 ruling from the same court.  The ruling=20
+was the result of an appeal of PGE=01,s March 1995 general rate order which=20
+granted PGE recovery of, and a return on, 87% of its remaining investment in=20
+Trojan.  The 1994 ruling was appealed to the Oregon Court of Appeals and was=20
+stayed pending the appeal of the OPUC=01,s March 1995 order.  Both PGE and the=20
+OPUC separately appealed the April 1996 ruling, which appeals were combined=20
+with the appeal of the November 1994 ruling at the Oregon Court of Appeals. =20
+On June 24, 1998, the Court of Appeals of the State of Oregon ruled that the=20
+OPUC does not have the authority to allow PGE to recover a rate of return on=20
+its undepreciated investment in Trojan.  The court upheld the OPUC=01,s=20
+authorization of PGE=01,s recovery of its undepreciated investment in Trojan.
+PGE and the OPUC each filed petitions for review with the Oregon Supreme=20
+Court.  On August 26, 1998, the Utility Reform Project filed a petition for=20
+review with the Oregon Supreme Court seeking review of that portion of the=20
+Oregon Court of Appeals decision relating to PGE=01,s recovery of its=20
+undepreciated investment in Trojan.  On April 29, 1999, the Oregon Supreme=20
+Court accepted the petitions for review.  On June 16, 1999, Oregon House Bill=20
+3220 authorizing the OPUC to allow recovery of a return on the undepreciated=20
+investment in property retired from service was signed.  One of the effects=20
+of the bill is to affirm retroactively the OPUC=01,s authority to allow PGE=01,s=20
+recovery of a return on its undepreciated investment in Trojan.
+Relying on the new legislation, on July 2, 1999, PGE requested the Oregon=20
+Supreme Court to vacate the June 24, 1998, adverse ruling of the Oregon Court=20
+of Appeals, affirm the validity of the OPUC=01,s order allowing PGE to recover a=20
+return on its undepreciated investment in Trojan and to reverse its decision=20
+accepting the Utility Reform Project=01,s petition for review.  The Utility=20
+Reform Project and the Citizens Utility Board, another party to the=20
+proceeding, opposed such request and submitted to the Oregon Secretary of=20
+State sufficient signatures in support of placing a referendum to negate the=20
+new legislation on the November 2000 ballot.  The Oregon Supreme Court has=20
+indicated it will defer hearing the matter until after the November 2000=20
+elections.  Enron cannot predict the outcome of these actions.  Additionally,=20
+due to uncertainties in the regulatory process, management cannot predict,=20
+with certainty, what ultimate rate-making action the OPUC will take regarding=20
+PGE=01,s recovery of a rate of return on its Trojan investment.  Although no=20
+assurances can be given, Enron believes that the ultimate resolution of these=20
+matters will not have a material adverse effect on its financial position or=20
+results of operations.
+Environmental Matters.  Enron is subject to extensive federal, state and=20
+local environmental laws and regulations.  These laws and regulations require=20
+expenditures in connection with the construction of new facilities, the=20
+operation of existing facilities and for remediation at various operating=20
+sites.  The implementation of the Clean Air Act Amendments is expected to=20
+result in increased operating expenses.  These increased operating expenses=20
+are not expected to have a material impact on Enron=01,s financial position or=20
+results of operations.
+The Environmental Protection Agency (EPA) has informed Enron that it is a=20
+potentially responsible party at the Decorah Former Manufactured Gas Plant=20
+Site (the Decorah Site) in Decorah, Iowa, pursuant to the provisions of the=20
+Comprehensive Environmental Response, Compensation and Liability Act (CERCLA,=20
+also commonly known as Superfund).  The manufactured gas plant in Decorah=20
+ceased operations in 1951.  A predecessor company of Enron purchased the=20
+Decorah Site in 1963.  Enron=01,s predecessor did not operate the gas plant and=20
+sold the Decorah Site in 1965.  The EPA alleges that hazardous substances=20
+were released to the environment during the period in which Enron=01,s=20
+predecessor owned the site, and that Enron=01,s predecessor assumed the=20
+liabilities of the company that operated the plant.  Enron contests these=20
+allegations.  To date, the EPA has identified no other potentially=20
+responsible parties with respect to this site.  Under the terms of=20
+administrative orders, Enron replaced affected topsoil and removed impacted=20
+subsurface soils in certain areas of the tract where the plant was formerly=20
+located.  Enron completed the final removal actions at the site in November=20
+1998 and concluded all remaining site activities in the spring of 1999. =20
+Enron submitted a final report on the work conducted at the site to the EPA. =20
+Enron does not expect to incur any additional expenditures in connection with=20
+this site.
+Enron=01,s natural gas pipeline companies conduct soil and groundwater=20
+remediation on a number of their facilities.  Enron does not expect to incur=20
+material expenditures in connection with soil and groundwater remediation.
+I'm OK
+Britt Davis@
+11/03/2000 08:05 AM
+Richard, what's your pleasure?
+Britt
+Marcus Nettelton
+11/02/2000 03:52 PM
+Britt
+If you believe that it is reasonable suggest you approve and pay.
+Marcus
+I have received the interim bill through September 2000 from Miles Stockbridge in this matter, which is in the total amount of $73,331.38.  Do 
+either of you wish to approve and pay, or do you want me to do it?  Let me 
+know.  Thanks.
+Britt
+"Neal S. Manne"  	11/06/2000 11:59 AM
+Here are drafts of both of the letters to Sickman.  Richard, let me know if
+you need help from here.  I am about to leave the office and will be back
+here around 3:30.  You can reach me on my cell phone at 713-515-3461.
+- Doc1.wpd
+yes
+"Tetrault, Charles D."  	10/31/2000 01:14 PM
+Did the footnote appear?
+The attachment opened
+"Tetrault,
+law.com>             Subject:     E-mail attachments
+10/31/2000
+12:33 PM
+This is the "homework" that I mentioned.  We are trying to resolve our
+"attachment" problem.  Can you open the test attachment that accompanies
+this e-mail?
+Charles D. Tetrault
+Vinson & Elkins L.L.P.
+1455 Pennsylvania Ave., N.W.
+Washington, D.C. 20004-1008
+ctetrault@velaw.com
+202.639.6551 [voice]
+202.639.6604 [fax]
+++++++ (See attached file: DC_110685_1.DOC)
+++++++ 	Karen Denne@
+10/31/2000 06:46 PM
+Richard -- Please disregard the email sent by Ann Schmidt.  This is the 
+correct agreement for PR services with Marathon Communication I referenced in 
+my voicemail.  We'd like to begin using Marathon Nov. 1.  Thanks, Richard 
+Karen
+x39757
+- Enron.PDF
+Dave Delainey,George McClellan,Tim Belden,Jim Derrick,
+Sheila Walton
+11/01/2000 07:26 PM
+There is a possibility that  year end reviewers for you were mistakenly 
+approved and sent out before you finalized your selections.  Please send me a 
+list of your desired reviewers with a copy to Mark Haedicke and I will add 
+these names to the system if they are not already on the list.  If you have 
+any questions or need assistance, please contact me at Ext 30649.  Sorry for 
+any inconvenience that this may have created 
+Sanders - Forgot to send you this earlier.?  Takes a while to download, but 
+it is worth the wait. -  Gage
+- waasszzu.mpeg
+My title is Assistant General Counsel. Otherwise, the letter looks good. I 
+asssume you will send me an original.
+"sandra"  	11/07/2000 04:05 PM
+Please respond to "Sandra Yamane"
+- Enron.doc
+James D Steffes@
+11/01/2000 01:25 PM
+Richard 
+Here is the FERC Order on California issues.
+Along with this Order, the question has been raised whether or not this Order 
+effectively tells the CPUC that they have no authority in wholesale matters 
+and we will not give them the information they are requesting in their 
+Subpoena?  Maybe we should ask Mike Day and Dan Watkiss for their opinion on 
+this matter before we do anything else in terms of responding?
+Jim
+Christi L Nicolay@ECT
+11/01/2000 11:10 AM
+The order issued from today's meeting is attached.  It is approximately 80 
+pages.
+- EL00-95.1
+Please make sure Gary and his people  are included in interview process.
+Christian Yoder
+11/08/2000 04:49 PM
+Gary,
+The agreements we spoke of yesterday are being fedexed to you today.  After a 
+more comprehensive look, it turns out that only the first few agreements had 
+the unfortunate wording.  As the form of the agreement evolved with 
+subsequent reviews and drafting, the problem disappeared.  At Richard 
+Sanders' suggestion we interviewed the trader involved, and he was able to 
+confirm that actual practices did not support the negative implications of 
+some of the language.  Please call Steve and me with your comments after you 
+have had a chance to review these documents.
+cgy
+Although it is always a moving target when you try to interpret Randy's 
+e-mails, when he says "more realistic" numbers, I think he is talking to you. 
+I thought I heard that 1) Sterling's case was weak and 2) she has hired a 
+more reasonable atty.
+Randal Maffett
+11/08/2000 04:21 PM
+As you know there are a couple of pending litigation issues outstanding 
+(Waste Management, Lyon Credit/Hudson United Bank and Victoria Sterling Per conversations w/ Richard Sanders he suggests setting aside $25K each for 
+WMI and Lyon Credit.  Michelle suggested $250-300K for Sterling.
+Based on our cash available and expense projections these reserves bankrupted 
+us about two weeks ago!  I need further guidance on more realistic numbers We don't have much room to work here and every dollar is precious to keep the 
+lights on while we try and get this sale done.
+Can you look into this
+Janice R Moore
+11/06/2000 12:16 PM
+Have you heard of something called "Track changes"?  It's a WORD feature that 
+is used -- a lot -- for redlining drafts.  I see it used all the time on 
+documents that I receive from 3rd parties and I use it myself.  It has become 
+popular because other tools, like CompareWrite and similar software, are not 
+compatible w/ more recent versions of WordPerfect and WORD, so changes are 
+often missed in marked drafts I learned during a recent visit at my old law firm that that they've 
+forbidden use of "Track Changes" and are advising their clients to do the 
+same b/c the past changes never go away and can be retrieved forever by 
+someone who knows anything about word processing technology.  Which makes for 
+interesting results in document discovery..... among other things.  Just 
+thought I'd pass this along 
+,
+Janice
+EB3861
+Attached is an updated report regarding the status of ENA Litigation.
+Joel Ephross@
+11/07/2000 03:28 PM
+what is the basis for that determination? 
+ethics [conflicts]? work load?
+The whole purpose is not to end up in the Bronx, or in family court in 
+Albany. 
+Richard, do you have a view on this?
+"Shube, Eric (New York)"  	11/07/2000 11:01 AM
+I think that it is correct that the parties can't force a specific branch or
+part to take a case and not assign it elsewhere.
+Eric, any thoughts?
+Nora Dobin
+06:55 PM             Chin/NA/Enron@, Roseann
+Engeldorf/Corp/Enron@, Joel
+Ephross/Corp/Enron@, Brenda L
+Funk/HOU/ECT@ECT, Gina
+Karathanos/Corp/Enron@
+cc:
+Subject:     Jurisdiction Acceptable NY Courts
+Here's a new one in our continuing saga of acceptable New York courts.
+Currently, (with appropriate GC approval) we can specify United States
+District Court for the Southern District of New York sitting in New York
+County ("USDCSDNY") or
+the Commercial Division, Civil Branch of the Supreme Court of the State of
+New York sitting in New York County.
+In-house counsel for Chase Securities Inc. would not accept this provision
+without a caveat that if a judge of the specified state court determined
+that some other branch or division of such court sitting in NY County
+should have jurisdiction, we had to accept jurisdiction in the other branch
+or division.  Rather than risk ending up in an unacceptable forum, both
+sides agreed to limit jurisdiction to the USDCSDNY.
+I believe Joel may have checked earlier this year on New York courts with a
+V&E litigator in New York.  If so, we might want to get further guidance on
+this point.
+, NJD
+Nora J. Dobin
+Senior Counsel
+Enron Global Finance
+Enron Corp.
+1400 Smith Street
+Houston, Texas  77002
+713/345-7723 (phone)
+713/853-9252 (fax)
+E-mail:  nora.dobin@
+++++++ Attached is a draft letter to Steven Armour re lawsuit against Shanghai Please review and provide me with any comments that you may have.
+Yes
+Britt Davis@
+11/10/2000 04:22 PM
+Richard,
+I have just received an invoice from Christophe Casabonne, the former EGLI 
+trader who is our star witness/consultant in this matter, in the amount of 
+15,600 FF.  This represents 19 hours and 30 minutes at the agreed-upon rate 
+of 800 FF.  Although I have not checked today, the USD/FF conversion ratio 
+was about 1/7 a few weeks ago.  If something like this still holds, the bill 
+is for about $2,230.00.
+I have reviewed the bill, find it in order, and ask for your authority to pay 
+it.
+I await your instructions.
+Britt
+yes. How much
+Mrmslane@aol.com
+11/09/2000 02:57 PM
+Are yall cool with a playscape swing....You did not answer the last e mail
+about XMAS and everyone else said that would be the better choice on the list
+that I sent out.
+too late--I deleted it
+Attached are two draft letters to Ernst Haberli and Greg Chafee at Fort James 
+in   to the above-referenced matter.  Please review and provide me with 
+your comments.
+Thanks
+Richard 
+yes
+Robert C Williams@_DEVELOPMENT
+11/09/2000 10:36 AM
+Confidential and Privileged Attorney-Client Communication
+I attended a seminar this morning at which Joan Feldman of Computer Forensics 
+spoke.  I think it would be a good idea for us to have a conference call with 
+Joan to review our email storage policy.   If you agree, I will have my 
+assistant set one up.
+A qualified yes.  It doesn't look to me that we have much choice. 
+Remember--we were withholding freight as leverage to settle, which is a short 
+term strategy at best. I am going to discuss it in detail w/ Britt Monday 
+morning. I'll let you know if we come up with a better plan.
+Alan Aronowitz
+11/09/2000 02:58 PM
+Do you concur with paying the freight without prejudice per the below notes?
+Britt Davis@
+11/09/2000 09:26 AM
+Paul,
+Thanks for your e-mail.  Parenthetically, I'd be happy to explain how we got 
+to where we are on our strategy; maybe a telephone call would be best.  Let 
+me know when you are available.  I can call you early a.m. or late p.m 
+Re the bug issue:  we were aware of this, although I am interested to hear 
+that SGS raised it with you and Eric in mid-October.  I have discussed this 
+in the past with David Best, and spoke with him on the telephone this morning 
+about what SGS told you.  We don't think we should put anyone on notice about 
+the bug issue unless and until it appears and is confirmed at the joint 
+testing.  Otherwise, we may be raising an inherent vice argument for both 
+Mitsubishi and our own cargo underwriters.   Let me know if you have a 
+different view (on this or anything else I put in this e-mail 
+Re Mitsubishi's response to our settlement demand:  David Best has just 
+spoken with Sian Heard, Mitsubishi's lead London solicitor.  It is clear from 
+her that Mitsubishi will not be settling prior to instituting arbitration It is also clear that Mitsubishi will not consider any substantial settlement 
+without Heard's advice.  Best believes that Heard will recommend that the 
+joint testing take place before giving Mitsubishi an exposure evaluation.  In 
+sum, while our attempt at settlement prior to joint testing was a worthwhile 
+effort, to avoid the risk and expense of the problematic joint survey, it now 
+appears to David and me to be at a dead end.
+Re the joint testing:  Again, David and I believe that the joint testing 
+should proceed as quickly as it can be arranged.  Neither our cargo 
+underwriters nor Mitsubishi will move off dead center unless we do so.  Given 
+the problems with SGS's lab in Singapore, the "bug" issue that SGS in Subic 
+Bay has raised (again), and that SGS did the pre-purchase of product for ECT 
+that proved off-spec, I have asked David to re-visit with Steve Jones, our 
+chemist, the logistics and cost of having the testing done in the U.K.  I 
+have also asked him to consider whether Heard might be amenable to splitting 
+the costs of transporting the samples from Singapore to the U.K.  I would 
+like to get ECT's authority quickly to authorize the joint testing to go 
+forward.
+Re the selection of arbitrators:  David has discussed three Q.C.s that he and 
+Neale agreed were appropriate with Hearn.  Of those three, Hearn likes 
+Nicholas Hamblin, who will charge 275 pounds an hour, and $1,750 pounds per 
+day.  She will be conferring with Mitsubishi about using him as the sole 
+arbitrator.  Given that we have initiated a good-faith discussion of the 
+choice of arbitrators with Mitsubishi, David advises that we do not need to 
+worry about sending Mitsubishi a letter tomorrow with our choices of 
+arbitrator on it.  We can wait for Hearn to respond, then I will make a 
+formal request for your authority to agree to one arbitrator who has already 
+been accepted by Mitsubishi.
+Re the without-prejudice settlement of Mitsubishi's freight and demurrage:  I 
+read you loud and clear (and thanks for making clear that the freight claim 
+is only about $500,000, not $760,000, as I had inadvertantly indicated in my 
+last e-mail).  As I previously mentioned, David and I are on board with this 
+idea, given the difficult circumstances of this case.
+Let me know if I have inadvertantly mischaracterized anything you said.
+Britt 
+Paul Henking@ECT
+11/09/2000 02:25 AM
+britt,
+thanks your reply which is noted. you will notice i have excluded david best 
+and ngregson (?) preferring to keep my comments in house as privileged info, 
+unless you feel this msg should be forwarded to them later.
+firstly, i am getting nowhere with mitsubishi on the settlement front. i have 
+gone so far as to mention this morning to mitsuru that if this does goes to 
+arbitration, and should mitsubishi succeed in their position, this will only 
+serve to increase our claim by a similar amount since these costs would then 
+become part of our contamination claim. he seems quite content to let this go 
+to arbitration. as an example, he was suppose to call me back this afternoon 
+but did not.
+secondly, with   to your comments, i would just respond/add the 
+following information:
+1. i don't know if i am switching tactics so much as following what should 
+have been done in the beginning (i.e. submit the claim to our insurance 
+company and let them proceed against the owners). i honestly feel the 
+arbitrators will say, "pay the freight (and possibly the demurrage now) and 
+settle the contamination claim as a separate issue". clearly, the c/p says 
+that freight is due without deduction once the vessel has completed discharge.
+on the issue of the "pre-sale" survey, i have discussed this matter 
+internally with eric tan. seems our position is that singapore considered the 
+sample that was drawn as a bad sample as well as we were not sure that the 
+test methods used conformed with the testing methods required for first gas. 
+this position is proved by the loading of the pacific virgo when the product 
+subsequently tested on-spec for first gas. granted, it might still become an 
+issue but, as you say. it could become an issue in either proceeding.
+i am getting a little confused on the matter of the joint testing. verbally i 
+was advised that enron did not want to have the joint testing - at least not 
+on a prompt basis. your msg now says that we do want to test the product and 
+it should be done as soon as possible (as mitsubishi - and your advices that 
+the underwriters and hear owner's p and i club would want). i assume this 
+change is the result of the arbitration. 
+be that as it may, i do have a bit of information that you may, or may not, 
+be aware of or find relevant. when eric tan and i visited first gas in 
+mid-oct to meet the personnel at first gas and witness one of the cargoes 
+being discharged at the plant, we also took the opportunity to meet with sgs 
+in subic bay to see their facilities and meet their personnel. during the 
+conversation the subject of the elang cargo came up and the comment from sgs 
+is that they were fairly certain it was off-spec due to "bugs". this may 
+sound silly but i have heard of this before and is a problem with petroleum 
+products.
+it seems sgs even went so far as to test the product themselves for these 
+"bugs" and got a positive result. this test was not requested by enron or 
+first gas and was done some time later in this process. i understand there 
+may be some concern on our part over our subsequent sales to third parties if 
+we knew there were bugs in the product. i would have to say that this was not 
+known at the time and even today is only conjecture based on sgs' advices 
+mid-oct (well after these sales). sgs also described "changes" to the product 
+which would fit with the cargo having bugs (i.e. a strong sulphur smell and 
+change in colour).
+if the testing is now done, i do not know if these bugs will be detected or 
+not. however, if they are in the ship's samples, they may have changed the 
+sample sufficiently that even a visual observation may detect the problem. 
+the next problem becomes proving from where the bugs originated. were they in 
+the previous cargo tanks that were not cleaned properly? or were they in the 
+condensate when the cargo was loaded? obviously, testing of the shore sample 
+prior to loading will determine the answer. if the shore sample is ok, then 
+they had to come from the ship. if the shore sample also has bugs, then we 
+should be claiming against our suppliers.
+this of course assumes the suggestion put forth by sgs is in fact correct. 
+just something else to be considered.
+2) i am not saying that we pay the full amount immediately but only the 
+freight portion (about $500,000). we then advise mitsubishi (or their 
+lawyers) that we will now review the demurrage claim (about $260,000) and 
+revert by say end nov. the demurrage claim has been sent to our london 
+office's demurrage department and i have asked them for their comments on the 
+claim. after all, there may be issues with the ship's pumping performance or 
+simple laytime errors which may reduce the demurrage claim. they will try to 
+get me a response before the weekend.
+in this manner, we pay part of the money but still have a smaller portion 
+which we may apply against our claim once the test results are known. i will 
+leave this to legal as to decide how the approach to mitsubishi or their 
+lawyers should be made
+rgds
+lets talk about this Wed
+Linda R Guinn
+11/09/2000 08:49 AM
+We do utilize this feature.  How often it is used varies from assistant to 
+assistant.  You would need to have access to a system computer or at the very 
+least have the document transferred to diskette.   In the past we have not 
+given up anything from our system computers.   Since we give nothing but hard 
+copies, is this a problem for us?  Further, our retention policy states that 
+all drafts are to be discarded once the deal has been completed 
+Would you like to see a demonstration of the track changes feature?
+Linda Guinn
+Richard B Sanders
+11/09/2000 08:11 AM
+Can you look into this
+Janice R Moore
+11/06/2000 12:16 PM
+Have you heard of something called "Track changes"?  It's a WORD feature that 
+is used -- a lot -- for redlining drafts.  I see it used all the time on 
+documents that I receive from 3rd parties and I use it myself.  It has become 
+popular because other tools, like CompareWrite and similar software, are not 
+compatible w/ more recent versions of WordPerfect and WORD, so changes are 
+often missed in marked drafts I learned during a recent visit at my old law firm that that they've 
+forbidden use of "Track Changes" and are advising their clients to do the 
+same b/c the past changes never go away and can be retrieved forever by 
+someone who knows anything about word processing technology.  Which makes for 
+interesting results in document discovery..... among other things.  Just 
+thought I'd pass this along 
+,
+Janice
+EB3861
+I have sent the contract and release to Pintail's atty. I expect to receive 
+it back anytime now.
+Steve HPL Schneider
+11/13/2000 08:22 AM
+What is the status of execution of this agreement and when can we expect 
+closure?
+I sent the final version to Richard two weeks ago.  I missed one week with a 
+death in the family.  I will check on it today and respond back.
+Thanks, 
+Bob.
+Steve HPL Schneider
+11/12/2000 09:21 PM
+What is the status of our sending this out for execution via Sanders?
+Robert Walker                10/20/2000 10:03 AM
+Attached is a copy of the Pintail Agreement you asked me to prepare.  The 
+contract is effective 1/1/2000 for a term of 3 years at a price of 85% Inside 
+Ferc HSC with a meter fee of $250 per meter.  Please take note of section 7.6 
+of the agreement.  This section terminates the 70% Letter Agreement effective 
+1/1/2000 and also states that Pintail is not a party to and has never been a 
+party to the 1984 Conoco Agreement.
+If you have any questions, please let me know.  If there are no changes to 
+this Agreement, it is in a form that is ready to send to Pintail.  It is my 
+understanding that you will send this with a release letter to Pintail.
+Thanks,
+Bob.\
+yes
+Bonnie White@
+11/13/2000 11:18 AM
+Now that Melanie Gray has filed a notice of  appearance on ENA's behalf and 
+is receiving copies of notices, pleadings, etc., in the Perry Gas matter, I 
+propose that the Litigation Unit no longer process all notices received in 
+Perry Gas through our service of process procedures.  Becky Stephens will 
+continue to forward copies to me when received, and I will send a copy to you 
+of anything that might appear to impact ENA, but, otherwise, we would not 
+forward to you copies of notices of appearance and other filings that would 
+not appear to directly impact ENA's rights.  Please let me know if this is 
+okay with you, and, if it is not, let me know how you would like us to handle 
+documents we receive in Perry Gas.  Thanks.
+Jan Cooley@_DEVELOPMENT
+11/13/2000 08:33 AM
+Richard,
+Bob Williams asked me to forward last month's litigation reports to you Thank you.
+Jan
+My description is as follows:
+The litigation group manages all litigation, including international, 
+federal, and state lawsuits, as well as arbitrations, mediations and other 
+alternate dispute resolution proceedings.  The litigation group also analyzes 
+and gives advice concerning the litigation risks associated with commercial 
+transactions.
+I have attached a draft letter and release to send to CMS.  Please fill in 
+the blanks and give me any other comments you may have.
+Mark Lay
+10/23/2000 05:39 PM
+Richard,
+You reviewed a letter from CMS a couple of weeks ago.  The company's senior 
+management called me to ask what we saw that made us turn down the 
+transaction.  I told them that I could not get specific because of the 
+threatening overtone of their letter.  They suggested that they would be 
+happy to send us a letter indemnifying us if it would allow EIP to sit down 
+and walk through the issues that killed the deal.
+I would like to be able to sit down with them to walk through these issues 
+since EIP, as an organization, has been working with the company for almost a 
+year.  I think they will sign a broad disclaimer.  Please get back to me as 
+soon as possible with you suggestion for language.
+Thanks,
+Mark
+Mark Lay
+Enron Investment Partners
+333 Clay St., suite 3800
+Houston, TX 77002
+p 713-853-7408
+f 713-345-7670
+Jan Cooley@_DEVELOPMENT
+11/13/2000 08:33 AM
+Richard,
+Bob Williams asked me to forward last month's litigation reports to you Thank you.
+Jan
+Jan Cooley@_DEVELOPMENT
+11/13/2000 08:33 AM
+Richard,
+Bob Williams asked me to forward last month's litigation reports to you Thank you.
+Jan
+Is this meeting still on, do you want me to attend, and how long is the 
+meeting?
+The changes are fine.
+"ANNA ALLEN"  	11/15/2000 10:29 AM
+Please see revised paragraph on p. 2:  "Notwithstanding...("Services Contains revised definition of "Services" .  Please call to discuss.
+Scott A. Turner
+Blake, Cassels & Graydon LLP
+Suite 2600, Three Bentall Centre
+595 Burrard Street, PO Box 49314
+Vancouver, BC  V7X 1L3
+Tel:  604.631.3318
+Fax:  604.631.3309
+E-mail:  sat@blakes.com
+This e-mail communication is confidential and legally privileged.  If you are 
+not the intended recipient, please notify me at the telephone number shown 
+above or by return e-mail and delete this communication and any copy 
+immediately.  Thank you.
+- Revisedl.DOC
+Bonnie is an in-house litigator for Enron who needs Kevin for another 
+lawsuit. Obviously, you will have access to him also.
+Bonnie White@
+11/15/2000 06:06 PM
+I spoke with Gary Grote late this afternoon.  He reiterated that he believed 
+that we were very close on the consulting agreement and that he had only 
+minor issues with our proposal.  He told me that he would have a written 
+response to me before the end of this week, and he agreed that it would be a 
+good idea for us to meet with Kevin the week of November 27-December 1.  I 
+will let you know when I hear back from him.
+Did you ever get an opinion from V&E?
+Peggy Banczak
+11/14/2000 01:44 PM
+Attached is a brief memo from Rogelio-Lopez Velarde concerning the Court of 
+Appeals that will hear the appeal of the Amparo proceeding in which Enron 
+Energia Industrial de Mexico is an interested party.  We are fortunate that 
+this Court has heard, and denied, two prior appeals of virtually-identical 
+Amparo proceedings.
+The meeting yesterday among Rogelio Lopez-Velarde, Jorge Canals (Enron's 
+litigator) and Bill Wieland went well.  Bill indicated that he hoped to be 
+able to provide his opinion by this afternoon 
+I forgot to put in a signature block. Otherwise, it looks good.
+Lilia Roman
+11/16/2000 02:13 PM
+Attached is the CMS Release form we will be sending John Rickett.  Please 
+approve with the information we filled in.  Thank you.
+Lilia Roman
+Sr. Administrative Assistant
+(713) 853-9154
+(713) 345-7670 fax
+Just a note to say thanks for putting together the class reunion. We had a 
+great time. It was nice seeing you and your kids.
+whatever you want
+Mrmslane@aol.com
+11/17/2000 09:24 AM
+I have shown the two playscapes that I have picked out for everyone to look
+at.  I faxed to Richard, mailed to Doug and John, and Steve looked at it at
+my house.  Obviously, there are much more fancy ones....and more money.  And
+there are cheaper ones....that you can buy at Sam's or other warehouses and
+put up yourself 
+However, I picked out two that could go with our fort and sandbox out there
+and really provide the swinging and climbing part of the playscape.  It was
+affordable and they come out and set it up.
+I would like to order soon.  They can have it too the Perd in about three
+weeks.  So, please tell me what you think.
+The simpler one is about 220 per family, and the bigger one is about 280 per
+family.
+Talk to you soon.
+"Meringolo, Peter"  	11/16/2000 03:27 PM
+Please let either Gary or me know your thoughts and comments regarding the
+below draft letter to the CPUC.
+Thanks,
+Peter
+ PRIVILEGED AND CONFIDENTIAL
+ ATTORNEY CLIENT COMMUNICATION
+ ATTORNEY WORK PRODUCT

@@ -1,0 +1,3214 @@
+>    - Beth.Ng.vcf  
+Thanks, Brenda.
+Per your request.
+please call me per voice mail.
+Per your request.
+Has anyone seen this file?  It is not in the file cabinet and is not checked out.
+Sara Shackleton
+Enron Wholesale Services
+1400 Smith Street, EB3801a
+Houston, TX  77002
+Ph:  (713) 853-5620
+Fax: (713) 646-3490
+Matt:
+My comments to the Customer Agreement which you delivered yesterday:
+I am not sure if you had a chance to contact Louise Kitchens or Andy Zipper 
+regarding the Energy Bar Association program, but I just wanted to check.? If 
+neither of them are available, has Mark Haedicke returned from travel?? If 
+so, would you recommend that I give him a call.
+I know that you are very busy and greatly appreciate your assistance. 
+Steve 
+Steven M. Kramer 
+Milbank, Tweed, Hadley & McCloy LLP 
+International Square Building 
+1825 Eye Street, N.W. 
+Washington, D.C. 20006 
+TEL:? 202-835-7508 
+FAX:? 202-835-7586 
+skramer@milbank.com 
+As the office construction process continues, your offices will be among the 
+next to be demolished & reconstructed.  While the current timetable is not 
+firm, it looks like your moves will be scheduled sometime between the 5th to 
+the 13th of October (this means the move may take place during the ENA 
+offsite).  I just wanted to give you as much warning as possible so you could 
+begin the packing process.  Joya Davis will have details of your new (in some 
+cases temporary) office locations, can help with obtaining boxes and will 
+schedule the actual move.
+Your new offices will be ready in a week or so.  We anticipate your moves 
+will take place over the weekend of September 29.  Joy Davis will coordinate 
+your moves and can help with obtaining boxes, etc 
+Sorry - forgot to cc you on this one.
+Mark Taylor
+09/20/2000 01:34 PM
+Your new offices will be ready in a week or so.  We anticipate your moves 
+will take place over the weekend of September 29.  Joy Davis will coordinate 
+your moves and can help with obtaining boxes, etc 
+FYI
+Louise Kitchen
+09/15/2000 02:26 PM
+If you look at the attached list we are due to make a lot of these dates in 
+the next two weeks.  The biggest problem in Europe is probably that Edmund is 
+obviously out of the office and there are no dates even for his.
+These delays are causing chicken and egg problems with the metals customers We can't mail if there are no pas etc.  The big metals roll-out is in London 
+first week in October so we do need them by then,
+If there are re-prioritisation issues please contact Bruce Garner who needs 
+them for that week.
+Please let me know. 
+Thanks
+Louise
+Leonardo Pacheco@
+15/09/2000 11:46
+Attached please find the latest version  of the New Markets/Products Report. 
+The report is updated every week.
+Let me know if you have any questions
+Thank you!
+Leonardo Pacheco
+For emergency use:
+9/21 - 9/23 -  Eze, France
+Chatueau de la Chevre d'Or  
+011-33-4-92-10-66-66
+9/23 - 9/26 - St. Tropez, France
+Residence de la Pinede 
+011-33-4-94-55-91-00
+9/26 - 10/1  -  Paris, France
+Pavillon de la Reine  
+011-33-1-40-29-19-19
+10/1 - 10/3 -   London, England
+41 Buckingham Palace Road  
+011-44-20-7300-0041
+Marc -
+Bummer - this is the last message I'm sending and then I'm out the door for 
+the airport.  We're on our way to France - not back until 10/4.
+Mark
+Tanya - I just got back from vacation to find this waiting.  Do we need to do 
+anything?
+Mark
+Shari Stack
+09/19/2000 01:17 PM
+Mark/Tanya: 
+Just got this today out of the blue......  Could one of you please respond to 
+him? (I have not)
+Andy McComb  	09/19/2000 12:41 PM
+Dear Shari,
+Please be advised that Enron is still holding a letter of credit No. 7403213
+in the amount of $7,000,000.
+This letter of credit was provided by Palladium Insurance as credit support
+for transactions which Enron terminated.
+We request that Enron immediately return the letter of credit by overnight
+to Bank of America at the following address:
+Bank of America
+Insurance Division
+231 South LaSalle Street
+Chicago, Illinois  60697
+Attn: Mr. James Horning
+We would appreciate your confirmation of this action by return email or fax.
+Yours sincerely,
+Andy McComb
+For Palladium Insurance Limited
+Yes, unfortunately, we aren't going to get ours until the 5th.  No 
+explanation was given.  We may get the numbers a day or so ahead of time but 
+I haven't gotten them yet.  We should set up a time to do your review in the 
+next day or so, also 
+Thanks for all of the recent forwarded messages - they have all been mine Sorry for not getting back to you sooner but I've been out of town.
+Any hope of  a time for Lisa?  Please get in touch with her and let her know 
+the situation.
+Mark A Taylor@EES
+09/26/2000 04:59 AM
+yours?
+Lisa Yoho
+09/25/2000 04:49 PM
+Mark 
+Rick Shapiro has asked that I coordinate with you on CFTC issues since I'll 
+be handling government affairs matters for Enron Global Markets and Enron 
+Networks 
+Would it be possible to meet sometime this week (or early next week) to talk 
+about this?   I will be in Houston on Thursday and Friday of this week, and 
+all of next week.   Let me know what works for you.
+Looking forward to meeting you.
+Lisa
+These don't look complete to me - e.g. Contractual Currency, Index 
+definition, Volume reference.
+Melba Lozano
+10/04/2000 05:26 PM
+Your review and approval of the following product type in the EOL Datamanager 
+is needed (for directions on approval , please see steps for approval at the 
+bottom of this e-mail 
+These will be for existing spread products that are under the existing 
+product type : US HeatingOil2 Fin Swap and US UNL Gas Fin Swap they need to 
+be split up for sigma factor purposes. 
+Product Type #1   US HeatingOil2 FIN Spread
+Product Type #2   US UNL Gas Fin Spread
+STEPS FOR APPROVAL:
+click the  START button 
+select  PROGRAMS
+select  TEST APPLICATIONS
+select ENRONONLINE CLUSTER(PROD)
+PROCEED WITH USUAL LOGIN/PASSWORD 
+click the Enron Online Production Cluster "START" button  
+select EnronOnLine (this is the EOL Datamanager)
+PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up 
+TO APPROVE:  Right mouse click on "Approved"
+Thanks - Rob Cass  -  Melba Lozano
+x35491   x58986
+Thanks for the note - I'll be there.
+Janette Elbertson
+10/04/2000 12:32 PM
+Mark Haedicke would like all of you to attend this meeting if possible 
+Elizabeth, I understand from Mark you are already scheduled to attend 
+Mark and Jeff, please let me know ASAP if you can attend so I can notify 
+Rosemary Ryan.  Thanks.
+I am forwarding an e-mail from Janette Elbertson
+Rosemary Ryan  	10/04/2000 10:17 AM
+Janette,
+Attached is the memorandum regarding the North American Energy and
+Developing Products Committee meeting which will be held in Houston on
+October 10.  We sent this out to all the Enron contacts by fax early last
+week.  In addition to Mark (Haedicke) can you let me know if there will be
+other representatives from Enron attending the meeting.
+Also could I ask for your assistance in locating a contact name and
+phone/fax number that we should forward this invitation to at Sempra Energy.
+Thank in advance for your help.
+,
+Rosemary
+- Energy Developing Mtg_.doc
+Carlos Alatorre@
+10/04/2000 10:58 AM
+Mark
+I am working with D. Forster & Leonardo Pacheco to get Argentina launched on 
+EnronOnline, I am attaching the customer list with their profiles for your 
+review (I am not sure if you already have it), please let me know if you have 
+any questions/comments
+Thanks
+Carlos Alatorre
+x5-8705
+Patrick Hansen
+10/03/2000 04:40 PM
+Esta es la lista que querias.
+Did you have a chance to talk to Lisa?
+Lisa Yoho@EES
+10/04/2000 10:43 AM
+Mark 
+Are you in this week?  I'd like to get together to discuss how we can best 
+coordinate CFTC - related matters 
+Thanks!!
+Lisa
+Sheri -
+I don't remember being consulted about sending these documents by e-mail (but 
+that doesn't mean it didn't happen - just that I don't remember it).  It 
+sounds like a valid concern - any reason we can't just send people to the web 
+site and ask them to print out the relevant PA?
+Mark
+Sheri Thomas
+10/03/2000 10:05 PM
+Mark -
+Now that my responsibilities have been increased to include both EnronOnline 
+and Clickpaper, something was brought to my attention that I am concerned 
+about.  Clickpaper has been instructed not to send password applications to 
+customers via e-mail.  This is something we have been doing since the 
+inception of EnronOnline.  The concern is that customers will alter the 
+language in the agreement, sign  and return it to us - hopefully, this will 
+not happen, but could be a valid concern.  I am hoping you can shed some 
+light on the original decision that was made to allow sending the PAs to 
+customers electronically.  One solution that we could implement in the future 
+is to send the file to the customer in .pdf format; however, the customer 
+will need the applicable software to launch the program (we could include a 
+link to download this).  The immediate solution is to discontinue this 
+practice until I have discussed it with you.  I know you are out of the 
+office until Monday, and I am out the rest of the week as well.  Please let 
+me know your thoughts when you return.
+Thanks!
+Sheri
+=09exchangeinfo@nymex.com
+=0910/03/2000 05:43 PM
+=09=09=20
+Notice No. 00-337
+September 29, 2000
+Re: Selection of Kiodex as enymexSM system provider
+The Exchange and Kiodex Inc., an application service provider of=20
+risk-management solutions for the commodity markets, have agreed on terms to=20
+use the Kiodex Trade Engine as the order-matching system for enymexsm, the=20
+Exchange=01,s e-commerce venture that is intended to become the premier, global=20
+exchange for trading and clearing a wide range of standardized physical=20
+commodity contracts, with an initial focus in the energy and metals markets.
+The Exchange and Kiodex have further agreed to co-market Kiodex=01,s companion=20
+product, the Kiodex Risk Workbench, which will be highly compatible with the=20
+Kiodex Trade Engine on enymexsm.  The Kiodex Risk Workbench will provide=20
+state-of-the-art portfolio management and risk analytics to its customers.
+The Kiodex Trade Engine is an automated, scalable, fault-tolerant=20
+order-matching system that will enable customers to enter orders for cash and=20
+derivative commodity products and receive executions and confirmations.
+enymexsm, which will be launched early in 2001, will provide a global=20
+one-stop shop for commodity risk management, providing a neutral=20
+internet-based trading and clearing platform for energy and metals products=20
+that were previously limited to over-the-counter markets where participants=20
+are exposed to counterparty credit risk. The Exchange plans to use its proven=20
+clearing infrastructure to introduce complete counter-party risk management,=20
+and create net margining with Exchange futures markets by calculating a=20
+consolidated clearing position.  Subsequent enymexsm functionality will also=20
+provide an internet-based interface to the established Exchange futures=20
+market by routing futures orders to the trading floor and the NYMEX ACCESSc=20
+electronic trading system, depending on the session.
+Kiodex builds trading and risk-management technology and solutions for=20
+internet-based commodity markets. Kiodex was created to increase the safety,=20
+fairness, transparency, and liquidity of commodity markets. By embedding=20
+Kiodex=01,s technology in traditional and emergent commodity exchanges, portals,=20
+and web sites, the Company enables users to trade fairly and encourages the=20
+proper management of financial products that mitigate risk. Its home page is=20
+www.kiodex.com.
+__________________________________________________
+Just wanted to make sure you had this.
+Stacy Carey  	10/07/2000 11:04 PM
+Attached are the three documents outlining the latest version of the CEA
+legislation.  As Lance states below this version was developed by the
+Majority staff of
+the House Ag, Banking, Commerce, and Senate Ag and Banking Committees.
+Note:  our comments are due by 10 a.m. on Tuesday. We will set-up a process
+for submitting our comments once people have had a chance to review the bill
+tomorrow and Monday  --- Stacy
+Saturday, October 07, 2000
+Attached you will find 3 files:
+1. "JOINT_008" (title I, consisting of amendments to the CEA);
+2. "JOINT2_008" (title II, consisting primarily of amendments
+to the securities laws, and conforming amendments to the CEA); and
+3. "Swap" (consisting of amendments to GLBA and the securities
+laws)
+Except where noted (with brackets or otherwise), these three documents
+reflect a combined legislative proposal developed by the Majority staff of
+the House Ag, Banking, Commerce, and Senate Ag and Banking Committees.
+We respectfully request that you submit your comments/suggestions to us NO
+LATER THAN 10 A.M. ON TUESDAY, OCTOBER 10.
+Please feel free to forward these documents to other interested parties not
+on this distribution list.
+- JOINT_008.PDF
+- JOINT2_008.PDF
+- Swap.PDF
+Looks good to me.
+Tana Jones
+09/26/2000 06:20 PM
+I would like to take the week of Thanksgiving off.  My mom is coming from NY 
+to visit with my 10 year old niece.
+Thanks very much for your memo. 
+Eleanor F Taylor  	09/26/2000 06:13 AM
+At a recent computer expo (COMDEX), Bill Gates
+reportedly compared the
+computer industry with the auto industry and stated
+"if GM had kept up
+with the technology like the computer industry has, we
+would all be
+driving $25 cars that got 1,000 miles to the gallon."
+In response to Bill's comments, General Motors issued
+a press release
+stating: If GM had developed technology like
+Microsoft, we would all be
+driving cars with the following characteristics:
+l. For no reason whatsoever, your car would crash
+twice a day.
+2. Every time they repainted the lines in the road,
+you would have to
+buy a new car.
+3. Occasionally your car would die on the freeway for
+no reason.  You
+would have to pull over to the side of the road, close
+all of the
+windows, shut off the car, restart it, and reopen the
+windows before
+you
+could proceed.  For some reason you would simply
+accept this.
+4. Occasionally, executing a maneuver such as a left
+turn would cause
+your
+car to shut down and refuse to restart, in which case
+you would have to
+reinstall the engine.
+5. Only one person at a time could use the car unless
+you bought
+"CarNT,"
+but then you would have to buy more seats.
+6. Macintosh would make a car that was powered by the
+sun, was
+reliable,
+five times as fast and twice as easy to drive- but
+would run on only
+five percent of the roads.
+7. The oil, water temperature, and alternator warning
+lights would all
+be replaced by a single "General Protection Fault"
+warning light.
+8. New seats would force everyone to have the same
+sized butt.
+9. The airbag system would ask "are you sure" before
+deploying.
+10. Occasionally, for no reason whatsoever, your car
+would lock you out
+and refuse to let you in until you simultaneously
+lifted the door
+handle, turned the key and grabbed hold of the radio
+antenna.
+11. GM would require all car buyers to also purchase a
+deluxe set of
+Rand McNally road maps (now a GM subsidiary), even
+though attempting to
+delete this option would immediately cause the car's
+performance to
+diminish by 50% or more.
+12. Every time GM introduced a new car, car buyers
+would have to learn
+to drive all over again because none of the controls
+would operate in
+the same manner as the old car.
+13. You'd have to press the "Start" button to turn the
+engine off.
+Moreover, GM would become a target for investigation
+by the Justice
+Dept.
+__________________________________________________
+Do You Yahoo!?
+Send instant messages & get email alerts with Yahoo! Messenger.
+________________________________________________________________
+YOU'RE PAYING TOO MUCH FOR THE INTERNET!
+Juno now offers FREE Internet Access!
+Try it today - there's no risk!  For your FREE software, visit:
+Please call this person and let them know I am not going.
+YNoguchi@milbank.com
+09/27/2000 09:35 PM
+- irc10000.PDF
+Please order a flat screen monitor for me.
+Clare,
+Thanks for your note.  Your e-mail trouble is due to the spelling of Tana's 
+name - should only be one 'n.'  I am forwarding this on to her.
+Mark
+Clare.Godson@AllenOvery.com
+10/09/2000 04:50 AM
+Mark,
+I am having some problems sending this to Tanna.  her e-mail keeps bouncing
+back.  Could you pass this on to her please?
+many thanks for your help.
+Kind 
+Clare
+    This email is confidential and may also be privileged.  If you are not the 
+intended recipient please notify us immediately by telephoning +44 (20) 7330 
+3000 and requesting the Technology Services Helpdesk. You should not copy it 
+or use it for any purpose nor disclose its contents to any other person.
+Allen & Overy
+One New Change
+London
+EC4M 9QQ
+Tel:+44 (20) 7330 3000
+Fax: +44 (20) 7330 9999
+General Email: Helpdesk@allenovery.com
+www 
+Allen & Overy is a solicitors' partnership.  A list of the names of partners 
+and their professional qualifications is open to inspection at the above 
+office.  The partners are either solicitors or registered foreign lawyers.
+All of these should now use EnronOnline, not ENA.
+Justin:
+Do you know what other business MG London Inc. is or anticipates doing with 
+these same counterparties?  It may make a difference if they are acting for 
+these customers as an FCM.
+Mark
+Justin Boyd
+10/16/2000 05:22 AM
+Gentlemen, 
+I met with Craig Young (MG US) last week, who is keen to progress metals 
+business with large US corporates (e.g. Anheuser Busch), on the following 
+basis:
+o Assume ENA and US Corporate are existing parties to ISDA/Credit Support 
+Documents (the "Master 
+o ENA and US Corporate would agree to expand range of OTC products to include 
+OTC metal derivatives under the Master.  The principals to the metals trades 
+would therefore be the US Corporate and ENA.  These trades would however be 
+"arranged" by MG London Inc. (an FCM) as "arranger" in the US for ENA.
+o Enron Metals Limited (EML) from London would agree to provide metals prices 
+to ENA and/or MG London Inc. in the US, and in return receive a commission 
+from MG London Inc.
+o ENA would back-to-back OTC metals derivatives with EML via an intra-group 
+ISDA Master.
+Look forward to your views.
+Thanks.
+Justin
+Probably should add Mark Evans for London generally.  Matt Lee for Singapore?
+Tana Jones
+10/13/2000 05:12 PM
+In order to improve communication between the Legal Department and our Online 
+team, Mark Haedicke has asked us to prepare a list of legal contacts which we 
+will be providing to the Online team.  Before we send this out, I have been 
+asked to send the list to each of you for your input.  Please let me or 
+Leslie Hansen know of any additional contacts or changes that you feel we 
+need to make to the list.
+We should get together with the right tax person/people - maybe Jeff can 
+figure this out.
+Tana Jones
+10/13/2000 05:07 PM
+I just spoke to Frank, and spoke to Jeff Blumenthal earlier this week about 
+tax issues arising out of Amita executing documents on behalf of EOL and 
+ENA.  Frank just informed me that the Japan office has also been provided 
+with stamp of Sheri Thomas's signature so they can execute PA's out of 
+Japan.  Frank and I were thinking we might want to get together sometime next 
+week to discuss this.
+Janette - Here is the report with my changes - I have not been able to find 
+Travis or Anne to see what changes if any they would like to add but will let 
+you know when I hear from them.
+Mark T.
+Louise Kitchen
+10/09/2000 09:10 AM
+Thank you for your participation in last week's meeting in London, I know 
+both Andy and I found a great deal of value in it.
+The following actions (I think I have most of them) were distributed, Dave 
+and Amita to follow up:
+1. Review of personal data restrictions (Enron Europe) - Justin Boyd
+2. Review of personal data restrictions (non US - for those countries covered 
+by US Counsel) - Brent 
+3. Review of all countries for all products added post launch -  Europe Justin
+US plus - Brent
+4. Polish Issue - Amita and Justin 
+5. Press Access - Mark Taylor
+6. Comments on the confirmation issues - Mark Taylor & Mark Evans
+7. Enron Content - Mark Taylor
+8. Additional London based resource - Mark Evans
+In line with the Slide for US - Justin's name was associated with all items 
+for Europe etc.
+Thanks
+Louise
+Please respond to United E-Fares                         UNITED INTERNATIONAL E-FARES
+Thank you for subscribing to United's E-Fares (sm).  E-Fares are one of
+the easiest ways for you to save on United Airlines flights.  Simply browse
+the list of fares and markets below, then go to   to
+purchase your tickets online.  If your e-mail is Internet compatible, just
+click the hyperlink to access our website.
+To remove your name from our mailing list, log-on to E-fares, at
+Click on E-Fares in the Shortcuts drop down list.
+Log on to United Connection on the Web, click on Tell Us About Yourself
+and make the change in the Email section of your User Profile.
+See E-Fares Facts below for additional conditions and restrictions.
+Departure City              Destination City           Roundtrip Fare
+Atlantic E-Fares: United Economy
+Chicago (ORD)               Duesseldorf (DUS)          310.00
+Chicago (ORD)               Frankfurt (FRA)            310.00
+Chicago (ORD)               Paris (CDG)                310.00
+Newark (EWR)                London (LHR)               239.00
+San Francisco (SFO)         Paris (CDG)                366.00
+Washington (IAD)            London (LHR)               309.00
+Washington (IAD)            Munich (MUC)               301.00
+Washington (IAD)            Paris (CDG)                329.00
+Latin America E-Fares: United Economy
+Chicago (ORD)               Mexico City (MEX)          199.00
+Los Angeles (LAX)           Mexico City (MEX)          209.00
+New York (JFK)              Buenos Aires (EZE)         465.00
+New York (JFK)              Caracas (CCS)              284.00
+Washington (IAD)            San Salvador (SAL)         260.00
+Pacific E-Fares: United Economy
+Chicago (ORD)               Hong Kong (HKG)            599.00
+Boston (BOS)                Hong Kong (HKG)            699.00
+Los Angeles (LAX)           Auckland (AKL)             599.00
+Los Angeles (LAX)           Hong Kong (HKG)            499.00
+Los Angeles (LAX)           Sydney (SYD)               699.00
+New York (JFK)              Hong Kong (HKG)            699.00
+New York (JFK)              Sydney (SYD)               999.00
+San Francisco (SFO)         Sydney (SYD)               599.00
+San Francisco (SFO)         Taipei (TPE)               599.00
+INTERNATIONAL E-FARE FACTS  E-fares are only valid for round-trip travel
+in Economy Class on United Airlines, and are restricted to the flights and
+dates indicated. One-way travel, stopovers, and standby travel are not
+permitted.
+Fares are valid only for travel originating in the city or cities
+indicated.
+It is the passenger's responsibility to be in possession of all necessary
+documentation for the destination country (valid passport, visa, etc.) at
+the time of departure. United reserves the right to deny boarding to
+passengers without the proper documentation.
+Seats are limited and may not be available on all flights/dates. Offer is
+for a very limited time and is subject to change without notice.
+Reservations must be made using United's website at least one day
+prior to travel. Tickets require immediate purchase by credit card when
+reservations are made. Ticketing will be electronic (E-Ticket) where
+applicable.  Otherwise tickets must be picked up at a United Airlines City
+Ticket Office or at an airport location within 48 hours of making the
+reservations or on the day of departure, whichever is earlier.
+Credit card owner must be present to show the credit card used to purchase
+the ticket as well as a valid picture ID.
+Tickets are non-refundable, but a wholly unused ticket may be applied
+toward future travel on United Airlines for a $75 USD service fee.
+E-Fares are only available for travel on or after the date of purchase
+and will not be honored retroactively or in conjunction with the exchange
+of any wholly or partially unused ticket.
+Changes to flight date, flight number and routing are not permitted. In
+the event of a flight cancellation, customers will, at United's option,
+either be reaccommodated on another United flight or be issued a
+refund, but will not be accommodated on another airline's flights.
+International fares may be subject to government approval.
+Fares are subject to U.S. departure, agricultural, immigrations, customs
+and security taxes/surcharges of up to $47 USD.  For travel to some
+countries, additional airport, transportation, embarkation, security, duty,
+equalization, passenger service and noise taxes/surcharges of up to $35 USD
+will apply depending on the destination and may vary slightly depending on
+currency exchange rates at the time of purchase.  For return travel from
+some countries, fares do not include airport and/or departure taxes of up
+to $37 USD which may be collected by the foreign government at time of
+departure.
+Fares do not include Passenger Facility Charges of up to $12 USD per
+round-trip which may be collected depending upon the itinerary.
+Fares cannot be combined with any other United Airlines or other
+airlines' discount, coupon, or promotional offers.
+?1998 United Airlines
+?1998 Internet Travel Network
+Stephanie Harris called back this morning to say that Jim will not be in the 
+office on any of our proposed dates.  She suggests we try the first week in 
+March.  Any possibilties there?
+Based on the current schedule of work here in the office we have two sets of 
+dates that would work for Andrea to visit Houston to meet with Jim Derrick. 
+She could be in Houston late Monday morning, Feb. 15, and would leave Tuesday 
+night, Feb. 16, or arrive late Thursday morning, Feb. 25, and leave Friday 
+evening, Feb. 26.  Could you find out if Jim Derrick and Mark Haedicke will
+be available to meet with Andrea on any of these dates?  Thanks.
+I'd be happy to take them if they're available.
+Janette Elbertson
+10/17/2000 01:55 PM
+Mark Haedicke has 4 tickets to tonight's game.  The game starts at 7:30 p.m 
+and they are playing the Seattle Supersonics.  These tickets will be given 
+away on a first come, first-served basis.  Please respond by e-mail if you 
+would like these tickets.
+Janette Elbertson
+Mike -
+I have trouble getting some of the e-mails sent to me from Buenos Aires but 
+not all.  I received this one from you today, one on the 9th and one on Sept. 
+25th.
+If the internal address doesn't seem to work, you should probably use 
+mtaylo1@.
+Mark
+Michael Guerriero@
+10/17/2000 10:59 AM
+I light of the fact that we have two legal documents that have to be drafted, 
+finalized and approved in a matter of days I have requested Andrea take full 
+responsibility and accountability for the successful management of this 
+process and resulting team effort. 
+For EOL Argentina implementation not to be delayed further I am requesting 
+the following:
+Natural Gas GTC be finalized and approved by this Friday. 
+Power GTC will need all of your cooperation to work through the current 
+issues and to deliver a document for presentation as a final draft by this 
+Friday. Targeted submission for approval would be reserved for Monday of next 
+week
+Andrea will coordinate from here on. Please make yourselves available to work 
+on this effort in that I do consider it one of our highest commercial 
+responsibilities.
+Thank you for your efforts.
+MFG
+Greg,
+Here is the ETA version in my directory.  I think a few minor changes may 
+have been made (e.g. EnronOnline LLC is now the Enron party) and the 
+definitive version is on the website.  You can access it there if you have a 
+guest user ID.  If you need an ID, just let me know and we'll have the EOL 
+people issue one for you.  I'm also attaching an early version of the 
+Password Application (current versions also online and accessible even 
+without an ID) since it may cover a few issues not addressed in the ETA.  I 
+usually think of the two pieces as one agreement.
+Mark
+Greg Johnston
+10/17/2000 06:21 PM
+Mark, I have been asked by our commercial people to review Dynegy's form of 
+electronic trading agreement and to see how it compares to our EOL electronic 
+trading agreement.  Could you e-mail or fax a copy of our form to me?
+Also, I am currently reviewing three Canadian power financial products that 
+have been proposed by our new power trader to go on EOL.  I will send them to 
+you to have a look at in the next few days.
+Thanks
+Greg
+Looks good to me - sorry I've been so hard to get ahold of.
+Mark
+Alfred Pennisi@MGUSA
+10/18/2000 01:41 PM
+See attached draft. Please review and make changes so I can send it by fax to 
+the NYMEX.
+tks again for your help.
+,
+Alfred Pennisi
+Enron Trading Services Inc
+520 Madison Avenue
+28th Floor
+New York, NY 10022
+Tel: 212.715.5845
+E-mail: alfred.pennisi@
+Sorry about that - the request came while I was out of town and I missed it have now approved.
+Sara Shackleton
+10/18/2000 01:35 PM
+Are you having second thoughts about this?
+"JASON PETERS"  	10/18/2000 10:15 AM
+We're waiting for Mark Taylor's approval.
+Do you have access to Lotus Notes?  Serge told us on Oct. 3 that he would
+have comments no later thatn the week of 10/16 and you would follow up with
+him.
+I'll try to call you when I have a free minute.  Sara
+"JASON PETERS"
+Serge,
+I just wanted to get an update on when you thought we would have a response
+regarding the above-referenced ISDA.
+Thanks,
+Jason Peters
+713-220-4124
+Sami 
+I will be in the office all week - how about 10:00 a.m. Houston time on 
+Thursday?
+Mark
+Sami Arap@
+10/18/2000 03:43 PM
+Mark;
+As per Randy Young's request, I need to discuss the trading deals in Brazil, 
+Colombia and Venezuela asap.  Please let me know if you will be available 
+tomorrow or Friday.
+Tks,
+Sami
+Pedro Fernando Manrique@_DEVELOPMENT
+10/18/2000 11:38 AM
+Sami,
+Estoy preparando un paquete completo, una vez lo tenga listo te lo envio. Sin 
+embargo los deals que tenemos son:
+Exportaci?n a Cadafe (Venezuela) con un back-to-back con EBSA (Empresa de 
+Energ?a de Boyaca)
+Emcali-Enron-Chivor, intermediaci?n de credito con una opci?n adicional de 10 
+GWh-mes
+Compra a ISAGEN de 15 GWh-mes 50% Take or Pay and 50% Take and Pay.
+Alianza con Chivor para el mercado no regulado.
+Los m?s urgentes son la Venta a Emcali y la Compra a ISAGEN, sin embargo los 
+terminos de las ofertas de EBSA para la venta a Cadafe se vencen el 28 de 
+Octubre y tenemos que definir algo al respecto. En el curso del d?a te 
+estamos enviado copia de todas las ofertas y documentos preparados. Ayer 
+estuvimos reunidos con Clara Ines Guarin, socia de Figueroa Sierra Asociados 
+revisando el contrato borrador de Emcali-Chivor.
+Cualquier duda o pregunta por favor no dudes en dejarmelo saber.
+Gracias,
+PFM
+Sami Arap@
+10/17/2000 04:04 PM
+Pedro;
+Me pod,s mandar copia de los e-mails y materiales/documentos con respecto a 
+las transacciones que Uds estan buscando negociar en Colombia 
+Gracias y un abrazo,
+Sami
+Lydia Cannon
+10/19/2000 10:05 AM
+Mark,
+Please forgive, I'll need to change your meeting time with Andy to 10:30 am 
+tomorrow, October 20th.  Let me know if you are available.
+Thanks,
+Lydia
+Greg:
+Here are my comments to the first of the Long Descriptions.  I was afraid I 
+might be missing something about the way you guys do these deals in Canada so 
+I thought I would run this one by you first to make sure I had the concepts 
+right before I tackle the rest of them.
+Thanks,
+Mark
+Greg Johnston
+10/19/2000 02:22 PM
+Mark, as discussed, please find attached for your review and approval the 
+long descriptions of the three financial power products that Enron Canada 
+wants to trade on EOL.  Please let me know if you have any comments or 
+concerns with the attachment, so that we can commence the process of getting 
+these instituted on EOL.
+Thanks
+Greg
+Dianne Seib
+10/19/2000 11:31 AM
+Greg,
+Attached are the proposed EOL power products with your comments included Please pass this on to Mark Taylor for his approval.
+Dianne
+Oops - forgot the attachment:
+Can you reply to Justin & let him know where we stand?
+Justin Rostant
+10/20/2000 08:20 AM
+Mark, 
+Sorry about the late request. Can I please get an update on the following 
+countries for EnronOnline
+Argentina 
+Brazil
+Colombia
+This information is required for a report to Louis Kitchen by Friday.
+Thank you very much for your assistance.
+Justin Rostant
+3-6460
+Are you guys around this weekend?  Any particular plans 
+Initial thoughts 
+Can we use Enron Australia as the counterparty to avoid these issues for now, 
+and then when a book has been established assign all the positions to Enron 
+Japan?
+Can we get (or maybe give?) the rep if we soften it a bit by taking out the 
+word "ordinary" or maybe the entire phrase "in the ordinary course of its 
+business"?
+Is there a government agency that can give us an opinion or "no action" type 
+of letter to give us some comfort that we are OK?  It may not be quick enough 
+to get us through this trade but it might open the door for future business.
+If the end result is that there is no adequate fix and local counsel advises 
+that we are taking significant potential criminal liability, I would think 
+that both parties would be willing to agree to unwind the trade.  If 
+necessary, my suggestion would be to raise the potential for criminal 
+sanctions issue to Mark H.  (What are the potential sanctions?)
+Jane McBride@
+10/20/2000 05:26 AM
+Have spoken with Joe Hirl.  If there was any way we can take advantage of or 
+use for the purposes of establishing Enron Japan weather exposure, all the 
+exposure of other Enron companies, this should help us to establish 
+legitimate weather exposure.  Enron always has weather risk and we keep a 
+global weather book although of course we have open positions sometimes.
+Obviously we are mostly concerned about criminal liability.
+It seems to us that if we cant do the first deal, there is no position for 
+market makers here, which just doesn't make sense.
+Thanks.
+Jane McBride
+Senior Legal Counsel
+Enron Japan Corp.
+Otemachi 1st Square Bldg.
+West 11th Floor
+1-5-1 Otemachi, Chiyoda-ku
+Tokyo 100-0004
+Japan
+Tel.:       81-3-5219-4500 (Main)
+81-3-5219-4553 (Direct)
+Fax:       81-3-5219-4510
+Assistant (Maggy Yamanishi)
+Tel.:        81-3-5219-4554 Email:      Yo.Yamanishi@
+Jeremy.Pitts@BAKERNET.com
+10/20/2000 06:17 PM
+Thanks Jane - I am scheduled to meet the Japanese lawyers on Monday morning 
+and
+will let you have our reply as soon as I can.
+Jeremy
+Jeremy,
+Pls see for your information my email to Alan, Mark and Alan.
+As discussed, your answers to my questions can be quite brief
+and pls cross
+reference previous advice rather than repeating it.
+I think the answer to question 1 - whether we can give the
+warranty - has
+got to be no.  So short and sweet on this is fine.
+Re whether we can go ahead without the same (c)(ii) from them
+(but with
+(c)(iii)) is a harder question and I understand that all you can
+do is
+explain our risk and exposure, in light of the current factual
+situation.
+This is a risk appetite question at the end of the day.
+Jane
+----- Forwarded by Jane McBride/AP/Enron on 10/20/2000 05:57 PM
+Jane McBride
+Paul.TYO.Davis@BakerNet.com, Morten E Pettersen/AP/Enron@, Joseph P  
+Hirl/AP/ENRON@
+Subject:     ... Urgent
+Weather Derivative Advice ...(Document link: Jane 
+McBride)
+Dear Alan and Mark,
+I am going to need you to help me make a risk decision.  I
+welcome input
+from Mark Evans but he may be more comfortable leaving this up
+to Alan and
+Mark because Alan and Mark have been involved in this gambling
+issue from
+the beginning.
+Jeremy Pitts and I have had a brief conversation re my email to
+him below,
+this afternoon, but he will not be able to get written comments
+signed off
+by Japanese lawyers to me until Monday.
+The situation relates to the Tokyo's office's first weather
+derivatives
+deal, which is with a company called Toa Reinsurance.  In a
+nutshell the
+situation is that negotiations have come to a standstill because
+neither
+side can move on their positions re the gambling warranties.
+The deal of
+course though has already been done over the telephone several
+weeks ago.
+In a nutshell then, based on discussions with Jeremy Pitts, but
+to be
+clarified by Japanese lawyer on Monday, the situation is:
+1.   In terms of Enron Japan's ability to trade weather
+derivatives here,
+we are operating in the grey even if we can get warranty
+5(c)(ii) from
+them.
+2.   ToaRe will not give us the important warranty - 5(c)(ii)
+below,
+because they say they can't.  They say they are not actually
+"entering into
+the deal to hedge weather related risks arising in the ordinary
+course of
+their business" - which is what the subject warranty says.  B&M
+have
+advised that the obtaining of this warranty from a counter party
+helps keep
+us in the grey and out of the red in terms of what we are doing
+and also
+gives us comfort that the counter party can do the deal.
+3.   ToaRe is, in addition, separately asking us to give them
+the same
+warranty.
+Jane McBride analysis
+Re 3 - Given that our legal situation is grey at best, I do not
+think we
+should be giving the warranty they have requested.  They say
+they will not
+give us that warranty.  The issue then is whether we can go
+ahead without
+getting the warranty from them, bearing in mind that a binding
+telephone
+deal has been done.
+If you agree with me that we can't give the warranty, then we
+have to
+decide whether we can go ahead without getting the warranty
+referred to in
+(2) above, from them.  I am not sure however that in practice we
+even have
+a choice given that the trade has been done.
+If we go ahead without giving and without getting the warranty,
+the risk to
+us is that we are more likely to be in breach of the prohibition
+on
+gambling in the Criminal Law.  Are we willing to take this risk
+and who
+needs to give me this answer?
+Jane
+Jane McBride
+Whitehead/AP/Enron@, Mark Taylor/HOU/ECT@ECT                                                Subject:     ... Urgent
+Weather Derivative Advice ...(Document link: Jane 
+McBride)
+(See attached file:
+Weather-HDD-Floor-OTC-ToaRejmb2000-10-20!.doc)
+Dear Jeremy,
+I would like to refine the following instructions.  There are
+two (only)
+issues on which we need specific written advice and they both
+relate to
+Warranty (c)(ii) of the draft which says "XYZ is entering into a
+weather
+derivative transaction to hedge weather related risks arising in
+the
+ordinary course of its business".
+1.   (a)  Can Enron Japan give the warranty at this stage in its
+growth?
+Have we already had any written advice from you on whether Enron
+Japan can
+warrant along these lines?  If so, when?  If not, the facts seem
+to be
+that:
+Enron Japan plans to trade commodities which are energy
+related but
+because we are still building up the business we are not
+trading these
+products yet.
+As you know, we are getting into the power market.  If we
+have done a
+weather derivative, then we can of course offer better prices
+on the
+electricity deals we are negotiating.
+Other Enron companies are of course already trading many
+weather
+dependant commodities and power.
+It could be argued therefore that unless we can rely on the
+weather related
+risks of other Enron companies to justify our weather derivative
+transacting in these early days, that this is a speculative
+transaction
+constituting gambling (depending on how the law on this works).
+It is
+understandable that ToaRe would want us to warranty in effect
+that we are
+not gambling because we are asking them to do so.  I know we
+have had sign
+off from B&M re our weather derivative trading but I wonder if
+anyone
+considered what the situation would be before we ourselves had
+other
+transactions giving us weather related risks.
+(b)  If not, how could it be amended so that we can give it?
+(c)  If still relevant in the context of your answers to (a) and
+(b) above,
+they did offer previously to take out all warranties so that
+neither party
+gives any warranties.  The deal cannot be cancelled because it
+was done on
+the telephone late Sept.  Accordingly, what is the practical
+risk of us
+proceeding without the benefit of any warranties from ToaRe
+(including the
+warranty that they are under the Insurance Business Law - ie an
+insurance
+company 
+2.   They are insisting they not give (ii) and that we be
+satisfied with
+(iii) only for the purposes of the Gambling Law  Pls confirm in
+writing
+whether you think we can still go ahead on this basis.
+Thanks.
+Jane McBride
+Senior Legal Counsel
+Enron Japan Corp.
+Otemachi 1st Square Bldg.
+West 11th Floor
+1-5-1 Otemachi, Chiyoda-ku
+Tokyo 100-0004
+Japan
+Tel.:       81-3-5219-4500 (Main)
+81-3-5219-4553 (Direct)
+Fax:       81-3-5219-4510
+Assistant (Maggy Yamanishi)
+Tel.:        81-3-5219-4554
+Email:      Yo.Yamanishi@
+Jane McBride
+10:57 AM             Subject:     RE: ToaRe
+documentation(Document link: Jane McBride  
+Brent - does this mean Tana should not allow any non-Argentine customers to 
+have access to these products?  The general rule has been to allow complete 
+access unless there was a legal impediment - logic regarding who will want to 
+trade what doesn't seem to enter into it.
+Tana Jones
+10/20/2000 09:49 AM
+Lisa Lees
+10/20/2000 09:42 AM
+fyi
+Dale Neuner
+10/20/2000 08:54 AM
+Enron America de Sur S.A. is the enron entity set up to trade on EOL; Lisa 
+Lees will manage the external customer access.
+Lynn Aven@
+10/19/2000 04:26 PM
+Dale:
+I spoke with Jeff Bluementhal earlier today and wanted to confirm the parties 
+that should be approved for trading Argentine.  The Enron party that should 
+execute Argentine physical gas deals should be Enron America de Sur S.A.  It 
+should be noted that all counterparties for this product should be Argentine 
+entities.
+Lynn
+Let's be sure to keep this in mind as we do future resolutions.
+Mark E Haedicke
+10/20/2000 10:56 AM
+I would like to do fewer resolutions authorizing non-vps to sign contracts, 
+and when we need such authorizations, let's make sure the resolutions are 
+appropriately limited.  My thoughts are as follows:
+1.   We have a lot of vps that can sign contracts.
+2.   It is generally ok to have confirmations signed by certain carefully 
+selected directors since we are confirming a trade that already took place 
+and there is master agreement already signed.
+3.   There are certain very routine agreements like pipeline right-of-way 
+agreements that are ok for carefully selected directors to sign.
+4.   Confidentiality agreements should be signed by a vp.
+5.   Any authorization for a director to sign should expire within not more 
+than one year and revoke all prior authorizations.
+Please give me your comments.
+Mark 
+Here is the confirm template (used when an ISDA Master is in place)
+This is the index language for EnronOnline.  We would use something similar 
+for the offline confirms.
+I got your voice mail and agree with the strategy of meeting with the 
+Senator's staff before sending the letter.  It would be embarrassing to 
+suggest that we don't have a view on issues that should be important to us.
+Re: the letter itself, if you want to make it even stronger, you could point 
+out in your discussion of EnronOnline that we believe that the site could 
+have been designed such that the volume of business through the site would 
+have been significantly larger but for the uncertainty and restrictions in 
+existing law and regulation which would be corrected by the bill.
+Here are my revisions.  Let me know if you have any questions.
+You can remove me from the distribution list.
+Thanks for the resume - I'm looking at a number of internal candidates from 
+APACHI, CALME and Southern Cone but will keep this one on file (and pass it 
+along - might be good for Richard Sanders).
+Louise Kitchen
+10/23/2000 09:52 AM
+Sny interest!
+10/20/2000 10:52 AM
+Adriane Moratto@
+Adriane Moratto@
+Adriane Moratto@
+10/20/2000 10:52 AM
+10/20/2000 10:52 AM
+This person saw you speak at PowerMart and wanted to see if we had any 
+available positions within EnronOnline.  He emailed me his resume and  I am 
+forwarding it on to you.  Don't know if you are interested, but thought I 
+would send it.
+adriane
+- Clarence ResumelegalspecRegAff.doc
+"Theaker, Helen"  	10/23/2000 06:59 PM
+Mr. Taylor,
+I'm updating V&E's contact list for Joe Dilg and would like to
+confirm/correct the information we have in our system for you and/or fill in
+any blanks.  In that we may have deliveries to make, I am including your
+home address in this request.  Here's what we show:
+Name:   Mark E. Taylor
+Title:  Vice President & Assistant General Counsel
+Home Address: 1322 Rutland
+Houston 77008
+Assistant Name: Taffy Milligan
+Assistant E-Mail: ____________________
+Assistant Phone: 713-345-7373
+Thank you so much for your time.  I REALLY appreciate it!
+Helen Theaker
+Assistant to Joseph C. Dilg
+Vinson & Elkins L.L.P.
+Phone:  713.758.2519
+Fax:      713.615.5034
+E-Mail:  htheaker@velaw.com
+My impression is that this now being handled in Global Finance.  You might 
+try Jordan Mintz or Gareth Bahlmann.
+Jon Chapman
+10/23/2000 12:08 PM
+Mark
+Hi 
+Hope you are well and that all goes well in sunny Houston .
+I have a query re. JEDI II which Carol St Clair used to deal with legally apparently . Mark Evans tells me she was in your group before maternity leave 
+. Do you have any idea who now deals with JEDI issues ?
+Many thanks and very best wishes.
+Jon
+I'm flying solo this weekend.  No particular plans after happy hour with the 
+office tonight.
+Here's the financial trading piece - I may not have all of the formats quite 
+right.
+just a couple of minor changes - what is the last sentence about?
+Thanks Dale - looks good to me.
+Dale Neuner
+10/24/2000 03:18 PM
+Mark - the e-mail I sent you earlier today did not reflect your most recent 
+changes, but be assured that I have made the relevant changes in the  EOL 
+database.
+Yes, I'll take the call.
+Janette Elbertson
+10/24/2000 04:17 PM
+Mark:
+Mark Haedicke will be travelling on Friday.   Can you participate in this?
+Janette Elbertson
+Barbara Hanlon  	09/26/2000 09:31 AM
+Our next conference call will be held this Friday, November 3rd at 10:00
+a.m. New York time.  If you wish to participate, please call 888-904-9318
+and give passcode "US REG" and leader is Stacy Carey.
+Stacy Carey
+Director of U.S. Regulatory Policy
+This one should go to the crude traders.
+exchangeinfo@nymex.com
+10/25/2000 11:50 AM
+Notice No. 00-362
+October 25, 2000
+Re: Revised Crude Oil Options Expiration Date
+It has come to the attention of the Exchange that some earlier publications 
+may contain an incorrect option expiration date. Please be advised that the 
+expiration date for the Crude Oil Options December 2000 contract month (LO 
+Z00) has been revised to Tuesday, November 14, 2000.
+Should you have any questions regarding this matter, please contact the Floor 
+Departments Systems Area at (212) 299-2626.
+__________________________________________________
+Mark Haedicke has asked me to submit a list of our "top ten legal risks please let me know of anything you think should be included in the list.
+FYI
+Trang Le
+10/25/2000 01:42 PM
+FYI - Below is the list of the current contact names for the various 
+processes related to steel trading activities.  Please note that some of the 
+arrangements are only temporary. Let me know if you have any comments and/or 
+suggestions 
+Thanks,
+Trang x3-6996 
+1. Legal: 
+Financial:  Mark Taylor
+Physical:  Harry Collins   2. Trader        Financial:  Kevin O'Donnell
+Physical  Kevin O'Donnell
+3. Deal Capture: 
+Financial:  Trang Le
+Physical:  Trang Le
+4. Risk Management:
+Financial:  Martha Stevens
+Physical:  Martha Stevens
+5. Confirmation: 
+Financial:    Bob Bowen
+Physical:  Trang Le  
+6. Logistics:
+Financial:  N/A
+Physical:  TBD
+7. Global CP: 
+Financial:  Mary Gosnell
+Physical:  Mary Gosnell   8. Global Contract: 
+Financial:  Anthony Campos
+Physical:  Linda Bryan
+9. Settlement       Financial:  Gordon Heaney
+Physical:  Trang Le
+10. Accounting 
+Financial:  TBD
+Physical:  TBD
+Yes, thanks.
+Tana Jones
+10/25/2000 12:53 PM
+I sent it to the crude oil option trader.  Is that good enough?
+Mark Taylor
+10/25/2000 11:42 AM
+This one should go to the crude traders.
+exchangeinfo@nymex.com
+10/25/2000 11:50 AM
+Notice No. 00-362
+October 25, 2000
+Re: Revised Crude Oil Options Expiration Date
+It has come to the attention of the Exchange that some earlier publications 
+may contain an incorrect option expiration date. Please be advised that the 
+expiration date for the Crude Oil Options December 2000 contract month (LO 
+Z00) has been revised to Tuesday, November 14, 2000.
+Should you have any questions regarding this matter, please contact the Floor 
+Departments Systems Area at (212) 299-2626.
+__________________________________________________
+Yes - as I understand it, Stephanie and Tana will be out that week but 
+Samantha and Susan will be here.
+Taffy Milligan
+10/25/2000 10:47 AM
+HAVE YOU APPROVED THIS REQUEST?
+Stephanie Panus@
+10/25/2000 08:22 AM
+Taffy -
+I will be out Nov. 21, 22 and 23.
+Stephanie
+Taffy Milligan@ECT
+10/24/2000 03:00 PM
+WHOOPS!
+Please advise, at your earliest convenience, of tentative or confirmed plans 
+for vacation during the holiday season, Nov & Dec.
+taffy
+I have volunteered for Nov 3/4.
+Mark E Haedicke
+10/25/2000 09:21 AM
+Please see if you and/or AGC's in your respective groups can make time to 
+participate.  I have always found it to be a very rewarding experience.  Let 
+me know.   Mark
+Shelly Jones, Recruiting Manager@
+Sent by: Enron Announcements@
+10/24/2000 09:12 PM
+ADDITIONAL INTERVIEWER PARTICIPATION IS REQUESTED FOR OCTOBER 28 & NOVEMBER 
+4.
+Also, please note the school/date changes (in red).  This change was 
+necessary due to the number of candidates participating in Super Saturday If you have a change in your participation as a result of the date change, 
+please contact John Harrison, ext. 3-7811 for revisions.
+Thank you
+Shelly Jones
+Enron Managing Directors, Vice Presidents, Directors, and Managers  Who 
+Utilize the Associate/Analyst Pool
+As a follow up from a "SAVE THE DATE"  email regarding your participation in 
+the  Associate and Analyst  Super Saturday process, now is the time to select 
+your dates to attend and participate.
+Below are the dates for Super Saturday weekends during the upcoming 
+recruiting season.  If you are Houston-based or if you know you will be in 
+Houston on business at the appropriate times please click the link below to 
+volunteer 
+(When selecting dates please avoid selecting to interview candidates who 
+attend the schools for which you are a team member.)
+Associates     Analysts
+October 27-28, 2000    November 3-4
+Thunderbird, UT, Georgetown, Rice  Rice, UT, Baylor, A&M, OU, Florida, LSU, 
+UHCL
+November 10-11, 2000    November, 17-18, 2000
+Columbia, Stern NYU, UCLA, Darden, Cornell Penn, UVA, Vanderbilt, Michigan, 
+Howard, AUC, 
+Vanderbilt, Michigan    UHMain and Clear Lake, LSU
+December, 1-2, 2000    December 8-9, 20000
+Chicago, Kellogg, Harvard, Wharton, MIT Wellesley, overflow and re-schedules 
+from previous s/s
+-
+Friday, December 15, 2000  
+Carnegie Mellon
+Yale off-cycle candidates
+Thank you for your support of the Associate and Analyst Programs.
+Shelly Jones
+Recruiting Manager
+Sasha:
+Thanks very much for adding me to the database.  If I could impose upon you 
+once again, would you please also arrange access for Tana Jones?  She is 
+going to assist me with the database project you and I discussed and I think 
+your database will be a big help.
+Thanks again!
+Mark
+Here it is.
+Ron Nolte
+10/19/2000 05:17 PM
+The  emergence of web trading has important implications for deal clearing Meetings are scheduled for November 16-17 to discuss
+these implications and to come to a consensus on a strategic solution for 
+deal clearing 
+Please plan to attend or designate someone who can represent you.
+Attached please find a tentative schedule for the meetings.
+Additional information will follow.
+Please feel free to address any questions you might have  regarding these 
+meetings to  Sarita Das ( 713 345-8232 ) or Ron Nolte ( 713 853-7569 
+My answers below in red.
+Bob Bowen
+10/19/2000 10:39 AM
+I assume you have heard that EOL is soliciting HoustonStreet.com and 
+QuickQuote.com in order to 
+increase their volume and market coverage.  The message below is from Ron 
+Nolte, our IT person
+for the confirmation systems.  I think he is asking some very pertinent 
+questions that may need your
+legal opinion.
+I guess my fear is that you have not been included in the conversations and 
+set-up of EOL's discussions
+with HoustonStreet.com and QuickQuote.com.
+Ron Nolte
+10/16/2000 12:37 PM
+Just came back from a meeting in which Jennifer deBoisblanc Denny and Torrey 
+Moorer informed everyone about the new venture 
+between HoustonStreet.Com and Enron and QuickQuote.com and Enron.   In 90 
+days, HoustonStreet.Com and QuickQuote.com will be offering products offered 
+on EOL.
+I solicit comments from everyone.
+As I understand it, a party wishing to trade gas and power can log onto 
+HoustonStreet.Com and  deals offered on EOL will 
+magically appear. The party might think, "Hey, I can't do better than this on 
+EOL, I'll take this deal".  The deal is transacted and HoustonStreet.Com number is assigned.  As soon as the "Do the Deal button is clicked, the transaction is sent to EOL where
+it is validated.  An EOL deal number is assigned but as far as the party 
+doing the deal is concerned, the deal is a HoustonStreet.Com deal.
+In the case of a gas deal,  the deal will be bridged to both Sitara and 
+TAGG.  The deal at this point would have four deal numbers:
+HoustonStreet.Com Deal #
+EOL Deal #
+Sitara Deal #
+TAGG Deal #
+Based on the meeting, the following requirements surfaced.  If you are in 
+TAGG,  you should be able to access the deal using
+HoustonStreet.Com  Deal #, or the EOL Deal #, or the TAGG Deal 
+If you are in DCAF II,  you should be able to access the deal using 
+HoustonStreet.Com Deal #, or the EOL Deal #, or the Sitara Deal 
+This requirement implies that the capture windows in TAGG and Sitara ( I 
+assume ) will need to be changed to capture both
+the HoustonStreet.Com Deal # and EOL Deal #.  The TAGG Deal number itself  is 
+assigned by the Capture program.
+This will require a database change as well as fairly significant ( it was 
+assumed that there is only one "Originating System")  program modifications 
+to TAGG Deal Capture, TAGG Deal Clearing,  DCAF II, and Enpower Autoconfirm clears Power deals 
+Now for some issues:
+1) Who is the internal party on the deal that is to appear on the 
+confirmation?  Whichever Enron entity  offers that product on EnronOnline 
+will be the party for these trades as well.  Will a HoustonStreet.Com and
+a QuickQuote internal party be set up in Global Counterparty 
+There are implications for Global Counterparty since all address information 
+is set up based on who the external party is doing business with.
+In other words, if there are new internal parties, the address information 
+set up for these same external  parties that do trades on EOL will
+have to be set up again for doing business with the new internal parties.
+2) Is the confirm to sport a HoustonStreet.Com logo and a QuickQuote.com 
+logo? No.  The confirms may reference the platform on which the trade was 
+done but otherwise it should look just like a regular Enron confirmation.
+3) Who is to sign the confirmation letters when signatures are required Same process as exists for EnronOnline transactions.
+4) Contract numbers will have to be set up just as they are for trading under 
+EOL.  But who are the contracts between?  If
+new internal parties are set up for HoustonStreet.Com and QuickQuote.com, 
+then contracts will have to be set up
+between the new internal parties.  But since a HoustonStreet.Com deal goes 
+through EOL, how will the appropriate
+contract be assigned?; i.e., if Koch does a deal through HoustonStreet.Com, 
+is  a different contract assigned 
+in EOL versus if Koch does the deal through EOL itself? Seems to me it 
+should be the same - we only have one agreement with Koch.
+The confirm form is one of the many current templates used by the confirm 
+desk depending on the specific transaction type and the counterparty.  For 
+instance, this template is not the used for a swap (e.g. not a cap, floor, 
+collar or swaption) and would not be used even for a plain vanilla swap if 
+the customer had not signed an ISDA Master Agreement.  The index language can 
+be used in a variety of contexts but again depends on exactly which type of 
+trade you are doing.  But I thought you guys had decided to use the first 
+price published in the following month rather than the average of the entire 
+month language attached so this may not be the final version.
+Kim Stanley@
+10/25/2000 04:02 PM
+These are the documents to which I referred.
+thanks,
+kim
+Here is the confirm template (used when an ISDA Master is in place)
+This is the index language for EnronOnline.  We would use something similar 
+for the offline confirms.
+Unfortunately Euromoney is no longer offering their courses.  They were by 
+far the best around and it's a real shame.  There is a PLI course being 
+offered in NY in mid November (at which I'm speaking on commodity 
+derivatives) and ISDA has a conference in London on collateral arrangements 
+and the ISDA Credit Support Documents.  Neither is anywhere near as good as 
+the old Euromoney courses but both would probably benefit Jane 
+Alan Aronowitz
+10/25/2000 04:16 PM
+Are either of you aware of any master documentation workshops being offered 
+in NYC or London in the next few months that would be worthwhile for Jane 
+McBride to attend?  I remember several years ago going to a program that 
+Euromoney (or Eurocurrency) put on for 2-days focusing on ISDA's. 
+Please advise. Thanks.
+yep - thanks!
+Dale - better check your address book - this one went to the other Mark 
+Taylor.
+Mark A Taylor@EES
+10/26/2000 06:48 AM
+Yours?
+Dale Neuner@ECT
+10/24/2000 12:38 PM
+Please offer your apprval to the following Product Type:
+US Pipeline Capacity  NNG (Firm) 
+The related Products are capacity products being offered by Nothern Natural 
+Gas Company. As there are regulatory issues concerning the viewing of 
+proprietary information by the market affiliates of NNG, chinese walls are in 
+place through the operation of policy.
+You may notice that there is no Sigma Factor associated with this Product. 
+The SF has purposely been set to zero, as the Credit area of NNG will be 
+responsible for the daily review of exposure to their Counterparties, and 
+will coordinate any Credit issues with the Credit area of ENA.
+Attached please find an example of a related Product Type.
+I need to ask that you expedite this approval. In order to have the Product 
+Type available for this coming Monday I must have the full approval by no 
+later than this Wednesday (tomorrow) at Noon.
+If you have any question, please feel free to call.
+Dale
+3-9746
+I'm not sure if you guys are on this mail list but here is the most recent 
+message from Stacey at ISDA.
+Stacy Carey  	10/25/2000 08:38 PM
+Senate Agriculture and Banking staff, Treasury, the CFTC and the SEC met
+this afternoon to discuss Senator Gramm's proposed changes.  Preliminary
+reports indicate that agreement on 7 of the 34 issues was made earlier in
+the afternoon.  It is unclear what the 7 items were, however, the meeting
+broke in order for Gramm's staff to brief the Senator on developments.  When
+the meeting resumed Gramm's staff reportedly backed off the prior
+agreements.  In sum, no progress was made at the end of the day.  The staffs
+agreed to meet again tomorrow morning at 9:30 a.m. (On an side note Senator
+Gramm's staff indicated that only a handful of banks supported the bill)
+We also participated on a conference call with the AdHoc Coalition and the
+Chicago Futures Exchanges held by Tom Ewing this afternoon.  Ewing advised
+that he had a discussion with Speaker Hastert who is well aware of the
+importance of this issue. He encouraged all of us to make renewed appeals to
+the House and Senate leadership and as many Senate contacts as possible.
+In my estimation, tomorrow will likely be our last opportunity to have any
+sort of impact on Senate activity.  At the end of the day we will either
+have a deal or negotiations will have failed.  I would suggest making the
+following contacts tomorrow morning with a simple message:  1) We are aware
+that the staffs are continuing to work on resolution of outstanding issues.
+2) It is vitally important that these issues be resolved and that passage of
+the legislation occur this year.
+My recommendation would be to deliver this message to the following
+entities:
+1.  Senator Gramm -- since his staff is under the impression that only a
+handful of banks support the bill.
+2.  Senator Leadership -- Lott and Nickels
+3.  Senate Agriculture Committee Members - Republican and Democrats
+4.  Senate Banking Committee Members - Republican and Democrats
+5.  House Leadership - Hastert, Delay and Armey
+* Calls to Lugar are not necessary
+Finally, I am of the firm belief that this legislation stands a worse if any
+chance of enactment next year.
+We need to give this our best shot tomorrow!
+Many thanks!
+Stacy Carey
+Director North American Regulatory Policy
+International Swaps and Derivatives Association
+(202) 457-6545 ph
+(703) 256-1833 fax
+(917) 543-9622 cell
+scarey@isda.org
+Agreed - can you please confirm directly with Erica that Tax has no problem 
+with Enron Credit.com contracts being signed in the US.
+Tana Jones
+10/26/2000 08:23 AM
+Mark, It seems to me Erica's advice needs to apply not only to this NDA, but 
+probably all of the NDA's that are going to originate from the Houston based 
+EnronCredit.com business team.  Further, it should apply not only to NDA's, 
+but their whole business they are originating from Houston, yes?  Maybe you 
+need to talk to Erica 	Michael Slade
+10/26/2000 08:12 AM
+Tana
+Here is Erica's approval, as such - I have since explained what it is about 
+and she is happy with it
+Thanks
+Mike
+I'm sorry for the delay.  I looked at the agreement and I have no problem 
+with it although, as a lawyer, it is dificult to envision how the English 
+courts are going to apply Texas law.  I would like to know what this is about 
+as I have no idea.  Can you please give me a call on 34916?  Thanks.
+Please print this out and put a copy in our file for Colombian trading (Tana 
+may know where that should be).
+"Figueroa Sierra & Asociados"  	11/12/1999 10:14 PM
+Electronic Mail Transmittal Form
+FIGUEROA SIERRA & ASOCIADOS
+A   B   O  G   A   D  O   S
+Santaf, de Bogot? D.C., Colombia
+URGENT:         X         NORMAL:
+FOR:                        Mark Taylor, Esquire
+Alan Aronowitz, Esquire
+COMPANY:           ENRON NORTH AMERICA CORP.
+DATE:                    November 12, 1999
+MESSAGE:
+ANNEX:                cover letter.doc
+legal survey update.doc
+legal survey update (blacklined).doc
+- att1.htm
+- legal survey update (blacklined).doc
+- legal survey update.doc
+- cover letter.doc
+Please print these out for me, create a file for them called EnronOnline 
+Pipeline Capacity and bring it to me.
+ESanford@milbank.com
+08/22/2000 09:02 PM
+Mark, 
+Further to our telephone call of last week with Ed Feo and Steve Kramer, 
+attached please find a draft memo discussing certain CFTC regulatory issues 
+relating to multilateral online trading systems for pipeline capacity.? Also 
+attached are three CFTC no-action letters, the first of which (Channel 4) 
+contemplates transactions in pipeline capacity, as discussed in the memo The other two letters (Altra and QuickTrade) relate primarily to natural gas, 
+although the relevant CFTC regulatory issues appear to be similar.? Please 
+feel free to call me at 212-530-5414 with any questions you may have about 
+the attached documents.? I look forward to working with you and EnronOnline 
+to address these issues. 
+Eric Sanford 
+- #7249623 v3 - EnronOnline - Pipeline Capacity Memo.doc
+- 1994 CFTC Letter 94-58 Channel 4.doc
+- 1998 CFTC Letter 98-31 QuickTrade.pdf
+- 1997 CFTC Letter 97-93 Altra.pdf
+Happy hour with staff, not family 
+Thank you!
+Sara Shackleton
+10/26/2000 10:35 AM
+All:  I spoke with Kim this morning and although she is anxious to meet 
+everyone, we decided that it would be more productive to try to schedule a 
+luncheon meeting to discuss current issues related to the confirmation desk I understand that Joe Hunter, Melissa Murphy and David Dupre will be 
+providing Kim with a list of "issues" and we have been invited to add to that 
+list.
+Please send me your list of any confirmation issues that you would like 
+raised with Kim which I will cumulate and forward.
+You may ignore the message below.  Thanks.  Sara
+Yolanda Ford
+10/25/2000 05:01 PM
+Please plan to attend a meeting regarding Financial Issues on Monday the 30th 
+from 10:00am to 11:00am in EB3125B.  If you are unable to attend please call 
+me directly at X3-9030. The meeting will be hosted by Kim Theriot Manager of 
+Power and Gas Documentation.
+Many Thanks,
+Yolanda
+I have confirmed with Mark Holsworth that he is the right guy for this - he 
+has a form agreement that Enron uses for these situations.
+Rahil Jafry
+10/26/2000 11:01 AM
+FYI - I'll talk to her about their model and plans in a little more detail In the meanwhile, given that they create a link to us either way, we might as 
+well allow them the use of our logo.  In case they become a big eye-ball 
+aggregator, we want the traffic to flow our way as well.
+Will check with Mark for his opinion.
+Thoughts?
+- R
+Rahil,
+Thanks for visiting Energy News Live.  We are working to correct the
+spelling of EnronOnline in the Exchange menu and you should see the change
+by the end of the week.  The reason EnronOnline is not represented as a
+logo, like Houston Street and TradeSpark, is due to legal constraints.
+Williams does not have legal permission to display Enron's logo, only the
+link.  As future phases roll out, we would like to work with your legal
+department to obtain these rights.
+Thanks for the feedback and please let me know if you have any further
+questions or suggestions.
+Sincerely,
+Jennifer Daly
+Jennifer Daly
+eBusiness Solutions Consultant
+Williams Energy Marketing & Trading
+918-573-1320
+jennifer.daly@williams.com
+Would you guys please take a look at this and let me know if I can approve it 
+in the system?
+Thanks
+Melba Lozano
+10/26/2000 11:53 AM
+Your review and approval of the following product type in the EOL Datamanager 
+is needed (for directions on approval , please see steps for approval at the 
+bottom of this e-mail 
+Trader : Fletcher Sturm
+Example:
+US Pwr Phy Index MWD Ent Peak            Oct00      USD/MWh
+A US Power Transaction with Enron Power Marketing, Inc., under which the 
+Seller shall sell and the Buyer shall purchase a quantity for firm energy 
+equal to the Hourly Quantity at the Contract Price.  The Contract Price shall 
+be the Floating Price, as adjusted by the price submitted by the Counterparty 
+via the website.  The period of time during which the Floating Price is 
+derived (a "Determination Period") shall be a calendar month during the term 
+of the Transaction; provided that, if the term of the Transaction is less 
+than one month, such Determination Period shall be the term of the 
+Transaction.
+The transaction is for the applicable hours as set forth herein on each 
+Delivery Day for the Effective Date 01 Oct 2000 to the Termination Date 31 
+Oct 2000.
+The transaction is for delivery or receipt of energy to any available point 
+Into Entergy System Border at Seller's daily election.
+The Floating Price during a Determination Period shall be the average of the 
+daily prices listed in the Index for power delivered during Peak hours on 
+each Delivery Day during the applicable Determination Period.  The Floating 
+Price for each Determination Period shall be calculated utilizing the daily 
+prices published in Megawatt Daily's Market Report under the headings "Ranges 
+and Indexes of Trades for Standard 16-Hour Daily Products;Wtd. Av. Index; 
+Peak Hours, 0600 to 2200; Entergy, into"  (the "Index 
+The price is quoted in US Dollars per unit of volume, which will be the 
+Contractual Currency.
+The unit of measure against which the price is quoted shall be megawatt-hours 
+(MWh) and the quantity shown shall be in MW's delivered in each applicable 
+hour for the duration of the Transaction (the "Hourly Quantity 
+The transaction is for on-peak ("Peak") hours on each Delivery Day beginning 
+with the hour ending 0700 (6:00 am) and concluding with the hour ending 2200 
+(10:00 pm) Central Prevailing Time. "Delivery Day" means a day during the 
+term of the transaction that is a Monday, Tuesday, Wednesday, Thursday, or 
+Friday, excluding any day that is a NERC holiday.
+click the  START button 
+select  PROGRAMS
+select  TEST APPLICATIONS
+select ENRONONLINE CLUSTER(PROD)
+PROCEED WITH USUAL LOGIN/PASSWORD 
+click the Enron Online Production Cluster "START" button  
+select EnronOnLine (this is the EOL Datamanager)
+PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up 
+TO APPROVE:  Right mouse click on "Approved"
+Thanks - Rob Cass  -  Melba Lozano
+x35491   x58986
+yes, I think that's the idea. You may need to monitor and advise.
+Bob:
+Here is a powerpoint presentation that may give you a bit of a feel for the 
+site and actually has a couple of slides on the submission screens that will 
+show areas not accessible with a guest user ID.
+Mark
+Kathy:
+Please issue a guest user id to Bob Lawrence at Milbank Tweed Hadley McCloy.  Bob is  a lawyer helping us with various EnronOnline matters 
+including Broker Connect.  His e-mail address is rlawrence@milbank.com.
+Thanks,
+Mark
+Mail Delivery Subsystem  	10/27/2000 10:40 AM
+The original message was received at Fri, 27 Oct 2000 10:39:28 -0500 (CDT)
+... while talking to mail2.siteamerica.com.:
+for  
+Kathy:
+Please issue a guest user id to Bob Lawrence at Milbank Tweed Hadley &
+McCloy.  Bob is  a lawyer helping us with various EnronOnline matters
+including Broker Connect.  His e-mail address is rlawrence@milbank.com.
+Thanks,
+Mark
+John - what about something like this?
+John Peyton
+10/27/2000 11:37 AM
+We intend to give this writing to Noble Drilling Corporation to help them 
+work through the issues regarding FASB 133.  Please prepare the necessary 
+attachments to cover our risk.
+John
+Kate Lykes
+10/25/2000 08:54 AM
+By all means please correct, add, delete! 
+John, I am sure you will want to beef up the last half. 
+Thank you, kate
+Sami - apologies for not getting back to you - it's been a crazy week or 
+two.  Can we talk early next week?
+Sami Arap@
+10/24/2000 12:55 PM
+Sami Arap
+10/18/2000 05:43 PM
+Mark;
+As per Randy Young's request, I need to discuss the trading deals in Brazil, 
+Colombia and Venezuela asap.  Please let me know if you will be available 
+tomorrow or Friday.
+Tks,
+Sami
+Pedro Fernando Manrique@_DEVELOPMENT
+10/18/2000 11:38 AM
+Sami,
+Estoy preparando un paquete completo, una vez lo tenga listo te lo envio. Sin 
+embargo los deals que tenemos son:
+Exportaci?n a Cadafe (Venezuela) con un back-to-back con EBSA (Empresa de 
+Energ?a de Boyaca)
+Emcali-Enron-Chivor, intermediaci?n de credito con una opci?n adicional de 10 
+GWh-mes
+Compra a ISAGEN de 15 GWh-mes 50% Take or Pay and 50% Take and Pay.
+Alianza con Chivor para el mercado no regulado.
+Los m?s urgentes son la Venta a Emcali y la Compra a ISAGEN, sin embargo los 
+terminos de las ofertas de EBSA para la venta a Cadafe se vencen el 28 de 
+Octubre y tenemos que definir algo al respecto. En el curso del d?a te 
+estamos enviado copia de todas las ofertas y documentos preparados. Ayer 
+estuvimos reunidos con Clara Ines Guarin, socia de Figueroa Sierra Asociados 
+revisando el contrato borrador de Emcali-Chivor.
+Cualquier duda o pregunta por favor no dudes en dejarmelo saber.
+Gracias,
+PFM
+Sami Arap@
+10/17/2000 04:04 PM
+Pedro;
+Me pod,s mandar copia de los e-mails y materiales/documentos con respecto a 
+las transacciones que Uds estan buscando negociar en Colombia 
+Gracias y un abrazo,
+Sami
+works for me
+Louise Bird
+10/30/2000 07:43 AM
+Janine would like to put aside 2 hours for the Global Trading Meeting on 
+Friday morning, does 10 - 12 suit everyone?
+Louise
+This should have sent to you.
+Mark Elliott
+02/02/99 07:46 AM
+Alan,
+Further to the last e-mail, I attach for your information a copy of trhe 
+Questionnaires which have been sent to our German and Spanish counsel.
+Obviously, I did not want to send a copy of this to Jeff Kinneman as I am 
+sure that he would not be interested in the Questionnaires - just the results 
+of them!!  Hence, this second e-mail.
+Kind  
+Mark
+Mark Elliott
+02/03/99 05:10 AM
+Mark,
+Many thanks for your message.  Re your reference to UK laws on Equity 
+Trading, I assume that you are referring to the proposed Equity Trading 
+facility in London;  I trust that  you also received my detailed e-mail on 
+that topic of yesterday evening.  Please note that I have now received a fax 
+from Alan Aronowitz with the Houston trading policy (containing Chinese Wall 
+information), to which I refer in that e-mail - I shall be considering the 
+sufficiency of that policy for UK purposes later today. 
+Re your request for advice on the extraterritorial effect of the U.S 
+securities' laws, this is a new question which we have been asked to look 
+at.  In my view, there will be some extraterritorial effect of such laws on 
+the activities.  I have also discussed this issue with Scott Sefton who has 
+provided me with a general overview on this, noting particularly the U.S. 
+Insider Dealing laws and potential U.S. reporting and disclosure of 
+interests' requirements; however, Scott has suggested that we retain external 
+U.S. counsel for in-depth advice on this, with which I agree.
+If you agree that we should instruct external counsel on this issue, I would 
+be more than happy to deal with this from London;  please let me now which 
+external counsel you would wish to use.  In my and Scott's views, we should 
+use expert  "SEC"-knowledgeable counsel in New York, such as either Cravath, 
+Cadwallader, Davis Polk, Cleary's, etc.
+Please just let me know - I would be able to instruct external counsel today, 
+get an estimate of their time for dealing with the US aspect and report back 
+immediately 
+Kind  
+Mark
+Mark:  We also need to look at the UK laws regarding equity trading and what 
+the extraterritiorial reach is of the US sec;urities laws.  Please  copy Mark 
+Taylor on this matter as well.  Please give me a time frame on when we will 
+have answers to these questions.  Thanks.  Mark Haedicke
+I won't be able to be on the 11:30 call this morning.  I have given Elizabeth 
+a copy of the 'omnibus' document we probably used if the put options sold to 
+Puget Sound were derivatives and described the arguments we could make that 
+the imposition of the proposed price cap would be a Market Disruption Event If it is a Market Disruption Event the most likely outcome under the contract 
+(since it will last more than 3 days and we presumably will not be able to 
+negotiate an agreed price) is that "the Floating Price shall be determined in 
+good faith by ENA, by taking the average of two or more dealer quotes."  I'm 
+not sure what dealer quotes would get us under these circumstances.  Can 
+dealers quote prices in excess of the price cap?
+Richard B Sanders
+10/29/2000 09:01 AM
+I have set up a conference call at 11:30 on Monday to discuss.
+Christian Yoder
+10/27/2000 12:15 PM
+In the days immediately before the application for a price cap, Puget came to 
+us and asked us to enter into several put options.  We did so. I am advised 
+by the traders that if this price cap were to actually be in effect,  our put 
+option transactions would not make sense for us economically and we would 
+never have entered into them had we known of their intention to make this 
+filing.   I am under some pressure  to explain two things:  (i) whether the 
+fact that they knew they were going to file for the cap when they did the 
+options is some kind of fraud, and (ii) whether the WSPP Agreement or our 
+ISDA swap agreements have any clauses in them to address this kind of 
+thing,ie. is this some kind of "illegality" issue?  I am working on the 
+second issue and have discussed it with Mark Taylor, but on the first issue, 
+I need advice from Richard and anyone else who can help.----cgy 
+Mary Hain
+10/27/2000 09:50 AM
+Puget Sound has filed a complaint against all jurisdictional sellers of 
+wholesale energy and/or capacity in the Pacific Northwest, including parties 
+to WSPP agreement.  Puget Sound requests FERC to impose price cap on 
+wholesale sales of energy and capacity in the Pacific Northwest equal to the 
+lowest price cap "established, ordered, or permitted by the Commission for 
+wholesale purchases by the Cal ISO or Cal PX . . . ."  Puget requests an 
+effective date of December 25,2000 
+Just a few changes below.
+David Forster@
+10/23/2000 09:15 AM
+Mark,
+Further to the requirement to send an email to the desk heads informing them 
+of the policy not to access NNG Capacity trade information, do you think the 
+following will suffice?
+Body:
+Please note that as of Monday, October 30, Northern Natural Gas will commence 
+transacting for capacity on EnronOnline. In accordance with FERC 
+For at least the next several months, NNG will be using EnronOnline and 
+sharing the same database. We have agreed a policy with NNG legal that ENA 
+employees will not use  obtain commercial information with regard to NNG 
+activities which is not in the public domain. Accordingly, you are not 
+permitted to access such information.  Attempts to access such information 
+may be monitored and will be considered a violation of the policy.if you 
+become aware of the existence of any such information, please adhere to the 
+policy.
+Dave
+Janette:
+This may be more than you were looking for - let me know if you want me to 
+pare it down a bit.  I assume we will have the opportunity to revise these as 
+time goes on 
+The Financial Trading/Net Works Group is responsible for the legal issues 
+relating to the derivatives and agriculture commodities trading of Enron 
+companies in the Americas and serving the legal needs of Enron Net Works 
+LLC.  The derivatives trading includes natural gas, power and other energy 
+commodity derivatives, weather, pulp & paper, interest rate, currency, 
+credit, metals and equity related transactions.  The group drafts form 
+templates for confirmations, drafts and negotiates master agreements with 
+counterparties on a variety of forms and deals with issues raised by 
+customers in connection with specific transaction confirmations.  Enron Net 
+Works issues include the operation of EnronOnline and related trading sites 
+and the various contractual and investment activities of Enron Net Works The group coordinates the legal approval process for granting customer access 
+to EnronOnline.
+Janette Elbertson
+10/30/2000 09:08 AM
+The Technology Plan Committee is meeting again this Wednesday, and I need to 
+give the committee an update on the progress of my work.  I would appreciate 
+your response to the following.  Many thanks.
+The committee has started working on the first phase of the Technology Plan 
+which is to develop an intranet web page for ENA Legal.  Our department's 
+organizational chart will be provided as well as a description of the area(s) 
+of responsibilities for each group.  Would you be so kind as to provide me 
+with a short paragraph describing your group's responsibilities?  The group 
+is scheduled to meet again on Wednesday, October 25, so if I could have the 
+description of your group's responsibilities as soon as possible it would be 
+greatly appreciated 
+Mark Haedicke is eager to have our intranet web page designed as soon as 
+possible.  Many   and attention to this matter.
+Janette Elbertson
+Sorry about the delay.
+Andrew Wilson@
+10/25/2000 01:55 PM
+Mark,
+could you add a legal disclaimer to this draft term sheet that reflects the 
+fact that we have not performed a credit check on the counterparty? Thanks. 
+FYI, I am also going to prepare a draft term sheet for a physical transaction 
+which I will ask Harry Collins to review.
+--Andrew
+Andrew Wilson
+10/23/2000 09:28 AM
+Tammy,
+After I sent this to you, I received a voice mail message from Mark Taylor 
+requesting one more change. Mark pointed out that we need to say the first 
+issue each month, and I  have now made the change. This version has been 
+approved by legal.
+--Andrew
+Bob Bowen
+10/19/2000 01:31 PM
+I know that you will be at a management meeting the exact same time that this 
+conference is scheduled
+to take place, but I was hoping you could assign this task to someone else in 
+ENA Legal.  As you will note
+on the agenda attached below, we have placed the Legal Department at the top 
+of the agenda after the 
+introduction to discuss "Legal Implications of the Electronic Marketplace".
+This discussion should conceivably include discussions of the following 
+topics 
+Electronic signatures (in particular EnronOnline)
+Websites for delivery and executing confirmations (Commodity Logic)
+See "XIII Future Trends" on Page 4 of the agenda
+Please let me know as soon as possible if this will be possible.  As you can 
+see, this is a very important
+topic for us.  Call me if I can help clarify any points 
+One other point - I am assuming that you guys are the head guys for financial 
+and physical legal decision 
+making for Houston, Calgary and London.   For your information, there may be 
+some lawyer types coming from the London
+Global Markets group.
+Also, JAD means Joint Accelerated Development.
+Enron Technology
+Please be sure to access the performance review system as soon as possible to 
+select persons to contribute to your review.  While commercial people are 
+particularly helpful, you may select reviewers at any level.
+Thought you might like this.
+I will be happy to attend but do have a regular 9:00 meeting on Fridays.
+Louise Kitchen
+10/31/2000 08:31 AM
+Can you attend too please.
+Louise Kitchen
+10/30/2000 06:17 PM
+In Net Works we receive a lot of new ideas from around the organisation which 
+need consideration (and some need actioning).  I though it might be a good 
+idea if the above group could get together every two weeks and go through the 
+ideas.  I currently have quite a few in my inbox.
+Would everyone be able to make a meeting on Friday mornings?  Say 8:30 for 30 
+minutes max.
+Anyone else who should attend?
+Louise
+I want to underscore that moving just the banking stuff to a bill to pass 
+this year is VERY bad and something we should vehemently oppose.
+Chris Long@
+10/31/2000 08:05 AM
+Jim - The CEA legislation has died and risen again so many times over the 
+last two weeks.  As of yesterday, Senator Gramm (the one obstacle to final 
+passage) told a group of banking lobbyist that he opposes the legislation in 
+full, but would consider moving the legal certainty provisions for banking 
+swaps.  This is not good for us and it is not good for the entire 
+legislation.  We are still trying to discern what exactly Gramm wants and 
+what he is up to.  We should know by later today the ultimate fate of the 
+bill.
+I'll keep you in the loop.
+James D Steffes
+10/30/2000 09:41 AM
+Chris 
+Can you give me a quick update on where we stand with CFTC Reauthorization 
+Jim
+Craig:
+Sorry I couldn't get back to you earlier.  I  asked Tana Jones to get you 
+access to our database that keeps track of financial master agreement 
+negotiations so you will always be up to date on where we stand with the 
+process.  If you haven't heard from her, please let me know.  Any word from 
+Justin on which Enron entity we will use for trading in the U.S.?
+Mark
+Craig Young
+10/31/2000 10:09 AM
+As a start could you advise if we have an ISDA with the following firms
+Coke
+Pepsi
+Anheuser Busch
+Gen Motors
+Ford
+Mercedes Benz
+Steel Companies
+Metal Companies
+Container Companies
+Hedgd Funds
+Emerson Electric
+Hydro Quebec
+Bonneville 
+Do we have a clearing house for global ISDA agreements?
+Craig Young
+212-715-2342
+Mark Elliott
+02/03/99 05:43 AM
+Mark,
+Further to Mark Haedicke's e-mails, for your information please see below my 
+e-mail of yesterday evening to Mark Haedicke and Scott Sefton re the impact 
+of English law on a potential Equity trading desk based in London.
+Kind  
+Mark  
+Mark Elliott
+02/02/99 06:33 PM
+I have reviewed the above proposal (which includes having had some in-depth 
+conference calls with Slaughter & May, London) and conclude that the project 
+is technically and legally viable provided that the points listed below are 
+dealt with.  Mark, once you have read this note, if you would like to discuss 
+the contents with Scott and me, please do not hesitate to give us a call.
+SFA Authorisation and Structure
+On account of the potential frequency and size of trading (even on an 
+execution-only basis for ECT Investments Inc), the London Desk should be 
+authorised by the SFA.  The personnel involved in the activity should be 
+registered with the SFA as, at least, Securities Representatives, and 
+preferably as General Representatives 
+Accordingly, subject to Tax Department's input, the London traders should be 
+located in EEFT (already SFA-regulated) which would act as arranger or agent 
+for the existing Houston-based equity trading corporation, ECT Investments, 
+Inc (the latter as principal).
+Subject to Tax and other internal considerations, it would also be possible 
+for EEFT to act as agent to do this business for, as principal, either 
+ECTRIC, the proposed replacement vehicle for ECTRIC,  or a new UK unregulated 
+entity (the latter would apply if a UK book was required).  A UK entity, as 
+principal, would be "unregulated" if it was a purely passive booking company.
+Provided that the ultimate principal is either ECT Investments, Inc., ECTRIC 
+or an unregulated UK principal, there should not be any UK regulatory capital 
+requirements.
+The SFA would need to be informed in advance of our intention to have an 
+equity trading capability in London and EEFT's SFA business profile would 
+need to be extended to cover both arranging and dealing as agent in respect 
+of equities.
+Transaction Reporting 
+As the business would be SFA regulated per the above, SFA Rule 5-49 would 
+require all transactions to be "Transaction Reported" - for pure cash equity 
+business (wherever the equities are listed) this would be accomplished by 
+computer-entry of trade details which would then download to one of the 
+London Stock Exchange's ("LSE's") systems known as either "SEQUAL" or 
+"CHECKING".
+The purpose of such reporting  is not only to enable the LSE and SFA to 
+establish daily market volumes, etc.,  but also, for example, to provide the 
+relevant information to the LSE's surveillance unit which actively monitors 
+all trades for signs of Insider Dealing.
+Systems' impact 
+On the above structure, there should be no extra systems' requirements, 
+except:-
+PC screens for the traders having feeds of market quotes / market 
+information (e.g., Reuters, Telerate, etc):
+potentially a computer-link for settlement purposes
+a computer-link for the Transaction Reporting of executed deals to the LSE 
+(see above)
+a computer-link to produce exception reports of executed deals to enable a 
+Compliance Department to monitor for Disclosable Interests in Shares (see 
+below) 
+a computer-link to produce reports of executed deals for monitoring against 
+the Watch and Restricted Lists (see Insider Dealing below)
+Accountants, e.g., Arthur Andersen, would be the best placed to advise on the 
+correct form of computer-links, especially those for Transaction Reporting 
+purposes.
+Disclosure of Interests in shares 
+Re UK listed companies there are the following disclosures to be made of 
+equity interests:-
+S. 198 Companies Act '85 - acquisition of 3 % interest or more, or disposal 
+to below a 3% interest, or acquisition of each whole % above a 3% interest of 
+a UK Public Co's voting capital requires to be disclosed to the company Group interests / concert party interests are aggregated to arrive at the 
+thresholds and "interest" includes a right or option to acquire shares.
+Substantial Acquisition Rules - acquisition of over 15% interest in a UK 
+public company requires separate disclosure to the Company and, if listed, to 
+the LSE.
+Rule 9 Takeover Code - acquisition of 30 % or more of UK public company's 
+voting shares leads to a requirement to make a cash offer for the remainder.
+S. 212 Companies Act '85 - UK public companies can request at any time an 
+entity to disclose to the company particulars of their, and other persons interests in the company's share capital, including such details for the last 
+three years.
+Rule 8.3 Takeover Code - during an "offer period" relating to a UK public 
+company (and the offer is a "securities exchange offer"), persons owning or 
+controlling directly or indirectly 1% or more of relevant securities of that 
+company (including cash-settled derivatives) must disclose such interests to 
+the Take-Over Panel.
+Please note that there may be similar rules in other jurisdictions, depending 
+on where the relevant equities are listed - indeed in some jurisdictions 
+there may be  prohibitions on foreign ownership of equities. 
+Insider Dealing 
+Looking just to the UK legislation (The Criminal Justice Act 1993), the 
+various criminal offences of Insider Dealing are committed, basically, when 
+an individual has Inside Information (meaning unpublished price-sensitive 
+information) concerning the securities of an entity or entities (whether UK 
+or non-UK) which are officially listed in any State within the European 
+Economic Area or admitted to dealing, or quoted, on a "Regulated Market" 
+(e.g., including the major European markets, NASDAQ, etc).  Please note that 
+"price-sensitive"  means likely to have a significant effect on the price of 
+any securities - not just those of the entity or entities in respect of which 
+one has the knowledge; and "securities" includes shares, debentures, options 
+to subscribe for shares / debentures, depository receipts, futures and CFDs Once in knowledgeable possession of insider information, the offences are 
+commited if one deals in price-affected securities in relation to  that 
+information, or encourages another to so deal or discloses the information The offence is punishable by imprisonment and / or fines.
+The offences are highly technical and there are certain defences 
+available 
+The manner in which to try to prevent the internal commission of the offences 
+is to put in place, simply, "established and effective" Chinese Walls between 
+those individuals who would be involved in the Equity Trading facility and 
+others in within the Enron Group who may have such inside information, to 
+prevent the potential flows of Inside Information between those with such 
+information and the Equity Traders in London.  Both I and Slaughter & May 
+feel that potentially replicating in London the Enron Chinese Wall  policy 
+actively followed in Houston could suffice in this respect as it is generally 
+felt that the US requirements should be at least as stringent as those 
+required in the UK.  Alan Aronowitz is in the process of  sending me 
+Houston's policy in this regard for review and upon receipt that policy will 
+be reviewed accordingly.
+However, the relevant Chinese Walls would need to be put in place for Insider 
+Dealing purposes between, in my and Slaughters' views, (a) on the one side, 
+the Equity Traders and (b) on the other side, originators and traders, and 
+persons involved in any corporate finance, M&A, Joint Venture, and financing  
+activity 
+Not only would the Chinese Walls need to be implemented, but also they would 
+need to be actively monitored by a Compliance Department in London to ensure 
+that they were being observed and effective.
+In addition to the Houston Chinese Wall policy, there should be implemented 
+both a "Watch List" and a "Restricted List" procedure (I understand the 
+latter already exists and would need to be combined with additions to such 
+list in London ) - the Watch List does not actively prevent trading in 
+relevant securities, but is an intermediate step before a stock is placed on 
+the Restricted List: i.e., companies in which Enron is involved in sensitive 
+transactions would be placed on such a list and an internal Compliance 
+Department should then actively monitor for any unusual deals by the Equity 
+Traders (e.g., by volume etc) in stocks of the Companies on  such list.  If 
+any irregular trading activity is then spotted - it could be internally 
+investigated.  Obviously, an internal procedure would need to be established 
+to gather information on sensitive transactions so that they could be placed 
+on the Watch / Restricted Lists as appropriate.
+Other Confidential Information
+In addition to any specific Insider Information, various Enron Group entities 
+will be party to specific Confidentiality Agreements (or other forms of 
+Agreement, e.g., Master Agreements, containing confidentiality clauses) with 
+third parties, pursuant to which the Enron entities may have confidentiality 
+obligations to those third parties and which may prevent the contracting 
+Enron entities from disclosing certain information to affiliated Enron 
+entities.
+Obviously, in order to comply with our various obligations in this regard we 
+would need either to check each contract or ensure that Enron personnel were 
+aware of their obligations in this regard and never disclosed to the London 
+Equity traders any information covered by the confidentiality obligations The Watch List could be used to log, for monitoring purposes, companies to 
+whom Enron owes confidentiality obligations 
+Both with regard to Insider Information and this form of confidential 
+information, employees would need to be actively trained to ensure that only 
+generally available market sentiment on a third party could be passed on to 
+the London Equity traders and not more specific information 
+Compliance Department 
+If this proposal moves ahead, my suggestion is that Enron in London would 
+need to hire an experienced  Compliance professional for the following 
+purposes:-
+active implementation of, review of, and consistent monitoring of, the 
+Chinese Wall policy;
+active monitoring of executed deals against Watch and Restricted Lists;
+active monitoring of executed deals for Disclosable Interests in Shares in 
+the UK and similar rules and prohibitions in other jurisdictions;
+handling SFA and  LSE queries on Transaction Reporting; 
+handling potential LSE and Takeover Panel queries on executed Transactions; 
+and
+running continuous training courses for Enron personnel on Insider Dealing, 
+confidentiality obligations, etc 
+In addition, such person could have responsibility for the implementation of, 
+monitoring of, and ensuring compliance with, SFA Conduct of Business Rules 
+and Moneylaundering compliance, and any relevant exchange rules, firm-wide in 
+London across all of Enron's business - e.g., its OTC Derivatives' 
+business Kind  
+Mark  
+Mark Elliott
+02/05/99 04:15 AM
+Further to my Questionnaire to Maureen Bartlett at Cadwalader on the 
+applicability of U.S. securities' laws in the context of a London Equities' 
+Desk, I received Maureen's responses in a lengthy telephone call yesterday 
+afternoon.  I shall only comment where according to Maureen we shall have to 
+be mindful of an issue - where I do not comment, Maureen said the answer to 
+the Question was "no" (i.e., good news for us).  Hence, Maureen's advice:-
+Q 6 - Generally, ECTII would only bear responsibility to US regulatory 
+authorities for EEFT's acts and omissions if ECTII was a "knowing 
+co-conspirator" in an EEFT act or omission which violated US securities' 
+laws.  EEFT would not have any responsibility for its acts and omissions to 
+any US regulatory authority.  EEFT would not have any responsibility to US 
+regulatory authorities for any acts or omissions of ECTII except again only 
+to the extent that it may have colluded with ECTII.  The only exceptions to 
+these positions are set out below 
+Q 7 - U.S. disclosure requirements re interests in equities - where initially 
+EEFT acts as pure arranger without any discretion for ECTII (i.e., pure 
+execution-only facility in London), the U.S. disclosure requirements will be 
+down to ECTII to comply with (as the principal).  This will still be the case 
+if EEFT moves to having agency authority (i.e., having discretion) to book 
+trades to ECTII - the only difference here is that there will need to be 
+extra careful monitoring to ensure that EEFT does not do a deal in a stock 
+out of London which, when aggregated with other Enron Group interests in that 
+stock, take us over a disclosable amount (e.g., under s 13d SEA '34, a 5 holding of a stock registered under s 12 SEA '34; and 10 % under s 16a SEA 
+'34).  This will mean that we shall need extra careful use and monitoring of 
+Watch and Restricted Lists between London and Houston and may be London 
+having a policy preventing acquisition by the London desk of a large block of 
+stock (to be defined) in any U.S. entity without Houston's consent.
+Q 8 + Q 9 - U.S. Insider Dealing laws apply to (a) stock of U.S. issuers and 
+(b) stock of non-U.S. issuers listed in the U.S..  EEFT would not be liable 
+under U.S. Insider Dealing laws unless it knew that it had price-sensitive 
+information (as defined under U.S. laws) and dealt in either (a) or (b) or 
+encouraged another to deal, etc.  ECTII  would not be liable vicariously to 
+the US authorities for EEFT in this respect - ECTII would have to have 
+committed the offence itself, e.g. by having the knowledge then dealing etc 
+or colluding with EEFT.  Vice versa applies re ECTII - EEFT.  Basically this 
+comes down, once again, to having adequate. and well monitored Chinese Walls, 
+procedures, education of staff re what they can and cannot do etc.  As well 
+as other Chinese Walls, obviously ECTII staff would not be able to pass 
+price-sensitive information which is not publicly known to EEFT staff and 
+vice versa.
+Q 10 + 11 - Re Reg S new issues.  As ECTII would be the principal and is in 
+the US, not only is ECTII directly prevented from buying a Reg S offering 
+within the lock-out period but so would EEFT as ECTII's arranger / agent.  If 
+EEFT purchased a Reg S offering within the lock-out period, ECTII would have 
+broken the rules.  Obviously this would have to go into the compliance manual 
+governing EEFT's conduct and again London trading would need to be actively 
+monitored for compliance.
+I still firmly believe that there is nothing in the above advice which makes 
+a London equities' facility for Houston legally and technically difficult it comes down to Chinese Walls, policies and procedures and active daily 
+monitoring by a compliance department of the activities of the London desk.
+Maureen will shortly be sending me her written confirmation of the advice 
+which she gave me over the telephone.
+Kind  
+Mark 
+Had a lengthy call with Milbank on Friday and another scheduled for this 
+afternoon at 4:00 to find out how they're doing.
+Andy Zipper@
+11/01/2000 08:04 AM
+how is contract coming ?
+I should be around all week - let me know what works for you.
+Sami Arap@
+11/01/2000 09:17 AM
+Mark;
+Thanks for the response.  I just got back from New York this morning and we 
+are about to go into a catholic long weekend.  Can we talk about this next 
+Monday ?!  I need to update you about these power marketing deals in Colombia 
+& Venezuela, as well as Brazil and Argentina, and EOL.
+Rgds,
+Sami
+Sami - apologies for not getting back to you - it's been a crazy week or 
+two.  Can we talk early next week?
+Sami Arap@
+10/24/2000 12:55 PM
+Sami Arap
+10/18/2000 05:43 PM
+Mark;
+As per Randy Young's request, I need to discuss the trading deals in Brazil, 
+Colombia and Venezuela asap.  Please let me know if you will be available 
+tomorrow or Friday.
+Tks,
+Sami
+Pedro Fernando Manrique@_DEVELOPMENT
+10/18/2000 11:38 AM
+Sami,
+Estoy preparando un paquete completo, una vez lo tenga listo te lo envio. Sin 
+embargo los deals que tenemos son:
+Exportaci?n a Cadafe (Venezuela) con un back-to-back con EBSA (Empresa de 
+Energ?a de Boyaca)
+Emcali-Enron-Chivor, intermediaci?n de credito con una opci?n adicional de 10 
+GWh-mes
+Compra a ISAGEN de 15 GWh-mes 50% Take or Pay and 50% Take and Pay.
+Alianza con Chivor para el mercado no regulado.
+Los m?s urgentes son la Venta a Emcali y la Compra a ISAGEN, sin embargo los 
+terminos de las ofertas de EBSA para la venta a Cadafe se vencen el 28 de 
+Octubre y tenemos que definir algo al respecto. En el curso del d?a te 
+estamos enviado copia de todas las ofertas y documentos preparados. Ayer 
+estuvimos reunidos con Clara Ines Guarin, socia de Figueroa Sierra Asociados 
+revisando el contrato borrador de Emcali-Chivor.
+Cualquier duda o pregunta por favor no dudes en dejarmelo saber.
+Gracias,
+PFM
+Sami Arap@
+10/17/2000 04:04 PM
+Pedro;
+Me pod,s mandar copia de los e-mails y materiales/documentos con respecto a 
+las transacciones que Uds estan buscando negociar en Colombia 
+Gracias y un abrazo,
+Sami
+Andrea Bertone@
+08/15/2000 10:45 AM
+Mark: Attached is the legal opinion from outside counsel. Sorry, I guess I 
+sent it to the wrong e-mail address. 
+Andrea Bertone
+06/16/2000 03:21 PM
+Team:
+Attached is the last version of the memorandum from Pinheiro Neto addressing 
+the questionnaire prepared by Mark Taylor. I suggest that we all take a look 
+at it and identify questions and areas that we would like PN to expand or 
+further explain. We could then schedule a conference call to share our 
+thoughts and define next steps. I will be out of the office Monday through 
+Wednesday next week. Thursday and Friday are holidays in Brazil. Please let 
+me know how your schedule looks like from the 26th on so we can schedule 
+something. Thanks.
+Andrea Bertone@
+08/15/2000 10:43 AM
+Mark: 
+Implementation of the EOL project in Brazil had been postponed for a while 
+because of regulatory matters. The Market Rules were still being discussed 
+and had not been approved by ANEEL, making it impossible for us to implement 
+EOL, from a regulatory standpoint. Recently (about a couple of weeks ago ANEEL issued Resolution 290/00, approving the Market Rules, subject to 
+certain amendments. The amendments will be implemented in stages over the 
+course of the next few years. After Resolution 290 was issued and the 
+regulatory issues were partially resolved, the EOL team decided to work on 
+the project again. I am now in the course of adapting the ETA, GTC and 
+Password Application for use in Brazil. I will probably have drafts for 
+comments within the next 10 days. I am not sure about the time estimate for 
+completion of the project as a whole. I believe Remi can give you a better 
+idea of the schedule.
+I will forward to you in a separate e-mail the legal opinion that we received 
+from outside counsel, addressing the issues in the memo prepared by your 
+team. Also, I take the opportunity to let you know that I am leaving Enron by 
+the end of August. From September on, the contact people for the EOL project 
+will be Remi and Ricardo on the commercial side, and Sami Arap on the legal. 
+In the meantime, please feel free to contact me if I can be of any further 
+assistance.
+Andrea
+Any progress on the EnronOnline front?  I'm getting questions from the EOL 
+team in Houston as to our time estimate to completion and wondered if you had 
+heard back from outside counsel.
+Andrea Bertone@
+06/16/2000 12:21 PM
+Team:
+Attached is the last version of the memorandum from Pinheiro Neto addressing 
+the questionnaire prepared by Mark Taylor. I suggest that we all take a look 
+at it and identify questions and areas that we would like PN to expand or 
+further explain. We could then schedule a conference call to share our 
+thoughts and define next steps. I will be out of the office Monday through 
+Wednesday next week. Thursday and Friday are holidays in Brazil. Please let 
+me know how your schedule looks like from the 26th on so we can schedule 
+something. Thanks.
+Mark A Taylor@EES
+11/02/2000 02:45 PM
+yours?
+Michael Guerriero@
+11/02/2000 03:25 PM
+To keep you briefed. The local Derivatives company may be easier than we 
+thought.
+MFG 
+Bernardo Andrews
+11/02/2000 04:23 PM
+I have met with Gustavo Mengui, one of the most active representatives of ADA 
+today.
+My findings are the following:
+ADA is very active and taking a leading role on the NETTING ISSUE. Good news 
+is that they consider that they will be able to pass a law that redifines 
+netting on the bankrupcy law by year end. They assume that they will have 
+"media sanci?n" before mid December. Media sanci?n is basically having 
+approval by one of the chambers (Diputados) and a strong support to going to 
+the Senators Chamber shortly after. We will receive the law project today. 
+The law project was designed by Hector Alegria. Gustavo assumes that they 
+will be available to talking with our legal team upon request.
+They have received from the Central Bank a request to propose all necessary 
+changes in the regulations so as to have the (interest rate mainly) 
+derivatives market going asap. This shows a fertile ground on this 
+institution for our future conversations. 
+On the CNV's side, he stated that the porject of law (on netting) was 
+actively supported by this body. ACtually, he commented that CNV officials 
+were active speakers when this matter was treated in the commission session 
+at Congress.
+ADA is working with PWC on the tax issues. ADA and PWC are preparing to 
+present the government officials their proposal for the Ingresos Brutos 
+treatment of derivatives in the City of Buenos Aires (makes me think that we 
+have been talking to the right guys these last days).
+Gustavo was crystal clear that, although they have been supported and funded 
+by banks, they are a Foundation and they are open to working with Enron. He 
+insisted that he does not expect conflict of interest to arise and that the 
+energy sector is strategical for them, specially considering the recent 
+evolution in financial energy trading.
+There will be some issues regarding the support ADA will give to the Rofex 
+effort of creating an energy market. The OTC versus the formal exchange issue 
+is to be addressed.
+ADA is willing to work with us on the future and we might have to do some 
+follow up meetings to get this type of news earlier.
+My personal opinion is that we might like to go ahead with our conversations 
+with regulators and officials but I doubt whether we should go with ADA or 
+not. There are various pros and cons.
+Lets talk for 5 minutes,
+Bernardo
+FYI
+Debbie R Brackett
+11/02/2000 06:26 PM
+I discussed with Mark .....since eratings are based on proprietary info we 
+have received, Chinese wall must stand. 
+Sorry 
+Debbie
+Tomas Valnek
+11/01/2000 08:33 AM
+Debbie
+I am aware there is information that EnronCredit is not allowed to see. 
+However as far as I can tell, the RAC website contains other counterparty 
+information like E-ratings that we are allowed to see, and it is that 
+information that I would like to get access to.
+Tomas
+Tomas,
+EnronCredit.com is prohibited from access to counterparty trade positions per 
+instructions from legal. That, in short, means you can't see counterparty 
+exposures, or CAS. Bryan asked earlier this year for him and Markus and we 
+had to give them the same response.
+As to access to the RAC site, you should have general access to public data. 
+I'll have to check with Mark Taylor about your access to other info. 
+Debbie
+Tomas Valnek
+11/01/2000 04:28 AM
+Any luck!?
+TV
+Tomas Valnek
+26/10/2000 17:08
+Debbie/David
+Would it be possible for my group and myself to get logins to the RAC 
+intranet site and trader view of CAS.
+Many thanks
+Tomas
+Looks good to me.  Brent is the only other lawyer out that day.
+Sara Shackleton
+11/02/2000 05:18 PM
+I would like to take Friday, Dec. 8 as a vacation day.  Please advise of any 
+conflicts.  Sara
+Jefflowney@aol.com
+10/24/2000 10:32 AM
+- ENRON 062000 GTC CLEAN.doc
+Jefflowney@aol.com
+10/09/2000 01:26 PM
+Mark,
+Enclosed is the redlined version of our General Terms, as well as the final
+Agreement Jason Peters agreed to.  As the earlier e-mail states, we developed
+our "Counterparty Management" program to satisfy concerns ENA voiced
+After reviewing the attached documents you should find everything in order
+for ENA to execute and return the General Terms Agreements.
+I am available at your earliest convenience to discuss any questions
+regarding the afore mentioned.  Thank you for your time in reviewing these
+documents.
+Sincerely,
+Jeffery C. Lowney
+Vice President
+EnergyGateway.com
+(281) 296-7272
+- enron.zip
+Edmund:
+Have we submitted these forms for any new companies being formed?
+Deb Korkmas
+02/08/99 02:32 PM
+Mark, here is blank authorization memo for LLC.  Sorry for the other one.  Deb
+Carol:
+Thanks for your note and glad to hear you are all doing well.  I'd love to 
+have lunch - let's do it on the 21st (I'm out of town the earlier dates and 
+the 22nd is the day before Thanksgiving).  We do have a lot to catch up on 
+(EGFinance changes, new hires for the group, new internal lawyers for the 
+group, office space issues) - I haven't wanted to bother you at home but 
+things are definitely moving around here - as usual I guess.
+Mark
+I enjoyed it too - actually it's just as well that I was carted off when I 
+was - I was sound asleep by 8:30 and still feel the affects.
+It looks to me like another case of an obvious error (i.e. the counterparty 
+should have known it was a mistake).  I'm afraid we've just been lucky that 
+the numbers have been so far off - some day we're going to have one that is 
+too close to call obvious.
+Torrey Moorer
+11/06/2000 11:38 AM
+I've reviewed the PG&E trade in question again and the spread value is 
+actually $4.62, rather than $9. Given the fact that a typical spread trade 
+for Nat Gas is aroung 5 or 6 cents, I know that this correction is not much 
+of a consolation, but I wanted to clarify the pricing nonetheless.
+Deal Number Q75763.1, .2
+Leg 1 = 9.38
+Leg 2 = 4.76
+Spread valueon trade = 4.62
+Torrey
+Mark Haedicke is on the left, Mark Frevert (Chairman of the wholesale markets 
+subsidiaries) on the right.
+Yours truly, et al
+My changes marked.
+Please use the PEP system on your computer to suggest reviewers by the end of 
+the day tomorrow at the latest.  It is important that your reviewers have 
+enough time to fill out the reviews and the system closes for that purpose at 
+the end of next week.  If you have any questions or are having trouble 
+accessing the system, please let me know.
+Here is the MEH e-mail I mentioned
+Mark E Haedicke
+10/20/2000 10:56 AM
+I would like to do fewer resolutions authorizing non-vps to sign contracts, 
+and when we need such authorizations, let's make sure the resolutions are 
+appropriately limited.  My thoughts are as follows:
+1.   We have a lot of vps that can sign contracts.
+2.   It is generally ok to have confirmations signed by certain carefully 
+selected directors since we are confirming a trade that already took place 
+and there is master agreement already signed.
+3.   There are certain very routine agreements like pipeline right-of-way 
+agreements that are ok for carefully selected directors to sign.
+4.   Confidentiality agreements should be signed by a vp.
+5.   Any authorization for a director to sign should expire within not more 
+than one year and revoke all prior authorizations.
+Please give me your comments.
+Mark 
+My comments are marked on the attached.
+Andrew Wilson@
+11/07/2000 02:40 PM
+Tom,
+I have talked with Rodney Malcolm and several originators and they need two 
+financial swap term sheets, one for Enron paying fixed and one for Enron 
+paying floating. To this end, I have revised our generic document and created 
+two new documents. Could you review each of these, and if they meet with your 
+approval, please forward them back to me. Thanks.
+--Andrew
+Bob didn't make it to the meeting but did leave a voice mail suggesting that 
+rather than creating a separate GTC for the brokers we refer to the GTCs 
+already online for regular customers and have them agree to be responsible 
+for the liquidated damages that would be calculated under those terms if the 
+deal falls through.
+RLawrence@milbank.com
+11/08/2000 02:07 PM
+Mark, 
+Just checking in on your conversation with Bob Schults (sp?).? If there is 
+any news, please let me know.? I will be back in DC tomorrow, leaving SF 
+about 3 p.m. today.? I am working on an "as soon as possible" assumption, but 
+it will still be a few days before I have useful drafts for you to review But hopefully we are beyond the question phase.
+Thanks, 
+Bob 
+Bob: 
+Here is a powerpoint presentation that may give you a bit of a feel for the 
+site and actually has a couple of slides on the submission screens that 
+will show areas not accessible with a guest user ID. 
+Mark 
+(See attached file: EOL1000.ppt) 
+Thanks David - these are fine.
+David Minns@_DEVELOPMENT
+11/08/2000 10:36 PM
+Legal Mark following on from Paul Smith's email attached  are the revised 
+GTCs.  I am advised your signoff is required prior to them being loaded into 
+EOL . Essentially they are the previous HDD and CDD "Australian weather swaps 
+GTCs. Each GTC has been amended slightly so it may be used for a product  
+where the weather observations are derived from a source other than the 
+Australian Bureau of Meteorology. I have reviewed the GTCs and confirm they 
+are acceptable.
+Would you please signify your concurrence by email 
+Tax I have seen a response from PWC yesterday that appeared satisfactory. 
+Perhaps Susan or Heidi can confirm this  to Jeff who I understand also needs 
+to give his signoff.
+Dale attached are the final product descriptions.  Please call me if you have 
+any questions.
+All,
+Hong Kong Weather products will be launched on EOL Tuesday 14th November in 
+Hong Kong.
+Current status is:
+Legal:  GTC's are final and with David Minns / Mark Taylor for sign-off. This 
+sign-off should be completed by 10am Thursday (Houston time)   in order for 
+the GTC's to be loaded by Tuesday (Sydney time);
+Long Form descriptions are undergoing last adjustments today (DM), and will 
+be forwarded tonight for signoff;
+Tax:  PWC has been asked for more specific advise on some issues. DM / HM 
+following up. These issues will not stop the launch;
+Risk:  HK weather data is with RAC now for calculating sigma's. AF has USD 
+MTM weather book running;
+Marketing: No marketing has been undertaken yet, and will not be prior to the 
+launch - partially pending PWC advice;
+Technical: DN has set the products up in test environment. I will go through 
+these tomorrow with Dale;
+Credit:  We are not soliciting any new counterparties for the launch;
+Data:  CW and JZ have completed data cleaning and analysis. RY is pricing;
+We will require signoff from Rudi, Tom, Mark & Jeff to transfer the products 
+to production, and we would like to do this before this weeks out. We want to 
+have products loaded and priced in production Monday afternoon (Sydney time If there are any other issues that I have missed, or incorrectly stated, 
+please reply by Friday morning (Sydney time) to allow time to address them.
+,
+Paul
+How about 2:00?
+Suzanne Adams
+02/10/99 10:20 AM
+Carol would like to get on your schedule for 30 minutes tomorrow.  She just 
+has a meeting in the morning and then she's free.  What would be a good time 
+for you 
+Thanks for your concern but please don't worry about it.  I was able to get a 
+lot accomplished since I was already here and the phones weren't ringing so 
+it was a productive morning for me in any event.  I don't think I'm available 
+for any of the remaining Saturdays this year but I'll give it another shot 
+next time.
+Charlene Jackson@
+11/08/2000 07:31 PM
+Mark,
+I want to apologize once again for having you come out on Saturday morning to 
+help with interviews and find out that you were not needed.  I appreciate 
+your support and cooperation and on behalf of the Associate and Analyst 
+Programs would like to give you a shirt  to demonstrate such.  Please let me 
+know what size you wear.  You will have to guard this shirt with your life 
+because many interviewers have been asking for them and we have not been 
+giving them out 
+Again, I am sorry for any inconvenience we caused you and promise not to let 
+it happen again.
+Thanks for your continued support. 
+Charlene Jackson
+Greg - looks good to me on the legal procedures.  My only comments would be 
+(i) that I'm not sure that the confirm desk generates deal tickets (I thought 
+they were prepared by the commercial guys) and (ii) we usually don't have the 
+commercial guys sign confirms as a control matter, even when it's an unusual 
+matter.  I agree about Tana.
+Mark
+Greg Johnston
+11/06/2000 02:34 PM
+Mark, as discussed here is a draft of my proposed e-mail for your review Please let me know if it accurately reflects our understanding and I will 
+then send it out to everyone.  I really think that having Tana come up for a 
+few days as soon as she can would be very helpful for Linda and Sharon.
+Thanks
+Greg
+Greg Johnston
+11/06/2000 11:53 AM
+Further to a discussion with Mark Taylor, I wanted to confirm our collective 
+understanding/proposal regarding the legal procedures associated with the 
+financial trading process in Canada.  As you are all aware, all financial 
+confirms for Enron Canada are now generated and distributed by the confirm 
+desk in Calgary.  However, it seems that there has been some confusion 
+relating to the legal procedures associated with this process.
+In short, I believe that everyone is in agreement that the legal process 
+regarding Canadian financial confirms will be basically the same as for 
+Canadian physical confirms.  That is, as is currently the process for 
+physical deals, the Canadian confirm desk will generate all deal tickets and, 
+to the extent that the financial transactions are straight forward, will 
+generate, have executed and distribute to counterparties the confirmation 
+letters, with no involvement of the legal department.  However, for any 
+financial transactions that are out of the ordinary or contain special terms 
+(as well as amendments), just as with physical transactions, the confirm desk 
+will generate the deal ticket and provide it to Linda or Sharon in Calgary Linda and Sharon will then prepare the draft financial confirm based upon the 
+deal tickets, which will be reviewed and approved by either myself or Mark 
+Powell.  Once approved, the confirm will be initialed by the reviewing 
+lawyer, checked for credit and sent to the commercial person to review, 
+approve and have executed.  The executed confirm will then be returned to 
+either Linda or Sharon, who will attend to distributing it to the 
+counterparty.  Again, this will only be required for transactions which are 
+out of the ordinary.
+With respect to negotiating and implementing, and addressing ongoing legal 
+concerns with respect to, ISDAs on behalf of Enron Canada, Mark Taylor's 
+group, and I understand specifically Mary Cook, will continue to have 
+responsibility for such matters.  Therefore, to the extent that we need to 
+put an ISDA in place with a counterparty or if a counterparty has legal 
+concerns about the implementation of the ISDA, the process will be the same 
+as it has been in the past, meaning that those matters will be dealt with in 
+Houston.
+Given that Linda and Sharon will now have responsibility for preparing 
+initial drafts of atypical financial confirmations, I think it is essential 
+that Tana spend a few days in Calgary as soon as her schedule permits to run 
+each of Sharon and Linda (as well as perhaps some of the people in Peggy's 
+group who will be dealing with financial confirmation matters) through her 
+ISDA training course and to help Linda and Sharon set up the process in our 
+legal group to deal with these matters.  As well, we will need to ensure that 
+Linda and Sharon receive (either from Houston or Dianne) electronic versions 
+of all confirmation precedents (ie. confirm forms, amendment forms, etc necessary for them to properly undertake these activities.
+If anyone has any questions or concerns regarding the above, please do not 
+hesitate to contact me.  Otherwise, I think we should implement these 
+procedures as soon as possible, including having Tana join us for a few crisp 
+winter days in Calgary.
+Thanks
+Greg
+Yes, I was on the call.
+Janette Elbertson
+11/10/2000 08:41 AM
+Mark:
+Mark wanted me to see if you can do this call today.
+Janette Elbertson
+Scott Marra  	11/09/2000 01:59 PM
+Our next conference call will be held this Friday, November 10th at
+10:00 a.m. New York time.  If you wish to participate, please call
+888-904-9318 and give passcode "US REG" and leader is Stacy Carey.
+Nothing has changed - we are looking forward to having you work with us as 
+soon as possible and to the extent possible within your other constraints.
+Francisco Pinto Leite@_DEVELOPMENT
+11/09/2000 07:08 PM
+Mark:
+I just wanted to check whether or not I was already fired before being hired 
+as a result of this latest reorg 
+On a more serious note, I just wanted to confirm that the latest reorg did 
+not change what we agreed yesterday.
+Many thanks
+FPL
+Just a quick note to give you as much warning as possible.  The current phase 
+of the office construction process is almost finished.  We have been given a 
+completion date when (we hope) your new office will be ready of Monday, 
+November 20.  Your assistants can help you order boxes and arrange your move.
+Just a quick note to give you as much warning as possible.  The current phase 
+of the office construction project is almost finished (we have been given a 
+completion date of Monday, November 20).  There is good news and bad news First the bad: the office which you currently occupy will be in the next 
+construction phase which will begin as soon as possible after the current 
+phase is finished.    Now the good:  we have an office for you to sit in 
+until your new office is ready.  Joya Davis has submitted the move request 
+and will have details directly.  Your assistants can help you order boxes and 
+arrange your move.
+This issue was much easier when all we traded were energy commodities,=20
+interest rates and currencies. The older versions of the policy provided that=20
+no Enron employee may trade any energy commodity for the account of anyone=20
+other than Enron.  Beyond that, no Enron employee could trade a commodity=20
+which was within their area of responsibility.  For example, I was not=20
+permitted to trade natural gas futures for my own account but, since interest=20
+rates and currencies are not within my area of responsibility, I could trade=20
+them.  As the scope of our trading activities expanded it became more=20
+difficult to identify the scope of the company's concern, much less to=20
+articulate it.  We did however take a stab at it and the result is below. =20
+This may be an area which could stand some clarification in the next version=20
+of the Policy. =20
+For now, I would suggest that the term "security" highlighted below should be=20
+read to include equities and therefore not one of the commodities covered in=20
+the second numbered clause (i.e. the word "other" refers to items other than=20
+those listed in clause (i)).  The result is that an Enron employee who does=20
+not trade financial instruments, securities, financial assets or liabilities=20
+for Enron may trade them for his or her own personal account.  To take this a=20
+step further, one could argue that an employee who trades the equities of=20
+energy companies for Enron should not trade energy company equities for his=20
+or her own account but could trade other equities - if it were me, I would=20
+certainly make sure that Ted Murphy agreed with my analysis before I did it. =20
+Of course, a wide variety of commodities remain clearly off limits for=20
+personal trading - metals, ag commodities, bandwidth, freight, lumber, among=20
+many others - for all employees.  As I remember it, this was done purposely=20
+and if anyone disagrees with the scope of the policy they would be wise to=20
+discuss the matter with the RAC Group as they make suggestions for Policy=20
+revisions to the Enron Corp. board.
+Employee Trading.  No employee of any Enron Business Unit may engage in the=20
+trading of any Position for the benefit of any party other than an Enron=20
+Business Unit (whether for their own account or for the account of any third=20
+party) where such Position relates to (i) any financial instrument, security,=20
+financial asset or liability which falls within such employee=01,s=20
+responsibility at an Enron Business Unit or (ii) any other commodity,=20
+included in any Commodity Group.
+=09Cassandra Schultz@
+=0911/08/2000 08:32 AM
+=09=09=20
+Mark - would you please clarify this issue for us?
+Thank you,
+Cassandra Schultz.
+David Redmond@ECT
+11/08/2000 03:05 AM
+Cassandra,
+Richard asked me to review this document before the traders on the UK Gas=20
+Desk would sign it.
+The UK gas desk adheres to all the risk management requirements of this=20
+document. However, in Section VII , Miscellaneous, Employee Trading, the=20
+document would appear to prevent any of us trading equities (amongst other=20
+commodities) on our personal account as Equity Trading is a Commodity Group.=20
+We are unsure if this is the aim of this agreement.
+We have asked our compliance officer, Paul Simons to clarify the impact of=20
+this clause for us.
+We are not ignoring the document, we are waiting for clarification.
+Thank you,
+David Redmond
+I accept the terms and conditions of this Pilot Participant Agreement
+ClickAtHomePilot2
+Sent by: Suzanne Brown
+11/03/2000 11:30 AM
+Thank you for an overwhelming response to participate in ClickAtHome's Second 
+Pilot.    For those of you who have signed up, we are excited to have you in 
+this pilot.  We look forward to you testing our process and services and 
+giving us feedback!
+In order to be eligible for Pilot 2, please read and agree to the Pilot 
+Participant Agreement and then respond to the ClickAtHomePilot2@ 
+email box with the following statement:    "I accept the terms and conditions 
+of this Pilot Participant Agreement." with the Pilot agreement attached.
+Once we have received your acceptance,  you will be eligible and confirmed 
+for Pilot 2.
+Those who are confirmed for Pilot 2 will receive an email the week of 
+November 13th on how and when they can access the ordering website.  Until 
+that point,  the website will not be accessible.
+Employees will have great options under this program for computers, 
+peripherals, and Internet connectivity.   Your personal selections will 
+determine your out-of-pocket expense, if any 
+We know you are interested in more details.  However, one of our primary 
+Pilot objectives is to test the communication on the website.  We would like 
+you to review more details about program offerings and related out-of-pocket 
+costs, if any, once the pilot website is available.  After agreeing to the 
+Pilot Participants Agreement and reviewing these materials on the website, 
+you may choose to defer ordering until the All Employee roll-out in early 
+2001 if you wish.
+Please send any questions to the clickathomepilot2@ mailbox.
+Thanks!
+I think your "final" office changed when your group changed - the East 
+Origination/Gas Trading Group is in the southeast quadrant of the floor and 
+they have given you 3882, just  four doors down the hall from where I am 
+now.  The construction workers are gone for the day if you want to stop by 
+and see it.
+Kay Mann@
+11/10/2000 03:07 PM
+Hi Mark,
+I thought I was in my "final" office.  Where am I moving?
+Kay
+Just a quick note to give you as much warning as possible.  The current phase 
+of the office construction process is almost finished.  We have been given a 
+completion date when (we hope) your new office will be ready of Monday, 
+November 20.  Your assistants can help you order boxes and arrange your move.
+Tana Jones
+11/10/2000 02:22 PM
+Marie Heard@MUNICATIONS
+11/10/2000 02:15 PM
+Marie Heard
+Senior Legal Specialist
+Enron Broadband Services
+Phone:  (713) 853-3907
+Fax:  (713) 646-8537
+Marie_Heard@.net
+Anne_Heard@ryderscott.com
+11/10/00 01:25 PM
+Official Florida Ballot
+This e-mail message is intended only for the use of the individuals or
+entities to which it is addressed and may contain information that is
+privileged and/or confidential. If the reader of this message is not the
+intended recipient, or the employee or agent responsible for delivering
+the message to the intended recipient, you are hereby notified that any
+disclosure, dissemination, distribution, copying of, or the taking of any
+action in reliance upon the contents of this communication is strictly
+prohibited. If you have received this communication in error, please
+notify us immediately at 713-651-9191. Thank you.
+Looks good to me.
+Janet Dobernecker
+02/09/99 05:01 PM
+Les and I plan to go to Branson, Mo to meet with Les' Dad and StepMom for his 
+birthday on March 5th.  I'll need to take off March 5th and March 8th.  Chris 
+Kuenning will be able to sit at my desk for those two day.  Is this o.k. with 
+everyone?  Please let me know if this is not convenient for any of you.  Jan 
+D.
+Unfortunately I'm already booked for breakfast (which is unusual for me I'm free for lunch though on both days if you are.
+EFeo@milbank.com
+11/10/2000 12:48 PM
+Mark 
+Hudanish says he is at a closing in North Carolina next week. As I recall, 
+you are in NY on Monday and Tuesday.? Any chance we could meet for breakfast 
+on Tuesday?
+Ed Feo 
+________________________________ 
+Edwin F. Feo 
+Milbank, Tweed, Hadley & McCloy LLP 
+601 South Figueroa Street, 30th Floor 
+Los Angeles, CA? 90017 
+efeo@milbank.com 
+(213) 892-4417 - Direct Dial 
+(213) 892-4717 - Direct Fax 
+(213) 629-5063 - General Fax 
+(213) 446-3206 or (310) 968-0670 - Mobile 
+The first market disruption fallback (after a 3 day waiting period) is an 
+"Alternative Price Source" which would need to be spelled out in the long 
+description - but that only works if we have an alternative price source to 
+specify.  It's also important to make sure that the feared event is included 
+in the Market Disruption Event definition.  I think this is the relevant 
+language from the GTC:
+7.  Market Disruption.  If a Market Disruption Event has occurred and is 
+continuing on any Trading Day, the Floating Price for such Trading Day shall 
+be determined pursuant to the Floating Price Source specified in this 
+Transaction for the first Trading Day thereafter on which no Market 
+Disruption Event exists; provided, however, if the Floating Price is not so 
+determined within three Business Days after the first Trading Day on which 
+the Market Disruption Event occurred or existed, then the Floating Price 
+shall be determined by reference to the Alternative Floating Price Source 
+specified in this Transaction, if any, which is not subject to a Market 
+Disruption Event.  If no Alternative Floating Price Source is available or 
+has been specified, and the Market Disruption Event continues for more than 
+three Business Days, then the parties shall negotiate in good faith to agree 
+on a Floating Price (or a method for determining a Floating Price), and if 
+the parties have not so agreed on or before the twelfth Business Day 
+following the first Trading Day on which the Market Disruption Event occurred 
+or existed, then the Floating Price shall be determined in good faith by 
+Enron, by taking the average of two or more dealer quotes. 
+"Market Disruption Event" means, with respect to a Floating Price Source, any 
+of the following events (the existence of which shall be determined in good 
+faith by Enron):  (a) the failure of the Floating Price Source to announce or 
+publish information necessary for determining the Floating Price; (b) the 
+failure of trading to commence or the permanent discontinuation or material 
+suspension of trading in the relevant futures contract, options contract or 
+commodity on the exchange or market (e.g., NYMEX) acting as the Floating 
+Price Source (the "Exchange"); (c) the temporary or permanent discontinuance 
+or unavailability of any relevant Floating Price Source; (d) the temporary or 
+permanent closing of any Exchange acting as the Floating Price Source; (e) 
+the imposition of trading limits by the Exchange such that there are limits 
+on the range within which the price of the relevant commodity may fluctuate 
+in the prompt month and the closing or settlement price of such commodity on 
+such day is at the upper or lower limit of that range; (f) a material change 
+in the formula for or the method of determining the Floating Price; or (g) a 
+material change in the content, composition or constitution of the relevant 
+commodity.
+Greg Johnston
+11/10/2000 12:41 PM
+Further to John's e-mail below, I do not believe that we need to build this 
+type of language for alternative settlement into the long descriptions for 
+financial power products, as both the form of ISDA and the GTC that we use 
+for confirming financial transactions (which contain the legal terms and 
+conditions that will govern Canadian EOL financial power transactions) 
+contain market disruption provisions.  These market disruption provisions 
+provide the mechanism for determining the index price if the referenced price 
+is unavailable or there is a material change in the formula or calculation of 
+the referenced price, etc.  I am just waiting to confirm with Mark Taylor 
+that the on-line form of GTC applicable to financial transactions is the same 
+as for the form used for transactions not entered into through EOL.
+Thanks
+Greg
+John Zufferli
+11/08/2000 08:09 AM
+We should add some language to the EOL power descriptions to include a 
+mechanism for alternative settlement in the event that the power pool price 
+of Alberta becomes defunct.  I won't put any language in regarding market 
+delay though.  My intention is to trade this product whether I have a PPA or 
+not.
+I'm going to be hard to get next week - Monday & Tuesday I'll be in NYC 
+(speaking at a conference), Wed. a.m. in the office and the rest of the week 
+at the management conference.  If it works for you, any time the following 
+week (20, 21 or 22) would be better for me.  If it is urgent, let me know and 
+I will try to break from my meetings during the day on Mon., Tues. afternoon 
+or maybe Wed. (but since that's the only time I'll be in the office all week 
+it's already pretty full).  Just let me know - my assistant (Taffy x57373) 
+can set something up on my calendar if you have a time you want to reserve.
+Lunch on Monday would be great - anything in particular in mind?
+EFeo@milbank.com
+11/10/2000 04:34 PM
+Forget my prior e mail-- how about Monday lunch?? Just received an e mail my 
+meeting that day d/n start until 200 pm. 
+________________________________ 
+Edwin F. Feo 
+Milbank, Tweed, Hadley & McCloy LLP 
+601 South Figueroa Street, 30th Floor 
+Los Angeles, CA? 90017 
+efeo@milbank.com 
+(213) 892-4417 - Direct Dial 
+(213) 892-4717 - Direct Fax 
+(213) 629-5063 - General Fax 
+(213) 446-3206 or (310) 968-0670 - Mobile 
+Unfortunately I'm already booked for breakfast (which is unusual for me I'm free for lunch though on both days if you are. 
+EFeo@milbank  Mark 
+Hudanish says he is at a closing in North Carolina next week. As I recall, 
+you are in NY on Monday and Tuesday.? Any chance we could meet for 
+breakfast on Tuesday? 
+Ed Feo 
+________________________________ 
+Edwin F. Feo 
+Milbank, Tweed, Hadley & McCloy LLP 
+601 South Figueroa Street, 30th Floor 
+Los Angeles, CA? 90017 
+efeo@milbank.com 
+(213) 892-4417 - Direct Dial 
+(213) 892-4717 - Direct Fax 
+(213) 629-5063 - General Fax 
+(213) 446-3206 or (310) 968-0670 - Mobile 
+I'm speaking at a conference in ny again but never got around to making any 
+plans - any chance you're free?
+Hello from Texas.  It's probably been about six years since we last spoke but 
+I thought I'd drop you a line to see how you were doing.  I saw Pete Datos 
+for brunch when I was in town a couple of years ago and he seemed to be fine 
+but I have been very bad about staying in touch with people.  Ted Bockius & I 
+are still together - he works at an internet start-up company doing their 
+public relations work.  I'm still a corporate lawyer at Enron working on 
+financial contracts and e-commerce stuff.  I get to nyc 3 or 4 times a year 
+so we should get together for a drink or a meal some time and catch up.
+Hope you are well.
+Mark
+I'll be at the Peninsula (55th & 5th) (212)956-2888.  I will have my cell 
+phone but no guarantees that the battery will last (713)206-8080.  Either of 
+the places you mentioned would be fine with me - my conference is at the PLI 
+Center (on 7th around 51st or 52nd).  Just tell me when & where!
+I concur in David's analysis.  Any idea who the target market is in HK?  If 
+we have specific customers in mind, would it be possible to approach them 
+directly rather than making the password application generally available It's not clear to me that even that would solve the problem since there would 
+still be some targeted HK residents, just not the public.
+David Minns@_DEVELOPMENT
+11/12/2000 08:14 PM
+There is one issue outstanding concerning our due diligence for Hong Kong. It 
+does not relate specifically to Hong Kong weather but rather whether we 
+should revisit  the decision to last month list a Hong Kong Password 
+Application on the EOL registration screen. As I raised in my email last week 
+the Hong Kong regulator (SFC) has issued internet trading guidelines that 
+state that internet sites that "target" Hong Kong residents will be expected 
+to comply with HK securities legislation. 
+Under the HK Protection of Investors Ordinance there are restrictions on 
+making public offers regarding (i) securities; and (ii) "investment 
+arrangements relating to property other than securities".  Whilst it is 
+difficult to see how a HK weather swap (or any other product listed on EOL would fall with in these definitions it is not beyond doubt that the SFC may 
+want to investigate EOL if they believe it is targeting offers to Hong Kong 
+residents. My concern is that if the SFC logged onto EOL following the 
+publicity surrounding the HK weather launch they will find a password 
+application for Hong Kong residents. The SFC could well take the view that a 
+HK password application is evidence that EOL is targeting Hong Kong. Again it 
+is the act of making the offer, not entering into the transaction that is the 
+subject of the Ordinance. Hence arrangements to restrict with whom we 
+ultimately enter into password agreements or conduct trades  may not be 
+viewed as conclusive in determining to whom offers are being made 
+l  have had an opportunity to review a 27 September 2000 advice that Jonathan 
+Marsh obtained from Allen Overy (HK). In Section 2 they raise similar 
+concerns with regard to the Protection of Investors Ordinance. 
+Way Forward
+I would recommend that the Password Application for Hong Kong immediately be 
+removed from the list on the EOL registration screen, at least for the 
+present. The chance that this HK PA may invite the attention of the HK SFC 
+needs to be recognised. (This possibility exists irrespective  of the 
+decision to list HK weather products. Clearly on a practical level a greater 
+awareness in HK of EOL  generated by the launch of HK weather may be the 
+catalyst that attracts  SFC interest.)  Whilst our legal analysis has not 
+identified any  breach of HK legislation by EOL I would prefer if we 
+mitigated the risk of an  SFC instigated dialogue on this point 
+This would mean a Hong Kong resident would need to call up to get a password 
+application.
+If we wish to include on the parts of the EOL site that are available to the 
+public (ie where no password is needed) provisions that are unambiguously 
+directed to HK residents then it would be prudent for us to talk to the SFC 
+first. I note Allen & Overy also raised this as a possibility.
+I recognise this is a judgment call on what is one of those grey areas. But 
+the prospect of publicity in HK for EOL was the determining factor in 
+concluding that this more conservative approach is warranted at present 
+Amita Gosalia@ECT
+13/11/2000 07:04 AM
+Hi Guys
+Have checked the outstanding item with Jonathan Marsh.  Jonathan's view was 
+that the legal due diligence conducted by Mallesons provided the relevant 
+information.  Media coverage of launch of weather products based in HK may 
+lead to review by the HK regulator 
+OK to proceed.
+Amita
+Dale,
+What is the legality issue that needs to be addressed by Amita regarding 
+offerring HK Weather products. David Minns and Mark Taylor have completed all 
+the legal checking and sign-off required for this product launch.
+,
+Paul
+Dale Neuner@ECT
+11/11/2000 08:58 AM
+I have created some Hong Kong weather Products in Production for your review. 
+You will find them in the Product Manager; 34991 and 34992.
+Since we are still waiting on a response from Amita regarding the 'legality' 
+issue of offering Hong Kong Products, I have not made the necessary changes 
+to the Australia static data components nor have I 'squirrelled' the AUS 
+products. Once the go ahead has been given, we will release the ticker item, 
+update the AUS Static Data components, secret squirrel the AUD Products, and 
+move the Hong Kong Products into Active in the Product Manager.
+In the interim, please feel free to amend the Hong Kong Products that I added 
+and add the additional Products that you may need.
+Dale
+3-9746
+Dale,
+I can't see the HK Weather Products in Stack, Product or Data Manager. This 
+may be to do with my permissioning. In the absense of Justin, can you pls 
+check.
+,
+Paul
+Wednesday morning is the only time I will be in the office all week and is 
+already fully booked.  Will you be in San Antonia later?  Maybe we can meet 
+then.
+Michael Guerriero@
+11/13/2000 07:32 AM
+I will be in Houston Wednesday morning and would like to see if I could get 
+on your schedules for 45 minutes to discuss current Argentina issues. I will 
+ask my assistant Maria Jose Minguillion to contact each of you to see if this 
+is convenient
+Joe maybe we could have an early coffee of late evening discussion.
+Thanks
+MFG
+I'm staying at the Peninsula 956-2888.  I can't stay out late tonight because 
+my talk is in the morning - what about lunch tomorrow?
+I think I'll try to run this by Michelle Cash real quick - I'll get right 
+back to you.
+Brent Hendry@_DEVELOPMENT
+11/19/98 12:28 PM
+I wanted to run this agreement by you before I sent it to Randy.  The 
+Directors and officers of Argentine companies have joint and several 
+liability to the shareholders and third parties for their acts as directors 
+and officers and therefore what often happens is that the companies agree to 
+indemnify them as long as they are acting within their scope of employment I have created this form out of several documents I have run across and 
+wanted to know if it looks reasonable.  I will also check into whether it 
+needs to be approved by the shareholders and whether an Argentine company can 
+even agree to indemnify its directors and officers in advance of any action Please let me know what you think.
+I'm following up with Cindy Skinner of ECT HR to try and get this resolved Thanks for letting me know it was still an issue.
+Mark
+Mark,
+I really have no idea what this is all about, but it seems to be spiralling a 
+bit out of control.  I'm in NYC today, but could you call Ms Arteaga and sort 
+this out?  Let me know if I need to do anything.
+Thanks,
+Randy
+(Embedded
+image moved   (Embedded image moved to file: pic29709.pcx)
+to file:
+pic08523.pcx)
+Brent Hendry  is no longer with ECT Legal.  He works with Scott Porter and 
+Don Black, he is currently in  Buenos Aires, Argentina .
+He should be in Co# 359 and RC# 0303.
+Scott - Can you please confirm that Brent Hendry works for you.  Should we 
+move him out of your RC ?
+Thanks,
+Rain
+Importance:  High
+Rain,
+Per the message below from Randy Young, Brent Hendry needs to be transferred 
+to ECT since he doesn't belong to EI.  He is currently sitting in one of my 
+rc's and needs to be moved to ECT's.  Can you please transfer him this pay 
+period before EPC closes?  Let me know if you have any questions.
+Thanks,
+Karen
+Randy Young
+02/10/99 06:20 PM
+Brent works for ECT legal, not EI.  He reports to Mark Taylor, an AGC in ECT 
+Legal.
+Karen E Campos
+02/10/99 07:27 PM
+Randy/ Scott:
+I don't know if you remember or not, but last year I had a question as to who 
+Brent would report to and who's budget it should hit.
+He's now in Scott rc but he's a Sr. Counsel.  Shouldn't he be in Randy's rc? 
+Please advise.
+Thanks,
+Karen
+- pic08523.pcx - pic29709.pcx
+The system won't let me connect to approve your reviewers from outside the 
+office.  I'll do it first thing Wednesday morning but since they'll only have 
+2 days left to fill out the forms at that point, if there are any you 
+particularly want, I suggest you call or e-mail them to let them know it is 
+coming.
+Unfortunately I am already booked for Wednesday.
+=09Maria Jose Minguillon@
+=0911/13/2000 03:48 PM
+=09=09=20
+Gentlemen,
+Following Mike Guerriero=01%s e.mail. Could you please let me know if there is=20
+any chance of each one of you meeting with him for 45=01%on Wednesday Nov. 15th.=20
+morning?
+Thanks
+Taffy - please print this out for the EnronOnline file.
+"David Gilberg"  	10/28/1999 05:01 PM
+Attached is a revised draft of our memo, blacklined to show changes.  Please 
+note that the draft reflects our most recent understanding that, in the 
+absence of a master agreement, GTCs will govern.  If this has changed, per 
+the recent e-mails, we will revise the memo accordingly.  Please call or 
+e-mail with any comments 
+- S4DRED.WPD
+What a great poem!  Sorry for the confusion on getting together - I'll try to 
+start earlier next time.
+Have you guys seen this?
+DyODntOayoGnqBqFqVRrna0DnGtOagdDDnqBodD/bus_details.html
+Bob - These are the only versions I have in Word format - they were probably 
+modified slightly in the online version (e.g. Enron party is now EnronOnline 
+LLC).
+Thanks for your note - that will make packing easier.
+My flight is CO4240 from Houston Intercontinental Airport arriving at 10:29 
+Wednesday night - operated by Continental Express.  I don't like to take 
+those smaller planes but at least this one is a jet and is a non-stop 
+flight.   It makes for fewer delays and it's that much harder for them to 
+lose your luggage.
+Please send a copy of the Energy Gateway docs to Luis Derrota - EB838.
+If they've done it, it was without consulting me.  Other than the content 
+stuff (e.g. which provide links to Reuters) I don't think there is anything 
+out there yet 
+Travis McCullough
+11/20/2000 09:03 PM
+Has EOL done any sort of linking arrangement with a third party?  We are 
+trying to make sure that we know if there is any precedent for the Kiodex 
+deal.  I understood that there have not been any other similar deals, but 
+wanted to make sure.
+Travis McCullough
+This just came in - I think Brad is the lead commercial guy on the project.
+Brad Alford
+11/21/2000 04:08 PM
+It has been ten very hectic days since I last broadcast an update.  As most 
+of you know we have had significant issues with El Paso regarding their 
+willingness to cooperate in the monetization of the Mesquite Notes we were to 
+receive in the transaction.  The worst issues have revolved around the 
+structure and strength of the El Paso parent contingent guarantee and the 
+structure and necessary Mesquite and El Paso disclosures required to monetize 
+the Notes.  Accordingly we made a proposal to El Paso on Wednesday of last 
+week to change the fundamental structure of the transaction 
+Our proposal was to have El Paso provide us with a commodity contract under 
+ISDA documents (but without a collateral threshold) and the usual 
+unconditional parent guarantee that was "in the money" with payment terms 
+identical to the deferred payments we were to receive under the Mesquite 
+Notes.  El Paso obtained the necessary clearances for such a transaction 
+Friday night.  We now expect to pursue this structure instead of the more 
+difficult 144A monetization.  I have attached a Transaction Summary and a 
+transaction diagram to help explain the specific of our proposal.  In 
+addition, I have attached a revised offer analysis; we now expect slightly 
+lower monetization costs.
+With the 144A issues off the table we believe that we will now be able to 
+sign a Transaction Agreement by the end of next week.  We also expect it to 
+be much easier to satisfy by year end the resulting shorter list of 
+conditions precedent to closing.
+There have been some other minor changes the most significant of which is 
+that Merlin will not be selling its $30mm of SubNotes as part of this 
+transaction.  Please call if you have any questions.
+y_guides
+It's possible that someone in Alan Aronowitz's groups has looked into similar 
+issues.
+Steve Kim
+11/20/2000 01:54 PM
+The pulp & paper group is looking into physical trading in the Far East 
+(mainly Korea, Japan, Taiwan, Singapore).  I am looking into any tariff or 
+taxation issues related to transacting in this region.  I've been talking to 
+Peter DelVecchio and he was in the process of contacting outside help in this 
+matter but then I realized that some of this work might have been done 
+already since we trade liquids in that part of the world.
+Do either of you know if this information is available internally?
+steve
+Please let me know when the vaccine is available.
+We have not admitted hedge funds to trade in the US because of the heightened 
+regulatory scrutiny of trading with hedge funds generally since the Long-Term 
+Capital Management debacle of last year.  These same issues may not apply in 
+the UK.
+Marie Westin
+11/20/2000 05:23 AM
+Hi guys,
+I hope you can help me.  Are there any issues with us trading with Hedge 
+funds on EnronOnline?  Galtere have applied and seem to be one.
+I look forward to hearing from you.
+Marie
+PCG London
+Justin Boyd
+20/11/2000 11:10
+Marie
+Subject to my comment below and to the Segregated Accounts notice (for 
+metals), I approve for all products, except for US power, credit and weather.
+However, in the case of the Galtere, please check with the US PCG whether 
+trading with Hedge funds gives rise to any particular legal issues.
+Justin
+Marie Westin
+20/11/2000 10:25
+Hi there, 
+Could you please approve the above?  Galtere is a US company, (Hedging fund) 
+and Toyota... is also a US company (Both metals)
+Thanks
+Marie
+Sent by: Marie Westin
+Please can you review the above named counterparties in the S Drive Access 
+Database. Please inform me by return email when this has been done.
+GCP - Please note customer does not have EOL link in GCP. (GCP id 82544)
+Credit - please note that Galtere International Master Fund is not set up in 
+GCP
+Marie
+PCG London
+London Fax System
+07/11/2000 22:33
+You have received a new fax from 713 646 8511
+The image contains 6 page(s).
+Here is the first draft.
+Yes, I'd like the tickets if they're available.
+I don't know if this will be helpful or not 	Jordan Mintz
+11/22/2000 02:44 PM
+Attached are the EGF-Legal dealflow sheets for Q4--in progress and closed 
+transactions.  Please feel free to contact me or any of the EGF attorneys or 
+assistants with any questions and/or comments you may have.
+Jordan
+Darlene C Forsyth
+11/22/2000 02:13 PM
+Done - sorry for the delay.
+=09Robert B Cass
+=0911/17/2000 05:11 PM
+=09=09=20
+Your review and approval of the following product type in the EOL Datamanager=20
+is urgently needed (for directions on approval , please see steps for=20
+approval at the bottom of this e-mail). =20
+Trader :   Rob Fuller*-
+Example:
+US WTI Basis  Platts LLS            Jan01      USD/bbl
+Physical Description :
+New Product TypeCommodity: =20
+Product Type:   US Crude WTI Fin Basis Swap
+Commodity: Crude Oil
+Currency:     USD
+Default UOM:   Barrels
+Country:   USA
+Financial Description (e.g):
+The term of the Transaction shall be from the Effective Date to the=20
+Termination Date. The Effective Date is 01 Jan 2001. The Termination Date is=20
+31 Jan 2001.
+(Note:  The following are 3 of 12 indices - examples - that will be=20
+applicable)
+(Light Louisiana Sweet)
+The Fixed Price for a Determination Period shall be the mean of the daily=20
+first line quotations for WTI/(MONTH) under the heading "U.S. $/Bbl" in the=20
+Crude Price Assessments section of Platt=01,s Oilgram Price Report for those=20
+issues published for the applicable Calculation Period, modified by the price=20
+submitted by the Counterparty on the website.  The Index for a day shall be=20
+the mean of the daily quotations for LLS under the heading "U.S. $/Bbl" in=20
+the Crude Price assessments section of Platt=01,s Oilgram Price Report for those=20
+issues published for the applicable Calculation Period.=20
+(West Texas Sour)
+The Fixed Price for a Determination Period shall be the mean of the daily=20
+first line quotations for WTI/(MONTH) under the heading "U.S. $/Bbl" in the=20
+Crude Price Assessments section of Platt=01,s Oilgram Price Report for those=20
+issues published for the applicable Calculation Period, modified by the price=20
+submitted by the Counterparty on the website.  The Index for a day shall be=20
+the mean of the daily quotations for WTS under the heading "U.S. $/Bbl" in=20
+the Crude Price assessments section of Platt=01,s Oilgram Price Report for those=20
+issues published for the applicable Calculation Period.
+(Midland Sweet.) =20
+The Fixed Price for a Determination Period shall be the mean of the daily=20
+first line quotations for WTI/(MONTH) under the heading "U.S. $/Bbl" in the=20
+Crude Price Assessments section of Platt=01,s Oilgram Price Report for those=20
+issues published for the applicable Calculation Period, modified by the price=20
+submitted by the Counterparty on the website.  The Index for a day shall be=20
+the mean of the daily quotations for WTI Midland under the heading "U.S.=20
+$/Bbl" in the Crude Price assessments section of Platt=01,s Oilgram Price Report=20
+for those issues published for the applicable Calculation Period.
+The price is quoted in US Dollars per unit of volume, which will be the=20
+Contractual Currency.
+The unit of measure against which the price is quoted shall be Barrels per=20
+month and the quantity shown shall be in Barrels per month.
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D
+STEPS FOR APPROVAL:
+click the  START button=20
+select  PROGRAMS
+select  TEST APPLICATIONS
+select ENRONONLINE CLUSTER(PROD)
+PROCEED WITH USUAL LOGIN/PASSWORD=20
+click the Enron Online Production Cluster "START" button =20
+select EnronOnLine (this is the EOL Datamanager)
+PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up=20
+TO APPROVE:  Right mouse click on "Approved"
+=20
+Thanks - Rob Cass  -  Melba Lozano
+x35491   x58986
+Glad you liked it.  There is a while series of e-mail symbols people use like 
+smiley faces - they even have a name: emoticons.  They don't often look like 
+you'd expect and most of them are sideways -  only one I know is the smiley 
+face  :-)   Hope you had a nice birthday!
+Love , Mark
+Let me know if this is not what you need.
+harumph
+Ted Bockius  	11/29/2000 05:09 PM
+You are so photogenic and I'm not :( unhappyness.  But your photos look
+great.  Perhaps it's the skill of the photographer...wait, I didn't mean
+that...please keep sending photos.
+(See attached file: MT Monaco 1.jpg)
+I decided I needed the book we discussed so I went online to Amazon.com
+and ordered it!  While there I found references to a number of books I 
+tought you might be interested in:
+the Hornblower series by C.S. Forester
+the Bolitho stories from Alexander Kent
+the Drinkwater series from Richard Woodman (e.g., "An Eye of the Fleet")
+the Ramage series from Dudley Pope
+Revolution at Sea Trilogy/James L. Nelson
+Lobscouse & Spotted Dog : Which It's a Gastronomic Companion to the
+Aubrey/Maturin Novels 
+by Anne Chotzinoff Grossman, Lisa Grossman Thomas
+I'll be there.
+Comments from a Swedish scholar:

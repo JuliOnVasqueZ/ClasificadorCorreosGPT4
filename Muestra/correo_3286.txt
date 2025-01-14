@@ -1,0 +1,8 @@
+The new contract also has two other firm products. "Firm (Liquidated
+ Damages)" is closest to the WSPP firm product, but it defines force
+  majeure more strictly than WSPP. "Firm (LD-System Reliability)"
+ explicitly
+ allows a selling utility to curtail deliveries without paying liquidated
+  damages if necessary to maintain native load. Of particular interest to
+ traders of eastern U.S. electricity is the fact that the EEI contract
+  defines what an "into" product is.

@@ -1,0 +1,533 @@
+- Dell Computer Financial Practices.htm
+Completed an IT agreement with CIMA Energy, who owns 5000/day production on 
+the Crawford lateral.  Gas will be transported to both the Willi Wick Farm 
+Tap in the Texas panhandle area as well as to the West Texas pool.  The 
+agreement is at 0.065 cents, plus fuel for 14 months beginning Sept 2000 This new shipper on TW will generate additional revenue (currently shipped 
+under a Duke FT for 0.02).
+Completed an IT agreement with CIMA Energy.  Volume is 5000/day production on 
+the Crawford lateral (#500267).  Gas will be transported to both the Willi 
+Wick Farm Tap (#12510) in the Texas panhandle area as well as to the West 
+Texas pool (#58646).  The agreement is at 0.065 cents, plus fuel for 14 
+months beginning Sept 2000.
+Burlington: pcervin@br-inc.com, Conoco: Teddy.G.Jones@usa.conoco.com, 
+Reliant: thomas_j_toerner@reliantenergy.com
+ENA-Janie Tholt, Oneok-Cathy Bulf, Conoco-Jerry Wheatley (sp?)...I'll follow 
+up with addresses and phone numbers!
+Kevin Hyatt
+08/24/2000 11:07 AM
+Everyone, pls forward to me ASAP your list of top customers you want invited 
+to the Oct. Customer meeting including contact name, physical address, and 
+phone numbers thx
+KH
+Audrey Robertson
+08/24/2000 10:05 AM
+Kevin, would you be able to forward a list of customers we would like to 
+invite to the meeting in October?  Steve would like to included:
+USGT
+SWG
+PNM
+Red Cedar
+Our list should total at least 10.
+adr
+Still isn't working...starts with a "script error"
+Kenneth Chow
+08/24/2000 03:47 PM
+Hello Marketing,
+I'm looking for feedback regarding the TW Deal Profitability model.  There 
+were some problems a few weeks ago but I'm assuming they have been resolved 
+since no one is saying anything.
+Have there been any problems accessing the website?  Are there any issues 
+you'd like to raise?  The sooner I know, the sooner we can get started on 
+improving/troubleshooting the model.
+I'm not sure I have all the users on the mailing list so please inform those 
+I may have inadvertently left out.  I look forward to hearing from you.
+Thanks,
+Ken
+x36317
+What do you think about Capstone Turbines?
+Mark,
+Here is the electronic form for the Interconnect and Operating Agreement for 
+your legal folks.  Talk to you soon!
+Bob Burleson
+09/06/2000 03:35 PM
+Here is the electronic form of the agreement.  Thanks for your help,  Bob
+Because we redistributed the account list last week, please change the 
+following accounts to my name...Reliant #26819, Conoco #20747, Conoco #20748, 
+Conoco #20835, ENA #24654, ENA 24924, ENA #26740, Burlington #25025, 
+Burlington #25031, Burlington #25067, Burlington #25597, PG&E 25841, PG&E 
+#26511, and KN #26751.  Thank you.
+- Egyptian Festival.url
+Can you please update the system with the following marketers?  Let me know 
+when completed and I'll notify IS.  Thanks.
+Kevin Hyatt
+09/08/2000 01:24 PM
+Meiling Chen
+09/07/2000 02:18 PM
+Kevin,
+After updating TWDP database to July 2000,  I noticed that there are 
+contracts without deal makers information.
+Would you please have someone update deal maker information for the following 
+contracts.
+Please let me know when it's done so I can rerun Thanks, Mei-Ling 
+26758-Lorraine
+26813-Christine
+26816-Jeff
+26884-Christine
+26885-TK
+27102-TK
+27104-Christine
+27183-TK
+27191-TK
+27220-TK
+27222-TK
+27243-Jeff
+27248-TK
+27250-TK
+27255-TK
+27266-TK
+27270-Jeff
+27286-Michelle
+27287-Jeff
+Below is a summary of the Right of First Refusal section per the Transwestern 
+tariff.
+Contract qualifications:
+executed contract prior to 03/27/00 with term of 1 year or longer
+executed contract on or after 03/27/00 with term of 1 year or longer at max 
+rate
+Shipper notification:
+6 months prior to contract expiration if term is 2 years or less
+1 year prior to contact expiration if term exceeds 2 years
+Posting:
+pipeline will post within 10 business days
+bidders have 1 month for submittals
+shipper has up to 2 weeks to match
+Still doesn't work...I have even rebooted the whole system.
+Meiling Chen
+09/11/2000 10:00 AM
+I'll contact internet team with this problem.  In the meantime, if you could 
+get out of explorer and come back in to try
+it again, I think the message will go away and the point drop down box will 
+work.   Let me know.  Sorry for the
+inconvience.
+Thanks,
+Mei-Ling
+I am still having problems...same error with Explorer.  I also cannot start 
+Navigator.
+Meiling Chen
+09/08/2000 04:06 PM
+Sorry for the delay.  The problem is now resolved Thanks,
+Mei-Ling  
+Kenneth Chow
+08/28/2000 12:32 PM
+Mei-Ling, the TWDP model seems to have a recurring problem.
+Do you have time to address the error this week?
+I will try to run TWDP from my computer later today to see if it's 
+operational.
+Thanks,
+Ken
+Still isn't working...starts with a "script error"
+Kenneth Chow
+08/24/2000 03:47 PM
+Hello Marketing,
+I'm looking for feedback regarding the TW Deal Profitability model.  There 
+were some problems a few weeks ago but I'm assuming they have been resolved 
+since no one is saying anything.
+Have there been any problems accessing the website?  Are there any issues 
+you'd like to raise?  The sooner I know, the sooner we can get started on 
+improving/troubleshooting the model.
+I'm not sure I have all the users on the mailing list so please inform those 
+I may have inadvertently left out.  I look forward to hearing from you.
+Thanks,
+Ken
+x36317
+Done, so you can rerun database.
+Dale Eldridge
+09/11/2000 08:50 AM
+Done.
+Can you please update the system with the following marketers?  Let me know 
+when completed and I'll notify IS.  Thanks.
+Kevin Hyatt
+09/08/2000 01:24 PM
+Meiling Chen
+09/07/2000 02:18 PM
+Kevin,
+After updating TWDP database to July 2000,  I noticed that there are 
+contracts without deal makers information.
+Would you please have someone update deal maker information for the following 
+contracts.
+Please let me know when it's done so I can rerun Thanks, Mei-Ling 
+26758-Lorraine
+26813-Christine
+26816-Jeff
+26884-Christine
+26885-TK
+27102-TK
+27104-Christine
+27183-TK
+27191-TK
+27220-TK
+27222-TK
+27243-Jeff
+27248-TK
+27250-TK
+27255-TK
+27266-TK
+27270-Jeff
+27286-Michelle
+27287-Jeff
+Additional name for Conoco.
+Audrey Robertson
+09/11/2000 10:46 AM
+Please review again and forward back to me with correct names, addresses and 
+phone numbers.
+Thanks in advance,
+adr
+Count me in.
+Audrey Robertson
+09/12/2000 09:03 AM
+Steve would like to have another  Strategy Meeting on Wednesday, September 
+27th, from 8:30 - 11:30a.  Please let me know if you are not available.
+Thanks in advance for your prompt response.
+adr
+Houston, TX Hobby
+Jacksonville, FL
+$92 
+each way
+Midland/Odessa, TX
+$52 
+each way
+Nashville, TN
+$66 
+each way
+New Orleans, LA
+$40 
+each way
+Tampa Bay, FL
+$92 
+each way
+EOG executed the Interconnect and Operating agreement.  Transwestern has 
+initiated landowner's notification, which  takes at least 30 days. 
+Planning a trip to Tulsa this Friday, to visit with Oneok.
+How are you?  I was just thinking of you guys and wanted to say "hi 
+Yes, and as a matter of fact...I'd called the Benefits Help Line recently and 
+they'd said "No Coverage" on Dental.  I think I am all set.  If you find out 
+otherwise, let me know!  Thanks. 
+Ginger McCain                06/30/2000 09:56 AM
+Please confirm that you changed your Dental election to No Coverage.  I 
+recall a phone conversation, however, need definite clarification.
+Thank you,
+Ginger McCain
+Strip Starts Nov. 1 -01  
+year-strip Strip (Socal) Strip (Permian) Spread
+1  4.14247  3.86367  0.27880
+2  3.90925  3.65610  0.25315
+3  3.77821  3.53569  0.24252
+4  3.69444  3.46008  0.23436
+5  3.64129  3.41184  0.22946
+Sent by: Enron Announcements
+Enron U.S Employees:
+A registration statement relating to a proposed initial public offering of 
+shares of common stock of TNPC, Inc. (TNPC), an affiliate of Enron Corp., has 
+been filed with the Securities and Exchange Commission.  In connection with 
+the proposed offering, TNPC has arranged to reserve a limited number of 
+shares of TNPC's common stock for purchase by Enron U.S. employees and 
+certain other individuals (Reserved Share Program).  If you have any interest 
+in further information regarding the Reserved Share Program, which has a 
+deadline of October 2, 2000, please execute the link to the following site 
+where you will find a preliminary prospectus, a letter explaining the 
+program, an expression of interest form, and an NASD questionnaire related to 
+the offering:
+NOTE:  In the event that you are unable to execute the above link, please 
+copy the link to the address line of your installed browser.
+The following statements are required to be included in this E-Mail by the 
+rules and regulations of the Securities and Exchange Commission:
+"A registration statement relating to the shares has been filed with the 
+Securities and Exchange Commission but has not yet become effective.  These 
+securities may not be sold nor may offers to buy be accepted prior to the 
+time the registration statement becomes effective.  This E-Mail shall not 
+constitute an offer to sell or the solicitation of an offer to buy nor shall 
+there be any sales of these securities in any state in which such offer, 
+solicitation or sale would be unlawful prior to registration or qualification 
+under the securities laws of any such state."
+"No offer to buy the securities can be accepted and no part of the purchase 
+price can be received until the registration statement has become effective, 
+and any such offer may be withdrawn or revoked, without obligation or 
+commitment of any kind, at any time prior to notice of its acceptance given 
+after the effective date.  An indication of interest in response to this 
+advertisement will involve no obligation or commitment of any kind."
+Thank you!  I have tested the updated system and every thing seems to be 
+working.  I did speak to the Help Desk last week and it was decided that we 
+will run this program through Netscape Navigator vs Explorer.
+Meiling Chen
+09/28/2000 06:27 PM
+Michelle,
+Thanks for your patience.  It works now.
+We don't know exact why it suddenly stops calculating marginal fuel.  Each 
+piece of program worked correctly We had to rule out possible causes step by step and to make sure the whole 
+process work step by step.
+Possible reason might be multiple version of calculation component being 
+registered in the server and
+the correct one was not used lately.  We cleaned it and re-registered the 
+working version and it worked. 
+Did you have chance to talk to help desk regarding internet explorer upgrade 
+to 5.0 ?
+Thanks,
+Mei-Ling
+Sent by: Enron Announcements
+Enron U.S Employees:
+A registration statement relating to a proposed initial public offering of 
+shares of common stock of TNPC, Inc. (TNPC), an affiliate of Enron Corp., has 
+been filed with the Securities and Exchange Commission.  In connection with 
+the proposed offering, TNPC has arranged to reserve a limited number of 
+shares of TNPC's common stock for purchase by Enron U.S. employees and 
+certain other individuals (Reserved Share Program).  If you have any interest 
+in further information regarding the Reserved Share Program, which has a 
+deadline of October 2, 2000, please execute the link to the following site 
+where you will find a preliminary prospectus, a letter explaining the 
+program, an expression of interest form, and an NASD questionnaire related to 
+the offering:
+NOTE:  In the event that you are unable to execute the above link, please 
+copy the link to the address line of your installed browser.
+The following statements are required to be included in this E-Mail by the 
+rules and regulations of the Securities and Exchange Commission:
+"A registration statement relating to the shares has been filed with the 
+Securities and Exchange Commission but has not yet become effective.  These 
+securities may not be sold nor may offers to buy be accepted prior to the 
+time the registration statement becomes effective.  This E-Mail shall not 
+constitute an offer to sell or the solicitation of an offer to buy nor shall 
+there be any sales of these securities in any state in which such offer, 
+solicitation or sale would be unlawful prior to registration or qualification 
+under the securities laws of any such state."
+"No offer to buy the securities can be accepted and no part of the purchase 
+price can be received until the registration statement has become effective, 
+and any such offer may be withdrawn or revoked, without obligation or 
+commitment of any kind, at any time prior to notice of its acceptance given 
+after the effective date.  An indication of interest in response to this 
+advertisement will involve no obligation or commitment of any kind."
+Of course...Tuesday it is!
+Out on Friday, 09/22, for "floating holiday"...is that what it is called Thanks. 
+Great Expectations
+Forbes - 10/16/2000
+BY Lynn Cook
+ENRON INVESTMENT PARTNERS' BIGGEST GAMBLE TO DATE HAS BEEN THE $4 MILLION IT 
+pumped into Cynet. The software outfit relies on a wireless modem that plugs 
+in to a laptop or PC and lets you e-mail, fax, and use voice-and 
+data-messaging. That may not sound like much. But imagine e-mailing thousands 
+of people at once--or sending a document and following with a prerecorded 
+message to tell folks to check their fax machines. Cynet is also developing 
+the ability to retrieve e-mail messages as voice mail on a laptop and to 
+translate voice mail into e-mail.
+The investment helped launch Cynet as the first African-American company to 
+go public out of Houston. How's it doing? Not so hot. After the initial 
+offering in January the stock jumped to $8, but it got pummeled in April and 
+now hovers around $1. It has yet to recover. 
+Still, Enron is holding on to its investment, now worth only $1.9 million. 
+Cynet holds the exclusive North American marketing license for Teleran 
+Electronic's wireless modems. That's got to be worth something. Compaq 
+Computer is using the technology to add high-speed wireless Internet 
+connections to its iPAQ Pocket. 
+Azurix Water.
+As you know, technology is critical to Enron; it drives our success and will=20
+continue to do so in the future. Technology has helped Enron create new=20
+businesses like Enron Broadband Services and Enron Net Works, and it is=20
+responsible for applications such as EnronOnline and EnronCredit.com.  You=01,ve=20
+seen what technology can do at work.  Now we want you and your family to=20
+realize its benefits at home.
+With that in mind, we are excited to let you know that we are introducing the=20
+ClickAtHome
+program, which will give each employee a computer for use at home. Where=20
+technology permits, we will also subsidize an Internet connection. With the=20
+click of a mouse, a home computer plus Internet access will put a world of=20
+Internet knowledge at your family=01,s fingertips. =20
+We have just signed an agreement with Dell Computer Corporation to provide=20
+the computer hardware. We wanted to let you know about the program now in=20
+case you and your family were considering the purchase or upgrade of a home=20
+computer or Internet connection in the next few months. The scope of=20
+ClickAtHome includes the following:
+? Basic package: Dell desktop computer with a high-speed processor, floppy=20
+disk drive, mouse, speakers, monitor, modem, CD-ROM drive and Windows 2000=20
+software. Employees will have the option to receive a subsidized Internet=20
+connection, including broadband, where commercially available.
+? Participation: This program will be available to active regular full-time=20
+and regular part-time employees of Enron and its wholly owned subsidiaries;=20
+however, employees of some Enron companies (Portland General Electric, EOTT,=20
+Enron Facility Services) may not be able to participate due to legal,=20
+accounting, tax, labor or business reasons.  Eligibility includes being=20
+employed at the time of implementation. =20
+? Timing: U.S. employee sign-up will begin in early 2001, with delivery of=20
+the equipment and Internet connection to follow shortly thereafter.  Delivery=20
+of equipment to participating non-U.S. employees is targeted for late 2001.
+Details about this program are still being finalized.  To address some of=20
+your initial questions, we=01,ve posted a question-and-answer document on=20
+We will schedule an eSpeak session in the near=20
+future where you will have an opportunity to ask questions. Or, you can=20
+submit your questions and comments to ClickAtHome@.=20
+We are excited to extend our investment in technology to you and your=20
+family.  We believe this program takes communication at Enron to a new level=20
+by creating endless possibilities for you to experience and participate in=20
+the broadband Internet revolution. It is just another reason why we believe=20
+Enron is a great place to work.
+Unocal will announce higher that anticipated 3rd quarter earnings on 10/25 They also did not hedge their production, so are able to capture the higher 
+energy prices!  Sounds like a good buy...already up 3/4 today. 
+Jim & Michelle  Please respond to jimboman@bigfoot.com
+Jeff - print.jpg is for printing (color or B&W)
+Jeff - screen.jpg is for viewing as email or such on a computer monitor.
+I figured these would be pretty self explanatory.  As always, let me
+know if you have any trouble opening these.
+Jim
+Documentation for the Southern to BP Energy contract assignments.
+As per our conversation, please assign TW contracts 24926. 27201 and 27017
+to BP Energy effective November 1, 2000.  You may contact Ms. Penny Barry
+(281-366-4913)at BP Energy for confirmation.  If you have any additional
+questions regarding this assignment, please call me at 678-579-3463.
+Thanks for your help
+Rick Wadle
+Sr. Gas Control Coordinator
+Southern Company Energy Marketing
+FYI..assignment request from Southern Company. 
+As per our conversation, please assign TW contracts 24926. 27201 and 27017
+to BP Energy effective November 1, 2000.  You may contact Ms. Penny Barry
+(281-366-4913)at BP Energy for confirmation.  If you have any additional
+questions regarding this assignment, please call me at 678-579-3463.
+Thanks for your help
+Rick Wadle
+Sr. Gas Control Coordinator
+Southern Company Energy Marketing
+FYI...I spoke with Craig Carley at Reliant this morning.  On contract #22538, 
+there was not a discount requested therefore September was at Max Rate.  For 
+October, I told him the spreads are still above Max Rate and he is in 
+agreement.  November...hmmm...above Max Rate 
+FYI...assignment or capacity release?
+As per our conversation, please assign TW contracts 24926. 27201 and 27017
+to BP Energy effective November 1, 2000.  You may contact Ms. Penny Barry
+(281-366-4913)at BP Energy for confirmation.  If you have any additional
+questions regarding this assignment, please call me at 678-579-3463.
+Thanks for your help
+Rick Wadle
+Sr. Gas Control Coordinator
+Southern Company Energy Marketing
+Mike Triem
+NA IPAQ & Displays Business Planning
+281.927.8586
+ >    DO WE REALLY NEED ANOTHER PATHOLOGICAL LIAR FOR PRESIDENT?
+ >     FICTION: Al Gore recently claimed that his mother-in-law pays more
+ >     than $100.00 for the arthritis medicine Lodine; and he claims that
+ > his
+ >    dog  takes the same medicine for $37.00, claiming "This is wrong!"
+ >    FACT: Gore's aides were quick to apologize for Gore's lie, saying
+the
+ >    information was from a Democratic study. Washington newspapers also
+ >    reported that Al Gore wasn't even sure his mother-in-law was taking
+ > any
+ >    medication and wasn't even sure she had arthritis. And, he doesn't
+ > know
+ >    anything about his dog's "arthritis".
+ >    FICTION: Al Gore said his father, a senator, was a champion of
+ >    civil rights during the 1960's.
+ >    FACT:  Gore's father voted against the landmark Civil Rights Act of
+ >    1964 and was a racist who was fond of using the "N" word.
+ >    FICTION: Al Gore said that his sister was the very first person to
+ > join
+ >    the Peace Corps.
+ >    FACT: By the time Gore's sister joined the Peace Corps, there were
+ >    already over 100 members.
+ >    FICTION: The same sister died of lung cancer years later and Gore
+ >    vowed to never accept tobacco money as campaign contributions.
+ >    FACT:  Just four years later, while campaigning for office, Gore
+ >    spoke to the tobacco industry and said he was one of them because
+ >    "I've planted it, raised it, cut it, and dried it." He raised over
+ > $100,000 in
+ >    "reported" contributions.
+ >    FICTION: While running for office, Gore's campaign literature
+claimed
+ >    he was a "Brilliant Student".
+ >    FACT: Washington newspapers said he barely passed Harvard and
+ >    consistently earned D's and C's.
+ >    FICTION: Gore claims an extensive knowledge of law as a result of
+ >    his extensive study at law school.
+ >    FACT: Al Gore dropped out of law school.
+ >    FICTION: Gore claimed that his knowledge of God and spirituality
+ >    came to complete fruition while "finishing" divinity school.
+ >    FACT:  Al Gore dropped out of divinity school.
+ >    FICTION: Al Gore claimed responsibility for inventing the Internet
+ >    in the 1990's.
+ >    FACT : Shocked scientists were quick to speak out, explaining that
+ >    the Internet had been in widespread use by government and
+educational
+ >    institutions since the early 1970's.
+ >    FICTION: Al Gore claimed the book "Love Story" was based on his
+ >    life and Tipper's.
+ >    FACT: Author Erich Segal called a press conference to deny his
+claim.
+ >    (Couldn't he at least lie about a love story where his sweetheart
+ >    doesn't die?"
+ >    FICTION : Gore claimed that as a reporter for a Nashville
+ >    newspaper, his stories led to the arrests of numerous corrupt
+ > criminals.
+ >    FACT: He later apologized for his claim and actually said it was
+ >    untrue (Also known as lying).
+ >    FICTION: Gore claims to increase diversity in the staff that
+ >    follows him daily, especially among blacks.
+ >    FACT:  Black members of the Secret Service are suing because they
+ >    claim they are not being promoted to positions guarding the
+ > Vice-President.
+ >    FICTION: Al Gore said he was the first to discover the Love Canal
+ >    nuclear accident.
+ >    FACT: The incident was already discovered, being investigated, and
+ >    covered widely in the press for many months before Gore was aware of
+ > it.
+ >    FICTION: Gore said just recently that if elected president, he
+ >    would put harsh sanctions on the sleazy producers of Hollywood's
+ > extreme
+ >    sex and violence.
+ >    FACT:  Just six days later, Gore attended a fundraiser by
+ >    Hollywood producers and radical gay activists where he told them
+that
+ > he
+ >    would only pretend to "nudge them" if elected. He raised over $4
+ > million.
+ >    FICTION: Al Gore said he built his Tennessee home with his bare
+ > hands.
+ >    FACT : Totally false!
+ >    FICTION: Al Gore says parents should not have a choice between
+ >    private and public schools because public schools are far better.
+ >    TRUTH : Al Gore attended private school and he has sent his
+ >    children  to private schools.
+ >    FICTION: Al Gore remembers his mother lulling him to sleep as a
+ >    baby by singing the popular ditty, "Wear The Union Label".
+ >    FACT: The popular ditty was created by the unions when Gore was 27
+ >    years old.
+ >    FICTION: Al Gore claimed to co-sponsor the McCain-Feingold
+ >    Campaign Reform Act.
+ >    FACT:  The Act was not sponsored until he had been out of office
+ >    for over a year.
+ >    FICTION: Al Gore claims to be instrumental in keeping gas prices
+ >    low.
+ >    FACT: Gore has voted on numerous occasions to raise the tax on
+ >    gasoline. In his book "Earth In The Balance" Gore claims that the
+ > nation's
+ >    Number One enemy is the internal combustion engine. (That's the
+motor
+ >    in your vehicle that gets you to work and takes your kids to school)
+ >    FICTION: Gore pretends to champion the rights of poor women to be
+ >    tested regularly for breast cancer with the most modern technology.
+ >    FACT: While giving a speech on the subject in September, Gore
+ >    didn't know what a mammogram was.
+ >    FICTION: AL Gore promised Florida's senior citizens that they
+ >    would finally have low-cost drugs with no interference from
+ > government.
+ >    FACT: Gore's plan calls for the creation of a huge federal agency
+ >    that would tell you which doctor you are allowed to see in order to
+ > get
+ >    the "special rates".
+ >    FACT: Al Gore told NBC's Lisa Meyers that he had never told a lie.
+ >    When Meyers pressed harder, "You've never told a lie?!" Gore said,
+ > "Not
+ >    that I know of." SOUND FAMILIAR?
+ >    Election Day is ticking away. E-mail this to as many people as
+ > possible
+ >    or we will be living in an Al Gore fantasyland.
+ >    > > > > Reprinted from the Internet News Bureau article "Al Gore's
+21
+ > Lies"
+ >    > > > >  DO WE REALLY NEED ANOTHER PATHOLOGICAL LIAR FOR PRESIDENT?

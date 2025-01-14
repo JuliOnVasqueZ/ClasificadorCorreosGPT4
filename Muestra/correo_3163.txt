@@ -1,0 +1,2858 @@
+Done.  My only comment is that there should be an apostrophe in "Sellers" in 
+the third line up from the bottom.
+Melba Lozano
+05/31/2000 02:19 PM
+I have built a new Product Type called US Styrene FOB Phy Fwd.  Please go 
+into DataManager and approve these Product Types.  If you need help with the 
+approval process contact me at ext.58986.  Please DO NOT reject the Product 
+Type.  If you have questions or changes to the Product Type please contact me 
+at your convenience.  Thank you very much for your cooperation.
+Thank you,
+Melba 
+Long Description:
+US Styrene FOB   Hou/TX Cty              Jul00           c/Gl-b
+A US ASTM 2827 Styrene Transaction with Enron Petrochemicals Company, a 
+division of Enron Liquid Fuels, Inc., under which the Seller shall sell and 
+the Buyer shall purchase the agreed quantity of Styrene at the Contract 
+Price. The commodity will be delivered on a FOB basis upon five- (5) working 
+days notice by Buyer and on a day selected by Buyer between the Effective 
+Date and the Termination Date.
+The term of the Transaction shall be from the Effective Date (or start date) 
+to the Termination Date (or end date). The Effective Date (or start date) is 
+01 Jul 2000. The Termination Date (or end date) is 31 Jul 2000.
+This transaction is for delivery to either Houston or Texas City at Sellers 
+election.
+The price is quoted in cents (US) per unit of volume which will be the 
+Contractual Currency.
+The unit of measure against which the price is quoted shall be gallons and 
+the quantity shown shall be in total number of Barrels (42 US Gallons).
+Looks good to me.
+Julie Ferrara
+05/31/2000 01:54 PM
+Mark,
+Dave Forster asked me to send you the ticker item below for your review Dave has already approved the text.  Please let me know if you have any 
+changes or concerns 
+Thank you.
+Julie Ferrara
+Julie,
+Could you please put this ticker item out on the Web on June 1, 2000.  It 
+needs to stay out there for two weeks.  Let me know if you have any 
+questions. 
+Thank you,
+Melba
+58986
+Changes to US Gas Monthly Product Description 
+In order to improve the clarity of the Product description on the website, 
+please note that effective June 1, 2000 the description for: 
+US Gas Monthly IF CNG SP  has been changed to  US Gas Swap IF CNG SP
+US Gas Monthly IF EP Perm  has been changed to  US Gas Swap IF EP Perm
+US Gas Monthly IF EP San Juan  has been changed to  US Gas Swap IF EP San Juan
+US Gas Monthly IF TCO Pool  has been changed to  US Gas Swap IF TCO Pool
+US Gas Monthly IF TETCO M3  has been changed to  US Gas Swap IF TETCO M3
+US Gas Monthly IF Transco Z6NY  has been changed to  US Gas Swap IF Transco 
+Z6NY
+Scott Neal
+05/30/2000 05:21 PM
+thanks to everyone for your help.
+Dale Neuner   05/30/2000 04:04 PM
+Melba -
+Please draft a ticker item and let's make these changes as quickly as we can.
+Dale
+Scott Neal
+05/30/2000 03:39 PM
+US Gas Swap works fine.  Thanks for being creative and flexible. Let's go 
+with this ASAP.
+Dale Neuner   05/25/2000 11:02 AM
+I brought this issue up to David Forster AGAIN, and again he suggests that if 
+we are going to change the Product Description that we call it US Gas Swap so a Product on the website would read, for example:
+US Gas Swap   IF CNG SP               Jun00           USD/MM
+We really don't want to change the name to Fixed/Float because the US Gas 
+Daily products are ALSO Fixed 
+Float trades, and we are afraid we would be misleading. 
+Please talk about this and if this suggestion is acceptable we will make the 
+changes. Also please remember that this
+change requires manual intervention, so each month when you roll the product 
+over you will need to let us know to 
+make the change when you call to have the product activated. We also won't be 
+able to use Tokenized Reference 
+Periods on these Products.
+Dale
+There is a meeting on my calendar for Friday morning to discuss Phase 2 
+content issues with people from the Research Group - not sure if this is the 
+same issue or not.
+Bob Shults
+05/31/2000 08:23 PM
+The launch of Phase 2 of EnronOnline will include significant enhancements 
+and additions to the EnronOnline web site.  One of the attributes of the 
+Phase 2 launch is the development of individual Commodity/Country Home 
+Pages.  The objective of the individual home pages is to allow each commodity 
+group create its own web site (within EnronOnline) and to deliver a more 
+personalized experience for the customers.  A significant aspect of the home 
+pages is the addition of content which will be developed at a desk and or 
+company level.  The content which we are adding will be much more dynamic and 
+require constant changes.
+In this light we will need to develop an approval process which protects 
+Enron however does not completely impede our effort to provide current 
+interesting content on the web site.  In addition we will need to make sure 
+that we include the neccessary disclaimers to avoid other issues.
+To date we have started to accumulate a significant amount of content 
+(written, audio, PowerPoints and video) which is scheduled to be included in 
+the Phase 2 launch.  We will need to sign off on this content within the next 
+couple of weeks.
+I have asked Lorraine Becker by copy of this note to arrange a meeting to 
+develop a process of content approval.
+Susan - Please send this guy a sample form of each of the Omnibus, Industrial 
+and ISDA (both printed form and schedule 
+Thanks
+Tim McKone@
+05/26/2000 02:48 PM
+Hello my Esteemed Doctors,
+I am in Rodney Malcolm's Commercial Transaction Group focusing on selling 
+energy outsourcing relationships to industrial consumers. 
+Based on the list of executed master agreements that was provided to us 
+recently, many of our targeted industrial customers have not signed our 
+master swap agreement. 
+In preparation for our transacting with these customers, would you send me as 
+soon as possible a copy of our Master Swap Agreement language, a copy of the 
+more intermediate "Omnibus" Short form Swap agreement, and a copy of the one 
+or two page confirmation agreement.  I will forward to my group so that they 
+can become more familiar with the language, and I will also accumulate the 
+industrial customers that we are closest to closing deals.  I will then 
+forward the names of those customers to you so that we can get these 
+documents to the customers in advance of the deals.
+If you have any questions or comments, please call me at x35583.  Thank you, 
+Tim
+Bob Carter@ECT
+05/26/2000 11:15 AM
+We have a separate group in legal that puts these together.  Ed and I are not 
+involved in the preparation or negotiation of swap agreements.  The group  in 
+legal that works on them is led by Mark Taylor (x37459).  Others in the group 
+are Carol St. Clair (x33989), Sara Shackleton (x35620) and Shari Stack 
+(x39477).  I suggest that you contact any one of those people.  If I can 
+assist, please let me know. 
+Tim McKone@
+05/26/2000 11:07 AM
+Hello Bob and Ed.
+What is the most efficient way for us to get Master Swap Agreements in place 
+with our industrial consumers.  With the commodity energy market going 
+through the roof, many of the industrials are asking us to concentrate on 
+solving their short term commodity exposure and look to establish a  greater 
+outsourcing opportunity in the future.  We do not seem to have Master Swap 
+Agreements in place with industrials such as IMC Global, AK Steel, WR Grace, 
+and our solutions will involve financial swaps.
+Thank you. Tim
+Jason - would you take a quick look at this - I think Legal in London will be 
+negotiating it so you don't have to be particularly thorough - but I thought 
+you might have some insights given your recent experience with our other 
+content agreements.
+Thanks, Mark
+Dave Samuels
+06/02/2000 06:56 AM
+Justin Boyd
+06/02/2000 04:06 AM
+Dave - please see attached
+J
+Justin,
+Good morning, apologies for the delay I had a bit bad day yesterday so
+apologies for the delay.
+Speak soon
+Jeremy
+- Enron Co-B agreement 2.06.2000.doc
+I agree with you 100%.  I hope that Mike can make it clear to John that it is 
+never appropriate to criticize another department - whether Legal or anyone 
+else - in such a public manner.  If he feels there is a problem that should 
+be corrected, he should proceed through proper channels.  In this case, a 
+direct one-on-one conversation with Andrea strikes me as the most obvious 
+route and if that is not possible, not productive or just too awkward, he 
+should have approached either you or Mike.  Sending out an e-mail that might 
+be considered personally critical of Andrea in such a public way is clearly 
+contrary to our core value of Respect.  I hope you are able to have some 
+input into the review process for John and this should certainly be 
+mentioned.  If you need my help in any way, please let me know.
+REMOVE
+asdfga@usa.com
+06/02/2000 04:24 PM
+Let's get right to the point.
+I am looking for positive motivated people that
+want and need to increase their income by 10k per month.
+Do you have a burning desire to change the quality
+of your existing life?
+Would you like to live the life that others only dream about?
+If you think this is too good to be true or are skeptical
+then this may not be for you... Many have been conditioned
+to believe it must be illegal, immoral or unethical to ever
+earn any real profits from their efforts.
+The fact is we have many people in our enterprise who earn
+over 50k per month from the privacy of their own home and
+are retiring in 2-3 years obviously wealthy and having total
+freedom both personal and financial.
+How would you like to:
+1. Drastically reduce personal, business and capitol gains taxes?
+2. Protect all assets from any form of seizure, liens, or judgments?
+3. Create a six figure income every 4 months?
+How about:
+1. Restoring and preserving complete personal and financial privacy?
+2. Create and amass personal wealth, multiply it and protect it?
+3. Realize a 3 to 6 times greater returns on your money?
+4. Legally make yourself and your assets completely judgment-proof,
+seizure-proof, lien-proof, divorce-proof, attorney-proof, IRS-proof,
+and become completely insulated?
+Are you a BIG thinker, BIG dreamer and a person that believes they
+deserve to have the best in life?
+Are you capable of recognizing that once in a lifetime opportunity
+when it's looking right at you?
+Countless others have missed their shot at the title only to look back
+years later and wished they should've because they could've.
+If you are serious about changing your life 
+Call toll free 1-800-287-7755 (24 hr recorded 2 minute message)
+HI INTEGRITY!  -  NOT MLM!
+Craig -
+There was no attachment to your e-mail.  Is it coming in hard copy?
+Mark
+Craig Breslau
+06/03/2000 02:58 PM
+Mark, I am forwarding a copy of OUC's ISDA along with a copy of their charter 
+and their outside legal opinion on their ability to enter into financial 
+hedges.  Could you please assign to the appropriate attorney to work on this 
+ISDA.
+John, I'm not sure if you are the approprite credit person or not to work on 
+this. They mentioned that they have already exchanged credit information 
+between OUC and Enron.  If you're not the right person, could you please pass 
+it on.
+I would like to push this process along to get an executed ISDA between OUC 
+and Enron.  I believe that they could be a good counterparty for us.
+Thanks for your help.
+Craig
+I can make it next week.  Travis will be on vacation but we can patch him in 
+by phone.  Ken is available from 9 to 11 and then again from 3 or 4 onwards Which would you prefer?
+Louise Kitchen
+06/06/2000 11:44 AM
+Cool and Yup to the lawyer - probably both of you if you can make it as we 
+will revisit the regulatory issues in depth for the paperwork - can we set up 
+Wed in NY?
+Louise:
+The S & C first draft of the Posting Agreement was fine as far as it went, 
+but it was only a first draft and needs a rework before the meeting to make 
+the best use of your time.  Mark and I plan to redraft it and recirculate it 
+in the next couple of days -- I wouldnb't recommend you look at the current 
+draft, because it doesn't really say anything other than what is already in 
+the True Quote term sheet.
+Do you need a lawyer with you in New York when you meet with S & C 
+Travis McCullough
+Approved.
+Becky Tlucek
+06/07/2000 09:00 AM
+Mark:  Here's the message that the systems has been having trouble getting to 
+your mailbox.-Becky  
+Becky Tlucek
+05/22/2000 03:29 PM
+Mark:  This still needs your approval.  If you approve, please forward to 
+Janette Elbertson so she can place the order.  Thank you!-Becky
+Becky Tlucek
+05/09/2000 03:06 PM
+Mark,
+I have researched and provided Brent with information regarding the two 
+"Enron standard" laptops that are now being utilized.  We have decided on the 
+Compaq M700 which has a little bigger keyboard (better for  a man's hands and weighs a little less than the M300 model.  Please approve this order by 
+forwarding this message to Janette Elbertson.  Thank you 
+Janette:
+Please order a Compaq M700 Laptop for Brent Hendry.  Charge it to Mark 
+Taylor's group (Co. 413 / Rc. 1157).  Brent will be here officially the first 
+week of July but will be "in and out" of the office the last week of June If we could have his computer up and running by June 23rd that should cover 
+it.  Let me know if you need any additional information.
+Thanks to both of you!
+-Becky
+This may prove helpful.
+Mark
+Gary has asked me to send you a short description of why we have executed all 
+those CD contracts at the Chicago Merc
+Find enclosed a short explanation note.  If you have any questions, feel free 
+to give  me a call at 36750
+Harry 
+If you didn't believe us before, I'm sure it is by now painfully clear that 
+negotiating master swap agreements is a very lengthy process.  My impression 
+is that the commercial team in Portland is anxious to begin trading 
+financially.  If this is correct, it would be possible, at least from a legal 
+point of view, to begin trading now under the existing documents.  In each 
+case where a master agreement is already in place, trades entered into before 
+the amendments we want will certainly be binding on both parties.  Our only 
+issues with trading under these agreements are where we need more restrictive 
+credit provisions and that resumption of trading before an amendment is 
+signed reduces to some extent our negotiating leverage.  As to the credit 
+issue, only the credit group can decide whether or not to permit trading 
+under the existing terms.  As for the negotiating leverage, if the commercial 
+people want to resume trading immediately, my suggestion would be to let them 
+go ahead.  If it turns out that additional leverage is needed, we can always 
+stop trading.
+Where no master swap agreement exists, we have documentation available to 
+enable trading on a limited basis until the master is signed.  The so-called 
+"omnibus" confirmation will work for any normal commodity derivative 
+transaction and can be customized to include necessary credit provisions even where multiple trades exist with the same counterparty.
+Tana has unsuccessfully tried to get you access to our Lotus Notes database 
+so you could determine the status of any negotiation on an up-to-the-minute 
+basis.  She will be sending a monthly report of our progress until you get 
+the necessary software to access the database.  Of course, if any issues come 
+up in the meantime, please continue to feel free to call.
+Moazzam Khoja@
+06/05/2000 09:57 AM
+Mark,
+I was thinking that it might be helpful for us to take Series 7 exam here in 
+the US like our counterparts are taking SFA exam in UK. I did some initial 
+research and found that our "compliance" group has to open an account with 
+NASD (National Association of Security Dealers) in order to take the exam.
+I don't know whether we already have sunch an arrangement in US with NASD for 
+our other groups. If we do, could you guide me to talk to the appropriate 
+person. If we don't than please let me know and we will decide, whether it is 
+worth pursuing further.
+Thanks and  
+Moazzam
+Moazzam Khoja@
+05/24/2000 04:37 PM
+Mark,
+Could yu browze thru the attached term sheet and let me know whether it can 
+be modified in ways that address our issues.
+Moazzam
+Daniel Diamond
+06/07/2000 06:04 PM
+For your review and inclusion.
+Alan Engberg
+06/01/2000 02:29 PM
+Dan, here's a couple of files to link to the "library" section of the new 
+Plastics & Petchems specific EOL page.
+By copy to Yvette, could you please forward to Dan the latest version of the 
+plastics.enron.com website - this would be the one that you updated the text 
+on back in Mar/Apr.  Thanks.
+As requested, I have attached the Exchange article and the letter we mailed.
+Yvette
+Alan Engberg@ECT
+05/26/2000 11:08 AM
+Yvette, could you please forward to Andrew Morrison (Enron Europe, 
+Marketing/Public Relations) with a copy to myself, an electronic copy of the 
+Plastics Article and a copy of the 1st letter in our direct mail campaign.
+Thank you!
+Alan Engberg
+Daniel Diamond
+06/07/2000 05:58 PM
+FYI...place holder for the launch.
+Dan
+Now we are quoting Children's stories ... by the way ... one of my
+favorites.
+- May 22 nd Newsletter.doc
+Adriane Moratto@
+06/07/2000 05:36 PM
+sorry about the other emails, please disregard them.  This should be the last 
+of it 
+Adriane
+Let me know if I need to resend anything!!
+Daniel Diamond
+06/07/2000 05:35 PM
+Alan Engberg
+06/06/2000 07:41 AM
+Dan, here's our first ever market commentary.  I gather the information will 
+be very stale by the time eol v2 is up and running and that this will serve 
+primarily as a place holder in our web page.
+From our perspective, we'd much prefer to have indenpendent "neutral" sources 
+(such as Platts, ICIS, CMAI ....) do the analysis, or at least do a feed The reason is (a) we'll never be construed as neutral and (b) we're so thin 
+that the traders themselves are the only ones who can put this together.
+Thanks,
+Alan
+=09Adriane Moratto@
+=0906/07/2000 04:59 PM
+=09=09=20
+Please let me know if there are any problems.  There are only  a few more=20
+html's to document and I will send those soon.  Just wanted to get you what I=20
+have finished.
+Adriane
+Market Info.  K-U
+Listing of Exchange-Traded Energy=20
+m
+About EnronOnline
+FAQ=01,s
+Technical Questions
+ons1
+ons2
+ons3
+ons4
+ons5
+ons6
+ons7
+ons8
+Transacting via EnronOnline
+Products & Prices
+Registration and User Admin.
+r_administration1
+r_administration2
+r_administration3
+r_administration4
+r_administration5
+r_administration6
+r_administration7
+r_administration8
+r_administration9
+r_administration10
+r_administration11
+r_administration12
+r_administration13
+r_administration14
+r_administration15
+r_administration16
+Legal Contracts
+Press Room
+Daniel Diamond
+06/08/2000 04:23 PM
+Daniel Diamond
+06/06/2000 10:51 AM
+Dan,
+Very basic.  Will have some changes.  Still working on SO2.
+Jonathon Pielop@ECT
+06/06/2000 06:07 AM
+Daniel Diamond
+06/05/2000 11:44 AM
+Please REPLACE the Enron Broadband Services presentation with this one 
+Thanks,
+Dan
+Dan,
+I didn't speak to slides 6, 9, or 14 of the original presentation sent to 
+you.  I think they are bad slides so you can either take them out or leave 
+them in with no audio.  If in the final review it is determined that these 
+slides should stay in, I am happy to come back in and do the audio for them The revised presentation is below, the original presentation is further down 
+in the e-mail
+Fred Cohagan
+Manager, Bandwidth Origination
+Enron Broadband Services
+Office:  713-853-1805
+Mobile/Pager: 713-826-4485
+e-mail: fred_cohagan@.net
+About Enron:
+Most Innovative Company, 5th Consecutive Year, Fortune Magazine, February 21, 
+2000
+Quality of Management, Voted 1st in US , Fortune Magazine, February 21, 2000
+100 Best Companies to Work for in America, Fortune Magazine, February 21, 2000
+Erik Simpson
+06/02/00 10:35 AM
+Erik Simpson
+Global Bandwidth Risk Management
+Enron Broadband Services
+Phone: +1 713-853-0600
+Mobile: +1 832-689-4939
+Facsimile: +1 713-646-8795
+Please respond to xtrials@optioninvestor.com
+The Option Investor Newsletter          1-17-98
+Sunday             Part 3 of 7
+TLAB - Tellabs $85.94 (+11.63)(P3W $10.18)
+Tellabs is quickly becoming a powerhouse in the Telecom
+equipment industry. With their TITAN and CABLESPAN systems,
+and its DXX multiplexers, TLAB is raking in the money from
+customers among the telephone companies, cable operators,
+and government agencies.  Though they faded from news of
+their failed merger of Ciena, Tellabs is still a major
+player.
+Wow!  What a play.  TLAB gave up only $0.44 in Thursday's
+turmoil and came smokin' back $5.25 on Friday to close at
+$85.94.  Technicals look outstanding with a small
+consolidation already taken place; all indicators in
+positive territory.  We introduced the play Thursday under
+the following logic: TLAB spiked up $13 last Tuesday to $78
+on 11 million shares, $8 higher than resistance previously
+set at $70.  TLAB drifted back to $74, then spiked $5 to
+$79, on average volume of 3.5 million.  Over the previous 3
+trading days, it gained in market weakness while giving
+back only $.44 in heavy trading in a downright bearish
+market - a terrific sign of strength.  3.5 million shares
+traded daily; 147 million shares in float; $3.14 per share
+in cash; 34% return on equitystrong fundamentals.  We
+expect them to announce more contracts in the coming weeks.
+Recent news is capturing investors' eyeballs, making for a
+good story.  We could find no news on Friday driving the
+price; just market recovery and stock momentum.
+Monday, Warburg, Dillion Read raised their rating to a
+"buy" citing raised earnings per share estimates to $2.35
+and $2.93 from $2.30 and $2.85 for 1999 and 2000,
+respectively.  They further state, "fundamentals for the
+telecom equipment group has improved over the past few
+months which improves visibility for Tellabs" and "Our
+checks with Tellabs will report fourth quarter 1998 results
+slightly better than our $0.58 earnings per share estimate,
+as well as having a positive outlook for 1999" (Reuters).
+Also, rumors surfaced last week that TLAB was a targeted
+buyout/merger candidate, but were quickly squashed.  Not
+soon enough, though, to draw investor attention to the
+price move.
+BUY CALL FEB-80 TEQ-BP OI=3D1270 at $ 9.75 SL=3D 7.25 ATM
+BUY CALL FEB-85*TEQ-BQ OI=3D 965 at $ 7.00 SL=3D 5.75 OTM
+BUY CALL MAR-85 TEQ-CQ OI=3D 873 at $ 9.38 SL=3D 7.00 more time
+BUY CALL JUN-85 TEQ-FQ OI=3D 105 at $13.75 SL=3D11.00 OTM
+highest strike available
+Picked on Jan. 14th     $80.69          PE=3D 39
+Change since picked     $ 5.25          52 week low =3D$31.38
+Analysts Ratings    15-9-3-0-0          52 week high=3D$93.12
+Last earnings on 09-98 est=3D.46          actual=3D.49
+Next earnings on 01-25 est=3D.59          versus=3D.42
+Chart =3D  
+QCOM - Qualcomm, Inc. $63.88 (+3.63)
+QCOM develops, manufactures, markets, licenses, and operates
+advanced communications systems and products based on digital
+wireless technology. The Company's primary product areas are
+the OmniTRACS system (a geostationary satellite-based,
+mobile communications system providing two-way data and
+position reporting services), CDMA wireless communications
+systems and products and, in conjunction with others, the
+development of the Globalstar low-earth-orbit (LEO)
+satellite communications system.  The company's CDMA technology
+has become the dominant wireless transmission standard in the
+US and Korea, and is gaining momentum in a host of other
+countries.  Demand for CDMA phones is surging as the US
+wireless industry is migrating from analog to digital.
+In the news last week, QCOM, along with several other
+companies, purchased a concession to operate a fixed line
+telephone service in Brazil.  QCOM has indicated, in the past,
+that it is lobbying China to adopt its CDMA technology.  Since
+1990, the average annual growth rate of mobile phone users in
+China has been about 160%, according to government figures.
+QCOM is building a global presence.  It was also reported on
+CNBC on Friday that there is renewed interest in QCOM as a
+takeover candidate given the recent acquisition of ATI and the
+LU/ASND merger.  If fact, the entire sector is expecting
+another round of takeovers given the competitive landscape.
+QCOM has been in a basing pattern since last November.  It
+actually fell below its 200 day moving average in December, and
+then started its current run around the beginning of the year.
+QCOM reports earnings on Tuesday just before the close.  As
+you know we don't recommend holding over earnings releases, but
+QCOM might make an interesting short term trade before the
+earnings release.  Depending on the earnings release on
+Tuesday, we also like QCOM as a play after the release given
+the merger activity in the sector.  After the earnings release,
+wait for a direction before initiating a play.
+BUY CALL FEB-60 QAQ-BL OI=3D1421 at $7.25 SL=3D5.25
+BUY CALL FEB-65*QAQ-BM OI=3D1224 at $4.38 SL=3D2.75
+BUY CALL FEB-70 QAQ-BN OI=3D 745 at $2.50 SL=3D1.25
+BUY CALL APR-70 QAQ-DN OI=3D 401 at $5.13 SL=3D3.25
+BUY CALL JUL-70 QAQ-GN OI=3D  37 at $7.88 SL=3D6.25
+Picked on Jan 17th at $63.88   PE=3D22
+Change since picked    +0.00   52 week low =3D$37.75
+Analysts Ratings   6-8-6-0-0   52 week high=3D$67.38
+Last earnings  09-98 est=3D.50   actual=3D.54
+Next earnings  01-19 est=3D.59   versus=3D.58
+Chart =3D  
+NOK.A  Nokia  $138.59 (+$3.59)
+Nokia is a supplier of telecommunications systems and
+equipment and is the world's leading maker of cellular
+phones. It's telecommunications and mobile phone sales are
+growing rapidly, and margins are higher as well. Nokia is
+increasing plant capacity to keep up with demand.
+We covered Nokia from Dec. 13th until Jan. 10th as both a
+split candidate and a momentum play. It climbed steadily
+for us into the first week of January, when the stock got
+ahead of itself. It had risen a little too quickly due to
+enthusiasm for the new Euro and to excitement over the ATI
+bids. When it began pulling back from its $142.25 close on
+Jan.6th, we feared a correction and became reluctant to
+recommend new positions, so we dropped it. With yesterday's
+$6.34 rebound, the correction appears to be over, and the
+stock remains well above its moving averages, so we are
+adding it back to our recommended plays. When NOKA
+announced a split in Feb. 1998, a long and steep split run
+followed. We have been unable to confirm the expected
+earnings release date for this foreign owned stock, but we
+will keep you posted, as that is a likely time for a new
+split announcement.
+Since we dropped it, Nokia has entered the pre-paid mobile
+phone market in an agreement with Topp Telecom, Inc., of
+Miami. Other recent news on this stock can still be found
+in previous newsletters posted on the O.I. website. When
+researching NOK.A, be aware that some sites require the dot
+and some won't allow it.
+BUY CALL FEB-135 NAY-BG OI=3D393 at $11.38 SL=3D 9.00
+BUY CALL FEB-140*NAY-BH OI=3D241 at $ 8.88 SL=3D 6.75
+BUY CALL APR-135 NAY-DG OI=3D299 at $17.00 SL=3D13.00
+BUY CALL APR-140 NAY-DH OI=3D175 at $14.88 SL=3D11.75
+BUY CALL JUL-140 NAY-GH OI=3D 14 at $ 9.25 SL=3D 7.00
+Picked on Jan 17th  at  $138.59         P/E=3D n/a
+Change since picked       $0.00         52 week low=3D 35.31
+Analysts' ratings    10-6-0-0-0         52 weekhigh=3D142.50
+Last earnings  9/98  est=3D $ .67  act=3D$.88  surprise=3D31%
+Next earnings 12/98  est=3D $1.01
+Chart =3D  
+Software - Sector
+MSFT - Microsoft $149.75 (-0.13)(+11.19)(-3.06)(P5W +28.13)
+From their own words, "Microsoft Rules." Although it's
+current reign is being rocked with revolution, the Evil M-
+pire (as some programmers and anti-Internet Explorer
+browser patriots call it), has been fighting the Federal
+government on anti-trust grounds for months. The line to
+take their turn and bad mouth the bully was long and
+distinguished. The fact is, MSFT is good at what they do.
+They are the world's #1 software company (Y2K compliant or
+not!) and their operating systems dominate the PC
+landscape.
+Extremely volatile, but almost no change from the previous
+week.  Price range last week was $136 to $150 on above
+average volume for 4 of 5 trading days.  Friday gave us an
+$8 gain following the Brazilian downdraft.  CS First Boston
+said Microsoft "appears on track" to meet or beat estimate
+of 60 cents per share - an increase of 46 percent from the
+42 cents in the same quarter last year.  Sales are expected
+to increase 21 percent to $4.3 billion.  With conviction,
+we still predict a stock split with the earnings
+announcement after the close January 19th (MSFT confirmed
+this date); only 1 trading day away.  Historically, MSFT
+has split like clockwork at $140.  MSFT has expressed
+optimism about their future and has every reason to split
+the stock.  MSFT is trading just $3 off its all-time high
+of $152.50, set the previous week.  Prudential last week
+set a price target of $175.  We think their relative price
+compared to the market reflects strong investor confidence.
+A great play in the making.
+Unsavory news release late Thursday: A federal judge
+scolded Microsoft Corp. over new contract language
+requiring temporary workers to waive any awards from a
+pending lawsuit over the software giant's employment
+practices (Reuters).  It had no affect on the stock, but
+raised eyebrows in the PR department.  Conversely, a new
+Microsoft poll shows that 76 percent of American consumers
+believe that Microsoft has benefited both U.S. consumers
+and the computer software industry (Reuters).  The real
+surprise was another press release stating Robert Bork
+believes Microsoft should be broken into 3 companies; an
+unusual comment from a free market champion, until you
+realize he's paid by Netscape to represent them in the
+Justice Departments case.  Finally, MSFT appealed the Sun-
+Java infringement injunction citing that it believes the
+court mistakenly treated the case filed against it by Sun
+reiterate, "no material effect on earnings".  Everen
+Securities still has their price targets(0-6 months) of
+$161 and their long term (6-18 months) of $200
+BUY CALL FEB-145 MSQ-BI OI=3D 7806 at $11.38 SL=3D9.00 ITM 4.75
+BUY CALL FEB-150*MSQ-BJ OI=3D14655 at $ 8.75 SL=3D6.50 ATM
+BUY CALL APR-155 MSQ-DU OI=3D 3228 at $10.88 SL=3D8.75
+BUY CALL APR-160 MSQ-DX OI=3D 3214 at $ 9.25 SL=3D7.00
+Picked on December 8th at $133.63     PE =3D 70
+Change Since Picked      +$ 16.12     52 Week High=3D 152.50
+Analysts Ratings       14-8-5-0-0     52 Week Low =3D  62.19
+Last Earnings 09/98 est. 0.49 actual .56  surprise 14.29%
+Next Earnings 01-19 est. 0.58 versus .43
+Chart =3D  
+CHKPF  Check Point Software $51.25 (+4.37)(+1.07)
+Network break-ins get doused with Check Point Software
+Technologies' firewall products -- software that protects
+corporate networks from unauthorized access, from both
+inside and outside the company. FireWall-1 authenticates
+remote users, controls access, and blocks viruses and other
+undesirable Web content. Its FloodGate-1 clears up traffic
+congestion on crowded Internet and intranet links by
+allocating available space to company-defined uses. Check
+Point's largest customer is Sun Microsystems' SunSoft, which
+accounts for about 20% of sales. Check Point operates
+subsidiaries in Europe, North America, and the Pacific Rim.
+CHKPF is a company that benefits from the explosion in the
+Internet.  As companies increase their use of the web, CHKPF's
+services will be needed more and more.  CHKPF has an incredible
+record of earning surprises.  Next earnings are scheduled for
+January 21st.  Holding over earnings is a risky proposition, but
+for those risk takers out there, it might pay off.  There is a
+possibility that CHKPF might announce a stock split.  They have
+plenty of shares, but have never announced a split in the past.
+MACD is positive and CHKPF price is above all moving averages.
+Between Tuesday and earnings after the close on Thursday, CHKPF
+could have a nice run.
+CHKPF, along with other networking security companies, will be
+holding a seminar in February. This seminar will outline the
+future of the business and the strategies these companies use
+and how they can help other companies with their information
+security. CHKPF has a consensus growth rate of 37.55%. Watch
+for a pullback and hang on for the ride.
+BUY CALL FEB-45 KEQ-BI OI=3D 153 at $8.75 SL=3D 6.50 ITM $6.25
+BUY CALL FEB-50*KEQ-BJ OI=3D1034 at $5.63 SL=3D 3.75 ITM $1.25
+BUY CALL FEB-55 KEQ-BK OI=3D 176 at $3.38 SL=3D 1.75
+BUY CALL APR-50 KEQ-DJ OI=3D  89 at $8.50 SL=3D 6.50 ITM $1.25
+BUY CALL APR-55 KEQ-DK OI=3D  35 at $6.50 SL=3D 4.75
+Picked on Jan 17th at $ 51.25   PE=3D22
+Change since picked     +0.00   52 week low =3D$10.88
+Analysts Ratings    3-8-3-0-0   52 week high=3D$52.63
+Last earnings   10-98 est=3D.40   actual=3D.45
+Next earnings   01-21 est=3D.47   versus=3D.37
+Chart =3D  
+Semiconductor - Sector
+PRIA  PRI Automation, INC. $34.50 (+4.87)
+PRIA designs, develops, manufactures, and markets factory
+automation systems for the cleanroom manufacturing
+operations of semi-conductor makers and OEM equipment
+suppliers. Last year's $178.2 million in revenues reflect
+the big downturn in the semi-conductor industry, but that
+is changing. The 1998 glut of chips has been depleted, and
+demand is strong again for these products.
+After hitting a high of $37.50 in Feb. 1998, PRIA stock had
+lost about 75% of its value by the time the market bottomed
+in October. However, it has been climbing fairly steadily
+ever since, except for a brief correction in December. With
+the chip industry recovering, it follows that a company
+such as PRIA will benefit. On January 12th, CIBC Oppenheimer
+upgraded PRIA to strong buy from buy. This as a momentum
+play in an improving industry.  Earnings due out Jan. 28th.
+BUY CALL FEB-30*UXQ-BF OI=3D176 at $6.38 SL=3D4.75
+BUY CALL FEB-35 UXQ-BG OI=3D 29 at $3.63 SL=3D1.75
+BUY CALL MAY-30 UXQ-EF OI=3D107 at $9.00 SL=3D6.75
+BUY CALL MAY-35 UXQ-EG OI=3D 25 at $6.63 SL=3D5.00
+Picked on Jan 17th  at $34.50        P/E=3D n/a
+Change since picked    $ 0.00        52 week low=3D  9.56
+Analysts' ratings   1-5-4-0-0        52 week high=3D37.50
+Last earnings  9/98 act=3D-$.20  surprise=3D99%
+Next earnings 01-28 est=3D-$.26
+Chart =3D  
+MU  Micron Technology  $71.31 (+7.68)
+Micron makes semi-conductor memory products, PCs, circuit
+boards, memory modules, and system level assemblies, and
+has a market cap. of $17.6 billion.  Revenues for MU=20
+declined last year due to lower selling prices of PCs and
+semi-conductor products. This was a result of too much
+product industry wide and too little demand, but the
+company is recovering now, as demand increases.
+With the industry gaining steam, market expectations for
+Micron's earnings were high in December, and the stock
+pulled back when MU did not beat analysts' earnings by a
+wide enough margin. However, MU has lately begun climbing
+again and gathering momentum. Even in this past week's down
+market, the stock looked fairly strong. Chip prices climbed
+6% last week as Koreans permanently slashed production and
+may actually swing the market from an overproduction last
+year to a scarcity in the coming year. The wild card in the
+future supply is Taiwan. Already, though, chip prices,
+which were $200 a year ago, and fell below $60 in May, have
+climbed to near $90. At the same time, sales for PCs and
+the chips that go in them are showing strong increases, and
+that will eventually show up in MU's bottom line. This is a
+momentum play.
+CBS Marketwatch screened stocks for 20 different
+characteristics and MU turned out in the top group. The
+five best characteristics: 1)Strong recent earnings/revenue
+growth, 2)Selling at a discount to its growth,
+3)Consistently beats analysts expectations, 4)Earnings
+estimates continually revised upwards, 5)Short- and long-
+term relative strength.
+BUY CALL FEB-70*MU-BN OI=3D1757 at $ 7.25 SL=3D 5.25
+BUY CALL FEB-75 MU-BO OI=3D1109 at $ 5.13 SL=3D 3.25
+BUY CALL APR-70 MU-DN OI=3D 405 at $11.00 SL=3D 8.75
+BUY CALL APR-75 MU-DO OI=3D 371 at $ 8.88 SL=3D 6.75
+BUY CALL JUL-75 MU-GO OI=3D 252 at $12.63 SL=3D10.25
+Picked on Jan  17th at  $71.31         P/E=3D n/a
+Change since picked    $  0.00         52 week low=3D20.06
+Analysts' ratings   10-4-6-0-1         52 week high=3D71.94
+Last earnings  11/98  actual=3D -.19  surprise=3D39%
+Next earnings  03-22  est   =3D -.10
+Chart =3D  
+JBL - Jabil Circuit, Inc. $73.88 (-1.00)(+.38)(+2.94)(+3.06)
+JBL is the third-largest US manufacturer of circuit board
+systems, trailing SCI Systems and Solectron. The company's
+products are used in PCs, printers, network hardware, cellular
+phones, and cars. JBL's major customers include Hewlett
+Packard, 3Com, and Cisco Systems with more than half of its
+revenues coming from telecommunications companies.  JBL's
+customers use contract manufacturers, like JBL, to save money
+and improve production times.  JBL has manufacturing facilities
+in Malaysia, Mexico, the UK, and the US.  Insiders own
+approximately 41% of the company.
+In the news last week, Everen Securities initiated coverage on
+JBL with an intermediate term market perform and a long term
+outperform.  The press release did note, that in the near-term
+they believe that JBL is close to fair value, but in the long
+term it should be an outperformer.  The other bit of news that
+helped JBL was that Solectron announced a two for one
+stock split.  As we have said on more than one occasion, this
+industry tends to move together.
+Last week, JBL bounced off of its 21 day moving average and
+closed right at its 10 day moving average on Friday.  There
+also appears to be some support for JBL around $71.  JBL
+has been on extended run since last September, and given the
+way the sector goes in and out of favor with the Street, you
+should keep a close eye on JBL if you are playing it.  If JBL
+were to break below $71, in a significant way, we would be very
+cautious of the stock.  Also, as with any sector, but more so
+with this one, you have to keep an eye on the sector when
+playing JBL.
+BUY CALL FEB-70 JBL-BN OI=3D150 at $8.00, SL=3D6.25
+BUY CALL FEB-75*JBL-BO OI=3D598 at $5.25, SL=3D3.25
+BUY CALL FEB-80 JBL-BP OI=3D808 at $3.25, SL=3D1.50
+BUY CALL MAR-80 JBL-CP OI=3D152 at $5.00, SL=3D3.25
+BUY CALL JUN-80 JBL-FP OI=3D109 at $9.25, SL=3D6.75
+Picked on Dec 6th at  $63.38   PE=3D33
+Change since picked   +10.50   52 week low =3D$23.00
+Analysts Ratings   7-9-5-0-0   52 week high=3D$79.00
+Last earnings  11-98 est=3D.43   actual=3D.50
+Next earnings  03-17 est=3D.52   versus=3D.52
+Chart =3D  
+Electronics/Peripherals/Hardware  - Sector
+LXK  Lexmark Intl. $98.06 (-2.50)(+.06)(+7.25)(+1.31)
+Lexmark has good peripheral vision. Lexmark International
+Group is a leading maker of computer printers and related
+products, which generate more than 80% of its sales. Its
+printer line includes laser printers (designed primarily
+for corporate networks and desktops) and ink-jet printers
+(for home and business use). Unlike many of its competitors,
+Lexmark develops and manufactures it's own printers, which
+results in fast product cycle times. The company also makes
+supplies for IBM and other name brand printers and typewriters.
+Lexmark's products are sold in more than 15,000 retail outlets
+in more than 150 countries.
+LXK consolidated this last week and is sitting right on its
+20-dma. We still like LXK with earnings on the 26th of January.
+Remember, holding over earnings is risky. In the case of LXK,
+the risk might be justified if they announce a stock split.
+Each individual has to weigh out the risk themselves.
+LXK hasn't had any news the last few days. These last few
+weeks have seen LXK get recommended by many different
+professionals as a great stock to own for 1999. Remember,
+LXK has had an average earnings surprise of 11.75% over the
+last four quarters. This could help propel LXK higher before
+earnings on the expectation. There are different earnings dates
+listed on the web, but First Call does list the 26th of January.
+We will continue to try to get a fixed date from investor
+relations.
+BUY CALL FEB- 95 LXK-BS OI=3D 53 at $ 9.38 SL=3D6.75 ITM $3.06
+BUY CALL FEB-100*LXK-BT OI=3D514 at $ 7.38 SL=3D5.25
+BUY CALL FEB-105 LXK-BA OI=3D284 at $ 5.00 SL=3D3.25
+BUY CALL APR-100 LXK-DT OI=3D 52 at $11.75 SL=3D9.25
+BUY CALL APR-105 LXK-DA OI=3D 40 at $ 9.50 SL=3D7.00
+Picked on Dec 15th at    $88.38   P/E =3D 29
+Change since picked:     + 9.68   52 week low =3D$ 33.63
+Analysts' ratings     1-4-1-0-0   52 week high=3D$103.50
+Last earnings  10-98 est=3D $ .79   actual=3D $.81
+Next earnings  01-26 est=3D $1.09   prior =3D $.78
+Chart =3D  
+EMC - EMC Corporation $100.06 (+6.50)(+8.56)(+3.38)(+.13)
+EMC is a Fortune 500 company that designs, manufactures,
+markets an supports high performance storage products.  The
+company's products store retrieve, manage, protect and share
+information from all major computing environments, including
+UNIX, Windows NT and mainframe platforms.  EMC markets its
+memory products under the name Symmetrix.  EMC and its
+enterprise storage systems have developed a clear cut
+technological edge over its competition.  The company has been
+able to successfully leverage its leadership position in the
+mainframe storage area into the lucrative, faster growing open
+systems market.
+There really wasn't any news last week on EMC.  We think the
+real story happened on Thursday, when the NASDAQ was down and
+EMC went up.  This suggests that there are still a lot of
+buyers who want EMC stock.  This was confirmed by the move EMC
+made on Friday.  We continue to read  articles that discuss EMC
+being in model portfolios of 20 to 30 growth stocks.  There was
+an article in MSN MoneyCentral about EMC being one of the top
+30 growth stocks.  EMC has been, and is continuing to be, a
+great momentum stock.
+EMC took off again on Friday.  It set a new 52 week high on
+Friday, and closed near the high.  As we discussed above, EMC
+is one of those stocks that people keep buying.  As long as
+there are buyers of the stock, we believe it will continue with
+it's momentum.  EMC is also a split candidate.  We know we keep
+saying this, but as it continues to move up, it only increases
+the probability of a split.  A year ago this last November EMC
+split at around $63 after a strong move.  FYI - EMC reports
+earnings before the open on 1/26.
+BUY CALL FEB- 95 EMC-BS OI=3D1072  at $10.75 SL=3D 8.50
+BUY CALL FEB-100*EMC-BT OI=3D3511  at $ 8.25 SL=3D 6.25
+BUY CALL APR- 95 EMC-DS OI=3D 540  at $15.50 SL=3D11.75
+BUY CALL APR-100 EMC-DT OI=3D2619  at $12.88 SL=3D10.50
+Picked on Nov 8th at $69.06     PE=3D58
+Change since picked  +31.00     52 week low =3D$ 23.50
+Analysts Ratings 10-4-0-0-0     52 week high=3D$100.19
+Last earnings  9-98 est=3D.36     actual=3D.38
+Next earnings  1-26 est=3D.46     versus=3D.32
+Chart =3D  
+XIRC  Xircom Inc. $39.88 (+1.38)(+4.50)(+1.25)
+Xircom makes adapters that connect portable PCs to corporate
+networks, the Internet, and commercial online services. The
+company's products include adapter/modem cards (CreditCard
+Ethernet+Modem), network adapters for portable PCs (Pocket
+Ethernet Adapter, Pocket Token Ring Adapter), and modem-only
+PC cards (CreditCard Modem). Xircom sells its products to
+original equipment manufacturers and through a worldwide
+network of distributors, value-added resellers, and computer
+retailers. Over half of its income is from foreign sales.
+Intel owns 11% of Xircom; chairman and CEO Dirk Gates owns
+about 5%.
+XIRC is expecting to announce earnings that are 300% higher
+than the same quarter last year.  With the large earning
+surprises XIRC has had the last four quarter, a nice run
+could develop into earnings. Though a split isn't likely,
+the company has enough shares to announced one. There is
+no split history for XIRC.  XIRC reached a new 52-week high
+on Friday when it hit $40.50.
+XIRC was recently selected as one of the best mobile PC cards.
+Its product will be competing with 3COM and a few others for
+the best mobile PC card.  This award ceremony is put on the
+Mobility Awards. 3COM is one of the biggest competitors of XIRC.
+BUY CALL FEB-35 XQR-BG OI=3D 41 at $6.63 SL=3D4.75 ITM $4.88
+BUY CALL FEB-40*XQR-BH OI=3D467 at $3.75 SL=3D2.25
+BUY CALL MAR-35 XQR-CG OI=3D127 at $7.50 SL=3D5.75 ITM $4.88
+BUY CALL MAR-40 XQR-CH OI=3D116 at $4.88 SL=3D3.00
+BUY CALL JUN-40 XQR-FH OI=3D 55 at $7.38 SL=3D5.50
+Picked on Jan.9th at    $38.50    PE =3D 28
+Change since picked      +1.33    52 week low =3D$ 9.25
+Analysts Ratings     4-2-1-0-0    52 week high=3D$40.50
+Last earnings on 10-98 est=3D.25    actual=3D.33
+Next earnings on 01-21 est=3D.34    versus=3D.11
+Chart =3D  
+PLAYS CONTINUED IN SECTION FOUR.
+DISCLAIMER
+This newsletter is a publication dedicated to the education
+of options traders. The newsletter is an information service
+only. The information provided herein is not to be construed
+as an offer to buy or sell securities of any kind. The
+newsletter picks are not to be considered a recommendation
+of any stock or option but an information resource to aid the
+investor in making an informed decision regarding trading in
+options. It is possible at this or some subsequent date, the
+editor and staff of The Option Investor Newsletter may own,
+buy or sell securities presented. All investors should consult
+a qualified professional before trading in any security. The
+information provided has been obtained from sources deemed
+reliable but is not guaranteed as to accuracy or completeness.
+The newsletter staff makes every effort to provide timely
+information to its subscribers but cannot guarantee specific
+delivery times due to factors beyond our control.
+Please respond to xtrials@optioninvestor.com
+The Option Investor Newsletter          1-17-98
+Sunday             Part 3 of 7
+TLAB - Tellabs $85.94 (+11.63)(P3W $10.18)
+Tellabs is quickly becoming a powerhouse in the Telecom
+equipment industry. With their TITAN and CABLESPAN systems,
+and its DXX multiplexers, TLAB is raking in the money from
+customers among the telephone companies, cable operators,
+and government agencies.  Though they faded from news of
+their failed merger of Ciena, Tellabs is still a major
+player.
+Wow!  What a play.  TLAB gave up only $0.44 in Thursday's
+turmoil and came smokin' back $5.25 on Friday to close at
+$85.94.  Technicals look outstanding with a small
+consolidation already taken place; all indicators in
+positive territory.  We introduced the play Thursday under
+the following logic: TLAB spiked up $13 last Tuesday to $78
+on 11 million shares, $8 higher than resistance previously
+set at $70.  TLAB drifted back to $74, then spiked $5 to
+$79, on average volume of 3.5 million.  Over the previous 3
+trading days, it gained in market weakness while giving
+back only $.44 in heavy trading in a downright bearish
+market - a terrific sign of strength.  3.5 million shares
+traded daily; 147 million shares in float; $3.14 per share
+in cash; 34% return on equitystrong fundamentals.  We
+expect them to announce more contracts in the coming weeks.
+Recent news is capturing investors' eyeballs, making for a
+good story.  We could find no news on Friday driving the
+price; just market recovery and stock momentum.
+Monday, Warburg, Dillion Read raised their rating to a
+"buy" citing raised earnings per share estimates to $2.35
+and $2.93 from $2.30 and $2.85 for 1999 and 2000,
+respectively.  They further state, "fundamentals for the
+telecom equipment group has improved over the past few
+months which improves visibility for Tellabs" and "Our
+checks with Tellabs will report fourth quarter 1998 results
+slightly better than our $0.58 earnings per share estimate,
+as well as having a positive outlook for 1999" (Reuters).
+Also, rumors surfaced last week that TLAB was a targeted
+buyout/merger candidate, but were quickly squashed.  Not
+soon enough, though, to draw investor attention to the
+price move.
+BUY CALL FEB-80 TEQ-BP OI=3D1270 at $ 9.75 SL=3D 7.25 ATM
+BUY CALL FEB-85*TEQ-BQ OI=3D 965 at $ 7.00 SL=3D 5.75 OTM
+BUY CALL MAR-85 TEQ-CQ OI=3D 873 at $ 9.38 SL=3D 7.00 more time
+BUY CALL JUN-85 TEQ-FQ OI=3D 105 at $13.75 SL=3D11.00 OTM
+highest strike available
+Picked on Jan. 14th     $80.69          PE=3D 39
+Change since picked     $ 5.25          52 week low =3D$31.38
+Analysts Ratings    15-9-3-0-0          52 week high=3D$93.12
+Last earnings on 09-98 est=3D.46          actual=3D.49
+Next earnings on 01-25 est=3D.59          versus=3D.42
+Chart =3D  
+QCOM - Qualcomm, Inc. $63.88 (+3.63)
+QCOM develops, manufactures, markets, licenses, and operates
+advanced communications systems and products based on digital
+wireless technology. The Company's primary product areas are
+the OmniTRACS system (a geostationary satellite-based,
+mobile communications system providing two-way data and
+position reporting services), CDMA wireless communications
+systems and products and, in conjunction with others, the
+development of the Globalstar low-earth-orbit (LEO)
+satellite communications system.  The company's CDMA technology
+has become the dominant wireless transmission standard in the
+US and Korea, and is gaining momentum in a host of other
+countries.  Demand for CDMA phones is surging as the US
+wireless industry is migrating from analog to digital.
+In the news last week, QCOM, along with several other
+companies, purchased a concession to operate a fixed line
+telephone service in Brazil.  QCOM has indicated, in the past,
+that it is lobbying China to adopt its CDMA technology.  Since
+1990, the average annual growth rate of mobile phone users in
+China has been about 160%, according to government figures.
+QCOM is building a global presence.  It was also reported on
+CNBC on Friday that there is renewed interest in QCOM as a
+takeover candidate given the recent acquisition of ATI and the
+LU/ASND merger.  If fact, the entire sector is expecting
+another round of takeovers given the competitive landscape.
+QCOM has been in a basing pattern since last November.  It
+actually fell below its 200 day moving average in December, and
+then started its current run around the beginning of the year.
+QCOM reports earnings on Tuesday just before the close.  As
+you know we don't recommend holding over earnings releases, but
+QCOM might make an interesting short term trade before the
+earnings release.  Depending on the earnings release on
+Tuesday, we also like QCOM as a play after the release given
+the merger activity in the sector.  After the earnings release,
+wait for a direction before initiating a play.
+BUY CALL FEB-60 QAQ-BL OI=3D1421 at $7.25 SL=3D5.25
+BUY CALL FEB-65*QAQ-BM OI=3D1224 at $4.38 SL=3D2.75
+BUY CALL FEB-70 QAQ-BN OI=3D 745 at $2.50 SL=3D1.25
+BUY CALL APR-70 QAQ-DN OI=3D 401 at $5.13 SL=3D3.25
+BUY CALL JUL-70 QAQ-GN OI=3D  37 at $7.88 SL=3D6.25
+Picked on Jan 17th at $63.88   PE=3D22
+Change since picked    +0.00   52 week low =3D$37.75
+Analysts Ratings   6-8-6-0-0   52 week high=3D$67.38
+Last earnings  09-98 est=3D.50   actual=3D.54
+Next earnings  01-19 est=3D.59   versus=3D.58
+Chart =3D  
+NOK.A  Nokia  $138.59 (+$3.59)
+Nokia is a supplier of telecommunications systems and
+equipment and is the world's leading maker of cellular
+phones. It's telecommunications and mobile phone sales are
+growing rapidly, and margins are higher as well. Nokia is
+increasing plant capacity to keep up with demand.
+We covered Nokia from Dec. 13th until Jan. 10th as both a
+split candidate and a momentum play. It climbed steadily
+for us into the first week of January, when the stock got
+ahead of itself. It had risen a little too quickly due to
+enthusiasm for the new Euro and to excitement over the ATI
+bids. When it began pulling back from its $142.25 close on
+Jan.6th, we feared a correction and became reluctant to
+recommend new positions, so we dropped it. With yesterday's
+$6.34 rebound, the correction appears to be over, and the
+stock remains well above its moving averages, so we are
+adding it back to our recommended plays. When NOKA
+announced a split in Feb. 1998, a long and steep split run
+followed. We have been unable to confirm the expected
+earnings release date for this foreign owned stock, but we
+will keep you posted, as that is a likely time for a new
+split announcement.
+Since we dropped it, Nokia has entered the pre-paid mobile
+phone market in an agreement with Topp Telecom, Inc., of
+Miami. Other recent news on this stock can still be found
+in previous newsletters posted on the O.I. website. When
+researching NOK.A, be aware that some sites require the dot
+and some won't allow it.
+BUY CALL FEB-135 NAY-BG OI=3D393 at $11.38 SL=3D 9.00
+BUY CALL FEB-140*NAY-BH OI=3D241 at $ 8.88 SL=3D 6.75
+BUY CALL APR-135 NAY-DG OI=3D299 at $17.00 SL=3D13.00
+BUY CALL APR-140 NAY-DH OI=3D175 at $14.88 SL=3D11.75
+BUY CALL JUL-140 NAY-GH OI=3D 14 at $ 9.25 SL=3D 7.00
+Picked on Jan 17th  at  $138.59         P/E=3D n/a
+Change since picked       $0.00         52 week low=3D 35.31
+Analysts' ratings    10-6-0-0-0         52 weekhigh=3D142.50
+Last earnings  9/98  est=3D $ .67  act=3D$.88  surprise=3D31%
+Next earnings 12/98  est=3D $1.01
+Chart =3D  
+Software - Sector
+MSFT - Microsoft $149.75 (-0.13)(+11.19)(-3.06)(P5W +28.13)
+From their own words, "Microsoft Rules." Although it's
+current reign is being rocked with revolution, the Evil M-
+pire (as some programmers and anti-Internet Explorer
+browser patriots call it), has been fighting the Federal
+government on anti-trust grounds for months. The line to
+take their turn and bad mouth the bully was long and
+distinguished. The fact is, MSFT is good at what they do.
+They are the world's #1 software company (Y2K compliant or
+not!) and their operating systems dominate the PC
+landscape.
+Extremely volatile, but almost no change from the previous
+week.  Price range last week was $136 to $150 on above
+average volume for 4 of 5 trading days.  Friday gave us an
+$8 gain following the Brazilian downdraft.  CS First Boston
+said Microsoft "appears on track" to meet or beat estimate
+of 60 cents per share - an increase of 46 percent from the
+42 cents in the same quarter last year.  Sales are expected
+to increase 21 percent to $4.3 billion.  With conviction,
+we still predict a stock split with the earnings
+announcement after the close January 19th (MSFT confirmed
+this date); only 1 trading day away.  Historically, MSFT
+has split like clockwork at $140.  MSFT has expressed
+optimism about their future and has every reason to split
+the stock.  MSFT is trading just $3 off its all-time high
+of $152.50, set the previous week.  Prudential last week
+set a price target of $175.  We think their relative price
+compared to the market reflects strong investor confidence.
+A great play in the making.
+Unsavory news release late Thursday: A federal judge
+scolded Microsoft Corp. over new contract language
+requiring temporary workers to waive any awards from a
+pending lawsuit over the software giant's employment
+practices (Reuters).  It had no affect on the stock, but
+raised eyebrows in the PR department.  Conversely, a new
+Microsoft poll shows that 76 percent of American consumers
+believe that Microsoft has benefited both U.S. consumers
+and the computer software industry (Reuters).  The real
+surprise was another press release stating Robert Bork
+believes Microsoft should be broken into 3 companies; an
+unusual comment from a free market champion, until you
+realize he's paid by Netscape to represent them in the
+Justice Departments case.  Finally, MSFT appealed the Sun-
+Java infringement injunction citing that it believes the
+court mistakenly treated the case filed against it by Sun
+reiterate, "no material effect on earnings".  Everen
+Securities still has their price targets(0-6 months) of
+$161 and their long term (6-18 months) of $200
+BUY CALL FEB-145 MSQ-BI OI=3D 7806 at $11.38 SL=3D9.00 ITM 4.75
+BUY CALL FEB-150*MSQ-BJ OI=3D14655 at $ 8.75 SL=3D6.50 ATM
+BUY CALL APR-155 MSQ-DU OI=3D 3228 at $10.88 SL=3D8.75
+BUY CALL APR-160 MSQ-DX OI=3D 3214 at $ 9.25 SL=3D7.00
+Picked on December 8th at $133.63     PE =3D 70
+Change Since Picked      +$ 16.12     52 Week High=3D 152.50
+Analysts Ratings       14-8-5-0-0     52 Week Low =3D  62.19
+Last Earnings 09/98 est. 0.49 actual .56  surprise 14.29%
+Next Earnings 01-19 est. 0.58 versus .43
+Chart =3D  
+CHKPF  Check Point Software $51.25 (+4.37)(+1.07)
+Network break-ins get doused with Check Point Software
+Technologies' firewall products -- software that protects
+corporate networks from unauthorized access, from both
+inside and outside the company. FireWall-1 authenticates
+remote users, controls access, and blocks viruses and other
+undesirable Web content. Its FloodGate-1 clears up traffic
+congestion on crowded Internet and intranet links by
+allocating available space to company-defined uses. Check
+Point's largest customer is Sun Microsystems' SunSoft, which
+accounts for about 20% of sales. Check Point operates
+subsidiaries in Europe, North America, and the Pacific Rim.
+CHKPF is a company that benefits from the explosion in the
+Internet.  As companies increase their use of the web, CHKPF's
+services will be needed more and more.  CHKPF has an incredible
+record of earning surprises.  Next earnings are scheduled for
+January 21st.  Holding over earnings is a risky proposition, but
+for those risk takers out there, it might pay off.  There is a
+possibility that CHKPF might announce a stock split.  They have
+plenty of shares, but have never announced a split in the past.
+MACD is positive and CHKPF price is above all moving averages.
+Between Tuesday and earnings after the close on Thursday, CHKPF
+could have a nice run.
+CHKPF, along with other networking security companies, will be
+holding a seminar in February. This seminar will outline the
+future of the business and the strategies these companies use
+and how they can help other companies with their information
+security. CHKPF has a consensus growth rate of 37.55%. Watch
+for a pullback and hang on for the ride.
+BUY CALL FEB-45 KEQ-BI OI=3D 153 at $8.75 SL=3D 6.50 ITM $6.25
+BUY CALL FEB-50*KEQ-BJ OI=3D1034 at $5.63 SL=3D 3.75 ITM $1.25
+BUY CALL FEB-55 KEQ-BK OI=3D 176 at $3.38 SL=3D 1.75
+BUY CALL APR-50 KEQ-DJ OI=3D  89 at $8.50 SL=3D 6.50 ITM $1.25
+BUY CALL APR-55 KEQ-DK OI=3D  35 at $6.50 SL=3D 4.75
+Picked on Jan 17th at $ 51.25   PE=3D22
+Change since picked     +0.00   52 week low =3D$10.88
+Analysts Ratings    3-8-3-0-0   52 week high=3D$52.63
+Last earnings   10-98 est=3D.40   actual=3D.45
+Next earnings   01-21 est=3D.47   versus=3D.37
+Chart =3D  
+Semiconductor - Sector
+PRIA  PRI Automation, INC. $34.50 (+4.87)
+PRIA designs, develops, manufactures, and markets factory
+automation systems for the cleanroom manufacturing
+operations of semi-conductor makers and OEM equipment
+suppliers. Last year's $178.2 million in revenues reflect
+the big downturn in the semi-conductor industry, but that
+is changing. The 1998 glut of chips has been depleted, and
+demand is strong again for these products.
+After hitting a high of $37.50 in Feb. 1998, PRIA stock had
+lost about 75% of its value by the time the market bottomed
+in October. However, it has been climbing fairly steadily
+ever since, except for a brief correction in December. With
+the chip industry recovering, it follows that a company
+such as PRIA will benefit. On January 12th, CIBC Oppenheimer
+upgraded PRIA to strong buy from buy. This as a momentum
+play in an improving industry.  Earnings due out Jan. 28th.
+BUY CALL FEB-30*UXQ-BF OI=3D176 at $6.38 SL=3D4.75
+BUY CALL FEB-35 UXQ-BG OI=3D 29 at $3.63 SL=3D1.75
+BUY CALL MAY-30 UXQ-EF OI=3D107 at $9.00 SL=3D6.75
+BUY CALL MAY-35 UXQ-EG OI=3D 25 at $6.63 SL=3D5.00
+Picked on Jan 17th  at $34.50        P/E=3D n/a
+Change since picked    $ 0.00        52 week low=3D  9.56
+Analysts' ratings   1-5-4-0-0        52 week high=3D37.50
+Last earnings  9/98 act=3D-$.20  surprise=3D99%
+Next earnings 01-28 est=3D-$.26
+Chart =3D  
+MU  Micron Technology  $71.31 (+7.68)
+Micron makes semi-conductor memory products, PCs, circuit
+boards, memory modules, and system level assemblies, and
+has a market cap. of $17.6 billion.  Revenues for MU=20
+declined last year due to lower selling prices of PCs and
+semi-conductor products. This was a result of too much
+product industry wide and too little demand, but the
+company is recovering now, as demand increases.
+With the industry gaining steam, market expectations for
+Micron's earnings were high in December, and the stock
+pulled back when MU did not beat analysts' earnings by a
+wide enough margin. However, MU has lately begun climbing
+again and gathering momentum. Even in this past week's down
+market, the stock looked fairly strong. Chip prices climbed
+6% last week as Koreans permanently slashed production and
+may actually swing the market from an overproduction last
+year to a scarcity in the coming year. The wild card in the
+future supply is Taiwan. Already, though, chip prices,
+which were $200 a year ago, and fell below $60 in May, have
+climbed to near $90. At the same time, sales for PCs and
+the chips that go in them are showing strong increases, and
+that will eventually show up in MU's bottom line. This is a
+momentum play.
+CBS Marketwatch screened stocks for 20 different
+characteristics and MU turned out in the top group. The
+five best characteristics: 1)Strong recent earnings/revenue
+growth, 2)Selling at a discount to its growth,
+3)Consistently beats analysts expectations, 4)Earnings
+estimates continually revised upwards, 5)Short- and long-
+term relative strength.
+BUY CALL FEB-70*MU-BN OI=3D1757 at $ 7.25 SL=3D 5.25
+BUY CALL FEB-75 MU-BO OI=3D1109 at $ 5.13 SL=3D 3.25
+BUY CALL APR-70 MU-DN OI=3D 405 at $11.00 SL=3D 8.75
+BUY CALL APR-75 MU-DO OI=3D 371 at $ 8.88 SL=3D 6.75
+BUY CALL JUL-75 MU-GO OI=3D 252 at $12.63 SL=3D10.25
+Picked on Jan  17th at  $71.31         P/E=3D n/a
+Change since picked    $  0.00         52 week low=3D20.06
+Analysts' ratings   10-4-6-0-1         52 week high=3D71.94
+Last earnings  11/98  actual=3D -.19  surprise=3D39%
+Next earnings  03-22  est   =3D -.10
+Chart =3D  
+JBL - Jabil Circuit, Inc. $73.88 (-1.00)(+.38)(+2.94)(+3.06)
+JBL is the third-largest US manufacturer of circuit board
+systems, trailing SCI Systems and Solectron. The company's
+products are used in PCs, printers, network hardware, cellular
+phones, and cars. JBL's major customers include Hewlett
+Packard, 3Com, and Cisco Systems with more than half of its
+revenues coming from telecommunications companies.  JBL's
+customers use contract manufacturers, like JBL, to save money
+and improve production times.  JBL has manufacturing facilities
+in Malaysia, Mexico, the UK, and the US.  Insiders own
+approximately 41% of the company.
+In the news last week, Everen Securities initiated coverage on
+JBL with an intermediate term market perform and a long term
+outperform.  The press release did note, that in the near-term
+they believe that JBL is close to fair value, but in the long
+term it should be an outperformer.  The other bit of news that
+helped JBL was that Solectron announced a two for one
+stock split.  As we have said on more than one occasion, this
+industry tends to move together.
+Last week, JBL bounced off of its 21 day moving average and
+closed right at its 10 day moving average on Friday.  There
+also appears to be some support for JBL around $71.  JBL
+has been on extended run since last September, and given the
+way the sector goes in and out of favor with the Street, you
+should keep a close eye on JBL if you are playing it.  If JBL
+were to break below $71, in a significant way, we would be very
+cautious of the stock.  Also, as with any sector, but more so
+with this one, you have to keep an eye on the sector when
+playing JBL.
+BUY CALL FEB-70 JBL-BN OI=3D150 at $8.00, SL=3D6.25
+BUY CALL FEB-75*JBL-BO OI=3D598 at $5.25, SL=3D3.25
+BUY CALL FEB-80 JBL-BP OI=3D808 at $3.25, SL=3D1.50
+BUY CALL MAR-80 JBL-CP OI=3D152 at $5.00, SL=3D3.25
+BUY CALL JUN-80 JBL-FP OI=3D109 at $9.25, SL=3D6.75
+Picked on Dec 6th at  $63.38   PE=3D33
+Change since picked   +10.50   52 week low =3D$23.00
+Analysts Ratings   7-9-5-0-0   52 week high=3D$79.00
+Last earnings  11-98 est=3D.43   actual=3D.50
+Next earnings  03-17 est=3D.52   versus=3D.52
+Chart =3D  
+Electronics/Peripherals/Hardware  - Sector
+LXK  Lexmark Intl. $98.06 (-2.50)(+.06)(+7.25)(+1.31)
+Lexmark has good peripheral vision. Lexmark International
+Group is a leading maker of computer printers and related
+products, which generate more than 80% of its sales. Its
+printer line includes laser printers (designed primarily
+for corporate networks and desktops) and ink-jet printers
+(for home and business use). Unlike many of its competitors,
+Lexmark develops and manufactures it's own printers, which
+results in fast product cycle times. The company also makes
+supplies for IBM and other name brand printers and typewriters.
+Lexmark's products are sold in more than 15,000 retail outlets
+in more than 150 countries.
+LXK consolidated this last week and is sitting right on its
+20-dma. We still like LXK with earnings on the 26th of January.
+Remember, holding over earnings is risky. In the case of LXK,
+the risk might be justified if they announce a stock split.
+Each individual has to weigh out the risk themselves.
+LXK hasn't had any news the last few days. These last few
+weeks have seen LXK get recommended by many different
+professionals as a great stock to own for 1999. Remember,
+LXK has had an average earnings surprise of 11.75% over the
+last four quarters. This could help propel LXK higher before
+earnings on the expectation. There are different earnings dates
+listed on the web, but First Call does list the 26th of January.
+We will continue to try to get a fixed date from investor
+relations.
+BUY CALL FEB- 95 LXK-BS OI=3D 53 at $ 9.38 SL=3D6.75 ITM $3.06
+BUY CALL FEB-100*LXK-BT OI=3D514 at $ 7.38 SL=3D5.25
+BUY CALL FEB-105 LXK-BA OI=3D284 at $ 5.00 SL=3D3.25
+BUY CALL APR-100 LXK-DT OI=3D 52 at $11.75 SL=3D9.25
+BUY CALL APR-105 LXK-DA OI=3D 40 at $ 9.50 SL=3D7.00
+Picked on Dec 15th at    $88.38   P/E =3D 29
+Change since picked:     + 9.68   52 week low =3D$ 33.63
+Analysts' ratings     1-4-1-0-0   52 week high=3D$103.50
+Last earnings  10-98 est=3D $ .79   actual=3D $.81
+Next earnings  01-26 est=3D $1.09   prior =3D $.78
+Chart =3D  
+EMC - EMC Corporation $100.06 (+6.50)(+8.56)(+3.38)(+.13)
+EMC is a Fortune 500 company that designs, manufactures,
+markets an supports high performance storage products.  The
+company's products store retrieve, manage, protect and share
+information from all major computing environments, including
+UNIX, Windows NT and mainframe platforms.  EMC markets its
+memory products under the name Symmetrix.  EMC and its
+enterprise storage systems have developed a clear cut
+technological edge over its competition.  The company has been
+able to successfully leverage its leadership position in the
+mainframe storage area into the lucrative, faster growing open
+systems market.
+There really wasn't any news last week on EMC.  We think the
+real story happened on Thursday, when the NASDAQ was down and
+EMC went up.  This suggests that there are still a lot of
+buyers who want EMC stock.  This was confirmed by the move EMC
+made on Friday.  We continue to read  articles that discuss EMC
+being in model portfolios of 20 to 30 growth stocks.  There was
+an article in MSN MoneyCentral about EMC being one of the top
+30 growth stocks.  EMC has been, and is continuing to be, a
+great momentum stock.
+EMC took off again on Friday.  It set a new 52 week high on
+Friday, and closed near the high.  As we discussed above, EMC
+is one of those stocks that people keep buying.  As long as
+there are buyers of the stock, we believe it will continue with
+it's momentum.  EMC is also a split candidate.  We know we keep
+saying this, but as it continues to move up, it only increases
+the probability of a split.  A year ago this last November EMC
+split at around $63 after a strong move.  FYI - EMC reports
+earnings before the open on 1/26.
+BUY CALL FEB- 95 EMC-BS OI=3D1072  at $10.75 SL=3D 8.50
+BUY CALL FEB-100*EMC-BT OI=3D3511  at $ 8.25 SL=3D 6.25
+BUY CALL APR- 95 EMC-DS OI=3D 540  at $15.50 SL=3D11.75
+BUY CALL APR-100 EMC-DT OI=3D2619  at $12.88 SL=3D10.50
+Picked on Nov 8th at $69.06     PE=3D58
+Change since picked  +31.00     52 week low =3D$ 23.50
+Analysts Ratings 10-4-0-0-0     52 week high=3D$100.19
+Last earnings  9-98 est=3D.36     actual=3D.38
+Next earnings  1-26 est=3D.46     versus=3D.32
+Chart =3D  
+XIRC  Xircom Inc. $39.88 (+1.38)(+4.50)(+1.25)
+Xircom makes adapters that connect portable PCs to corporate
+networks, the Internet, and commercial online services. The
+company's products include adapter/modem cards (CreditCard
+Ethernet+Modem), network adapters for portable PCs (Pocket
+Ethernet Adapter, Pocket Token Ring Adapter), and modem-only
+PC cards (CreditCard Modem). Xircom sells its products to
+original equipment manufacturers and through a worldwide
+network of distributors, value-added resellers, and computer
+retailers. Over half of its income is from foreign sales.
+Intel owns 11% of Xircom; chairman and CEO Dirk Gates owns
+about 5%.
+XIRC is expecting to announce earnings that are 300% higher
+than the same quarter last year.  With the large earning
+surprises XIRC has had the last four quarter, a nice run
+could develop into earnings. Though a split isn't likely,
+the company has enough shares to announced one. There is
+no split history for XIRC.  XIRC reached a new 52-week high
+on Friday when it hit $40.50.
+XIRC was recently selected as one of the best mobile PC cards.
+Its product will be competing with 3COM and a few others for
+the best mobile PC card.  This award ceremony is put on the
+Mobility Awards. 3COM is one of the biggest competitors of XIRC.
+BUY CALL FEB-35 XQR-BG OI=3D 41 at $6.63 SL=3D4.75 ITM $4.88
+BUY CALL FEB-40*XQR-BH OI=3D467 at $3.75 SL=3D2.25
+BUY CALL MAR-35 XQR-CG OI=3D127 at $7.50 SL=3D5.75 ITM $4.88
+BUY CALL MAR-40 XQR-CH OI=3D116 at $4.88 SL=3D3.00
+BUY CALL JUN-40 XQR-FH OI=3D 55 at $7.38 SL=3D5.50
+Picked on Jan.9th at    $38.50    PE =3D 28
+Change since picked      +1.33    52 week low =3D$ 9.25
+Analysts Ratings     4-2-1-0-0    52 week high=3D$40.50
+Last earnings on 10-98 est=3D.25    actual=3D.33
+Next earnings on 01-21 est=3D.34    versus=3D.11
+Chart =3D  
+PLAYS CONTINUED IN SECTION FOUR.
+DISCLAIMER
+This newsletter is a publication dedicated to the education
+of options traders. The newsletter is an information service
+only. The information provided herein is not to be construed
+as an offer to buy or sell securities of any kind. The
+newsletter picks are not to be considered a recommendation
+of any stock or option but an information resource to aid the
+investor in making an informed decision regarding trading in
+options. It is possible at this or some subsequent date, the
+editor and staff of The Option Investor Newsletter may own,
+buy or sell securities presented. All investors should consult
+a qualified professional before trading in any security. The
+information provided has been obtained from sources deemed
+reliable but is not guaranteed as to accuracy or completeness.
+The newsletter staff makes every effort to provide timely
+information to its subscribers but cannot guarantee specific
+delivery times due to factors beyond our control.
+Please respond to xtrials@optioninvestor.com
+The Option Investor Newsletter            1-17-98
+Sunday                5  of  7
+COVERED CALL SECTION FOR JANUARY 17, 1999
+Trading lessons 
+This week we are going discuss one of the many pitfalls that you
+will eventually encounter as a trader; Incorrect Information 
+Occasionally, we will discover an error in a stock or option quote
+and usually it comes to us "the hard way". Last week, we offered
+a position on Reliance Bancorp (RELY) and it turns out that the
+option quoted was for another stock. It was not a research error
+or miss-type, just erroneous quote information provided to the
+trading public. One of our faithful readers had the unfortunate
+experience of buying into this play on the assumption that the
+option existed. We received permission to reprint portions of his
+remarks to educate our readers. Here is the general narrative;
+"I did my 'due diligence' on the options play with Reliance
+Bancorp but like a growing number of people this was all handled
+on-line with me as the only human in the food chain willing to
+take any chances. Oddly though, I did speak to two other people
+in this and got an interesting mix of answers.
+I used (two common brokerages; names deleted) for my information,
+perhaps using two separate entities was my downfall here. One
+stated just as you did that there was a Reliance, FEB25-Call at
+the same bid as you published. If fact, it showed an array of
+options for Reliance. However, come to find out they were Verio.
+I then bought shares of Reliance on-line through another broker in
+my IRA with the intention of selling calls against them the next
+day. When I entered the ticker symbol to 'sell calls to open', I
+was greeted by a statement about Verio. Calling the broker, I was
+told that the ticker symbol was in fact for Verio but only the Feb.
+call. I then contacted the option trading desk and found that the
+ticker symbol belonged to Verio and there were no options on RELY
+at all. I was fooled by the apparent presence of options at one
+brokerage, which tells me that I need to do all my research
+through the top name brokerage."
+The reader went on to point out that; "It turned out to be the
+systems that were fouled up and not the analysis, all information
+that is received on-line or through humans should be verified
+before investing...I sure plan to do so from now on!"
+Words of wisdom for sure!
+SUMMARY OF PREVIOUS PICKS:
+Stock  Price  Last   Mon  Strike  Opt    Profit   ROI   Monthly
+Sym    Picked Price       Price   Bid    /Loss          ROI
+DOSE    4.06   7.06  Jan   5.00  0.50  *$  1.44  40.4%  29.3%
+ITVU   17.69  24.50  Jan  15.00  3.25  *$  0.56   3.9%  16.9%
+APLX    4.94   5.00  Jan   5.00  0.63   $  0.69  16.0%  13.9%
+MCHM    8.44   8.63  Jan   7.50  1.38  *$  0.44   6.2%  13.5%
+DBCC   17.81  21.75  Jan  15.00  3.63  *$  0.82   5.8%  12.6%
+MCHM    8.25   8.63  Jan   7.50  1.63  *$  0.88  13.3%  11.6%
+CYCH   20.69  19.75  Jan  17.50  3.63  *$  0.44   2.6%  11.2%
+FILE   10.38  11.50  Jan  10.00  1.44  *$  1.06  11.9%  10.3%
+NTKI   15.75  15.44  Jan  12.50  4.00  *$  0.75   6.4%   9.2%
+CYCH   15.00  19.75  Jan  12.50  3.00  *$  0.50   4.2%   9.1%
+NOVT   24.06  25.44  Jan  22.50  2.88  *$  1.32   6.2%   9.0%
+WAVO    9.38   9.38  Jan   7.50  2.31  *$  0.43   6.1%   8.8%
+SPYG   20.88  18.13  Jan  17.50  4.38  *$  1.00   6.1%   8.8%
+BMP    24.56  24.25  Jan  20.00  6.00  *$  1.44   7.8%   8.4%
+ITVU   13.25  24.50  Jan  10.00  4.13  *$  0.88   9.6%   8.4%
+EGGS   20.88  23.25  Jan  17.50  4.00  *$  0.62   3.7%   8.0%
+SYBS    7.81   8.28  Jan   7.50  0.94  *$  0.63   9.2%   8.0%
+VRTY   22.50  35.06  Jan  20.00  4.13  *$  1.63   8.9%   7.7%
+HDL    12.94  13.13  Jan  12.50  1.44  *$  1.00   8.7%   7.6%
+PPRT   13.88  13.13  Jan  12.50  2.25  *$  0.87   7.5%   6.5%
+EOG    16.94  16.81  Jan  15.00  2.75  *$  0.81   5.7%   6.2%
+PPOD    6.75   8.25  Jan   5.00  2.13  *$  0.38   8.2%   6.0%
+MANU   13.75  15.38  Jan  10.00  4.25  *$  0.50   5.3%   5.7%
+VIRS   12.75  14.13  Jan  10.00  3.25  *$  0.50   5.3%   5.7%
+VOLVY  23.75  27.75  Jan  20.00  4.75  *$  1.00   5.3%   5.7%
+DBCC   17.81  21.75  Jan  12.50  5.63  *$  0.32   2.6%   5.7%
+MICA   17.13  17.00  Jan  12.50  5.25  *$  0.62   5.2%   5.7%
+MWHS   28.38  43.50  Jan  25.00  5.13  *$  1.75   7.5%   5.5%
+VSVR   16.75  17.13  Jan  15.00  2.44  *$  0.69   4.8%   5.2%
+SDTI   18.31  27.50  Jan  15.00  4.13  *$  0.82   5.8%   5.0%
+PTVL   14.69  22.50  Jan  10.00  5.13  *$  0.44   4.6%   5.0%
+ABTX   12.69  14.38  Jan  10.00  3.25  *$  0.56   5.9%   4.3%
+SER     6.38   6.13  Jan   5.00  1.63  *$  0.25   5.3%   3.8%
+CYLKE   4.31   3.81  Jan   5.00  0.50   $  0.00   0.0%   0.0%
+TERA    7.88   6.63  Jan   7.50  1.19   $ -0.06  -0.9%   0.0%
+IMNR   13.13  10.25  Jan  12.50  2.00   $ -0.88  -7.9%   0.0%
+TDFX   16.44  12.38  Jan  15.00  2.44   $ -1.62 -11.6%   0.0%
+PSCX   11.31   8.00  Jan  10.00  2.19   $ -1.12 -12.3%   0.0%
+-ROI is equal to the profit (or loss) divided by the cost-basis.
+Monthly ROI represents the return on a monthly basis.
+Example: a 10% return in 20 days equals 15.2% ROI for a month).
+-Margin is not used in any calculations.
+-Profit/Loss Column: Asterisk indicates stock price above strike
+price and should be called.  Stock that will not be called is
+assumed sold at current price (for tracking purposes).
+*** LOSING PLAYS 
+Determining when to exit a play is a matter of personal preference
+but we strongly recommended closing any play that falls more than
+20% below the initial cost-basis. Some positions may eventually
+become profitable but it is generally more productive to exit a
+losing play and move your capital into another prospective trade.
+NEW PICKS:
+Definitions:
+OI - Open Interest
+CB - Cost Basis (Prc pd - Prm rec'd =3D CB, the break-even point)
+RC  - Return Called
+RNC - Return Not Called (Stock Price Unchanged)
+Sequenced by Company
+Stock  Price  Mon Strike Option  Opt   Open  Cost    RC      RNC
+Sym               Price  Symbol  Bid   Intr  Basis
+ARTT    8.25  Feb  7.50  AOQ BU  1.44  375    6.81  10.13%  10.13%
+BTIM   18.50  Feb 15.00  QBO BC  4.88  109   13.62  10.13%  10.13%
+INFS   11.38  Feb 10.00  IQL BB  2.06  147    9.32   7.30%   7.30%
+ITVU   24.50  Feb 17.50  QYU BW  8.13  33    16.37   6.90%   6.90%
+MCHM    8.75  Feb  7.50   QQ BU  1.94  120    6.81  10.13%  10.13%
+MRVT   15.13  Feb 12.50  SQD BV  3.25  35    11.88   5.22%   5.22%
+MWY    10.88  Feb 10.00  MWY BB  1.50  537    9.38   6.61%   6.61%
+PLCM   25.88  Feb 25.00  QHD BE  3.00  109   22.88   9.27%   9.27%
+QNTM   26.88  Feb 25.00  QNQ BE  3.75  4697  23.13   8.08%   8.08%
+SPNSF  10.13  Feb 10.00  QHH BB  1.25  372    8.88  12.61%  12.61%
+Sequenced by Return Called
+Stock  Price  Mon Strike Option  Opt   Open  Cost    RC      RNC
+Sym               Price  Symbol  Bid   Intr  Basis
+SPNSF  10.13  Feb 10.00  QHH BB  1.25  372    8.88  12.61%  12.61%
+ARTT    8.25  Feb  7.50  AOQ BU  1.44  375    6.81  10.13%  10.13%
+BTIM   18.50  Feb 15.00  QBO BC  4.88  109   13.62  10.13%  10.13%
+MCHM    8.75  Feb  7.50   QQ BU  1.94  120    6.81  10.13%  10.13%
+PLCM   25.88  Feb 25.00  QHD BE  3.00  109   22.88   9.27%   9.27%
+QNTM   26.88  Feb 25.00  QNQ BE  3.75  4697  23.13   8.08%   8.08%
+INFS   11.38  Feb 10.00  IQL BB  2.06  147    9.32   7.30%   7.30%
+ITVU   24.50  Feb 17.50  QYU BW  8.13  33    16.37   6.90%   6.90%
+MWY    10.88  Feb 10.00  MWY BB  1.50  537    9.38   6.61%   6.61%
+MRVT   15.13  Feb 12.50  SQD BV  3.25  35    11.88   5.22%   5.22%
+Sequenced by Return Not Called
+Stock  Price  Mon Strike Option  Opt   Open  Cost    RC      RNC
+Sym               Price  Symbol  Bid   Intr  Basis
+SPNSF  10.13  Feb 10.00  QHH BB  1.25  372    8.88  12.61%  12.61%
+ARTT    8.25  Feb  7.50  AOQ BU  1.44  375    6.81  10.13%  10.13%
+BTIM   18.50  Feb 15.00  QBO BC  4.88  109   13.62  10.13%  10.13%
+MCHM    8.75  Feb  7.50   QQ BU  1.94  120    6.81  10.13%  10.13%
+PLCM   25.88  Feb 25.00  QHD BE  3.00  109   22.88   9.27%   9.27%
+QNTM   26.88  Feb 25.00  QNQ BE  3.75  4697  23.13   8.08%   8.08%
+INFS   11.38  Feb 10.00  IQL BB  2.06  147    9.32   7.30%   7.30%
+ITVU   24.50  Feb 17.50  QYU BW  8.13  33    16.37   6.90%   6.90%
+MWY    10.88  Feb 10.00  MWY BB  1.50  537    9.38   6.61%   6.61%
+MRVT   15.13  Feb 12.50  SQD BV  3.25  35    11.88   5.22%   5.22%
+Company Descriptions
+ARTT - Advanced Radio Telecom  $8.25  *** Hot Sector 
+ARTT provides wireless broadband telecommunications services
+using microwave transmissions throughout the U.S. Jan 12th
+announced operating results: increasing markets; increasing
+buildings to which ARTT has access; number of fully connected
+buildings has increased; and customer service orders are up.
+Climbing above 150 dma on strong volume with short term BUY
+signals and good accumulation.
+FEB 7.50 AOQ-BU BID=3D1.44 OI=3D375 CB=3D6.81 RC=3D10.13% RNC=3D10.13%
+Chart =3D  
+BTIM - BioTime  $18.50    *** Pharmaceutical/Research 
+BioTime, Inc. is a development stage company which is engaged in
+the research and development of aqueous based synthetic solutions
+which can be used as blood substitutes. Working on Hextend(r) for
+replacing blood volume lost during surgery and trauma without the
+risk of contamination by blood borne pathogens. Recently filed to
+offer shares through a rights offering to its shareholders and
+set 1/5/99 as tentative record date. The offering raises capital
+without diluting the existing ownership interests. Short-term
+technical support around $15.
+FEB 15.00 QBO-BC BID=3D4.88 OI=3D109 CB=3D13.62 RC=3D10.13% RNC=3D10.13%
+Chart =3D  
+INFS - In Focus Systems $11.38  *** Earnings Soon 
+INFS develops, manufactures and markets multimedia projection
+products and service to present video, audio, graphics and data
+from personal computers, workstations, VCRs/laser disc players.
+No recent news since about mid-Dec. Earnings due on Jan 21.
+In a stage II climb on strong volume with recent price spike
+(speculation on earnings?). The cost basis is just above support
+and this stock is technically, a strong looking long term play.
+FEB 10.00 IQL-BB BID=3D2.06 OI=3D147  CB=3D9.32 RC=3D7.30%  RNC=3D7.30%
+Chart =3D  
+ITVU - InterVu  $24.50     *** Internet Connections 
+InterVU, Inc. is a development stage company which utilizes a
+proprietary software system for routing and distributing high
+quality video over the Internet at high speeds. Leading provider
+of video-on-demand and live broadcasts. Recently signed agreements
+with OnRadio and INTERVU Inc. Technical short term BUY signals
+have triggered, strong volume and BOP, and 6 month support around
+our cost basis. Still hasn't filled it's measured gap (climb) last
+Friday so we remain cautious with this ITM candidate.
+FEB 17.50 QYU-BW BID=3D8.13 OI=3D33 CB=3D16.37 RC=3D6.90% RNC=3D6.90%
+Chart =3D  
+MCHM - MachroChem Corp.  $8.75  *** Pharmaceuticals 
+MacroChem Corp. engages in the development and commercialization
+of transdermal drug delivery compounds and systems designed to
+promote the delivery of drugs from the surface of the skin into
+the skin and bloodstream. The most recent development is the new
+preliminary review of a Phase IIB study of Topiglan. This topical
+gel formulation of alprostadil for the treatment of male erectile
+dysfunction indicates the application is effective in increasing
+penile rigidity in patients with significant erectile dysfunction.
+Still consolidating around $8.50 as we return for the next month.
+FEB 7.50 QQ-BU BID=3D1.94 OI=3D120 CB=3D6.81 RC=3D10.13% RNC=3D10.13%
+Chart =3D  
+MRVT - Miravant Medical Tech.  $15.13  *** Pharmaceuticals 
+MRVT is engaged in the research and development of drugs and
+medical device products for use in photodynamic therapy, a
+procedure which uses light-activated drugs to achieve selective
+photochemical destruction of diseased cells. Jan 6 started phase
+III clinical trials to treat the advanced form of age-related
+macular degeneration (AMD). Just closed above the 150 dma with
+technical strength increasing and short-term buy signals evident.
+FEB 12.50 SQD-BV BID=3D3.25 OI=3D35 CB=3D11.88 RC=3D5.22% RNC=3D5.22%
+Chart =3D  
+MWY - Midway Games Inc.  $10.88  *** Gaming Sector 
+Midway Games Inc. designs, publishes and markets interactive
+entertainment software played in both the coin-operated and
+home markets. Earnings are due (tentatively) Jan 22. No recent
+news since Dec when a downgrade had negligible effect on price.
+In a stage I base since Oct and establishing support above $10.
+FEB 10.00 MWY-BB BID=3D1.50 OI=3D537 CB=3D9.38 RC=3D6.61% RNC=3D6.61%
+Chart =3D  
+PLCM - Polycom, Inc.  $25.88  *** Stage 2 
+Polycom, Inc. develops, manufactures and markets teleconferencing
+products that facilitate meetings at a distance. Earnings are due
+out this week (20th?). Jan 11, announced Ameritech will now offer
+Polycom's ViewStation to its business customers. In a stage II
+climb, slightly overextended, but technical strength remains,
+suggesting a continuance of the current trend.
+FEB 25.00 QHD-BE BID=3D3.00 OI=3D109 CB=3D22.88 RC=3D9.27% RNC=3D9.27%
+Chart =3D  
+QNTM - Quantum Corporation  $26.88  *** Data Storage 
+Quantum Corporation designs, develops and markets information
+storage products, including high-performance, high-quality
+half-inch cartridge tape drives, tape media, tape autoloaders,
+hard disk drives and solid state disk drives. Earnings due out
+Jan 20 at 2:15 pm with a conference call following. Upgraded
+last Monday. Strong chart/up trend since the beginning of Jan.
+Bullish technical characteristics with good support around $24.
+FEB 25.00 QNQ-BE BID=3D3.75 OI=3D4697 CB=3D23.13 RC=3D8.08% RNC=3D8.08%
+Chart =3D  
+SPNSF - Sapiens International  $10.13  *** New High 
+SPNSF develops, markets and supports enterprise-wide solutions
+for the rapid development of scaleable mission-critical software
+applications. For the fiscal year ended 12/31/97, total revenues
+rose 14% to $44.6 million. Recently awarded an outsourcing
+project valued at several million dollars. Recovered quickly
+from Wednesday's market induced drop and quickly surged to a new
+52 week high.  Strong technicals suggest that SPNSF is ready to
+rally!
+FEB 10.00 QHH-BB BID=3D1.25 OI=3D372 CB=3D8.88 RC=3D12.61% RNC=3D12.61%
+Chart =3D  
+CALLS STRICTLY PERCENTAGE LIST
+These Pct are not calculated using margin. These are pure
+returns. Margin will increase the percentages. No recommendation
+is made on these plays. This is only a numerically produced list
+of the options with the highest percentage of return for dollars
+invested. If you want to do your own research this is where to
+start.
+**** this section is no longer emailed but can be viewed in
+**** the email version on the website.
+NAKED PUT SECTION FOR JANUARY 17, 1999
+This month, the naked-put portfolio performed very well. Most of
+the success was due to the January effect and the bullish movement
+of the market after the new year's holiday. Some of the more
+successful plays were Internet and Pharmaceutical positions. In
+fact, a number of Internet stocks continue to climb as if the sky
+had no ceiling. We did have one negative position. Zila fell on
+news that Federal advisers recommended against approval of Oratest,
+a test to help see cancerous lesions in the mouth. The play should
+have been closed for a $0.75 loss.
+Brazilian woes continue 
+The market is being subdued by the deteriorating situation in
+Brazil and no one knows whether this virus will spread like the
+Asian Flu. It all stems from the fact that the current world
+markets are very susceptible to global meltdown and the closest
+thing to a controlling entity is the US government. A serious
+situation like the South American financial turmoil won't go away
+quickly and although the floating of the Brazilian 'real' should
+help the situation in the short-term, it may not prevent trouble
+from spreading to other countries. Our economy has never been out
+of control but we now face a period of potentially disappointing
+earnings reports which will definitely have an effect on the U.S.
+stock market in the coming weeks. Good Luck!
+SUMMARY OF PREVIOUS PICKS
+Stock  Price  Last   Mon  Strike  Opt    Profit   ROI   Monthly
+Sym    Picked Price       Price   Bid    /Loss          ROI
+MCHM    8.44   8.63  Jan   7.50  0.38  *$  0.38  13.5%  29.4%
+ITVU   17.69  24.50  Jan  12.50  0.25  *$  0.25   6.6%  28.7%
+SPLN   28.19  31.00  Jan  22.50  0.38  *$  0.38   6.3%  27.4%
+DBCC   17.81  21.75  Jan  12.50  0.38  *$  0.38   9.6%  21.0%
+ITVU   13.25  24.50  Jan  10.00  0.75  *$  0.75  22.1%  19.2%
+CELG   16.69  17.63  Jan  12.50  0.50  *$  0.50  13.0%  18.9%
+BTIM   17.38  18.50  Jan  12.50  0.31  *$  0.31   8.2%  17.8%
+SPLN   17.19  31.00  Jan  12.50  0.44  *$  0.44  11.3%  16.4%
+PTVL   14.69  22.50  Jan  10.00  0.50  *$  0.50  14.5%  15.8%
+CDNW   17.25  20.38  Jan  10.00  0.69  *$  0.69  16.7%  14.5%
+ITVU   14.00  24.50  Jan  10.00  0.69  *$  0.69  19.8%  14.3%
+IGEN   30.63  34.25  Jan  25.00  0.44  *$  0.44   6.2%  13.5%
+CDNW   17.63  20.38  Jan  10.00  0.50  *$  0.50  12.4%  13.5%
+ZAP    12.38  12.13  Jan   7.50  0.25  *$  0.25   9.2%  13.3%
+NOVT   24.06  25.44  Jan  20.00  0.56  *$  0.56   9.2%  13.3%
+VRTY   22.50  35.06  Jan  17.50  0.75  *$  0.75  14.3%  12.4%
+PDQ    10.38  10.75  Jan   7.50  0.25  *$  0.25  10.7%  11.7%
+APM     8.69   7.63  Jan   5.00  0.25  *$  0.25  12.6%  10.9%
+ABTX   11.19  14.38  Jan   7.50  0.25  *$  0.25  10.0%  10.9%
+NITE   24.00  41.94  Jan  15.00  0.25  *$  0.25   5.0%  10.8%
+VIRS   13.13  14.13  Jan  10.00  0.19  *$  0.19   6.7%   9.8%
+NXTR   10.13   9.25  Jan   7.50  0.25  *$  0.25  11.0%   9.5%
+BMP    24.56  24.25  Jan  17.50  0.44  *$  0.44   8.2%   8.9%
+CELG   15.00  17.63  Jan  10.00  0.25  *$  0.25   7.7%   8.4%
+SDTI   18.31  27.50  Jan  12.50  0.38  *$  0.38   9.4%   8.2%
+TALK   10.13  13.50  Jan   5.00  0.25  *$  0.25  11.0%   7.9%
+SDTI   22.00  27.50  Jan  15.00  0.25  *$  0.25   5.4%   7.8%
+SRCM   17.19  19.75  Jan  10.00  0.25  *$  0.25   6.8%   7.4%
+CELG   11.38  17.63  Jan   7.50  0.25  *$  0.25   9.9%   7.2%
+GALTF  22.69  26.25  Jan  15.00  0.38  *$  0.38   7.7%   6.7%
+ABTX   12.69  14.38  Jan   7.50  0.25  *$  0.25   9.0%   6.5%
+SPYG   20.50  18.13  Jan  12.50  0.31  *$  0.31   7.0%   6.1%
+TDFX   16.44  12.38  Jan  12.50  0.31   $  0.19   5.3%   4.6%
+TERA    7.88   6.63  Jan   7.50  1.00   $  0.13   3.4%   3.7%
+ZILA   10.25   5.69  Jan   7.50  0.38   $ -1.43 -58.8%   0.0%
+-ROI is equal to the profit (or loss) divided by the original
+investment requirement (varies broker to broker).
+-Monthly ROI represents the return on a monthly basis.
+Example: a 10% return in 20 days equals 15.2% ROI for a month).
+-Profit/Loss Column: Asterisk indicates stock price above strike
+price and put option should expire - not be exercised.  Stock
+to be exercised assumed sold at current price.(for tracking)
+NEW PICKS
+Definitions:
+OI  - Open Interest
+CB  - Cost Basis (break-even point if put exercised)
+ROI - Return On Investment
+Sequenced by Company
+Stock  Price  Mon Strike Option  Opt   Open  Cost   ROI Opt
+Sym               Price  Symbol  Bid   Intr  Basis  Expired
+PTVL   22.50  Feb 15.00  QUT NC  0.81  48    14.19  15.25%
+SCUR   26.00  Feb 20.00  UQU ND  0.56  123   19.44   9.72%
+SDTI   27.63  Feb 17.50  QSD NW  0.56  25    16.94   9.20%
+SMOD   25.38  Feb 22.50  UYQ NX  1.63  91    20.87  18.31%
+SPLN   31.13  Feb 22.50  QSP NX  1.00  40    21.50  13.84%
+SRCM   19.75  Feb 15.00   SQ NC  1.06  2     13.94  21.16%
+VIRS   14.13  Feb 10.00  VQP NB  0.38  58     9.62  11.85%
+WAVO    9.44  Feb  7.50  WKQ NU  0.63  247    6.87  25.02%
+Sequenced by Return on Investment
+Stock  Price  Mon Strike Option  Opt   Open  Cost   ROI Opt
+Sym               Price  Symbol  Bid   Intr  Basis  Expired
+WAVO    9.44  Feb  7.50  WKQ NU  0.63  247    6.87  25.02%
+SRCM   19.75  Feb 15.00   SQ NC  1.06  2     13.94  21.16%
+SMOD   25.38  Feb 22.50  UYQ NX  1.63  91    20.87  18.31%
+PTVL   22.50  Feb 15.00  QUT NC  0.81  48    14.19  15.25%
+SPLN   31.13  Feb 22.50  QSP NX  1.00  40    21.50  13.84%
+VIRS   14.13  Feb 10.00  VQP NB  0.38  58     9.62  11.85%
+SCUR   26.00  Feb 20.00  UQU ND  0.56  123   19.44   9.72%
+SDTI   27.63  Feb 17.50  QSD NW  0.56  25    16.94   9.20%
+Company Descriptions
+PTVL - Preview Travel  $22.50
+PTVL is a provider of branded online travel services for leisure
+and small business travelers. Preview Travel has been in a stage
+I base since October. Recently corrected after a quick doubling
+in price due to the Internet craze. Gaining notice with coverage
+initiated by Friedman Billings and now Warburg Dillon Reid. Good
+bullish potential with stock above 150 dma and support near $15.
+FEB  15.00  QUT-NC  BID=3D0.81  OI=3D48  CB=3D14.19  ROI=3D15.25%
+Chart =3D  
+SCUR - Secure Computing  $26.00
+Secure Computing Corporation designs, develops, markets and sells
+complete network security solutions, including firewalls, filters,
+authentication and network services. Earnings are due shortly and
+the whisper number is moving higher. SCUR is expected to maintain
+a 30-50% growth rate and now option interest is increasing with
+rumors of a stock split. Paine Webber reiterated "BUY" rating with
+a conservative target of $30.
+FEB  20.00  UQU-ND  BID=3D0.56  OI=3D123  CB=3D19.44  ROI=3D9.72%
+Chart =3D  
+SDTI - Security Dynamics  $27.63
+SDTI provides enterprise network and data security solutions.
+The recent lawsuits have been forgotten and analyst upgrades
+have had a positive effect. The company started a market trial
+program of higher levels of security for customers like IBM and
+introduced SecurWorld for delivering two-factor authentication.
+A good technical play with Internet bias. Stock price is trading
+above all recent resistance and the current trend is bullish.
+FEB  17.50  QSD-NW  BID=3D0.56  OI=3D25  CB=3D16.94  ROI=3D9.20%
+Chart =3D  
+SMOD - Smart Modular  $25.38
+SMOD designs, manufactures and markets memory modules, personal
+computer card products and embedded processor modules for the
+telecommunication, computer and networking industries. Experts
+say the sector is already grappling with the specter of a supply
+crunch for DRAM devices. Brisk demand from PC makers may cause a
+severe shortage that will result in excessively high premiums for
+the technology. We prefer to play based on the support near $20.
+FEB  22.50  UYQ-NX  BID=3D1.63  OI=3D91  CB=3D20.87  ROI=3D18.31%
+Chart =3D  
+SPLN - Sportsline  $31.13
+Sportsline USA, Inc. is an Internet-based sports media company
+that provides branded, interactive information and programming
+as well as merchandise to sports enthusiasts worldwide. Some say
+its #1 in sports information on the Internet and more rumors of
+a target-price upgrade. The new issue of the Dines Letter rates
+SPLN as one of 4 top Internet stocks to buy now! A steady climb
+since mid-Oct and a recent gap-up when the company said it will
+post outstanding Q4 revenues, up 90% from a year ago. CBS's new
+record-breaking IPO (Marketwatch.com) probably helps this one!
+FEB  22.50  QSP-NX  BID=3D1.00  OI=3D40  CB=3D21.50  ROI=3D13.84%
+Chart =3D  
+SRCM - SourceMedia  $19.75
+SRCM is a provider of information and programming through
+the company's proprietary digital operating systems to mass
+market consumers. Customers subscribe to Source Media audio
+content and have it featured on their web site. The company
+launched audio programming with Broadcast.com and says the
+Internet audio means it has content on PC's, cable TV and
+telephones. A rumored deal with American Online may also be
+causing some of the buying pressure and the stock has good
+technical support around $15.
+FEB  15.00  SQ-NC  BID=3D1.06  OI=3D2  CB=3D13.94  ROI=3D21.16%
+Chart =3D  
+VIRS - Triangle Pharm.  $14.13
+Triangle Pharmaceuticals is a pharmaceutical company engaged
+in the development of new drug candidates primarily in the
+antiviral area. Still playing this stock again as it has exited
+the tip of the isosceles triangle formation and started to move
+higher. Dec 15 entered into definitive purchase agreements to
+sell 4.8m newly issued shares of stock to selected investors for
+a price of $10. Technically still neutral (basing) to bullish.
+FEB  10.00  VQP-NB  BID=3D0.38  OI=3D58  CB=3D9.62  ROI=3D11.85%
+Chart =3D  
+WAVO - Wavephore  $9.44
+Wavephore is a media content integrator and architect of digital
+communications systems. Recently sold $7.5 million worth of its
+common stock to a current institutional shareholder at a premium,
+thus eliminating any near term financing issues. Also provided a
+warrant to the investor to acquire an additional 250,000 shares
+at $10.66. The funds will be used for working capital and should
+fund existing operations beyond 1999. Good support around $8.
+FEB  7.50  WKQ-NU  BID=3D0.63  OI=3D247  CB=3D6.87  ROI=3D25.02%
+Chart =3D  
+See Disclaimer in Section One.
+Please respond to xtrials@optioninvestor.com
+The Option Investor Newsletter              1-17-98
+Sunday                   2  of  7
+Coming Events
+Monday:
+Nothing
+Tuesday:
+LJR Redbook       1/16     Forecast:  --     Previous:  2.1%
+BTM/Schroeders    1/16     Forecast:  --     Previous:  0.2%
+API Oil Stocks    1/16     Forecast:  --     Previous: 321.6M
+Wednesday:
+Building Permits   Dec     Forecast:  --     Previous: 1.651M
+Housing Starts     Dec     Forecast:  1.7M   Previous: 1.649M
+Thursday:
+Jobless Claims    1/16     Forecast: 325k    Previous: 352K
+International Trade Nov    Forecast: -$14.0b Previous: -14.2b
+Philadelphia FedIdx 1/11   Forecast:  --     Previous: -3.8
+Friday:
+None
+OIN Spotlight: Naked-Puts  
+Another successful segment of the OIN newsletter is the weekly
+"Naked Puts" list. This strategy offers an attractive method of
+generating small profits on portfolio collateral. A premium is
+specific price. A successful outcome is achieved if the stock
+remains above the sold strike at expiration. It is also one of
+the best ways to achieve a technically correct entry position
+for owning a stock. This section consistently produces 5%-10%
+monthly returns with a high probability of success. Those of
+you with large stock portfolios should consider this strategy
+for generating extra monthly income.
+**** See section five for naked puts 
+Last weeks change for this weeks picks:
+Index    Last    Week
+Dow      9341 -302.77
+Nasdq    2348    3.79
+$OEX      616  -19.56
+$SPX     1243  -31.83
+$RUT      427   -4.18
+$TRAN    3149 -211.75
+$VIX    29.75
+Stock   Price   Week
+ASND    86.19   14.75 Dropped..play over with LU buyout.
+TLAB    85.94   11.63 One week til earnings
+SUNW   100.44    9.57 Earnings are on Thursday/ Split candidate
+MU      71.31    7.68 Momentum play
+ETH     48.94    6.94 Strong momentum after beating estimates
+EMC    100.06    6.49 Split Candidate for the 26th
+PRIA    34.50    4.87 Recent upgrades
+ATI     83.38    4.37 Bought by VOD for $97 a share
+CHKPF   51.25    4.37 Earnings surprise expected on the 21st
+NOK/A  138.63    3.63 Split Candidate
+QCOM    63.88    3.63 Wait until after the earnings report!
+DIS     35.75    3.32 Time for a recovery
+COF    130.44    3.13 Strong earnings expected Tuesday, Split?
+XIRC    39.75    1.37 Large surprise expected on the 21st
+DELL    78.94    1.19 Four weeks til earnings
+CCU     60.44    0.69 Radio Internet?
+MYG     64.25    0.25 Unstoppable machine, making acquisitions
+WCOM    75.06    0.06 Done consolidating?
+AOL    146.50    0.00 Eight days to earnings/ Split candidate
+MSFT   149.75   -0.12 Split Candidate for Tuesday!
+T       84.25   -0.82 We want cable modems!
+JBL     73.88   -1.01 Profit-taking
+FTL     16.50   -1.81 Still a takeover play
+LXK     98.06   -2.51 Consistent earnings surprises
+LU     110.25   -5.00 Earnings on the 21st.
+CSCO   101.69   -5.00 Overreaction is over
+UTX    109.50   -5.00 Earnings on Thursday
+YHOO   317.00  -26.63 Three weeks left before the split
+Puts
+RMBS    89.50  -13.38 Earnings warning
+XCIT    67.50   -7.50 Internet over extended
+CPB     45.13   -7.13 Is it soup yet?
+MRK    147.13   -6.68 Drug sector casualty
+MCHP    35.13   -5.62 Missed earnings
+BAC     64.56   -5.38
+WLA     69.81   -3.75 Drug sector casualty
+EK      69.00   -3.25 Fuji is winning the war
+DD      57.00   -2.50
+LLY     81.25   -2.37 Drug sector casualty
+BDX     39.75   -1.81 Drug sector casualty
+HSY     61.25   -1.75 Still melting
+PKN     95.38   -0.56
+ERTS    47.00   -0.25
+AVT     46.25   -0.19
+BMCS    40.06   -0.19
+SPECIAL SHORT TERM SPLIT PLAYS (in order by split date)
+We always recommend selling the day of the actual
+split. Profit taking will drive down the price on an
+average of 7 of 10 splitters immediately after the split.
+They may come back in a week or two but why risk it !
+YHOO  Yahoo! Inc. $317.00 (-26.63)(+106.69)
+See details in sector list
+Chart =3D  
+THE PLAY OF THE DAY -CALLS- ONLY PLAY IN RISING MARKET
+With all the great plays each week we can never decide
+on just one so take your pick.
+MSFT - Microsoft $149.75 (-0.13)(+11.19)(-3.06)(P5W +28.13)
+Split candidate with earnings - See details in sector list
+Chart =3D  
+EMC - EMC Corporation $100.06 (+6.50)(+8.56)(+3.38)(+.13)
+Split candidate with earnings - See details in sector list
+Chart =3D  
+SUNW - Sun Microsystems $100.44 (+9.56)(+5.25)(+2.32)(+0.62)
+Split candidate with earnings - See details in sector list
+Chart =3D  
+LU  Lucent Technologies $110.25 (-5.06)(+5.31)(-2.12)
+Split candidate with earnings - See details in sector list
+Chart =3D  
+PICK SUMMARY
+SL  =3D Suggested stop loss. Sell if bid breaks this price.
+OI  =3D Open Interest - the number of open contracts outstanding.
+TP/P=3D True premium or Time premium
+RRR =3D Risk/Reward/Ratio
+ITM =3D In the money
+ATM =3D At the money
+OTM =3D Out of the money
+MTD =3D Move to double - amount stock must move to double option price
+in one week. ONE WEEK MOVE ONLY !
+Numbers within ( ) are the amount of change for the week.
+Numbers within ( ) may be designated with PxW, like P3W, prior 3 weeks
+The options with a "*" by the strike price are our choices from the
+group. If the stock moves as expected we feel they have the best
+chance to substantially increase or double in price with the best
+risk/reward ratio compared to the other options for the same stock.
+You must determine if they fit your risk profile for time and price.
+Analysts ratings: 1-2-3-4-5
+Analysts who follow each stock rate it and these rating are
+accumulated and displayed as follows;
+Position 1 =3D number of analysts recommending "strong buy"
+Position 2 =3D number of analysts recommending "moderate buy"
+Position 3 =3D number of analysts recommending "hold" or "neutral"
+Position 4 =3D number of analysts recommending "moderate sell"
+Position 5 =3D number of analysts recommending "strong sell"
+Example rating 5-3-1-0-0 would be 5 "strong buys", 3 "moderate buys",
+1 "hold" recommendation.
+STOCKS ADDED TO THE PICK LIST
+Calls
+PRIA - PRI Automation
+MU   - Micron Tech
+YHOO - Yahoo
+NOKA - Nokia
+QCOM - Qualcom
+TLAB - Tellabs
+CSCO - Cisco - back again
+CCU  - Clear Channel Comm
+ETH  - Ethan Allen
+CHKPF- Check Point Software
+Puts
+EK   - Eastman Kodak
+MCHP - Microchip Tech
+RMBS - Rambus
+PICKS WE DROPPED THIS WEEK
+Remember that historically, when we drop a pick it will go up
+10 to 15% the very next week. It is part of Murphy's Law.
+Just because we drop a stock as a pick does not mean we are
+advocating a "sell" on any position you have. We are simply
+dropping our recommendation as a new play. Existing plays
+can and do continue on and are usually profitable.
+CALLS:
+LOW $50.63(-4.06) We are dropping LOW this week. They have
+taken a fall and we don't see any catalyst to continue the
+move up.  LOW's has had a nice run. Earnings aren't until
+February and we feel there are other picks that will out-
+perform.  We are not saying those holding LOW's should sell,
+every investor makes their own decision, we just feel it
+isn't worthy of a new purchase at this point.
+PUTS:
+CBE - Cooper Industries  $44.81  (2.69)
+Stock rallied sharply on Friday (1/15) after retesting prior
+support at $43. Pinnacle dropping CBE after reaching price
+target.
+STOCK SPLIT CANDIDATES
+AOL  - America Online
+YHOO - Yahoo
+EMC  - EMC Corp
+IBM  - Intl Business Machines.
+WMT  - Wal-Mart
+SUNW - SunMicro Systems
+CSCO - Cisco Systems
+MYG  - Maytag
+NOKA - Nokia
+MSFT - Microsoft
+LXK  - Lexmark Intl Group Inc
+STOCKS WITH UPCOMING SPLITS
+We don't list all splits available, only those we
+feel may have play possibilities.
+GDT  - Guidant Corp    2:1 01-27-99 ex-date 01-28
+INKT - Inktomi         2:1 01-27-98 ex-date 01-28
+SPLS - Staples         3:2 01-28-99 ex-date 01-29
+EGRP - E*Trade         2:1 01-29-99 ex-date 02-01
+WIND - Wind River Sys  3:2 02-04-99 ex-date 02-05
+FDS  - FactSet Research3:2 02-05-99 ex-date 02-08
+MRK  - Merck           2:1 02-16-99 ex-date 02-17
+BMY  - Bristol Meyers  2:1 02-26-99 ex-date 03-01
+NSOL - Network Solution2:1 02-26-99 ex-date 03-01
+For a complete list of all the coming splits check out the
+"split calendar" on the side of the online edition newsletter
+page.
+NETWORKING - Sector
+CSCO - Cisco Systems $101.69 (-5.00)(+13.88)(-1.38)(P6W +29.49)
+Cisco is the leading networker and is expected to help
+build the next generation Internet. Their goal is to allow
+people to access or transfer information without regard to
+differences in time, place or type of computer systems,
+voice or data.  About 85% of the routers used to decipher
+and direct data traffic on the Internet are made by Cisco.
+Panic, over-reaction, reality. That best describes CSCO's
+trade pattern last week.  We're adding CSCO back after
+dropping it from Tuesday's publication.  The market
+realized that Lucent's acquisition of Ascend is not the end
+of the world for CSCO, sending CSCO back up from its knee-
+jerk/market induced sell off. "Often it's the very best
+employees who approach Cisco after a takeover.  "That's
+wonderful for us and bad for the other guy," said Larry
+Lang of CSCO's business services division.  CSCO will
+provide the equipment needed for AT&T to offer
+TV/phone/internet/data services through (what will be) it's
+TCI division.  CSCO is truly leading the development of the
+Internet by helping cable and phone companies complete "the
+last mile", or the distance between the cable in the street
+an your home.  Also making news, this from Newswire, "Cisco
+Systems to Invest $6 Million in Technical Support for
+China; Technical Assistance Center and Additional Support
+Options to Benefit Channel Partners and Customers."
+The big picture is that CSCO is due for another split now
+that the price is over $100.  Historically, their split
+range is $80-$100.  While they have enough shares
+outstanding to complete another 3:2 split, a 2:1 would
+require the shareholder's to approve more shares.  Next
+earnings announcement is scheduled for 2/2 (company
+verified); perhaps then we'll get the announcement.  Though
+up to $108 the week before, CSCO couldn't hold the gains and
+fell with LU/ASND and Brazil news.  Nice recovery back over
+$101 on Friday after falling as low as $89 in Wednesday's
+sell-off.  A better entry is now available.  Look for
+market direction and make your move.
+BUY CALL FEB-100 CYQ-BT OI=3D10339 at $8.75 SL=3D6.50
+BUY CALL FEB-105*CYQ-BA OI=3D11226 at $6.38 SL=3D4.75
+BUY CALL FEB-110 CYQ-BB OI=3D 9209 at $4.38 SL=3D2.75
+BUY CALL APR-110 CYQ-DB OI=3D 3296 at $8.38 SL=3D6.25
+LEAPS:
+BUY LEAP JAN-2000-110 LCY-AB at $20.75 SL=3D16.00
+BUY LEAP JAN-2001-110 ZCY-AB at $30.13 SL=3D23.50
+Picked on Oct   8th     $46.69         PE=3D 113
+Change since picked    +$55.00         52 week low =3D$ 34.31
+Analysts Ratings   17-13-0-0-0         52 week high=3D$108.00
+Last earnings on 11-04 est=3D.33         actual=3D.34
+Next earnings on 02-02 est=3D.36         versus=3D.29
+Chart =3D  
+Internet - Sector
+AOL - America Online $146.50 (+0.00)(-8.63)(+18.50)(P5W+65.06)
+America Online is the largest online Internet access
+service in the world.  Membership now exceeds 15 million
+users.  Its Chairman, Steve Case, said more new users
+signed up with AOL on Christmas Day than any other day in
+the company's history.  With estimates of 16 million users
+by the year 2000 and growing advertising revenues AOL has
+been called the blue chip of the Internets. (If only they
+could get their mail problem resolved!)
+Given Internet weakness last week, it's a wonder AOL
+finished even from the previous week.  AOL traded between
+$130.00 and $167.  What action!  It finished Friday up
+$2.00 on light volume, faring well against significant
+losses on other 1st tier Internet stocks.  Consolidation may
+be nearing an end as we approach earnings.  At these price
+levels, AOL is again well over its historical $120 split
+range, though rumors seem to have died for an immediate
+announcement.  Currently they have 1.8 bln shares
+authorized.  That's enough for a 3:1 split, but a 2:1 is
+more likely.  Earnings are on January 27th (company
+confirmed).  Look for the split announcement then along
+with surprise earnings (as usual).  For the next couple of
+days, target shooting your entry may be a safer play.  As
+always, confirm market direction first.
+Making news this week, AOL stated they expect to close the
+Netscape deal by the end of April.  Also, they are
+partnering a deal with Bell Atlantic to bring AOL service
+at DSL speeds (Digital Subscriber Line-1.5 megs of
+bandwidth) to Bell Atlantic customers, putting them in
+competition with @Home, another successful cable internet
+access service.  DSL service could be available by mid-
+Summer (at less than $20 additional per month) and will
+cover 15 million homes by the year 2000.  Potential revenue
+is huge.  Other DSL agreements are being discussed with
+other Baby-Bell regional carriers. Never failing to come up
+with new marketing ideas to get subscribers, AOL is taking
+its cue from Amway, Mary Kay and Tupperware, and will begin
+marketing it's AOL Select service through a multi level
+marketing organization called Monument Communications,
+based in McLean, VA.
+Still an Internet stock.
+BUY CALL FEB-140 AOE-BH OI=3D 3433 at $19.00 SL=3D14.75,ITM=20
+BUY CALL FEB-145 AOE-BI OI=3D 2549 at $16.00 SL=3D12.50,ATM
+BUY CALL FEB-150*AOE-BJ OI=3D 9749 at $13.50 SL=3D11.25,OTM
+BUY CALL APR-145 AOE-DI OI=3D 1194 at $25.00 SL=3D19.50,ATM
+BUY CALL APR-150 AOE-DJ OI=3D 3655 at $23.50 SL=3D18.25,OTM
+**Momentum Only, no fundamentals**
+Chart =3D  
+YHOO  Yahoo! Inc. $317.00 (-26.63)(+106.69)
+Yahoo! Inc. is a global Internet media company that offers
+a network of branded World Wide Web programming that serves
+millions of users daily. As the first online navigational
+guide to the Web, WWW.YAHOO.COM is the single largest guide
+in terms of traffic, advertising, household and business user
+reach, and is one of the most recognized brands associated
+with the Internet. The company provides targeted Internet
+resources and communications services for a broad range of
+audiences, based on demographic, key-subject and geographic
+interests.
+We are adding YHOO back to the pick list with a precaution:
+Wait for a positive confirmation!  YHOO is down over $125 from
+its 52-week high.  Of all the Internet stocks, YHOO is the
+closest thing to a blue-chip, except for AOL in this list also.
+We like the chances that YHOO will turn strongly positive over
+the next few weeks leading into it's split.  YHOO showed a classic
+example of high expectations when it announced great earnings and
+a stock split, yet has fallen drastically.  The internets have
+played this game before.  They go in spurts, consolidate and then
+take off again.  This is a risky play, but those that are willing
+to take the risk, are often rewarded with extraordinary gains.
+There are a lot of companies out there trying to duplicate the
+success YHOO has had with it's web site.  Many on-line shopping
+sites have used YHOO as a model.  Though this seems like it
+might eat into YHOO's profits, the fact is that YHOO still leads
+the pack.  The more awareness there is for online services, the
+more hits YHOO will receive.  These added hits turn into added
+advertising revenue which turns into more profits.  Ultimately,
+more profits means higher stock prices.
+BUY CALL FEB-310 YHV-BB OI=3D 66 at $45.25 SL=3D35.00 ITM $7.00
+BUY CALL FEB-320 YHV-BD OI=3D102 at $40.38 SL=3D31.50
+BUY CALL FEB-330*YHV-BF OI=3D676 at $35.50 SL=3D27.75
+BUY CALL APR-330 YHV-DF OI=3D682 at $63.75 SL=3D50.00
+BUY CALL APR-340 YHV-DH OI=3D 13 at $59.38 SL=3D46.00
+Picked on Jan 16th at $317.00   PE=3D466
+Change since picked     +0.00   52 week low =3D$ 28.81
+Analysts Ratings   8-10-5-0-0   52 week high=3D$445.00
+Last earnings   01-99 est=3D.16   actual=3D.21
+Next earnings   04-12 est=3D.16   versus=3D.04
+Chart =3D  
+Telecom - Sector
+WCOM - MCIWorldCom $75.06 (+0.06)(+3.25)(+1.62)(P4W +7.69)
+Telecommunications behemoth, MCIWorldCom, is the recent
+offspring between a marriage of formerly #2 long distance
+provider MCI and #4 provider WorldCom.  Now the newly
+formed giant of giants is duking it out with AT&T as they
+stake their claim in the local phone service, international
+service, cellular, paging, and Internet access arenas.
+WorldCom's $37 billion purchase of MCI last September
+qualifies it the 7th largest merger or acquisition in 1998.
+WCOM is one of the largest Internet backbone providers in
+the world.  If you're reading this letter, somewhere in the
+transmission, WCOM fiber brought it to you.
+Friday, WCOM gained over $4 from Friday's trading low on
+heavy trading - nice comeback.  WCOM is showing a lot of
+relative strength.  In last week's action, profits were
+shaken out and buyers stepped in.  Though WCOM dipped below
+support of $70, they didn't stay there long and finished
+each day at no less than $72.  It appears to have
+consolidated, and having bounced off its moving average,
+should continue upward, market permitting.  Slight
+resistance is $76 with harder resistance at $79.  Any
+volume or overall market strength should push it right
+through.  The markets were not disappointed when WCOM
+backed away from bidding on Air Touch, which helped WCOM's
+recovery.  We're still big believers in Bernie Ebbers,
+WCOM's "awe shucks" chairman.
+The big news last week, the U.S. General Services
+Administration selected MCI WorldCom to provide long-
+distance telephone, data and video telecommunications
+services to Federal government agencies worldwide in the
+second and final round of its multi(5)-billion dollar
+FTS2001 competition.  WCOM is in high-bandwidth content
+delivery tests with AOL, which should be successful and
+more fully implemented through Bell Atlantic and SBC's DSL
+services. With recent court rulings preventing the baby
+bells from entering the long distance market in their home
+areas, 20% growth in voice traffic and 100% growth in data
+traffic every 4 months (!!! Gilder Technology Report) this
+spells good news and continued earnings growth for the big
+3 long distance providers.
+BUY CALL FEB-70 LDQ-BN OI=3D 2654 at $7.50 SL=3D5.75,ITM $5.06
+BUY CALL FEB-75*LDQ-BO OI=3D12428 at $4.25 SL=3D2.50,ATM
+BUY CALL FEB-80 LDQ-BP OI=3D15682 at $2.13 SL=3D1.00,OTM
+BUY CALL MAR-75 LDQ-CO OI=3D 7534 at $5.75 SL=3D4.00 lots of time
+Picked on November 29th at $62.44       PE =3D 87
+Change since picked       +$12.62       52 week high=3D79.19
+Analysts Ratings       23-9-2-0-0       52 week low =3D28.00
+Last Earnings 10/29 est .22  actual .21  surprise -4.5%
+Next Earnings 02/04 est .22  versus .15
+Chart =3D  
+T - AT&T $84.25 (-0.81)(+9.31)(+1.19)(+1.56)(P4W +12.06)
+AT&T, the mother of all phone companies isn't just a long
+distance company any more. Through growth and acquisition,
+they now provide data transmission, video tele-
+conferencing, PCS/wireless/cellular, Internet, paging and
+local phone services via microwave, fiber and copper
+infrastructure throughout the U.S. and international
+markets.  Their annual revenues in excess of $55 billion
+dwarf their nearest competitor, MCIWorldCom, by 5 times.
+Their 1998 acquisition of TCG (formerly Teleport
+Communications Group, the nations largest competitive local
+exchange carrier) and IBM's data services division will add
+substantially to their revenues.  Pending a merger with
+cable giant, TCI, revenues could grow even more.  Michael
+Armstrong, AT&T's CEO, has investors believing that AT&T is
+no longer a copper wire dinosaur heading-up the telecom
+extinction list.
+Great defensive play in the face of market woes last week.
+AT&T dipped just below $81 after the open Wednesday, it's
+low trading point of the week, but finished up strongly at
+$84.75.  Friday's recovery of $2.13 after Thursday's
+nosedive to $82.12 came as investor's realized the sell-off
+was overdone.  Merrill Lynch upgraded the week before last
+to "Long Term Buy".  Technicals are a bit weak in light of
+market conditions, but should recover with any market
+strength.  Still, the big news:  3:2 stock split to occur
+when the TCI deal closes around the end of March (no firm
+date yet-we'll let you know the details when available), $4
+billion stock repurchase (about 2.7% of shares in float at
+current levels) and increased earnings estimates.  With
+some of the profits shaken out, a better entry is possible,
+but confirm direction before playing.
+Not much price moving news this week (other than Brazil).
+The week before last, AT&T got the green light to merge
+with TCI thus creating a huge bandwidth pipe (lots of
+transmission capacity) over "the last Mile" or that short
+distance between the street and your phone jack.  It's
+estimated that it costs $1200 per home for a typical
+utility to trench and install any transmission equipment.
+That's why even though the fiber optic cable runs down your
+street, you can't yet access it.  It's too expensive to get
+it to you.  Soon, you'll be able to bypass that fiber in
+favor of AT&T/TCI cable.  It's already there.  Translation:
+increased revenues.
+BUY CALL FEB-80 T-BP OI=3D 3679 at $6.88 SL=3D5.25 ITM 4.25
+BUY CALL FEB-85*T-BQ OI=3D 6666 at $3.63 SL=3D1.75 ATM,
+BUY CALL APR-85 T-DQ OI=3D 2329 at $6.00 SL=3D4.25 ATM
+BUY CALL JUL-85 T-GQ OI=3D 1483 at $8.75 SL=3D6.50 lots of time
+Picked on Dec 20th at  $73.00    PE =3D 22
+Change since picked   +$11.25    52 week low =3D $48.38
+Analysts Ratings   9-10-8-0-0    52 week high=3D $86.75
+Last earnings  9-98 est=3D 1.00    actual=3D 1.16
+Next earnings  1-26 est=3D 1.00    versus=3D  .81
+Chart =3D  
+ATI  AirTouch Communications $83.38 (+4.38)(+6.56)(+4.56)(+5.19)
+AirTouch Communications provides wireless communications to nearly
+14 million customers in the US and in 11 countries in Asia and
+Europe. Its operations include cellular telephone service (#2 in
+the US, after AT&T), paging, and personal communications service
+through PrimeCo, its joint venture with Bell Atlantic. AirTouch has
+joint ventures in Europe and Asia, including Portugal (Telecel)
+and Sweden (Europolitan), where the cellular market is growing
+rapidly. It holds a minority stake in the Globalstar satellite
+network, which is scheduled to begin providing worldwide digital
+phone communications in 1999.
+Well, it is finally done. ATI is merging with Vodaphone. The
+combined company, to be known as Vodafone AirTouch Plc, will
+reach nearly one billion people in 23 countries on four
+continents. Serving over 23 million proportionate cellular
+and PCS customers, Vodafone AirTouch will be the largest
+wireless company in the world by a substantial margin. The
+merger is expected to benefit employees, customers and
+stockholders. The deal puts ATI shares value at $97 based on
+the January 15th close.
+If you are not already in ATI, it's too late. ATI will gap open
+on Monday.  We will wait and see how the reaction is after
+Monday to decide if we should keep ATI long-term.  The only
+reason we might keep it is because the deal involves 1 share
+of ATI for .5 shares of VOD's ADR share price (plus $9 in cash
+per share).  Thus if VOD continues to move up, ATI should
+continue to move up too.  ATI is scheduled to announce earnings
+on the 22nd of January.
+Options will be out of date on the open Tuesday (that means
+anything we quote today will probably be $10 too cheap by
+Tuesday).  If we keep ATI on Tuesday, we will update the
+current option prices.
+Picked on Dec.22nd at  $67.88   PE=3D82 (and rising)
+Changed since picked   +15.12   52-week low =3D $38.25
+Analysts Ratings  13-11-4-0-0   52-week high=3D $83.50 (not for long)
+Last Earnings 10-98  est =3D.26   actual =3D .30
+Next Earnings 01-22  est =3D.18   versus =3D .14
+Chart =3D  
+LU  Lucent Technologies $110.25 (-5.06)(+5.31)(-2.12)
+Lucent Technologies, Inc. is one of the world's leading
+designers, developers and manufacturers of telecommunications
+systems, software and products. The Company is a global market
+leader in the sale of public telecommunications systems, and
+is a supplier of systems or software to most of the worlds
+largest network operators. They are also a global market
+leader in the sale of business communications systems and
+in the sale of microelectronic components for communications
+applications to manufacturers of communications systems and
+computers.
+LU is back!!! After trading as low as $96.00 three days ago,
+LU took back over $4 of those losses.  LU took a hit with the
+news it was in talks with Ascend.  When the news became reality,
+LU has firmed and is heading higher into earnings on the 21st.
+LU says the merger will not affect earnings in 1999 and should
+help earnings in 2000. It seems the merger is viewed as
+positive by the public since LU has trended higher since the
+news became official.  There is a possibility that LU could
+announce a split with earnings, but the more likely time will
+be after the shareholders meeting in February.
+Lucent announced a new product for radio.  Lucent Digital
+Radio's advancement, called Multi-Streaming, is based on
+state-of-the-art capabilities in audio and wireless channel
+coding technologies from Lucent's Bell Labs, and allows for
+the best-quality FM audio to be delivered over a wide coverage
+area, even under impaired channel conditions.
+BUY CALL FEB-105 LU-BA OI=3D2553 at $11.25 SL=3D 8.75 ITM $5.25
+BUY CALL FEB-110 LU-BB OI=3D5658 at $ 8.63 SL=3D 6.50
+BUY CALL FEB-115*LU-BC OI=3D6763 at $ 6.25 SL=3D 4.25
+BUY CALL APR-110 LU-DB OI=3D3654 at $13.13 SL=3D10.50
+BUY CALL APR-115 LU-DC OI=3D3399 at $10.88 SL=3D 8.50
+Picked on Dec.29th at   $112.06    PE =3D 53
+Change since picked       -1.81    52 week low =3D$ 34.18
+Analysts Ratings     8-9-12-0-0    52 week high=3D$120.00
+Last earnings on 10-98 est=3D .39    actual=3D.41
+Next earnings on 01-21 est=3D1.00    versus=3D.86
+Chart =3D  
+SEE DISCLAIMER IN SECTION ONE
+Please respond to xtrials@optioninvestor.com
+The Option Investor Newsletter            1-17-98
+Sunday                6  of  7
+COMBINATION PLAYS - MARKET RECAP -Boom or Bust?
+U.S. stocks rallied on Friday, snapping back from the problem of
+Brazilian currency devaluation as investors showed new confidence
+in the market. The Dow closed up 220 points at 9340.55 and the
+Nasdaq was up 71 points at 2348.21. Internet traders were focused
+on Marketwatch.com as shares surged 473% and markets around the
+world benefited from Brazil's move to let the inflation-busting
+real float. The question is: Will the enthusiasm fade next week?
+Our new spread plays were all available at favorable prices. The
+first candidate was CIEN and a debit price of $3.50 (FEB12C/17C)
+was easily attained in the morning trading. SDTI and SRCM went in
+different directions but both were still playable. The credit for
+the SDTI spread (FEB17P/20P) was slightly less than expected at
+$0.50 and SRCM (FEB15P/17P) was right in line at $0.75. SRCM is
+primarily a merger-speculation play and without news or continued
+rumors, the stock price will drop. Watch it closely! AAPL was our
+leg-in play and as recommended, we started with a long position
+(FEB35P) at $1.12 and used the afternoon's downward momentum to
+increase the price of the short option (FEB37P) to $2.00 for a
+credit of $0.87. SUNW was up at the open but favorable positions
+were still available at 10:00 AM as the stock price took a quick
+breather. The (LJAN100C/FEB100C) calendar spread traded at $14.00.
+Friday was expiration day for many of our plays and one of them
+was a heart-stopper! Our credit spread on MCHP suffered cardiac
+arrest after the company (on Thursday night) reported earnings
+that were up from the previous year, but below Street estimates.
+Shares fell over $5 in morning trading and although it eventually
+went the distance (finishing at $35.12), the prudent exit was at
+mid-day for a closing debit of $0.50, to break-even. The rest of
+the credit spreads expired safely OTM. Even those that held AAPL
+and BMCS to the close were successful.
+We are starting to see more progress in the calendar spreads as
+some of the positions are "paid for" and many have been moved to
+the next higher strike. Our biggest dilemma is the ATI LEAP play
+as the company said it agreed to merge with Britain's Vodafone
+Group in a stock deal valued at about $56 billion. The merger is
+considered valued at $97 per AirTouch common share and we are
+curious to see the opening prices on our current positions next
+week. Other short positions that were closed include CPQ, NOVL
+and WCOM. New options need to be sold on OXHP and WCOM. BGP was
+our only dismal failure and there may be some recovery next week.
+The debit spreads did better this month, primarily because the
+market was so bullish. Our main focus next week is the LU play.
+We already have a profit and will plan to exit early on any bump
+before the earnings. We are also watching FTL for any further
+downward movement and hopefully some new take-over rumors will
+surface. Good Luck!
+- CREDIT SPREAD SUMMARY -
+Stock   Pick     Last      Position   Credit  Cost    G/L   Status
+AAS     $59.53    $79.50  JAN70C/65C  $0.68  $0.62   $0.06  Closed
+AAPL    $38.00    $41.31  JAN47C/45C  $0.50  $0.25   $0.25  Closed
+AAPL    $41.38    $41.31  FEB35P/37P  $0.87  $1.00  ($0.12)  Open
+AGPH    $48.93    $58.00  JAN40P/35P  $0.43  $0.00   $0.43  Closed
+ALA     $23.19    $24.56  JAN15P/17P  $0.31  $0.00   $0.32  Closed
+AOL    $154.62   $146.50 JAN120P/125P $1.25  $0.00   $1.25  Closed
+ATHM    $80.25   $102.00  JAN65P/70P  $0.38  $0.00   $0.38  Closed
+BMCS    $44.56    $40.06  JAN35P/40P  $0.87  $1.12  ($0.25) Closed
+CMGI   $119.87    $96.38  JAN80P/85P  $0.62  $0.00   $0.62  Closed
+GT      $52.12    $50.00  JAN65C/60C  $0.43  $0.00   $0.43  Closed
+IGEN    $30.62    $34.25  JAN22P/25P  $0.38  $0.00   $0.38  Closed
+MCHP    $39.25    $35.13  JAN30P/35P  $0.50  $0.50   $0.00  Closed
+SDTI    $25.50    $27.50  FEB17P/20P  $0.50  $0.62  ($0.12)  Open
+SRCM    $20.87    $19.75  FEB15P/17P  $0.75  $0.75   $0.00   Open
+VNWK    $35.25    $43.50  JAN25P/30P  $0.50  $0.00   $0.50  Closed
+Credit spreads are profitable if both positions remain OTM until
+expiration. The cost-to-close price can be used to compare the
+initial opening credit to the current spread value.
+- CALENDAR SPREAD SUMMARY -
+Stock   Pick    Last    Position     Debit   Value    G/L  Status
+ATI    $64.93  $83.38 LJAN70/FEB75C  $8.50   $8.00  ($0.50)  Open
+BGP    $23.19  $18.75    FEB25C      $1.38   $0.25  ($1.12)  Open
+CD     $19.93  $20.75 LJAN20/FEB20C  $3.50   $3.62   $0.12   Open
+CPQ    $42.68  $46.63 APR45C/FEB45C  $0.00   $1.62   $1.62   Open
+DIS    $38.00  $36.00 LJAN40/FEB40C  $4.00   $4.00   $0.00   Open
+GM     $71.50  $83.31 MAR70C/FEB75C  $4.50   $4.25  ($0.25)  Open
+NOVL   $18.19  $20.06 MAY17C/FEB20C  $1.12   $2.38   $1.25   Open
+OHXP   $20.06  $18.88    MAY20C      $2.75   $2.50  ($0.25)  Open
+PCS    $21.81  $25.38 MAY22C/FEB25C  $1.50   $3.00   $1.50   Open
+SUNW   $94.50 $100.44 LJAN100/F100C $14.00  $14.00   $0.00   Open
+T      $79.50  $84.25 FEB80C/JAN80C  $2.31   $6.00   $3.68  Closed
+WCOM   $74.25  $75.06    LJAN75     $10.87  $14.38   $3.50   Open
+The calendar (or time spread) is profitable if the value of the
+position exceeds the initial debit (or cost-basis) at the end of
+the expiration period for the long position. However, because we
+track the plays based on the current closing cost/value, and some
+of the plays have diagonal positions, the gains will rarely be
+reflected until the play closes. Each month, as we sell a new call
+against the long position, the net cost should decline or position
+value should increase.
+- DEBIT SPREADS -
+Stock   Pick     Last      Position   Debit   Value   G/L   Status
+AOL    $146.50  $146.50  FEB155C/160C $2.50  $1.87   $0.62   Open
+AOL    $146.50  $146.50  FEB155C/160C $1.50  $1.87   $0.38   Open
+BGP     $23.19  $18.75  JAN22C/JAN25C $1.38  $1.75   $0.38  Closed
+CIEN    $18.68  $18.94  FEB12C/FEB17C $3.50  $3.25  ($0.25)  Open
+FTL     $18.50  $16.69  FEB15C/FEB20C $1.50  $1.62   $0.12   Open
+LEVL    $38.00  $38.63  FEB30C/FEB35C $3.25  $3.50   $0.25   Open
+LIPO    $14.12  $13.88  JAN12C/JAN15C $1.50  $1.50   $0.00  Closed
+LU     $107.87  $110.25 FEB105C/110C  $1.75  $2.50   $0.75   Open
+LUV     $26.06  $26.38  FEB22C/FEB25C $1.25  $1.62   $0.38   Open
+MTRS    $45.88  $44.13  FEB40C/FEB45C $3.25  $5.00   $1.75  Closed
+OXHP    $20.06  $18.88  FEB17C/FEB20C $1.38  $1.12  ($0.25)  Open
+OXHP    $20.06  $18.88  FEB17C/FEB20C $1.00  $1.12   $0.12   Open
+QNTM    $24.87  $26.88  FEB22C/FEB25C $1.25  $1.38   $0.12   Open
+RSLN    $20.68  $20.78  JAN17C/JAN20C $1.75  $2.25   $0.50  Closed
+A debit-spread is profitable if the value of the position exceeds
+the initial cost of the spread when the play is closed. However,
+because we track plays based on the current cost/value, potential
+gains may not be reflected until both positions are closed.
+- DEBIT STRADDLES -
+Stock   Pick     Last    Position   Debit  Value    G/L   Status
+JMED   $35.19   $34.50  MAR35C/35P  $5.62  $4.75  ($0.87)  Open
+NXTL   $29.68   $28.94    MAY30C    $2.87  $3.38   $0.50   Open
+A debit-straddle is profitable when the value of the position
+exceeds the initial cost of the spread.
+- CREDIT STRADDLES -
+Stock   Pick     Last      Position   Credit  Cost    G/L   Status
+ESCMF  $10.65   $7.38   JAN10C/JAN10P $2.25  $1.25   $1.00  Closed
+A credit-straddle is profitable if the cost to close the position
+is less than the initial credit from the spread.
+- NEW PLAYS -
+ABI - American Bankers Insurance  $48.87     Call Debit Spread
+American Bankers Insurance Group (ABIG) sells wholesale, credit
+related specialty insurance. Financial institutions, retailers,
+automobile and manufactured-housing dealers, and representatives
+then retail these policies to consumers. Products include property
+insurance (on items ranging from mobile homes to appliances), as
+well as life, unemployment, and disability insurance.
+Trading in American Bankers Insurance Group options has been brisk
+lately following weeks of inactivity as bid speculation reemerges.
+Traders cited talk that American International Group, which had
+attempted to buy American Bankers last year, (before Cendant Corp
+outbid AIG and then pulled out of the deal because of accounting
+problems) would return with another offer. Things are heating up
+as ING Baring Furman Selz said it resumed coverage of ABI with a
+"strong buy" rating. The report says American Bankers is one of
+its favorite companies among specialty insurers and states the
+company is likely to resume double digit revenue and earnings
+growth in the second half of 1999 while earning 15% to 20% on its
+equity. The 1999 share price target is $58 and the technical
+outlook is favorable.
+PLAY (conservative):
+BUY  CALL FEB-45 ABI-BI OI=3D261  A=3D$5.87
+SELL CALL FEB-50 ABI-BJ OI=3D2612 B=3D$2.62
+NET DEBIT TARGET=3D$3.00 ROI(max)=3D33%
+INITIAL GTC CLOSING PRICE=3D$4.25
+Chart =3D  
+HUM - Humana Inc.  $19.50     (Neutral) Calendar Spread
+One of the largest health care companies in the US, Humana offers
+health maintenance organizations (HMOs), preferred provider
+organizations (PPOs), and Medicare supplement insurance. They have
+about 6 million members and Humana tries to cut costs by offering
+physicians incentives and requiring pre-authorization for hospital
+inpatient services and outpatient surgery. Medicare accounts for
+almost one-third of sales, but Humana is cutting back its Medicare
+HMO business. The company markets its products to employers and
+other groups, as well as to certain Medicare-eligible individuals.
+In the past year, Humana has been the sector's most active merger,
+acquisition and divestiture participant as the company moved to
+purchase health plans in its largest markets while divesting non-
+strategic assets to focus on profitable core businesses.
+A Florida appellate court recently ruled that a lawsuit against
+Humana could not proceed as a class action and that it should be
+dissolved. The opinion strongly supports HUM's contention that
+the class action had no merit. This may help investors regain
+favor with the company as its likely their business practices have
+always been both ethical and legal. The chart reflects a new range
+of trading developing near $20 and that makes it perfect for a
+calendar spread.
+PLAY (conservative):
+BUY  CALL MAY-20 HUM-ED OI=3D567  A=3D$2.43
+SELL CALL FEB-20 HUM-BD OI=3D1814 B=3D$1.12
+NET DEBIT TARGET=3D$1.25 TARGET ROI=3D40%
+Note: In the long-term calendar spread, we are reducing the net
+cost of the long-term option by the credit from the sale of the
+nearer-term call. If the near-term call expires worthless, we will
+sell the MAR call to further reduce our debit. If your short-term
+position is ITM on the last day of the strike, you need to buy it
+back so that you DON'T have to exercise the long-term position. In
+that case, your long option is going up in value also and on the
+last day of the strike period, the short call will shrink down to
+intrinsic value so you will be ahead in the play even after you
+buy it back.
+Chart =3D  
+GMSTF - Gemstar Intl.  $59.87     Put Credit Spread
+GMSTF develops, markets and licenses proprietary technologies and
+systems that simplify and enhance consumers' interaction with
+electronics products and other platforms that deliver video,
+programming information and other data. A recent report rated the
+stock "neutral" for conservative investors and "accumulate" for
+more aggressive investors based on the company's huge potential
+and superior management. A 14 month conservative target price was
+set at $57.00. GMSTF also recently filed patent infringement suits
+against Scientific Atlanta, Pioneer and General Instrument Corp,
+claiming that these companies willfully infringed two (Levine)
+patents, by virtue of deployment, marketing, offers to sell and
+sale of cable set top boxes containing an interactive program
+guide not licensed under these patents. The Levine patents broadly
+cover, among others, an interactive program guide using locally
+stored or cached data. Gemstar is seeking injunctions and monetary
+damages from these companies. Other news includes acquisitions of
+VideoGuide and Starsight.
+Basically, we favor the technical trading range tops near $45 as
+current support for this position but use the downward momentum
+by opening the long position first. Then sell the short position
+when the stock price firms, to create the credit spread.
+PLAY (conservative):
+BUY  PUT FEB-40 QLF-NH OI=3D245 A=3D$0.68
+SELL PUT FEB-45 QLF-NI OI=3D97  B=3D$1.06
+NET CREDIT TARGET=3D$0.50 ROI=3D11%
+Chart =3D  
+COF - Capital One Finance  $130.43     Put Credit Spread
+Capital One Financial Corporation is a holding company, whose
+subsidiaries provide a variety of products and services including
+credit card products, certain consumer lending, deposit services,
+and various operating, administrative and other services. COF is
+one of the largest issuers of Visa and MasterCard credit cards in
+the United States. Quarterly earnings are due soon and they expect
+to exceed analysts' current expectations. The reported earnings
+should be approximately 30% higher than 1998 and that is above the
+company's long-term objective of 20% earnings growth. Upgraded by
+Paine Webber in early January and the stock price is now trading
+above all recent resistance at new yearly highs.
+PLAY (conservative):
+BUY  PUT FEB-105 COF-NA OI=3D209 A=3D$1.19
+SELL PUT FEB-110 COF-NB OI=3D61  B=3D$1.87
+NET CREDIT TARGET=3D$0.81 ROI=3D19%
+Chart =3D  
+ELN - Elan Corp  $68.93     Call Credit Spread
+Elan Corporation dashingly develops drugs and the delivery systems
+that control their absorption. Company subsidiaries include Elan
+Pharmaceutical Technologies, which designs oral, microparticulate,
+and transdermal (patch) delivery systems; Athena Neurosciences,
+which develops drugs for such disorders as Alzheimer's disease;
+and Axogen, a research and development (R&D) spinoff. The company
+is also bulking up with acquisitions, including Sano Corporation,
+Neurex, and Kodak's drug-delivery system maker NanoSystems. Elan
+makes some 20 products (including Cardizem CD, marketed by Hoechst
+Marion Roussel) sold in more than 45 countries. Based on the news,
+lots of drugs and new products in the pipeline. The recent merger
+frenzy may have hurt the current bottom-line and investor support
+is fading. Just another technical play as this stock has failed
+to reach $75 five times in 180 days.
+PLAY (conservative):
+BUY  CALL FEB-80 ELN-BP OI=3D0   A=3D$0.62
+SELL CALL FEB-75 ELN-BO OI=3D229 B=3D$1.25
+NET CREDIT TARGET=3D$0.75 ROI=3D18%
+Chart =3D  
+INDEX OPTION SPREADS  As a trader, you may be familiar with options on individual stocks
+where you have the right to buy (call option) or the right to sell
+(put option) a particular stock at some predetermined price within
+some predetermined time. The buyer has the rights and the seller
+the obligations. With index options the basic ideas are the same.
+Index options allow you to make investment decisions on a specific
+market industry or on the market as a whole. Spread strategies can
+be made with index options similar to those made with individual
+stock options. Many professional traders employ index spreads as a
+hedge strategy. We favor debit positions on the SPX for momentum
+and longer-term plays and OTM credit spreads on the OEX when the
+risk/reward is favorable. Low ROI disparity spreads will be listed
+(when available) for the conservative index trader.
+OEX - S&P 100 Index  $616.46     OTM Credit-Spreads
+The Standard & Poor's 100 Index is a capitalization-weighted index
+of 100 stocks from a broad range of industries. The component
+stocks are weighted according to the total market value of their
+outstanding shares. The impact of a component's price change is
+proportional to the issue's total market value, which is the share
+price times the number of shares outstanding.
+OBSERVATIONS:
+For OTM credit spread trades, we like to use the actively-traded
+S&P 100 Index options because they contain much more premium than
+options on individual stocks and provide an underlying instrument
+less prone to huge, gapping moves. Remember however, that you can
+always be exercised early so monitor your positions daily.
+TECHNICALS:
+The overall market seems likely to remain in a wide trading range
+over the next few weeks and the long-term outlook is for a two-way
+market with somewhat neutral bias. Secondary issues are performing
+well but big-caps continue to suffer. The DOW and the S&P 500 both
+remain above their 30 wma's and over 50% of all stocks are now in
+stage II. The call/put ratio is slightly pessimistic so there may
+be some upside testing before any further correction. Review the
+OEX trading pit for more specific technical information on the S&P
+100 Index.
+Bullish 
+PLAY (disparity/low ROI):
+BUY  PUT FEB-530 OEW-NF OI=3D992 A=3D$3.12
+SELL PUT FEB-535 OEW-NG OI=3D68  B=3D$3.50
+NET CREDIT TARGET=3D$0.38 ROI=3D8%
+PLAY (conservative):
+BUY  PUT FEB-570 OEW-NN OI=3D5024 A=3D$7.25
+SELL PUT FEB-575 OEW-NO OI=3D507  B=3D$8.00
+NET CREDIT TARGET=3D$0.75 ROI=3D17%
+Bearish 
+PLAY (conservative):
+BUY  CALL FEB-670 OEY-BN OI=3D3332 A=3D$2.00
+SELL CALL FEB-660 OEY-BL OI=3D4414 B=3D$3.25
+NET CREDIT TARGET=3D$1.25 ROI=3D14%
+CHART=3D   TO SUBSCRIBE?*****************************************************??We would like to have you as a subscriber. You may subscribe?at any time but your subscription will not start until your?free trial is over.??The monthly subscription price is 39.95?The quarterly price is $99 which is $20 off the monthly rate.??************************************************************??To subscribe you may go to our website at??www.optioninvestor.com??and click on "subscribe" to use our secure credit?card server or you may simply send an email to?"subscribe@optioninvestor.com" with your?credit card information,(number, exp date, name)?or you may call us at 303-797-0200 and give us the?information over the phone.??You may also fax the information to: 303-797-1333??*************************************************************?                      DISCLAIMER?*************************************************************?This newsletter is a publication dedicated to the education?of options traders. The newsletter is an information service?only. The information provided herein is not to be construed?as an offer to buy or sell securities of any kind. The?newsletter picks are not to be considered a recommendation?of any stock or option but an information resource to aid the?investor in making an informed decision regarding trading in?options. It is possible at this or some subsequent date, the?editor and staff of The Option Investor Newsletter may own,?buy or sell securities presented. All investors should consult?a qualified professional before trading in any security. The?information provided has been obtained from sources deemed?reliable but is not guaranteed as to accuracy or completeness.?The newsletter staff makes every effort to provide timely?information to its subscribers but cannot guarantee specific?delivery times due to factors beyond our control.???  Forwarded by Mark - ECT Legal Taylor/HOU/ECT on ?01/18/99 08:27 AM  ?   ?=09En
+Tony Pryor@
+06/06/2000 03:36 PM
+Mark, Taffy said you're under the weather. Hope you're feeling better by the 
+time you open this. The attached draft is revised slightly from the one I 
+previously sent to you for review. The changes are nonsubstantive from your 
+standpoint - -  most of them were made to clarify that there will be 
+offerings from the pipelines other than open seasons. In making the changes, 
+I forgot to do a redlined draft for you, so I am faxing to you a copy 
+redlined by hand. 
+Thanks again for all your help.
+Tony
+Mark Taylor
+05/16/2000 12:48 PM
+Here is the draft of the questionnaire for local counsel.  Let me know what 
+you think.
+Another thing we'd like to talk about on Monday is the danger of becoming a 
+Commodity Trading Advisor and the kinds of things we should look out for in 
+the proposed website content.  For example, we have heard repeated references 
+to "market commentary" and we will need to develop some sort of guidelines to 
+give the commentators.
+Please revise my entry in the Web Directory to show my new e-mail address Mark.Taylor@ - and my Greek affiliation as Zeta Beta Tau.
+?
+Thanks!
+?
+Mark Taylor, '78
+Looks good!
+=09Melba Lozano
+=0906/09/2000 10:08 AM
+=09=09=20
+Mark,
+Attached please find the last version of the Product Description that will go=20
+out on the web.  You have already oked this language, but just take on last=20
+look at it just in case.
+Thank you very much,
+Melba
+58986
+US Styrene FOB   Hou/TX Cty              Jul00           USD/Lb-M
+A US ASTM 2827 Styrene Transaction with Enron Petrochemicals Company, a=20
+division of Enron Liquid Fuels, Inc., under which the Seller shall sell and=20
+the Buyer shall purchase the agreed quantity of Styrene at the Contract=20
+Price. The commodity will be delivered on a FOB basis upon five- (5) working=20
+days notice by Buyer and on a day selected by Buyer between the Effective=20
+Date and the Termination Date.
+The term of the Transaction shall be from the Effective Date to the=20
+Termination Date. The Effective Date is 01 Jul 2000. The Termination Date is=20
+31 Jul 2000.
+This transaction is for delivery to either Houston or Texas City at Seller=01,s=20
+election.
+The price is quoted in US Dollars per unit of volume, which will be the=20
+Contractual Currency.
+The unit of measure against which the price is quoted shall be pounds and the=20
+volume shown shall be in total number of Metric Tons (2,204 US Pounds) per=20
+month.
+I agree with you on 1, Passport should be Password and I have put a call in 
+to Tony Pryor to ask about #3.
+David Forster@
+06/08/2000 05:58 PM
+Comments:
+1) Enron Net Work should probably be EnronOnline, LLC
+2) 1. What is a Passport Application?
+3) 3.  I agreed we wouldn't pass along any details of any bids to ENA 
+employees. I don't know what all of this paragraph entails. Can you shed some 
+light, or should we just ask them to reword it?
+Dave
+Tony Pryor@
+06/06/2000 03:36 PM
+Mark, Taffy said you're under the weather. Hope you're feeling better by the 
+time you open this. The attached draft is revised slightly from the one I 
+previously sent to you for review. The changes are nonsubstantive from your 
+standpoint - -  most of them were made to clarify that there will be 
+offerings from the pipelines other than open seasons. In making the changes, 
+I forgot to do a redlined draft for you, so I am faxing to you a copy 
+redlined by hand. 
+Thanks again for all your help.
+Tony
+Here is the most recent draft of the Posting Agreement which we would like to 
+discuss with you at our meeting tomorrow.
+This is certainly a tough one.  We go to great lengths to avoid regulation 
+here and have been fairly successful to date.  We do have some oversight from 
+the Federal Energy Regulatory Commission (FERC) regarding our power trading 
+and pipeline activities and local state regulators keep an eye on our purely 
+intrastate pipeline activities, but for the most part we are unsupervised If it helps, we conduct our derivative trading operations in accordance with 
+Commodity Futures Trading Commission (CFTC) regulations (but that's just 
+complying with the Eligible Swap Participant and Trade Option Exemption 
+rules).  It is true we are a member of the NYMEX and subject to their rules 
+but they relate almost exclusively to trading on the NYMEX.  It might be more 
+helpful to talk to the guys in London about our SFA regulatory status.  We 
+have quite a bit more supervision there than we do here in the states.
+David Minns@_DEVELOPMENT
+06/13/2000 02:56 AM
+Mark, we are attempting to get a broad approval to trade any types of 
+products in Australia through EnronOnline. (Currently our ability to trade 
+products other electricity through EnronOnline using standardised 
+documentation is not beyond doubt). What the Australian regulators are 
+looking for is for us to point to a regulatory oversight in the US of Enron's 
+trading activities. They hopefully then will back off. Particularly they want 
+us to demonstrate  there are some prudential requirements Enron Corp. needs 
+to meet in respect of trading activities. Pardon my complete ignorance but 
+are there any? Would membership of NYMEX be relevant? 
+Mallesons Stephen Jaques
+Confidential communication
+David
+I have just had another call from ASIC (Alan Worseley and Tim Hardman).
+It seems that there is a single significant policy concern for the ASIC
+policy committee.
+This arises because ASIC believes that a significantly wider range of
+sophisticated counterparties will be interested in the EnronOnline products
+(such as weather and credit) than those that are interested in Australian
+electricity derivatives.  As a result, ASIC is not able to simply
+"transfer-across" its approval of EAF under the electricity declaration
+without separate consideration as to how EAF can meet the prudential
+regulation criteria specified in PS 70.
+They have asked for further information in this regard.  Obviously I
+mentioned the presence of the Enron Corp guarantee. However, ASIC may
+require something further, such as evidence of procedures in place to
+prevent an Enron failure.  PS 70 states in this regard (in paragraphs 46 and
+47):
+"The ASC considers that providers of safe harbour market facilities
+should be subject to regulation which at least sets minimum capital
+standards and ensures regular reporting against them. This is because the
+financial stability of a facility provider is a crucial factor in the
+stability of any market conducted by that provider. This will ensure that
+risks associated with the conduct of a safe harbour market are monitored.
+Standard setting and monitoring will contribute to the continued financial
+stability of the facility provider. If the facility provider is a
+significant participant in other markets, it will also help prevent any
+adverse consequences for those markets if the facility provider fails.
+Regulatory supervision of this kind may occur in a number of ways.
+For the purposes of the ASC's policy, it is not the identity of a
+particular supervisory authority that is important, but the fact
+that the organisation is subject to supervision which produces the results
+mentioned in para 46. Regulatory supervision will meet this test only if the
+capital standards which it imposes on an organisation take into account the
+organisation's derivatives market activities."
+The following paragraphs are also explanatory, particularly as they refer to
+certain US licensees.  Are any Enron entities subject to prudential or
+similar regulation due to the licences/authorisations which they hold? This
+could be a useful starting point.
+They also mentioned that there may be difficulty in achieving the 23 June
+timetable.  However, the focus of the discussion was the policy issue rather
+than timing.
+Scott Farrell
+Senior Associate
+Mallesons Stephen Jaques Sydney
+Direct line (61 2) 9296 2142
+Fax (61 2) 9296 3999
+Sorry about the delay.  Here are my responses:
+1.  Yes, this is primarily a tax issue.  However, there are some countries 
+with strange laws regarding internet usage and we have covered some of those 
+issues with specific PA provisions for those countries. 
+2. No.  Only one user from each counterparty has to accept the GTC and that 
+only the first time they trade that product.  The GTC's are arranged by 
+"Product Type" so you only have to agree to it once for that type regardless of how many products there are - so for example you only agree to 
+the financial derivatives GTC once no matter how many different types of 
+swaps and options you subsequently trade.
+3. No.  But if that would be helpful it can be arranged.
+4.  This one doesn't make much sense to me.  EnronOnline itself doesn't make 
+any money.  There is no advertizing, and EnronOnline doesn't trade - the 
+trades are all done by the various Enron trading entities.  EnronOnline is 
+actually providing them a service.
+5.  I really have no idea.  I guess we would have to print out the records 
+and have one of the IT people testify that they had not been modified.
+6. So far we haven't deleted anything.  If we need to keep the records for a 
+long time we probably can but this has not been discussed.
+Brent Hendry@_DEVELOPMENT
+06/08/2000 11:36 AM
+Two of the internet attorneys at Marval came over today to look at the system 
+online.  They posed the following questions that I did not know the answer 
+to.  Can you help me out on getting them a response today if possible?
+1.  They would like to know the intent behind the sentence in Section (2) of 
+the password application that prohibits the user form using the password 
+outside their country.  I told them it was probably a tax driven issue but 
+was not sure.
+2.  They need to know if the user must scroll through and agree to the GTC 
+each time they transact a trade.  I believe each product is represented by a 
+separate line on the page and that each product has its own GTC even thought 
+several related products will probably have identical GTCs.  I told them I 
+thought that for each product that you only had to select it once, but that 
+for each product, even if the GTC is the same as another produce you have 
+reviewed, you must accept the GTC again.  Is this correct?
+3.  Are the Enron trading entities signing service agreements with EOL for 
+use of the system?
+4.  They wanted to know if the trading entities providing the prices etc. for 
+each product could be considered "content" for EOL and be considered value 
+for which EOL should pay the trading entities.  I haven't heard of this issue 
+before but I said I would ask.
+5.  As a proof issue, what would be the process of proving and electronic 
+trade?  How can we show we have not modified the screens or manipulated the 
+data.  How would the data be presented to a court 
+6.  How long are the electronic trades retained in our systems and how are 
+they retained?
+Any help you can give me would be appreciated. 
+Thanks,
+Brent
+Were you thinking about presenting re: EnronOnline or attending to hear what 
+the others have to say?
+Mark E Haedicke
+06/14/2000 08:48 AM
+FYI.  We should talk about attendance at these meetings re electronic trading.
+George James  	06/13/2000 03:58 PM
+Please respond to George.James
+Rosemary,
+Should we limit the presentations to ISDA members only?  What about
+FPML/Swift/Londex or e speed, or treasury connect, etc?  I believe we should 
+try
+to be inclusive of any important venture, member value from attendance goes up
+as a result.
+,
+George
+Rosemary Ryan wrote:
+         Following up on the discussion at the Strategic Planning Session
+ regarding ISDA holding a forum on electronic trading, we would like to
+ suggest the following and welcome your input.

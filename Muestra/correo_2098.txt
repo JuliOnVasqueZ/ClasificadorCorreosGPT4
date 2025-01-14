@@ -1,0 +1,1422 @@
+Stuart:
+I wanted you to be aware of the REASON for the holdup on your FX online 
+product.  We are trying to resolve this issue as quickly as possible.  Sara
+Janine Juggins
+12/13/2000 04:04 PM
+Your summary is correct based on information to date (in this regard the 
+agreement between ENA and EEFT still requires amendment in respect of RMT and 
+I undertake to get this done 
+However, please note that there have been some last minute changes in the 
+Japanese tax advice, received I understand only as of last night. Susan Musch 
+will be following up on these changes at a meeting today with Sheila Glover 
+and Darren Delage, and has undertaken to keep you appraised of the position. 
+The effect of the change would be to permit RMT to be the principal for the 
+Japanese FX desk, with a Japanese entity acting as agent to arrange the 
+transactions. 
+Janine
+Janine:
+With respect to the attached (internal) FX product for EOL, I just wanted to 
+verify with you that internal counterparties should transact on EOL with:
+(1)  RMT  (as principal for Houston FX desk)
+(2)  EEFT as agent for RMT (as principal for London FX desk).  In this 
+regard, was the services agreement between ENA and EEFT ever extended to 
+include RMT for internal trades? 
+(3)  Enron Japan Corp. (as principal for Tokyo FX desk)
+There appears to be some confusion since our meeting of November 3.  Thanks Sara
+Melba Lozano
+12/11/2000 05:59 PM
+Sara / Mark,
+I need an approval as soon as possible from you for the FX Description 
+attached.  Steve Jacobellis is requesting that this gets out on the web as 
+soon as possible 
+Thank you,
+Melba 
+58986
+Sara:  Please approve on the attached language for the FX Product.
+William:  There is a gap between hour ending 3:00 and 4:00 .  Do you want to 
+go ahead and set up Central time to trade until Hour Ending 4:00?  Please let 
+me know 
+Thank you,
+Melba
+Attached is the first draft for Gary's group.
+Brent:  I'll give you a call on Wednesday.
+Jaime Gualy
+08/10/99 02:17 PM
+Try this text version
+Has legal received a credit worksheet on this counterparty?  Please give me a=20
+call (or John!).  Thanks.  SS
+Sara:
+Can you give me an update on this deal. The customer is calling and need to=20
+let him know where are we standing on legal side of the business.
+John J Shoobridge
+08/05/99 07:20 PM
+Pat,
+I have faxed to you the financial statements of  Total Austral S.A..
+We are potentially entering into a MSA with this customer. The first=20
+transaction we are thinking about is a financial Swap to hedge their=20
+Propane-Butane production in Ca=0Fadon Alfa according to the following details:
+1. Swap                            Prices                         Prices
+| SWAP (cents/ gallon) - |         1 year         |        6 months |          Bid  |        Propane         |         35 3/4         |         38 3/4  |         Butane         |         40 3/4         |         43 1/2  
+2. Put Option
+|  Put Option  |   1 year -   |   1 year -   |  6 months -  |  6 months |(cents/gallon)|   Premium    |    Strike    |   Premium    |    Strike  |   Propane    |     2.5      |    32 3/4    |      2       |    35 3/4  |    Butane    |     3.0      |    37 3/4    |    2 3/8     |      42  
+Propane
+Volume: 45.000 metric tons.
+Starting date: Nov 1
+Butane:
+Volume: 19.000 metric tons.
+Starting date: Nov 1
+Sara: Would you please start drafting an MSA with Total Austral S.A.? Please=20
+let me know if you need any aditional information.
+John Shoobridge
+Jeff:  We will send the ISDA unless you prefer otherwise Rod:  Will you prepare credit?
+Sara
+Jeff Nogid
+08/10/99 02:11 PM
+Sara
+Please prepare an ISDA for Equities, Interest Rate Swaps, and FX (and for any 
+other ISDA instrument) for delivery to:
+John F. Miller
+Vice President
+JP Morgan
+1221 McKinney, Suite 3150
+Houston, TX 77010
+713-276-4602
+Are you going to send it out, or are you going to have me act as intermediary?
+Thanks
+Jeff
+3-4782
+Argentine CP.
+Sara:
+Attached is the credit worksheet for TOTAL Austral.  Please call if any 
+questions.
+,
+Pat 
+Just got off the phone with the lawyer.  We have only minor comments and he 
+needs to check with his credit people regarding the collateral threshold.  I 
+will wait to hear back before sending out a revision.  Sara
+We need to pursue now.  SS
+Here is the credit worksheet that I had originally sent on 6/28/99.  Susan 
+Bailey was working on this file when Argentina put the ISDA on hold They are ready to move forward with this ISDA again.
+,
+Pat
+Sara-
+We had started an ISDA with this counterparty that was put on hold, but is 
+now back on again.
+The main issue was the change in ownership, which should be if AES Corp. 
+fails to own 56.33% of Empresa Distribuidora de Energia Norte.
+Let me know if there were any other issues with preparing this document.
+Thank you,
+Pat
+I spoke with Joann Bigwood at Harvard and she will negotiate the agreement We will comment to their prior draft.  I'm in CA until Thursday.  SS
+FYI - Barton Clark called me to discuss spark spread concept.  I'll be in 
+Brazil from 8/17-8/20.  However, I'll alert Carol St. Clair to the 
+possibility of a call.  Sara
+Barton Clark
+08/11/99 12:54 PM
+As we discussed earlier today, Chris Foster is in the process of analyzing 
+the economics of the proposed derivative structure to determine indicative 
+price,term, etc., and Catalytica is considering whether the structure meets 
+its requirements. The attached draft ECT/GE agreement should give you some 
+useful background and other details about the transaction. Thanks for your 
+assistance.
+Sean Black
+08/10/99 07:49 PM
+Attached is the latest revision of the agreement for your review and comment.
+With   to the Catalytica/Enron agreement, we are still working with 
+Catalytica to come to agreement on an acceptable structure for both parties However, the basic agreement as it stands is that we are working on a spark 
+spread derivative structure which 'mimics' the macroeconomics of Pastoria as 
+much as possible (e.g., 750 MW, local spot PX prices and gas price, etc.) but 
+would not have any contractual link to the project.  Under this agreement, we 
+would always have the right at any time to buy back the spread for 10 MMUSD, 
+or exchange it for the XONON credit if we could not use it at Pastoria or at 
+another Enron project.
+We are working with the West desk to come up with a indicative price for such 
+a spread so we can begin to craft an agreement which we can then pass on for 
+your further review and comment.
+Keep you posted 
+,
+What's happening here?  Please call ASAP.  Thanks.  SS
+Pat,
+We are also discussing with EDES (same owners than EDEN) to work out the same=20
+financial products we are planning to offer with EDEN. The only difference=20
+will be the volume: 7 MW.
+I=01%ve asked them their financial statements. Whenever I get them I will faxed=20
+them to you.
+,
+Rolo
+SUPER congrats!!!  Can I buy you lunch before the millenium?  SS
+Rod Nelson in credit forwarded the Gulf request and attachments.  ECTC's 
+execution of the No Interest Letter is fine from a legal and credit 
+perspective.  I agree wtih your analysis.  Sara
+I will give you a revision to this doc and then I will need this printed on 
+ECT letterhead.  SS
+Mr. Zemp asked me to forward the attached revised support letter regarding 
+Mr. Saverance's application for an Employment Authorization.
+Janet Burton, Immigration Paralegal
+Bennett Jones
+Phone:  (403)298-3455
+Fax:  (403)265-7219
+Email:  burtonj@bennettjones.ca
+Can we update this information?  SS
+I will be out on vacation from July 29th - August 6th
+Also, I have accepted a position in Global Counterparties and my last day in 
+the
+documentation deal clearing group will be August 15th.  You may reach me at 
+x3-1727
+with any questions you may have...thanks...mgg
+During my absence, please contact the following accordingly:
+Joe Hunter x3-3316
+Sign confirmations for Nat Gas and Liquids
+Any additional questions not covered by individuals below
+Melba Lozano x3-7580
+Incoming confirmations - Counterparties who paper ECT
+One-off trades - collars, swaptions, deemed ISDA, etc.
+Liason with origination group and liquids group
+Audit requests
+Angie (Andrea) Guillen x3-1472
+Generate RISKMANTRA confirmations
+Generate confirmations for counterparties without master agreements
+Counterparty requests
+Revised confirmations
+Pending - credit issues
+Pam (Conner) Sonnier x3-7531
+Generate Canada financial Nat Gas and Liquids confirmations
+Pending - sent to trader (red folders) 
+Generate confirmations for counterparties with master agreements
+Willie Harrell x3-9226
+Unexecuted confirmations
+Stat reports
+Verify counterparty paper
+Liquid broker statements
+Miscellaneous incoming faxes from Counterparty
+I need to leave the office at 5 pm today.  Sara
+Lucy Ortiz
+08/11/99 04:33 PM
+This is basically the same, but I am taking over Melba's duties along with 
+managing the Weather Desk documentation.
+Joe Hunter x3-3316
+Sign confirmations for Nat Gas and Liquids
+Any additional questions not covered by individuals below
+LUCY ORTIZ x3-3238
+Weather
+One-off trades - collars, swaptions, deemed ISDA, etc.
+Liason with origination group and liquids group
+Audit requests
+Angie (Andrea) Guillen x3-1472
+Generate RISKMANTRA confirmations
+Generate confirmations for counterparties without master agreements
+Counterparty requests
+Revised confirmations
+Pending - credit issues
+Pam (Conner) Sonnier x3-7531
+Generate Canada financial Nat Gas and Liquids confirmations
+Pending - sent to trader (red folders) 
+Generate confirmations for counterparties with master agreements
+Willie Harrell x3-9226
+Unexecuted confirmations
+Stat reports
+Verify counterparty paper
+Liquid broker statements
+Miscellaneous incoming faxes from Counterparty
+Fine!
+Dale Neuner on 08/12/99 10:03:32 AM
+Here's the last, and hopefully final, version.
+Jeff - go ahead and do you review so when Sara okays these I can get them 
+back to Chris Calger quickly.
+As both parties are reviewing the issues we discussed yesterday, will you be 
+sending Harvard's form of guaranty for us to review?  I will be out of the 
+office next week.  Sara
+Per:  You don't need to do a thing!  Sorry for not getting back to you 
+sooner.  Have a good weekend.  Sara
+As both parties continue to explore the issues which we discussed yesterday, 
+would you like to send us Harvard's form of guaranty?  I will be out of the 
+office next week.  Thanks.  Sara
+WHERE DOES THIS STAND???????????????????????????????  We need to contact 
+Rodolfo.  Sara
+Importance:  High
+Sara,
+Could you please tell me were we are standing on the MSA for EDEN? I am not 
+going to be in the office tomorrow, but I would like to send the MSA to EDEN 
+the following week. Do you see that possible?
+Regads,
+Rolo
+FYI
+Dale Neuner on 08/16/99 10:02:26 AM
+Please offer your final approval and then I'll send this to Brad.
+SUBJECT TO LEGAL AND CREDIT APPROVAL (as to a particular transaction), I have 
+asked Dale Neuner on the ECT confirmation desk, to please forward to you a 
+"suggested format" for a pulp and paper confirmation.  Dale is an invaluable 
+resource for these deals.  Not knowing anything further, I am uncertain as to 
+whether this transaction will be documented on ECT's "omnibus format" or an 
+"ISDA format", so Dale will probably send the omnibus format.  Tanya Rohauer 
+is the credit guru.  I will update our review of Brazilian counterparties to 
+determine whether we have any legal issues.  I will be in Sao Paulo tomorrow 
+afternoon.  Sara
+Sara:
+We are working with the Pulp and Paper group in Houston on a deal with a 
+Brazilian Pulp company to offer a swap to them -paying them fixed prices for 
+Pulp and receiving index . I am in the process of preparing a draft letter 
+and term sheet.  Do you have a standard draft term sheet that I could use for 
+this transaction?
+Thank you,
+David
+As you now know, I did not fly to BA from Sao Paulo.  Please let me know if 
+you would like to set up a conference call (from Houston) or wait for me to 
+return to Sao Paulo.  Sara
+I heard either you or Susan Bailey are coming tomorrow to BA. It would be 
+great if we could get some time together and go over the MSAs so you can 
+explain to John and I how this transaction works.
+Let me know if you will be available some time tomorrow.
+,
+Rolo
+Can Brent handle this himself?
+Brent Hendry@_DEVELOPMENT
+08/20/99 10:16 AM
+I believe that I am still authorized to have access to the database.  I think 
+the problem is that I am on an EI server that is not connected to the ECT 
+server where the database resides.  Thanks 
+Kaye Ellis@ECT
+20/08/99 04:03 PM
+Joya - Please submit a security request for Brendt Hendry in Argentina to 
+have access to the NEW Master Swap Agreements database in Lotus Notes.
+Thanks,
+Kaye
+Attached are the latest documents from the ECT power trading group.  The 
+documents distributed in March, 1999 were revised recently although no 
+redline is available.  There are no other forms currently in use.  I'll speak 
+with Elizabeth Sager about pending revisions.  Also, I will send to you both 
+my thoughts regarding an action plan for the coming months.  Let me know if 
+you need anything further and if I should be copying any business 
+people/legal on our e-mails.  Sara
+I've received a number of e-mails regarding the Duke confirmation.  Would you 
+please advise as to status and send me a copy of the final confirm?
+I will begin circulating a list of ECT/ S. Cone Counterparty master swap 
+agreements.  Other than yourself, who else should receive these updates?  In 
+particular, I am thinking of commercials in BA and/or Sao Paulo.  Would you 
+encourage more frequent distribution?  Sara
+I should be available almost any time.  You can check with Kaye.  SS
+Suzanne Adams
+08/23/99 09:38 AM
+Carol St. Clair has asked me to schedule a one hour meeting regarding the 
+above-referenced topic.  She would like it to take place the week of August 
+30th.  Please advise as to your availability.  We are flexible.  Please 
+advise at your earliest convenience.  Thanks, Suzanne, x37340.
+We're still trying to trace the wire.  And Elaine is happy with my new letter 
+(so far).  I'll keep you posted.  SS
+Are Pat's conclusions accurate?  SS
+Sara:
+I just spoke with Rolo and he advised the ownership structure of 
+Transportadora de Gas del Sur S.A. (TGS):
+70% of TGS is owned by Compania de Inversiones de Energia S.A. (CIESA)
+CIESA is owned 50% by Enron and 50% by Perez Companc.
+In the corporate workbook the ownership structure of CIESA is outlined 
+The ownership structure of CIESA is somewhat complex and it appears that 
+Enron Pipeline Company-Argentina S.A. is the legal entity that owns the 
+shares in CIESA 
+I am assuming the best way to structure the event of default is to say if 
+Enron Corp. through its wholly-owned subsidiaries no longer owns 50% of CIESA 
+and/or if CIESA no longer owns 70% of TGS then, a Change in Ownership Event 
+of Default will have occurred.
+Please let me know what you think of this.
+,
+Pat
+Pat,
+Yetserday we had a meeting with TGS. We agreed to put an MSA in place to 
+start hedging LPG. They are very interested in doing business with us, so I 
+suggest we go ahead preparing the MSA.
+Do you need TGS financial's or you already have them? Do you need anything 
+else?
+,
+Rolo
+The e-mail references a memo previously prepared by Antonio Felix.  Can you 
+tell me the date of that memo?  I only have two (2) Tozzini memos (12/26/97 
+and 2/20/98).  Thanks.  Sara
+Michael Guerriero@_DEVELOPMENT
+08/20/99 07:45 AM
+Don Black has suggested we get you in the loop on the below issues we are 
+seeking answers on. We have some pending financial transactions that we would 
+like to work through all the Brazilian mechanics before proceeding. Your 
+primary contact down here for this issue will be Maria Ines Granado. Please 
+provide us with your comments as soon as possible so that we do not encounter 
+a transactional conflict. 
+Gustavo thank you for all your work to date we will keep you briefed to make 
+sure we have your input. Please follow up on the Tozzini issue we discussed 
+to make a final decision on their input.
+Thanks
+MFG  
+Enron International
+Antonio Felix,
+As Enron is finding several opportunities involving financial derivatives in 
+Brazil, we would like to get from Tozzini Freire Law Firm a summarized but 
+concise read on the "cans and cannots" of these type of transactions in 
+Brazil. Here is my understanding of the regulations from the memo you have 
+already sent to us regarding swaps and prepays as well as a list of the most 
+common examples of deals that Enron would be encountering in the marketplace. 
+I would appreciate if you could comment on what is written here and also add 
+further information so Enron can have some sort of menu of deals of this 
+nature that can be pursued. I would like to ask you to add your comment in 
+this same message to make the review process a little easier. Thank you 
+inadvance for your attention.
+Swaps (Pulp & Paper, Petrochem, Power)
+OTC Swaps
+The Central Bank regulates swap transactions involving local financial 
+institutions acting either as dealers for their own account or as 
+intermediaries to the contracting parties. When the financial institutions 
+act as intermediaries, the agreements are in fact private agreements 
+negotiated by two non-financial companies, but become subject to the 
+requirements and regulations normally applicable to swaps involving financial 
+institutions. According to regulations currently in force, such swaps can 
+relate to exchange rates, interest rates, gold and price indices.
+All of the swap agreements involving financial institutions must be 
+registered with CETIP or with another custody and clearing system authorized 
+by the Central Bank or the CVM (Brazilian SEC). As a matter of practice, the 
+agreements used by the banks that participate in the swap market do not 
+follow a standard form, since normally each bank has a particular sample form 
+with which it feels more comfortable.
+Derivatives
+In addition to exchange-traded derivatives and OTC swaps involving financial 
+institutions, there is no legal impediment, in principle, to derivatives 
+transactions being privately negotiated and entered into between two 
+interested parties. As a general rule in Brazil, as long as no specific 
+prohibition is found in the law, parties are free to negotiate agreements 
+that best suit their interests.
+International Hedge 
+Central Bank regulations authorize that Brazilian companies enter into 
+transactions abroad, either in exchanges or having a financial institution as 
+their counterpart, to hedge against the fluctuation of interest rates, 
+exchange rates or commodity prices in the international markets. 
+Such hedge transactions must refer to payments in foreign currency scheduled 
+to be made by or to the Brazilian company in respect of commercial or 
+financial rights or obligations, or to payments in local currency arising out 
+of certain financial obligations subject to the variation of exchange rates 
+and payments relating to imports, exports or local transactions involving 
+commodities priced according to their valuation in foreign exchanges. The 
+commercial market exchange rates are applicable to foreign exchange 
+agreements referring to remittances of currency in connection with hedge 
+transactions.
+When the underlying obligation/right is registered with the Central Bank, the 
+corresponding hedge transaction must be informed to the Central Bank within 
+10 days of its execution. When there is no registration with the Central 
+Bank, the banks executing the foreign exchange agreements relating to the 
+hedge transaction must verify the existence of the obligation/right being 
+hedged.
+Examples
+Commodity swap between two Brazilian companies:
+As per what has been said above, there is nothing that precludes Enron Brazil 
+of entering into a swap with another Brazilian company regarding any 
+commodity traded by Enron (Pulp, Paper, Petrochem products, Power, Gas Enron does not need to be a financial institutions to provide swaps 
+transactions. On the other hand, I am not sure yet on the following points: 
+(1) Does such swap agreement should be registered with CETIP or any other 
+clearing system to be valid under Brazilian regulations? (2) What are the 
+taxes involved in a swap?
+Commodity swap between a Brazilian company and an offshore company:
+This kind of deal seems to be also available in the Brazilian market and the 
+only difference from example 1 would be the fact that it must be registered 
+with the Central Bank and it would involved transfer of foreign currency.
+Commodity swap between two offshore companies but involving Brazilian exports:
+I am not sure if Brazilian regulations would have anything to do with a 
+transaction like this one. I would assume that a Brazilian exporter would 
+sell to their offshore subsidiary and such subsidiary would sell to their end 
+customer. Enron would step in and offer a swap agreement for the offshore 
+subsidiary of the Brazilian company therefore Enron would not have any 
+involvement with Brazilian regulations because it would not be dealing with 
+Brazil. 
+Prepays (Pulp & Paper, Petrochem, Power)
+The regulations currently in force governing export prepayments, especially 
+Central Bank of Brazil's Carta-Circular 2624, of February 14, 1996, establish 
+that all repayments of principal under such transactions must necessarily be 
+made by means of shipments of the relevant exported goods.  Carta-Circular 
+2624 allows cash remittances abroad only in regard to payments of interest 
+under the facility.  Therefore, it is not possible to structure a transaction 
+where the repayment of principal will be made only in cash or where the 
+borrower has the ability to choose between paying cash or exporting the goods.
+A transaction that involves structuring a direct loan to the Brazilian 
+company where the value of the principal of which would be tied to the price 
+of the relevant commodity is very difficult to be approved.  Under a direct 
+loan registered with the Central Bank the borrower may remit all due amounts 
+of principal and interest in accordance with the schedule of payments 
+attached to the certificate of registration. The problem with such 
+alternative is that, although there are no express regulations preventing it 
+to do so, the Central Bank will most probably not issue a prior authorization 
+for such type of loan, as it only normally issues authorizations for normal 
+loans where the principal is a fixed amount and the interest rate is either a 
+fixed rate or a floating rate (normally based on LIBOR or US Treasury).  It 
+should also be noted that generally speaking all interest payments under such 
+an agreement are subject to withholding tax at the rate of 15% p.a.
+CC 5 Account
+A possible alternative way to structure a prepay would be by using a 
+non-registered loan with the Central Bank.  Under such alternative, the funds 
+disbursed by Enron under the loan would be remitted to Brazil through an 
+international transfer of Brazilian currency, as allowed by Circular 2677 of 
+the Central Bank of Brazil. The international transfer of Brazilian currency 
+("International Transfer") is a system which uses a non-resident current 
+account in Brazil and the Brazilian interbank foreign exchange market to 
+effect remittances of funds to and from Brazil.  Under such system, a lender 
+that wishes to disburse funds to a Brazilian borrower makes a foreign 
+currency deposit with a bank located outside of Brazil ("offshore bank")  and 
+instructs the offshore bank to deliver such dollars to a Brazilian bank in 
+exchange for Brazilian currency.  Such Brazilian currency is then deposited 
+in a non-resident account held by the offshore bank in Brazil and thereafter 
+transferred to the borrower. The repayments follow the inverse procedure, 
+i.e. the borrower deposits the amount in a non-resident account of an 
+offshore bank and instructs it to exchange the funds into foreign currency 
+and deliver them to the lender abroad.
+The main differences between the registered loans and the non-registered 
+loans are that the non-registered loans are not subject to prior approval by 
+the Central Bank of Brazil (and therefore not subject to scrutiny as to their 
+minimum tenors and applicable interest rates) and the applicable foreign 
+exchange rate to non-registered loans is the floating rate (as opposed to the 
+commercial rate of exchange). All transfers of funds to Brazil as 
+International Transfers are subject to a Financial Transactions Tax ("IOF at the rate of 2% on the amount transferred, plus a bank fee that normally 
+ranges from 0.4% to 0.6% of such amount.  Any interest payments under a 
+non-registered loan are subject to withholding tax at the rate of 15% (or 25% 
+if the lender is located in a tax-haven jurisdiction).
+I don't think this type of transaction is the best way to circumvent some of 
+the Brazilian regulations regarding prepayment given the bad press that deals 
+via the CC 5 Account mechanism would bring to Enron but I have it addressed 
+just in case someone does not share the same opinion. 
+Examples
+Financial prepay between two Brazilian companies
+Not allowed unless the company providing the prepay qualifies as a financial 
+institution as per Brazilian law. Since it will not be the case in Enron's 
+cases, we should not focus in these kind of transactions.
+Financial prepay between a Brazilian company and an offshore company
+As it has been mentioned before it is allowed as long as Enron can structure 
+the prepay in way where there is a pre-established amortization schedule for 
+principal and interest. It is very hard to structure a prepay with specific 
+split between principal and interest because the objective of the prepay is 
+to lock on a certain volume of a product and not on a specific price. 
+Therefore, if Enron prepays for a specific product on a floating basis the 
+attached value of that commodity can go up or down as the market fluctuates 
+as well as the total value associate to the deal. Such value can be either 
+principal or interest and it is impossible to determine what it will be.
+Financial prepay between two offshore companies but one being a subsidiary of 
+a Brazilian entity
+I think there is no restrictions in this case given the whole deal will be 
+closed offshore and the Brazilian authorities are not going to be involved. 
+It will most likely be a deal involving three parties: a company in Brazil, 
+its offshore subsidiary and Enron.
+Physical prepay between two Brazilian companies
+No restrictions.
+Physical prepay between a Brazilian company and an offshore company
+No restrictions as long as there is physical deliveries.
+Physical prepay between two offshore companies but  involving Brazilian 
+exports
+No restrictions. It would also involve three parties: a company in Brazil, 
+its offshore subsidiary and Enron.
+Thanks,
+Gustavo
+Please send credit worksheet to Susan Bailey.  SS
+Sara:
+I just spoke with Rolo and he advised the ownership structure of 
+Transportadora de Gas del Sur S.A. (TGS):
+70% of TGS is owned by Compania de Inversiones de Energia S.A. (CIESA)
+CIESA is owned 50% by Enron and 50% by Perez Companc.
+In the corporate workbook the ownership structure of CIESA is outlined 
+The ownership structure of CIESA is somewhat complex and it appears that 
+Enron Pipeline Company-Argentina S.A. is the legal entity that owns the 
+shares in CIESA 
+I am assuming the best way to structure the event of default is to say if 
+Enron Corp. through its wholly-owned subsidiaries no longer owns 50% of CIESA 
+and/or if CIESA no longer owns 70% of TGS then, a Change in Ownership Event 
+of Default will have occurred.
+Please let me know what you think of this.
+,
+Pat
+Pat,
+Yetserday we had a meeting with TGS. We agreed to put an MSA in place to 
+start hedging LPG. They are very interested in doing business with us, so I 
+suggest we go ahead preparing the MSA.
+Do you need TGS financial's or you already have them? Do you need anything 
+else?
+,
+Rolo
+Help me understand HOW MANY Tozzini memoranda exist which address financial 
+swaps and derivatives.  I e-mailed Michael about this attachment and I think 
+his response was that Antonio Felix ADDED comments to the attachment.  I am 
+not clear.  I am aware of only TWO Tozzini memos :  dated 12/26/97 (physical 
+trading of energy) and 2/20/98 (local derivatives market).  Let's all start 
+from the same point.  Thanks.  Sara
+Michael Guerriero@_DEVELOPMENT
+08/20/99 07:45 AM
+Don Black has suggested we get you in the loop on the below issues we are 
+seeking answers on. We have some pending financial transactions that we would 
+like to work through all the Brazilian mechanics before proceeding. Your 
+primary contact down here for this issue will be Maria Ines Granado. Please 
+provide us with your comments as soon as possible so that we do not encounter 
+a transactional conflict. 
+Gustavo thank you for all your work to date we will keep you briefed to make 
+sure we have your input. Please follow up on the Tozzini issue we discussed 
+to make a final decision on their input.
+Thanks
+MFG  
+Enron International
+Antonio Felix,
+As Enron is finding several opportunities involving financial derivatives in 
+Brazil, we would like to get from Tozzini Freire Law Firm a summarized but 
+concise read on the "cans and cannots" of these type of transactions in 
+Brazil. Here is my understanding of the regulations from the memo you have 
+already sent to us regarding swaps and prepays as well as a list of the most 
+common examples of deals that Enron would be encountering in the marketplace. 
+I would appreciate if you could comment on what is written here and also add 
+further information so Enron can have some sort of menu of deals of this 
+nature that can be pursued. I would like to ask you to add your comment in 
+this same message to make the review process a little easier. Thank you 
+inadvance for your attention.
+Swaps (Pulp & Paper, Petrochem, Power)
+OTC Swaps
+The Central Bank regulates swap transactions involving local financial 
+institutions acting either as dealers for their own account or as 
+intermediaries to the contracting parties. When the financial institutions 
+act as intermediaries, the agreements are in fact private agreements 
+negotiated by two non-financial companies, but become subject to the 
+requirements and regulations normally applicable to swaps involving financial 
+institutions. According to regulations currently in force, such swaps can 
+relate to exchange rates, interest rates, gold and price indices.
+All of the swap agreements involving financial institutions must be 
+registered with CETIP or with another custody and clearing system authorized 
+by the Central Bank or the CVM (Brazilian SEC). As a matter of practice, the 
+agreements used by the banks that participate in the swap market do not 
+follow a standard form, since normally each bank has a particular sample form 
+with which it feels more comfortable.
+Derivatives
+In addition to exchange-traded derivatives and OTC swaps involving financial 
+institutions, there is no legal impediment, in principle, to derivatives 
+transactions being privately negotiated and entered into between two 
+interested parties. As a general rule in Brazil, as long as no specific 
+prohibition is found in the law, parties are free to negotiate agreements 
+that best suit their interests.
+International Hedge 
+Central Bank regulations authorize that Brazilian companies enter into 
+transactions abroad, either in exchanges or having a financial institution as 
+their counterpart, to hedge against the fluctuation of interest rates, 
+exchange rates or commodity prices in the international markets. 
+Such hedge transactions must refer to payments in foreign currency scheduled 
+to be made by or to the Brazilian company in respect of commercial or 
+financial rights or obligations, or to payments in local currency arising out 
+of certain financial obligations subject to the variation of exchange rates 
+and payments relating to imports, exports or local transactions involving 
+commodities priced according to their valuation in foreign exchanges. The 
+commercial market exchange rates are applicable to foreign exchange 
+agreements referring to remittances of currency in connection with hedge 
+transactions.
+When the underlying obligation/right is registered with the Central Bank, the 
+corresponding hedge transaction must be informed to the Central Bank within 
+10 days of its execution. When there is no registration with the Central 
+Bank, the banks executing the foreign exchange agreements relating to the 
+hedge transaction must verify the existence of the obligation/right being 
+hedged.
+Examples
+Commodity swap between two Brazilian companies:
+As per what has been said above, there is nothing that precludes Enron Brazil 
+of entering into a swap with another Brazilian company regarding any 
+commodity traded by Enron (Pulp, Paper, Petrochem products, Power, Gas Enron does not need to be a financial institutions to provide swaps 
+transactions. On the other hand, I am not sure yet on the following points: 
+(1) Does such swap agreement should be registered with CETIP or any other 
+clearing system to be valid under Brazilian regulations? (2) What are the 
+taxes involved in a swap?
+Commodity swap between a Brazilian company and an offshore company:
+This kind of deal seems to be also available in the Brazilian market and the 
+only difference from example 1 would be the fact that it must be registered 
+with the Central Bank and it would involved transfer of foreign currency.
+Commodity swap between two offshore companies but involving Brazilian exports:
+I am not sure if Brazilian regulations would have anything to do with a 
+transaction like this one. I would assume that a Brazilian exporter would 
+sell to their offshore subsidiary and such subsidiary would sell to their end 
+customer. Enron would step in and offer a swap agreement for the offshore 
+subsidiary of the Brazilian company therefore Enron would not have any 
+involvement with Brazilian regulations because it would not be dealing with 
+Brazil. 
+Prepays (Pulp & Paper, Petrochem, Power)
+The regulations currently in force governing export prepayments, especially 
+Central Bank of Brazil's Carta-Circular 2624, of February 14, 1996, establish 
+that all repayments of principal under such transactions must necessarily be 
+made by means of shipments of the relevant exported goods.  Carta-Circular 
+2624 allows cash remittances abroad only in regard to payments of interest 
+under the facility.  Therefore, it is not possible to structure a transaction 
+where the repayment of principal will be made only in cash or where the 
+borrower has the ability to choose between paying cash or exporting the goods.
+A transaction that involves structuring a direct loan to the Brazilian 
+company where the value of the principal of which would be tied to the price 
+of the relevant commodity is very difficult to be approved.  Under a direct 
+loan registered with the Central Bank the borrower may remit all due amounts 
+of principal and interest in accordance with the schedule of payments 
+attached to the certificate of registration. The problem with such 
+alternative is that, although there are no express regulations preventing it 
+to do so, the Central Bank will most probably not issue a prior authorization 
+for such type of loan, as it only normally issues authorizations for normal 
+loans where the principal is a fixed amount and the interest rate is either a 
+fixed rate or a floating rate (normally based on LIBOR or US Treasury).  It 
+should also be noted that generally speaking all interest payments under such 
+an agreement are subject to withholding tax at the rate of 15% p.a.
+CC 5 Account
+A possible alternative way to structure a prepay would be by using a 
+non-registered loan with the Central Bank.  Under such alternative, the funds 
+disbursed by Enron under the loan would be remitted to Brazil through an 
+international transfer of Brazilian currency, as allowed by Circular 2677 of 
+the Central Bank of Brazil. The international transfer of Brazilian currency 
+("International Transfer") is a system which uses a non-resident current 
+account in Brazil and the Brazilian interbank foreign exchange market to 
+effect remittances of funds to and from Brazil.  Under such system, a lender 
+that wishes to disburse funds to a Brazilian borrower makes a foreign 
+currency deposit with a bank located outside of Brazil ("offshore bank")  and 
+instructs the offshore bank to deliver such dollars to a Brazilian bank in 
+exchange for Brazilian currency.  Such Brazilian currency is then deposited 
+in a non-resident account held by the offshore bank in Brazil and thereafter 
+transferred to the borrower. The repayments follow the inverse procedure, 
+i.e. the borrower deposits the amount in a non-resident account of an 
+offshore bank and instructs it to exchange the funds into foreign currency 
+and deliver them to the lender abroad.
+The main differences between the registered loans and the non-registered 
+loans are that the non-registered loans are not subject to prior approval by 
+the Central Bank of Brazil (and therefore not subject to scrutiny as to their 
+minimum tenors and applicable interest rates) and the applicable foreign 
+exchange rate to non-registered loans is the floating rate (as opposed to the 
+commercial rate of exchange). All transfers of funds to Brazil as 
+International Transfers are subject to a Financial Transactions Tax ("IOF at the rate of 2% on the amount transferred, plus a bank fee that normally 
+ranges from 0.4% to 0.6% of such amount.  Any interest payments under a 
+non-registered loan are subject to withholding tax at the rate of 15% (or 25% 
+if the lender is located in a tax-haven jurisdiction).
+I don't think this type of transaction is the best way to circumvent some of 
+the Brazilian regulations regarding prepayment given the bad press that deals 
+via the CC 5 Account mechanism would bring to Enron but I have it addressed 
+just in case someone does not share the same opinion. 
+Examples
+Financial prepay between two Brazilian companies
+Not allowed unless the company providing the prepay qualifies as a financial 
+institution as per Brazilian law. Since it will not be the case in Enron's 
+cases, we should not focus in these kind of transactions.
+Financial prepay between a Brazilian company and an offshore company
+As it has been mentioned before it is allowed as long as Enron can structure 
+the prepay in way where there is a pre-established amortization schedule for 
+principal and interest. It is very hard to structure a prepay with specific 
+split between principal and interest because the objective of the prepay is 
+to lock on a certain volume of a product and not on a specific price. 
+Therefore, if Enron prepays for a specific product on a floating basis the 
+attached value of that commodity can go up or down as the market fluctuates 
+as well as the total value associate to the deal. Such value can be either 
+principal or interest and it is impossible to determine what it will be.
+Financial prepay between two offshore companies but one being a subsidiary of 
+a Brazilian entity
+I think there is no restrictions in this case given the whole deal will be 
+closed offshore and the Brazilian authorities are not going to be involved. 
+It will most likely be a deal involving three parties: a company in Brazil, 
+its offshore subsidiary and Enron.
+Physical prepay between two Brazilian companies
+No restrictions.
+Physical prepay between a Brazilian company and an offshore company
+No restrictions as long as there is physical deliveries.
+Physical prepay between two offshore companies but  involving Brazilian 
+exports
+No restrictions. It would also involve three parties: a company in Brazil, 
+its offshore subsidiary and Enron.
+Thanks,
+Gustavo
+I'll be here.  Sara
+I don't even know what they're doing to this area!  Maybe this is for new 
+offices.  SS
+Robin M Jordan
+08/25/99 09:57 AM
+During   the  construction of the clerical area the clerks will do their 
+best to continue to function in a normal manner.  The fax machines will be 
+located in EB3837A  (cubicle area in front of Suzanne Adams).    There should 
+be no interruptions in the fax lines per the Telephony Services.  Office 
+supplies will also be boxed and stored in various areas throughout the 
+floor.  There will be 2  phones  and computers available to the clerks Reginald will be located at EB3808B x39288 and Tim and Kenneth will be 
+located at EB3808B x31459.
+This may  cause time delays on various functions of the clerks:
+Faxes being sent, received, copied and delivered in a timely manner;
+ASAP deliveries/pickups/courier outgoing/incoming/scheduled and unscheduled 
+daily runs to Allen Center;
+Telephone accessibility will be limited;
+Space preparation for large ASAP copy jobs;
+Availability of clerks when needed;
+Accessibility/ordering of office supplies; 
+Mail being sorted and distributed in a timely manner.
+This will begin today Wednesday,  August 24th, and probably will not be 
+finished until Wednesday,  September 1st.   We apologize for  any  
+inconvenience this may cause. 
+Attached is the first report identifying financial master trading agreements 
+generated by ECT's derivatives legal group.  This report will be updated and 
+distributed weekly.  It only reflects documentation originated by Houston's 
+legal department and the status of negotiations.  If you have any questions, 
+please call me at 713/853-5620 or e-mail.  Thanks.  Sara
+Under separate cover, I am faxing to you a copy of a "Table of Contents" for 
+a collection of memoranda on various Brazilian issues (physical trading, 
+derivatives, tax, etc. which I have copies of.  I have also received from you 
+this morning the response of Antonio Felix et al to the inquiry of Gustavo 
+Junqueira.  It will become increasingly difficult to monitor our progress 
+with the Tozzini firm if the business people have direct contact with Tozzini 
+and bypass the Enron lawyers.  We will not be able to compile a comprehensive 
+review and the requests will become disorganized.  Requests for legal 
+research by Tozzini should originate with the Enron lawyers and be addressed 
+to the Enron lawyers.  We can then discuss conclusions with our business 
+people (and even meet together with Tozzini).  I hope that you concur with 
+this procedure.  If you do, I think that it would be more appropriate for you 
+to contact the Tozzini firm to convey the message (and also to our business 
+people).
+Please call me when you are back in the Sao Paulo office if you have any 
+questions.
+P.S.  I will prepare for you the "mini-book" containing the memoranda 
+referenced above.
+I would only solicit their comments on other "projects".  SS
+Carol St Clair
+08/25/99 06:11 PM
+Sara and Shari:
+In preparation for our group meeting with the legal assistants next week, I 
+was going to ask them to prepare a list of their current responsibilities as 
+well as things that they would like to work on.  Enclosed is my list of 
+"Special Projects".  Let me know if you have any additions or deletions.  I 
+will wait to hear from you before sending this out and will wait for Mark's 
+memo to them about these meetiongs before I send it out.  I did leave Susan 
+Flynn a voice mail message about this since she will be out next week Thanks.
+carol
+We can add TGS to this list and remind me on Monday to review.  Thanks.  Sara
+Sara Shackleton
+08/25/99 10:48 AM
+Attached is the first report identifying financial master trading agreements 
+generated by ECT's derivatives legal group.  This report will be updated and 
+distributed weekly.  It only reflects documentation originated by Houston's 
+legal department and the status of negotiations.  If you have any questions, 
+please call me at 713/853-5620 or e-mail.  Thanks.  Sara
+Great  - Thanks for the update.
+Sara Shackleton
+05/13/99 02:06 PM
+Just got off the phone with the lawyer.  We have only minor comments and he 
+needs to check with his credit people regarding the collateral threshold.  I 
+will wait to hear back before sending out a revision.  Sara
+Please call me at the office (713/853-5620) if you are still around Otherwise, let's plan to speak with Richard Sanders(litigation)  first thing 
+on Friday morning.  I have spoken with Julian.  Sara  
+I have spoke to Jeff Harbert about the use of "Fallback Reference Price" in 
+the confirms and the need for an additional provision addressing 
+"Postponement" (which will override our defintion of Postponement in the 
+Master Agreement).  Please take note of this in preparing new confirms.  I 
+have appropriate language.  Please call if you have any questions.  Sara
+We will e-mail or fax directly to you and then you can fax to TGS.  Susan 
+Bailey will send.  Sara
+Sara,
+Are you going to send this directly to the customer or you will fax it to me 
+and then I will have to send it to the customer?
+Thanks,
+Rolo
+Rolo-
+The Master has been completed and given to Sara Shackleton to reivew.  As 
+soon as she has done this, it will be sent to the counterparty.
+,
+Pat
+Per our  conversation of date, attached is ECT's most recent version of the 
+ISDA Schedule and Credit Support Annex designed for use with Argentine 
+counterparties.  As we discussed, I would like for you to review this format 
+and determine whether changes are required as a result of legal developments 
+in Argentina.  Please call me when you have had an opportunity to review the 
+document.  We have had sent out several recent drafts using the attached 
+format.  Also, any written materials which might prove useful are always 
+greatly appreciated.  Thanks.  Sara
+P.S.  I will try to schedule some time when I am in the B.A. office.
+Do you have her e-mail address?  I spoke with her earlier and wrote down pla@marvel.com.ar ".  That address doesn't work.  Thanks.  SS
+Via fax, I am sending to you the new and old Annex A forms and a variety of 
+new and old option (cap,floor, call,put,collar) formats.  Per our earlier 
+conversation, I would truly appreciate your input.  The fax is about 40 
+pages.  Sara
+Had a typo in your e-mail address!
+Sara Shackleton
+08/30/99 01:08 PM
+Per our  conversation of date, attached is ECT's most recent version of the 
+ISDA Schedule and Credit Support Annex designed for use with Argentine 
+counterparties.  As we discussed, I would like for you to review this format 
+and determine whether changes are required as a result of legal developments 
+in Argentina.  Please call me when you have had an opportunity to review the 
+document.  We have had sent out several recent drafts using the attached 
+format.  Also, any written materials which might prove useful are always 
+greatly appreciated.  Thanks.  Sara
+P.S.  I will try to schedule some time when I am in the B.A. office.
+I just spoke with Miriam Radich (Tiger's lawyer) and advised her of ECT's 
+name change effective 9/1/99.  She advised that she will revise our docs 
+TOMORROW.  Also, we will send a new blackline guaranty to Tiger (terms 
+previously agreed) to reflect name change.
+Per:  It may take several days to have the guaranties executed by Corp.  You 
+need to give Marie advance notice on that front.  SS
+FYI
+Margaret Santos
+31/08/99 03:23 PM
+DEAR COLLEAGUES,
+SOME CHANGES WERE MADE AT OUR S?O PAULO PHONE LIST.
+IF YOU HAVE A PRINTED LIST (DATE 07/13/99), PLEASE, PRINT THE UPDATED ONE.
+I'M ATTACHING TWO FILES: PHONE LIST and ASSISTANTS (with the names of the 
+bosses and their respective assistants)
+NEXT UPDATED LIST ON   SEP.30.1999
+THANK YOU ALL 
+(See attached file: PHONE_LIST.xls)                           (See attached
+file: ASSISTANTS.xls)
+MARGARET SANTOS
+Receptionist - S?o Paulo
+- PHONE_LIST.xls - ASSISTANTS.xls
+Per my fax (37 pages) of 8/29/99, attached are copies of (1) the existing and 
+proposed Annex A (general terms for the omnibus) and (2) proposed option 
+formats for ISDA and omnibus.  My purpose was to "ISDAize" the omnibus 
+particularly in the cap/floor/collar world.  Please note the Par.2 Payment 
+section and revised definitions.  You do not have "old" confirm templates 
+because I cannot acces on my computer (but all was included in the fax). Did 
+you receive the fax?   SS
+Per my voice mail.  Please call ASAP.  Thanks.  SS
+Mark Evans
+05/06/99 09:17 PM
+Sara,
+I hope you have now received instructions from your commercial swaps team to 
+put together an ISDA  currency swap and confirm which ECT Corp will be 
+providing to either Enron Europe Power 3 Limited or a subsidiary of that 
+company. The subsidiary will be receiving dollars under a bond issue and 
+paying pounds out (a spot transaction I believe) but will then receive pounds 
+income which it will need to convert to dollars to pay interest on the bonds.
+The precedent document is the Sutton Bridge currency swap.
+Can you please confirm you have been instructed and let us know your timing 
+for issuing a document.  The sooner we can see this next week the better.
+The bond trustee will as usual require the swap to be backed with legal 
+opinions from Enron in-house counsel (Mark Haedicke) re due execution and 
+from V&E (Terry Yates) re enforceability. My understanding is that the swap 
+will not be guaranteed by Corp (correct Julian 
+Linklaters are representing Enron - Julian Davies and Fran Xavier (tel: 171 
+456 2000). Could you please send them your fax, telephone and email details. 
+Linklaters have kindly agreed to prepare a first draft of the Mark Haedicke 
+opinion and to send it out to you Sara.
+Thank  you. I look forward to hearing from you.
+Mark
+Hey, Carson!  Sorry to hear about you and Melissa but I know that life can 
+always get better (if you let it I've finally finished my two-year project of replacing most of my landscaping 
+with "native plants."  Of course, I'm rarely home to enjoy them but 
+everything looks great on the weekends.
+I'm dying under a load of work here but I know better than to complain too 
+much.
+GO ROCKETS!
+I understand that you spoke with Mark Taylor about eliminating references to 
+individuals in confirms.  I need to speak with you about the ISDA, omnibus 
+and industrial master templates under revision and whether the drafted 
+language conforms to your proposal.  In that regard, you may recall that swap 
+templates were given to you several months ago.  The legal group is 
+concluding a massive form review which necessitates confirm changes Thanks.  Sara
+In Part C. Financial Swaps of your report, please clarify two "preparing 
+Master Swap" entries:
+(1) is "Edes" meant to be "Eden", each LDC activity?
+(2)  What is "CGC"?
+The "under discussion" entries are unknown to us:
+(1)  Piedra del Aguila
+(2)  PDA
+(3)  Wintershall
+(4)  Quintana
+(5)  Minera Alumbrera
+(6)  PAE
+Thanks.  Sara
+Marie will verify this information first thing in the a.m.:
+The Duke master is dated August 16, 1999.  It was sent for execution (to 
+Carol Graebner in Houston) on August 18, 1999.  I cannot verify whether 
+execution copies have been received by ECT.  Sara
+Thanks.  When you have Annex A ready, we'll have to tweak Annex B.  For 
+example, I think we eliminated the term "Derivative Transactions" in Annex A 
+(but it shows up in the Catalytica Annex B).  Bart Clark is the lawyer who is 
+asking to receive the two annexes.
+Attached is the Annex B for Catalytica.
+Although I am still waiting for another Brazilian visa, I would like to pose 
+September 9,10, 12-17,19-24
+Obviously, I can be available at any time during the month of Septermber as 
+well as future months.  But I would like to get started as soon as possible.
+If you could kindly e-mail or call me (713/853-5620), I can elaborate 
+further.  Thank you.  Sara
+FYI
+Sara Shackleton
+09/01/99 05:41 PM
+Although I am still waiting for another Brazilian visa, I would like to pose 
+September 9,10, 12-17,19-24
+Obviously, I can be available at any time during the month of Septermber as 
+well as future months.  But I would like to get started as soon as possible.
+If you could kindly e-mail or call me (713/853-5620), I can elaborate 
+further.  Thank you.  Sara
+A copy of the 8/31/99 letter from Erik Ludtke was received at 18:10 on fax 
+no. "713 646 4818" addressed to the attention of "Assistant General 
+Counsel".  This would conform to notices in the master agreement (for 
+Sections 5 and 6), an executed copy of which we have never received or seen 
+On a different matter, do you think that we can discuss the omnibus templates 
+tomorrow?  I am pressed for a response.  SS
+Effective immediately, all questions from the confirmation desk to legal 
+should be routed to a designated paralegal on a quarterly basis (with the 
+exception of the very first rotation) as follows:
+Susan Bailey - X34737  September 1, 1999 - December 31, 1999
+Susan Flynn  -  X30975                    January 1, 2000       - March 31, 
+2000
+Marie Heard -  X33907                     April 1, 2000             - June 
+30, 2000
+You will be advised of subsequent rotations.  Please do NOT route calls to 
+Tana Jones who will be spending most of her time working on special projects 
+for our group.
+This procedure should not affect any existing arrangements you may have with 
+a particular attorney.
+Please contact me if you have any questions.  Sara 
+I have advised the confirmation desk of the following rotations:
+Susan Bailey - September 1 - December 31, 1999
+Susan Flynn - January 1 - March 31, 2000
+Marie Heard - April 1 - June 30, 2000
+We can continue the rotation on a quarterly basis.
+Let me know if you have any questions.  Thanks.  Sara
+My apologies for leaving your names out!  Sara
+Sara Shackleton
+09/01/99 06:58 PM
+Effective immediately, all questions from the confirmation desk to legal 
+should be routed to a designated paralegal on a quarterly basis (with the 
+exception of the very first rotation) as follows:
+Susan Bailey - X34737  September 1, 1999 - December 31, 1999
+Susan Flynn  -  X30975                    January 1, 2000       - March 31, 
+2000
+Marie Heard -  X33907                     April 1, 2000             - June 
+30, 2000
+You will be advised of subsequent rotations.  Please do NOT route calls to 
+Tana Jones who will be spending most of her time working on special projects 
+for our group.
+This procedure should not affect any existing arrangements you may have with 
+a particular attorney.
+Please contact me if you have any questions.  Sara 
+I will contact you early tomorrow to deliver docs and establish a timeline 
+(if possible).  Thanks.  Sara
+This attachment ONLY changes references from "ECT" to "ENA" to match the name 
+change on the first page of the confirm.  We will revise Canadian Annex A in 
+a similar fashion.  Subsequent template changes are forthcoming.  Sara
+Attached is Annex A for the Omnibus, revised only to change "ECT" to "ENA".
+Do you have a revised "paper group" list?  Sara
+Please schedule a meeting with Tana (at her convenience) to discuss NYMEX 
+hedge exemption and related issues.  Thanks.  SS 
+Baby steps?
+If possible, can we hold this meeting until Mark gets back.  I think Mark's 
+input is the most important.
+Sara Shackleton
+09/02/99 09:39 AM
+Please schedule a meeting with Tana (at her convenience) to discuss NYMEX 
+hedge exemption and related issues.  Thanks.  SS 
+works fine for me.
+Suzanne Adams
+09/02/99 09:42 AM
+Carol St. Clair asked me to schedule a meeting regarding the review of pulp 
+and paper group's confidentiality agreements.  I have tentatively set it for 
+Friday, September 10, 1999, at 10:00 a.m. in 38C1.  Please let me at your 
+earliest convenience if this day and time works for you 
+Below is the link that I cannot reach.  Sara
+Alexandre Bueno
+02/09/99 04:48 PM
+Please take a look at the proposed language.  You will need to consider the 
+time period before which a Market Disruption Event will kick in.:
+Postponement:  For the purposes of the definition of "Price Source 
+Disruption," as set forth in Section 7.4(c)(i) of the Commodity Definitions,
+the Maximum Days of Disruption shall be [thirty-two/sixty-four] days after 
+the last date of publication of World Pulp Monthly,
+or any successor publication, published by Resource Information Systems, 
+Inc. or its successor for the applicable 
+Calculation Period.
+The meeting is on our calendars for 9:30 am 9/3/99.  Let's talk about the 
+NYMEX hedge exemption/position limits process and the reasons why you need 
+attorney backup when Mark is unavailable.  Also, highlighting specific NYMEX 
+rules and regulations/Enron trading policy issues for me would be helpful.  I 
+am only looking for broad oversight.  We can meet with Mark when he returns 
+(and have Taffy put us on Mark's calendar). Thanks.  Sara
+If possible, can we hold this meeting until Mark gets back.  I think Mark's 
+input is the most important.
+Sara Shackleton
+09/02/99 09:39 AM
+Please schedule a meeting with Tana (at her convenience) to discuss NYMEX 
+hedge exemption and related issues.  Thanks.  SS 
+Need to know value of dispute 
+I need to review the outstanding omnibus confirm for this paper/pulp 
+counterparty.  I believe there is only one live trade.  Thanks.  SS
+Under "Legal Issues ...", the fourth bullet point:  capitalize the words 
+"Exemption" and "Eligible Swap Participant".
+I'll be in the office for the next few days if something comes up.
+Sara
+I am still trying to resolve the question of who will advise you on the 
+consulting and other agreements.  In the meantime, I have attached a form 
+which you can use to create a report for your group.  This would be quite 
+helpful to the lawyers in staffing the group more efficiently.  SS
+Per our conversation, please advise of available dates.  We would like to 
+schedule as soon as possible.  Thanks.  SS
+please respond to my voice mail - ss
+Here are the next four descriptions.  Per Awais's message below, he is still 
+trying to get these by today.  I know it is a little late....let me know if 
+this will be an issue.  Please give me your comments so I can coordinate 
+responses.  Thanks!
+Awais Omar
+09/03/99 12:31 PM
+Sorry for the delay.
+Here are the next four descriptions.
+Only the three liquids one waiting now.
+I have sent these to David Forster in our Project group to review first 
+before I send them to yourself.  If I don't get them back today I will send 
+them over the weekend so they are there for you on Monday.
+Could you please send me comments back on all the other descriptions today Is your fax machine at your end OK?  It's just that the other fax you sent 
+came through a dark background making the comments a little hard to read.
+My fax is 44 171 316 5420.
+Awais
+Awais,
+I have forwarded the descriptions you have sent us thus far to the respective 
+Legal Trading Lawyers to sign off as far any legal issues we may have with 
+the descriptions.  I understand your deadline is the end of the week.
+When can I expect the remaining descriptions?
+Please review the attached "paper & pulp" doc for accuracy.  I've already 
+marked the doc for accuracy (as far as I can tell) but I don't know if the 
+general statements are accurate.  Please coordinate through Tana Jones.  I do 
+not know who wrote the document, but I presume it was someone in London.  Sara
+Mark Taylor has asked me to forward the attached email to each of you.  Per 
+Mark's direction and the email, we need to sign off, from a Legal (not 
+business) perspective only, on the attached descriptions of the 12 product 
+areas to be traded online.  So far we have only received 5 of the referenced 
+12 descriptions.  I will forward the additional descriptions to the relevant 
+Legal group when I receive them.  Per the attached email, Awais needs our 
+Legal sign off by Friday.
+I understand Alan may be out for the rest of the week so the attached 
+descriptions on Coal, SO2 and NOX will need to be approved by someone else in 
+his group.  I'm not sure who that would be.  Could you let me know?  Mark 
+asked if Shari and Sara could sign off on the weather and pulp & paper 
+description for our group.
+Thanks for your help!
+Awais Omar
+09/01/99 02:30 AM
+Tana,
+I am afraid there is more than one description.  Some are quite lengthy,  US 
+West Power (11 Pages) and US Natural Gas (5 pages).  There is a quite urgent 
+deadline to get these uploaded into the web pages and then integrated into 
+the site by the end of this week.  So any comments you can provide ASAP would 
+be much appreciated.
+If you have any questions please do not hesitate to phone, or email me.  Tel 
+no: 44 171 970 7377.
+Thanks
+Awais
+Awais Omar
+31/08/99 20:21
+Steven & Carol,
+I am working for Louise Kitchen on the EnronOnline project.  As part of the 
+site we are incorporating market descriptions of all the main market that we 
+will be trading on the system to give users some general information.
+I have collected and rewritten these into a standard format and am currently 
+in the process of obtaining Legal and regulatory approval of these 
+descriptions that will be visible to anyone on the web.
+In Total there are 12 descriptions covering North Amercia.  These are listed 
+below.
+Canada Gas
+LPG
+NOx Emissions
+Oil & Oil products
+Plastics and Petrochemicals
+Pulp & Paper
+SO2 Emissions
+US Coal
+US Natural Gas
+US East Power
+US West Power
+Weather Derivatives
+I have below the completed descriptions to date.  Please could you pass to 
+the respective people in your groups for their review and comments.  I would 
+appreciate it if you could provide your comments as soonas possible as these 
+have to be approved and loaded into the web site this week 
+Below are 5 of the descriptions.  I shall send the remainder to yourselves 
+tomorrow.
+If you have any questions my telephone number in London is  44 171 970 7377.
+Thanks
+Awais
+I am planning to travel to Argentina and Brazil in the next 10 days.  Will 
+you be able to provide me with your written comments on the draft ISDA 
+Schedule by September 10?  Also, will you be in the BA office during the 
+period from September 13 through 25?  I will schedule a meeting with you as I 
+finalize plans 
+Enron's office will be closed on Monday, September 6.  I look forward to 
+hearing from you after that date.   .  Sara 
+Thank you for your earlier response.  Enron's offices will be closed on 
+Monday, September 6 and I understand that your office will be closed on 
+Tuesday, September 7.  Will you be available for a conference call on 
+Wednesday, September 8?  I would like to discuss generally the financial 
+trading issues which I will need to address.  I look forward to hearing from 
+you.   .  Sara
+Look's like Argentina is shaping up!  Sara
+Sara:
+You will have our comments on the ISDA before Sept 10.  In fact not much has
+changed  at the documentation level.
+I would be most pleased to meet with you.  Should you have time let's also
+squeeze a lunch or a diner in your busy agenda.
+Patricia
+This message is confidential. It may also contain information that is
+privileged or otherwise legally exempt from disclosure. If you have
+delete it from your system; should also not copy the message nor
+disclose its contents to anyone. Many thanks.
+This is short notice but let me know by midday if this works.  I can 
+coordinate with Susan F.   Thanks.  Sara
+Dale Neuner on 09/05/99 10:02:22 AM
+How about this Thursday.
+Will you be setting it up?
+Sara Shackleton
+09/03/99 11:10 AM
+Per our conversation, please advise of available dates.  We would like to 
+schedule as soon as possible.  Thanks.  SS
+I will coordinate with your schedules.  How about 3pm BA/SP time?  If not, 
+just propose a time and I'll be there.  SS
+The afternoon is better for me.  Sometime after 1p.m. BA and SP time.
+Andrea Bertone
+03/09/99 11:55 PM
+Sorry, guys, I had a bad week. Would you be available for a conference call 
+on Wednesday (Sept. 8) at any time after 10:00 a.m. BA and SP time (8 a.m. 
+Houston)? Monday and Tuesday are holidays here. Please let me know.
+Susan:
+(1)  Would you please verify the financial section of the attached report?
+(2)  Will you update the "Southern Cone" swap report and circulate as we have 
+agreed.
+Thanks.  If you have questions, holler.  Thanks.  SS
+FYI
+Carolina Waingortin
+03/09/99 10:42 PM
+Let me know if you have any problems with the following attachment.
+Thanks.
+C.
+(See attached file: Ba28_8.doc)
+- Ba28_8.doc
+Rod:  Will we agree to this?  Do you want to call this person? or should I SS
+Bernice Rodriguez
+05/14/99 11:00 AM
+In   to this trade, I talked with the trader, Randy Degner, about 
+their confirmation.  He is in agreement on using our omnibus confirm since 
+their confirmation was incorrect as far as referencing a Master Agreement He would like to see if someone can speak with JoAnn Goza (316) 828-7169 in 
+their Wichita office to establish a Master Agreement between KCI and ECT.
+Thanks
+BR
+Let me first see if I can muster up enough legal people.  I'll let you know 
+shortly.  SS
+Dale Neuner on 09/05/99 10:02:22 AM
+How about this Thursday.
+Will you be setting it up?
+Sara Shackleton
+09/03/99 11:10 AM
+Per our conversation, please advise of available dates.  We would like to 
+schedule as soon as possible.  Thanks.  SS
+Is someone (or all of us) going to bring Susan up to date?  I would like for 
+her to coordinate the lunch with the desk on Thursday if that date is 
+selected. SS
+(1)  I can confirm that the swap group has no financial (or physical) info on 
+Bolivia.  You may want to check with Alan on the existence of any specific 
+physical reviews on Bolivia. 
+(2)  Do you have some time to discuss the omnibus confirm process?
+(3)  Have you heard further of Duke? 
+Our internal phone and voice mail system is all screwed up.  Is 3pm Houston 
+(5pm BA) today too late for you to discuss omnibus?
+I haven't heard a word from Richard.  Scott Neal left a message about the 
+Friday letter.
+Also, Bruce Harris called this morning about the issue of Elektro trading 
+(Hickerson desk).  I am hoping that Antonio Felix can talk to me sometime on 
+Wednesday.  He's then out for the rest of the week.  Coordination is getting 
+complicated.  I'm supposed to get my visa today (so I can leave anytime Talk to you soon.  SS  
+Brent Hendry@_DEVELOPMENT
+09/07/99 12:34 PM
+Sara, I can't get through to you on the phone.  I have tried two different 
+ways.  I have not heard anything on Duke other than Richard has a draft 
+response he is working on.  Call me when you want to discuss the omnibus.
+Sara Shackleton@ECT
+07/09/99 04:10 PM
+(1)  I can confirm that the swap group has no financial (or physical) info on 
+Bolivia.  You may want to check with Alan on the existence of any specific 
+physical reviews on Bolivia. 
+(2)  Do you have some time to discuss the omnibus confirm process?
+(3)  Have you heard further of Duke? 
+Thanks for the quick response.  On short notice, Thursday 9/9 did not work I have two alternatives:  Friday, 9/10 and Wed., 9/15.  If you could advise 
+of your availability by the end of today, I can give everyone a firm date Thanks.  Sara
+No more voice mails.  Call me or let's agree to a time.  Sara
+Can't do 10 am!  Before or after works.  Let me know so I don't schedule a 
+conflict with your preferance.  SS
+Lucy Ortiz
+09/07/99 03:48 PM
+Agreed.
+Tomorrow morning?
+10:00am sound good?
+Or if you have any questions I can answer from home tonight just send me an 
+e-mail.
+I have to leave right now.
+Sara Shackleton
+09/07/99 03:46 PM
+No more voice mails.  Call me or let's agree to a time.  Sara
+Spoke with Joe Manogue this morning. He has been speaking to their external 
+council (S&S) daily trying to get a lined draft of the document with all 
+changes. He was supposed to get it last Friday, is now promised it this 
+morning. He plans to review and fax it out to you this afternoon, following 
+up with a hard copy by Fedex overnight. He's doing all he can to speed the 
+process along. I'll call you when I hear more from him. Per
+I'll originate the call.  Also, I'd like discuss immediate trading objectives 
+since I'm planning a trip down south in a few days and can be on the front 
+end.  SS 
+Brent Hendry@_DEVELOPMENT
+09/08/99 08:41 AM
+Sara, can you conference us in?  I think the phone quality may be better if 
+this originates in Houston.  Thanks.
+Andrea Bertone
+08/09/99 12:46 PM
+3:00 pm S?o Paulo/BA time is fine with me. Who calls who?
+Brent Hendry
+09/07/99 02:05 PM
+You are on my schedule for 3 p.m. if it works for Andrea.
+Sara Shackleton@ECT
+07/09/99 03:12 PM
+I will coordinate with your schedules.  How about 3pm BA/SP time?  If not, 
+just propose a time and I'll be there.  SS
+The afternoon is better for me.  Sometime after 1p.m. BA and SP time.
+Andrea Bertone
+03/09/99 11:55 PM
+Sorry, guys, I had a bad week. Would you be available for a conference call 
+on Wednesday (Sept. 8) at any time after 10:00 a.m. BA and SP time (8 a.m. 
+Houston)? Monday and Tuesday are holidays here. Please let me know.
+Call first to make sure that I am here.  Sara
+Lucy Ortiz
+09/07/99 08:41 PM
+11?
+Sara Shackleton
+09/07/99 03:50 PM
+Can't do 10 am!  Before or after works.  Let me know so I don't schedule a 
+conflict with your preferance.  SS
+Lucy Ortiz
+09/07/99 03:48 PM
+Agreed.
+Tomorrow morning?
+10:00am sound good?
+Or if you have any questions I can answer from home tonight just send me an 
+e-mail.
+I have to leave right now.
+Sara Shackleton
+09/07/99 03:46 PM
+No more voice mails.  Call me or let's agree to a time.  Sara
+London traders are transacting from London in the names of both ECT(Houston) 
+and ECTRIC(London) with DAPSA and Sempra.  The deal tickets are still being 
+sent to Houston for confirmation preparation (rather than from London where 
+the trade is actually consummated).  With respect to Sempra, we were 
+previously advised that Sempra would not transact directly with ECTRIC absent 
+a Master but this cannot be accurate because some Sempra deal tickets recite 
+ECTRIC's name 
+This message is FYI if there are no regulatory issues involved.
+Houston will certainly document back-to-back internal transactions. 
+Sara
+Carla Brooks
+09/08/99 09:12 AM
+Hello Sara, sorry for the delay response, i was on vacation. However, here is 
+the latest and greatest 
+list of Paper Group Members. Let me know if you need anything else, take 
+care. carla:)
+Edward Ondarza
+Bob Crane
+Robert Pratel
+Dick Robinson
+Kevin Reeves
+Robert E. Anderson
+Ed Quinn
+Michael Moulton
+Glen Connors
+Todd Krohn
+Robert Scheuer
+John Cummings
+Bryan Burnett
+Chris Croom
+Joe Jure
+Gregory Paul Saverence
+Scott Shields
+Jeff Harbert
+Kevin Cordesman
+Lisa Palmer
+Roy Lipsett
+Vickie Lopez
+Carolyn Schader
+Greg Bruch
+Steve Kim
+Greg Bruch
+Michael Horning
+Thomas Mark Poole
+Elliott Bonner
+Carla Brooks
+Marcie Youngerman just called with a request for a sample ISDA.  No CP name Exclusions included. Today.  Thanks.  Sara
+Mark your calendars for Wednesday, September 15.  Details to follow.
+Do you all have comments?
+I've left a voice mail for Michael Moulton to determine whether he wants to 
+wait for Dan or proceed with either Teresa or Cynthia (and I left voice mails 
+for them).  I'll let you know.  Thanks.  Sara
+enclosed is the  indication of interest letter which i mentioned in our 
+voice mails. pls. provide your comments to me. thank you and please maintain 
+the confidentiality of the matter as it is very sensative.  jim 
+Terrellyn Parker
+09/08/99 12:00 PM
+Latest revision, renamed:
+Thx, T
+This has a lot of hair on it.  I'll take it.  SS
+Tanya Rohauer
+09/08/99 10:27 AM
+Attached is the credit worksheet that we discussed yesterday for the KPM 
+deal.  Draft should go to Dick Robinson. He is quite eager to get the draft 
+in front of the customer. Let me know if you have addtional questions.
+Thanks,
+Tanya
+Janice Moore
+09/03/99 01:57 PM
+Here it is -- we printed this 2-sided and laminated it.  Becky will bring you 
+the hard copy version.  Lunch date later.
+Please call to discuss.  SS
+Just got the fax
+Joseph Manogue at Tiger called me last night to say he had finally reviewed 
+the draft ISDA doc with all agreed changes put in and lined from original. He 
+faxed it to you and will have the original Fedexed overnight. Hope you'll 
+have time to review it today.
+S&S has again asked about the gtee and l/c wording. They do not have anything 
+from us in writing confirming the agreed changes. Joe asked that you fax the 
+revised gtee wording that has been agreed (I believe it was our agreeing to 
+reduce the claim period from 15 days down to 5) and the new l/c wording 
+(drops the 2 day period to replace an l/c with a different bank if the first 
+refuses to pay). I know we talked about these issues earlier, but Tiger's 
+lawyers want to get everything agreed in writing now so final docs can be 
+issued for signing, even if we are the one's issuing the gtee and l/c.
+Thanks! Call if you have questions or if I can be of any help. There is an 
+outside chance we could have everything set to go this week.
+With Per
+I'll call you at 3pm BA to discuss omnibus.  Then we'll break and I'll dash 
+over to meet with both Lynn Aven and Rick Hopkinson at Allen Center and we'll 
+call you back to discuss tax etc.  SS
+Dan:  please see if the attached draft works.  My extension is 35620.  Sara
+I would like the credit group to respond to the following:
+1.  What person in credit is the initial contact for the preparation of 
+credit worksheets for structured transactions?  How can we insure that the 
+process will run smoothly?
+2.  Can we (credit and legal) schedule a meeting with a trader to walk 
+through the actual termination amout calculation process?
+3.  With respect to L/C's, does credit review incoming L/C's for content?  If 
+not, we need to establish a procedure?
+Carol St Clair
+09/09/99 09:05 AM
+Enclosed is a list of proposed credit issues to be discussed at our lunch on 
+Monday.  I would like to send this to credit later today so if you want me to 
+add anything, please let me know.
+Carol
+Kaye tells me that the hotel that you and Mark recommend is not an Enron 
+approved hotel.(I think it's a Sheraton?).  Do you know a nearby hotel which 
+is approved?  We can chat during our later call.  SS
+The name of the BA lawyer who I will be meeting with next week is Patricia Lopez Aufranc
+The firms's phone number is:                            011-5411-4310-0100
+The firm's fax number is:                             011-5411-4310-0200
+Patricia's e-mail address:  pla@marval.com.ar
+I have sent an e-mail requesting information about a tax lawyer 
+Sara
+I will be in Enron's BA office from September 14 - September 17 (Tuesday Friday).  I would like to schedule some time to review the ISDA Schedule 
+previously sent to you for comment.  Other than the morning and early 
+afternoon of Sept. 15 (Wed.), I am free to schedule an appointment with you If you have comments to the Schedule, please send them to me in Houston.  I 
+will be in the Houston office until Monday afternoon.
+Also, does the Marval firm have an English speaking tax lawyer who could 
+assist Enron Houston tax on Argentine trading issues?  Please let me know as 
+soon as possible.
+I look forward to hearing from you.   .  Sara 
+Please see reference to tax attorney below.  Sara
+Sara:
+I will be pleased to see ou either on Tuesday 14, 11-12.30 am; Wednesday
+afternoon anytime before 18.30 or Thursday at your convenience.
+You shall receive the comments to the Schedule and other documents shortly.
+The English speaking tax lawyer you should contact Gabriel Gotlib at
+54-11-4310-0159 or at gg@marval.com.ar
+In the meantime I will forward you a "preview" of an article on taxation
+that Gabriel and I have written.
+Looking forward to seeing you.
+Patricia
+This message is confidential. It may also contain information that is
+privileged or otherwise legally exempt from disclosure. If you have
+delete it from your system; should also not copy the message nor
+disclose its contents to anyone. Many thanks.
+What do I need to do to open this doc?  SS
+   See attached.

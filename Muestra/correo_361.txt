@@ -1,0 +1,753 @@
+Cindy:
+We have the signed letters - where should we send them?
+Thanks!  I will send it over first thing in the morning.
+You can send it to :
+Mark Taylor
+Thanks!
+Mark,
+What is the address I need to send the agreement to?  Please let me know and I
+will have it sent over by messenger.
+Thanks!
+Cindy
+As per Gary's request, here is the revised letter.  If you will send the
+executed copies to me, I will arrange to have them signed on behalf of Enron.
+(See attached file: CA-CEMEX-ENA.doc)
+Mark,
+The Confidentiality Agreement must be addressed to Enron and printed on
+Cemex letterhead, so please send the modified document to Cindy in an 
+electronic
+format (ie Word via email).  Cindy will then print out two originals on our
+letterhead and send you both originals for signature by Enron.   Thanks, GPB
+GARY BURNS
+12/17/99 07:21 PM
+Mark,
+Our attorney said that modifying the attached Agreement so that the
+protected party is " CEMEX USA Management, Inc., as well as its affiliates
+(CEMEX), " is acceptable.  Please make the required changes and send the
+document to my secretary, Cindy Evangelista.   I am on vacation until 
+1/4/2000,
+but will try to progress the signing of the Agreement while I'm gone  ,
+GPB
+Here is the Confidentiality Agreement we signed last year.
+(See attached file: CA - Cemex2.doc)
+- CA - Cemex2.doc
+- CA-CEMEX-ENA.doc
+Mark:
+Have the documents sent by messenger here to the Riverway address, to the
+attention of Rose Mary Clyburn.
+Cemex USA
+One Riverway, Suite 2200
+Houston, Texas  77056
+Thanks!
+I will be on vacation the rest of the week.  But Rose Mary will be here
+tomorrow.
+Cindy:
+We have the signed letters - where should we send them?
+Thanks!  I will send it over first thing in the morning.
+You can send it to :
+Mark Taylor
+Thanks!
+Mark,
+What is the address I need to send the agreement to?  Please let me know and I
+will have it sent over by messenger.
+Thanks!
+Cindy
+As per Gary's request, here is the revised letter.  If you will send the
+executed copies to me, I will arrange to have them signed on behalf of Enron.
+(See attached file: CA-CEMEX-ENA.doc)
+Mark,
+The Confidentiality Agreement must be addressed to Enron and printed on
+Cemex letterhead, so please send the modified document to Cindy in an 
+electronic
+format (ie Word via email).  Cindy will then print out two originals on our
+letterhead and send you both originals for signature by Enron.   Thanks, GPB
+GARY BURNS
+12/17/99 07:21 PM
+Mark,
+Our attorney said that modifying the attached Agreement so that the
+protected party is " CEMEX USA Management, Inc., as well as its affiliates
+(CEMEX), " is acceptable.  Please make the required changes and send the
+document to my secretary, Cindy Evangelista.   I am on vacation until 
+1/4/2000,
+but will try to progress the signing of the Agreement while I'm gone  ,
+GPB
+Here is the Confidentiality Agreement we signed last year.
+(See attached file: CA - Cemex2.doc)
+- CA - Cemex2.doc
+- CA-CEMEX-ENA.doc
+Here is an example of what such a letter might look like which may satisfy 
+several of the concerns you raised in our call this afternoon.
+Paul:
+It seems to me these types of transactions (at least new ones) could be 
+covered by an ISDA with some creative confirm work on our part.  It's 
+certainly not necessary for us to wait for ISDA to get its act together (it 
+may be quite a wait) - we can come up wit our own definitions.  The financial 
+power trades might be something of a stretch but we have never had the 
+question fully reviewed.  I guess this is another matter to keep in mind as 
+the power pool is restructured:  to the extent we have any influence over the 
+resulting structure, it would be nice if it fit easily into a standard 
+financial trading structure.
+Just random thoughts.
+Mark
+Paul Simons
+11/03/98 12:52 PM
+Paul 
+Let's get the ISDA in place and then bring in deal types (b) and (c) if and 
+when possible.
+ISDA have been on the verge of amending the Commodity Definitions since I 
+arrived at Enron!
+I'll leave it to Shari to respond to your points of detail. Thanks.
+Paul
+Paul Waine
+03/11/98 17:34
+Shari, a new question arises re this master. ECTRIC trades following 
+commodity derivatives with MS: (a) oil swaps (priced in USD), (b) UK 
+electricity - "EFA" elec. forward agreement (priced in GBP) and (c) Nordic 
+power (priced in norwegian kroner). Are all these commodities covered by the 
+master - at present the latter 2 are probably not covered by an ISDA 
+commodity definition, although I understand A&O plan to work on these 
+definitions with interested parties in UK/Europe. How does the ISDA deal with 
+FX differences - I guess there is a standard approach - GBP and NOK converted 
+to USD at spot rate for collateral purposes.
+Paul
+Shari Stack
+28/10/98 19:11
+I was forwarded a copy of your email to Marie Heard and Paul Simons dated 
+10/19/98. In response to your queries: 
+1. Date of the Agreement: Notes in our file state that "Francesca" in London 
+advised that the earliest outstanding trade between the 2 counterparts is 
+Nov. 4 '93. From a legal perspective, it does no harm to leave the date as is 
+since all it means is that the Agreement is effective as of that day 
+2. "Transferable Letter of Credit": ECT's standard is to have "transferable" 
+L/C's in order to be consistent with the "transfer" language included in our 
+Master Agreements. The rationale is that if ECT wanted to transfer its 
+rights/obligations under the Agreement to an Affiliate, we would want the L/C 
+to be transferable as well. Put another way - having a non-transferable L/C 
+would be at cross purposes with having a transferable Agreement. 
+Also, we in Houston were not aware that ECTRIC does not normally use 
+"transferable" L/C's. Perhaps this should be made clear to whomever does 
+ECTRIC's documentation in the future.
+In any case, can you pls let me know whether you are happy for "transferable" 
+to remain in or whether I should go back to MS and ask for it to be 
+deleted 
+3. Name of Guaranteed Party: Agree to change; Marie will have a new first 
+page of the Guarantee prepared and forwarded to you. 
+4. Guarantee from MS: The normal procedure is for them to send us their 
+signed Guarantee when they return our execution copies. The form, though, has 
+already been agreed and Marie will send you a copy for your information. 
+5. Collateral: I have discussed this with Paul Simons. As I understand it you have concerns whether in the event of the insolvency of MS, ECTRIC could 
+redeem cash or US T-Bills in order to fulfil MS's obligations to ECTRIC. Mark 
+Taylor feels that ECTRIC would have an enforceable security interest in cash 
+even though it may be held in London. Regarding the T-Bills, Paul  mentioned 
+that there is to be a meeting on this and other matters in the next few 
+weeks. 
+In order for us to go ahead and finalise the Agreement, I would be happy to 
+go back to MS and ask that US T-Bills be deleted as a form of Eligible 
+Collateral 
+Pls let me know with regard to points 2 & 5 as soon as possible. 
+Kind 
+Shari Stack 
+Let me check with Mr. B.  I don't think we have any specific plans - probably 
+last minute shopping/wrapping.  We're both leaving on Thurs. and returning on 
+Sun.
+Molly Harris
+12/21/99 05:11 PM
+Please find attached Credit's EOL responses for 12/21.
+Molly
+I do have some issues with the proposed language and will be discussing the 
+details with Dale tomorrow.
+Elena Kapralova
+12/21/99 11:45 AM
+Mark,
+could you please have a final glance at  Short and Long Descriptions for the 
+5th of January EnronOnline launch.
+In the file attached are the examples of the following product descriptions:
+-  Emissions
+-  Weather
+-  US Liquids  Financial
+If we do not hear from you by the end of the day Wednesday, Dec 22nd, we'll 
+assume that the descriptions are fine as they are, and no changes are needed.
+Thank you,
+Elena
+Merry Christmas and Happy New Year!
+Brant Reves
+12/22/99 02:54 PM
+Please find attached EOL product profile report dated 12-22-99.
+thanks
+brant
+How do you want to handle these?
+Pursuant to Louise's request we need documentation for the following "killed" 
+transactions.  In all three cases, Traders have allowed the counterparty out 
+of the transaction via verbal agreement with counterparty. 
+Trader: Patrice Mims-Thurston 
+Trader: Geof Storrey
+Until we have determined a legal structure that works for this trading (e.g. 
+Chinese walls, public vs. private reference credits, etc.) I would encourage 
+caution in how far you go with specific names.  Once they are tainted, it may 
+not be possible to cleanse the situation sufficiently to trade on them for 
+some time.
+When would you like to go to New York to meet with Sullivan & Cromwell?  Let 
+me know and I will set something up.
+Mark
+Bryan Seyfried
+12/23/99 02:48 AM
+As many of you already know, we have officially embarked on building a 
+commercial credit trading business based in Europe but globally focused with 
+trading operations in London and Houston.  We are focused on externally 
+launching the business by making two way prices on approximately 200 energy 
+credits in the US, Canada, UK and Nordic markets by 24 Jan. 2000 but we 
+expect to scale up the number of reference credits that we quote on very 
+quickly.  The initial names have been selected and provided to the credit 
+department in both locations for initial review and will be subsequently 
+distributed to the appropriate trading and origination groups for review 
+prior to going live.  The intent is to capture as much of the corporate 
+credit market as possible, as quickly as possible, by leveraging our internal 
+resources (people, processes and systems especially EnronOnline) and the new 
+mediums for communication.    To this extent, any ideas that you might have 
+for getting the eyeballs of potential counterparties please let us know 
+This email marks the first of regular updates on our credit trading 
+initiatives.  We will use this as a mechanism to keep all of you in the loop 
+as to where we are in the implementation process and solicit your input on 
+ways to integrate credit products into your existing business models and 
+customer base.
+This looks fine to me.  Is this the way our confirmations read for telephone 
+trades?  If not, do we need to make this change there also?
+Mark
+Dale Neuner on 12/23/99 10:37:58 AM
+Please aprove the folowing and I will make the required changes.
+Dale
+David Forster
+12/23/99 10:06 AM
+Dale,
+I have discussed the wording with Rudy and agree that we could change the 
+wording in the Index long description for Gasoline, #2 and WTI as follows:
+Old:
+The Index for a month shall be the arithmetic average of the daily  
+settlement 
+prices for the prompt month NYMEX West Texas Intermediate Light, Sweet, Crude 
+Oil 
+futures contract for each NYMEX trading day of such month.
+New:
+The Index for a Determination Period shall be the arithmetic average of the 
+daily  
+settlement prices for the promptmonth NYMEX West Texas Intermediate Light, 
+Sweet, 
+Crude Oil futures contract for each NYMEX trading day of such Determination 
+Period.
+Please run these changes past legal before proceeding. When your changes are 
+complete, please run the final version past Rudy as well. Please note that 
+all 
+Products which reference these Indexes will need the secret squirrel 
+treatment for 
+updating.
+Niamh/Duncan: Please advise if you are happy for the above change to be 
+applied 
+to your products as well.
+Thanks,
+Dave
+Looks good to me - It should probably get one last look by Mike Corbally, too.
+Dale Neuner on 12/27/99 10:33:58 AM
+Attached please find a Weather Long Description, modified pursuant to our 
+conversation this morning.
+I will change the CDD Product Typre description as well. Also, last week we 
+changed the reference to the price quote to remove reference to "per unit of 
+volume".
+Please review and offer approval/comments.
+David:
+For your ease of reference, bolding represents additional language; italics 
+represents changes.
+Should I be changing the Norway and UK components as well, or will that be 
+done by PCG London? 
+(I am more than happy to do it.)
+Dale
+That's fine with me - I don't anticipate any problems at this point.  Don't 
+worry about losing days, though.  We can always make under the table 
+adjustments next month if necessary.
+Carol St Clair
+12/28/99 09:16 AM
+Mark:
+I apparently have 1 1/2 days left.  How would you feel about me taking 
+Thursday P.M. and next Tuesday off, assuming that I get these year-end deals 
+closed?  Feel free to say no to Thursday if you are not comfortable having 
+only 1 attorney here.
+Carol
+We have not restricted access at this point given the request came from 
+Aquila contracts and credit.  Aquila can restrict themselves via the 
+administration function should the elect to.  This will mean that Aquila's 
+contract and credit people will need to talk to their commercial people. 
+Debbie Brackett requested collateral on all financial trades done by Aquila 
+Energy Marketing.  This prompted Aquilla's credit to say they would stop 
+trading as such.  Aquilla's traders feel we should provide an alternative 
+solution.    The contractual solution we have proposed will resolve the 
+contractual issues however it does not fix the intraday credit issue.  EOL 
+will not apply the trades to the correct headroom number when doing the 
+credit look prior to the completion of a transaction.
+We need to evaluate if there is a systematic solution which can afford to 
+give the customer what they want and cover all the credit bases.  The 
+solution would have  the system compare the ID and the product and then 
+allocates the trade to the appropriate company for both contractual and 
+headroom purposes.
+For now we will continue to assign trades between companies and credit will 
+continue to request collateral as appropriate.
+Please let me know how you would like to proceed.
+David Forster
+12/29/99 03:24 AM
+Bob,
+Is this the latest on Aquila?
+Is this still an issue for KN?
+I note that the Aquila contacts requesting a profile change are Contracts and 
+Credit - have we spoken to the traders? I'm not comfortable that limiting the 
+profiles provides the best solution for the customer - bearing in mind that 
+our primary customer is the trader, who will be the one actively using EOL.
+I'm also not real happy about restricting a customer's profile - although I 
+realise that we have done so for Power (license issue) and we do so for 
+credit purposes. More importantly, though, we are talking about restricting a 
+customer's profile to make it harder for an actively trading counterparty 
+(valid or not) to be doing trades.
+To my way of thinking, we need a solution which encourages the traders to 
+trade without annoying other elements in Aquila to the point where they pull 
+access to EnronOnline - which brings me back to the assignment solution, 
+hairy though it may be.
+Thoughts?
+Dave
+Brant Reves
+12/28/99 04:08 PM
+hello all,
+After spending much time on the phone with Aquila, it was requested by them 
+(Scott Eckermann, Contracts and Terry Batt, Credit) that we take active 
+measures internally to limit the product profile of both Aquila Risk 
+Management and Aquila Energy Marketing to their respective trading 
+competencies.  Aquila Risk trades financially under an existing Master 
+Agreement and Aquila Energy Marketing trades physically under existing Master 
+Physical Agreements.  I informed Aquila that we would make changes to their 
+profiles after the market closes today.  If we should not take such action at 
+this time, please call me at 713-853-9897.
+thanks
+brant
+Aquila and others continue to transact under the wrong company (ie physical 
+under the financial company and financial under the physical company).  I 
+have had several conversations with them concerning this however, they have 
+requested that we provide som sort of legal framework which will allow them 
+to transact under one ID for seperate companies.  Mark has discussed this 
+with outside counsel and are comfortable with such an arrangement Essentially the document would state that physical transactions done under ID 
+XXXXXXX will be with Aquila Energy Marketing and financial transactions done 
+under ID XXXXXXXX will be with Aquila Risk Management 
+Please let me know if we can proceed with this type of document.  The only 
+other alternatives at this point are to 1.) assign transacations as they are 
+completed 2.) remove execute rights according to the company.
+There are conflicts for the 2:00 time slot and so many year-end deals taking 
+up everyone's time and attention that I think it makes sense to reschedule 
+for a later date 
+Brent Hendry@_DEVELOPMENT
+12/22/98 10:15 AM
+Mark, would it would it be possible to move the meeting to 2 PM Houston time 
+today?  If there are schedule conflicts or if a room is not available then 
+perhaps we can reschedule it for after the Holidays.
+Mark H. has asked me to prepare an outline of an "acceptable" regulatory 
+framework for OTC energy derivatives that we could use as a fallback position 
+next year.  Here is a draft I've come up with.  Any suggestions?
+Friday at 10 looks good to us.
+RAISLERK@sullcrom.com on 12/29/99 12:04:16 PM
+David  has an appointment first thing in the morning.  Can we meet at 10  or 
+10:30 on Friday morning?
+Until we have determined a legal structure that works for this trading (e.g.
+Chinese walls, public vs. private reference credits, etc.) I would encourage
+caution in how far you go with specific names.  Once they are tainted, it may
+not be possible to cleanse the situation sufficiently to trade on them for 
+some
+time.
+When would you like to go to New York to meet with Sullivan & Cromwell?  Let 
+me
+know and I will set something up.
+Mark
+Bryan Seyfried
+12/23/99 02:48 AM
+As many of you already know, we have officially embarked on building a
+commercial credit trading business based in Europe but globally focused with
+trading operations in London and Houston.  We are focused on externally
+launching the business by making two way prices on approximately 200 energy
+credits in the US, Canada, UK and Nordic markets by 24 Jan. 2000 but we expect
+to scale up the number of reference credits that we quote on very quickly The
+initial names have been selected and provided to the credit department in both
+locations for initial review and will be subsequently distributed to the
+appropriate trading and origination groups for review prior to going live The
+intent is to capture as much of the corporate credit market as possible, as
+quickly as possible, by leveraging our internal resources (people, processes 
+and
+systems especially EnronOnline) and the new mediums for communication.    To
+this extent, any ideas that you might have for getting the eyeballs of 
+potential
+counterparties please let us know.
+This email marks the first of regular updates on our credit trading 
+initiatives.
+We will use this as a mechanism to keep all of you in the loop as to where we
+are in the implementation process and solicit your input on ways to integrate
+credit products into your existing business models and customer base.
+This e-mail is sent by a law firm and contains information
+that may be privileged and confidential. If you are not the
+intended recipient, please delete the e-mail and notify us
+immediately.
+Thanks for your Christmas letter.  It was good to see how Celena has grown!
+I'll be back in NYC Jan. 6 & 7 - any hope for dinner or at least a drink on 
+Thurs. eve.?  My flight is scheduled to get in around 6:45 pm.
+Mark
+Mark,
+You might want to check with Paul on this.  How have we arranged our IPE 
+trading?  Since we are talking about exchange-traded contracts here, not 
+dealing with customers, it may be possible to use an entity other than EEFT 
+Hope all is well.
+Mark
+Mark Elliott
+01/04/2000 07:56 AM
+Bob,
+Apologies for not having got back to you sooner but I have only today 
+returned from two weeks holiday to find your e-mail awaiting me!
+Anyway, I have already put in a call to Derek Oliver (whom I know quite well, 
+having negotiated the legal documentation for our first Pulpex application) 
+to be told that he is out of the office but that he will return my call.
+My initial thoughts, however, - and the main reason why I need to speak to 
+Derek - is that, as you know, all financially-settled derivatives are (for 
+regulatory reasons) arranged in London by Enron Europe Finance & Trading 
+Limited (EEFT) (rather than Enron Europe), which arranges deals for ECTRIC I am unsure without speaking to Derek whether the Exchange will allow for 
+EEFT to be a member of the Exchange as an agent (rather than as a principal) 
+for ECTRIC.  EEFT never enters into deals itself as principal, and ECTRIC can 
+only entre into deals via EEFT 
+Anyway, let me have a word with Derek and see what we can come up with.
+I shall be in touch as soon as I have spoken to Derek.
+Kind   and happy New Year,
+Mark 
+Bob Crane
+21/12/99 15:52
+Mark,
+Steve Kim has been working with me in Houston where one of his roles is 
+PULPEX trading on a day-to-day basis.  He will be moving to London in late 
+January to assist in our European marketing efforts.  I would like him to be 
+able to trade PULPEX from London when he is not on customer calls.  My intent 
+Enron Europe would be a member of the exchange
+There would be a give-up agreement between ECTRIC and ENA where trades 
+executed by Europe would automatically be transferred into ENA's 
+accounts
+The exchange thinks this should be easy to set up from a legal perspective 
+and Derick Oliver at 171 815 8502 to initiate the necessary docs.  Please let 
+me know what you think.
+,
+Bob Crane 
+Louise - If you are back in Houston I'd like to get together and discuss the 
+credit derivatives project.  Otherwise, maybe we can chat by phone?
+Mark
+I see what you mean.  Another thing we need to consider is whether or not 
+this is part of our market maker status for the exchange - do you know if  
+Bob wants Steve's activities in London to be part of that?
+Mark Elliott
+01/04/2000 11:41 AM
+Mark
+Thanks for your message.  Apparently, EEFT is the Member of IPE as a 
+principal - but always acts through brokers when placing orders for ECTRIC 
+(i.e., never places orders itself on the Exchange).  I'm not sure that Bob 
+would want to have Steve place orders through brokers for ECTRIC rather than 
+being able to trade on the Exchange himself.  I'll know more once I chat to 
+the Exchange about the potential ways forward.
+Kind  
+Mark
+Mark,
+You might want to check with Paul on this.  How have we arranged our IPE 
+trading?  Since we are talking about exchange-traded contracts here, not 
+dealing with customers, it may be possible to use an entity other than EEFT 
+Hope all is well.
+Mark
+Mark Elliott
+01/04/2000 07:56 AM
+Bob,
+Apologies for not having got back to you sooner but I have only today 
+returned from two weeks holiday to find your e-mail awaiting me!
+Anyway, I have already put in a call to Derek Oliver (whom I know quite well, 
+having negotiated the legal documentation for our first Pulpex application) 
+to be told that he is out of the office but that he will return my call.
+My initial thoughts, however, - and the main reason why I need to speak to 
+Derek - is that, as you know, all financially-settled derivatives are (for 
+regulatory reasons) arranged in London by Enron Europe Finance & Trading 
+Limited (EEFT) (rather than Enron Europe), which arranges deals for ECTRIC I am unsure without speaking to Derek whether the Exchange will allow for 
+EEFT to be a member of the Exchange as an agent (rather than as a principal) 
+for ECTRIC.  EEFT never enters into deals itself as principal, and ECTRIC can 
+only entre into deals via EEFT 
+Anyway, let me have a word with Derek and see what we can come up with.
+I shall be in touch as soon as I have spoken to Derek.
+Kind   and happy New Year,
+Mark 
+Bob Crane
+21/12/99 15:52
+Mark,
+Steve Kim has been working with me in Houston where one of his roles is 
+PULPEX trading on a day-to-day basis.  He will be moving to London in late 
+January to assist in our European marketing efforts.  I would like him to be 
+able to trade PULPEX from London when he is not on customer calls.  My intent 
+Enron Europe would be a member of the exchange
+There would be a give-up agreement between ECTRIC and ENA where trades 
+executed by Europe would automatically be transferred into ENA's 
+accounts
+The exchange thinks this should be easy to set up from a legal perspective 
+and Derick Oliver at 171 815 8502 to initiate the necessary docs.  Please let 
+me know what you think.
+,
+Bob Crane 
+I did havea brief conversation with Janice about this but don't remember her 
+conclusions.  For financial transactions we are attaching the GTC's.  That is 
+the way we handle the regular telephone trading and in an attempt to make the 
+online trading look as much like telephone trading as possible we continue 
+the tradition.  If in current liquids trading the terms and conditions are 
+not sent as part of the confirm (where there is no master in place) I don't 
+know why we need to attach them for online trading.  If the back office needs 
+a Word version of the GTC to make their job easier there should be no problem 
+getting one for them.
+Nony Flores
+01/05/2000 02:50 PM
+Mark:  I'm not sure if Janice had the opportunity to talk to you about the 
+point of attaching GTC's to on-line confirms or not; however, since she is on 
+vacation this week and we started trading liquids on-line today, Alan 
+suggested that I contact you and find out the outcome of this ongoing 
+question.  Do we attach GTCs to each confirm that's sent out to the EOL 
+counterparty?
+Thanks.
+Nony
+Alan Aronowitz
+11/17/99 10:06 AM
+I have not had any discussions with Mark Taylor on the point of attaching 
+GTCs. I don't know why it has been determined to be appropriate to do the 
+attachment. Please consult with Mark on this and let me know what you find 
+out. Thanks.
+Alan
+You will recall that we went to a meeting last month w/ the EOL people while 
+you were out of town.  That meeting revealed that a lot of work still needed 
+to be done on the confirms.  Of course, there still hasn't been time to 
+finish the liquids products EOL confirm templates, and I think the priority 
+got less urgent, since these products will be among the last to be traded by 
+EOL.  But the quesiton lingers about the need to attach GTCs to each confirm 
+that's sent out to the EOL counterparty.  It seemed to us that perhaps you 
+and Mark Taylor and others might have had discussions on that topic ahnd 
+reached some conclusion.  Rob Cass made a rather cogent appeal that we not 
+require the attachment (lots of manhours, for one reason, since the computer 
+will not automatically generate the GTCs or autofax them).  But we never had 
+a chance to talk about this, so I'm wondering if you could give me your 
+thoughts.  Thanks.
+By the way, it looks like the SK deal closing is on for next week, so I'll be 
+leaving for Singapore on Monday.
+Lynn E Shivers
+11/09/99 06:33 PM
+Have you had a chance to review and finalize the templates for any of our EOL 
+confirmations 
+Also, have any decisions been made on "GTC" attachment/no attachment?
+Thanks for your help!
+Lynn
+Sounds good to me.
+Carol St Clair
+01/05/2000 05:43 PM
+Mark:
+I would like to attend a one day CLE Program on January 21st at the Hyatt 
+Regency called "Women in Law Conference - A New Century For Woman in Law It has been approved for 6.75 hours of CLE credit and costs $100.  Are you 
+okay with this?
+Carol
+It's ok with me.  Please check with Tana and Susan as well.
+Taffy Milligan
+01/06/2000 08:51 AM
+Good morning,
+I would like to use my discretionary day on Thursday, Jan 13.  Please advise 
+of your approval.
+tm
+I agree completely, have talked to the Mayors Office - Citizens' Assistance 
+Office, the Traffic & Transportation Dept. (who gave me Ms. Dorsey's name) 
+and have written to Ms. Dorsey.  I suggest you also complain to our City 
+Council member and the other at-large members.  Since Dorsey is the Bikeway 
+Coordinator, she won't have much incentive to do away with a designated 
+bikeway but Council members want our votes:
+GABRIEL VASQUEZ gvasquez@cnl.ci.houston.tx.us - I think he represents the 
+Heights
+ANNISE D. PARKER aparker@cnl.ci.houston.tx.us - I think Gordon has already 
+written to her
+GORDON QUAN gquan@cnl.ci.houston.tx.us
+ORLANDO SANCHEZ osanchez@cnl.ci.houston.tx.us
+CHRIS BELL cbell@cnl.ci.houston.tx.us
+CARROLL G. ROBINSON crobinso@cnl.ci.houston.tx.us
+The last 5 are "at-large" members of the council.  I got all of these from 
+the City web site so I can't be sure it's a current list.
+Another argument for two lanes on Heights is that with only one lane, some 
+percentage of traffic will divert itself to side streets making them less 
+safe for residents there.
+And p.s. the argument that this lane is designed for use by bicycle commuters 
+is particularly empty since the lane doesn't go anywhere - there's no 
+connecting route at either end that I am aware of - do they expect all these 
+hypothetical bicycle commuters to get on I 10?
+Here is a draft letter to the Exchange requesting permission to effect the 
+Seagull transfer 
+I agree completely, have talked to the Mayors Office - Citizens' Assistance 
+Office, the Traffic & Transportation Dept. (who gave me Ms. Dorsey's name) 
+and have written to Ms. Dorsey.  I suggest you also complain to our City 
+Council member and the other at-large members.  Since Dorsey is the Bikeway 
+Coordinator, she won't have much incentive to do away with a designated 
+bikeway but Council members want our votes:
+GABRIEL VASQUEZ gvasquez@cnl.ci.houston.tx.us - I think he represents the 
+Heights
+ANNISE D. PARKER aparker@cnl.ci.houston.tx.us - I think Gordon has already 
+written to her
+GORDON QUAN gquan@cnl.ci.houston.tx.us
+ORLANDO SANCHEZ osanchez@cnl.ci.houston.tx.us
+CHRIS BELL cbell@cnl.ci.houston.tx.us
+CARROLL G. ROBINSON crobinso@cnl.ci.houston.tx.us
+The last 5 are "at-large" members of the council.  I got all of these from 
+the City web site so I can't be sure it's a current list.
+Another argument for two lanes on Heights is that with only one lane, some 
+percentage of traffic will divert itself to side streets making them less 
+safe for residents there.
+And p.s. the argument that this lane is designed for use by bicycle commuters 
+is particularly empty since the lane doesn't go anywhere - there's no 
+connecting route at either end that I am aware of - do they expect all these 
+hypothetical bicycle commuters to get on I 10?
+don't know if G has already email you... Heights Blvd is now only one lane.
+if you have time, please email your complaints to the people referenced in
+G's long & attached email.
+I just got Ms. Dorsey's email address, it's
+mdorsey@pwe.ci.houston.tx.us.
+If any of you care to voice your opinion about Height Blvd. the best
+person to speak to is:
+Mignette Dorsey, City of Houston Bikeway Coordinator
+713-837-0003
+I spoke to her and found out that this has been planned since the
+early 90's (see how fast our government works).  She said that she
+has received several complaints but the project will continue until
+completion (they have to put down the bike symbols) before it would
+be reconsidered.  If you don't like the restriped Heights Blvd. I
+suggest you call Ms. Dorsey and email the following:
+Jeff King - Public Works
+wjohnson@pwe.ci.houston.tx.us
+Robert Litke - Planning & Development Dept
+rlitke@pd.ci.houston.tx.us
+Annise Parker - City Councilwoman
+aparker@cnl.ci.houston.tx.us
+Thanks!!
+Gordon Hagendorf
+ On another issue, I don't know if you've driven down Height
+Blvd. lately
+ but they turned it into one lane (yes only one lane) and made a
+side
+ bike lane.  I don't like it and think it's unsafe.  I've written
+the
+ following email to Ms. A. Parker and would appreciate if you
+would
+ share it with any Heights residents to see if they feel the
+same.
+ Thanks very much, miss ya,
+ Gordon
+ Dear. Ms. Parker,
+ I would like to know who I should address a complaint about the
+way
+ Heights Blvd. has been turned into one lane with a bike lane and
+parking
+ taking up what used to be a driving lane. I do not like the
+re-striping
+ for the following reasons:
+    1.  There is too much traffic for one lane.
+    2.  It is now very difficult and dangerous to cross Heights
+Blvd.
+       from one of the side streets because the line of cars is
+much
+       longer (since there's only one lane). Cars are having
+having to
+       shoot across very quickly to make it to the other side.
+    3.  Cars are using the bike lane as a driving lane making it
+very
+       dangerous for bicyclist.
+    4.  We have too much parking on Heights Blvd. and this only
+       encourages many more people to park there. This will also
+       encourage large trucks to park on Heights Blvd. making it
+very
+       unsafe.
+    5.  The more cars that park on Heights Blvd. the less
+attractive the
+       area looks. All of the cars parked along the street take
+away from
+       the historic beauty of the area.
+    6.  Besides all of the above, why do we need a bike lane for
+only 2
+       miles? It would be much safer for the bikers to use any of
+the
+       side streets in the neighborhood to bike the short 2 miles
+between
+       I10 & 20th street.
+ Is there anyway to have this reversed? Thanks very much for time
+and
+ attention. I really do appreciate you time,
+ Gordon Hagendorf
+ 713-270-2450 Day
+ 713-861-0885 Night>
+I have now heard back from Ken Raisler's office that the only time he has 
+left next week is Thursday morning.  Does that work for you guys 
+It looks like this didn't go through last night.
+no.sender@envelope.txt on 01/06/2000 08:56:24 PM
+The message sent to the following recipients was not delivered within 60 
+minutes (allowed time)
+This e-mail is sent by a law firm and contains information
+that may be privileged and confidential. If you are not the
+intended recipient, please delete the e-mail and notify us
+immediately.
+We sent ISDA our comments a couple of weeks ago.  I have resent them to 
+Corinne this morning and sent a copy to you.
+Please give me an update so we can get this done.  Mark
+Robert Pickel  Mark:
+Happy new year. I hope your new year was eventful on the personal side and
+uneventful on the business side.
+As you will have seen from my e-mail earlier this week, we are very close to
+final on the Supplement. We just have a couple of firms to hear from and we
+are chasing them down. One of those is Enron, which you recall took on the
+responsibility for the various commodities that no one else volunteered for
+(benzene & methanol). Can you check up on the status of the review?
+Thanks.
+Bob
+We are scheduled at Ken Raisler's office at 9:00 on Thursday.  The address is 
+125 Broad Street (on the eastern end of Broad St. - right by the East 
+River 
+Paul Simons
+01/06/2000 11:43 AM
+Thanks, Mark
+Thursday works well for Bryan and me, so please book Ken's slot!
+We'll travel out on Wednesday night.
+Paul
+I have now heard back from Ken Raisler's office that the only time he has 
+left next week is Thursday morning.  Does that work for you guys 
+Any thoughts on this Platt's issue?
+Robert Pickel  Responses to our request for a final review of the 1999 Supplement have been
+very good. We are still waiting on a couple of responses. I won't name
+names. You know who you are.
+Please also review the attached e-mail from Patricia Hogan at Goldman Sachs
+regarding the appropriate Platt's references. She suggests that the Platt's
+reference in each definition should be to the version of Platt's that is
+published in the relevant region. Please let me know as soon as possible
+whether you agree with her suggestion. If you agree with her suggestion,
+which I believe is largely mechanical, I would ask that those who took
+responsiblity for a particular commodity let us know the proper Platt's
+reference for the commodity and delivery point. Otherwise, we will assume
+that Tricia's suggestions should be followed.
+I look forward to wrapping up this project in the next ten days, so please
+respond promptly.
+Bob Pickel
+We have reviewed the Reference Price Sources for the commodities
+that have been assigned to us.  I will forward our changes, amendments and
+updates under separate cover.
+In the course of reviewing the Price Sources, we came across one
+issue that was not discussed on the recent conference call, but is one about
+which we have strong feelings.  We believe that the Price Source used for a
+particular commodity should reflect the geographic source of the commodity,
+e.g., Platt's Asia-Pacific for Asian commodities, Platt's European,
+Marketscan or Platt's Crude Marketwire for European commodities and Platt's
+Oilgram for North American commodities.  While reviewing the Reference Price
+Sources for Fuel Oil, we found that in many cases only Platt's Oilgram is
+listed, even though the product is European or Asian.  We would prefer to
+delete the references to Platt's Oilgram for products outside of North
+America.  However, we understand that such a step cannot be taken without a
+discussion with the wider group (which may not be feasible at this point).
+If such a discussion is not feasible, we would like (if possible) to include
+the European or Asian-Pacific price source in the Supplement along with the
+U.S. price source for all products (including those commodities we have not
+reviewed and commented on).
+I apologize for bringing this issue up so late in the process.
+Please call me, Keir Prince (011 44 171 774 5004) or Aaron Marcus (357-9514)
+if you would like to discuss.
+  __________________________________________________

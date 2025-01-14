@@ -1,0 +1,1035 @@
+- ivy_kao.vcf  
+Ivy
+I have been having problems trying to log into Iroquois EBB to release capacity to Boston Gas.  Please release the following capacity to Boston Gas for March 2002, pre-arranged, subject to bid.  It should be the same as offer 50136 for February 2002.
+Releasing shipper contact		Chris Germany
+Phone number				713-853-4743
+Fax number				713-646-3037	
+email address				chris.germany@
+Releasing contract number:		6999
+Begin Term				3/1/2002
+End Term				3/31/2002
+MDQ					35,465
+Minimum bid volume			35,465
+Receipt Point				Waddington
+Delivery	Point				Tenn/Wright
+Bid period start				2/26/02 1:00 PM 
+Bid period end				2/26/02 2:00 PM
+Prearranged bid rate			100% of max rate
+Prearranged bidder 			Boston Gas
+Prearranged bidder contact		Liz Danehy
+Phone number				617-723-5512
+Fax number				617-323-5372
+email address 
+Let me know if I missed something.
+Thanks
+Chris Germany
+I received you fax.
+Thanks
+I just went over the March prepayment with David Walker (405-749-5240) at Dominion.  On Thursday, ENA will wire $280,306.00 to Dominion.  The Force Majeure event has ended and Dominion will resume deliveries effective 2/26/02.  We are assuming Dominion did not deliver any gas for Feb 8th through Feb 25th, 18 days.  Following are my calculations
+Prepay for March 2002			10,000 dth per day x 31 days x $2.1562 = $668,422.00
+Non deliveries for Feb 2002	           10,000 dth per day x 18 days x $2.1562 = ($388,116.00)
+Amount to wire on 2/28/02 ==>		$280,306.00
+There may have been some gas flow on Feb 8th, but David will let us know about that later.
+Doug, do I need to prepare a new Cash Use Approval Request form?
+I'm requesting the prepay for Dominion for March 2002.  I printed out the request, signed it, and gave it to Doug.  I just want everyone to be aware of what is happening with Dominion.  Dominion is still not delivering the gas to Tallahassee due to a Force Majeure event.  We are expecting gas to flow any day, hopefully by the weekend.
+Eric, I left a message for David Walker (405-749-5240) at Dominion to call me about the prepayment amount.  Following are my calculations
+Prepay for March 2002		10,000 dth per day x 31 days x $2.1562 = $668,422
+Non deliveries for Feb 2002	10,000 dth per day x 14 days x $2.1562 = ($301,868)
+Estimated payment due 2/28/02	               $366,554
+As of today Mops has been down from Feb 8th - 21st, 14 days.  Mops may not come up until the weekend or early next week.  I will adjust the prepayment as needed next week.
+Robin Barbe has been trying to call you.  Please call her at home.  Her number is 713-721-0709.
+90011682
+jjj999jjj
+Judy's Rob works at Lasco in Sugarland.  She said there are several of those in Houston.
+Thanks for your help.  Now go find me a job.
+Chris:  I'll get with security and see if I can help out.
+Tommy J Yanowski
+Sr. Director - Enron Net Works
+Work # 713.853.6858
+Cell # 713.539.7094
+Tommy, I see you didn't approve my access for AEP which is fine.  I only need access to all the Estate desks and I just asked Daniel to give me everything because I don't know where the deals are for the other desk.  I didn't know if the Central Desk deals are under Central Desk or one of their many other books.  I think I just need Central, East, West, and Texas.
+But, maybe you can help.  My request for the Central Desk needs Darron Giron's approval and he's not in the People Finder.  So he's either at UBS or he left the company.  Do you know who I should be approving that now?
+Thanks
+You were not given access to AEP.
+This resource request has been rejected. You can view the details of the  request by clicking  
+Request ID          : 000000000083213
+Approver Type       : Data
+Signature           : tommy.j.yanowski@
+Comments            : Chris should have access to Enron Estate portfolios only.  He should not need access to any AEP portfolios.
+Request Create Date : 2/20/02 3:28:38 PM
+Requested For       : chris.germany@
+Resource Name       : Sitara Houston Production AEP Edit Trader
+Resource Type       : Applications
+Congratulations!!  I would walk over and hassle your "MAN" but I don't see him.
+Just wanted to let all of you know that there's going to be another wedding
+in the future!
+Brent and I got engaged on Thursday night.  He completely surprised me with
+a beautiful ring and a nice dinner at Mark's after spending an hour at the
+Museaum of Fine Arts.  We're planning to have the wedding in Tulsa next
+March, but have not set a definative date yet.
+It's been a wonderful few days and I'm slowly getting used to having jewerly
+on that finger.  (After a few scratches, I must admit.)
+I just thought everyone should know since I've been harrassed about this
+event for quite some time now.  :)  Hope all is well everyone!
+Angie
+_________________________________________________________________
+Chat with friends online, try MSN Messenger 
+Just a reminder that we still need to discuss the physical deals with volumes in the sitara for March.  You said we were going to talk to Bob Hall about that today.
+FYI, I'm sure these are not in the system yet but will be soon.
+Margaret,
+I have bought the gas from Mario Silva at Anadarko.  His number is 832-636-7164.  Listed below are the volumes and prices.
+Trunkline ELA	12,800 MMbtu@$2.28		$904,704
+PEPL		  5,000 MMbtuf@$2.25		  348,750
+ANR SE	  4,000 MMbtu@$2.28		  282,720
+Total 						$1,536,174
+I verbally confirmed the wiring information with Mario.  The wire needs to go out on Feb. 27.  I have requested that Mario email me 
+all the pertinent information just to doublecheck.  I will forward you the email when I receive it.  I will do the cash request next.
+Thanks
+Robin
+I just went over the March prepayment with David Walker (405-749-5240) at Dominion.  On Thursday, ENA will wire $280,306.00 to Dominion.  The Force Majeure event has ended and Dominion will resume deliveries effective 2/26/02.  We are assuming Dominion did not deliver any gas for Feb 8th through Feb 25th, 18 days.  Following are my calculations
+Prepay for March 2002			10,000 dth per day x 31 days x $2.1562 = $668,422.00
+Non deliveries for Feb 2002	           10,000 dth per day x 18 days x $2.1562 = ($388,116.00)
+Amount to wire on 2/28/02 ==>		$280,306.00
+There may have been some gas flow on Feb 8th, but David will let us know about that later.
+Doug, do I need to prepare a new Cash Use Approval Request form?
+I'm requesting the prepay for Dominion for March 2002.  I printed out the request, signed it, and gave it to Doug.  I just want everyone to be aware of what is happening with Dominion.  Dominion is still not delivering the gas to Tallahassee due to a Force Majeure event.  We are expecting gas to flow any day, hopefully by the weekend.
+Eric, I left a message for David Walker (405-749-5240) at Dominion to call me about the prepayment amount.  Following are my calculations
+Prepay for March 2002		10,000 dth per day x 31 days x $2.1562 = $668,422
+Non deliveries for Feb 2002	10,000 dth per day x 14 days x $2.1562 = ($301,868)
+Estimated payment due 2/28/02	               $366,554
+As of today Mops has been down from Feb 8th - 21st, 14 days.  Mops may not come up until the weekend or early next week.  I will adjust the prepayment as needed next week.
+I have an id - what kind of form are you talking about?
+it has been setting on my desk for a week - if you want me to do it - and you need a id - you need to fill out a form
+oh no, i insist that you do it since you started the process.  i'm such a laggard.
+I was in the process of setting this up, but I got side tracked!  I was going to be administrator - but please feel free to do it yourself,
+you know more about it than me!
+Kim
+I'm going to kill all the ID's shown below except mine.  Should I set up anyone else with an ID?
+Hey Chris:
+Below you will find a list of current Navigator Ids' registered under Enron
+North America
+NAV0123   GOODELL               SCOTT                 (713)853-7711)
+NAV0226   LOVING                   SCOTT                 (713)853-6796)
+NAV0255   BATCH EDI FOR ENRON   DO NOT REASSIGN       (304)357-3431
+NAV0287   LAMADRID              VICTOR                (713)853-4221)
+NAV0409   GERMANY               CHRIS                 (713)853-4743)
+NAV0805   ALLWEIN               ROBERT                (713)853-1901)
+**Admin for Enron
+NAV1269   ANASTAS               SHERRY                (713)853-9197)
+NAV1279   GARCIA                CLARISSA              (713)853-7179)
+Are there any other Enron companies that you need to look at as far as
+Navigator ID's?  If so I can forward that info to you.
+Below are two attachments; one for the new admin (you) and one to remove
+exiting Nav ids or to add new Nav ids'.
+(See attached file: ADD_CHANGE_ADMINISTRATOR_FORM.doc)            (See
+attached file: ADD_REMOVE_USER_FORM.doc)
+Since Robert Allwein is the current, can you get his signature on the
+Change Adm form?  If you can GREAT!.....if not then the form must be
+signed by a Notary.  Then you can go ahead and sign the forms to remove any
+ids.
+You can call me at  1 800 628 4867.  I really appreciate your help in
+getting this account cleaned up.
+Thanks,
+Vickie
+Columbia Navigator Helpdesk
+- ADD_CHANGE_ADMINISTRATOR_FORM.doc   - ADD_REMOVE_USER_FORM.doc  
+I know.  I'm gong to recommend zeroing out the deal in sitara under "expected volumes".
+chris - if you zero expected volume out in sitara - it will zero deal out in unify..  In the past , this has been done by risk
+I just showed Ed McMichael the sitara position screens for the East and Central Desk for March 1st.  There are volumes all over the place.  I asked him who should be taking these volumes to 0 since most of these deals are not physically flowing.  Ed is going to discuss this in a meeting with Bob Hall today 
+I guess my next question is should the volume be taken to 0 in Sitara or Unify.
+Can you guys think of any other questions along those lines?
+I zeroed out the 33000/d for March - let me know if you hear anything about this deal. 
+Thanks
+kf
+I'm not sure if it should be terminated but to my knowledge we are not serving this deal so it probably should be terminated.  I'm going to a "terminated contracts" meeting this morning so maybe I will find out more about how this works.  I also don't see any volumes on this deal for March.
+I did have those set up pretty quick.
+You failed to mention what you were doing yesterday. Trying to find the
+remote?
+I'm telling you life just can't get any better!!!!  We spent our first
+night together Friday night.  Of course we both have colds / allergies real
+bad so it was a sniffly experience.  It will take some getting used to
+thats for sure.  She was trying to set up the kitchen yesterday, bless her
+pregnant heart.
+Hey Chris,
+How's the new digs?
+Cindy Franklin
+Transportation Services
+Work:832.676.3177
+Fax: 832.676.1329
+Pager: 1.888.509.3736
+I'm telling you life just can't get any better!!!!  We spent our first night together Friday night.  Of course we both have colds / allergies real bad so it was a sniffly experience.  It will take some getting used to thats for sure.  She was trying to set up the kitchen yesterday, bless her pregnant heart.
+Hey Chris,
+How's the new digs?
+Cindy Franklin
+Transportation Services
+Work:832.676.3177
+Fax: 832.676.1329
+Pager: 1.888.509.3736
+oh no, i insist that you do it since you started the process.  i'm such a laggard.
+I was in the process of setting this up, but I got side tracked!  I was going to be administrator - but please feel free to do it yourself,
+you know more about it than me!
+Kim
+I'm going to kill all the ID's shown below except mine.  Should I set up anyone else with an ID?
+Hey Chris:
+Below you will find a list of current Navigator Ids' registered under Enron
+North America
+NAV0123   GOODELL               SCOTT                 (713)853-7711)
+NAV0226   LOVING                   SCOTT                 (713)853-6796)
+NAV0255   BATCH EDI FOR ENRON   DO NOT REASSIGN       (304)357-3431
+NAV0287   LAMADRID              VICTOR                (713)853-4221)
+NAV0409   GERMANY               CHRIS                 (713)853-4743)
+NAV0805   ALLWEIN               ROBERT                (713)853-1901)
+**Admin for Enron
+NAV1269   ANASTAS               SHERRY                (713)853-9197)
+NAV1279   GARCIA                CLARISSA              (713)853-7179)
+Are there any other Enron companies that you need to look at as far as
+Navigator ID's?  If so I can forward that info to you.
+Below are two attachments; one for the new admin (you) and one to remove
+exiting Nav ids or to add new Nav ids'.
+(See attached file: ADD_CHANGE_ADMINISTRATOR_FORM.doc)            (See
+attached file: ADD_REMOVE_USER_FORM.doc)
+Since Robert Allwein is the current, can you get his signature on the
+Change Adm form?  If you can GREAT!.....if not then the form must be
+signed by a Notary.  Then you can go ahead and sign the forms to remove any
+ids.
+You can call me at  1 800 628 4867.  I really appreciate your help in
+getting this account cleaned up.
+Thanks,
+Vickie
+Columbia Navigator Helpdesk
+- ADD_CHANGE_ADMINISTRATOR_FORM.doc   - ADD_REMOVE_USER_FORM.doc  
+I'm going to kill all the ID's shown below except mine.  Should I set up anyone else with an ID?
+Hey Chris:
+Below you will find a list of current Navigator Ids' registered under Enron
+North America
+NAV0123   GOODELL               SCOTT                 (713)853-7711)
+NAV0226   LOVING                   SCOTT                 (713)853-6796)
+NAV0255   BATCH EDI FOR ENRON   DO NOT REASSIGN       (304)357-3431
+NAV0287   LAMADRID              VICTOR                (713)853-4221)
+NAV0409   GERMANY               CHRIS                 (713)853-4743)
+NAV0805   ALLWEIN               ROBERT                (713)853-1901)
+**Admin for Enron
+NAV1269   ANASTAS               SHERRY                (713)853-9197)
+NAV1279   GARCIA                CLARISSA              (713)853-7179)
+Are there any other Enron companies that you need to look at as far as
+Navigator ID's?  If so I can forward that info to you.
+Below are two attachments; one for the new admin (you) and one to remove
+exiting Nav ids or to add new Nav ids'.
+(See attached file: ADD_CHANGE_ADMINISTRATOR_FORM.doc)            (See
+attached file: ADD_REMOVE_USER_FORM.doc)
+Since Robert Allwein is the current, can you get his signature on the
+Change Adm form?  If you can GREAT!.....if not then the form must be
+signed by a Notary.  Then you can go ahead and sign the forms to remove any
+ids.
+You can call me at  1 800 628 4867.  I really appreciate your help in
+getting this account cleaned up.
+Thanks,
+Vickie
+Columbia Navigator Helpdesk
+- ADD_CHANGE_ADMINISTRATOR_FORM.doc   - ADD_REMOVE_USER_FORM.doc  
+Could you tell me who in legal is assigned to this?
+thanks
+These are my notes on the Sonat Park & Loan.  I have not spoken with any legal counsel representing ENA.
+Summary:  Sonat has netted our Parked Gas Balance with our Loaned Gas Balance and filed a motion with the courts to retain the remaining Parked Gas Balance, 92,949 dth per my conversation with Sonat, to offset $879,030.42 ENA owes Sonat for the purchase of gas in October 2001.  According to Sonat, the payment was due November 26, 2001 but ENA did not pay.  Sonat's motion is set to be reviewed by the court on March 6th. 
+ENA recognizes a balance of 197,537 dth - the difference is ENA is not netting the 96,000 dth Loan with the park and Sonat is showing an additional day of withdrawal of 8,588 dth in January 2002.
+Chris's notes:
+Sonat Park & Loans
+2/19/02  History  - Per Dave Dyer (205-326-2007) at Sonat 
+ENA has 2 Park & Loan (PAL) contracts with Sonat.  All PAL's with Sonat are under master contract PAL1001.  Sonat assigns a deal number to each deal under this contract 
+Deal #1424 - ENA borrowed a total of 96,000 dth from Nov 3rd-5th and has not paid this back.  ENA still owes Sonat 96,000 dth.  The terms of the deal were to payback Sonat anytime with 3 days notice on any 3 days on 2002,   SONAT ONLY CHARGED ENA $96.00 FOR THIS DEAL, because Sonat needed to get gas off the system.
+Deal #1222 - ENA parked 309,192 dth in August to come out in Jan 2002.  Sonat let ENA withdraw 42,951 on 11/29/01 leaving a balance of 266,241 dth.  In Jan 2002, ENA withdrew 8,588 dth per day for the 1st-9th.  That left a balance of 188,949 dth.  On Jan 8th, 2002, Sonat sent a letter stating that Sonat will hold on to the remaining to balance to offset 1) the Loaned gas on deal #1424 (96,000 dth) and 2) to offset dollars ENA has not paid Sonat for gas Sonat sold to ENA in October 2001.  According to Sonat, the remaining balance on this deal is 92,949 dth = [309,192 parked in Aug - 42,951 w/d in Nov - 77,292 w/d in Jan - 92,000 balance on #1424].  According to Sonat's letter, Sonat has filed the appropriate motion for court approval for the offsets.  According to Dave, ENA is being billed $.00305 x daily balance in this account.  ENA should have paid some bigger amount went the gas was parked in August.
+Other items;
+ENA purchased system supply from Sonat in October 2001.  ENA purchased 286,998 at an average price of $3.063 = $879,030.42.  According to Sonat, ENA did not pay for this before Enron declared bankruptcy.  ENA also sold Sonat gas - 16,000 dth day at $2.885 (sitara #1172076) in January 2002 and 10,000 dth day at $2.955 in May 2002 (sitara #1172087).  ENA used 77,292 dth (8,588 dth per day for Jan 1st - 9th) of the parked gas on deal #1222 to supply the 16,000 dth before Sonat stopped ENA from withdrawing from the park.  ENA defaulted on 418,708 dth of the Sonat deal in January.
+Sonat's in house legal counsel is Patti Frances (205-325-7696).  I left a message for Patti to call me.
+2/20/02
+Patti Frances returned my call.  Patti said the motion is currently set to be reviewed by the court on March 6th.  I asked Patti if there were any penalties for not performing on the Jan 2002 sale to Sonat and if Sonat was going to pay for the 77,292 dth that ENA did supply.  Patti said she didn't think there were penalties but she would verify that and see if they were going to pay.  I also asked her if Sonat is still honoring the ENA sale to Sonat in May 2002 and if Sonat would pay ENA if ENA performed.  She will check on it and call me back.
+Do you have a deal number for this gas?
+I contacted Mary Ellenberger.  She indicated we did receive the gas but have not paid.  I suggested that she contact you via email 
+Have we determined if the facts in the letter are correct?  I've confirmed that if the facts are true, the payment needs to be made.
+Kay
+All I need to know is if ENA received the gas as stated, and if there are any extenuating circumstances which would keep us from paying.  Otherwise I believe we need to make payments in accordance with the terms of the deal.  I'll confirm.
+Kay
+Attached is a demand letter w/ short time fuse.  Counterparty wants payment for post-petition gas delivered to Enron.  Please advise if you need commercial involvement.  Thanks
+- February 19 2002letter to enron north america.DOC  
+I just showed Ed McMichael the sitara position screens for the East and Central Desk for March 1st.  There are volumes all over the place.  I asked him who should be taking these volumes to 0 since most of these deals are not physically flowing.  Ed is going to discuss this in a meeting with Bob Hall today 
+I guess my next question is should the volume be taken to 0 in Sitara or Unify.
+Can you guys think of any other questions along those lines?
+I zeroed out the 33000/d for March - let me know if you hear anything about this deal. 
+Thanks
+kf
+I'm not sure if it should be terminated but to my knowledge we are not serving this deal so it probably should be terminated.  I'm going to a "terminated contracts" meeting this morning so maybe I will find out more about how this works.  I also don't see any volumes on this deal for March.
+I'm not sure if it should be terminated but to my knowledge we are not serving this deal so it probably should be terminated.  I'm going to a "terminated contracts" meeting this morning so maybe I will find out more about how this works.  I also don't see any volumes on this deal for March.
+According to Iroq the problem is on our side.  Please call me first think Monday morning at 3-4743.  Following is the address that I'm starting at.  I go to this address and click on "Customer Activities" and that's when I get the error message.  It should ask me for my ID and password.
+I'm at ECS 04425 if you decide to come by my desk.  I'm out for the rest of the day.
+Thanks
+Hi Chris, are you still having problems with a Citrix Client application?  Lemme know and i will stop by.
+Jimmy Manguba
+Enron Desktop Support
+never mind
+Daniel, please get us a conference room for 30 min Monday afternoon and email everyone with the details.
+Eric, you don't need to be there, I'm just keeping you in the loop.
+Anytime.
+Kay, per my voicemail, I need to meet with you, Ed, Shemin, and Wade to discuss how to handle producers that are still "attached" to ENA's pools on Dominion Pipeline.  This should be a short (less than 30 minutes) meeting.  Shemin and I are available anytime Monday after lunch.  I believe Ed is available after lunch as well.  Please let Daniel and I know when you are available after lunch on Monday and Daniel will get us a conference room.
+Thanks
+Daniel, please get us a conference room for 30 min Monday afternoon and email everyone with the details.
+Eric, you don't need to be there, I'm just keeping you in the loop.
+Anytime.
+Kay, per my voicemail, I need to meet with you, Ed, Shemin, and Wade to discuss how to handle producers that are still "attached" to ENA's pools on Dominion Pipeline.  This should be a short (less than 30 minutes) meeting.  Shemin and I are available anytime Monday after lunch.  I believe Ed is available after lunch as well.  Please let Daniel and I know when you are available after lunch on Monday and Daniel will get us a conference room.
+Thanks
+Kay, per my voicemail, I need to meet with you, Ed, Shemin, and Wade to discuss how to handle producers that are still "attached" to ENA's pools on Dominion Pipeline.  This should be a short (less than 30 minutes) meeting.  Shemin and I are available anytime Monday after lunch.  I believe Ed is available after lunch as well.  Please let Daniel and I know when you are available after lunch on Monday and Daniel will get us a conference room.
+Thanks
+We are double checking your work and this is what I have on my swing worksheet.
+Day May	Volume		GD	GD +.10	Amount
+3		1196		3.665	3.765		4383.34
+4		1479		3.73	3.83		5664.57
+8		692		3.51	3.61		2498.12
+17		2000		3.455	3.555		7111.00
+Total	5367					$19,657.03
+I'm using the Zone 2 gas daily.  Are you using a different gas daily?  Let me know where the differences are.  Also, would you let me know what days we did not get the baseload gas please.
+thx
+Phil,
+Per your request, enclosed is the breakdown for the payment expected from the City of Tallahassee on June 25th.
+Base Volume  $1,260,885.78
+Swing Volume $    19,733.45
+Total Due        $1,280,619.23
+Thanks,
+Max  
+Updated schedule through Monday, Feb 25th.
+anytime monday morning is fine with me, EXCEPT, i need to be at my desk around 9:00 AM to serve the Tallahassee deal.  It only takes about 5 min though
+Ed would like us to get together first thing Mon. AM to discuss where we are on the Termination process (contracts not being served/terminated). Let me know if this works with your schedule. (waiting until Mon due to Chris Germany being out until then)
+Thx
+Berney
+I am still having trouble but I don't know if its and Enron problem or an Iroquois problem.  I'm waiting to hear form Iroquois.  I would like you to check it out if you have time this morning.
+Hi Chris, are you still having problems with a Citrix Client application?  Lemme know and i will stop by.
+Jimmy Manguba
+Enron Desktop Support
+The file you guys sent is July 2001!!  Let me know what rates you are looking at.  We didn't keep all of them updated and GRI changed effective 1/1/2002.  I did make some updates to this file.  Also, I only have rates for East Desk pipelines.
+Chris,
+Please let Yuana and Phil know if you have an updated file.
+Thanks,
+Eric
+Robin is having back surgery next Thursday, Feb 28th.  She went to a neurosurgeon for a second opinion, Dr. Alfonso Aldama was her second opinion dude..  Dr. Esses, my second opinion dude, is an orthopedic surgeon.  And Dr.Alani, the guy I went to see first was an orthopedic surgeon.
+Robin said I should go to a neurosurgeon.  What do you think?
+I'm requesting the prepay for Dominion for March 2002.  I printed out the request, signed it, and gave it to Doug.  I just want everyone to be aware of what is happening with Dominion.  Dominion is still not delivering the gas to Tallahassee due to a Force Majeure event.  We are expecting gas to flow any day, hopefully by the weekend.
+Eric, I left a message for David Walker (405-749-5240) at Dominion to call me about the prepayment amount.  Following are my calculations
+Prepay for March 2002		10,000 dth per day x 31 days x $2.1562 = $668,422
+Non deliveries for Feb 2002	10,000 dth per day x 14 days x $2.1562 = ($301,868)
+Estimated payment due 2/28/02	               $366,554
+As of today Mops has been down from Feb 8th - 21st, 14 days.  Mops may not come up until the weekend or early next week.  I will adjust the prepayment as needed next week.
+Tommy, I see you didn't approve my access for AEP which is fine.  I only need access to all the Estate desks and I just asked Daniel to give me everything because I don't know where the deals are for the other desk.  I didn't know if the Central Desk deals are under Central Desk or one of their many other books.  I think I just need Central, East, West, and Texas.
+But, maybe you can help.  My request for the Central Desk needs Darron Giron's approval and he's not in the People Finder.  So he's either at UBS or he left the company.  Do you know who I should be approving that now?
+Thanks
+You were not given access to AEP.
+This resource request has been rejected. You can view the details of the  request by clicking  
+Request ID          : 000000000083213
+Approver Type       : Data
+Signature           : tommy.j.yanowski@
+Comments            : Chris should have access to Enron Estate portfolios only.  He should not need access to any AEP portfolios.
+Request Create Date : 2/20/02 3:28:38 PM
+Requested For       : chris.germany@
+Resource Name       : Sitara Houston Production AEP Edit Trader
+Resource Type       : Applications
+That's fine.  I don't need AEP.
+You were not given access to AEP.
+This resource request has been rejected. You can view the details of the  request by clicking  
+Request ID          : 000000000083213
+Approver Type       : Data
+Signature           : tommy.j.yanowski@
+Comments            : Chris should have access to Enron Estate portfolios only.  He should not need access to any AEP portfolios.
+Request Create Date : 2/20/02 3:28:38 PM
+Requested For       : chris.germany@
+Resource Name       : Sitara Houston Production AEP Edit Trader
+Resource Type       : Applications
+713-646-3037
+I don't have any letters that the producers have sent to Dominion, but I do have copies of  termination letters and release letters they sent to us.  I can fax you some samples - what is your fax number? 
+At Dominion, I talked to Dan Baney, who knew only that they were requiring releases per their legal department Dennis Bond is a more knowledgeable person at Dominion at 304-627-3566.
+Their attorney handling this matter is Bill Savier at 304-627-3340.
+WRP
+Wade, 2 things, do you have any of the letters that the producers sent to Dominion, I would like one of those AND who are you talking to at Dominion?
+Thanks
+Shemin Proctor (an outside lawyer who is helping with gas contracts) will be looking in to this.  Sarah Bruck (Enron Legal Specialist) may have some documentation questions  
+Thanks,
+Kay
+Kay - Thanks for your attention and assistance in this matter. 
+Several  gas producers are flowing gas through Dominion Transmission pipeline to Enron's pool.  They have terminated their contracts with Enron, or have sent documents to us to terminate their contracts with Enron. They are calling now requesting letters confirming termination of their contracts and/or letters releasing their gas on Dominion Transmission's pipe from Enron's pool in order to satisfy Dominion Transmission's requirement for proof of termination and/or release of gas back to the producers.  Dominion Transmission is holding these producers' gas and is not letting the producers sell their gas to other buyers.
+I have been trying for the last three weeks to discover the route these requests need to pass through in order to get the aforementioned termination and release notices. I have met with little success and fewer answers. Prior to my being involved, Nelson Ferries had forwarded a few requests through Contracts and Legal and had Fred Lagrasta sign off on them.  I also talked to several people last week in Contracts and Legal asking for help, but a process does not seem to be in place.
+Please advise as to how quickly we can act on these requests.  Producers are fearful of not being able to sell their January 2002 gas (ie. not getting paid) and are facing severe financial hardships.  Please advise as to what I can provide or help out with this process.
+A list of producers is provided below.  I am sure more producers will call. 
+Thanks  WRP 
+The following producers have been calling requested such letters: 
+Master Log 
+Producers               Contract        Contact         Phone           Status                  Comments 
+Seneca Gas Ltd. 96096115        John Seffe      818-884-2447    No Document             Sent termination notice to Fred LaGrasta 2/11/02.
+Needs release letter for Dominion.
+Triad Energy of W Va    96002218        Kin Arnold      740-374-2940    Terminated 12/31/01     Needs release letter for Dominion.
+Pacific Atlantice Resc  96002421        Harry Slack     304-782-1911    Letter To Term 11/05/01 New letter 2/15/02. Needs release letter for Dominion.
+Eff 12/31/01 
+Megan Oil & Gas 96029639        Roy Hildreth    304-927-2130    Ternminated 1/31/02     Needs release letter for Dominion.
+Pentex Energy Inc       96030056        Cheryl Graff    724-349-0600    Terminated 12/31/01     Needs release letter for Dominion.
+96040788 
+96052976 
+Virco Inc               EES Customer    Thomas Palmer   740-373-8385    Letter to Term 11/28/01 Was Sent to Jim Javins in Ohio, forwarded to me, 
+Eff 1/1/02              forwarded to Credit War Room. Needs release letter for Dominion.
+Wade, 2 things, do you have any of the letters that the producers sent to Dominion, I would like one of those AND who are you talking to at Dominion?
+Thanks
+Shemin Proctor (an outside lawyer who is helping with gas contracts) will be looking in to this.  Sarah Bruck (Enron Legal Specialist) may have some documentation questions  
+Thanks,
+Kay
+Kay - Thanks for your attention and assistance in this matter. 
+Several  gas producers are flowing gas through Dominion Transmission pipeline to Enron's pool.  They have terminated their contracts with Enron, or have sent documents to us to terminate their contracts with Enron. They are calling now requesting letters confirming termination of their contracts and/or letters releasing their gas on Dominion Transmission's pipe from Enron's pool in order to satisfy Dominion Transmission's requirement for proof of termination and/or release of gas back to the producers.  Dominion Transmission is holding these producers' gas and is not letting the producers sell their gas to other buyers.
+I have been trying for the last three weeks to discover the route these requests need to pass through in order to get the aforementioned termination and release notices. I have met with little success and fewer answers. Prior to my being involved, Nelson Ferries had forwarded a few requests through Contracts and Legal and had Fred Lagrasta sign off on them.  I also talked to several people last week in Contracts and Legal asking for help, but a process does not seem to be in place.
+Please advise as to how quickly we can act on these requests.  Producers are fearful of not being able to sell their January 2002 gas (ie. not getting paid) and are facing severe financial hardships.  Please advise as to what I can provide or help out with this process.
+A list of producers is provided below.  I am sure more producers will call. 
+Thanks  WRP 
+The following producers have been calling requested such letters: 
+Master Log 
+Producers               Contract        Contact         Phone           Status                  Comments 
+Seneca Gas Ltd. 96096115        John Seffe      818-884-2447    No Document             Sent termination notice to Fred LaGrasta 2/11/02.
+Needs release letter for Dominion.
+Triad Energy of W Va    96002218        Kin Arnold      740-374-2940    Terminated 12/31/01     Needs release letter for Dominion.
+Pacific Atlantice Resc  96002421        Harry Slack     304-782-1911    Letter To Term 11/05/01 New letter 2/15/02. Needs release letter for Dominion.
+Eff 12/31/01 
+Megan Oil & Gas 96029639        Roy Hildreth    304-927-2130    Ternminated 1/31/02     Needs release letter for Dominion.
+Pentex Energy Inc       96030056        Cheryl Graff    724-349-0600    Terminated 12/31/01     Needs release letter for Dominion.
+96040788 
+96052976 
+Virco Inc               EES Customer    Thomas Palmer   740-373-8385    Letter to Term 11/28/01 Was Sent to Jim Javins in Ohio, forwarded to me, 
+Eff 1/1/02              forwarded to Credit War Room. Needs release letter for Dominion.
+I see job #1154 (Origination - Wholesale) on the job posting board.  I am going to apply for it online (hopefully today).  I thought you said yesterday that there are two postings for your area.  Do you know if it has been posted yet or are you using job #1154 to fill both positions?
+Thanks.
+Wade, 2 things, do you have any of the letters that the producers sent to Dominion, I would like one of those AND who are you talking to at Dominion?
+Thanks
+Shemin Proctor (an outside lawyer who is helping with gas contracts) will be looking in to this.  Sarah Bruck (Enron Legal Specialist) may have some documentation questions  
+Thanks,
+Kay
+Kay - Thanks for your attention and assistance in this matter. 
+Several  gas producers are flowing gas through Dominion Transmission pipeline to Enron's pool.  They have terminated their contracts with Enron, or have sent documents to us to terminate their contracts with Enron. They are calling now requesting letters confirming termination of their contracts and/or letters releasing their gas on Dominion Transmission's pipe from Enron's pool in order to satisfy Dominion Transmission's requirement for proof of termination and/or release of gas back to the producers.  Dominion Transmission is holding these producers' gas and is not letting the producers sell their gas to other buyers.
+I have been trying for the last three weeks to discover the route these requests need to pass through in order to get the aforementioned termination and release notices. I have met with little success and fewer answers. Prior to my being involved, Nelson Ferries had forwarded a few requests through Contracts and Legal and had Fred Lagrasta sign off on them.  I also talked to several people last week in Contracts and Legal asking for help, but a process does not seem to be in place.
+Please advise as to how quickly we can act on these requests.  Producers are fearful of not being able to sell their January 2002 gas (ie. not getting paid) and are facing severe financial hardships.  Please advise as to what I can provide or help out with this process.
+A list of producers is provided below.  I am sure more producers will call. 
+Thanks  WRP 
+The following producers have been calling requested such letters: 
+Master Log 
+Producers               Contract        Contact         Phone           Status                  Comments 
+Seneca Gas Ltd. 96096115        John Seffe      818-884-2447    No Document             Sent termination notice to Fred LaGrasta 2/11/02.
+Needs release letter for Dominion.
+Triad Energy of W Va    96002218        Kin Arnold      740-374-2940    Terminated 12/31/01     Needs release letter for Dominion.
+Pacific Atlantice Resc  96002421        Harry Slack     304-782-1911    Letter To Term 11/05/01 New letter 2/15/02. Needs release letter for Dominion.
+Eff 12/31/01 
+Megan Oil & Gas 96029639        Roy Hildreth    304-927-2130    Ternminated 1/31/02     Needs release letter for Dominion.
+Pentex Energy Inc       96030056        Cheryl Graff    724-349-0600    Terminated 12/31/01     Needs release letter for Dominion.
+96040788 
+96052976 
+Virco Inc               EES Customer    Thomas Palmer   740-373-8385    Letter to Term 11/28/01 Was Sent to Jim Javins in Ohio, forwarded to me, 
+Eff 1/1/02              forwarded to Credit War Room. Needs release letter for Dominion.
+This is what I want to send to our "Team".  Would you please do a quick review just before I send it out?
+These are my notes on the Sonat Park & Loan.  I have not spoken with any legal counsel representing ENA.
+Summary:  Sonat has netted our Parked Gas Balance with our Loaned Gas Balance and filed a motion with the courts to retain the remaining Parked Gas Balance, 92,949 dth per my conversation with Sonat, to offset $879,030.42 ENA owes Sonat for the purchase of gas in October 2001.  According to Sonat, the payment was due November 26, 2001 but ENA did not pay.
+ENA recognizes a balance of 197,537 dth - the difference is ENA is not netting the 96,000 dth Loan with the park and Sonat is showing and additional day of withdrawal of 8,588 dth in January 2002.
+Chris's notes:
+Sonat Park & Loans
+2/19/02  History  - Per Dave Dyer (205-326-2007) at Sonat 
+ENA has 2 Park & Loan (PAL) contracts with Sonat.  All PAL's with Sonat are under master contract PAL1001.  Sonat assigns a deal number to each deal under this contract 
+Deal #1424 - ENA borrowed a total of 96,000 dth from Nov 3rd-5th and has not paid this back.  ENA still owes Sonat 96,000 dth.  The terms of the deal were to payback Sonat anytime with 3 days notice on any 3 days on 2002,   SONAT ONLY CHARGED ENA $96.00 FOR THIS DEAL, because Sonat needed to get gas off the system.
+Deal #1222 - ENA parked 309,192 dth in August to come out in Jan 2002.  Sonat let ENA withdraw 42,951 on 11/29/01 leaving a balance of 266,241 dth.  In Jan 2002, ENA withdrew 8,588 dth per day for the 1st-9th.  That left a balance of 188,949 dth.  On Jan 8th, 2002, Sonat sent a letter stating that Sonat will hold on to the remaining to balance to offset 1) the Loaned gas on deal #1424 (96,000 dth) and 2) to offset dollars ENA has not paid Sonat for gas Sonat sold to ENA in October 2001.  According to Sonat, the remaining balance on this deal is 92,949 dth = [309,192 parked in Aug - 42,951 w/d in Nov - 77,292 w/d in Jan - 92,000 balance on #1424].  According to Sonat's letter, Sonat has filed the appropriate motion for court approval for the offsets.  According to Dave, ENA is being billed $.00305 x daily balance in this account.  ENA should have paid some bigger amount went the gas was parked in August.
+Other items;
+ENA purchased system supply from Sonat in October 2001.  ENA purchased 286,998 at an average price of $3.063 = $879,030.42.  According to Sonat, ENA did not pay for this before Enron declared bankruptcy.  ENA also sold Sonat gas - 16,000 dth day at $2.885 (sitara #1172076) in January 2002 and 10,000 dth day at $2.955 in May 2002 (sitara #1172087).  ENA used 77,292 dth (8,588 dth per day for Jan 1st - 9th) of the parked gas on deal #1222 to supply the 16,000 dth before Sonat stopped ENA from withdrawing from the park.  ENA defaulted on 418,708 dth of the Sonat deal in January.
+Sonat's in house legal counsel is Patti Frances (205-325-7696).  I left a message for Patti to call me.
+2/20/02
+Patti Frances returned my call.  Patti said the motion is currently set to be reviewed by the court on March 6th.  I asked Patti if there were any penalties for not performing on the Jan 2002 sale to Sonat and if Sonat was going to pay for the 77,292 dth that ENA did supply.  Patti said she didn't think there were penalties but she would verify that and see if they were going to pay.  I also asked her if Sonat is still honoring the ENA sale to Sonat in May 2002 and if Sonat would pay ENA if ENA performed.  She will check on it and call me back.
+I would like to have access to the following directory.  It has the actual Gas Daily prices loaded into excel files.  I'm not sure who you have to ask but they may not let me have it.  The directory is o:TDS/TDS Curve/East/
+Let me know.
+Thanks
+You need to get on the email distribution for this.  I get emails from them every day.
+Here are this week's survey results.
+AVG            -117
+AVG w/o High & Low  -118
+Median              -120
+Standard Deviation    14
+# of Responses        39
+High           -143
+Low            -62
+Last Year           -81
+Thank You!
+George Ellis
+BNP PARIBAS
+Ce message et toutes les pieces jointes (ci-apres le "message") sont etablis a l'intention exclusive de ses destinataires et sont confidentiels. Si vous recevez ce message par erreur, merci de le detruire et d'en avertir immediatement l'expediteur.
+Toute utilisation de ce message non conforme a sa destination, toute diffusion ou toute publication, totale ou partielle, est interdite, sauf autorisation expresse.
+L'internet ne permettant pas d'assurer l'integrite de ce message, BNP PARIBAS (et ses filiales) decline(nt) toute responsabilite au titre de ce message, dans l'hypothese ou il aurait ete modifie.
+This message and any attachments (the "message") are intended solely for the addressees and are confidential. If you receive this message in error, please delete it and immediately notify the sender.
+Any use not in accord with its purpose, any dissemination or disclosure, either whole or partial, is prohibited except formal approval.
+The internet can not guarantee the integrity of this message. BNP PARIBAS (and its subsidiaries) shall (will) not therefore be liable for the message if modified.
+Make Jim Taylor take you out to lunch sometime.
+Thanks.
+I've requested a prepayment of $10,000.00 to be sent tomorrow and I have
+that on my schedule.
+You are most welcome.
+Thanks.
+I've requested a prepayment of $10,000.00 to be sent tomorrow and I have
+that on my schedule.
+I've requested a prepayment of $10,000.00 to be sent tomorrow and I have that on my schedule.
+I printed this out and gave it to Doug.  My revised prepay amount for Thur is $10,000.00.
+I'm using March pricing for TCO and Sonat.  For TCO, I'm using the financial basis offer for March provided by Dan Junek at AES at 9:45 AM, $.125.  Sonat basis is not as liquid so I'm using the Inside Ferc differential for Feb 2002.  For Feb 2002, Henry Hub is $2.03 and Sonat is $1.99, ($.04).  At 10:00 AM, NYMX for March 2002 is $2.36
+TCO Value	$2.485 = $2.36 + $.125
+Sonat Value	$2.32 = $2.36 + ($.04)
+I need Sitara access to all gas regions.  I'm trying to look at some of the Central Desk activity and I don't have authorization.  We might as well give me access to all ENA gas positions and the ability to create/update Sitara tickets for all gas regions.
+I am requesting a payment to Dominion Oklahoma (aka Louis Dreyfus) in the amount of $10,334.67.  This payment is for gas that flowed in Feb 2002 to the City Of Tallahassee.  According to Max Doner, ENA billed Tallahassee for the incremental volumes and Tallahassee paid for the gas.
+Doug, Drew, I am requesting the payment to be made on Monday, June 17th.  I will get the wire request from settlements, attach the supporting documents, get Ed's signature, and leave it with Susan.  I assume Susan will pass it on to one of you after she approves it.  Is that how the process works these days?
+I'm moving into my new hugh apartment with my first roommate - have not had a roommate since March 1996.
+Hey Guys!!
+Joni is going to be in town this weekend and mentioned trying to get together with everyone on Saturday night.  Let me know if ya'll are going to be around or not.  Clarissa...I know you said you have a wedding this weekend,  but let me know if it's going to be an all night event. 
+Thanks,
+Meredith 
+POINTY HEAD!!!!!!     I KNEW IT!  Poor little fella.
+I like the apartment but the walk to the parking garage is terrible.  I don't think Immer is going to like it very well either when she's lugging the baby around.  Talk about space, I GOT IT!  For now anyway.  Yeah, I've emptied my car of certain items because I didn't want to carry them around.  Hey we need to discuss how to divy those up.  I've always wanted them even though I don't use them.  Dad gave me the single shot 12, but there is still the little one, the double (the prize possesion) and the new one that you wanted to use.
+The apartment is still pretty empty.  I didn't want to empty my boxes until we got Immer's stuff in there.  I don't think she has that much either, living room furniture, bed, 2 bedroom night stands, armwour, kitchen talble, 1 stupid cat 
+Did you remember that we put some items in your vehicle that you wanted me
+to take home cause Ingrid is not to crazy about them.   I did not take
+them, forgot.   Are they still in the back of your Explorer?   How's the
+new apartment.   You about got it all set up.   Nice apartment.   I like
+it.    Did not deposit the $125 in your account from the washing machine
+sell.  Used $65 on changing the oil in the tractor and buying a grease gun
+to lubricate the water pump.   Water pump still leaks so we I'll pull the
+pump this weekend and send it off for repair.
+We received a  letter from Chance.   Said they shaved his head and that his
+head was pointy.
+While it has been discouraging to see an endless stream of negative news coverage about Enron, we want you to know about some positive news that is starting to emerge.  ABC News was at Enron today because they want to do a story about Enron's future, our business going forward and the tremendous work being performed by the remaining 20,000 employees worldwide.  The segment is scheduled to appear on both Good Morning America and on ABC World News Tonight with Peter Jennings on Wednesday, Feb. 20.  The Good Morning America piece will be kicked off with a live feed from the Enron Building tomorrow morning at 7 a.m. CST.   Check local listings for the air time of World News Tonight.  While there is no guarantee that these stories will be glowing pieces about Enron, the interest by ABC in running a positive story is encouraging.  We wanted to let you know about these stories before they air 
+Additionally, two articles featuring interviews with Interim CEO Steve Cooper ran yesterday in USA Today and the Los Angeles Times.  We are forwarding them to you for your information.  Thank you for your support as we work to turn the tide of media coverage and public perception of Enron and its employees.
+MONEY
+New Enron CEO turns company focus to future ; While workers cope with loss and uncertainty
+Noelle Knox
+02/18/2002
+USA Today
+FINAL
+B.03
+HOUSTON -- Inside Enron headquarters, employees walk by stacks of moving boxes as they scrounge for pens and Post-it Notes from the empty desks of their laid-off co-workers. On one desk, an employee finds a note that reads: "I'm not gone, don't take my stuff Forgotten behind the headlines of smoking guns, Aspen ski homes and shredded documents are almost 18,000 employees who work on Enron's power plants and pipelines.
+USA TODAY is the first to get a tour inside Enron since its collapse late last year and spend time with Stephen Cooper, the new chief executive, talking about his vision for the future. 
+On the 50th floor of executive suites, decorated with rich carpets and velvet-covered chairs, there is a sweeping view of Houston -- a city Enron helped shape with its philanthropy, political donations and corporate muscle. Cooper, however, is only focused on saving part of the company. 
+His plan faces monumental challenges. In his words, "Everybody's betting against us While many American corporate icons have filed for Chapter 11 bankruptcy protection in the past year -- Kmart, Polaroid, Bethlehem Steel -- the size, speed and sordid details of Enron's collapse have sparked numerous investigations and lawsuits, angered creditors, demoralized employees and ruined its reputation. 
+But Cooper -- whose firm Zolfo Cooper worked on the troubles of such companies as Polaroid, Sunbeam and Federated Department Stores - - is adamant Enron can emerge healthy from bankruptcy within a year. 
+"I've probably been in more Chapter 11s than anybody in the United States, literally," he says. "This company, by way of business and asset base, by way of management team, by way of predictability of its future business, has more of all of that than most distressed businesses I've ever seen Cooper's plans 
+The company already has sold the energy-trading business that was once considered its crown jewel to UBS Warburg. Although a bankruptcy court and Enron's creditors must first approve any moves, Cooper's plans include: 
+* Enron will likely have to give up this skyscraper for a "more modest habitat," Cooper says. 
+* The company's new $100 million building across the street from headquarters also is for sale. 
+* Even Enron's name blazoned across the top of the nearby Major League Baseball stadium is going to have to go. 
+"Out of the ashes, there ought to be something everyone can be proud of a year, or two, or three from now," he says. 
+Today, the company still has a pipeline network that stretches from Canada to California and from Texas to Florida. And Cooper is betting that business can power the light at the end of the tunnel. 
+He wants to keep the North American and South American pipelines and power plants and sell or shut down the rest of the company's businesses, including its broadband network, water utilities and the like. 
+That will mean cutting an additional 10% to 20% off Enron's payroll and returning the company to its natural gas pipeline roots of the 1980s. 
+But to pull off his plan, Cooper must not only sway his critics, including giant Wall Street creditors, but also motivate thousands of devastated employees. 
+"Cooper and (Enron President Jeff) McMahon have one of the toughest jobs in business to keep the people there and keep them motivated," says John Whitney, a turnaround expert and professor at Columbia University. 
+To lock in 500 key executives, Enron offered $55 million in retention bonuses. Former Enron executives who went to UBS Warburg as part of the sale of the energy-trading business also pocketed multimillion-dollar payoffs. 
+And Cooper's pay? 
+The New York-based consulting firm Zolfo Cooper will receive $1.3 million a year, plus $1.2 million for each of the eight executives he brought with him to Houston. If Enron emerges from bankruptcy, Cooper's firm will get a $5 million fee. If Enron is liquidated, Cooper will get a fee agreed upon by the creditors and court, according to a filing in U.S. Bankruptcy Court in New York. 
+Shattered morale 
+Enron's fall from grace has shattered employee morale. 
+"It's just so sad," says one current employee, who spoke on condition of anonymity. "On several floors, it looks like the rapture. It looks like people disappeared into space. They're just gone This employee, just two years away from retirement, watched $160,000 in retirement savings shrink to zero with Enron's stock price. "Now I'm going to have to work as a greeter at Wal-Mart until I'm 90," the employee says. "It's gone. I just can't make it back Jorge Garcia, a project controls manager laid off in December, says his friends still at Enron say, " 'You can tell if you'll be let go soon by your office accommodations. If you've been moved to a cubicle, you probably won't last long That kind of stress takes its toll. 
+Downstairs in the company gym, Kathy Kissner, a massage therapist, says that as the company fell apart, employees would call begging for any open appointment or even just five minutes between appointments. 
+"I've lost 30 pounds in the last six months" from long hours and lack of sleep, says Mark Palmer, vice president of communications. 
+Cooper knows his employees have been hurt financially and emotionally. It's the hardest part of his job. 
+"When people are looking at the prospect of losing enormous amounts of money, they often times get heated. They get emotional and upset," he says. "It's never fun to be at the receiving end, but I've gotten used to it Blast voice mail 
+To motivate the employees, he is trying to focus them on future goals. "People have two choices: We can spend all of our time living in the past, which is a crazy way to spend your life. You can't change it. Or, we can begin to move beyond the disappointment and the upset and the loss, to focus on the future," he says. 
+And he has opened up lines of communication. 
+Once a week, he sends out a lengthy voice mail, telling employees what has happened during the past week, explaining management changes and timetables. 
+When employees call or send him e-mail, he will go find them in the building to answer their questions. And next month, he will hold a meeting with all of the employees in Houston to explain the details of his strategy to bring the company out of bankruptcy. 
+This kind of candid communication is essential, he says. 
+"We are not trying to eliminate bad news. We are not trying to make it just good news. What we are trying to do is to eliminate uncertainty," he says. "People can live with either one of those, good or bad. What they can't live with is uncertainty And while some still say Enron's future is uncertain, Cooper is certain of one thing: 
+"The lives and reputations of 20,000 people shouldn't be trash- canned because a handful of geniuses decided to run wild," he says. "People ought to keep in perspective that we've got a lot of really tremendous people here, and for the sake of a couple bad apples, we shouldn't blowtorch the entire field."
+PHOTOS, B/W, Michael Stravato (4); Caption: In Houston: Turnaround CEO Stephen Cooper says the company probably will have to give up its main building and its new one, in the background. Core business: Kenneth Wagoner works in the gas pipeline control center in Houston. Fewer customers: Business has slowed at the coffee shop on the ground floor of one Enron building. No sweat: The fitness center at Enron no longer gets as much of a workout by employees. 
+Financial Desk
+The Nation Acting CEO Plans Legal Assault Amid Effort to Salvage Enron Litigation: Those who helped fell the energy giant would be targeted, Stephen Cooper says.
+NANCY RIVERA BROOKS
+TIMES STAFF WRITER
+02/18/2002
+Los Angeles Times
+Home Edition
+A-1
+HOUSTON -- Enron Corp. is planning a broad legal assault against those who helped bring the company down, according to acting Chief Executive Stephen Cooper, the corporate rescue artist who was selected three weeks ago to put the company back on the road to solvency. 
+Cooper said in an interview that the litigation would be extensive and rapid, although he declined to identify specific targets.
+"Enron may have causes of action against institutions and individuals that could represent a meaningful asset for the estate," said Cooper, a principal with Zolfo Cooper, a New York consulting firm that specializes in corporate restructuring. "I think you will see something sooner as opposed to later The players were many in what has become a lurid corporate morality play, and all are potential defendants. 
+Enron filed the largest Chapter 11 bankruptcy in U.S. history Dec. 2, following a series of damaging disclosures of questionable transactions with partnerships controlled by company employees. The nation's seventh-largest company collapsed less than seven weeks after it disclosed losses tied to the off-the-books partnerships, wiping out billions of dollars in investor wealth and more than 6,000 jobs. 
+An internal investigation by three Enron directors determined that abuses in accounting of partnership transactions masked at least $1 billion in recent losses, while a few company employees reaped millions of dollars in personal profits. Directors and executives, including former Chairman Kenneth L. Lay and former Chief Executive Jeffrey K. Skilling, failed to curb the missteps of subordinates, the report concluded. It also pointed to poor advice from Andersen, Enron's auditor, and Vinson & Elkins, one of its outside law firms. 
+Still Sorting Out All the Issues 
+Cooper, who occupies Skilling's old office on the 50th floor of Enron's mirrored office tower in downtown Houston, said the company has not asked any former employees to repay the millions of dollars they earned from partnership transactions. That would include former Chief Financial Officer Andrew S. Fastow, former Enron Global Finance executive Michael Kopper and former Treasurer Ben F. Glisan. 
+"I think that the recovery vehicle in the main will be litigation," Cooper said. 
+Cooper and his team are still "sorting out issues" related to Enron's financial statements and the value of its trading book, the contracts that were not included in the recent sale of its energy trading operation. Since Enron filed for Bankruptcy Court protection, the value of those contracts has eroded to about $1 billion from about $7 billion. 
+"I certainly don't believe at this particular point in time that anybody is engaging in transactions that aren't completely above board," Cooper said. "We will be presenting to the creditors committee on a regular basis our financial statements, which I believe, in the main, will be accurate." Enron has not yet hired a new auditor to replace Andersen, which it fired. 
+Enron already has filed a $10-billion lawsuit against Dynegy Inc. alleging that its cross-town rival withdrew from a proposed merger with Enron in late November as part of a plan to wreck the ailing company. Dynegy has said it pulled out of the merger because Enron misrepresented the depths of its financial problems and lost its investment-grade credit rating. 
+The Enron that Cooper envisions will look much different from the market-dominating energy trader that Lay and Skilling built. The name will change, and the company will focus on its natural gas pipelines and power plants--the kind of hard assets Skilling said he disdained. 
+Cooper's style, too, is unlike Lay's grandfatherly and professorial demeanor and Skilling's hard-driving image. Cooper insists on being called by his first name and dresses casually at the office, complete with baseball cap. He hasn't decorated Skilling's wood-paneled, deadbolted office. 
+To keep up employee morale, Cooper said he visits workers in response to e-mail and sends out weekly, unscripted voicemail updates. An all-employee meeting will be held soon, he said. 
+Enron's overhaul is well underway. 
+Enron has agreed reluctantly to turn over to Dynegy its biggest pipeline, 16,500-mile Northern Natural Gas, which was a condition of the $1.5 billion that Dynegy invested in Enron as part of the aborted merger. Enron also recently gave away its vaunted energy-trading operation to New York investment banking firm UBS Warburg in a no-cash deal that would supply Enron with a cut of any future profit. 
+What remains is an assortment of smaller natural gas pipelines, including one that runs from Texas to California, and electricity generating plants. Enron has announced plans to shut down its remaining telecommunications operations and to unload Portland General, its Oregon utility, as well as many of the international power plants and other assets whose poor performance helped sink the company. 
+Cooper declined to detail which assets he is thinking of unloading because "we haven't settled on a final configuration yet. But it will be substantially smaller by way of reported revenue than the old Enron. 
+"The company, if you remove the trading from the rest of the business, it's actually got a very good, very solid, very revenue- and cash-flow- and earnings-predictable business, which is really its power and pipes business," Cooper said. "So in my view, there is an eminently reorganizable entity here 'Not Going to Wallow and Linger' 
+Cooper expects to present "a fairly on-point direction" for reorganization to its creditors committee in the second quarter and to have settled on a new version of the company within a year. 
+"We're going to move this process forward very quickly. We're not going to wallow and linger in Chapter 11 for a day longer than we have to Although many have speculated that Enron will never emerge from bankruptcy and will instead be carved up and sold, Cooper said he is "not of that mind," adding that in his 30-year career of reorganizing companies he has seen only a few instances in which liquidation made more sense for creditors than reorganizing the ongoing business. Those cases all involved substantial amounts of valuable real estate, he said. 
+Enron has a bit of that. Although it leases its Houston headquarters, Enron is building a tower nearly as tall next door. It has received $40 million in debtor financing to complete and sell that project. 
+Cooper flatly states that he is not interested in doing a post-mortem on Enron, but he did acknowledge the "very labor-intensive" process of sorting through "hundreds upon hundreds" of so-called special purpose entities, which are financial vehicles commonly used by corporations to finance projects separate from the company's balance sheet and for other legitimate purposes, such as a sale and lease-back of a building. 
+Lawyers and accountants are examining the entities to determine the extent of Enron's liabilities and the economic value to Enron of each vehicle, he said. A team of about 10 Zolfo Cooper employees, an unusually large number, is being assigned to Enron, Cooper said. 
+"There's a difference between were the partnerships legitimate or not versus were they accounted for properly or not. Both of these are being looked at. We'll just have to wait to see what the attorneys say as that gets sorted out," Cooper said. 
+Special purpose entities "are not good or bad, they're just instruments or vehicles which provide companies with financial flexibility to better manage their business, to better manage their balance sheet to fit the needs of their business," Cooper said. 
+"The Enron phenomenon was the failure to transfer economic risk [from Enron to the partnerships] and the failure to disclose and the suspension of the corporate code of ethics and conduct that allowed people to get into a position where they had divided loyalties" by working for both Enron and the partnerships, he said. 
+"What we saw here was a case where they weren't constructed properly, they weren't reported properly and by allowing someone to be on both sides of the transaction, you couldn't have really an arm's-length transaction. It's kind of like having you negotiate both sides of a prenuptial agreement Despite its size, the Enron reorganization is much like every other he has handled, Cooper said. Those included Federated Department Stores Inc., Polaroid Corp. and Malden Mills. 
+Unique to Enron, however, is the furor surrounding the rapid and stunning collapse of the business, Cooper said. 
+"It's become an enormous lightning rod for not only the upset of people directly involved in the company, but it's become a lightning rod to coalesce all of these other national interests" involving such issues as accounting and corporate governance, Cooper said. 
+"I hope people will be able to relax and calm down and look at this as an opportunity for a fresh start for our external economic constituencies, a fresh start by way of an investment and a fresh start for our employees," Cooper said. 
+"It's sort of like when your car breaks down and you're in the middle of nowhere and you end up hating the car. You're kicking the tires. You're kicking the bumpers. After you get over it, you realize that it's still a good car. You get the tire or whatever fixed and you just keep going."
+PHOTO: Kenneth L. Lay, above, stepped down as Enron's chairman and chief executive last month. Interim chief and turnaround specialist Stephen Cooper says he envisions a company much different from the market-dominating energy trader that Lay helped build.; ; PHOTOGRAPHER: Associated Press; PHOTO: Stephen Cooper was named Enron's acting CEO in January.; ; PHOTOGRAPHER: Agence France-Presse 
+Don't send this out because its not complete.  I'll finish it tomorrow but I wanted you to have it in case I get hit by a bus or something 
+good nite
+Sonat Park & Loans
+2/19/02  History  - Per Dave Dyer at Sonat (205-326-2007)
+ENA has 2 Park & Loan (PAL) contracts with Sonat.  All PAL's with Sonat are under master contract PAL1001.  Sonat assigns a deal number to each deal under this contract 
+Deal #1424 - ENA borrowed a total of 96,000 dth from Nov 3rd-5th and has not paid this back.  ENA still owes Sonat 96,000 dth.
+Deal #1222 - ENA parked 309,192 dth in August to come out in Dec 2001 or Jan 2002.  Sonat let ENA withdraw 42,951 on 11/29/01 leaving a balance of 266,241 dth.  In Jan 2002, ENA withdrew 8,588 dth per day for the 1st-9th.  That left a balance of 188,949 dth.  On Jan 8th, 2002, Sonat sent a letter stating that Sonat will hold on to the remaining to balance to offset 1) the Loaned gas on deal #1424 (96,000 dth) and 2) to offset gas Sonat sold to ENA in October 2001 that ENA has not paid for.  According to Sonat, the remaining balance on this deal is 92,949 dth = [309,192 parked in Aug - 42,951 w/d in Nov - 77,292 w/d in Jan - 92,000 balance on #1424].
+Other items;
+ENA purchased system supply from Sonat in October 2001.  ENA purchased 286,998 at an average price of $3.063 = $879,030.42.  According to Sonat, ENA did not pay for this before Enron declared bankruptcy.  ENA also sold Sonat gas - 16,000 dth day at $2.885 (sitara #1172076) in January 2002 and 10,000 dth day at $2.955 in May 2002 (sitara #1172087).
+This would be for gas ENA purchased from Sonat.  It's not transport related.
+Rita,
+I am told that Sonat indicates that we owe them at least $879,000 for October 2001. The values you provided do not indicate this large amount. Can you please verify and let me know.
+Maria
+Bob Crites at El Paso Merchant Energy is interested in the Florida capacity as well.  I don't know how he relates to Grier Martin's group.  Bob's number is 713-420-2499.
+The gentleman interested in our Florida space is Henry Barth with FPL Energy Services (the retail group, separate from the group Mike Jessop works for).  His number is 561-694-4057.
+The gentleman interested in our Florida space is Henry Barth with FPL Energy Services (the retail group, separate from the group Mike Jessop works for).  His number is 561-694-4057.
+I finally got a response on the wire information.  You should be getting a call from Ramona Rodriquez in our Treasury department.
+Let me know if you don't hear from her.
+Thanks
+Chris
+713-853-4743
+Phil, I will drop my wire amount for Thursday if Tallahassee does not call on the gas next week.  I need to research how much gas Tallahassee has taken in the past on the swing contract.
+Thanks, you too.  How do I get my fax number changed in the contract?  My current fax number is 713-646-3037.
+THanks!  Have a nice day off!
+ENA did not purchase any gas for the weekend or Tuesday (Monday is an
+Enron holiday).
+Have a good weekend!
+Max, would you provide Phl with the amount of money we expect to receive for the Tallahassee swing gas for May please?
+Thanks.
+Also, let Phil know if there are any reductions on the baseload amounts too.
+thanks
+Mr. G:
+On COT, I have a good estimtae of our expected payment for the baseload quantity, but what about swing gas?
+PP
+Hi Max
+Can you update Phil and Larry re the cash receipts expected from City of Tallahassee on the 25th. Has that invoice been finalized yet.
+Margaret
+ENA did not purchase any gas for the weekend or Tuesday (Monday is an Enron holiday).
+Have a good weekend!
+Any news on this?
+Who would have this info?  And it might be a good thing for me to add to the schedule.
+Thanks
+Chris,
+I would like to get a confirmation number from your treasury department once wires are sent.
+Thanks,
+Pete
+713-207-1471
+Sorry about the email I just sent at 10:49 AM.  Attached is my new schedule reflecting no gas flow on the 9th and 10th.
+Congratulations.  Of course I won't be able to give you any more candy on valentine's day.  But maybe someone over there will take care of that.
+All-
+I just wanted to let everyone know that today will be my last day with Enron.  I have accepted a position with Duke Energy which should be a challenging and enriching experience.  I wanted to take this opportunity to say thank you to everyone who has helped me along the way while I've been here.  It's been a pleasure working with all of you.  Please feel free to contact me at this new email address: angiez_1@hotmail.com or call me anytime on my cell phone at 832.656.5948.
+-
+Angie Zeman
+Hey there.  I did get your message and yes we did wire $26,000.00 yesterday that is for a gas prepayment.  Pete sent me an email earlier this week asking for a confirmation number from our treasury department of the wires we make.  I like that idea and I'm still working on getting the info to add to my worksheet.
+thanks.
+Hello Chris,
+Melissa in our Accounting Dept. left me a message that and even
+$26,000.00 came in yesterday.  I wanted to check with you whether or not
+it is a gas prepayment.  Please let me know at your earliest
+convenience, and I will let her know.
+Thanks,
+Shawn
+Shawn Kirkpatrick
+Contract Analyst
+Reliant Energy Services, Inc.
+Phone:  713-207-6569
+Fax:      713-393-0212
+Joni Veselack  301-280-6177
+I just received a copy of the executed Reliant agreement today.  Do you want a copy?
+Also, please let me know what the global contract number is.  I want to write it on my copy.
+thanks
+Hi Chris,
+This is just a reminder to please send me Shaun (?) Kilpatrick's info so I can contact her for a copy of the Reliant GISB we just signed.
+Please let me know if you have any questions.
+Thanks!
+Stacey x30569
+(713) 710-6084 Pager
+let me go buy some ammo.  let's see, which gun do i use 
+If I ever do understand, please shoot me.
+You still don't understand how things work.  You are suppossed to always have that info at my beck and call.
+Didn't my mom give us a few names back when you were having the disc
+problem?  In fact, I thought you went to see one of them and you liked him.
+I think he was the one who recommended that you hold off on surgery.	ii
+Robin needs a back doctor recomendation.  Who do you think she should see?
+Ok, since I have not seen or heard from you, I'm tossing you nameplate.  Maybe my woman will let me put it up in the bedroom, the one we are moving into on Monday. 
+I've heard that there may be some job opportunities with Transwestern Pipeline.  They recently had an employee leave their marketing department.  I would like to talk to Kevin Hyatt and at least let him know that I may be interested in any future opportunities.  Would that be ok with you?
+What's the status of my nephew?  Is he in Chicago?  Has he gone awol yet?
+A variation of a folkloric explanation of economic systems
+FEUDALISM: You have two cows. Your lord takes some of the milk.
+FASCISM: You have two cows. The government takes both, hires you to take
+care of them, and sells you the milk.
+COMMUNISM: You have two cows. Your neighbors help take care of them and you
+share the milk.
+TOTALITARIANISM: You have two cows. The government takes both and denies
+they ever existed and drafts you into the army. Milk is banned.
+CAPITALISM: You have two cows. You sell one and buy a bull. Your herd
+multiplies, and the economy grows. You sell them and retire on the income.
+ENRON VENTURE CAPITALISM: You have two cows. You sell three of them to your
+publicly listed company, using letters of credit opened by your
+brother-in-law at the bank, then execute a debt/equity swap with an
+associated general offer so that you get all four cows back, with a tax
+exemption for five cows. The milk rights of the six cows are transferred
+via
+an intermediary to a Cayman Island company secretly owned by the majority
+shareholder who sells the rights to all seven cows back to your listed
+company. The annual report says the company owns eight cows, with an option
+on one more.
+P.S. When the sham is finally uncovered, you and the other executives
+siphon
+off all the companies assets, freeze the assets of the peons working on the
+farm, and then tell them that there is no use crying over spilled milk.
+- hunting_dog.jpg 
+ > A Very Cold Winter  > > It was autumn, and the Indians on the remote reservation asked their new
+ > Chief if the winter was going to be cold or mild.
+ > Since he was an Indian Chief in a modern society, he had never been
+ > taught the old secrets, and when he looked at the sky, he couldn't tell
+ > what the weather was going to be.
+ > Nevertheless, to be on the safe side, he replied to his tribe that the
+ > winter was indeed going to be cold and that the members of the village
+ > should collect wood to be prepared.
+ > But also being a practical leader, after several days he got an idea. He
+ > went to the phone booth, called the National Weather Service and asked,
+ > "Is the coming winter going to be cold?"
+ > "It looks like this winter is going to be quite cold indeed," the
+ > Meteorologist at the weather service responded.
+ > So the Chief went back to his people and told them to collect even more
+ > wood in order to be prepared.
+ > One week later he called the National Weather Service again. "Is it
+ > going to be a very cold winter?" he asked.
+ > "Yes," the man at National Weather Service again replied, "it's going to
+ > be a very cold winter."
+ > The Chief again went back to his people and ordered them to collect
+ > every scrap of wood they could find.
+ > Two weeks later he called the National Weather Service again. "Are you
+ > absolutely sure that the winter is going to be very cold?"
+ > "Absolutely," the man replied. "It looks like it's going to be one of
+ > the coldest winters ever."
+ > "How can you be so sure?" the Chief asked.
+ > The weatherman replied, "The Indians are collecting firewood like
+ > crazy."
+Hey woman!  Things are going good, ok at work, better at home.  Not too too busy but I'm actually doing stuff.   Well, this is my last weekend as a lone bachelor.  NONO, we aren't getting married, yet.  I move out of my little 522 sq ft cubby hole into a 2 bedroom in her apartment complex.  She moves into it on the 22nd.  Ahhhhh the good life.  I knew it couldn't last forever.  I getting ready for some fighting too.  We have 3 TV's.  What's wrong with a TV in each bedroom?????   I tell you we are gonnnnnna fight 
+How are things with you?
+Chrissy,
+How are you doing? Happy Valentine's Day!! Hope all is well with all of you.
+Cindy Franklin
+Transportation Services
+Work:832.676.3177
+Fax: 832.676.1329
+Pager: 1.888.509.3736
+Also, please let me know what the global contract number is.  I want to write it on my copy.
+thanks
+Hi Chris,
+This is just a reminder to please send me Shaun (?) Kilpatrick's info so I can contact her for a copy of the Reliant GISB we just signed.
+Please let me know if you have any questions.
+Thanks!
+Stacey x30569
+(713) 710-6084 Pager
+Here is the info and I'm putting a copy of the agreement in interoffice mail to you.
+Shawn Kirkpatrick
+Contract Analyst
+Reliant Energy Services, Inc.
+Phone:  713-207-6569
+Fax:      713-393-0212
+email ==>  SKirkpatrick@reliant.com
+Hi Chris,
+This is just a reminder to please send me Shaun (?) Kilpatrick's info so I can contact her for a copy of the Reliant GISB we just signed.
+Please let me know if you have any questions.
+Thanks!
+Stacey x30569
+(713) 710-6084 Pager
+What bears?
+(See attached file: aga020802.PDF)
+Ce message et toutes les pieces jointes (ci-apres le "message") sont etablis a l'intention exclusive de ses destinataires et sont confidentiels. Si vous recevez ce message par erreur, merci de le detruire et d'en avertir immediatement l'expediteur.
+Toute utilisation de ce message non conforme a sa destination, toute diffusion ou toute publication, totale ou partielle, est interdite, sauf autorisation expresse.
+L'internet ne permettant pas d'assurer l'integrite de ce message, BNP PARIBAS (et ses filiales) decline(nt) toute responsabilite au titre de ce message, dans l'hypothese ou il aurait ete modifie.
+This message and any attachments (the "message") are intended solely for the addressees and are confidential. If you receive this message in error, please delete it and immediately notify the sender.
+Any use not in accord with its purpose, any dissemination or disclosure, either whole or partial, is prohibited except formal approval.
+The internet can not guarantee the integrity of this message. BNP PARIBAS (and its subsidiaries) shall (will) not therefore be liable for the message if modified.
+- aga020802.PDF 
+you don't have one here.
+what's my role?
+Hey team 
+I would like to release the Iroq and Tenn capacity for March activity to Boston Gas by the end of the week if possible.  Please let me know by Thur morning if I should wait until next week.
+Thanks
+This prepay amount is on Phil's cash flow worksheet.  I'm requesting $26,000.00 to be wired to Reliant tomorrow and currently estimating $36,000.00 to be wired next Thursday.
+Here is the bible study stuff for next week.
+Visit our energy trading website at   or UBS Warburg's main website at  
+This message contains confidential information and is intended only for the individual named.  If you are not the named addressee you should not disseminate, distribute or copy this e-mail.  Please notify the sender immediately by e-mail if you have received this e-mail by mistake and delete this e-mail from your system.
+E-mail transmission cannot be guaranteed to be secure or error-free as information could be intercepted, corrupted, lost, destroyed, arrive late or incomplete, or contain viruses.  The sender therefore does not accept liability for any errors or omissions in the contents of this message which arise as a result of e-mail transmission.  If verification is required please request a hard-copy version.  This message is provided for informational purposes and should not be construed as a solicitation or offer to buy or sell any securities or related financial instruments.
+thanks
+I do know him and I just left him a note to call you.
+I'm trying to get in touch with Gerald Gilbert.  He started working
+there on 2/1 I think.  You may not know him but if you do, ask him to
+call me at 713-853-4743.
+Thanks
+I'm trying to get in touch with Gerald Gilbert.  He started working there on 2/1 I think.  You may not know him but if you do, ask him to call me at 713-853-4743.
+Thanks
+Good idea.  I'm checking on it and I might add this info to the worksheet.
+Chris,
+I would like to get a confirmation number from your treasury department once wires are sent.
+Thanks,
+Pete
+713-207-1471
+Sorry about the email I just sent at 10:49 AM.  Attached is my new schedule reflecting no gas flow on the 9th and 10th.
+Who would have this info?  And it might be a good thing for me to add to the schedule.
+Thanks
+Chris,
+I would like to get a confirmation number from your treasury department once wires are sent.
+Thanks,
+Pete
+713-207-1471
+Sorry about the email I just sent at 10:49 AM.  Attached is my new schedule reflecting no gas flow on the 9th and 10th.
+Hey team 
+I would like to release the Iroq and Tenn capacity for March activity to Boston Gas by the end of the week if possible.  Please let me know by Thur morning if I should wait until next week.
+Thanks
+Steve Stonestreet at CGAS did verify that metered production on CGAS is "attached" to the AS (aggregation service) contracts, and from there you would schedule it to a transport contract or into the IPP contract.  CGAS and Dominion work very similar when talking about metered production.
+37147	IPP agreement - our pooling contract.
+39149  AS agreement 66917  AS agreement 
+I think the AS agreements are aggregation supply and I believe the wellhead meters were attached to these contracts to help with allocations and billing.  I not 100% sure so I left a message for our CGAS contact to verify.
+Chris,
+I am working on a project and I need a little help.  Do you know if the following contracts on TCO are pooling or transport?
+37147
+39149	
+66917
+Thanks,
+Vicki
+x30903
+37147	IPP agreement - our pooling contract.
+39149  AS agreement 66917  AS agreement 
+I think the AS agreements are aggregation supply and I believe the wellhead meters were attached to these contracts to help with allocations and billing.  I not 100% sure so I left a message for our CGAS contact to verify.
+Chris,
+I am working on a project and I need a little help.  Do you know if the following contracts on TCO are pooling or transport?
+37147
+39149	
+66917
+Thanks,
+Vicki
+x30903
+Guess what?  I just hired some mover to move me next week.  Indrid keep telling me that you and I have bad backs and don't need to fool with moving furniture.  So, I hired movers.  They are charging me $60 hour and I figure 3 hours max.
+Hopefully just once a week, every Thursday.
+Yes, I would like to be added.  Do we prepay once a week for this?
+Sylvia
+Let me know if you want to be added to this distribution list.  I should only send this list out 2 or 3 times a week now that we have a process down.
+Sorry about the email I just sent at 10:49 AM.  Attached is my new schedule reflecting no gas flow on the 9th and 10th.
+Let me know if you want to be added to this distribution list.  I should only send this list out 2 or 3 times a week now that we have a process down.
+Sorry about the email I just sent at 10:49 AM.  Attached is my new schedule reflecting no gas flow on the 9th and 10th.
+Sorry about the email I just sent at 10:49 AM.  Attached is my new schedule reflecting no gas flow on the 9th and 10th.
+ENA is wiring Reliant $20,000.00 today at 3:30 PM.  My goal is to send Reliant a wire every Thursday that will cover all ENA purchases for the next 7 days.
+Jim, your contact on Monday will be Robin Barbe.  Her number is 713-853-7177.
+Thanks everyone and have a good weekend.
+Chris L. Germany
+Manager, Gas Trading
+Phone 713-853-4743
+Fax  713-646-3037
+That would be great if you could tell me.  I show we wired $22,500.00 at 12:00 PM on the 6th, and we should have wired $20,000.00 around 3:30 PM on the 8th.  I would be happy to include you on the schedule below that I email to Jim and Pete showing this activity.  Let me know.  You might let your accounting department know that we plan on wiring money to Reliant every Thursday, enough money to cover supply for the next 7 days.
+Just wanted to double check the amount.  Accounting is telling me they
+telling me is what you sent.
+Thanks!
+Shawn
+Shawn Kirkpatrick
+Contract Analyst
+Reliant Energy Services, Inc.
+Phone:  713-207-6569
+Fax:      713-393-0212
+I would like for you to get 3 or 4 bids for the Iroq Zone 2 capacity.  And later, I may ask you to get bids for the Iroq/Tenn capacity.
+what is my role in this?
+Following are the contract terms for Iroquois and Tennessee.  I am more interested in getting numbers on Iroq contract 1250-05.  I believe we should not consider releasing the capacity for any term less than a year.
+Pipeline			Iroquois
+ENA Contract		125005
+Rate Schedule		RTS12
+MDQ			2,017
+Receipt Point		Waddington
+Delivery Point		South Commack
+Beginning Term		3/1/2002
+Ending Term		10/31/2006
+Pipeline			Iroquois
+ENA Contract		125008
+Rate Schedule		RTS1
+MDQ			35,465
+Receipt Point		Waddington
+Delivery Point		Tennessee Wright
+Beginning Term		3/1/2002
+Ending Term		3/31/2007
+Pipeline			Tennessee
+ENA Contract		29667
+Rate Schedule		Net 284
+MDQ			35,000
+Receipt Point		Wright #012181  -      35,000 MDQ
+Delivery Point		Clinton #020110  -        1,000 MDQ
+Delivery Point		Leominster #020111  -  1,000 MDQ
+Delivery Point		Revere #020116  -      11,200 MDQ
+Delivery Point		Spencer #020191  -     1,800 MDQ
+Delivery Point		Mendon #020285  -    20,000 MDQ
+Beginning Term		3/1/2002
+Ending Term		3/31/2001
+Hey!  Congradulations on getting that new phone number.  I knew you could do it.  Would you ask Gerald Gilbert to call me when he gets a chance?  My number is 713-853-4743 
+Thanks
+To All,
+My bosses have been impressed with me so far, and for that gave me a phone, my new work number is 713-371-8581.
+Russell
+I spoke with all the following personally about the Trailblazer capacity
+Kevin at e prime
+Greg at Dominion
+Calvin at Select
+Greg Hood at Oxy
+Steve at BP
+The only person I had to leave a voicemail for is Grier at El Paso.  His number is 713-420-5673.  You may have already touched base with him.  If not, you may want to call him on Monday, I will be out.
+later
+I'm out Monday, Feb 11th.  I'm just cleaning up my apartment, getting ready for the big move.  My pager number is 877-498-5497 if anyone needs me or JUST WANTS TO TALK.  Do not leave a voicemail on my pager like Eric does, I don't have the code to check voicemails.
+Robin Barbe will talk to Jim Taylor at Reliant on Monday.  Jim Taylor's number is 713-207-1482.  We should have enough money at Reliant to cover purchases through Friday of next week.
+Robin, Christina will let you know if Tallahassee calls on the gas.
+I adjusted my schedule to reflect higher prices and the wire scheduled to go out at 3:30 PM today.
+Did I mention what wonderful people we have working in settlements?  WELL THEY ARE 
+Thanks TEAM.
+ENA is wiring Reliant $20,000.00 today at 3:30 PM.  My goal is to send Reliant a wire every Thursday that will cover all ENA purchases for the next 7 days.
+Jim, your contact on Monday will be Robin Barbe.  Her number is 713-853-7177.
+Thanks everyone and have a good weekend.
+Chris L. Germany
+Manager, Gas Trading
+Phone 713-853-4743
+Fax  713-646-3037
+There are some volumes without prices on the Dominion files.  Can you tell me what these are?
+Acct ID
+AT001JJ
+AT001ON
+At001MA
+I'm working on my contact list.  It looks like I'll have better luck after lunch.  FP&L asked me to call back after lunch.  Judy said that Scott Neal just doesn't want to talk about it till after trading.
+Interesting note (and I'm keeping track of my notes)  AEP will not buy gas from Enron.  I spoke to Elsa Villarreal (works for Houston Pipeline).  She called Todd Lambert in her Columbus office and Todd told Elsa that AEP will not buy gas from Enron.
+I'll keep you guys posted on my Bridgeline notes through out the day.
+Jim
+Attached is my worksheet showing our daily activity and prepayments.  I would like to send this worksheet to you 2 or 3 times a week.
+Let me know if you agree with all the information.  We can also change the format.  I will be out of the office on Monday so Robin Barbe will be calling you.  Her number is 713-853-7177.
+Also, we originally intended to wire more money to Reliant on Monday but we are trying to wire the money today due to the increase in prices.  I will keep you posted and I will update the schedule for any prepayments made today.
+Chris L. Germany
+Manager, Gas Trading
+Phone 713-853-4743
+Fax  713-646-3037
+Tallahassee called on the gas for the weekend.  I had planned for that in my numbers but I had no idea prices would go up $.07 - $.11 for the weekend - my fault.  This makes my cash balance at Reliant short by about $130.00 if prices post on the high side.  My trading contact at Reliant said that his credit department DOES NOT want to work with us at all.  My contact said his credit department could force him to cut the deal.  We won't know until this afternoon or Monday.  So please try to get the wire out today.
+Thanks
+I've would like to wire Reliant $9,500.00 tomorrow and then wire about $31,000.00 every Thursday to keep Reliant paid for 7 days of gas.  I'm making the following assumptions;
+1.  ENA will be maintaining this deal through March 31, 2002
+2.  Prices are going to remain flat for the next 2 months
+3.  Tallahassee will call on the maximum swing volumes every day
+So far this month, Tallahassee has called on the maximum swing volumes every day.  I will make adjustments to the Thursday wire amount as needed based on prices and how much Tallahassee calls on.
+The following worksheet projects how much we need to send Reliant each week and shows what days Tallahassee called on the swing gas.  Phil, you mentioned adding a column for the sales price to Tallahassee.  Sounds good to me.  This file is located at o:/Gas Structuring/Bankruptcy Folder/City of Tallahassee/Tallahassee Swing Cash Flow.xls
+The following worksheet shows ENA's activity with Reliant, our current cash balance with Reliant, how much gas we have purchased, and what price we used.
+I will send the following worksheet to Reliant each week.  I also plan to copy Phil, Robin, and Margaret.  This file is located at o:/Gas Structuring/Bankruptcy Folder/City of Tallahassee/ENA-Reliant Prepay.xls
+Eric, Doug, Phil,   let me know what you think about the wire for Friday and every Thursday.
+I echatted with Dan.  He said the number is 212-398-6300 and HE THINKS the name of the person is Allen Fuchs.
+Tennessee requires a pepayment or LC in the amount of $25,000.00 per SA pool.  For the Keyspan deal, that essentially means we would need $25,000.00 of credit for each point, 500L, 800L, and Zone 0 = $75,000.00 total.
+These are my notes on flowing gas.  Tetco will be the problem pipeline.  I called my rep again and asked her to seriously look into it.  I'm thinking worse case is they will need either cash or a letter of credit for about $1,000,000.00.  I'm using the following formula
+MDQ (22,000 dth) x 20 days x $ some cashout price 
+They may cut back on the number of days but the cashout price is the problem.  It's a moving target and I expect prices to go up.  I think that if we just agreed to give them a letter of credit for $1 mill and then prepay for any actual expenses we incur, we could build our reputation on the pipeline, at least until we get rid of these deals.  If all the gas flows like it should, we should never have any actual expenses on any of these pipelines for the Keyspan deal.
+Who knows what volumes are going to be?
+I have released the Boston Gas capacity on Tennessee, contract 29667, and Iroquois, contract 1250-08, to Boston Gas, non-recallable, subject to bid (per Boston Gas's request), for Feb 1st for one month only.
+Other transport notes;
+To serve the Lilco deal, we need supply on Texas Eastern, Tennessee, and Transco.
+Texas Eastern is trying to decide how to handle the cash out exposure.  There is no commodity expense on the type of agreement I am requesting but there is the possibility of cash out.  I think the exposure to Texas Eastern is minimal and it could be that Texas Eastern just wants to be difficult to work with.
+We can still flow gas on our Tennessee pooling contract.
+We need an IT contract on Transco.  Transco requires a prepayment or a letter of credit using the following formula, MDQ x 90 days x max it rate from Zone 1 to Zone 6 ($.5169).  I believe the Lilco volume on Transco is about 21,000 dth/day.  Therefore, we would need to give Transco a letter of credit for about $977,000.00.
+I also believe that we could do a buy/sale on Transco and Texas Eastern and bypass the pooling process.
+Donna, Victor,
+I like to keep scheduling informed of all activity on my pipes.  I plan on copying Ruth, Kathy, Maria, and Kim on my emails.  Who should I include from scheduling?
+Thanks
+Wade called Eric about someone wanting us to cancel a contract then Wade said there are still lots of producers putting gas on our contracts.  I was working on something else and I just asked Wade to send me a worksheet of what he was talking about.  Wade actually called Eric.
+I've actually done a lot of things for him and Sherry concerning that very subject.  Why are you asking?  Did you get a call or something?
+Do you want to work with Wade Price on the Appalachian suppliers on CGAS?  I think we are still getting gas because contracts have not been terminated or something like that.  It will probably be tedious but it doesn't matter to me.  Just let me know.
+Following are the contract terms for Iroquois and Tennessee.  I am more interested in getting numbers on Iroq contract 1250-05.  I believe we should not consider releasing the capacity for any term less than a year.
+Pipeline			Iroquois
+ENA Contract		125005
+Rate Schedule		RTS12
+MDQ			2,017
+Receipt Point		Waddington
+Delivery Point		South Commack
+Beginning Term		3/1/2002
+Ending Term		10/31/2006
+Pipeline			Iroquois
+ENA Contract		125008
+Rate Schedule		RTS1
+MDQ			35,465
+Receipt Point		Waddington
+Delivery Point		Tennessee Wright
+Beginning Term		3/1/2002
+Ending Term		3/31/2007
+Pipeline			Tennessee
+ENA Contract		29667
+Rate Schedule		Net 284
+MDQ			35,000
+Receipt Point		Wright #012181  -      35,000 MDQ
+Delivery Point		Clinton #020110  -        1,000 MDQ
+Delivery Point		Leominster #020111  -  1,000 MDQ
+Delivery Point		Revere #020116  -      11,200 MDQ
+Delivery Point		Spencer #020191  -     1,800 MDQ
+Delivery Point		Mendon #020285  -    20,000 MDQ
+Beginning Term		3/1/2002
+Ending Term		3/31/2001
+Do you want to work with Wade Price on the Appalachian suppliers on CGAS?  I think we are still getting gas because contracts have not been terminated or something like that.  It will probably be tedious but it doesn't matter to me.  Just let me know.
+I found a mistake in my capacity worksheet.
+The term on the Boston Gas capacity, contract 125008, 35,465 MDQ, is 12/1/1998 - 3/31/2007.  I think have the ending date as 2008.
+Hi Chris, All brick ready to go what do you think?  I hear your getting married congratulations.
+Karen Gillespie
+Access  Relocation.com
+713.781.4557
+- Shells.dbf 
+- Shells.mls 
+Fred, let me know if you get this.  thanks
+Notice to all Dominion Transmission shippers:
+In an effort to better accommodate the needs of our PL-1 customers we have
+rescheduled the pigging work that was scheduled for Wednesday June 12,
+2002, to Friday, June 14, 2002.  This notice replaces all other notices
+that were posted on DTI's EBB with regard to this issue.  The
+implementation of this restriction on Friday at 10:00 a.m. ECT (9:00 CCT),
+means that there will be no interruptible transportation capacity or
+non-PL1 transportation capacity available along the PL-1 system.  This
+restriction will also require that all deliveries at that time on the PL-1
+system be made to their primary delivery point.  All interruptible and
+secondary deliveries along the PL-1 system will be reduced to zero
+effective for the gas day of June 14, 2002, at 10:00 ECT (9:00 CCT).
+Please give me a call if you have any questions.
+Fred Wilson
+Dominion Transmission
+304-627-3524
+8-630-3524 (tie-line)
+Who do I call to get my palm hooked up to my computer?  I have the palm cradle sitting on my desk.
+How do I get Jim Taylor added as a contact at Reliant Energy Services, Inc. in sitara?
+i hope to quit before that becomes an issue.  one can only hope.
+don't forget to print out hard copy of email for file
+Iroquois is offering to market ENA's capacity for $1.00 (see attachements at the bottom of this email).  Doesn't sound like a bad deal to me 
+Chris
+I checked our tariff and with our in house council and there is nothing that
+precludes us from assisting you with marketing this capacity.  In fact, our
+tariff provides for it in Section 28.15 of the General Terms & Conditions
+(Transporter & Shipper negotiate a "marketing fee" for Transporter to
+actively market capacity on behalf of Shipper).  So as not to set a
+precedent of doing it for free, I've attached a letter agreement for a token
+$1 marketing fee.  What is the protocol (and likelihood) of having something
+like this signed?
+Once the capacity is offered and a replacement shipper is found, all three
+parties would sign a permanent release agreement, a pro forma of which is
+also attached.  Basically it outlines who the parties are, what agreements
+are in place, and takes all the liability (and right of first refusal) off
+of you and puts it on the Replacement Shipper.  Enron has signed a similar
+agreement in the past regarding the majority of volumes on the same contract
+when it released them to ProGas in 1997.
+Please call me to discuss and/or if you need the relevant tariff page faxed
+to you.
+robin
+--
+Robin Zaleski
+Market Services Coordinator
+Iroquois Gas Transmission System, L.P.
+p] 203-925-7274
+f] 203-929-9501
+e] robin_zaleski@iroquois.com
+Robin Zaleski wrote:
+ Chris

@@ -1,0 +1,742 @@
+Nick Bambos 
+Paula,
+Does not wok for me.
+Vince
+Ok - One more time ... Will Friday, May 19 work for everyone? Dinner at La 
+Mora 5:30 ish?
+Please let me know and I will make reservations
+Thank you
+Paula
+We wanted to catch up with you on where you are on ideas for testing.  Also, 
+I think we will need to get testing N America power and gas hedges on genco 
+as fast as possible 
+Zimin Lu
+05/08/2000 03:22 PM
+Professor Darrel Duffie
+450 Miramonte Avenue
+Palo Alto, CA 94306
+May 8, 2000
+Dear Professor Duffie,
+I enclosed with this e-mail Enron Storage Analysis  Model (SAM) for your=20
+review.  The attached files include:=20
+1) a brief documentation of the model (SAM.doc), 2) c-code of the main=20
+routines, 3) Excel spreadsheet interface,=20
+4) SAM_audit.dll .
+Dr. Vince Kaminski, Dr. Stinson Gibner and myself have spent about one year=20
+in developing this model. =20
+With traders=01, feedback incorporated, the model results are close to reality. =20
+Although there are features to be included,=20
+we believe the model is ready for your review.  We look forward to your=20
+comments and suggestions.=20
+Please feel free to contact me should you need additional detail. =20
+Sincerely,
+Zimin Lu
+Director, Enron Research
+Zlu@
+713-853-6388
+Enclosures
+Vince,
+one of my colleagues here at Baylor is writing a book about "the business
+of heaven" in which he interviews prominent business leaders.  Bob Darden
+is his name and he's a former journalist and nice guy.  He would like to
+contact Ken Lay about being one of his interviews.  Do you think this is
+possible?  If so, could you give me an address/phone numbers that Bob might
+use to contact Ken's secretary about setting up an interview?
+If this is in any way "not ok" please just say so.
+See ya,
+John
+Date: Fri, 30 Mar 2001 11:35:03 -0600
+Jana,
+at the Houstonian tomorrow.
+I should be free for the next two weekends Enron permitting).
+My family will be back in Houston around mid-June.
+There will be several concerts at the Pavilion this summer;
+I have already received the schedule.
+Vince
+Jlpnymex@aol.com on 05/08/2000 10:20:45 AM
+Vince
+Hi there! I am back from my two weeks working on the East Coast.
+Let me know your schedule for the next few weeks, so you and David and I, can
+get together for another movie.
+When will your family be in town?
+I hope to hear you speak tomorrow at the Houstonian. My attending is still
+uncertain.
+Hope all is well, and I look forward to our next visit.
+Jana
+Shirley,
+Austin. Please, set up an interview with me, Stinson, Zimin, Vasant, Grant,
+Paulo, Krishna. Sometimes next week.
+Let's make it a formal interview (coordinated through Elizabeth Grant).
+Vince
+Shirley Crenshaw
+05/08/2000 09:27 AM
+Vince:
+Is this gentleman in Houston?  When do you want to bring him over - next
+week?
+Thanks!
+Vince J Kaminski
+05/08/2000 09:25 AM
+Chris,
+We shall make arrangements to bring you over for an interview.
+Our HR Department will contact you later this week.
+Vince
+Christopher M Kenyon  Dear Vince Kaminski,
+I was auditing Prof Dyer's Real Options class on Thursday when you spoke
+on Enron's activities in this area.  I would be interested in exploring the
+possibility of joining the group that works on real options in response to
+and in anticipation of Enron's business requirements.  I'm currently
+working in the development and application of real options methodology at
+Schlumberger.  In particular I'll be speaking at an industry Real Options
+Valuation conference in London (  and I
+just had the paper accepted for publication in Operations Research.  Could
+you pass my resume on to the relevant people to have a look at?
+Thanks in advance,
+Chris Kenyon
+- cmkenyon_cv_may00.doc
+Elizabeth,
+Yes, she referred Norberto to us. We had an informal interview
+with him.
+We would like to  invite him for a round of formal interviews later this week.
+Please include me, Tanya Tamarchenko, Ted Murphy, Krishnarao Pinnamaneni,
+Grant Masson.
+I asked Liza to talk to you to set up formal arrangements with Enron
+HR (a contract, fee schedule approval, etc 
+I shall ask you for help next week when we have more information:
+several members of our group  from London will rotate through our Houston
+office this summer. We shall need help in making living  arrangements,
+including apartments, car, etc. Also, we have an employee from India
+rotating through our group this summer. Please, let me know 
+who is the best person in HR to ask for assistance.
+Vince
+Vince,
+Lisa Woods Ford (Independent Recruiter) tells me that she has referred this 
+resume to you.  Any interest in setting Norberto up for interviews?
+- Elizabeth
+nvaldes@txuenergy.com on 05/03/2000 09:32:29 AM
+Dear Elizabeth
+Per our conversation here is Norberto's Resume. Thanks.
+Lisa Ford
+(See attached file: resumen 4.doc)
+- resumen 4.doc
+Julie,
+No objections. Please, include our names.
+Vince
+Dear Vince,
+Thanks for attending the energy derivatives course, and I hope you found it 
+valuable.
+There's been some interest from other course attendees to put together a 
+contact list and distribute it to one another.  I'm contacting you to see if 
+you or Zimin Lu have any objection to being included on the list.  We will 
+include only details that you approve, such as name, company name, address 
+and email if you wish.
+We would like to send out the list early next week, so please let us know.
+Thanks,
+Julie
+PS - how's the chapter?
+- att1.htm
+vkaminski@aol.com
+Shirley Crenshaw
+05/04/2000 08:15 AM
+Good morning Denise:
+After discussing this situation with Mike Roberts, Vice President in charge
+of the Weather Group, neither he nor I were aware of the existing contract,
+As was mentioned in our conversation, I thought I had cancelled this back 
+in November when Jim Gooding left the company.
+However, since there are just two payments owed (March and April 2000),
+we will pay this amount and ask that the contract be cancelled.  As you
+are aware, this service has not been used since last  November and Mike
+says that he knows of no one it can be transferred to.
+Please send us a final bill in the amount of $980.00 (2 months) and cancel
+the contract.
+If you need this cancellation request in "formal Letter" format, please let 
+me know.
+Thanks for your help.
+Sincerely,
+Shirley Crenshaw
+Administrative Coordinator
+Research Group
+713/853-5290
+Zimin Lu
+05/05/2000 10:23 AM
+Stinson,=20
+This is the letter I am going to send out to Duffie.   Any comments ?
+If you can think a better name for our model (ESVM), also let me know.
+Zimin
+Professor Darrel Duffie
+450 Miramonte Avenue
+Palo Alto, CA 94306
+May 5, 2000
+Dear Professor Duffie,
+I enclosed with this e-mail Enron Storage Valuation Model (ESVM) for your=20
+review.  The attached files include:  1) a brief documentation of the model=20
+(ESVM.doc), 2) c-code of the main routines, 3) Excel spreadsheet interface,=20
+4) ESVM.dll .
+Dr. Vince Kaminski, Dr. Stinson Gibner and myself have spent about one year=20
+in developing this model.  With traders=01, feedback incorporated, the model=20
+results are close to reality.  Although there are features to be included, we=20
+believe the model is ready for your review.  We look forward to your comments=20
+and suggestions.=20
+Please feel free to contact me should you need additional detail. =20
+Sincerely,
+Zimin Lu
+Director, Enron Research
+Zlu@
+713-853-6388
+Tanya Tamarchenko
+05/05/2000 08:37 AM
+Dear friends,
+I am sending you the information about a program my friends Tatiana Kazhdan 
+and Michael Bukhman are going to present on Sunday, June 4
+at Congregation Beth Yeshurun. I think you might be interested.
+Tanya.
+In the program:
+Bach, Handel, Pergolesi, Gluck ;
+Brahms, Liszt, Massenet, Martinie;
+Borodin, Rubinstein, Rachmaninoff.
+Performers:
+Tatiana Kazhdan, Moscow  (contralto)
+/participant of TV and Radio International, festivals in Russia, France and 
+Spain/
+Michael Bukhman, Israel (piano)
+/winner of Texas (Houston) Music Teachers Association competitions,
+international master classes and piano festivals/
+Sunday, June 4, 2000 at 6 p.m.
+Congregation Beth Yeshurun
+4525 Beechnut St
+Tickets: $10, senior citizens $5
+Tickets are available at the door or in Russian General Store: (713) 664-3587
+Dear FT.com user
+Participate in the Connectis discussion forum to share your views on
+e-business.
+,
+FT.com
+Why not forward this e-mail to a friend or colleague who may find this
+information useful or interesting?
+To remove your e-mail address from our mailing list simply select the
+appropriate check box on your FT.com user profile. To do this, or to
+edit any other aspect of your profile, please visit:
+If you have forgotten your password for FT.com visit:
+Jim Dyer  Vince,
+If you take a cab, ask them to take you to the College of Business
+building at the corner of 21st and Speedway.  The main entrance to the
+business school is on Speedway, across from the old gymnasium.  Come in the
+main entrance, which has a large, glass structure, and you will be on the
+second floor.  Go to your left and ride up the first set of escalators to
+the third floor.  When you step off of the escalators, you'll be facing
+north and continue in that direction through two sets of glass doors into
+the northern side of the building.  This is where most faculty offices are
+found.  My office is 3.218, which is in the northwest corner of the
+building.
+If you have any problems, you should be able to ask directions from
+most anyone in the halls.  I will look for you around 11:00 on Thursday, and
+will be happy to provide any other transportation that you need.  Please let
+me know if you have any other questions.
+Jim
+Jim,
+I can  take a cab or get a rental car from the airport  (thanks for your
+kind offer).
+I shall appreciate, however, if you could drop me off at the hotel before
+dinner.
+The time allocation for my speech is about right. I think I shall need
+about 90
+minutes.
+Please let me know where we can meet on Thursday.  I shall be at an
+off-site
+on Wednesday but you can reach me on my cell phone (713 410 5396)
+and by sending a cc message to my AOL address: vkaminski@aol.com.
+I  look forward to meeting you.
+Vince
+Jim Dyer  
+Vince,
+I could pick you up at the airport, or you could rent a car and come
+to campus.  I have made tentative plans for us to go to lunch with some
+other faculty between 11:30 and 12:00, and then you would have some time to
+visit with Sheridan and perhaps with some other faculty members as well
+between lunch and my class.
+Sheridan and a guest speaker from his class, Suresh Sundaresan from
+Columbia, will be joining us for dinner.  I could provide transportation to
+your hotel, and pick you up for dinner as well if you consider that to be
+the most convenient alternative.
+I will have a PC available in the classroom, with Office 2000 and
+windows NT.  You could use powerpoint with no difficulty from that machine,
+if that's most convenient.  You could simply email the presentation, and I
+would have it for you if you prefer.
+How much time would you like?  I would like to reserve about 30
+minutes at the end for a general discussion of issues related to real
+options, and about 30 minutes at the beginning of class for some remarks
+regarding the final assignment and a class evaluation by the students
+(which
+is required for all classes).  At some point, we should take a brief break,
+so that would leave approximately 1.5 to 2 hours for your presentation if
+you would like that flexibility.  Otherwise, I could take up the "slack".
+I look forward to seeing you on Thursday.
+Jim
+Jim,
+I am scheduled to arrive in Austin on May 4 at 10:32 a.m.
+I shall be glad to join you and a group of your colleagues for lunch.
+I am flying back to  Houston Friday morning and we can meet for dinner
+after
+the class.
+I shall have a Power Point presentation on my PC. I can also
+prepare a set of transparencies if this is more convenient for you.
+Vince
+Jim Dyer  
+Vince,
+I am traveling at this time, attending a NSF meeting in Washington.
+However, I wanted to touch base regarding plans for your presentation in my
+class on real options next Thursday (May 4).  As you recall, the class is
+from 3:30 to 6:30, and you could plan to take a significant part of that
+time for your presentation.  Sheridan Titman has agreed to join us after
+his
+class at about 6:00 for a 30 minute "panel discussion" with the students on
+issues related to real options in practice.l
+I am not sure about your travel plans, but we would be happy to plan
+lunch on Thursday with several of my colleagues.  I would also be delighted
+to be your host for dinner on Thursday night if that is convenient for you.
+I'll be back in my office on Monday, and will look forward to
+hearing from you.
+Jim
+James S. Dyer
+Fondren Centennial Chair in Business
+Department of Management Science and Information Systems
+CBA 5.202
+The University of Texas at Austin
+Austin, Texas 78712-1175
+Email:  j.dyer@bus.utexas.edu
+Telephone:  512-471-5278
+Fax:  512-471-0587
+Vince,
+Here is a little more info on the book Bob Darden is writing that might be
+useful in explaining who he is talking to at present.
+John
+Date: Fri, 30 Mar 2001 12:29:11 -0600
+.h tml+GE+%2B+Enron+%2B+collusion&hl=en
+Sam,
+Nice card.
+Thanks.
+Vince
+wsmith2@ on 05/02/2000 01:54:53 PM
+Please respond to wsmith2@
+You have just received an animated greeting card from Sam Smith
+You can pick up your personal message by using the following Web location.
+(Your card will be available for the next 90 days)
+There is no charge for this service! :)  HAVE a good day and have fun!
+____________________________________________________________
+Accessing your card indicates your agreement with our Website Rules
+posted at the bottom of the following Web location: (You're welcome to send a
+card at no charge to someone at this location)
+Jim Dyer  Vince,
+If you take a cab, ask them to take you to the College of Business
+building at the corner of 21st and Speedway.  The main entrance to the
+business school is on Speedway, across from the old gymnasium.  Come in the
+main entrance, which has a large, glass structure, and you will be on the
+second floor.  Go to your left and ride up the first set of escalators to
+the third floor.  When you step off of the escalators, you'll be facing
+north and continue in that direction through two sets of glass doors into
+the northern side of the building.  This is where most faculty offices are
+found.  My office is 3.218, which is in the northwest corner of the
+building.
+If you have any problems, you should be able to ask directions from
+most anyone in the halls.  I will look for you around 11:00 on Thursday, and
+will be happy to provide any other transportation that you need.  Please let
+me know if you have any other questions.
+Jim
+Jim,
+I can  take a cab or get a rental car from the airport  (thanks for your
+kind offer).
+I shall appreciate, however, if you could drop me off at the hotel before
+dinner.
+The time allocation for my speech is about right. I think I shall need
+about 90
+minutes.
+Please let me know where we can meet on Thursday.  I shall be at an
+off-site
+on Wednesday but you can reach me on my cell phone (713 410 5396)
+and by sending a cc message to my AOL address: vkaminski@aol.com.
+I  look forward to meeting you.
+Vince
+Jim Dyer  
+Vince,
+I could pick you up at the airport, or you could rent a car and come
+to campus.  I have made tentative plans for us to go to lunch with some
+other faculty between 11:30 and 12:00, and then you would have some time to
+visit with Sheridan and perhaps with some other faculty members as well
+between lunch and my class.
+Sheridan and a guest speaker from his class, Suresh Sundaresan from
+Columbia, will be joining us for dinner.  I could provide transportation to
+your hotel, and pick you up for dinner as well if you consider that to be
+the most convenient alternative.
+I will have a PC available in the classroom, with Office 2000 and
+windows NT.  You could use powerpoint with no difficulty from that machine,
+if that's most convenient.  You could simply email the presentation, and I
+would have it for you if you prefer.
+How much time would you like?  I would like to reserve about 30
+minutes at the end for a general discussion of issues related to real
+options, and about 30 minutes at the beginning of class for some remarks
+regarding the final assignment and a class evaluation by the students
+(which
+is required for all classes).  At some point, we should take a brief break,
+so that would leave approximately 1.5 to 2 hours for your presentation if
+you would like that flexibility.  Otherwise, I could take up the "slack".
+I look forward to seeing you on Thursday.
+Jim
+Jim,
+I am scheduled to arrive in Austin on May 4 at 10:32 a.m.
+I shall be glad to join you and a group of your colleagues for lunch.
+I am flying back to  Houston Friday morning and we can meet for dinner
+after
+the class.
+I shall have a Power Point presentation on my PC. I can also
+prepare a set of transparencies if this is more convenient for you.
+Vince
+Jim Dyer  
+Vince,
+I am traveling at this time, attending a NSF meeting in Washington.
+However, I wanted to touch base regarding plans for your presentation in my
+class on real options next Thursday (May 4).  As you recall, the class is
+from 3:30 to 6:30, and you could plan to take a significant part of that
+time for your presentation.  Sheridan Titman has agreed to join us after
+his
+class at about 6:00 for a 30 minute "panel discussion" with the students on
+issues related to real options in practice.l
+I am not sure about your travel plans, but we would be happy to plan
+lunch on Thursday with several of my colleagues.  I would also be delighted
+to be your host for dinner on Thursday night if that is convenient for you.
+I'll be back in my office on Monday, and will look forward to
+hearing from you.
+Jim
+James S. Dyer
+Fondren Centennial Chair in Business
+Department of Management Science and Information Systems
+CBA 5.202
+The University of Texas at Austin
+Austin, Texas 78712-1175
+Email:  j.dyer@bus.utexas.edu
+Telephone:  512-471-5278
+Fax:  512-471-0587
+Ehud,
+I shall contact both Helyette and Alex and make the arrangements.
+Cheers.
+Vince
+Vince,
+I shall definitely attend you presentation at Power 2000.
+Thanks, I appreciate it.
+I shall ask about a guest accounton EOL. Typically, such an account allows
+an outside user to take a look at the system, but I don't think the traders
+will allow
+systematic access to the price data over a long period of time by a third
+party.
+I quite understand, and will appreciate the ability to use the system while
+the permission is applicable.
+Would you like to meet with me, Alex, Helyette for dinner Tuesday?
+I would be delighted to join you, Alex and Helyette for dinner Tue.  When
+that info is available, please advise when and where.
+Look forward to seeing you Tue.  Best,
+Ehud
+Department of Finance
+College and Graduate School of Business
+University of Texas at Austin
+Austin, TX. 78712-1179
+Voice:  (512) 471-5853
+FAX:   (512) 471-5073
+Internet:  eronn@mail.utexas.edu
+Hi Glen,
+Congratulations on your greatly enhanced homepage.
+As expected some links have become obsolete since March.
+The landscape in this business is changing very fast.
+Vince
+DIXON Glen  Hi Vince,
+Have a look at my homepage which I have been updating (see Energy Markets):
+www.acmc.uq.edu.au/~gwd/EnergyExchange.html
+Glen Dixon
+Part - Time Phd Student - Department of Mathematics (University of
+Queensland)
+P.S I am hopefully attending the Australian Risk Conference where you are a
+speaker in July 2000 (Sydney). Hope to hear you speak.
+Glen W. Dixon
+Project Officer - Procurement Profiling
+Queensland Purchasing
+Department of Public Works
+"Important
+This electronic message and any attachments are supplied in
+good faith and are believed to be free of Year 2000 or other date related
+problems (i.e. Year 2000 compliance).  The Department of Public Works
+forwards this message and attachments to you on the basis that you use them
+at your own risk.  The department accepts no responsibility for damage or
+loss (arising from negligence or otherwise) which may occur through the use
+or transmission of this message and attachments and recommends that you
+conduct your own independent tests to determine Year 2000 compliance before
+use.
+The contents of this electronic message and any attachments
+are intended only for the addressee and may contain privileged or
+confidential information.  They may only be used for the purposes for which
+they were supplied.  If you are not the addressee, you are notified that any
+transmission, distribution, downloading, printing or photocopying of the
+contents of this message or attachments is strictly prohibited.  The
+privilege or confidentiality attached to this message and attachments is not
+waived, lost or destroyed by reason of a mistaken delivery to you.  If you
+receive this message in error please notify the sender by return e-mail or
+telephone.
+Thank you."
+Approved.
+Vince Kaminski
+Information Risk Management
+05/02/2000 09:04 AM
+Per Kevin Moore, please approve Elena Chilkina's access for the following 
+restricted website: Web_Research_Pub.
+Thank you,
+Information Risk Management (et)
+Security Resource Request System	
+Directory Line Item		Pending Access Processing
+Directory Name:			Website: Web_Research_Pub
+Service Type:	Grant		
+Expiration Date Comments:			Will send to Vince Kaminski for approval.
+Security Processing Processing Status E-Mail Message Comments/Justification 
+General Information           	Request:	KGME-4JTF4C  
+Requested By:	Kevin G Moore/HOU/ECT	Phone:	713/853-4710
+Requested For:	Elena Chilkina/HOU/ECT	Employee Type:	
+Company:	100038	RC #:	0011
+Priority:	High		
+Comments/Justification:			She will need the same as Michael Sergeev . A few has 
+been listed there may be
+some others that are not listed. Please apply.
+Editing History (Only the last five (5) are shown)	
+Edit #	Past Authors	Edit Dates	
+1	Information Risk Management 	05/02/2000 09:03:15 AM 	
+Ehud,
+Sorry I shall miss you on Thursday.
+I shall definitely attend you presentation at Power 2000.
+I shall ask about a guest accounton EOL. Typically, such an account allows
+an outside user to take a look at the system, but I don't think the traders 
+will allow
+systematic access to the price data over a long period of time by a third 
+party.
+Vince
+Vince,
+Greetings.
+I am following up at this time with respect to the above issues we
+discussed in San Antonio.
+1.  I am leaving Thur. morn for Philadelphia, and shall not be back until
+late Fri.  (My ETD is 9:40 a.m., which I understand is less than an hour
+before your arrival ...)  Thus I shall regrettably miss your current UT
+visit, which we had hoped to also use as an opportunity to present/discuss
+my enterprise-wide risk management model.
+2.  That said, I shall be presenting an abridged version of this model at
+Power 2000's first day, 5/9 4:15 - 4:55 p.m.  While I realize you'll be
+very busy over Power 2000's two days, should your schedule permit, I should
+most welcome the opportunity for you to see the model.
+3.  Per your suggestion in San Antonio, I would like to take this
+opportunity to inquire whether I might obtain an Enron On-Line account to
+obtain electricity prices quoted by Enron.
+I look forward to seeing you at Power 2000 Ehud
+Department of Finance
+College and Graduate School of Business
+University of Texas at Austin
+Austin, TX. 78712-1179
+Voice:  (512) 471-5853
+FAX:   (512) 471-5073
+Internet:  eronn@mail.utexas.edu
+Joe Pokalsky
+Cason 3015 
+Houston, TX 77056
+Phone  (770) 393 7411 (o)
+Anjam,
+It makes sense to come to Houston for a longer time period.
+I think that you should spend here at least 3 weeks.
+Vince
+Anjam Ahmad
+04/28/2000 05:47 AM
+Hi Vince,
+One of my only windows of opportunity right now is to schedule the Houston 
+visit for Monday 10th July for a single week only.
+,
+Anjam
+Steven Leppard
+28/04/2000 10:15
+Vince, Dale
+Here are our proposals for Houston visits from our group:
+Kirstee  All of July, all of September. (Kirstee's personal commitments mean 
+she needs to be in the UK for August.)
+Ben  All of October.   (No crossover with Kirstee, ensures VaR/Credit cover 
+in London office.)
+Steve  2-3 weeks in July, first 3 weeks of September.
+Anjam  To be arranged at Anjam and Houston's mutual convenience.
+Matt  Not a permanent Research Group member.  I'm asking Richard's group to 
+pay for his visit, probably in August.
+Steve
+Attached are our contingent Call Options Trading Limit request.  Could you 
+please review and I will (hopefully) get your signature on Monday.  Thanks 
+and have a great weekend.
+John
+VKaminski@aol.com on 04/30/2000 11:08:30 AM
+La m,moire ambigu% du communisme
+Mis . jour le samedi 29 avril 2000
+L'_VOCATION de la terreur exerc,e par les r,gimes communistes, qu'on pouvait
+supposer - et esp,rer - voir passer de la triste r,alit, au d,bat historien,
+tend . se transformer chez certains de ses d,nonciateurs les plus virulents
+en une v,ritable croisade pour la m,moire. Une croisade qui croit trouver sur
+sa route l'obstacle d'une autre m,moire ,mergente : celle de la Shoah, avec
+laquelle elle s'obstine . entrer dans une p,nible r concurrence _.
+Nul doute que le chapitre introductif du Livre noir du communisme, paru en
+France . l'automne 1997 et publi,, depuis, dans seize pays - texte dans
+lequel l'historien St,phane Courtois plaide pour un r Nuremberg du communisme
+_ -, a contribu, . lib,rer ce genre d'offensive. Contre qui ? Contre l' r
+int,grisme de la m,moire _ et le r monopole du crime contre l'humanit, _ que
+s'arrogeraient des r individus _ dans la r communaut, juive _, ce qui
+expliquerait le d,s,quilibre entre la m,moire du nazisme et celle du
+communisme. Tels sont les termes utilis,s par St,phane Courtois dans un
+entretien accord, . Politique internationale et que critique Marc Lazar,
+professeur . l'Institut d',tudes politiques de Paris, dans la derniSre
+livraison de la revue Communisme (L'Age d'homme, no 59-60).
+Ce combat, qui se couvre de l'autorit, scientifique et s'autorise de
+l'empathie que provoque le bilan meurtrier des pays communistes, est de
+nature plut"t id,ologique. Plus qu'en France, un v,ritable r effet-Livre noir
+_ se fait sentir dans les pays naguSre soumis . la sphSre d'influence
+sovi,tique, o- de tels discours conduisent . de multiples d,rives ; entre
+autres au retour inqui,tant d'un mythe refoul,, celui du r jud,o-bolchevisme
+_. Dans cette logique, les victimes de la Shoah se seraient, aprSs 1945,
+m,tamorphos,es en bourreaux staliniens. D'o- l'id,e que ces derniers auraient
+aujourd'hui r int,rt _ . imposer le silence sur leurs r m,faits _.??Franchissant un pas de plus et mettant en ,vidence la proportion d'agents?d'origine juive dans l'administration sovi,tique, et notamment dans le NKVD,?certains flirtent avec une application ,tendue de la th,orie du r noyau?rationnel _ chSre . l'historien allemand Ernst Nolte.?????Sans nier la Shoah, cette th,orie consiste . avancer l'hypothSse que le?g,nocide juif aurait constitu, une r violence r,active _ face . un?bolchevisme lui-mme quelque peu r enjuiv, _. Que la proportion de juifs
+europ,ens engag,s activement dans le communisme ait ,t, infime, voire
+marginale, puisque, politiquement, la majorit, des juifs se sont r,partis au
+cours du XXe siScle entre sionisme, social-d,mocratie, orthodoxie ou
+assimilation, que le juda<sme sovi,tique et est-europ,en ait lui-mme?consid,rablement souffert de la terreur stalinienne, ne font rien . l'affaire?: insidieusement . l'Est, la vieille th,matique du r jud,o-bolchevisme _?paraOt faire son chemin, y compris jusque dans les cerveaux les plus savants.??Dans des pays fragilis,s par l'exp,rience du communisme r,el, par exemple en?Roumanie, cette configuration doit tre replac,e dans le cadre d'une
+entreprise de refondation identitaire qui ,prouve le besoin de se nourrir
+d'une confrontation permanente avec la m,moire juive. Des r lobbies _
+suppos,s y sont couramment accus,s de tenter - ,ventuellement sur la base
+d'une conspiration - de jeter un voile d'oubli ou d'ignorance sur des crimes
+dont les juifs sont parfois d,sign,s comme les auteurs. Pour des soci,t,s
+hant,es par la reconqute d'une fiert, nationale mise . mal par des d,cennies?de dictature et d'humiliation, pareil ,chafaudage th,orique, pour branlant?qu'il soit, a l'avantage de repr,senter une merveilleuse fabrique d'innocence.??Pourtant, le totalitarisme communiste a, . c"t, de la pr,sence des troupes du?pacte de Varsovie et comme toutes les dictatures contemporaines,?n,cessairement repos, aussi sur un tissu de compromission quotidienne avec le?pouvoir. Affronter cette douloureuse r,alit,, plus de dix ans aprSs la chute?du mur, demeure difficile. Le dissident tchSque Vaclav Havel fut peut-tre
+l'un des premiers . mettre en garde ses concitoyens contre les tentations
+victimaires et l'ext,riorisation syst,matique de la cause du mal. Ne leur
+disait-il pas, dSs janvier 1990 : r Nous qui nous sommes tous habitu,s au
+systSme (...), nous sommes tous en mme temps, chacun dans une mesure?diff,rente, ses cofondateurs. (...) Il ne serait pas raisonnable de?consid,rer le triste h,ritage des derniSres quarante ann,es comme quelque?chose d',tranger qui nous a ,t, l,gu, par un parent lointain. _??Les d,rives qui s'autorisent d'une certaine lecture du Livre noir indisposent?une partie de ses auteurs dont quelques-uns avaient, dSs la parution de?l'ouvrage, tenu . prendre leur distance avec le texte introductif.??  TENDANCE ? LA VICTIMISATION??C'est aujourd'hui un proche de St,phane Courtois, Marc Lazar, qui lui?reproche de juger, sans v,ritablement argumenter, que r ce qui s'est pass, .?Auschwitz se retrouve grosso modo en URSS et dans d'autres pays communistes?_. Marc Lazar replace la d,marche de St,phane Courtois dans le cadre d'une?interpr,tation de la m,moire en termes de manipulation, qui pr,tend la?r,duire . une r conception strat,gique _, ourdie par des r acteurs collectifs?parfaitement organis,s et poursuivant des objectifs clairs et coh,rents _.?Cette tendance semble s,duire un nombre croissant d'historiens, bien qu'elle?soit fond,e sur une vision assez fruste des ph,nomSnes de m,moire, processus?sociaux aux contours toujours complexes dont la dynamique demeure?difficilement maOtrisable.??Quoi qu'il en soit, Communisme semble ici tomber dans les piSges de?l'histoire-m,moire en publiant un texte d'hommage au grand historien roumain?Georghe Bratianu. Si Georghe Bratianu fut bien victime de la version roumaine?du stalinisme en 1953, on ne saurait minimiser non plus, comme le fait?l'auteur, l'universitaire britannique John Rogister, qu'il fut aussi l'un des?artisans du rapprochement de son pays avec l'Allemagne nazie et un?nationaliste belliqueux. Tous les morts du communisme ont certes droit au?respect. Mais ce statut de victime ne rend pas forc,ment l'ensemble de leur?action digne d'un ,loge inconditionnel.??Jean-Louis Margolin, qui a sign, dans Le Livre noir les contributions sur le?communisme asiatique, r,sume ironiquement ce qui provoque la r,ticence d'une?partie des auteurs : r Dans les pays d'Europe orientale, ,crit-il, le?communisme, contraire aux nobles et saines traditions nationales, serait?toujours surimpos, de l'ext,rieur. Pour ceux qui furent soumis . la puissance?russe, le coupable est ais, . trouver. Pour les Russes, la cause est moins?entendue, mais qu'. cela ne tienne : suivant le go-t du jour on accusera les?Allemands, les juifs ou... Lucifer. _ En Europe de l'Est, cette tendance . la?victimisation est politiquement dangereuse. L'exemple serbe montre . quel?point elle peut aboutir . la l,gitimation de la violence nationaliste. Raison?de plus pour ne pas l'encourager depuis Paris.??  Nicolas Weill????Le Monde dat, du dimanche 30 avril 2000?????Zimbabwe : la fuite en avant de Robert Mugabe, par Fr,d,ric Fritscher???  Mis . jour le jeudi 27 avril 2000???H,ros incontest, de la guerre d'ind,pendance du Zimbabwe, chantre reconnu de?la lutte antiapartheid et, avec l'ancien pr,sident zambien Kenneth Kaunda,?animateur virulent de l'organisation des pays de la ligne de front contre le?r,gime de Pretoria, Robert Mugabe n'est plus aujourd'hui qu'un personnage?anachronique. Desmond Tutu, l'ancien archevque anglican du Cap, Prix Nobel
+de la paix en 1984, le d,crit comme r la caricature de ce que le monde pense
+que les dirigeants africains noirs sont _.
+Les propos du pr,lat reflStent la d,ception des dirigeants sud-africains. Ils
+r,sument aussi l'opinion publique du Zimbabwe, o- le pr,sident Mugabe vient
+d'essuyer deux camouflets successifs. La population consult,e par r,f,rendum,
+le 12 et le 13 f,vrier, sur de substantielles modifications de la
+Constitution, qui avaient pour objectif essentiel de consolider les pouvoirs
+pr,sidentiels, a r,pondu r non _ - . 54,6 % - aux questions qui lui ,taient
+pos,es. Supportant difficilement la d,rive autocratique du r,gime, les
+Zimbabw,ens ont, en fait, dit r non _ . Robert Mugabe, plut"t qu'. une
+nouvelle Constitution dont le texte avait ,t, assez peu comment, publiquement.
+La publication, un mois plus tard, le 10 mars, des r,sultats d'un sondage
+r,alis, par Probe Market Research, un institut reconnu, li, . Gallup
+International, pour le compte de la fondation sud-africaine Helen Suzman pour
+la promotion de la d,mocratie, confirme le ras-le-bol des Zimbabw,ens, dont
+65 % souhaitent le retrait de la vie publique du pr,sident, qui vient de
+fter ses soixante-seize ans. Ils espSrent aussi, . 63 %, un changement de?gouvernement et cela jusque dans les zones rurales, o- l'Union nationale?africaine du Zimbabwe-Front patriotique (Zanu-PF), le parti au pouvoir, est?solidement implant,e.??DISCOURS POPULISTE??Le sondage indique clairement que les Zimbabw,ens sont avant tout pr,occup,s?par le ch"mage, la flamb,e des prix, les vicissitudes de leur quotidien, et?qu'ils restent insensibles, . 80 %, aux arguments du chef de l'Etat accusant?les Blancs rest,s au pays aprSs l'ind,pendance d'tre responsables des
+difficult,s ,conomiques actuelles.
+Seule une petite minorit, des sond,s (9 %) estime que la r,forme agraire,
+pr,sent,e comme primordiale par le gouvernement, est un dossier essentiel.
+L'opinion publique ne bl?me pas les fermiers blancs pour le blocage de la
+r,forme, mais le gouvernement lui-mme (74 %). Etrange paradoxe, puisque,?dans le mme temps, le mouvement d'occupation des propri,t,s appartenant .
+des fermiers blancs par les anciens combattants de la guerre d'ind,pendance,
+les r v,t,rans _, lanc, le 28 f,vrier . l'instigation du pr,sident Mugabe,
+continue de s',tendre.
+Les r v,t,rans _, soutenus par la Zanu, affirment qu'ils ne font que
+reprendre les terres vol,es . leurs anctres par les Blancs au siScle?dernier, dans cette ancienne colonie britannique. L'opposition politique?accuse le pr,sident Mugabe d'avoir organis, l'occupation des terres pour r?punir _ les Blancs, qu'il rend responsables du rejet de la nouvelle?Constitution lors du dernier r,f,rendum.??Plusieurs personnes ont trouv, la mort au cours des derniSres semaines. Avec?la complicit, passive de la police zimbabw,enne, les r v,t,rans _ ont?assassin, deux fermiers blancs ainsi que deux militants noirs du Mouvement?pour le changement (MDC), principale formation de l'opposition, br-l,s vifs?dans l'incendie de leur voiture, et un policier en civil. Ils ont ,galement?viol, deux femmes blanches, parentes d'un responsable influent du Syndicat?des fermiers commerciaux (CFU).??Robert Mugabe continue n,anmoins de soutenir fermement les anciens?combattants. La Haute Cour de justice a, par deux fois, d,clar, les?occupations des fermes ill,gales et ordonn, leur ,vacuation. Par deux fois,?le pr,sident a refus, de faire appliquer les d,cisions de justice,?interdisant mme aux forces de police d'intervenir. Dans sa fuite en avant,
+M. Mugabe a choisi encore une fois de prendre la minorit, blanche comme bouc
+,missaire. Le proc,d, n'est pas nouveau. Il constitue depuis vingt ans un des
+thSmes r,currents de son discours populiste. Il a trait, les fermiers blancs
+d' r ennemis du Zimbabwe _ le jour mme o- l'un d'entre eux ,tait l?chement?assassin,. L'an dernier, . l'occasion de son soixante-quinziSme anniversaire,?il avait estim, que les Blancs zimbabw,ens devaient r demander pardon pour?leurs p,ch,s pass,s _. r Il ne faut pas leur laisser le sentiment, parce?qu'ils contr"lent l',conomie, qu'ils sont nos maOtres. Le combat est clair,?c'est Noirs contre Blancs _, avait-il ajout,.??Le problSme foncier est crucial au Zimbabwe, o- Robert Mugabe promet aux r?v,t,rans _ une redistribution ,quitable des terres depuis l'accession?officielle du pays . l'ind,pendance, le 18 avril 1980. Les accords de?Lancaster House, sign,s . Londres le 21 d,cembre 1979, portaient sur les?conditions d'un cessez-le-feu et sur les modalit,s d'accession au pouvoir de?la majorit, noire. Ils ont mis un terme . sept ans d'une guerre sanglante?entre le r,gime blanc de Ian Smith - qui avait d,clar, unilat,ralement?l'ind,pendance de la Rhod,sie en 1965, pour pr,venir l'avSnement d'un pouvoir?noir - et les nationalistes conduits par Robert Mugabe et Joshua Nkomo,?codirigeants du Front patriotique. Mais ces accords pr,voyaient ,galement une?aide internationale . la r,forme agraire pouvant atteindre 2 milliards de?dollars. De l'aveu mme de Robin Cook, le ministre britannique des affaires
+,trangSres, la Grande-Bretagne - ancienne puissance coloniale - n'y a
+contribu, qu'. hauteur de 70 millions de dollars.
+M. Mugabe avait fait adopter, le 19 mars 1992, par le Parlement, une loi
+permettant d'exproprier les riches fermiers blancs pour installer sur leurs
+vastes propri,t,s un grand nombre de petits paysans noirs. Poursuivant son
+dessein, il avait fait publier, le 28 novembre 1997, la liste officielle des
+1 500 propri,t,s que le gouvernement souhaitait r nationaliser _ pour les
+redistribuer. L'expropriation portait sur quelque 5 millions d'hectares, la
+moiti, des terres exploit,es par des fermiers blancs, et ne devait donner
+lieu . aucune indemnisation.
+Cependant, au cours des vingt derniSres ann,es, les quelques propri,t,s
+rachet,es ou r,quisitionn,es par les autorit,s ont ,t, redistribu,es non pas
+. de petits paysans noirs comme elles auraient d- l'tre, mais . des membres?de la nomenklatura, dirigeants de la Zanu ou proches de la famille Mugabe.??N_POTISME ET CORRUPTION??Le n,potisme et la corruption sont deux des principaux reproches adress,s par?l'opposition et la population au r,gime de M. Mugabe, qui subit, depuis?d,cembre 1997, une pression populaire croissante. Le r,gime fait le choix de?l'autoritarisme et la d,rive personnelle du pouvoir devient ,vidente lorsque,?en ao-t 1998, Robert Mugabe d,cide, sans consulter ni le Parlement ni le?gouvernement, d'envoyer un corps exp,ditionnaire en R,publique d,mocratique?du Congo (RDC, ex-Za<re) pour voler au secours de Laurent-D,sir, Kabila,?menac, par une r,bellion interne et ses voisins ougandais et rwandais. Les?Zimbabw,ens s'interrogent sur la n,cessit, d'engager ces 11 000 soldats dans?un conflit lointain, qui co-te quelque 30 millions de dollars chaque mois .?un pays en plein marasme ,conomique.??C'est dans ce contexte peu favorable, somme toute, que le pr,sident Mugabe?entend conduire la Zanu aux ,lections l,gislatives pr,vues en mai. Et pour la?premiSre fois depuis l'ind,pendance, la Zanu - qu'il voulait transformer en?parti unique en 1990, alors que le multipartisme bourgeonnait partout sur le?continent - risque fort d'tre bouscul,e par l'union possible de l'opposition=20
+autour du MDC, fond, par l'ancien dirigeant syndicaliste Morgan Tsvangirai.
+Fr,d,ric Fritscher
+Le Monde dat, du vendredi 28 avril 2000
+Comment d,couper Microsoft ?, par Fran?ois L,vque???  Mis . jour le vendredi 28 avril 2000???Le d,mantSlement de Microsoft est envisag, pour mettre fin aux pratiques?anticoncurrentielles de l'entreprise de Redmond. Dans quel sens d,couper la?soci,t, et en combien de morceaux ? Il y a plusieurs solutions possibles mais?il est difficile d'en choisir une.??Une premiSre option consiste . d,couper Microsoft selon un trait horizontal?qui s,parerait les activit,s d,di,es aux logiciels d'application de celles du?systSme d'exploitation. Ce d,membrement en deux morceaux r,sout la question?des produits li,s, comme le rattachement abusif d'Internet Explorer .?Windows, mais n'entame pas le monopole de Microsoft sur le march, des?systSmes d'exploitation pour ordinateur personnel.??DeuxiSme solution : proc,der . un d,coupage vertical qui diviserait?l'entreprise de Bill Gates en mini-Microsofts identiques. Le nombre de ces?Baby Bills (nomm,es ainsi par la presse am,ricaine par analogie avec les Baby?Bells cr,,es lors du d,mantSlement d'ATT) doit tre au moins de trois pour
+instaurer la concurrence.
+Un troisiSme d,membrement envisageable est de combiner divisions horizontale
+et verticale. Il donnerait naissance . quatre entreprises : trois Baby
+Windows, et une Baby Applications, qui conserveraient la libert, d',tendre
+leurs activit,s vers l'amont ou vers l'aval.
+Chacune de ces solutions entraOne des cons,quences diff,rentes pour le
+consommateur et r,clame des mesures d'accompagnement plus ou moins co-teuses
+pour l'administration. Le d,membrement en deux morceaux aboutit . la perte
+des ,conomies li,es . l'int,gration verticale (c'est l'id,e que la
+connaissance complSte du systSme d'exploitation permet de d,velopper .
+moindre co-t des logiciels d'application). Ces ,conomies sont toutefois assez
+faibles selon les experts.
+Le co-t du d,mantSlement horizontal serait donc modeste pour les
+consommateurs. Ce qui n'est pas le cas du d,membrement vertical. Les Baby
+Bills vont mener des strat,gies de diff,renciation qui vont conduire . une
+fragmentation des standards. Les nouvelles versions de Windows ne seront plus
+compatibles.
+La troisiSme solution cumule les deux inconv,nients. Sur le plan des
+b,n,fices, le classement s'inverse. En effet, le b,n,fice attendu des mesures
+de d,mantSlement est celui qu'apporte la concurrence (baisse des prix et
+acc,l,ration de l'innovation). Or la concurrence est d'autant plus forte que
+le nombre d'entreprises est grand et qu'aucun monopole ne subsiste sur les
+march,s.
+Le d,mantSlement vertical et horizontal en quatre morceaux laisse esp,rer un
+plus grand b,n,fice que le d,mantSlement vertical en trois morceaux, qui
+lui-mme est plus avantageux pour le consommateur que le d,mantSlement?horizontal en deux morceaux. Du c"t, des co-ts administratifs, le?d,membrement horizontal et vertical est ,galement la solution la plus?avantageuse. La seule t?che des pouvoirs publics est d'empcher les alliances
+et les fusions. Les d,penses de contr"le sont trSs ,lev,es en revanche dans
+le cas du d,mantSlement horizontal. Des mesures de r,glementation, comme la
+tarification administr,e, doivent n,cessairement compl,ter le dispositif
+puisque le monopole de Windows est maintenu intact. Le cas du d,mantSlement
+vertical occupe une position interm,diaire. Il appelle simplement des mesures
+r,glementaires transitoires, comme l'interdiction faite au personnel r,parti
+au d,part dans les trois soci,t,s de changer imm,diatement de Baby Bill (de
+rejoindre par exemple celle qui resterait dirig,e par Bill Gates).
+L'objectif poursuivi par les autorit,s de la concurrence est de servir
+l'int,rt du consommateur. La solution qui devrait tre choisie par la
+division antitrust am,ricaine est donc celle qui maximise l',cart entre le
+b,n,fice apport, par une plus grande concurrence et le co-t induit par la
+perte en ,conomies d'int,gration verticale et de compatibilit,. La
+comparaison entre le d,mantSlement horizontal et le d,mantSlement combin, est
+ici difficile. Dans le premier cas, il faut soustraire un faible co-t d'un
+faible b,n,fice tandis que dans le second, il faut retirer un co-t ,lev, d'un
+b,n,fice ,lev,.
+On peut en revanche ,liminer facilement la solution du d,mantSlement
+vertical. En effet, en compl,tant le d,coupage vertical par un d,coupage
+horizontal, l'intensit, de la concurrence augmente fortement et donc le
+b,n,fice pour le consommateur tandis que ce dernier subit un faible surco-t.
+Restent donc deux solutions possibles que seules des ,valuations chiffr,es
+permettraient de d,partager. Les autorit,s de la concurrence am,ricaines
+s'apprtent . demander un d,mantSlement horizontal, ce qui reflSte sans doute?que la solution combin,e est moins favorable au consommateur.??Si l'objectif poursuivi est l'int,rt g,n,ral - un objectif que l'on peut
+prter aux juges - le choix de d,mantSlement doit aussi tenir compte des?co-ts des mesures de contr"le pour l'administration. La solution . retenir?n'est alors plus forc,ment la mme puisqu'il s'agit maintenant de maximiser
+le gain pour le consommateur net du co-t administratif. Si les ,conomies pour
+l'administration que permet de r,aliser le d,mantSlement horizontal et
+vertical l'emportent sur la r,duction du gain pour le consommateur (due en
+particulier . la fragmentation des standards), la cr,ation de trois Baby
+Windows et d'un Baby Applications est une meilleure solution. Rien ne dit
+donc que le juge Thomas Penfield Jackson retiendra l'option de d,mantSlement
+en deux morceaux propos,e aujourd'hui par les plaignants.
+Fran?ois L,vque  est professeur d',conomie . l'Ecole nationale sup,rieure?des mines de Paris. par Fran?ois L,vque
+Le Monde dat, du samedi 29 avril 2000
+Maureen,
+This is to remind you that we scheduled, at your request,
+regular weekly meetings. We are supposed to meet every
+Friday at 8:00 a.m.
+If I am not at the office, the meeting will be rescheduled.
+Vince
+FYI
+Vince
+Nick Bambos  Vince,
+How are you? Hope all is well.
+Is there any chance we can schedule my visit to Enron on Friday, May 19,
+or Friday, May 26?
+By the end of April I was able to attract a top new student to work on the 
+project.
+The other one for the coming year will be Giuseppe. By spending the summer
+at Enron, he will be in a position to bring the new one up to speed and
+create an intellectual team here at Stanford to look at these problems.
+I must move ahead soon to put the project in place and get the work going.
+Talk to you soon,
+Nick
+Vince.J.Kaminski@ wrote:

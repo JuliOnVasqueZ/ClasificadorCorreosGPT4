@@ -1,0 +1,3 @@
+Retail VirusScan Users:  Version 4.0.70 and above with DAT
+file 4139 will detect and remove this virus. Update your DAT
+files now, click here.

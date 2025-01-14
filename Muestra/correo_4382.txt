@@ -1,0 +1,247 @@
+Shirley,
+Please, register me for this.
+Vince
+David Ikenberry  Andres Almazan
+Don Chew
+John Freeman
+Geoge Gau
+Vince Kaminski
+Bob Marchesi
+John Martin
+Vojislav Maksimovic
+Laura Starks
+Art Warga
+Michael Weisbach
+Dear Friends
+Attached is some registration and logistical information relating to the
+upcoming corporate finance conference on May 4-5 in Houston.  If you have
+any questions, please don't hesitate to contact Sheridan, Bob or myself.
+The program is shaping up nicely, however one of us may draft to serve in
+some small, but helpful capacity.
+Sheridan Titman, 512.232.2787, titman@mail.utexas.edu ,
+Bob Parrino at parrino@mail.utexas.edu
+Dave Ikenberry, 713.348.5385 , daveike@rice.edu
+As of today, the list of firms sending a representative include:
+Pfizer
+Pacificare
+Cooper Industries
+RadioShack
+Pepsi
+Delphi Automotive
+Microsoft
+Whirlpool
+Enron
+Johnson Controls
+Airgas
+Sara Lee
+Dell
+Conoco
+- particpate registation details.doc
+Prof. David Ikenberry
+Jones Graduate School of Management
+Rice University
+713-348-5385
+John,
+This is the update on what I have done for the LNG transactions.
+1. I was not involved in the LNG ship project. I shall  read the DASH 
+and give you my comments. Without looking at the details, I think that the 
+decision
+to charter a tanker removes one significant risk we have at the Elba Island 
+project (please, see point 2).
+2. Elba Island. I am working with Doug Rotenberbg, Brad Hitch, Scott Earnest 
+(Sally Beck's organization) and RAC to set up the book for the Elba Island 
+transaction. The next step
+will be to expand the book to capture all the Enron's LNG-related  positions  
+in one place and
+to look for natural risk offsets and possible hedges. A working group is 
+meeting to close a few
+remaining gaps  tomorrow (Tuesday) at 8:30.
+A few comments on the book design and my view of the project:
+a. The current thinking is that LNG will be sourced for the Elba Island 
+facility
+by buying marginal cargos on the fob basis. Marginal cargos will represent
+supply from excess capacity that has not been committed under long-term
+contracts or became available due to some short-term frictions.
+The fob cargos are typically selling at a significant discount to the 
+long-term
+contract prices. The economics of the deal, as represented by the book we are 
+setting up, will reflect the assumption that not only we can locate marginal 
+cargos
+but that we shall be able to do it on a regular basis, arranging shipping and 
+coordinating
+the facility schedule and natural gas transactions in the US. In other words,
+we have a significant logistical and operational risk in this transaction.
+b. The transaction will cover the period of 17 years (with an extension 
+option of
+5 years). Even if we can lock-in the LNG volumes over this time period, we
+have no ability to lock-in the other side of the spread (US gas prices) for 
+such a long tenor. This is  
+essentially a tolling transaction with exposure to the LNG - nat gas spread 
+and
+I would not recommend locking-in only one leg of the spread.
+One solution would be to  cover, let's say, 50% of he LNG volumes for the 
+first
+5 years and lock-in the nat gas side on the US market side.
+c. The book we are setting up will be based on many managerial assumptions
+regarding sources of LNG, shipping rates, schedules, etc. I would set up a 
+big prudence reserve
+in case we mark it to market.
+d. My group will work on valuation of some options we have in the Elba Island 
+deal
+(that are good for Enron) and on the hedging strategy for the LNG positions.
+Long-term LNG contracts are typically based on the Japanese Crude Cocktail 
+that 
+correlates very well with Brent.
+Vince
+John Sherriff
+05/14/2000 01:40 AM
+Vince
+I haven't spoken to you for awhile but hope the world is treating you well Anyway with Greg moving to his
+new role I have (I hope only temporarily) staff trading oversight for the 
+Eastern Hemishere plus LNG.
+I understand that your group is taking a first cut at developing curves for 
+LNG and LNG ship values.   I also understand
+that another LNG ship decision is on the dockets for May 19 (not very far 
+away).  Anway I understand this
+is a big decision but I still have gotten very little info yet.  Can you 
+please let me know where you stand now?
+I will ask my assistant Lauren to set up a time that I can speak with you in 
+the next couple of days and if you
+have anything for me to review before then she can get it faxed to me as well.
+Look forward to connecting with you Vince.
+John
+Celeste,
+I am forwarding you a letter from Prof. Duane Seppi from Carnegie Mellon 
+University.
+I have known Duane for many years and I know that he does not make his
+recommendations without very good reasons.
+I would recommend looking at John Gordon as a very strong candidate:
+I think he will make a terrific contribution to Enron.
+Vince
+ds64@MAIL1.ANDREW.CMU.EDU on 05/12/2000 01:30:14 PM
+Dear Vince,
+I am writing to bring to your attention a GSIA student, John Gordon, who is
+currently being considered for Enron's Associates program.  My understanding
+is that Mark Courtney and Andrew Miles at Enron are championing John as a
+late addition to the program.
+While I know Enron doesn't routinely recruit at GSIA, John would be an ideal
+candidate if you are willing to make an exception.  He is a terrific finance
+student with a strong transcript; including an A+ in my Options class. Since
+John has an engineering/energy background, he asked early on for additional
+background reading about finance and energy.  John is personable and
+outgoing.  Normally the job market for someone of John's caliber would have
+already cleared, but I have been told that there are dual career issues at
+play here.
+I would be very appreciative if you would take a look at John.  A copy of
+his resume is attached to this email.
+,
+Duane
+Duane Seppi
+Graduate School of Industrial Administration
+Carnegie Mellon University
+Pittsburgh PA  15213-3890
+tel. (412) 268-2298
+fax (412) 268-8896
+email ds64@andrew.cmu.edu
+- John Gordon's Resume
+piazzet@wharton.upenn.edu
+Shirley,
+Please keep it on your radar screen.
+Vince
+Sue Wadsworth@MUNICATIONS
+05/11/2000 05:16 PM
+Scott Yeager has requested I set up a meeting for Mark Keeter to present to 
+the group his findings for the 6 month study of Managing Global 
+Network/Application Service Platform and include managing QoS end to end 
+How does Tuesday May 23 in the morning look for everyone Mark, how long do you need I will schedule the conference room for.
+Also please let me know if anyone else should be invited.
+Sue Wadsworth
+EB4590A
+713-853-5105
+Phelim Boyle   Vince 
+Thanks again for agreeing to speak at our conference. 
+It is attracting considerable interest 
+Is it possible for you to send us copies of your slides by May 18 to meet our 
+deadline for 
+preparing the material.? If you have? a related paper available that covers 
+some of the same material that would do instead but 
+naturally we would prefer the slides. 
+I would like to mention again the?? the pre-conference dinner at 
+7 pm on Sunday May 30 for the speakers 
+We hope very much you can be present 
+I was also hoping you would be available for the last? session of the day to 
+be panel member 
+The provisional title? is 
+Managing Risk in Illiquid Markets 
+The chair is Pat Concessi of Deloitte and Touche 
+The panel last from 3.30 until 4.30 and we would like panel members should 
+speaker for 
+a few minutes and take questions from the floor. 
+In the meantime if you have any questions please let Amy or myself know 
+Sincerely 
+Phelim P Boyle 
+? 
+Phelim P Boyle 
+Director 
+Centre for Advanced Studies in Finance, 
+University of Waterloo, 
+Waterloo, Ontario 
+Canada N2L 3G1 
+Tel? 519 885 1211(6513) 
+Fax 519 888 7562 
+? 
+Betty,
+Thanks.
+Vince 
+Betty Alexander@_DEVELOPMENT
+05/12/2000 10:35 AM
+Vince -
+I couldn't have been more pleased than when I saw your name on the Managing 
+Director promotion list last January - who says nice guys finish last 
+I've had the announcement in my "to do" folder all this time, waiting for me 
+to catch up enough to send you this message, but I guess you're no stranger 
+to that scenario 
+Nothing stochastic about it, you're simply the best!
+Betty 
+Greg,
+As you may know, Brad Romine's dot.com venture fell apart.
+The offer from Enron looks much better now. I have arranged for him
+a number of different interviews (including one with you). I think we should 
+not be too
+punitive and give him the 2nd chance. I am also setting up for him interviews 
+with RAC
+and EBS  and he should be able to negotiate a good first rotation.
+Please, give me a call if you have any other question.
+Vince Kaminski
+Sue,
+I shall be available.
+Vince
+Sue Wadsworth@MUNICATIONS
+05/11/2000 05:16 PM
+Scott Yeager has requested I set up a meeting for Mark Keeter to present to 
+the group his findings for the 6 month study of Managing Global 
+Network/Application Service Platform and include managing QoS end to end 
+How does Tuesday May 23 in the morning look for everyone Mark, how long do you need I will schedule the conference room for.
+Also please let me know if anyone else should be invited.
+Sue Wadsworth
+EB4590A
+713-853-5105
+Nick,
+The airport is about 30 minutes  by cab from the office (1400 Smith).
+The best hotel is either Hyatt Regency Downtown or Doubletree 
+Downtown (it is important to emphasize Downtown when making
+reservations). The hotels are within a walking distance
+from  the Enron building.
+We can make reservations  for dinner around 6:30 - 7:00
+in a resturant  within 10 minutes by car from the hotel.
+By the way, we shall be very glad to reimburse you for the trip related 
+expenses.
+Vince
+Nick Bambos  Vince,
+Yes, that would be ideal. But let me call first my travel agent to
+see if there is a flight that would satisfy all the other
+constraints. What time should I be at Enron on Thursday, and how far is
+the airport from your offices?
+Thanks,
+Nick
+Vince.J.Kaminski@ wrote:

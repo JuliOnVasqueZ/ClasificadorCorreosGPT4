@@ -1,0 +1,587 @@
+Rose,
+I could not open the attachments.
+Vince Kaminski
+rose.o.perez@us.arthurandersen.com on 03/17/2000 11:03:19 AM
+Please find attached the ERMA meeting notice and annual application for
+membership information.
+(See attached file: ERMA Meeting Letter.doc)
+(See attached file: ERMA Meeting Letter 03-28-00.doc)
+- ERMA Meeting Letter 03-28-00.doc
+rose.o.perez@us.arthurandersen.com on 03/17/2000 11:03:19 AM
+Please find attached the ERMA meeting notice and annual application for
+membership information.
+(See attached file: ERMA Meeting Letter.doc)
+(See attached file: ERMA Meeting Letter 03-28-00.doc)
+- ERMA Meeting Letter 03-28-00.doc
+Shirley,
+Yes, It will be  a swap of one machine for another.
+Vince
+Shirley Crenshaw
+03/17/2000 12:17 PM
+Vince:
+Is this ok to order?
+Clayton Vernon@
+03/17/2000 09:34 AM
+Mark-
+Shirley will order an 800 MHZ machine with 512 MB of RAM, and a large (17 flat-screen monitor for me.
+Clayton
+Mark Davidson
+03/17/2000 08:52 AM
+Clayton-
+Sorry it took so long to get back to you.  There are a couple of things to 
+keep in mind:
+-Enron IT supports Enron equipment.
+-All equipment must be purchased through "Enron IT Purchasing"
+Our current high end desktop is a 800 MHZ pentium III machine with 128M of 
+RAM.  You can bump up the RAM to whatever you feel is appropriate. When the 
+1GHz processors come out (in the very near future) that will become our 
+standard.
+What we want to avoid is getting equipment that we do not have a image for The "image" is the complete package of software that we put on a machine when 
+it is deployed.  If you go out and buy a machine that we do not have a image 
+for, we can't support it for a multitude of reasons. 
+Hopefully this answered your questions/concerns.
+If not, please call me so that we can discuss this further.
+Thanks
+Mark Davidson
+x 39038
+Clayton Vernon
+03/14/2000 03:39 PM
+Mark-
+I have developed a model for Enron that requires ultra-high-end PC 
+performance (it does many calculations in Excel), and my boss has authorized 
+me to buy whatever PC I need. I'm looking at the Compaq 850, but Richard (our 
+floor rep) says no PC's over the 600 series will be supported by IT. I need 
+to resolve this issue; we are sophisticated buyers, we know the type of 
+machine we want, and we have the money to pay for it.
+Sincerely,
+Clayton Vernon
+Manager, Research
+Ravi,
+This is a resume of Shirley's daughter.
+Do you know if somebody in EBS is looking for a secretary?
+Vince
+Shirley Crenshaw
+03/17/2000 03:13 PM
+Here is Kathy's Resume.  Thanks so much for your interest!
+Anjam Ahmad
+03/17/2000 11:44 AM
+Dear all,
+Firstly, apologies for the delay in finalising this study; a considerable 
+amount of data analysis was required.  The idea is to aggregate monthly, 
+weekly and daily volatilities such that we can price individual options on 
+half hours into the future.  We have a reliable methodology for the monthly 
+vol curve at the EFA slot level.  The first issue to address was to use a 
+"reverse basvol" to estimate the monthly vol curve at the half-hourly level 
+of detail.  This required an estimation of half-hourly price return 
+correlations.  This resulted in a scaling factor of approximately 1.30 that 
+is applied to all EFA vols to convert to half-hourly (the scaling factors are 
+slightly different by EFA slot, but not by nearly as much as might be 
+expected 
+For the weekly and hourly half hourly vols, a historical analysis was carried 
+out on the past few years data; a weighting-scheme was applied to add more 
+emphasis to standard deviations calculated on more recent data 
+COMBINING THE VOLATILITIES
+The idea is to let the monthly vol curve get us to the start of the month and 
+then assume that all half hours are positioned at 2 weeks and 3 days into the 
+next month.  The volatility is aggregated using these time-weightings to 
+ensure that we don't have a wildly different volatility for the options at 
+the start of a month and at the end of a month.  Below is an example for half 
+hour #38:
+I put the spreadsheet HalfHourlyVolModel.xls into the public directory, 
+S:\RESEARCH\ANJAM\HHOPTIONVOLMODEL\. I suggest we use the matrix of forward 
+volatilities on the summary page and see what kind of numbers we get.  There 
+may need to be some fine-tuning of the time-weightings, but in general, I 
+believe we can start utilising these semi-final numbers.
+,
+Anjam
+x35383
+Jana,
+Great  attachment. Thanks.
+Saturday, March 25 works for me. I shall call or E-mail you from California to
+talk about the time. Early afternoon would be great.
+Vince
+Jlpnymex@aol.com on 03/17/2000 10:58:54 AM
+Vince,
+How about Saturday, March 25? Call or email me next week, to let me know what
+time would be good for you.  Have a good trip to California and a Happy St.
+Patrick's Day today!
+jana
+10:06:26 -0500
+mta3.rcsntx.swbell.net (Sun Internet Mail Server 
+2000 09:04:52 -0600 (CST)
+Date: Fri, 17 Mar 2000 08:57:53 +0000
+- stpat.exe
+Paula,
+Happy St. Patrick's Day.
+Vince
+Steve,
+Yes, please arrange the interview. The resume is very interesting.
+I shall be on vacation all of next week; you can make arrangements
+for the following week, Monday through Thursday. Please, include
+Stinson, Grant and Vasant.
+Vince
+Steven Leppard
+03/17/2000 03:36 AM
+Hi Vince
+I met with Thomas this morning (I gave you his CV before, though I don't know 
+if you had time to read it).  He's extremely interested in moving to Enron, 
+and accepts that our work is far less academic than his postdoc research, 
+although far broader than his investment banking quant experience.  He 
+remains interested, and emphasised he wants to stay close to the traders, but 
+wants to look at new markets and products.  I think we should seriously 
+consider hiring him.  He is (understandably) reluctant to move to Houston, 
+but there's no doubt that there is plenty of (unnmet) demand for derivatives 
+pricing (and thinking) here in London.
+Would you be interested in my setting up a videoconference in the next couple 
+of weeks so you have a chance to chat with him?  I'm meeting with him again 
+on Tuesday at an academic quant finance seminar organised by Lane at King's 
+College.  I've attached his CV for your reference.
+All the best,
+Steve
+Vadim,
+I am distributing your message internally to people who might be interested 
+in your product.
+Vince
+Dear Mr. Kaminski,
+Attached, there are 2 new samples of our daily market research: today's
+issue of the morning faxes Fixed Income Today and Financial Markets Today.
+We also have intraday market coverage, on Bloomberg: IDEA>GO, Reuters: IDUS,
+and Bridge/Telerate.
+If the info looks useful, we'd like to arrange a free 30-day trial for you
+and your colleagues.  For your reference, please find our price list
+attached.  I look forward to your reply.
+,
+Vadim Pokhlebkin
+Account Manager
+vpokhlebkin@ideaglobal.com
+tel. + 1 212 571 4332
+fax  + 1 212 571 4334
+IDEAglobal.com
+140 Broadway, 21st Floor
+New York, NY 10005, USA
+Any views expressed in this message are those of the individual sender,
+except where the sender specifically states them to be the views of
+IDEAglobal.com. This email, its content and any files transmitted with it
+are intended solely for the addressee(s) and may be legally privileged
+and/or confidential. Access by any other party is unauthorized without the
+express written permission of the sender. If you have received this email in
+error you may not copy or use the contents, attachments or information in
+any way. Please destroy it and contact the sender via the IDEAglobal.com
+switchboard in one of the following three offices: New York +1 212 571 4332;
+London +44 171 430 2888; Singapore +65 332 0700
+- FIT0317a.pdf
+- Fmt0317n.PDF
+- onesheet.doc
+Please find today's complimentary issue of Platts Energy Trader attached 
+above.  If you have any questions or would like to subscribe now, call 
+877-286-8897 or 212-904-2004; e-mail, info@platts.com. Meanwhile, we hope you 
+enjoy today's issue of Platts Energy Trader.
+If you need to download Acrobat Reader to read this file, go to 
+www.adobe.com. To stop the free trial, hit reply and type "stop trial."
+- et032301.pdf
+FYI
+Vince
+Dear Mr. Kaminski,
+Attached, there are 2 new samples of our daily market research: today's
+issue of the morning faxes Fixed Income Today and Financial Markets Today.
+We also have intraday market coverage, on Bloomberg: IDEA>GO, Reuters: IDUS,
+and Bridge/Telerate.
+If the info looks useful, we'd like to arrange a free 30-day trial for you
+and your colleagues.  For your reference, please find our price list
+attached.  I look forward to your reply.
+,
+Vadim Pokhlebkin
+Account Manager
+vpokhlebkin@ideaglobal.com
+tel. + 1 212 571 4332
+fax  + 1 212 571 4334
+IDEAglobal.com
+140 Broadway, 21st Floor
+New York, NY 10005, USA
+Any views expressed in this message are those of the individual sender,
+except where the sender specifically states them to be the views of
+IDEAglobal.com. This email, its content and any files transmitted with it
+are intended solely for the addressee(s) and may be legally privileged
+and/or confidential. Access by any other party is unauthorized without the
+express written permission of the sender. If you have received this email in
+error you may not copy or use the contents, attachments or information in
+any way. Please destroy it and contact the sender via the IDEAglobal.com
+switchboard in one of the following three offices: New York +1 212 571 4332;
+London +44 171 430 2888; Singapore +65 332 0700
+- FIT0317a.pdf
+- Fmt0317n.PDF
+- onesheet.doc
+NETWORK WORLD FUSION FOCUS: JASON MESERVE on
+SECURITY AND BUG PATCH ALERT
+TODAY'S FOCUS: 'South Park' virus on the loose
+03/13/00
+Dear Wincenty Kaminski,
+Today's Focus: 'South Park' virus on the=20
+loose
+It's been a year since the infamous "Melissa=018 virus downed e-mail
+systems nationwide and caused some panic in the general Internet
+populace. In the year since, we have a number of copycats and variants
+of Melissa invading our e-mail systems, though not to the same extent.
+Now, the e-mail virus du jour is the "South Park" virus, named after
+the animated series on Comedy Central. The South Park virus, known in
+security circles as W32/Pretty.worm.unp, attempts to send itself to all
+the addresses listed in an infected user's Outlook address book every
+thirty minutes. By doing so, the virus causes an "e-mail storm" that
+can bog down and crash network servers attempting to relay the flurry
+of mail. South Park appears to come from a known user and contains an
+icon featuring Kenny, one of the characters from the show.
+Security software maker Finjan Software has reported seven variants of
+the South Park virus, which itself is a variant of the PrettyPark virus
+that made the rounds a few weeks earlier.
+For more information on South Park and its variants:
+Before we get to the latest alerts, two other resources to check out:
+1. The Shmoo Group, a security consultancy, has written a paper entitled
+"How to Write Secure Code." It can be found at:
+2. Eric Knight of Security Paradigm has written an online book entitled
+"Computer Vulnerabilities." The book looks into how hackers exploit
+vulnerabilities and what methods they use. Knight's book is available in
+PDF format at:
+Now on with the latest alerts and patches:
+W97M/Melissa.AO virus
+Computer Associates is reporting a new version of the Melissa
+macrovirus that could be making the rounds. This one disables the
+Tools/Macro command bar, Virus Protection, SaveNormalPrompt and
+ConfirmConversions options in Microsoft Word. It also makes a couple of
+changes to the Windows registry. Like the original Melissa, this
+version replicates itself to the first 25 users in the Outlook address
+book.
+Microsoft had a busy week, releasing three patches covering a variety
+of problems:
+1. Patch available for "Registry Permissions" vulnerability.
+It seems as if the security on a couple of registry settings in Windows
+NT 4.0 is not as secure as the Redmonians first thought. This patch
+fixes the problem, which could let a malicious user gain additional
+privileges on a system they are logged into.
+2. Patch available for "SQL Query Abuse" vulnerability.
+This patch for Microsoft SQL Server 7.0 and Microsoft Data Engine 1.0
+plugs a hole that could enable a remote user to author malicious SQL
+queries that allow the user to take unauthorized actions against on the
+database or underlying operating system.
+3. Patch available for "Clip Art Buffer Overrun" vulnerability.
+A feature in Microsoft Office that lets users download and install clip
+art from the "Microsoft Clip Art Gallery" has a potential hole. Using a
+very long embedded field in the clip art files, a malicious user could
+crash or even execute code on the system where the clip art file is
+downloaded.
+Red Hat releases nmh packages
+Following up a vulnerability that was reported here last week, Red Hat
+has released new nmh packages. A vulnerability in the previous nmh
+releases allowed specially formed MIME headers to execute code using
+nmh's 'mhshow' utility.
+Network file resource vulnerability
+Eric Hacker of Lucent=01,s NetworkCare division is reporting that
+applications running in Windows could provide remote access to user name
+and password information. Hacker warns that programs such as Internet
+Explorer, Eudora, Word and Outlook running on default configurations of
+Windows can be duped into sending a user name and password information
+to unsuspecting users. Though this information may be encrypted, it is
+easily crackable, Hacker reports.
+For more information:
+Windows 95:
+NT 4.0:
+Win2000:
+Password problem in SBC DSL routers
+A Kewlhair Security advisory reports that routers being used in SBC
+Communications' digital subscriber line service are being installed
+without a password. Kewlhair reports that engineers are failing to set
+the passwords during installation at customer sites. SBC is using
+Cayman DSL routers.
+For more information on how to set the password:
+Astar application vulnerability
+TESO, "crew of coders and freaks who care mostly about network and Unix
+security," are reporting a hole in the astar application that ships with
+the Halloween 4 Linux distribution. Malicious users could use the
+application along with obscure command-line code to gain root access.
+Vendor Web site:
+Vulnerability in StarScheduler
+S.A.F.E.R. is reporting a vulnerability in StarScheduler, the groupware
+server that comes with Sun=01,s StarOffice product. The underlying Web
+server used by StarScheduler is vulnerable to remote execution of code
+and root access, according to the S.A.F.E.R. advisory. Sun has yet to
+release a patch.
+To contact Jason Meserve:
+Subscription Services
+To subscribe or unsubscribe to any Network World e-mail newsletters,
+go to:
+To change your email address, go to:
+Subscription questions? Contact Customer Service by replying to this
+message.
+Other Questions/Comments
+Have editorial comments? Write Jeff Caruso, Newsletter Editor, at:
+For advertising information, write Jamie Kalbach, Account Executive,
+at: mailto:jkalbach@nww.com
+Network World Fusion is part of IDG.net, the IDG Online Network.
+IT All Starts Here:
+Please,
+Take a look at the attached info. Can you use this service?
+Vince
+Dear Mr. Kaminski,
+Thank you for calling.  Briefly, about IDEAglobal.com: we've been providing
+unbiased market analysis since 1989, and today our customers include the
+Fed, the US Treasury, the IMF, 25 foreign Central banks, and over 1,700
+dealing rooms worldwide.  We emphasize sales and trading strategies rather
+than just provide market news.
+Attached, please find 2 samples of our daily research: today's issue of our
+morning faxes Financial Markets Today and Fixed Income Today.  We also have
+intraday market coverage on Bloomberg: IDEA>GO, Reuters, and
+Bridge/Telerate.
+If the info looks interesting, we would be glad to arrange a 30-day free
+trial for you?  For your reference, please see our Price List.  I look
+forward to your reply.
+,
+Vadim Pokhlebkin
+Account Manager
+vpokhlebkin@ideaglobal.com
+tel. + 1 212 571 4332
+fax  + 1 212 571 4334
+IDEAglobal.com
+140 Broadway, 21st Floor
+New York, NY 10005, USA
+Any views expressed in this message are those of the individual sender,
+except where the sender specifically states them to be the views of
+IDEAglobal.com. This email, its content and any files transmitted with it
+are intended solely for the addressee(s) and may be legally privileged
+and/or confidential. Access by any other party is unauthorized without the
+express written permission of the sender. If you have received this email in
+error you may not copy or use the contents, attachments or information in
+any way. Please destroy it and contact the sender via the IDEAglobal.com
+switchboard in one of the following three offices: New York +1 212 571 4332;
+London +44 171 430 2888; Singapore +65 332 0700
+- FMT0316A.pdf
+- FIT0316a.pdf
+- onesheet.doc
+Ningya,
+I shall talk to Beth Perlman about the transfers.
+Vince
+Hi, Vince and Zimin
+Our group has some major change.  Our director, Tom Moore, will move to 
+London starting May 1. 
+In this changing  environment, it might be good for transferring  to happen.
+If I got your permission, I can talk to IT people directly.
+Ningya 
+(3-5248)
+Ravi Thuraisingham@MUNICATIONS on 03/14/2000 12:07:56 PM
+Here is the pager number that has been setup via Jim Irvine. 
+email:    8776804806@skytel.com
+Direct dial 800 dial: 1-800-759-8352 box# 877-680-4806
+I can be reached at this pager if you need to get me ASAP.
+Ravi.
+NETWORK WORLD FUSION FOCUS: DAVE KEARNS on NOVELL NETWARE
+Today's Focus: Btrieve free ride ends
+03/14/00
+Dear Wincenty Kaminski,
+Today's Focus: Btrieve free ride ends
+NetWare has shipped with Btrieve (originally a flat-file database
+system, now grown into a full-fledged relational database system) since
+the days of NetWare 2 some 12 years ago. Many independent software
+vendors have relied on this and constructed their NetWare applications
+to use the built-in facilities Btrieve afforded.
+Originally licensed from its creator, Softcraft, Novell bought Btrieve
+outright in the late =01+80s, then sold it off 10 years later to some of
+the original developers, now incorporated as Pervasive Software.
+Pervasive has, essentially, retired the Btrieve name in favor of
+"Pervasive SQL 2000," a true relational database system which
+nevertheless still purports to support applications written to the
+Btrieve 6.x specification.
+A major change has been introduced in NetWare 5.1, however. There is no
+longer an unlimited-use version of the database included. Novell still
+uses Btrieve technology for (among other things) its installed products
+database (sys:system\products.dat is the file), but NetWare 5.1
+includes only a two-user license for SQL 2000  enough for the
+administrator to add new products and services, but not enough for any
+Btrieve-based applications the network might be running.
+There is an unlimited-use version of SQL 2000 included, but it=01,s an
+evaluation version only. It will time out after 90 days. Full-use
+licenses may be purchased from Pervasive Software (or your software
+vendors may provide them), but unsuspecting network administrators
+could be caught off-guard when applications stop working.
+For the adventurous, there is an unlimited-use version of Btrieve 6.10
+included with the NetWare 5.1 distribution. But Novell admits it hasn't
+tested the software with NetWare 5.1, it may not work, and  the real
+killer  most current applications (such as Computer Associates
+ArcServe) require Btrieve 6.15.
+Check the applications you're using before doing that upgrade to
+NetWare 5.1, and calculate the additional costs of obtaining the
+requisite number of SQL 2000 licenses. Then, decide if that's what you
+want to do, or if switching to a different application is the better
+choice.
+To contact Dave Kearns:
+FOR RELATED LINKS -- Click here for Network World's home page:
+Pervasive.SQL=01v 2000 Product Family SDK
+Understanding Pervasive.SQL 2000, a white paper (PDF)
+Migration Guide 6 to Pervasive.SQL.doc
+%20to%20Pervasive.SQL.pdf
+Other NetWare-related articles from Network World:
+Active Directory upgrade requires strong game plan, Network World,
+03/13/00
+Microsoft exec sketches future for Win 2000, Network World, 03/13/00
+Subscription Services
+To subscribe or unsubscribe to any Network World e-mail newsletters,
+go to:
+To change your email address, go to:
+Subscription questions? Contact Customer Service by replying to this
+message.
+Other Questions/Comments
+Have editorial comments? Write Jeff Caruso, Newsletter Editor, at:
+For advertising information, write Jamie Kalbach, Account Executive,
+at: mailto:jkalbach@nww.com
+Network World Fusion is part of IDG.net, the IDG Online Network.
+IT All Starts Here:
+FYI
+Vince
+Stephanie Miller@
+03/15/2000 10:57 AM
+Since I left, I don't know where this project stands. However, thought you 
+might want to see this.
+Hope all is well.
+,
+Stephanie
+trobison@prosRM.com on 03/15/2000 10:38:31 AM
+Tina Robison
+Corporate Communications
+PROS Revenue Management
+713-335-5397 - fax
+713-335-5813 - phone
+trobison@prosRM.com
+- WILLIAMS.PROS.PDF
+NETWORK WORLD FUSION FOCUS: PHIL HOCHMUTH
+on LINUX
+Today's focus: Will Linux be a hit or miss on the corporate desktop?
+03/15/00
+Dear Wincenty Kaminski,
+Today's focus: Will Linux be a hit or miss=20
+on the corporate desktop?
+So far this year, the buzz about Linux in enterprise networks has
+focused on servers and embedded systems, with the growth of Linux
+severs being most heralded. According to IDC, a research firm based in
+Framingham, Mass., Linux was the fastest-growing server operating
+system last year, with a 93% growth rate over the year before. Linux
+was the second most-shipped operating system in 1999 after Windows NT,
+capturing 24% of new licenses shipped.
+As for the embedded market, Linux has emerged as an ideal platform for
+network appliances, because the system can be modified to handle
+specialized, dedicated tasks very well. Companies such as Cobalt
+Networks, Picazo and Progressive Systems have announced Linux-based
+appliances, ranging from Web servers to PBXs to firewalls.
+But what of the open source hacker=01,s dream of =01&Linux on every desktop?=018
+Sure, Linux on the desktop has become more accessible than ever, with
+colorful, shrink-wrapped boxes of Caldera, Red Hat and Corel Linux now
+available at places like CompUSA. However, analysts have said that
+Linux=01,s growth in the enterprise will be limited to the macro and micro
+areas of network servers and embedded operating systems.
+According to IDC, Linux currently runs on only 4% of U.S. desktops. The
+hold Microsoft Windows has on the desktop market will remain strong,
+analysts say, despite such factors as Microsoft=01,s antitrust problems
+and the surging popularity of Linux.
+Even some Linux executives are skeptical of their product=01,s desktop
+future. Recently, SuSE CEO Roland Dyroff downplayed Linux=01,s future on
+desktops. Dyroff said, =01&given the lack of applications available, we
+really can't claim it as being competitive on the desktop yet.=018
+A recent survey by Survey.com gives more hope for Linux desktops.
+According to the survey of 1,640 enterprise network managers, open
+source operating systems are used on 10% of desktops, with the number
+jumping to a surprising 23% of enterprise desktops by 2002.
+Despite the mix of numbers being thrown around, two important factors
+that will determine the success of Linux as an enterprise client
+desktop are: a standardized, easy-to-use graphical user interface (GUI)
+and available applications.
+One company that is working to make Linux more user friendly is Palo
+Alto-based Eazel, which is designing a next-generation file management
+system and user interface to run on top of the Linux kernel. According
+to Eazel=01,s Web site, the company=01,s goal is to bring Linux to the masses
+and =01&do it in a way that appeals to today's Linux users and to mere
+mortals.=018
+The company was founded by a group of former Apple executives, and is
+allied with the Gnome project, which has been doing extensive Linux
+desktop environment development for several years. Eazel is due to have
+a product out by the middle of this year. With an intuitive, icon-based
+file management environment, Eazel is hoping its user interface will be
+an improvement over the two current Linux GUIs, Gnome and KDE, and will
+help standardized the look and feel of Linux for =01&regular=018 users. For
+enterprise mangers who have already embraced Linux on the server side,
+this development will be worth keeping an eye on.
+On the applications side, several office productivity suites have been
+available for some time, such as Sun=01,s StarOffice suite and KOffice for
+the KDE desktop. Corel has also ported its office products, such as
+WordPerfect, over to Linux to complement its own distribution of the
+operating system. While there have been recent rumors (started by Linux
+Care Vice President Arthur Tyde) that Microsoft is working on a port of
+MS Office to Linux, Microsoft officials deny this.
+While Linux may never supplant Windows as the industry-standard desktop,
+there should be plenty of opportunity for Linux PCs in enterprise nets
+in the future.
+To contact Phil Hochmuth:
+FOR RELATED LINKS -- Click here for Network World's home page:
+Staroffice Software from Sun
+Corel Linux OS
+Eazel
+GNOME -- the GNU Network Object Model Environment
+KOffice -- the integrated office suite for KDE, the K Desktop
+Environment
+Cobalt Networks, Inc.
+Progressive Systems
+Picazo
+Other Linux-related articles from Network World:
+Active Directory upgrade requires strong game plan,  Network World,
+03/13/00
+Subscription Services
+To subscribe or unsubscribe to any Network World e-mail newsletters,
+go to:
+To change your email address, go to:
+Subscription questions? Contact Customer Service by replying to this
+message.
+Other Questions/Comments
+Have editorial comments? Write Jeff Caruso, Newsletter Editor, at:
+For advertising information, write Jamie Kalbach, Account Executive,
+at: mailto:jkalbach@nww.com
+Network World Fusion is part of IDG.net, the IDG Online Network.
+IT All Starts Here:
+Stinson.
+No problem.
+Vince
+Stinson Gibner
+03/14/2000 05:16 PM
+I am planning to take 1/2 day of vacation on the morning of March 22nd.
+thanks,
+--Stinson
+Shirley,
+I have his cell phone: 650 814 9966.
+Vince
+Shirley Crenshaw
+03/13/2000 02:15 PM
+Vince:
+Do you have a current address for Brad?
+Carol Coats
+03/13/2000 01:59 PM
+Shirley, is there any possibility that you might have an updated current 
+address for Brad?  If not, would Vince know 
+Thanks much,
+Carol
+Vince
+How do we cope with the ethical issues this presents ?
+Rgds
+DP
+Dawn,
+I met David Sobotka from Koch this morning and we talked about  coordinating 
+our presentations.
+This means there will be changes intended to avoid overlaps. Sorry for that. 
+The portions of my presentation
+will survive (those about valuation paradigms) and I shall add a few more 
+pages on accounting treatment of weather derivatives
+plus more specific examples. David will cover primarily market evolution plus examples of some
+standard structures, and we shall both give more interesting examples of
+specific deals executed by our companies.
+I shall send you an updated version of my part next week. Let me know what 
+the deadline is.
+Vince
+Thanks -- would you like me to include these in the conference book? or do
+you anticipate changes?
+Dawn
+FROM:  Dawn Scovill, Conference Coordinator
+"Powerful New Ideas 2000"
+dawn@perfectmeeting.com
