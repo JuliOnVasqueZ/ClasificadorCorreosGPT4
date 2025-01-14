@@ -1,262 +1,248 @@
-Archivo: correo_3748.txt
+Archivo: correo_4100.txt
 Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: No
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: Sí, Fecha de Respuesta: [12 de octubre de 2000]
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: No 
+
+---
+
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: Sí, Fecha de Respuesta: [12 de octubre de 2000]
+
+---
+
+1. Sentimiento: Negativo
+2. Relevancia: Sí
+3. Respuesta requerida: Sí, Fecha de Respuesta: [17 de octubre de 2000]
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: No 
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: No 
+
+---
+
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: Sí, Fecha de Respuesta: [12 de octubre de 2000]
+
+---
+
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: No 
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: No 
+
+---
+
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: No 
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: No 
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: Sí, Fecha de Respuesta: [12 de octubre de 2000] 
+
+--- 
+
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: Sí, Fecha de Respuesta: [12 de octubre de 2000] 
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: No
+3. Respuesta requerida: No 
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: No
+3. Respuesta requerida: No 
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: No 
+
+---
+
+1. Sentimiento: Negativo
+2. Relevancia: No
+3. Respuesta requerida: No 
+
+---
+
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: Sí, Fecha de Respuesta: [12 de octubre de 2000] 
+
+---
+
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: Sí, Fecha de Respuesta: [12 de octubre de 2000] 
+
+---
+
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: No 
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: Sí
 3. Respuesta requerida: No  
 
 ---
 
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [6 de septiembre de 2023]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
+1. Sentimiento: Neutral
+2. Relevancia: Sí
 3. Respuesta requerida: No  
 
 ---
 
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [6 de septiembre de 2023]  
+1. Sentimiento: Negativo
+2. Relevancia: Sí
+3. Respuesta requerida: No 
 
 ---
 
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [6 de septiembre de 2023]  
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: No 
 
 ---
 
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: Sí, Fecha de Respuesta: [12 de octubre de 2000] 
 
 ---
 
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [6 de septiembre de 2023]  
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: No 
 
 ---
 
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [6 de septiembre de 2023]  
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: No 
 
 ---
 
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [6 de septiembre de 2023]  
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: No 
 
 ---
 
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [6 de septiembre de 2023]  
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: No 
 
 ---
 
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [6 de septiembre de 2023]  
+1. Sentimiento: Negativo
+2. Relevancia: No
+3. Respuesta requerida: No 
 
 ---
 
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: No 
 
 ---
 
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: No 
 
 ---
 
-1. Sentimiento: Negativo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: No 
 
 ---
 
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: No
 
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [6 de septiembre de 2023]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [6 de septiembre de 2023]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [6 de septiembre de 2023]  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
+Archivo: correo_4083.txt
+Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_433.txt
+Archivo: correo_1214.txt
+Resultado:
+1. Sentimiento: Negativo
+2. Relevancia: No
+3. Respuesta requerida: No
+
+Archivo: correo_1301.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_3344.txt
-Resultado:
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_2453.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_734.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_15.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_3714.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_2342.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_128.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_1239.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [2 de noviembre de 2023].
-
-Archivo: correo_2383.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
 3. Respuesta requerida: No
 
 Archivo: correo_3814.txt
 Resultado:
-1. **Sentimiento:** Neutral
-2. **Relevancia:** Sí
-3. **Respuesta requerida:** Sí  
-   **Fecha de Respuesta:** [03/02/2001] (sugerida para el contexto de la conversación)
-
---- 
-
-1. **Sentimiento:** Positivo
-2. **Relevancia:** Sí
-3. **Respuesta requerida:** No
-
----
-
-1. **Sentimiento:** Neutral
-2. **Relevancia:** Sí
-3. **Respuesta requerida:** Sí  
-   **Fecha de Respuesta:** [03/01/2001] (sugerida para el contexto de la conversación)
-
---- 
-
-1. **Sentimiento:** Positivo
-2. **Relevancia:** Sí
-3. **Respuesta requerida:** No
-
---- 
-
-1. **Sentimiento:** Negativo
-2. **Relevancia:** Sí
-3. **Respuesta requerida:** Sí  
-   **Fecha de Respuesta:** [03/27/2001] (sugerida para abordar la preocupación expresada)
-
---- 
-
-1. **Sentimiento:** Negativo
-2. **Relevancia:** Sí
-3. **Respuesta requerida:** Sí  
-   **Fecha de Respuesta:** [03/26/2001] (sugerida, dada la urgencia del asunto mencionado) 
-
---- 
-
-Este es un resumen generalizado conforme a la estructura solicitada, evaluando ciertos correos en relación al contexto de Enron.  Si necesitas un análisis más profundo o una evaluación de correos específicos, házmelo saber.
-
-Archivo: correo_590.txt
-Resultado:
 1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_3795.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: No  
+2. Relevancia: Sí  
 3. Respuesta requerida: No
 
 Archivo: correo_3225.txt
 Resultado:
 1. Sentimiento: Negativo  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_3285.txt
+Resultado:
+1. Sentimiento: Positivo  
 2. Relevancia: Sí  
-3. Respuesta requerida: Sí Fecha de Respuesta: [En un plazo de 2 días]
+3. Respuesta requerida: No
 
 Archivo: correo_3459.txt
 Resultado:
@@ -264,30 +250,35 @@ Resultado:
 2. Relevancia: Sí  
 3. Respuesta requerida: No
 
-Archivo: correo_1962.txt
-Resultado:
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: Sí
-   Fecha de Respuesta: [09 de octubre de 2023] (sugerida, si se desea responder en un plazo razonable).
-
-Archivo: correo_4342.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_2930.txt
+Archivo: correo_3739.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_2457.txt
+Archivo: correo_3581.txt
 Resultado:
-1. Sentimiento: Neutral
-2. Relevancia: No
+1. Sentimiento: Neutral  
+2. Relevancia: No  
 3. Respuesta requerida: No
+
+Archivo: correo_3901.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_1320.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_1977.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [Pronto, preferiblemente en 2 días].
 
 Archivo: correo_3338.txt
 Resultado:
@@ -295,916 +286,58 @@ Resultado:
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_4578.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_3067.txt
-Resultado:
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No 
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No 
-
----
-
-1. Sentimiento: Negativo
-2. Relevancia: Sí
-3. Respuesta requerida: Sí, Fecha de Respuesta: [Inmediata] 
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No 
-
----
-
-1. Sentimiento: Negativo
-2. Relevancia: Sí
-3. Respuesta requerida: Sí, Fecha de Respuesta: [Inmediata] 
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No 
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No 
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No 
-
----
-
-1. Sentimiento: Negativo
-2. Relevancia: Sí
-3. Respuesta requerida: Sí, Fecha de Respuesta: [Inmediata] 
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No 
-
----
-
-1. Sentimiento: Positivo
-2. Relevancia: Sí
-3. Respuesta requerida: No 
-
----
-
-1. Sentimiento: Positivo
-2. Relevancia: Sí
-3. Respuesta requerida: No 
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No 
-
----
-
-1. Sentimiento: Negativo
-2. Relevancia: Sí
-3. Respuesta requerida: Sí, Fecha de Respuesta: [Inmediata] 
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No 
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No 
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No
-
-Archivo: correo_2281.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [18/11/2000]
-
-Archivo: correo_3667.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_1213.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_493.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_370.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_3156.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [05/09/2000]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [05/10/2000]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [05/18/2000]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [03/14/2000]  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
---- 
-
-1. Sentimiento: Negativo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
---- 
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [05/10/2000]  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
---- 
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
---- 
-
-1. Sentimiento: Nieutro  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
---- 
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
---- 
-
-1. Sentimiento: Negativo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
---- 
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [05/05/2000]  
-
---- 
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
---- 
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [05/13/2000]  
-
---- 
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [05/16/2000]  
-
---- 
-
-Esto cubre el análisis de los correos electrónicos en el contexto de Enron. Si necesitas información adicional o algún ajuste, por favor házmelo saber.
-
-Archivo: correo_2685.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_4192.txt
-Resultado:
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_811.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [15 de noviembre de 2001]
-
-Archivo: correo_507.txt
+Archivo: correo_1264.txt
 Resultado:
 1. Sentimiento: Neutral
 2. Relevancia: No
 3. Respuesta requerida: No
 
-Archivo: correo_2992.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [5 de noviembre de 2001]
-
-Archivo: correo_1149.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_4053.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_4492.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_79.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_2484.txt
+Archivo: correo_2490.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_3552.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_3219.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_2593.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_1879.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Una semana desde la recepción del correo].  
-
-Esto es para una investigación académica y podemos producir la serie temporal para usted, condicionado a la autorización de los editores de Megawatts Daily.
-
-Archivo: correo_2413.txt
-Resultado:
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_1326.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_2393.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [El próximo lunes]  
-
-----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
-----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
-----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Pronto, antes del inicio de la próxima clase]  
-
-----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_2333.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Sugerir responder a más tardar en dos días hábiles, es decir, el 20 de octubre de 2023].
-
-Archivo: correo_1066.txt
-Resultado:
-Error procesando el request.
-
-Archivo: correo_4555.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_2075.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_1630.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [sugerir en 2-3 días para dar tiempo de revisión y respuesta]
-
-Archivo: correo_1135.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Sugerir una fecha 3-5 días después de la recepción del correo para permitir tiempo suficiente para una respuesta fundamentada.]
-
-Archivo: correo_644.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_2902.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Hoy/Pronto]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Final de la Rotación]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_624.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [2 días hábiles].
-
-Archivo: correo_2978.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_296.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_4573.txt
-Resultado:
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_1699.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Una semana a partir de la recepción del correo]
-
-Archivo: correo_2669.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Lunes]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Lunes]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Lunes]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Lunes]  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Lo antes posible]  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Lo antes posible]  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Lo antes posible]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_3465.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_2829.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_2525.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_2390.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de respuesta: [8 de junio de 2001] 
-
-**Justificación:** El correo contiene información relevante sobre aspectos operativos y llamados a reuniones que pueden afectar la coordinación y operación del negocio. Es importante confirmar asistencia antes de la fecha límite mencionada.
-
-Archivo: correo_348.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [una semana a partir de hoy]
-
-Archivo: correo_2448.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_850.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_1641.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_3346.txt
-Resultado:
-Error procesando el request.
-
-Archivo: correo_2077.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [07/19/2000]
-
-Archivo: correo_4506.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_1568.txt
-Resultado:
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_1945.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_2276.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_2590.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_184.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí.  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [27/02/2001]  
-
-La comunicación es relevante para las operaciones del negocio, ya que aborda cuestiones sobre acuerdos de garantías y operaciones financieras que son fundamentales para el funcionamiento y la gestión del riesgo de la empresa. Se requiere una respuesta para asegurar que se cumplan los plazos y coordinen las tareas relacionadas con los documentos necesarios.
-
-Archivo: correo_4361.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: 03/04/2001  
-
-**Justificación:** El correo tiene un tono neutral ya que se enfoca en la logística y en la programación de actividades en lugar de expresar emociones. Es relevante para las operaciones del negocio porque discute la posibilidad de invitar a un experto a hablar sobre temas que pueden impactar las decisiones estratégicas de Enron. Es necesario responder para confirmar la invitación al profesor Nalin Kulatilaka y coordinar los detalles del evento.
-
-Archivo: correo_2114.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_315.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_217.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [24/04/2021]
-
-Archivo: correo_104.txt
+Archivo: correo_525.txt
 Resultado:
 1. Sentimiento: Neutral
 2. Relevancia: Sí
-3. Respuesta requerida: Sí, Fecha de Respuesta: [4/10/2023]
+3. Respuesta requerida: Sí. Fecha de Respuesta: [Sugerir el mismo día o al día siguiente, dependiendo de la urgencia de la solicitud en el correo]
 
-Archivo: correo_2848.txt
+**Justificación:** Aunque el contenido del correo se centra en temas personales y actividades sociales, la referencia a la confirmación de un trato físico y la necesidad de corregir los registros con AEP tiene relevancia para las operaciones del negocio. Por lo tanto, es importante responder pronto para asegurar la correcta gestión de las operaciones.
+
+Archivo: correo_2666.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_810.txt
+Archivo: correo_2626.txt
 Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
+1. Sentimiento: Negativo
+2. Relevancia: No
 3. Respuesta requerida: No
 
-Archivo: correo_2079.txt
+Archivo: correo_68.txt
 Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [27/10/2023]
+1. Sentimiento: Neutral
+2. Relevancia: No
+3. Respuesta requerida: No
 
-Archivo: correo_3517.txt
+Archivo: correo_36.txt
+Resultado:
+1. Sentimiento: Neutral
+2. Relevancia: No
+3. Respuesta requerida: No
+
+Archivo: correo_4263.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_3892.txt
+Archivo: correo_2334.txt
 Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_3679.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_250.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [25 de noviembre de 2023]  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [24 de noviembre de 2023]  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [27 de noviembre de 2023]  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [26 de noviembre de 2023]  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [29 de noviembre de 2023]  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
 1. Sentimiento: Neutral  
 2. Relevancia: Sí  
 3. Respuesta requerida: No  
@@ -1213,59 +346,487 @@ Resultado:
 
 1. Sentimiento: Negativo  
 2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [1 de diciembre de 2023]  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [El 1 de marzo de 2002].  
 
 ---
 
+1. Sentimiento: Positivo  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_1513.txt
+Resultado:
+1. Sentimiento: Neutral
+2. Relevancia: No
+3. Respuesta requerida: No
+
+Archivo: correo_507.txt
+Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: Sí  
-3. Respuesta requerida: No  
+3. Respuesta requerida: No
+
+Archivo: correo_1847.txt
+Resultado:
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_2099.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [03/02/2000]
+
+Archivo: correo_3163.txt
+Resultado:
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: Sí. Fecha de Respuesta: [06/12/2000]
+
+---
+
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: No
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: Sí. Fecha de Respuesta: [06/12/2000]
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: Sí. Fecha de Respuesta: [06/12/2000]
+
+---
+
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: No
 
 --- 
 
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: No
 
 ---
 
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [30 de noviembre de 2023]  
+Estos análisis proporcionan un resumen claro sobre los correos electrónicos relacionados con Enron, resaltando su tono, relevancia y la necesidad de respuestas según el contenido y contexto de cada mensaje.
 
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [2 de diciembre de 2023]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [3 de diciembre de 2023]  
+Archivo: correo_4482.txt
+Resultado:
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** Sí. Fecha de Respuesta: [27 de noviembre de 2023].  
 
 --- 
 
-Por favor, avísame si necesitas un análisis más detallado o en otro formato específico para cada correo electrónico.
+1. **Sentimiento:** Positivo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
 
-Archivo: correo_2314.txt
+--- 
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+--- 
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** Sí. Fecha de Respuesta: [27 de noviembre de 2023].  
+
+--- 
+
+1. **Sentimiento:** Positivo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** Sí. Fecha de Respuesta: [27 de noviembre de 2023].  
+
+--- 
+
+1. **Sentimiento:** Positivo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+--- 
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+--- 
+
+1. **Sentimiento:** Negativo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** Sí. Fecha de Respuesta: [27 de noviembre de 2023].  
+
+--- 
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+--- 
+
+1. **Sentimiento:** Negativo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** Sí. Fecha de Respuesta: [27 de noviembre de 2023].
+
+--- 
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+--- 
+
+1. **Sentimiento:** Positivo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+--- 
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+--- 
+
+1. **Sentimiento:** Positivo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+--- 
+
+1. **Sentimiento:** Positivo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+--- 
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+--- 
+
+1. **Sentimiento:** Negativo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** Sí. Fecha de Respuesta: [27 de noviembre de 2023].  
+
+--- 
+
+1. **Sentimiento:** Negativo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** Sí. Fecha de Respuesta: [27 de noviembre de 2023].  
+
+--- 
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+--- 
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+--- 
+
+1. **Sentimiento:** Positivo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+--- 
+
+1. **Sentimiento:** Negativo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** Sí. Fecha de Respuesta: [27 de noviembre de 2023].  
+
+--- 
+
+1. **Sentimiento:** Positivo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+--- 
+
+1. **Sentimiento:** Positivo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+--- 
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+--- 
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+--- 
+
+1. **Sentimiento:** Negativo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** Sí. Fecha de Respuesta: [27 de noviembre de 2023].  
+
+--- 
+
+1. **Sentimiento:** Negativo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** Sí. Fecha de Respuesta: [27 de noviembre de 2023].  
+
+--- 
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No
+
+Archivo: correo_8.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: Sí  
 3. Respuesta requerida: No
+
+Archivo: correo_3376.txt
+Resultado:
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_2797.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_1252.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_1079.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_2677.txt
+Resultado:
+1. Sentimiento: Negativo  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_3505.txt
+Resultado:
+1. Sentimiento: Negativo
+2. Relevancia: Sí
+3. Respuesta requerida: Sí  
+   Fecha de Respuesta: [3 de agosto de 2001]
+
+Comentario: El correo refleja una creciente preocupación sobre la ética y la gestión de conflictos de interés dentro de la administración de Davis, que es fundamental para el clima de negocios y la confianza entre los empleados y los inversionistas, especialmente en el contexto de la crisis energética en California. La respuesta debe ser oportuna para abordar las inquietudes y aclarar las posiciones institucionales.
+
+Archivo: correo_1130.txt
+Resultado:
+1. Sentimiento: Positivo  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_34.txt
+Resultado:
+1. Sentimiento: Negativo  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_4464.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_1597.txt
+Resultado:
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [jueves, que es el día de llegada].
+
+Archivo: correo_1561.txt
+Resultado:
+1. Sentimiento: Neutral
+2. Relevancia: No
+3. Respuesta requerida: No
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: Sí. Fecha de Respuesta: [20 de octubre]
+
+---
+
+1. Sentimiento: Negativo
+2. Relevancia: Sí
+3. Respuesta requerida: Sí. Fecha de Respuesta: [10 de octubre]
+
+---
+
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: No
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: No
+3. Respuesta requerida: No
+
+---
+
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: No
+
+---
+
+1. Sentimiento: Negativo
+2. Relevancia: No
+3. Respuesta requerida: No
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: No
+
+---
+
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: No
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: No
+3. Respuesta requerida: No
+
+--- 
+
+1. Sentimiento: Neutral
+2. Relevancia: No
+3. Respuesta requerida: No
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: No
+3. Respuesta requerida: No
+
+--- 
+
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: No
+
+Archivo: correo_3908.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_4010.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_2826.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_2493.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_2298.txt
+Resultado:
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: Sí. Fecha de Respuesta: [04/03/2001] (considerando el tiempo requerido para revisar la información solicitada).
+
+*Notas:*
+- El tono del correo es neutral ya que solicita información sin un sentimiento emocional positivo o negativo.
+- La información solicitada es relevante para las operaciones comerciales ya que se trata de la facturación de horas trabajadas.
+- Se requiere una respuesta para cumplir con el plazo de facturación; una fecha razonable es el 3 de abril de 2001.
+
+Archivo: correo_1795.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta:  [A más tardar el 1 de agosto]
+
+Archivo: correo_1342.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_2227.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_2103.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [22 de diciembre de 2000]
+
+Archivo: correo_1982.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [Lo antes posible, dentro de la semana].
+
+Archivo: correo_2665.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_1722.txt
+Resultado:
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [La próxima semana].
+
+Archivo: correo_253.txt
+Resultado:
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_1241.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [19 de noviembre de 2001]
 
 Archivo: correo_3462.txt
 Resultado:
@@ -1273,199 +834,23 @@ Resultado:
 2. Relevancia: Sí  
 3. Respuesta requerida: No
 
-Archivo: correo_1614.txt
-Resultado:
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----  
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [14/07/2000]  
-
----  
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----  
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----  
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [14/07/2000]  
-
----  
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----  
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----  
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----  
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----  
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [14/07/2000]  
-
----  
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [14/07/2000]  
-
----  
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [14/07/2000]  
-
----  
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----  
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [14/07/2000]  
-
----  
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----  
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----  
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----  
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----  
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----  
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----  
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----  
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-Archivo: correo_72.txt
+Archivo: correo_1020.txt
 Resultado:
 1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Esta tarde].
+2. Relevancia: Sí.  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [03/11/2023]
 
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Según la agenda de la reunión].  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_3034.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_3636.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_1526.txt
+Archivo: correo_1540.txt
 Resultado:
 1. Sentimiento: Negativo  
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_3789.txt
+Archivo: correo_173.txt
 Resultado:
-1. Sentimiento: Neutral
-2. Relevancia: No
-3. Respuesta requerida: No
-
-Archivo: correo_912.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_1759.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
+1. **Sentimiento:** Neutral
+2. **Relevancia:** Sí
+3. **Respuesta requerida:** No
 
 Archivo: correo_3497.txt
 Resultado:
@@ -1473,377 +858,91 @@ Resultado:
 2. Relevancia: Sí  
 3. Respuesta requerida: No
 
-Archivo: correo_29.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_1819.txt
+Archivo: correo_2105.txt
 Resultado:
 1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_3790.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_3699.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_1043.txt
-Resultado:
-1. Sentimiento: Negativo  
 2. Relevancia: Sí  
-3. Respuesta requerida: No
+3. Respuesta requerida: Sí. Fecha de Respuesta: [28/12/2000]
 
 Archivo: correo_347.txt
 Resultado:
-1. Sentimiento: Neutral
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [27/10/1999]  
+
+Comentarios: El primer correo se centra en asuntos operativos relacionados con acuerdos y la conferencia, lo que lo hace relevante para las operaciones de Enron. Se requiere confirmar la asistencia y posiblemente discutir más a fondo los temas mencionados en el correo.
+
+Archivo: correo_1855.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_1036.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_2886.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_3495.txt
+Resultado:
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [Una semana a partir de hoy]
+
+Archivo: correo_2528.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_65.txt
+Resultado:
+1. Sentimiento: Positivo  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_4468.txt
+Resultado:
+1. Sentimiento: Negativo
 2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [28/10/1999]
+3. Respuesta requerida: Sí. Fecha de Respuesta: [Una semana a partir de la fecha actual].
 
-Archivo: correo_43.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_4130.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_2052.txt
+Archivo: correo_673.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_1523.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_3753.txt
-Resultado:
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí  
-Fecha de Respuesta: [08/10/2000]
-
-Archivo: correo_2667.txt
+Archivo: correo_272.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí  
-   Fecha de Respuesta: [Proponer una fecha dentro de 2 días para asegurar una respuesta oportuna]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí  
-   Fecha de Respuesta: [Proponer una fecha dentro de 2 días para asegurar una respuesta oportuna]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí  
-   Fecha de Respuesta: [Proponer una fecha dentro de 2 días para asegurar una respuesta oportuna]  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí  
-   Fecha de Respuesta: [Proponer una fecha dentro de 2 días para asegurar una respuesta oportuna]  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí  
-   Fecha de Respuesta: [Proponer una fecha dentro de 2 días para asegurar una respuesta oportuna]  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_4592.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_3290.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_1658.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_1692.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Proponer respuesta en un plazo de dos días]  
-
----
-
-**Justificación:**  
-El tono del correo es neutral, ya que se centra en detalles operativos y logísticos relacionados con presentaciones y reuniones en lugar de expresar emociones o juicios. Es relevante para las operaciones del negocio, pues involucra coordinación de eventos, presentaciones y comunicación entre equipos. Se sugiere que se responda en un plazo de dos días para asegurar que todos los participantes estén en la misma página respecto a las presentaciones y su contenido.
-
-Archivo: correo_1765.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_1987.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [a la brevedad posible].
-
-Archivo: correo_2179.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_2137.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
 3. Respuesta requerida: No
 
 Archivo: correo_578.txt
 Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_70.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_4267.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_2202.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_1985.txt
-Resultado:
-1. Sentimiento: Positivo
-2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [29/10/2000]
-
-Archivo: correo_4620.txt
-Resultado:
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_527.txt
-Resultado:
-1. Sentimiento: Negativo
-2. Relevancia: No
-3. Respuesta requerida: No
-
-Archivo: correo_2400.txt
-Resultado:
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No
-
-Archivo: correo_2880.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_2122.txt
-Resultado:
 1. Sentimiento: Negativo  
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_2155.txt
+Archivo: correo_4170.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: Sí  
 3. Respuesta requerida: No
 
-Archivo: correo_428.txt
-Resultado:
-1. Sentimiento: Negativo
-2. Relevancia: No
-3. Respuesta requerida: No
-
-Archivo: correo_4165.txt
+Archivo: correo_3007.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_803.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_241.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Por determinar, sugerir alguna fecha cercana como el 10 de octubre de 2001]
-
-Archivo: correo_610.txt
-Resultado:
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No
-
----
-
-1. Sentimiento: Positivo
-2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [12/04/2024]
-
----
-
-1. Sentimiento: Negativo
-2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [12/04/2024]
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No
-
----
-
-1. Sentimiento: Positivo
-2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [12/04/2024]
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No
-
----
-
-1. Sentimiento: Positivo
-2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [12/04/2024]
-
----
-
-1. Sentimiento: Negativo
-2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [12/04/2024]
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No
-
----
-
-1. Sentimiento: Positivo
-2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [12/04/2024]
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No
-  
-
----  
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
----  
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
----  
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
+3. Respuesta requerida: No  
 
 ---
 
@@ -1854,138 +953,202 @@ Resultado:
 ---
 
 1. Sentimiento: Positivo  
+2. Relevancia: No  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_4062.txt
+Resultado:
+1. Sentimiento: Positivo  
 2. Relevancia: Sí  
 3. Respuesta requerida: No
 
-Archivo: correo_395.txt
+Archivo: correo_997.txt
 Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí  
+Fecha de Respuesta: [Un plazo razonable podría ser el lunes siguiente]
+
+Archivo: correo_2289.txt
+Resultado:
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: No
+
+Archivo: correo_3207.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_181.txt
+Resultado:
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [3 días hábiles]
+
+Archivo: correo_1128.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [05/10/2021]
+
+Archivo: correo_2324.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_2110.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_769.txt
+Resultado:
+1. Sentimiento: Negativo  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_4356.txt
+Resultado:
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [una semana a partir de hoy]
+
+Archivo: correo_3972.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [una semana a partir de hoy].
+
+Archivo: correo_2641.txt
+Resultado:
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: Sí, Fecha de Respuesta: [Lunes 30 de octubre de 2023]
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: No
+
+---
+
+1. Sentimiento: Positivo
+2. Relevancia: No
+3. Respuesta requerida: No
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: Sí, Fecha de Respuesta: [Martes 31 de octubre de 2023]
+
+---
+
+1. Sentimiento: Negativo
+2. Relevancia: Sí
+3. Respuesta requerida: Sí, Fecha de Respuesta: [Lunes 30 de octubre de 2023]
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: No
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: No
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: Sí, Fecha de Respuesta: [Miércoles 1 de noviembre de 2023]
+
+---
+
+1. Sentimiento: Negativo
+2. Relevancia: Sí
+3. Respuesta requerida: Sí, Fecha de Respuesta: [Lunes 30 de octubre de 2023]
+
+---
+
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: No
+
+---
+
+1. Sentimiento: Negativo
+2. Relevancia: Sí
+3. Respuesta requerida: Sí, Fecha de Respuesta: [Lunes 30 de octubre de 2023]
+
+---
+
 1. Sentimiento: Neutral
 2. Relevancia: No
 3. Respuesta requerida: No
 
-Archivo: correo_533.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí, Fecha de Respuesta: [Lunes, 15 de enero de 2001]
-
-Archivo: correo_689.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_1859.txt
-Resultado:
-1. Sentimiento: Positivo
-2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [A la brevedad posible, preferiblemente antes del 14 de septiembre]
-
-Archivo: correo_356.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Lunes, 20 de noviembre de 2023]
-
-Archivo: correo_2704.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
 ---
 
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [15 de noviembre de 2023]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [15 de noviembre de 2023]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_2642.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_3776.txt
-Resultado:
 1. Sentimiento: Neutral
 2. Relevancia: Sí
 3. Respuesta requerida: No
 
-Archivo: correo_1587.txt
+---
+
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: No
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: No
+
+---
+
+1. Sentimiento: Negativo
+2. Relevancia: Sí
+3. Respuesta requerida: No
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: Sí, Fecha de Respuesta: [Martes 31 de octubre de 2023]
+
+---
+
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: No
+
+---
+Si necesitas más información o contexto para otros correos, házmelo saber.
+
+Archivo: correo_471.txt
 Resultado:
 1. Sentimiento: Negativo  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_4571.txt
+Resultado:
+1. Sentimiento: Neutral  
 2. Relevancia: No  
 3. Respuesta requerida: No
 
@@ -1995,217 +1158,15 @@ Resultado:
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_2344.txt
+Archivo: correo_724.txt
 Resultado:
-1. Sentimiento: Neutral  
+1. Sentimiento: Negativo  
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_2628.txt
+Archivo: correo_293.txt
 Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: 04/05/2023  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: 04/03/2023  
-
----
-
 1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: 04/03/2023  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
---- 
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: 04/03/2023  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_1881.txt
-Resultado:
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [20 de abril de 2001]
-
-1. Sentimiento: Positivo
-2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [19 de abril de 2001]
-
-1. Sentimiento: Negativo
-2. Relevancia: Sí
-3. Respuesta requerida: No
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No
-
-1. Sentimiento: Positivo
-2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [19 de abril de 2001]
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No
-
-1. Sentimiento: Neutral
-2. Relevancia: No
-3. Respuesta requerida: No
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No
-
-1. Sentimiento: Neutral
-2. Relevancia: No
-3. Respuesta requerida: No
-
-Archivo: correo_4445.txt
-Resultado:
-1. Sentimiento: Neutral  
 2. Relevancia: Sí  
 3. Respuesta requerida: No
 
@@ -2215,248 +1176,39 @@ Resultado:
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_112.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_1207.txt
+Archivo: correo_362.txt
 Resultado:
 1. Sentimiento: Neutral  
-2. Relevancia: Sí  
+2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_4581.txt
+Archivo: correo_1714.txt
 Resultado:
 1. Sentimiento: Positivo  
 2. Relevancia: Sí  
 3. Respuesta requerida: No
 
-Archivo: correo_616.txt
+Archivo: correo_4580.txt
+Resultado:
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_2092.txt
 Resultado:
 1. Sentimiento: Neutral
-2. Relevancia: No
-3. Respuesta requerida: No
+2. Relevancia: Sí
+3. Respuesta requerida: Sí. Fecha de Respuesta: [11/13/2000]
 
-Archivo: correo_4065.txt
+Archivo: correo_4295.txt
 Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [19 de enero de 2001] 
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [19 de enero de 2001] 
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [19 de enero de 2001] 
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [19 de enero de 2001] 
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No   
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No   
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No   
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
+1. Sentimiento: Negativo
+2. Relevancia: Sí
+3. Respuesta requerida: Sí. Fecha de Respuesta: [En una semana]
 
 Archivo: correo_4458.txt
 Resultado:
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No
-
-Archivo: correo_1580.txt
-Resultado:
-1. Sentimiento: Neutral
-2. Relevancia: No
-3. Respuesta requerida: No
-
-Archivo: correo_1631.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_1639.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [22/02/2001]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [22/02/2001]  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [21/02/2001]  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No   
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [21/02/2001]  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [22/02/2001]  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [21/02/2001]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [22/02/2001]  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No   
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [21/02/2001]
-
-Archivo: correo_3386.txt
-Resultado:
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No
-
-Archivo: correo_2412.txt
-Resultado:
-1. Sentimiento: **Negativo**
-2. Relevancia: **Sí**
-3. Respuesta requerida: **Sí** Fecha de Respuesta: **(Recomendada para el fin de semana siguiente a la recepción del correo, debido a la urgencia del asunto)**  
-
----
-
-**Análisis:**
-El tono del correo refuerza un sentimiento negativo, dado que las discusiones giran en torno a la crisis de Enron y sus repercusiones tanto internas como externas. Hay una clara preocupación por el impacto de las decisiones regulatorias en el futuro de la empresa y por cómo estas afectan a los clientes y a los empleados.
-
-La relevancia del correo es alta para las operaciones del negocio, ya que se destaca la importancia de las decisiones regulatorias en la capacidad de Enron de operar en el mercado y su influencia en las relaciones con los clientes.
-
-Se requiere una respuesta para abordar las inquietudes mencionadas en el correo y para coordinar esfuerzos de seguimiento, teniendo en cuenta la urgencia de la situación relacionada con la regulación y la oportunidad de intervenir como empresa. Se sugiere que esta respuesta se realice durante el fin de semana siguiente para mantener la comunicación activa y proactiva.
-
-Archivo: correo_1322.txt
-Resultado:
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No
+Para poder evaluar correctamente el correo electrónico relacionado con Enron, necesitaría el contenido específico del mismo. Si tienes el texto del correo electrónico, por favor compártelo, y procederé a seguir la estructura de respuesta solicitada.
 
 Archivo: correo_2779.txt
 Resultado:
@@ -2464,141 +1216,178 @@ Resultado:
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_1235.txt
+Archivo: correo_2328.txt
 Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: Sí.  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Fecha razonable sería en una semana].
-
-Archivo: correo_30.txt
-Resultado:
-1. Sentimiento: Negativo  
+1. Sentimiento: Neutral  
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_3666.txt
+Archivo: correo_2130.txt
+Resultado:
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: No
+
+Archivo: correo_2259.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_2272.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_61.txt
+Resultado:
+1. Sentimiento: Positivo  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_1216.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_623.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [Fecha razonable 2-3 días hábiles]
+
+Archivo: correo_2649.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_3110.txt
+Resultado:
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: Sí. Fecha de Respuesta: [23 de abril de 2001]
+
+Archivo: correo_2723.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_377.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_2938.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí  
+   Fecha de Respuesta: [06/30/2000]  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí  
+   Fecha de Respuesta: [06/30/2000]  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: No  
 3. Respuesta requerida: No  
 
 ---
 
 1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
 2. Relevancia: No  
 3. Respuesta requerida: No  
 
 ---
 
 1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Pronto, preferiblemente en 1-2 días para confirmar la corrección de posiciones].  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [De inmediato para garantizar que la actualización se realice a tiempo].  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Hoy para asegurar que se ajuste a las necesidades actuales de reporte].  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Confirmar a más tardar mañana para evitar malentendidos en la presentación de los informes].  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Urgente, idealmente hoy, para abordar las preocupaciones sobre los plazos].  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
+2. Relevancia: No  
 3. Respuesta requerida: No  
 
 ---
 
 1. Sentimiento: Negativo  
 2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [El mismo día, para tener claridad sobre los reportes y evitar retrasos].  
+3. Respuesta requerida: Sí  
+   Fecha de Respuesta: [06/30/2000]  
 
 ---
 
-1. Sentimiento: Negativo  
+1. Sentimiento: Positivo  
 2. Relevancia: Sí  
 3. Respuesta requerida: No
 
-Archivo: correo_394.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_306.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_2331.txt
+Archivo: correo_3758.txt
 Resultado:
 1. Sentimiento: Neutral
-2. Relevancia: No
-3. Respuesta requerida: No
+2. Relevancia: Sí
+3. Respuesta requerida: Sí. Fecha de Respuesta: [27/07/2000]
 
-Archivo: correo_3241.txt
+Archivo: correo_2468.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [En 2 días].
+
+Archivo: correo_2533.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_3499.txt
+Archivo: correo_4463.txt
 Resultado:
-1. Sentimiento: Negativo
+1. Sentimiento: Neutral
 2. Relevancia: Sí
 3. Respuesta requerida: No
 
-Archivo: correo_1153.txt
+Archivo: correo_675.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_16.txt
+Archivo: correo_2220.txt
 Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: Sí. Fecha de Respuesta: [se sugiere responder antes del 19 de octubre de 2000 para confirmar asistencia al entrenamiento).
 
-Archivo: correo_1583.txt
+La evaluación del correo sugiere que se organiza un entrenamiento de gran importancia relacionado con un derrame de petróleo, por lo que su confirmación es crucial.
+
+Archivo: correo_568.txt
 Resultado:
 1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_3040.txt
-Resultado:
-1. Sentimiento: Neutro  
 2. Relevancia: No  
 3. Respuesta requerida: No
-
-Archivo: correo_1022.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_4511.txt
-Resultado:
-Error procesando el request.
 
 Archivo: correo_599.txt
 Resultado:
@@ -2606,208 +1395,423 @@ Resultado:
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_2853.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_351.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_3579.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_3967.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [05/03/2000]
-
-Archivo: correo_3381.txt
+Archivo: correo_4046.txt
 Resultado:
 1. Sentimiento: Neutral
 2. Relevancia: Sí
 3. Respuesta requerida: No
 
-Archivo: correo_2310.txt
+Archivo: correo_4495.txt
+Resultado:
+1. Sentimiento: Negativo  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_178.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: Sí  
 3. Respuesta requerida: No
 
-Archivo: correo_545.txt
+Archivo: correo_190.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: No  
 3. Respuesta requerida: No
+
+Archivo: correo_213.txt
+Resultado:
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [Dentro de 2 días]
+
+Archivo: correo_4284.txt
+Resultado:
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_323.txt
+Resultado:
+1. Sentimiento: Negativo  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_475.txt
+Resultado:
+1. Sentimiento: Negativo
+2. Relevancia: No
+3. Respuesta requerida: No
+
+Archivo: correo_2007.txt
+Resultado:
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_1288.txt
+Resultado:
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [1-2 días hábiles].
+
+Archivo: correo_3807.txt
+Resultado:
+1. Sentimiento: Neutral
+2. Relevancia: No
+3. Respuesta requerida: No
+
+Archivo: correo_4480.txt
+Resultado:
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Negativo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Positivo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Positivo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Negativo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Positivo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Negativo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No
+
+---
+
+1. **Sentimiento:** Positivo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Negativo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Positivo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Negativo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Negativo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Positivo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Negativo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Positivo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Negativo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Negativo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Positivo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Negativo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Negativo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+---
+
+1. **Sentimiento:** Positivo  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+Remember to adapt the sentiments and evaluations according to the specific nuances within each email for a more accurate assessment!
+
+Archivo: correo_328.txt
+Resultado:
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [07/09/1999]
 
 Archivo: correo_2138.txt
 Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
+1. Sentimiento: Neutral
+2. Relevancia: No
 3. Respuesta requerida: No
 
-Archivo: correo_1647.txt
+Archivo: correo_2089.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: Sí  
 3. Respuesta requerida: No
 
-Archivo: correo_7.txt
+Archivo: correo_3638.txt
 Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
 3. Respuesta requerida: No
 
 Archivo: correo_4406.txt
 Resultado:
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
+1. Sentimiento: Positivo
+2. Relevancia: Sí
 3. Respuesta requerida: Sí. Fecha de Respuesta: [04/30/2000]
 
-Archivo: correo_2060.txt
+Archivo: correo_1593.txt
+Resultado:
+1. **Sentimiento:** Neutral
+2. **Relevancia:** Sí
+3. **Respuesta requerida:** No
+
+Archivo: correo_2674.txt
 Resultado:
 1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_42.txt
-Resultado:
-1. Sentimiento: Negativo
-2. Relevancia: Sí
-3. Respuesta requerida: Sí; Fecha de Respuesta: [18 de octubre de 2023]
-
-Archivo: correo_921.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_1776.txt
-Resultado:
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_74.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí  
-   Fecha de Respuesta: [22 de agosto de 2001]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí  
-   Fecha de Respuesta: [29 de junio de 2001]  
-
----
-
-1. Sentimiento: Positivo  
 2. Relevancia: No  
 3. Respuesta requerida: No  
 
----
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No  
 
 1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí  
-   Fecha de Respuesta: [18 de mayo de 2001]  
+2. Relevancia: No  
+3. Respuesta requerida: No  
 
----
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No  
+
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No  
 
 1. Sentimiento: Negativo  
 2. Relevancia: Sí  
-3. Respuesta requerida: Sí  
-   Fecha de Respuesta: [18 de agosto de 2001]  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [próxima semana]  
 
----
-
-1. Sentimiento: Positivo  
+1. Sentimiento: Neutral  
 2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
+3. Respuesta requerida: Sí. Fecha de Respuesta: [próxima semana]  
 
 1. Sentimiento: Negativo  
 2. Relevancia: Sí  
-3. Respuesta requerida: Sí  
-   Fecha de Respuesta: [31 de octubre de 2001]  
-
----
+3. Respuesta requerida: No  
 
 1. Sentimiento: Neutral  
 2. Relevancia: Sí  
 3. Respuesta requerida: No  
 
----
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
 
 1. Sentimiento: Positivo  
 2. Relevancia: No  
 3. Respuesta requerida: No  
 
----
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+1. Sentimiento: Positivo  
+2. Relevancia: No  
+3. Respuesta requerida: No  
+
+1. Sentimiento: Negativo  
+2. Relevancia: No  
+3. Respuesta requerida: No  
+
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No  
+
+1. Sentimiento: Negativo  
+2. Relevancia: No  
+3. Respuesta requerida: No  
 
 1. Sentimiento: Neutral  
 2. Relevancia: Sí  
 3. Respuesta requerida: No  
 
----
+1. Sentimiento: Positivo  
+2. Relevancia: No  
+3. Respuesta requerida: No  
 
-Si necesitas un análisis más profundo de algún correo electrónico en específico, no dudes en mencionarlo.
-
-Archivo: correo_285.txt
-Resultado:
 1. Sentimiento: Neutral  
-2. Relevancia: Sí  
+2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_3709.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_3514.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [lunes, 28 de agosto].
-
-Archivo: correo_1255.txt
+Archivo: correo_1327.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_86.txt
+Archivo: correo_3626.txt
 Resultado:
 1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [27/10/2023]  
+
+Explicación: El correo refleja confusión y frustración en relación con un problema de cálculo en los negocios que impacta operaciones y relación con clientes. Por lo tanto, es relevante para las operaciones de Enron y se necesita una respuesta clara para resolver la situación planteada.
+
+Archivo: correo_2860.txt
+Resultado:
+1. Sentimiento: Neutral  
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_3923.txt
-Resultado:
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [5 días hábiles]
-
-Archivo: correo_4069.txt
+Archivo: correo_511.txt
 Resultado:
 1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí, Fecha de Respuesta: [23 de enero de 2001]
+2. Relevancia: No  
+3. Respuesta requerida: No
 
-Archivo: correo_1870.txt
+Archivo: correo_4236.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: Sí  
@@ -2819,692 +1823,86 @@ Resultado:
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_581.txt
-Resultado:
-1. Sentimiento: Neutral
-2. Relevancia: No
-3. Respuesta requerida: No
-
-Archivo: correo_227.txt
-Resultado:
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Lunes, 25 de septiembre de 2023].
-
-Archivo: correo_3842.txt
-Resultado:
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Una semana a partir de la recepción del correo].
-
-Archivo: correo_396.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Si. Fecha de Respuesta: 01/11/2000  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: 01/10/2000  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: 01/14/2000  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: 01/11/2000  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo 
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: 01/11/2000  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: 01/11/2000  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: 01/11/2000  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-**Nota:** La evaluación y resuelta se ha generado asumiendo una interpretación de unos correos ficticios relacionados con Enron. Los atributos de los correos deben determinarse según el análisis de la comunicación concreta presentada.
-
-Archivo: correo_1244.txt
-Resultado:
-1. **Sentimiento:** Neutral  
-2. **Relevancia:** Sí  
-3. **Respuesta requerida:** Sí  
-   **Fecha de Respuesta:** [23 de octubre de 2023]  
-
-Feedback sobre el mejore los aspectos de los correos analizados es necesario para el seguimiento a los temas de negociación en el entorno regulatorio y para garantizar que se mantengan alineados con las políticas de la empresa. Es importante coordinar con los equipos internos y externos para hacer frente a los problemas identificados y a las acciones propuestas, por lo que se debe mantener clara y organizada la comunicación al respecto.
-
-Archivo: correo_2874.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_3132.txt
-Resultado:
-1. Sentimiento: Neutral
-2. Relevancia: No
-3. Respuesta requerida: No
-
-Archivo: correo_2473.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_3093.txt
-Resultado:
-1. Sentimiento: Negativo
-2. Relevancia: No
-3. Respuesta requerida: No
-
-Archivo: correo_4321.txt
-Resultado:
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [05/04/2001]  
-
----  
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [05/04/2001]  
-
----  
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----  
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [05/04/2001]  
-
----  
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [05/04/2001]  
-
----  
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [05/04/2001]  
-
----  
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [05/04/2001]  
-
----  
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----   
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----  
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Al recibir confirmación]
-
-Archivo: correo_4528.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_2317.txt
+Archivo: correo_3173.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Sugerir responder a la mayor brevedad posible, dado que se menciona un asunto de contrato pendiente y puede requerir atención inmediata.]
+3. Respuesta requerida: Sí. Fecha de Respuesta: [Una semana desde la recepción del correo]
 
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Sugerir responder a más tardar en dos días para asegurar que se tomen acciones adecuadas respecto al posible litigio.]
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Sugerir responder en el transcurso del día a fin de obtener claridad sobre el caso mencionado.]
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Sugerir responder en un plazo de tres días para proporcionar la información solicitada a Vinson & Elkins.]
-
----
-
+Archivo: correo_2338.txt
+Resultado:
 1. Sentimiento: Positivo  
 2. Relevancia: Sí  
 3. Respuesta requerida: No
 
-Archivo: correo_726.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_1773.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí.  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [1 de agosto de 2001]
-
-Archivo: correo_2611.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_697.txt
+Archivo: correo_123.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: Sí  
 3. Respuesta requerida: No
 
-Archivo: correo_3247.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_2777.txt
+Archivo: correo_498.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_2926.txt
+Archivo: correo_4214.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [20/08/2000]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Pronto]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Pronto]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Pronto]
-
-Archivo: correo_1666.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_1021.txt
+Archivo: correo_634.txt
 Resultado:
-1. Sentimiento: Neutral
+1. Sentimiento: Positivo
 2. Relevancia: Sí
+3. Respuesta requerida: Sí Fecha de Respuesta: [Una semana]
+
+Archivo: correo_1018.txt
+Resultado:
+1. **Sentimiento**: Negativo  
+2. **Relevancia**: Sí  
+3. **Respuesta requerida**: Sí  
+   Fecha de Respuesta: [Mañana]
+
+Archivo: correo_1779.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
 3. Respuesta requerida: No
 
-Archivo: correo_2218.txt
+Archivo: correo_3723.txt
 Resultado:
-1. Sentimiento: Neutral
-2. Relevancia: Sí
+1. Sentimiento: Positivo  
+2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_76.txt
+Archivo: correo_2356.txt
 Resultado:
-1. Sentimiento: Neutral
-2. Relevancia: No
+1. Sentimiento: Neutral  
+2. Relevancia: No  
 3. Respuesta requerida: No
+
+Archivo: correo_46.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [23 de marzo].
+
+Archivo: correo_2325.txt
+Resultado:
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [Sugerir respuesta antes de una reunión clave o antes de la siguiente fecha límite relevante para el caso].
 
 Archivo: correo_3721.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [21 de noviembre de 2001]  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [20 de noviembre de 2001]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [15 de noviembre de 2001]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [18 de noviembre de 2001]  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [22 de noviembre de 2001]  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [19 de noviembre de 2001]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [30 de noviembre de 2001]  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [27 de noviembre de 2001]  
-
----
-
-Estos correos abarcan una variedad de temas relativos a la gestión y organización dentro de Enron, y su análisis permite una revisión del tono, relevancia y necesidad de respuesta.
-
-Archivo: correo_4148.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [6 de septiembre de 2000]  
-
----  
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [6 de septiembre de 2000]  
-
----  
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [6 de septiembre de 2000]
-
-Archivo: correo_156.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [25/05/2000]  
-
-**Justificación**: El correo incluye múltiples comentarios técnicos sobre los aspectos legales y fiscales que se deben abordar en relación a un borrador del ISDA. La naturaleza técnica del contenido sugiere que es relevante para las operaciones del negocio. La respuesta es obligatoria para coordinar y aclarar los puntos mencionados.
-
-Archivo: correo_2360.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí, Fecha de Respuesta: [4 de octubre de 2001]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí, Fecha de Respuesta: [sugerir una fecha dentro de esta semana o la semana siguiente]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí, Fecha de Respuesta: [sugerir un día dentro de esta semana]  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí, Fecha de Respuesta: [sugerir una fecha para realizar la llamada]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No 
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí, Fecha de Respuesta: [sugerir una fecha en cuanto se tenga la información solicitada]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No 
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí, Fecha de Respuesta: [sugerir un día y hora para discutir]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
 3. Respuesta requerida: No
 
 Archivo: correo_137.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_2006.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: No  
@@ -3516,217 +1914,40 @@ Resultado:
 2. Relevancia: Sí  
 3. Respuesta requerida: No
 
-Archivo: correo_1179.txt
-Resultado:
-1. Sentimiento: Neutral
-2. Relevancia: No
-3. Respuesta requerida: No
-
-Archivo: correo_3117.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_1886.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [04/25/2021]
-
 Archivo: correo_619.txt
 Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [En dos días hábiles].
+1. Sentimiento: Negativo
+2. Relevancia: Sí
+3. Respuesta requerida: Sí, Fecha de Respuesta: [En un plazo de 2 días]
 
-Archivo: correo_3772.txt
-Resultado:
-1. Sentimiento: Neutral 
-2. Relevancia: No 
-3. Respuesta requerida: No
-
-Archivo: correo_134.txt
+Archivo: correo_54.txt
 Resultado:
 1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_814.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
 2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [En cuanto sea posible]
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [En cuanto sea posible]
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [En cuanto sea posible]
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [En cuanto sea posible]
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
---- 
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [En cuanto sea posible]
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
---- 
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [En cuanto sea posible]
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
---- 
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
+3. Respuesta requerida: Sí  
+Fecha de Respuesta: [15/11/2023]  
 
 ---  
 
 1. Sentimiento: Negativo  
 2. Relevancia: Sí  
-3. Respuesta requerida: No  
+3. Respuesta requerida: Sí  
+Fecha de Respuesta: [15/11/2023]  
 
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
+---  
 
 1. Sentimiento: Positivo  
 2. Relevancia: Sí  
 3. Respuesta requerida: No  
 
----
+---  
 
 1. Sentimiento: Negativo  
 2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [En cuanto sea posible]  
+3. Respuesta requerida: Sí  
+Fecha de Respuesta: [15/11/2023]  
 
----
+---  
 
 1. Sentimiento: Neutral  
 2. Relevancia: Sí  
@@ -3740,32 +1961,34 @@ Resultado:
 
 ---  
 
-1. Sentimiento: Negativo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----  
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
 3. Respuesta requerida: No  
 
 ---  
 
 1. Sentimiento: Negativo  
 2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [En cuanto sea posible]  
+3. Respuesta requerida: Sí  
+Fecha de Respuesta: [15/11/2023]  
 
----
+---   
 
 1. Sentimiento: Neutral  
-2. Relevancia: No  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí  
+Fecha de Respuesta: [15/11/2023]  
+
+---  
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
 3. Respuesta requerida: No  
 
 ---  
 
 1. Sentimiento: Neutral  
-2. Relevancia: No  
+2. Relevancia: Sí  
 3. Respuesta requerida: No  
 
 ---  
@@ -3777,49 +2000,40 @@ Resultado:
 ---  
 
 1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
---- 
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [En cuanto sea posible]  
-
----  
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----  
-
-1. Sentimiento: Negativo  
 2. Relevancia: Sí  
 3. Respuesta requerida: No  
 
 ---  
 
 1. Sentimiento: Negativo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí  
+Fecha de Respuesta: [15/11/2023]  
 
 ---  
 
-1. Sentimiento: Neutral  
+1. Sentimiento: Positivo  
 2. Relevancia: Sí  
 3. Respuesta requerida: No  
 
 ---  
 
 1. Sentimiento: Negativo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí  
+Fecha de Respuesta: [15/11/2023]  
+
+---  
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí  
+Fecha de Respuesta: [15/11/2023]  
 
 ---  
 
 1. Sentimiento: Neutral  
-2. Relevancia: No  
+2. Relevancia: Sí  
 3. Respuesta requerida: No  
 
 ---  
@@ -3830,58 +2044,33 @@ Resultado:
 
 ---  
 
-1. Sentimiento: Neutral  
-2. Relevancia: No  
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
 3. Respuesta requerida: No  
 
----
+---  
 
-Archivo: correo_163.txt
-Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: Sí  
-3. Respuesta requerida: No
+3. Respuesta requerida: No  
 
-Archivo: correo_980.txt
-Resultado:
-1. Sentimiento: Neutral  
+---  
+
+1. Sentimiento: Negativo  
 2. Relevancia: Sí  
-3. Respuesta requerida: No
+3. Respuesta requerida: Sí  
+Fecha de Respuesta: [15/11/2023]  
 
-Archivo: correo_2491.txt
-Resultado:
-1. Sentimiento: Neutral  
+---  
+
+1. Sentimiento: Positivo  
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_2348.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_283.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_3809.txt
+Archivo: correo_2961.txt
 Resultado:
 1. Sentimiento: Negativo  
 2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_2371.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_3165.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
 3. Respuesta requerida: No
 
 Archivo: correo_925.txt
@@ -3890,1031 +2079,695 @@ Resultado:
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_3555.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [03/11/2023]  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [03/11/2023]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [03/11/2023]  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [03/11/2023]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [03/11/2023]  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [03/11/2023]  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
-(Note: A consolidación de todo el texto puede no ser posible dado su extensivo contenido y repetición de información. La respuesta es una aproximación simplificada acorde a la estructura solicitada.)
-
-Archivo: correo_254.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí, Fecha de Respuesta: [una semana a partir de la fecha actual].
-
-Archivo: correo_1958.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Dentro de 3 días]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Dentro de 2 días]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Dentro de 1 semana]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Dentro de 2 días]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Dentro de 3 días]  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Dentro de 1 semana]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Dentro de 3 días]  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutro  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Dentro de 2 días]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Dentro de 1 semana]  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Dentro de 2 días]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Dentro de 1 semana]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Dentro de 2 días]  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
---- 
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [1 semana]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Si. Fecha de Respuesta: [Dentro de 3 días]  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo   
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [2 días]  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [2 días]  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
---- 
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
---- 
-
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_279.txt
+Archivo: correo_4107.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: Sí  
 3. Respuesta requerida: No
 
-Archivo: correo_596.txt
+Archivo: correo_1848.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_2199.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [14/11/2023]  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [14/11/2023]  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [14/11/2023]  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [14/11/2023]  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [14/11/2023]  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [14/11/2023]  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [14/11/2023]  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [14/11/2023]  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [14/11/2023]  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [14/11/2023]  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [14/11/2023]  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [14/11/2023]  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [14/11/2023]  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [14/11/2023]  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+--- 
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+--- 
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+---  
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+---
+
+Archivo: correo_1733.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_1717.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [Próxima semana]  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [Próxima semana]  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [Próxima semana]  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [Próxima semana]
+
+Archivo: correo_276.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_2422.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_4565.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_4588.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_4559.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_2315.txt
+Resultado:
+1. **Sentimiento**: Negativo  
+2. **Relevancia**: Sí  
+3. **Respuesta requerida**: Sí. Fecha de Respuesta: [5 de abril de 2001]  
+
+---
+
+1. **Sentimiento**: Neutral  
+2. **Relevancia**: Sí  
+3. **Respuesta requerida**: No  
+
+---
+
+1. **Sentimiento**: Positivo  
+2. **Relevancia**: Sí  
+3. **Respuesta requerida**: No  
+
+---
+
+1. **Sentimiento**: Negativo  
+2. **Relevancia**: Sí  
+3. **Respuesta requerida**: Sí. Fecha de Respuesta: [5 de abril de 2001]  
+
+---
+
+1. **Sentimiento**: Neutral  
+2. **Relevancia**: Sí  
+3. **Respuesta requerida**: No  
+
+---
+
+1. **Sentimiento**: Negativo  
+2. **Relevancia**: Sí  
+3. **Respuesta requerida**: Sí. Fecha de Respuesta: [5 de abril de 2001]  
+
+---
+
+1. **Sentimiento**: Negativo  
+2. **Relevancia**: Sí  
+3. **Respuesta requerida**: Sí. Fecha de Respuesta: [5 de abril de 2001]  
+
+---
+
+1. **Sentimiento**: Positivo  
+2. **Relevancia**: Sí  
+3. **Respuesta requerida**: No  
+
+---
+
+1. **Sentimiento**: Negativo  
+2. **Relevancia**: Sí  
+3. **Respuesta requerida**: No  
+
+---
+
+1. **Sentimiento**: Negativo  
+2. **Relevancia**: Sí  
+3. **Respuesta requerida**: Sí. Fecha de Respuesta: [5 de abril de 2001]  
+
+---
+
+1. **Sentimiento**: Neutral  
+2. **Relevancia**: No  
+3. **Respuesta requerida**: No  
+
+---
+
+1. **Sentimiento**: Negativo  
+2. **Relevancia**: Sí  
+3. **Respuesta requerida**: Sí. Fecha de Respuesta: [5 de abril de 2001]  
+
+---
+
+1. **Sentimiento**: Positivo  
+2. **Relevancia**: Sí  
+3. **Respuesta requerida**: No  
+
+---
+
+1. **Sentimiento**: Neutral  
+2. **Relevancia**: No  
+3. **Respuesta requerida**: No  
+
+---
+
+1. **Sentimiento**: Negativo  
+2. **Relevancia**: Sí  
+3. **Respuesta requerida**: Sí. Fecha de Respuesta: [5 de abril de 2001]  
+
+---
+
+1. **Sentimiento**: Positivo  
+2. **Relevancia**: Sí  
+3. **Respuesta requerida**: No  
+
+---
+
+1. **Sentimiento**: Neutral  
+2. **Relevancia**: No  
+3. **Respuesta requerida**: No  
+
+---
+
+1. **Sentimiento**: Positivo  
+2. **Relevancia**: Sí  
+3. **Respuesta requerida**: No
+
+Archivo: correo_2993.txt
 Resultado:
 1. Sentimiento: Neutral
 2. Relevancia: No
 3. Respuesta requerida: No
 
-Archivo: correo_4498.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_3535.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_1111.txt
+Archivo: correo_668.txt
 Resultado:
 1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [4 de febrero de 2001]
-
-Archivo: correo_3920.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí, Fecha de Respuesta: [Probablemente antes de la reunión solicitada]  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí, Fecha de Respuesta: [Antes de la reunión con el cliente]  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí, Fecha de Respuesta: [Días antes de la conferencia]  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí, Fecha de Respuesta: [Antes de la reunión planificada]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
 2. Relevancia: Sí  
 3. Respuesta requerida: No
-
-Archivo: correo_2213.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Sugerir antes del fin de semana próximo].
-
-Archivo: correo_4365.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [10/11/2023]
-
-Archivo: correo_3820.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_666.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Sugerir dentro de 2 días para abordar el tono negativo y las preocupaciones expresadas].
-
-Archivo: correo_191.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_4160.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [4 de septiembre de 2000]
 
 Archivo: correo_4546.txt
 Resultado:
-Para poder evaluar los correos electrónicos relacionados con Enron, necesitaría que me proporciones el contenido específico de esos correos. Por favor, comparte el texto o los puntos clave de los correos y estaré encantado de hacer el análisis que requieres.
+Lo siento, pero no tengo acceso a información específica sobre correos electrónicos de Enron. Si tienes ejemplos de correos electrónicos o un contexto específico que deseas que evalúe, estaré encantado de ayudarte a analizarlo.
 
-Archivo: correo_3584.txt
+Archivo: correo_1609.txt
+Resultado:
+1. **Sentimiento:** Neutral  
+2. **Relevancia:** Sí  
+3. **Respuesta requerida:** No  
+
+El contenido del correo electrónico discute consideraciones y acciones en relación con las operaciones de la compañía, lo que es relevante para la toma de decisiones. Sin embargo, no se requiere una respuesta inmediata.
+
+Archivo: correo_3235.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_3467.txt
-Resultado:
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_1512.txt
+Archivo: correo_2001.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: No  
 3. Respuesta requerida: No
 
-Archivo: correo_3866.txt
+Archivo: correo_813.txt
 Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: No  
+1. Sentimiento: Negativo
+2. Relevancia: No
 3. Respuesta requerida: No
 
-Archivo: correo_3411.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Una semana a partir de la fecha de recepción del correo].
-
-Archivo: correo_3468.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_1675.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [21 de diciembre de 2000]
-
-Archivo: correo_1704.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_1109.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [27/01/2001]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [26/01/2001]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_220.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_2441.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_3244.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_244.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Una semana a partir de la fecha actual].
-
-Archivo: correo_3119.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_175.txt
-Resultado:
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [1 de febrero de 2001]
-
-Archivo: correo_3812.txt
-Resultado:
-1. Sentimiento: Negativo  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_598.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_4286.txt
-Resultado:
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [2 de julio de 2023]
-
-Archivo: correo_1188.txt
+Archivo: correo_3840.txt
 Resultado:
 1. Sentimiento: Neutral
 2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [en los próximos dos días]
+3. Respuesta requerida: No 
+
+---
+
+1. Sentimiento: Positivo
+2. Relevancia: No
+3. Respuesta requerida: No
+
+---
+
+1. Sentimiento: Positivo
+2. Relevancia: No
+3. Respuesta requerida: No
+
+---
+
+1. Sentimiento: Positivo
+2. Relevancia: No
+3. Respuesta requerida: No
 
 ---
 
 1. Sentimiento: Neutral
 2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [lunes]
+3. Respuesta requerida: Sí. Fecha de Respuesta: [12/14/2000]
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: Sí. Fecha de Respuesta: [12/14/2000]
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: Sí. Fecha de Respuesta: [12/14/2000]
 
 ---
 
 1. Sentimiento: Negativo
 2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [lo antes posible]
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: No
-3. Respuesta requerida: No
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [mañana a mediodía]
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [en los próximos dos días]
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
 3. Respuesta requerida: No 
 
 ---
 
 1. Sentimiento: Neutral
 2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [el lunes]
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No
-
----
-
-1. Sentimiento: Negativo
-2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [hoy]
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: No
-3. Respuesta requerida: No
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: No
-3. Respuesta requerida: No
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No 
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No 
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: No
-3. Respuesta requerida: No 
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: No
-3. Respuesta requerida: No 
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: No
-3. Respuesta requerida: No 
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No 
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: Sí
-3. Respuesta requerida: No 
-
----
-
-1. Sentimiento: Neutral
-2. Relevancia: No
-3. Respuesta requerida: No 
-
----
-
-1. Sentimiento: Negativo
-2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [hoy] 
-
---- 
-
-1. Sentimiento: Negativo
-2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [hoy] 
-
----
-
-1. Sentimiento: Negativo
-2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [hoy] 
+3. Respuesta requerida: Sí. Fecha de Respuesta: [12/14/2000]
 
 ---
 
@@ -4925,360 +2778,482 @@ Resultado:
 ---
 
 1. Sentimiento: Neutral
-2. Relevancia: No
+2. Relevancia: Sí
 3. Respuesta requerida: No 
 
 ---
 
 1. Sentimiento: Negativo
 2. Relevancia: Sí
-3. Respuesta requerida: Sí. Fecha de Respuesta: [hoy] 
-
---- 
-
-Si requiere cualquier aclaración o un análisis más profundo, estoy a su disposición.
-
-Archivo: correo_3634.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
-
-Archivo: correo_164.txt
-Resultado:
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_601.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_1768.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
+3. Respuesta requerida: No 
 
 ---
 
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Dentro de una semana]
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: No 
 
 ---
 
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: No 
 
 ---
 
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: Sí. Fecha de Respuesta: [12/14/2000]
 
 ---
 
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Dentro de tres días]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutro  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_1321.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí; Fecha de Respuesta: [miércoles de esta semana, 7:30 p.m.]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí; Fecha de Respuesta: [martes de la próxima semana, 11:30 a.m.]  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: Sí; Fecha de Respuesta: [próxima semana]  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Positivo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
----
-
-1. Sentimiento: Negativo  
-2. Relevancia: Sí  
-3. Respuesta requerida: No  
-
---- 
-
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_4475.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_1086.txt
-Resultado:
 1. Sentimiento: Neutral
 2. Relevancia: No
+3. Respuesta requerida: No 
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: No
+3. Respuesta requerida: No 
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: No
+3. Respuesta requerida: No 
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: No
+3. Respuesta requerida: No 
+
+---
+
+1. Sentimiento: Negativo
+2. Relevancia: No
+3. Respuesta requerida: No 
+
+---
+
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: No 
+
+---
+
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: No 
+
+---
+
+1. Sentimiento: Negativo
+2. Relevancia: Sí
+3. Respuesta requerida: No 
+
+---
+
+1. Sentimiento: Positivo
+2. Relevancia: Sí
+3. Respuesta requerida: No 
+
+---
+
+1. Sentimiento: Neutral
+2. Relevancia: Sí
 3. Respuesta requerida: No
 
-Archivo: correo_3969.txt
+Archivo: correo_432.txt
 Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [27 de abril de 2000]  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [29 de abril de 2000]  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [29 de abril de 2000]  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [3 de abril de 2000]  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí, Fecha de Respuesta: [30 de marzo de 2000]  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
 1. Sentimiento: Positivo  
 2. Relevancia: Sí  
 3. Respuesta requerida: No
 
-Archivo: correo_2332.txt
+Archivo: correo_776.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [sugerir una fecha de acuerdo a los plazos de trabajo, por ejemplo: 5 días hábiles desde el día actual].
+3. Respuesta requerida: No
 
-Archivo: correo_3857.txt
+Archivo: correo_4001.txt
 Resultado:
 1. Sentimiento: Neutral  
 2. Relevancia: No  
-3. Respuesta requerida: No
+3. Respuesta requerida: No   
 
-Archivo: correo_1684.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
+---
 
-Archivo: correo_4200.txt
-Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
-
-Archivo: correo_3743.txt
-Resultado:
 1. Sentimiento: Positivo  
 2. Relevancia: Sí  
-3. Respuesta requerida: Sí. Fecha de Respuesta: [Sugerir respuesta en 3-5 días hábiles].
+3. Respuesta requerida: Sí. Fecha de Respuesta: [se recomienda responder en un plazo de 1 semana].
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [se recomienda responder lo antes posible, idealmente en el mismo día].
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [se recomienda responder en un plazo de 3 días].  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [se recomienda responder en un plazo de 2 días].  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [se recomienda responder en un plazo de 1 semana].  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_3623.txt
+Resultado:
+1. Sentimiento: Positivo  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_1742.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [Día 26 de junio de 2001].
+
+Archivo: correo_1595.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [Sugerir en las próximas 24 horas]
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [Sugerir en las próximas 48 horas]  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: No  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [Sugerir en las próximas 24 horas]  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: No  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [Sugerir en las próximas 24 horas]  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: No  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No  
+
+--- 
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Negativo  
+2. Relevancia: No  
+3. Respuesta requerida: No  
+
+---
+
+1. Sentimiento: Positivo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [Sugerir en las próximas 48 horas]  
+
+--- 
+
+1. Sentimiento: Neutral  
+2. Relevancia: No  
+3. Respuesta requerida: No  
+
+--- 
+
+1. Sentimiento: Positivo  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_3764.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
+
+Archivo: correo_2205.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [Una semana a partir de la fecha actual]
+
+Archivo: correo_2245.txt
+Resultado:
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [Tres días hábiles a partir de la fecha del correo].
+
+Archivo: correo_588.txt
+Resultado:
+1. Sentimiento: Negativo  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_3120.txt
+Resultado:
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: No
+
+Archivo: correo_4591.txt
+Resultado:
+1. Sentimiento: Neutral
+2. Relevancia: Sí
+3. Respuesta requerida: No
+
+Archivo: correo_2278.txt
+Resultado:
+1. Sentimiento: Negativo  
+2. Relevancia: Sí  
+3. Respuesta requerida: Sí. Fecha de Respuesta: [Una semana desde la fecha del correo].
+
+Archivo: correo_261.txt
+Resultado:
+1. Sentimiento: Negativo  
+2. Relevancia: No  
+3. Respuesta requerida: No
+
+Archivo: correo_1236.txt
+Resultado:
+1. Sentimiento: Neutral  
+2. Relevancia: Sí  
+3. Respuesta requerida: No
 
 Archivo: correo_1585.txt
 Resultado:
@@ -5286,15 +3261,125 @@ Resultado:
 2. Relevancia: Sí  
 3. Respuesta requerida: No
 
-Archivo: correo_470.txt
+Archivo: correo_424.txt
 Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: No  
-3. Respuesta requerida: No
+1. Sentimiento: [Positivo]  
+2. Relevancia: [Sí]  
+3. Respuesta requerida: [No]  
 
-Archivo: correo_4439.txt
+---
+
+1. Sentimiento: [Neutral]  
+2. Relevancia: [Sí]  
+3. Respuesta requerida: [No]  
+
+---
+
+1. Sentimiento: [Negativo]  
+2. Relevancia: [Sí]  
+3. Respuesta requerida: [Sí] Fecha de Respuesta: [A la brevedad]  
+
+---
+
+1. Sentimiento: [Positivo]  
+2. Relevancia: [Sí]  
+3. Respuesta requerida: [Sí] Fecha de Respuesta: [A la brevedad]  
+
+---
+
+1. Sentimiento: [Neutral]  
+2. Relevancia: [Sí]  
+3. Respuesta requerida: [No]  
+
+---
+
+1. Sentimiento: [Negativo]  
+2. Relevancia: [Sí]  
+3. Respuesta requerida: [Sí] Fecha de Respuesta: [A la brevedad]  
+
+---
+
+1. Sentimiento: [Positivo]  
+2. Relevancia: [Sí]  
+3. Respuesta requerida: [No]  
+
+---
+
+1. Sentimiento: [Negativo]  
+2. Relevancia: [Sí]  
+3. Respuesta requerida: [Sí] Fecha de Respuesta: [A la brevedad]  
+
+---
+
+1. Sentimiento: [Positivo]  
+2. Relevancia: [Sí]  
+3. Respuesta requerida: [No]  
+
+---
+
+1. Sentimiento: [Neutral]  
+2. Relevancia: [Sí]  
+3. Respuesta requerida: [No]  
+
+---
+
+1. Sentimiento: [Negativo]  
+2. Relevancia: [Sí]  
+3. Respuesta requerida: [No]  
+
+---
+
+1. Sentimiento: [Negativo]  
+2. Relevancia: [Sí]  
+3. Respuesta requerida: [Sí] Fecha de Respuesta: [A la brevedad]  
+
+---
+
+1. Sentimiento: [Positivo]  
+2. Relevancia: [Sí]  
+3. Respuesta requerida: [No]  
+
+---
+
+1. Sentimiento: [Positivo]  
+2. Relevancia: [Sí]  
+3. Respuesta requerida: [No]  
+
+---
+
+1. Sentimiento: [Negativo]  
+2. Relevancia: [Sí]  
+3. Respuesta requerida: [Sí] Fecha de Respuesta: [A la brevedad]  
+
+---
+
+1. Sentimiento: [Neutral]  
+2. Relevancia: [Sí]  
+3. Respuesta requerida: [No]  
+
+---
+
+1. Sentimiento: [Positivo]  
+2. Relevancia: [Sí]  
+3. Respuesta requerida: [No]  
+
+---
+
+1. Sentimiento: [Negativo]  
+2. Relevancia: [Sí]  
+3. Respuesta requerida: [No]  
+
+---
+
+1. Sentimiento: [Positivo]  
+2. Relevancia: [Sí]  
+3. Respuesta requerida: [No]  
+
+---
+
+Archivo: correo_3648.txt
 Resultado:
-1. Sentimiento: Neutral  
-2. Relevancia: Sí  
-3. Respuesta requerida: No
+1. Sentimiento: Negativo
+2. Relevancia: Sí
+3. Respuesta requerida: Sí. Fecha de Respuesta: [Lo antes posible, preferentemente dentro de 2 días debido a la urgencia del asunto con el Performance Bond].
 
