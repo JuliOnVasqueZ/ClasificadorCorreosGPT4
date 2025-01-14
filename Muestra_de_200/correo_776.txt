@@ -1,0 +1,64 @@
+Please look over this and get back with me on any changes you would like to 
+make.
+I am going to set up a new counterparty in our system:  Enovate LLC.  Under 
+this new counterparty will be 3 books in Tagg:  FT-ENOVATE, INTRA-ENOVATE, 
+AND FT-INT-ENOVATE.  The INTRA-ENOVATE book will hold deals such as the 
+Trunkline deal and will retain Rho & Drift.  The FT-ENOVATE book will be a 
+flat book only used for  the confirmation process (deals must be in an FT 
+book to be confirmed).  The FT-INT-ENOVATE book will pass Rho & Drift to the 
+interest rate group.  This book will be used for EMW related deals not 
+specific to Enovate.
+The current entity Enron MW LLC will continue to be used and will have the 
+following books in Tagg:  FT & Intra NSS1, FT & Intra NSS2, and FT & Intra 
+TP.  FT and Intra MEH books will no longer be used.
+The P&L will sum the 3 Enovate books to arrive at one number.  The other 
+columns on the P&L(NSS1, NSS2, and TP) will be unaffected.
+I had planned on just adding the Enovate books, but think we really need to 
+set up a new entity as well.  I have run this by accounting and have their 
+approval.  Let me know what you think and we will start the process.  We will 
+have this completed by the end of this month.
+Thanks.
+DG
+713-853-9573
+Steve,
+Attached is a list of the Hub Deals we have currently in the system.  I tried 
+to reconcile them to the sheet you sent me but could not.  Please take a look 
+at these and give me a call.  Thanks.
+DG
+713-853-9573
+Steve Richman@
+09/06/2000 03:45 PM
+Steve Richman
+09/06/2000 03:41 PM
+Darin, this is a summary of the Park and Loan deals that you should have. I 
+will need to talk to you regarding the Exchange deals that are included on 
+the summary of expected revenues. The only exchange that should be recorded 
+under enovate should be the enron exchange for $5,000. In that exchange PGL 
+Hub received molecules in June and returned them in July, ratable. Other than 
+that, if you have any questions call me at 312-541-1233.
+Thanks-Steve Richman
+Done
+DG
+Kevin W Drachenberg
+09/11/2000 10:24 AM
+Barbara Dillard's worksheet shows the full 10,000 MMBtu for 8/1/00 - 8/2/00 
+as SIQ (see below) which is priced at NGPL.ILL-CITYGATE.NGI.M.I - .02 USD, 
+not tier priced as shown below in Sitara.  Unless there's some reason I'm not 
+aware of, can you please change the full volume to be priced at 
+NGPL.ILL-CITYGATE.NGI.M.I - .02 USD.
+Thanks,
+Kevin
+From Barbara's spreadsheet 
+Steve Richman@
+09/06/2000 03:45 PM
+Steve Richman
+09/06/2000 03:41 PM
+Darin, this is a summary of the Park and Loan deals that you should have. I 
+will need to talk to you regarding the Exchange deals that are included on 
+the summary of expected revenues. The only exchange that should be recorded 
+under enovate should be the enron exchange for $5,000. In that exchange PGL 
+Hub received molecules in June and returned them in July, ratable. Other than 
+that, if you have any questions call me at 312-541-1233.
+Thanks-Steve Richman
+I say staged.
+ Excellent!

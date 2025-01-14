@@ -1,0 +1,236 @@
+We will be considering internal candidates as well as external candidates for=20
+this position.  If you are interested, please let Amy FitzPatrick know no=20
+later than close of business on Monday, April 23, 2001.
+If you have any questions, please feel free to see Amy or Debra.
+Mark - I'm so sorry I haven't responded yet, but yes, I did get your e-mail. 
+I actually solved most of the issues detailed on the spreadsheet, but wanted 
+to finish before I sent the document back. I've attached the spreadsheet with 
+what I've done so far, and I'm forwarding most of the remaining deals to Bill 
+Williams in Real Time. The two deals with volume discrepancies are going to 
+take some looking into - I think they're in the system correctly and it's 
+probably just an error in my spreadsheet - but I'll let you know. Again, 
+sorry for the delay.
+Thanks,
+Kate
+Mark Confer
+04/17/2001 05:50 AM
+Kate did you receive my e-mail from the weekend for EES April activity?   I 
+know you may not had time to look at them, I just want to make sure the 
+e-mail got to you since it was the weekend when I forwarded it to you.
+Thanks,
+Mark
+I just spoke with Sean and he said he was indifferent on the subject - so you 
+guys can go ahead and confirm these deals. I'm looking into why Puget sales 
+seem to be coming up "no confirm." Thanks for checking, though.
+Kate
+Hi Kate,
+There were several deals that were marked not to be confirmed that appeared 
+to be normal west deals that we should confirm. We've already changed them to 
+yes, but please check with Sean Crandell to see if he marked them not to be 
+confirmed for a reason.
+582669
+582674
+582675
+582680
+582682
+582684
+582687
+582689
+582691
+582692
+582693
+582697
+582701
+582706
+582708
+582710
+582711
+Thanks so much!!
+Amy
+I'm not sure why you're seeing a price of $65.70 come through on this deal, 
+but I'm looking at the deal in EnPower right now and I see a price of $65. If 
+you could let me know what report is showing the incorrect price, I might be 
+able to figure out why.
+Thanks,
+Kate
+Judy Dyer@EES
+04/17/2001 08:16 AM
+Your deal # 581358.1 is showing a price of 65.70 but on the Real Time 
+spreadsheet, I see 65.00.  Which is correct?
+Thanks for you help
+Judy
+This deal was a physical payback to WAPA, and it should be in at a zero 
+price. I've added a comment into the deal to explain this, and I asked Holden 
+to put comments in any weird deals he enters from now on. Thanks for catching 
+this - it does need to be confirmed.
+Kate
+Kimberly Hundl@
+04/17/2001 09:05 AM
+This deal has no price entered -should we not confirm it?  or is it wrong?
+Thanks!
+Kim
+Thanks for following up on this, Rhonda. I believe you just spoke with Chris 
+about the executed original of this contract. Please let me know what else I 
+can do to speed this process along. I ran a search for deals the West 
+Services desk has done with this counterparty (which were entered with Sierra 
+Pacific Industries, Inc.) and came up with only three deal numbers. They are:
+580832
+580137
+580136
+Would you like me to change these over? Or are you doing that along with the 
+re-confirmation? Please let me know when you get a chance.
+Thanks,
+Kate
+Rhonda L Denton
+04/17/2001 09:19 AM
+Because of credit reasons, the name above will remain the name under the 
+contract.  Global Counterparty has agreed to set up this dba as listed on the 
+contract.  Once this CP has been set up, I will need the trades moved to this 
+CP and the deals will need to be reconfirmed in the accurate name 
+If there are no objections, I will move the deals and instruct the confirm 
+person to resend the confirms.  I will also move the contract to this new 
+name.  Genia will prepare the amendment covering just the change in the 
+credit provisions.
+If Portland holds the fully executed original, please forward to me at your 
+earliest convenience.  If you have any questions or further instructions, 
+please contact me at X35871.
+I asked Bob about these this morning, and he said he's still got to work this 
+out with Constellation. The way he explained it, our position is flat with 
+Constellation, so for settlements purposes we're okay - i.e. We've bought the 
+same volumes that we've sold, and we end up losing a bit due to the index 
+offset - but otherwise the index price won't make a difference.  But I 
+suspect he's not thinking of the problem from the confirmation standpoint. 
+Could you tell me exactly what needs to happen to clear this up on your end 
+so that I can explain it to Bob in a way that might make him DO something? 
+I'm sorry for the delay on this - I'm getting ready to call Bob's contact at 
+Constellation for him.
+Let me know what your ideal solution would be. Should we get Constellation to 
+agree to the Dow Jones index? Or should we change the deals to forward fixed 
+price? We'll fix this today - I promise.
+Thanks,
+Kate
+Melissa Ann Murphy
+04/17/2001 08:12 AM
+Hello, any news on these Constellation Cal PX trades Thanks,
+Melissa
+I just talked to Bob, and I don't know if he's responded yet, but I thought 
+I'd fill you in anyway. He's been talking to his contact at Constellation 
+about changing these deals over, but hasn't received a concrete answer yet. 
+I've reminded him and he said he WILL talk to the guy and resolve it today. 
+I'll keep on it, and let you know when these deals have been changed.
+Thanks,
+Kate
+Melissa Ann Murphy
+03/29/2001 11:13 AM
+Hello, I hate to bug you with this.  Whenever you can spare a second would 
+you ask Bob about this?  I am afraid it is going to slip through the cracks.
+Thanks for your help!
+Melissa
+Melissa Ann Murphy
+03/26/2001 10:34 AM
+Hi Bob, I was wondering if you have contacted Constellation about the 6 
+trades that are in the system with the Cal Px as the index price.  All of 
+these trades start flowing in July of this year.
+The deal numbers are as follows:
+453152.01
+453175.01
+453294.01
+462109.01
+471888.01
+471889.01
+Let me know if Constellation agrees to change these deals to the Dow Jones so 
+I can send a letter for them to sign.
+Thanks,
+Melissa
+Here you go, Chris. Please ignore the last four days, as they are still under 
+construction. And let me know if you have any questions.
+Thanks,
+Kate
+Thanks for doing that. And those deals didn't show up in my query because I 
+was looking for trades done under the Short Term West Services desk - I 
+didn't realize Chris was also entering these under Short Term California. 
+Just let me know if there's anything else I can do.
+Thanks,
+Kate
+Rhonda L Denton
+04/17/2001 11:20 AM
+What about 573679, 579822, 579826 and the 2 transmission deals that are in 
+Enpower?  I will change them as soon as Sam gets the CP set up if its okay 
+with you.  Then I can tell Kim Hundle to resend the confirms.
+Kate Symes                04/17/2001 11:34 AM
+Thanks for following up on this, Rhonda. I believe you just spoke with Chris 
+about the executed original of this contract. Please let me know what else I 
+can do to speed this process along. I ran a search for deals the West 
+Services desk has done with this counterparty (which were entered with Sierra 
+Pacific Industries, Inc.) and came up with only three deal numbers. They are:
+580832
+580137
+580136
+Would you like me to change these over? Or are you doing that along with the 
+re-confirmation? Please let me know when you get a chance.
+Thanks,
+Kate
+Rhonda L Denton
+04/17/2001 09:19 AM
+Because of credit reasons, the name above will remain the name under the 
+contract.  Global Counterparty has agreed to set up this dba as listed on the 
+contract.  Once this CP has been set up, I will need the trades moved to this 
+CP and the deals will need to be reconfirmed in the accurate name 
+If there are no objections, I will move the deals and instruct the confirm 
+person to resend the confirms.  I will also move the contract to this new 
+name.  Genia will prepare the amendment covering just the change in the 
+credit provisions.
+If Portland holds the fully executed original, please forward to me at your 
+earliest convenience.  If you have any questions or further instructions, 
+please contact me at X35871.
+Tom and Mark are not spot traders, they're cash traders. This is what I was 
+referring to yesterday - that Real Time is now being charged $15 for trades but cash and term traders should still be charged the traditional $.005. Why 
+is Bloomberg recognizing these trades as Real Time?
+Kate
+Evelyn Metoyer@
+04/17/2001 12:33 PM
+Hi Kate, per our discussion on yesterday about the $15.00 flat fee on Tom's 
+and Mark's deals, here is Bloomberg's response.  Please pass this info to all 
+of our traders.  Please let me know what the response is from them.
+Thanks
+Evelyn, as of April 16, 2001 our charge for Spot trades is a flat fee of
+$15/trade.
+I think she'd do that. Her parents are out of town right now, so she's 
+house/cat-sitting for them. I don't know when they get back, but let me check 
+with her because it could get a little hectic if she had to be on the 
+opposite ends of town everyday. I'll let you know.
+It's been changed to Avista.
+Evelyn Metoyer@
+04/17/2001 12:44 PM
+deal 584117
+Mike Swerzbin
+Prebon sent over the confirm for this deal and they are saying the cp should 
+be Avista not Duke
+I've changed the counterparty name to The City of Oakland - and the contact 
+is Wing Lau. His number is (510) 627-1457. According to Stewart Rosman, the 
+middle marketer who did this deal, City of Oakland is the same entity as Port 
+of Oakland; however, City is the counterparty name in the system which is 
+linked with the correct contact info. I tried to look up the contract in 
+Livelink, but I keep getting an error message. Is there any way you can check 
+on this contract to make sure we're entering these deals with the correct 
+counterparty name?
+Thanks,
+Kate
+Stephanie Piwetz   04/17/2001 01:17 PM
+Please ask Bob for a contact, if you place it in the comment section we can 
+add it Port Of Oakland 
+Thank you
+Here's the correspondence between Evelyn in the Houston Confirms group and 
+Paul Callahan at Bloomberg outlining the broker's new $15-per-trade fee. 
+Please let me know if you have questions or would like me to talk to someone 
+at Bloomberg about this. I'll also check with Tim to find out if the fee 
+change was ever negotiated with Enron.
+Thanks,
+Kate
+Evelyn Metoyer@
+04/17/2001 02:14 PM
+Kate for our deal 582589 and 582423 these deals according to Bloomberg the 
+fee should be $15.00.  Please pass on to Mark and Tom.
+Thanks!
+That is the commission for those trades. The rate that Bloomberg Powermatch
+now charges for cash trades is $15 per trade.

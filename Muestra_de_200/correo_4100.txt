@@ -1,0 +1,760 @@
+Nick Bambos 
+Pinnamaneni Krishnarao
+10/09/2000 10:53 AM
+Martin,
+It's OK for Walter to use remaining hours. No real cost to Enron,
+just the benefits.
+Vince
+Walter Coffer contacted me regarding whether we still have power flow 
+software available.  We do have almost all of a 200 execution-hour license 
+for PSS/E, which was purchased for the transmission congestion project last 
+summer.  This was purchased by East Power Trading.  Should Walter want to use 
+the remaining hours, who has authority to grant this?
+Thanks,
+Martin
+John,
+Per our discussion, Nov 13 is fine.
+Vince
+Vince,
+I have penciled you in for Nov 13th for my class.  Does this work for you?
+This is a Monday and I would suggest you come up Monday afternoon, you can
+give a brief talk to our department late in the afternoon, and then you can
+talk to my Ex MBAs at 6 p.m. for an hour or so.  I'll get you to the hotel
+for the evening and we can work on the paper Tuesday morning.  I recommend
+this Mon noon through Tue noon arrangement since I will be out of town the
+weekend before the 13th.  If this needs reshuffling let me know.  We'll
+make it work.
+I look forward to talking with you later this week along with Mark Palmer.
+John
+John D. Martin
+Carr P. Collins Chair in Finance
+Finance Department
+Baylor University
+PO Box 98004
+Waco, TX 76798
+254-710-4473 (Office)
+254-710-1092 (Fax)
+J_Martin@Baylor.edu
+web 
+Barbara,
+Noon will be fine. we shall just use the lunch hour.
+Vince
+Barbara Ostdiek  Vince:
+I don't know if you noticed that we have Tim Bollerslev on the seminar
+schedule for December 8.  In order for Tim to get back to North Carolina on
+Friday, we need to move the seminar time.  I thought that the Enron folks
+might be interested in his talk so I wanted to get you input on a new
+time.  I know that 3:30 is best but would over the noon hour be second best
+or would 2:00 be better?
+Thanks.
+bbo
+There may be a business opportunity with this company, but I would not advise 
+making an investment.
+Kevin Garland
+Richard Reichardt
+10/10/00 12:30 PM
+Mike,
+Using NASA satellite transmission of maritime data and establishing a Houston 
+Data Center to consolidate and centrally process 3D seismic data surveys for 
+oil and gas extraction, exploration and development could save the petroleum 
+industry more than $300 million dollars annually through reduced operational 
+expenses.  Added value in shortening the time to process and deliver the 
+finished surveys should generate more than $26 million per site (based upon 
+$15/barrel for average oil well production to market 30 days sooner)in 
+revenue.  By re-selling this data to market analysts or by internally using 
+this data for forecasting future oil/gas production Enron could increase the 
+accuracy of forecasting reserves and production capabilities globally.  By 
+holding the data as exclusive (or partially exclusive), Enron would have a 
+significant market advantage in futures pricing for oil and gas.(Vince's team 
+is quantifying the valuation of this information)
+Attached please find an updated version of the business case for seismic data 
+transfer via satellite, by a geophysicist at SpaceData - William K. Aylor, 
+calculated using $22/barrel oil.
+Based upon your availability, Jon Adler and I would like to make a 
+presentation to you (or your designated representative) on the Enron 
+potential of this opportunity, sometime next week (17-20 October).
+- SDT Business Case4.pdf
+V.R.,
+Richard Reichardt
+Enron Broadband Services
+(713)-345-8377 (Office)
+(713)-907-3767 (Mobile)
+1400 Smith Street, Suite EB 4364 
+Houston, Texas  77002
+Power 2000 Operational Risk for Kevin
+NW on Linux  Please respond to Linux Help  NETWORK WORLD NEWSLETTER: PHIL HOCHMUTH
+on LINUX
+04/16/01 - Today's focus: Super-secret Linux
+Dear Wincenty Kaminski,
+In this issue:
+* National Security Agency is bulletproofing the operating system
+* Links related to Linux
+* Featured reader resource
+* CAREER CORNER: Mission-critical opportunities with marketplace
+winners
+_______________________________________________________________
+If a friend has forwarded this newsletter to you, why not sign-up
+for your own free copy? Visit  
+for your own free subscription.
+_______________________________________________________________
+Today's focus: Super-secret Linux
+By Phil Hochmuth
+Network Associates is teaming up with the National Security Agency,
+the government's top electronic cryptography and spying institution,
+to help the agency fine-tune its highly secure version of Linux. The
+goal is to create a version of Linux that is impervious to outside
+attacks.
+Security Enhanced Linux, or SELinux, is a project under development
+by the NSA to create a version of the operating system that is more
+secure than the commercial distributions of Linux available from
+software vendors and the open-source community. The PGP Security
+division of Network Associates is working with the NSA to modify the
+Linux source code so that applications running on a Linux server or
+PC have reduced access to a Linux machine's underlying operating
+system. The aim is to give Linux servers the ability to shirk off
+"buffer overrun" and "format string" attacks, which take advantage of
+loose ends in Linux applications to access a server's core operating
+system and shut it down. A Linux worm dubbed "Lion" was recently
+identified as using this method to hack Linux servers.
+NSA has worked with other software firms to shore up other weaknesses
+in the operating system. Secure Computing has worked on the SELinux
+project to add its Type Enforcement technology to SELinux. Type
+Enforcement protects the operating system and applications by
+segmenting them into security "domains" with specifications on what
+types of files can be accessed by each domain. (For example, this
+could be used to prevent access to a configuration file through an
+application, such as Apache Web server). NSA is also working with
+VMWare to come up with a more secure user permissions system for
+allowing users with different security access to work on the same
+server.
+The good news for Linux users who are not high-level NSA operatives
+is that SELinux will be released to the open-source community once
+finished. This means that commercial Linux vendors could include
+SELinux security enhancements in future releases, resulting in more
+bulletproof Linux Web and database servers in enterprises.
+_______________________________________________________________
+To contact Phil Hochmuth:
+Phil Hochmuth is a staff writer for Network World, and
+a former systems integrator. You can reach him at
+_______________________________________________________________
+RELATED LINKS
+Get the source code for SELinux
+Check out a site with Linux security tools and tips
+PGP working with NSA on Linux security prototype  -  Network World,
+04/16/01
+Breaking Linux news from Network World and around the 'Net,
+updated daily 
+Archive of the Linux newsletter:
+______________________________________________________________
+FEATURED READER RESOURCE
+Buyer's Guides
+Researching for a purchase? Check out Network World Fusion's
+Buyer's Guides. Whether you're researching VPN products or SAN
+switches or wireless LAN gear, these guides provide reviews and
+compare vendors head to head. See the list of guides at:
+_______________________________________________________________
+CAREER CORNER presented by  
+LINUX TALENT IN DEMAND
+Technology business trends are shifting, but job creation is
+still high. Register with LeadersOnline and let our web-based
+recruiting service bring exceptional Linux opportunities your
+way. With positions ranging from $75-200K, we work with the
+best companies on their mission-critical jobs. LeadersOnline is
+just what you'd expect from Heidrick & Struggles, the world's
+leading executive search firm. It takes just 10 minutes to
+register and our service is free and confidential.
+_______________________________________________________________
+SUBSCRIPTION SERVICES
+To subscribe or unsubscribe to any Network World e-mail
+newsletters, go to:
+To unsubscribe from promotional e-mail go to:
+To change your e-mail address, go to:
+Subscription questions? Contact Customer Service by replying to
+this message.
+Have editorial comments? Write Jeff Caruso, Newsletter Editor,
+at: mailto:jcaruso@nww.com
+For advertising information, write Jamie Kalbach, Fusion Sales
+Manager, at: mailto:jkalbach@nww.com
+Attention:   FT.com Users -
+FT.COM SITE NOW DELIVERS THE INFORMATION YOU NEED - FASTER
+FT.com has updated key pages that our users visit most frequently
+* News and analyses
+* Markets information
+* Industry news
+The site retains most of its look and feel but should download onto your
+desktop more quickly.  Four prominent buttons at the top of every page provide
+immediate access to index pages for news, markets, industries and companies. 
+We
+bring you hour by hour update on global story headlines -  political and
+economic, with business highlights, key market developments as well as the
+latest corporate news. New index pages link directly from the home page - you
+can find your way to individual companies or groupings by region from the head
+of every page.
+So if you haven't visited the site for some time we urge you to revisit us
+today and judge these improvements for yourself. And if you rely on this site
+as your primary business information source every day, we hope you will agree
+that the enhancements make keeping on top of global trends easier - and more
+efficient.  If you have the time, please send us your comments: e-mail
+editor.ftcom@ft.com.
+Go straight to the new FT.com at:
+FT.com has come up with a fun way for you to squeeze a little light relief 
+into
+your working day.  It's called the Wall Street Dash.  Take a break and
+challenge yourself - and your colleagues - on FT.compete.  Play the game and
+test your keyboard skills to win one of five Palm Pilot Vx prizes.
+Stay ahead with FT.com and give yourself a competitive edge!
+Sincerely,
+FT.com
+PS:  The Financial Times newspaper has a sharper look too this week, with new
+features for UK and around the world; as well as more coverage of European and
+global business.  Additions include a weekly review of business law and a pick
+of the weekend's big sporting events.  Plus every Tuesday, a new supplement,
+Creative Business, offers stylish, hard-edged news and views on media, design
+and communications.
+Kevin,
+No problem, A very good idea.
+Please, submit expenses to em for signature.
+Vince
+Kevin G Moore
+10/10/2000 09:10 AM
+Well Vince ,
+The group has responded and ready for action.
+Vince , we would like to take Mike to Happy Hour
+for Boss's Day on the 16th of Oct.
+So if it is okay with you may we do so?
+I am aware that you will be out on this particular
+day however , I would also like to ask anyone in
+the Research Group to please join us as we celebrate
+with Mike.
+fyi  : nothing fancy just a few drinks , laugher and conversation.
+Thanks
+Kevin Moore
+P.S. Please inform 
+Kevin G Moore
+10/09/2000 02:35 PM
+Hey Everyone ,
+I know you may not be aware that Boss's Day OCT.16,2000
+We will celebrate as a group in the staff meeting on Oct.19th,
+with the Big Boss Vince Kaminski and all the others , however ,
+if you would like to do something special for our Boss, please 
+inform me whereby I can make arrangements.
+Thanks
+Kevin Moore
+Bob Lee@
+10/10/2000 09:39 AM
+Vince
+My LNG review is attached for comment.
+Bob
+John,
+Congratulations on a career move.
+Yes, we were contacted regarding geophysical data gathering/transmission 
+project.
+We asked our geophysicists for help and are shooting for
+a meeting on  Thursday to run our ideas by them.
+Vince
+Good Morning Vince:
+1) We met with some geophysical data gathering/transmission people last 
+week.  I observed that there is an opportunity to get in the early steps of 
+the (oil exploration) energy supply chain - we can get at the key data 
+driving oil drilling earlier than anyone else by extending into this area of 
+broadband networking - to build a way to hedge oil and other energy trades 
+I asked Adler or Reichardt to present the idea to your team for validation Have they contacted you yet?
+2) I'm converting to consultant - I've had a great year here but need to get 
+back north more often (family).  I will be converting to consultant status 
+starting next week.  Do not hesitate to call me if there is anything I can do 
+for you or your team to help out.
+John Bloomer cell 610 574 3945
+FYI
+Vince
+Mike,
+Using NASA satellite transmission of maritime data and establishing a Houston 
+Data Center to consolidate and centrally process 3D seismic data surveys for 
+oil and gas extraction, exploration and development could save the petroleum 
+industry more than $300 million dollars annually through reduced operational 
+expenses.  Added value in shortening the time to process and deliver the 
+finished surveys should generate more than $26 million per site (based upon 
+$15/barrel for average oil well production to market 30 days sooner)in 
+revenue.  By re-selling this data to market analysts or by internally using 
+this data for forecasting future oil/gas production Enron could increase the 
+accuracy of forecasting reserves and production capabilities globally.  By 
+holding the data as exclusive (or partially exclusive), Enron would have a 
+significant market advantage in futures pricing for oil and gas.(Vince's team 
+is quantifying the valuation of this information)
+Attached please find an updated version of the business case for seismic data 
+transfer via satellite, by a geophysicist at SpaceData - William K. Aylor, 
+calculated using $22/barrel oil.
+Based upon your availability, Jon Adler and I would like to make a 
+presentation to you (or your designated representative) on the Enron 
+potential of this opportunity, sometime next week (17-20 October).
+- SDT Business Case4.pdf
+V.R.,
+Richard Reichardt
+Enron Broadband Services
+(713)-345-8377 (Office)
+(713)-907-3767 (Mobile)
+1400 Smith Street, Suite EB 4364 
+Houston, Texas  77002
+Ehud,
+I am flying back in the evening and dinner would be difficult.
+I shall be glad to join you for lunch,
+Shirley, as I understand gave you my requirements for the AV.
+My flight arrives at 8:30 a.m. I can meet you at your office in the morning 
+and 
+we can talk about the conference and other issues.
+Vince
+Vince,
+Good morning.
+Further to your forthcoming visit this Wed., I write to clarify last-minute
+details:
+1.  Your ETA/ETD.  Will you be available to join us for lunch and/or dinner?
+2.  Your AV requirements, if any.  Should you need either, we have an
+overhead projector as well as laptop capability (either YOUR laptop, or we
+can with advance notice reserve a laptop if you bring floppies).
+BTW, any developments re Jeff Skilling's 2/22 conference keynote?
+Best,
+Ehud
+Jack S. Josey Professor in Energy Studies
+Department of Finance
+McCombs School of Business
+University of Texas at Austin
+Austin, TX. 78712-1179
+Voice:  (512) 471-5853
+FAX:   (512) 471-5073
+Internet:  eronn@mail.utexas.edu
+John D. Martin
+Carr P. Collins Chair in Finance
+Finance Department
+Baylor University
+PO Box 98004
+Waco, TX 76798
+254-710-4473 (Office)
+254-710-1092 (Fax)
+J_Martin@Baylor.edu
+Barbara Ostdiek  Rice/Enron Finance Seminar Series Participants:
+We are getting ready to kick off the 2000/2001 Enron Finance Seminar Series
+at Rice University.
+You can find the current schedule at Note that this is a new web address.
+For your convenience, here are the dates and speakers lined up so far:
+Sept 22    Jeff Pontiff, U. of Washington
+Sept 29    Len Mirman, U. of Virginia
+Oct    6    Charles Lee, Cornell
+Oct   13   George Allayannis, Darden
+Oct   20   William Goetzmann, Yale
+Nov   17   Yacine Ait-Sahalia, Princeton (joint seminar with Rice Economics)
+Mar    9    Paul Schultz, Notre Dame
+Apr   27    Luigi Zingales, U. of Chicago
+Lined up for the spring but date not yet scheduled:
+Tim Bollerslev, Duke University
+Matthew Richardson, New York University
+As changes are made to the schedule, I will notify the distribution list.
+In addition, as we have done in the past, we will post the abstract and a
+downloadable version of the paper (if available) to the website a week or
+two before the seminar.  The website will also provide a link to the
+speaker's homepage so you can access his or her biographical
+information.  If the paper is not available at the website, I will send a
+hardcopy to interested Jones School faculty, to Felecia Jones (Economics),
+Latha Ramchand (University of Houston), and Vince Kaminski (Enron).
+I will e-mail an announcement before each seminar, reminding you of the
+seminar date, time, and location.  The distribution list will include
+everyone that receives this e-mail.  Please contact me at ostdiek@rice.edu
+if you would like to be deleted from the mailing list or if you know of
+someone who should be added (new PhD students, new faculty, etc 
+bbo
+Barbara Ostdiek
+Assistant Professor of Finance
+Jones Graduate School of Management
+Rice University
+6100 Main Street - MS 531
+Houston, TX 77005-1892
+713-348-5384 (voice)
+713-348-5251 (fax)
+ostdiek@rice.edu
+www.ruf.rice.edu/~ostdiek/
+Shirley Crenshaw
+09/15/2000 02:46 PM
+FYI!
+Shirley
+Barbara Ostdiek  
+Jones Graduate School Research Seminar Series in Finance
+Sponsored by Enron Corp.
+Jeff Pontiff
+University of Washington
+will give a seminar at the Jones School on Friday, September 22,?=20
+=01&Market Valuation of Tax-Timing Options: Evidence from Capital Gains=20
+Distributions.=018
+The seminar will begin at 3:30 in Room 115.
+A Word file with the paper is available through the seminar website=20
+There have also been several updates to the schedule in the last week or ten=20
+days.
+Dear Vince,
+Attached please find my upgraded resume.  Look forward to hearing from you.
+,
+Martin
+- martin .doc
+Shirley Crenshaw
+04/19/2001 03:01 PM
+Attached please find the completed form for Vince Kaminski, Managing
+Director, Research Group 
+He will be approving all purchases for cost center 107043.
+HI Shirley
+There were two Shirleys, so sending to both 
+ISC Help Desk
+Toni,
+FYI.
+Vince
+Dear Vince,
+Attached please find my upgraded resume.  Look forward to hearing from you.
+,
+Martin
+- martin .doc
+Pierre-Philippe,
+Friday would be beter.
+Vince
+Pierre-Philippe Ste-Marie  Dear Mr. Kaminski,
+It goes without saying that whoever come with you is invited for dinner.
+Would you prefer to have dinner on Thursday night or Friday night. I think
+it would be better Friday night as we could discuss the presentation.
+Sincerely,
+Pierre-Philippe Ste-Marie
+Vince J Kaminski
+10/09/2000 10:56 AM
+Toni,
+I would like to bring two people for an interview 
+One of them sent me a message that is attached below.
+I am including the info about the 2nd gentleman below.
+I would like to include myself, Vasant Shnabhogue, Tanya Tamarchenko
+Stinson Gibner, Zimin Lu, Paulo Issler,  Alex Tang on the interview list.
+It would be great if we could bring them this week on Friday. Tanya
+will be at a training course next week. This means that if Friday this week 
+is too aggressive,
+we should shoot for interviews in 2 weeks.
+Sorry for a short notice.
+Vince
+Jermakyan, Martin
+410 Brightmore Downs
+Alpharetta, GA 30005
+Phone: (770) 753-9341 (h)
+(404) 402-8957 (c)
+martin@electraparners.com
+VKaminski@aol.com on 10/07/2000 05:55:11 PM
+2000 13:43:06 -0400
+Dear Vince:
+How are you? I am not sure whether you still remember
+me, we met in a conference last year in Houston. After
+having been working for Williams for about two years,
+now I am ready to make a move. I have heard Enron is a
+great company, I am wondering whether there is any
+opportunity for me, either in research group or in
+structure group
+Here is brief description about myself: Right after I
+got my Ph.D. on finance and econometrics from Duke
+University in 1998, I joined Williams Energy Trading
+company as a Quantitative Analyst. Now I am Lead Quant
+and in charge of the quantitative research group with
+7 highly talented people. I have done extensive
+research and modeling about electricity,
+load-following deal and tolling deals.
+If you need any additional information, please feel
+free to call me at 918-409-4308. I look forward to
+hearing from you soon, thank you.
+sincerely,
+Charles
+__________________________________________________
+Do You Yahoo!?
+Yahoo! Photos - 35mm Quality Prints, Now Get 15 Free!
+Vince J Kaminski
+10/09/2000 10:56 AM
+Toni,
+I would like to bring two people for an interview 
+One of them sent me a message that is attached below.
+I am including the info about the 2nd gentleman below.
+I would like to include myself, Vasant Shnabhogue, Tanya Tamarchenko
+Stinson Gibner, Zimin Lu, Paulo Issler,  Alex Tang on the interview list.
+It would be great if we could bring them this week on Friday. Tanya
+will be at a training course next week. This means that if Friday this week 
+is too aggressive,
+we should shoot for interviews in 2 weeks.
+Sorry for a short notice.
+Vince
+Jermakyan, Martin
+410 Brightmore Downs
+Alpharetta, GA 30005
+Phone: (770) 753-9341 (h)
+(404) 402-8957 (c)
+martin@electraparners.com
+VKaminski@aol.com on 10/07/2000 05:55:11 PM
+2000 13:43:06 -0400
+Dear Vince:
+How are you? I am not sure whether you still remember
+me, we met in a conference last year in Houston. After
+having been working for Williams for about two years,
+now I am ready to make a move. I have heard Enron is a
+great company, I am wondering whether there is any
+opportunity for me, either in research group or in
+structure group
+Here is brief description about myself: Right after I
+got my Ph.D. on finance and econometrics from Duke
+University in 1998, I joined Williams Energy Trading
+company as a Quantitative Analyst. Now I am Lead Quant
+and in charge of the quantitative research group with
+7 highly talented people. I have done extensive
+research and modeling about electricity,
+load-following deal and tolling deals.
+If you need any additional information, please feel
+free to call me at 918-409-4308. I look forward to
+hearing from you soon, thank you.
+sincerely,
+Charles
+__________________________________________________
+Do You Yahoo!?
+Yahoo! Photos - 35mm Quality Prints, Now Get 15 Free!
+Toni,
+I would like to bring two people for an interview 
+One of them sent me a message that is attached below.
+I am including the info about the 2nd gentleman below.
+I would like to include myself, Vasant Shnabhogue, Tanya Tamarchenko
+Stinson Gibner, Zimin Lu, Paulo Issler,  Alex Tang on the interview list.
+It would be great if we could bring them this week on Friday. Tanya
+will be at a training course next week. This means that if Friday this week 
+is too aggressive,
+we should shoot for interviews in 2 weeks.
+Sorry for a short notice.
+Vince
+Jermakyan, Martin
+410 Brightmore Downs
+Alpharetta, GA 30005
+Phone: (770) 753-9341 (h)
+(404) 402-8957 (c)
+martin@electraparners.com
+VKaminski@aol.com on 10/07/2000 05:55:11 PM
+2000 13:43:06 -0400
+Dear Vince:
+How are you? I am not sure whether you still remember
+me, we met in a conference last year in Houston. After
+having been working for Williams for about two years,
+now I am ready to make a move. I have heard Enron is a
+great company, I am wondering whether there is any
+opportunity for me, either in research group or in
+structure group
+Here is brief description about myself: Right after I
+got my Ph.D. on finance and econometrics from Duke
+University in 1998, I joined Williams Energy Trading
+company as a Quantitative Analyst. Now I am Lead Quant
+and in charge of the quantitative research group with
+7 highly talented people. I have done extensive
+research and modeling about electricity,
+load-following deal and tolling deals.
+If you need any additional information, please feel
+free to call me at 918-409-4308. I look forward to
+hearing from you soon, thank you.
+sincerely,
+Charles
+__________________________________________________
+Do You Yahoo!?
+Yahoo! Photos - 35mm Quality Prints, Now Get 15 Free!
+Pierre-Philippe,
+Yes, we are ready. I shall be accompanied by one person from
+our Analyst/Associate program and I would like to ask you if she can be 
+invited
+to dinner as well.
+We plan to come Thursday night and leave on Sat morning to avoid potential
+flight delay risk.
+Vince
+Pierre-Philippe Ste-Marie  Hi Mr. Kaminski,
+Just touching base  for the 3rd of November. Is everything ready?
+Sincerely,
+Pierre-Philippe Ste-Marie
+Mark,
+Two points. 
+1. You probably know about it already.  ABHAY MEHTA, the author of "Power 
+Play", is on a
+tour of the United States. Please, take a look at the information about a 
+meeting last Sunday 
+at Stanford University. The web site address is  given below. My wife went to
+the presentation and told me it was quite critical about Enron. About 40 
+people attended.
+2. I was approached by John Martin, a professor of finance at Baylor, to 
+write jointly an
+academic paper on Enron for a financial journal. He wanted to work on an 
+article on EBS.
+I have suggested a different topic: Enron - Case Study of a Company 
+Reinventing Itself.
+I made a few points to John:
+a. Enron's evolution did not just happen  by accident.
+It was a result of implementation of a far-reaching
+strategy developed by the management.
+b. In the process of its evolution Enron changed its environment. I came up 
+with a term
+"proactive evolution", as opposed to "reactive evolution."
+c. The strategy included many elements, including emphasis on the quality
+of human resources, changing corporate attitudes to risk taking and employee
+empowerment.
+d. There are very few companies that match Enron's experience and 
+accomplishemnts.
+The paper could become a standard reading at the MBA courses on corporate 
+strategy
+and would help greatly our recruiting efforts. 
+Writing the paper would require interviews with Ken, Jeff and a few other key 
+players. 
+Let me know what you thing about it. John is really excited about this paper.
+Vince
+VKaminski@aol.com on 10/07/2000 05:29:41 PM
+Shirley,
+Please, send him my bio.
+Vince
+VKaminski@aol.com on 10/08/2000 11:00:05 AM
+Shmuel,
+Thanks. I shall send you a bio from the office.
+Vince
+Tatiana,
+I am in Europe this week.
+I shall contact you on my return.
+Vince
+Tatiana Marinenko  Dear Vince Kaminski:
+I enjoyed talking with the Enron representatives at Rice University
+last week and was recommended to contact you regarding my strong interest
+in pursuing a career with Enron Corporation.
+I am a Mathematics Ph.D. student at Rice University and have the
+highest current GPA in the Ph.D. program. I am also gaining knowledge in
+Derivatives Pricing, Risk Management and Hedging at Rice University Jones
+School of Management. I am very interested in an internship and/or
+permanent position with your company beginning in the summer of 2001.
+Enclosed please find a copy of my resume.  I've attached a second copy to
+download, if necessary.
+Thank you for your consideration. I look forward to hearing from you.
+Sincerely,
+Tatiana Marinenko
+(713) 348-28-40
+marinenk@rice.edu
+- resume.txt
+- math_phd.pdf
+Bessik Matchavariani@MUNICATIONS on 04/19/2001 01:48:00 PM
+Vince,
+Here is Michael Maddox contact information:
+Tel: (617) 497 6446
+email: mmaddox@cera.com
+They have an office in Europe as well.  I would love to be involved in 
+projects involving Georgia, Azerbaijan, Turkey, etc.
+My resume
+Thanks,
+Bessik Matchavariani
+Enron Broadband Services
+Tel: 713.345.7230
+Fax: 713.646.8861
+bessik_matchavariani@.net
+Sam,
+I forgot about Maureen's article being available. Please, use your judgement 
+what to publish.
+It  depends on whom you can catch first.
+Vince
+Vince,
+I'll try to contact her this morning.  Also, Zimin's note with his article 
+said you want to print his Technical Corner today.  Do we not want to 
+conclude Maureen's article with today's issue 
+Sam
+Vince J Kaminski@ECT
+09/29/2000 05:22 PM
+Sam,
+We should profile Kirstee who is on rotation from London Office.
+Vince
+Shmuel,
+This is the abstract  for  my presentation on the 23rd of October.
+I am in London and Paris this week. I can be reached at my 
+private E-mail address vkaminski@aol.com.
+Please, feel free to suggest modifications to the abstract.
+Vince
+ The last three years were characterized by exceptionally high volatility of
+ the power prices in the US markets. The market developments have created a
+ number of unique challenges for energy industry economists. One immediate
+ question we have to answer is how to measure volatility of energy prices.
+ Although we can all agree that the prices in the power markets are
+ characterized by high variability, the traditional measures used in 
+financial
+ economics (annualized standard deviation of log price returns) may not fit
+ well electricity prices. The second challenge is to explain the sources of
+ high price volatility and to answer the question to what extent it can be
+ attributed to problems that can be addressed in the long run. Such problems
+ include flaws in market design that allow some market participants to abuse
+ market power, limited availability and/or unequal access to transmission,
+ temporary shortages of generation capacity. Some factors underlying high
+ volatility of electricity prices may be of permanent nature and may be a
+ necessary price to pay for increased market efficiency and expanded customer
+ choice.
+Paul,
+Sorry for the late notice. Please, let me know when you are coming to Houston.
+I shall be again in London sometimes in November.
+Vince
+paul.e.day@uk.arthurandersen.com on 10/02/2000 02:29:57 AM
+I would very much like to meet Vince, unfortunately I am in back to back
+meetings all day today.  Maybe we could rearrange next time Vince is in London
+or I am in Houston.
+PAUL
+Paul:
+FYI.
+,
+Shirley
+Shirley Crenshaw
+09/29/2000 11:51 AM
+Wendy:
+I am so sorry for the late notice, but Vince will be in London for 1 day
+only,
+Monday, October 2nd.  He has had some time freed up and if Paul and
+Julian could meet with him, they can call him at the Grosvenor House,
+870-400-8500.  His morning is already full, but lunch, dinner or afternoon
+would work.
+,
+Shirley
+wendy.dunford@arthurandersen.com on 09/18/2000 10:14:51 AM
+Hi Shirley
+Thanks for getting back to me.
+Wendy
+Tom,
+The system does not take my approval of this request.
+Vince
+ARSystem@ect.enron.com on 09/27/2000 09:18:47 AM
+Please review and act upon this request. You have received this email because 
+the requester specified you as their Manager. Please click 
+to approve the request.
+Request ID          : 000000000003619
+Request Create Date : 9/27/00 9:18:21 AM
+Requested For       : tom.halliburton@
+Resource Name       : Unlisted Application/Software
+Resource Type       : Applications
+Shijie,
+Additional   changes.
+Abstract:
+The power market developments in the US have created several unique
+challenges for energy industry economists. We discuss the major factors 
+underlying
+the exceptionally high volatility of electricity prices. We feel that some of
+them may reflect the flaws in power pools design and incomplete transition to 
+fully deregulated markets in
+generation and transmission.
+The title is fine.
+Vince
+Shijie Deng  Vince,
+Thanks for the abstract!  For the purpose of the conference program
+listing, the conference organizers need a title and an abstract which is
+longer than 50 words.  Based on the abstract that you sent me, I took the
+liberty to make up a title and the 50-word abstract (attached below).
+Please make changes as you feel necessary and send them back to me.  I'll
+send them out to the organizers once I get your confirmation on this.
+Best,
+Shijie
+Title: Current Challenges in Modeling Power Price Volatility
+Abstract:
+The power market developments in the US have created several unique
+challenges for energy industry economists. We discuss the major factors 
+underlying
+the exceptionally high volatility of electricity prices. We feel that some of
+them may be a necessary price to pay for increased market efficiency and
+expanded customer choice.
+Shi-Jie Deng
+Assistant Professor
+School of ISyE
+Georgia Institute of Technology
+Office Phone: (404) 894-6519
+E-mail:       deng@isye.gatech.edu
+Home page 
+On Sun, 1 Oct 2000 VKaminski@aol.com wrote:
+ Shijie,
