@@ -1,0 +1,162 @@
+__________________________________________________
+ Do You Yahoo!?
+ Get email at your own domain with Yahoo! Mail.
+?
+?
+please let me know it this  works
+- 3D Wormhole.scr
+Dobbs_Shane   - Chinese Apology.jpg
+I think that the deal it should go with is 516942.  Thanks.
+PL
+Counterparty     TAGG#   Action AEP Energy Services Ltd.   v26767.1  Rebook to AEP Energy Services, Inc.
+"     v28098.3.4 Anadarko Energy Services Corp   v28837.1  Rebook to Anadarko Petroleum Corp.
+Aquila Energy Marketing Corp.   v28299.1  Rebook to Aquila Risk Managment
+"     v27082.1 Bank of America Corporation   v28205.1  Rebook to Bank of America, NA
+Duke Energy Trading and Marketing  v28394.1.2  Rebook from ECC to ENA under 
+the ISDA
+Dynegy Canada Inc.    v28242.1  Rebook from ENA to ECC under the ISDA
+Enserco Energy Inc.    v27843.1  Pending Veronica Espinoza
+Fibre Source North America    v26240.1  Pending Arpana Rajaram
+Gasmar SA     v27688.1  Pending Brant Reves
+Graphic Communications   v26187.1  Pending Arpana Rajaram
+Itochu International Inc.    v28052.1  Pending Darren Vanek
+MGS Corporation    v27703.1  Pending Brant Reves
+New Counteraparty    v27560.1  Pending Arpana Rajaram
+"     v28581.1  Pending Arpana Rajaram
+Pacific Gas & Electric Company   v27828.1  Do Not Confirm
+Texican Natural Gas Company   v27724.1.5.6  Pending Darren Vanek
+Trafalgar Commodities Limited   v28860.1.2  Rebook to Trafigura Derivatives 
+Limited
+Trafigura Derivatives Limited   v27767.1  Credit Previously Provided-Darren 
+Vanek
+"     v28860.1.2 TransCanada Energy Financials Products v27966.1  Rebook from ENA to ECC under 
+the ISDA
+"     v27794.1.2 Utilicorp United Inc.    v17089.2.3  Rebook to Aquila Risk Management
+West Texas Gas, Inc.    v27383.1  Pending Jay Williams
+1. Understanding VaR
+2. Curve Mapping
+3. Macros
+4. Operationa Analysis
+5. Options
+6. The Greeks
+If I think of some more, I will let you know.  Thanks for getting this 
+together.
+PL
+looks fine.
+PL
+I just got Robin Zivic's info.  rzivic is her log on.
+PL
+I am not officializing 1091026 because we ran two basis calcs for the last=20
+day and we officialized the other one and it has the same value - that post=20
+id is 1091034.  Also, FT-Ontario's book admin is now Patrick Ryder, Market=20
+Mich is Jad Doan and FT Intra Ontario is Chuck Ames.  Please shout with=20
+anymore questions.  Thanks.
+PL
+These are the book names according to my data.=01; Please advise if further=20
+detail is needed.
+=01;
+Post ID  Book Code  Calculated by  Book Name/Description=20
+=20
+1091025  G2P  V. Guggenheim  FT Ontario (Price)=20
+1091026  G2D  V. Guggenheim  FT Ontario (Basis)=20
+1091076  A(D  R. O'Rourke  FT West=20
+1090337  P!M  L. Johnson  East Gas Daily=20
+1089877  LVP  K. Lilly  LT Transport (Price)=20
+1089878  LVD  K. Lilly  LT Transport (Basis)=20
+1089880  LVM  K. Lilly  LT Transport (Index)=20
+1090725  GOP  P. Love  FT Intra Ontario (Transport Price Roll)=20
+1090726  GOD  P. Love  FT Intra Ontario (Transport Basis Roll)=20
+1090727  GOI  P. Love  FT Intra Ontario (Transport Index Roll)=20
+1090730  47D  P. Love  FT Intra Ontario (Ontario Basis Roll)=20
+1089826  55P  S. Mahmassani  Central Mich (Market Mich Roll)=20
+=01 =01;
+Rachel
+=01;
+I just tested loading yesterday and it worked.  I will start with tonight's 
+info.  Sorry about that.
+PL
+unfortunately I am busy as usual.  Looking forward to the long weekend to get 
+some much needed rest.  It seems like it is always something up here.
+Any plans for easter?
+How are things with you?  Baby doing good?  Take care.
+PL
+Hey you,
+Just wanted to say hi and see how it was
+going.  Busy I'm sure!!!  Anyway, I'll talk 
+to you later.
+C
+ANR Mainline 7 - no meter to be assigned, schedulers have to call CP's on a 
+deal by deal basis and determine meter.
+Thanks.
+PL
+Attached is a file that includes the tagg # for the liquidation in question 
+below.  Hope this helps.
+PL
+Jane S Saladino
+04/09/2001 08:00 AM
+What is status of this.  I don't know of any other liquidations or hedges.
+Diane H Cook
+04/05/2001 01:44 PM
+I am in receipt of your OA forms for the purchase of gas from
+Sithe for the month of December 2000.  These forms are not complete
+in that they do not include the liquidations of the hedges that were
+put into place to protect Enron from an unfavorable shift in prices.
+These were power hedges
+Addtionally, there were top-line entries that were flashed to more
+accurately reflect what the actual prices were to be at the end
+of the month. 
+The top-line entries as well as the hedge liquidations all
+need to be included to create a complete picture.  At this time I do
+not have the tagg numbers or copies of the top line entries.  The
+top line entries should be available from the flash files.
+Please give me a call so that we can work together to resolve
+this OA variance.
+Diane x-37059
+?
+?
+- HAPPY.EXE
+?
+?
+- HAPPY.EXE
+I am going with Wachsler  tomorrow, so maybe we can hook up and have a beer Darron has my cell number 713-819-0765.
+PL
+what's up?  I hear you have a girlfriend in Houston and are here all the 
+time, yet I never hear from you?  Seems you enjoy Darron's company better 
+than mine.
+PL
+good luck.   I would also suggest having a fire extinguisher handy as well You can also always say the turkey is a Texas tradition - blackened.
+Deer Valley is in Utah - 45 minutes outside Salt Lake City.  I got airfair 
+from Houston for 200 per person 
+Have a happy turkey day.
+PL
+Phillip - Please do us a favor and play this often!
+I will double check with Patrice in the a.m.  Thanks.
+PL
+I heard about this last week, pretty nasty.
+PL
+I heard about this last week...pretty nasty
+PL
+Bryan Hull
+04/05/2001 03:56 PM
+Is this why you play rugby?
+.html
+attached is my file.  Robin Zivic is on vacation, so I will get you her 
+information next week.  Thanks.  I have Win 2000
+PL
+Can you set up mids for the following locations please:
+APLP - Intramonth curve - Alliance, GD curve GDP-Alliance
+NIPS - intramonth curve- NGI/CHI./NIPSCO, GD Curve GDC-CHI./NIPSCO
+Thanks.
+PL
+no worries.  How is the week going?  Good I hope.  I just interviewed a guy 
+from Auburn and hopefully got him a job.  We will see.
+PL
+that was the one, oh well.
+PL
+msl.redstone.army.mil; Thu, 05 Apr 2001 13:08:10 -0500
+id 2221 for  14:02:39 -0400
+(5.5.2653.19) id  
+ Everyday, thousands of children are abandoned by their biological fathers.
+ These men leave the mothers without benefit of support. An ongoing effort
+ is being made to locate these "deadbeat dads" and hold them accountable to
+ these children.

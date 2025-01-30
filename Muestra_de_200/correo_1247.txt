@@ -1,0 +1,1760 @@
+Energy Imbalances
+1.	Jurisdictional Issues
+The ARES Coalition, Alliant, and IIEC argued that the Commission
+should address energy imbalances in the proceeding.  Enron and NewEnergy
+abandoned this argument after reaching a settlement agreement with Edison.
+Staff and Edison argued that charges for energy imbalances are properly
+addressed within Edison's OATT and subject to the jurisdiction of the FERC.
+The Commission concluded that in the interest of avoiding protracted
+litigation and the harm of delay to retail competition, the Commission would
+not address the propriety of FERC's asserted authority over energy imbalance
+issues.  The Commission indicated that its deferral to the FERC in no way
+"waives its right to assert jurisdiction over energy imbalance service at
+some future time."
+2.	Factual & Policy Issues
+Edison proposed an energy imbalance service to retail customers
+containing the following provisions:
+*	Energy imbalance will be calculated separately for each hour and
+settlements will occur on a cash basis for each hour's imbalances;
+*	For those RESs whose energy imbalance in an hour is 2% or less, or 2
+MW or less, settlement is made at 100% of out-of-pocket costs ("OPC regardless of the net imbalance or the direction of the error;
+*
+*	Those RESs whose energy imbalances exceed 25% of their own
+individual schedules will pay an adder or be charged a discount of 25% of
+OPC.  Adjustments are made to avoid double-counting of adders and discounts
+applicable to those RESs that are also subject to an adder or discount
+below.  These imbalance charges will be phased-in as follows:
+*
+*	From October 1, 1999 through December 31, 1999 -- No adder  will
+apply under this provision.
+*
+*	From January 1, 2000 through March 31, 2000 -- 25% adder/discount
+will apply to those RESs whose imbalances exceed 25% of their schedules 20%
+or more of the hours of the month.  If the 20% of the hours are exceeded,
+the adder/discount shall apply to all hours.
+*
+*	Starting April 1, 2000 -- 25% adder/discount will apply to those
+RESs whose imbalances exceed 25% of their schedules 10% or more of the hours
+of the month.  If the 10% of the hours are exceeded, the adder/discount
+shall apply to all hours.
+*	Edison also applies a bandwidth to the total net energy imbalance
+attributable to unbundled retail load served by RESs.  If the hourly
+imbalance caused by all unbundled retail load, excluding PPO load, is within
+the 100 MW bandwidth, no RES (except those whose imbalance exceeds ?25%, as
+noted below) will be subject to an adder or discount.  PPO load will, in
+aggregate, be subject to the same terms and conditions as above, but
+imbalance attributable to the PPO will be compared against a 100 MW deadband
+separately from all RES load.
+*	Edison will permit RESs to trade energy imbalances among themselves,
+to offset their imbalances at whatever prices and terms they wish, before
+applying a charge for energy imbalance.  According to Edison, this feature
+will allow RESs to minimize energy imbalance charges by exchanging
+overscheduled megawatt-hours for underscheduled megawatt-hours in the same
+hour.  All remaining imbalances will be settled in cash at 100% of Edison's
+OPC.  Edison shall make available information on OPC ten days prior to the
+opening of the trading window.
+*
+*	The net retail energy imbalance in excess of 100 MW will be charged
+an adder or discount of 10%.  This charge will be allocated among RESs who
+are out of balance in the direction of the net and whose imbalance exceeds
+their individual deadband.  The allocation will be based on the ratio-share
+of the amount by which these individual RESs' imbalances exceed their
+individual deadbands.  Any such adder/discount will be billed separately
+from charges for any imbalances remaining after trading. Likewise, any
+adder/discount attributable to the provisions of Paragraph 3 will be billed
+separately from charges for any imbalances remaining after trading.
+*
+*	Load profiles will be developed using Dynamic Load Modeling with
+seasonal adjustments.  Edison will not require the installation of interval
+demand recorders for customers of less than 400 kW at this time.
+*
+*	Energy imbalances will be assumed to be within the bandwidth (i.e.,
+no adders/discounts) when the imbalances are due to (1) Edison interruptions
+and restorations, or (2) customer force majeure events, that are in each
+case material to the RESs' schedule and of which the RES could not
+reasonably be aware in sufficient time to adjust the schedule.
+*
+*	Edison will include a description of the methodology for determining
+OPC in its energy imbalance schedules filed with the FERC.
+The IIEC opposed Edison's proposal and requested that the Commission
+require Edison to offer an optional imbalance service at the distribution
+level.  Blackhawk also opposed Edison's proposal and supported the IIEC
+proposal  Alliant also supported Edison being required to offer an energy
+imbalance service at the distribution level.  Mid-American opposed any
+effort by the Commission to exert jurisdiction on energy imbalances.
+The Commission failed to weigh-in on the energy imbalance issue
+consistent with its determination that the FERC is the appropriate forum for
+such issues.  The Commission reserved the right to address the issue in some
+future FERC proceeding.
+For more information about Piper Marbury Rudnick & Wolfe, please visit us at
+- C.DTF  
+But where in statue does the ICC have that as one of their issues?
+Jim
+Marc is out til next wednesday or so with surgery.  I already sent him an email to refocus.  This is not what I had expected.  I will talk to him next week when I get back.  However, Jim on your point that the ICC doesn't care if we lose market share, the premise of the anticompetitive argument is that the increase threatens our existing market share and prevents us from competing for more market.  That is the essence of the impact of an anticompetitive situation.  This would be the result not only for us but for others as well.
+Janine 
+Where does this stand?  I just read the text and agree with Harry.  Most importantly, the HHI may not be suitable given the high degree of regulation of ComEd service 
+As important, I don't think the ICC cares too much about Enron losing market share.  Not the best lead argument.
+Let's talk.
+Jim
+Janine - this is getting insane.  With all due respect to Marc, this has nothing to do with the issues at hand.
+Here is a copy of my uncompleted 1st draft of my testimony.  I will hopefully be finishing this week   
+Also here is a proposed agenda for today's conference call at 3pm
+Call number and pass code are as follows.
+Monday, August 6, 2001  from 3 p.m. - 4 p.m. CST 800-991-9019.  Passcode 7314194#.
+Marc L. Ulrich
+713-345-4784 (office)
+877-720-7711 (pager)
+Charles 
+In planning the transition, please include this issue.
+Jim
+You may want someone to respond to this one
+OPERATIONS COMMITTEE AND
+OC SUBCOMMITTEES
+PLANNING COORDINATION COMMITTEE 
+AND PCC SUBCOMMITTEES
+WESTERN MARKET INTERFACE COMMITTEE
+COMPLIANCE PROCESS TASK FORCE
+TO:	STANDARDS LIST SERVER GROUP
+NERC ROSTER
+Ladies and Gentlemen:
+Responses to the comments received on the revised (April 11, 2001
+version) Phase IIA Planning Standards during the 45-day public 
+comment
+period (April 11-May 29, 2001) have been posted on the NERC web 
+site:
+These comments (10 sets) and their responses form the basis for 
+the
+further revisions made to the Phase IIA Standards by the Planning
+Standards Subcommittee, in conjunction with the Compliance 
+Review
+Subcommittee and several other NERC Planning Committee 
+subgroups.
+These further revisions to Phase IIA are clarifying and editorial in
+nature and are not believed to be substantive.
+The resulting revised Phase IIA Planning Standards (June 15, 2001
+version) were posted on August 2, 2001 for a 30-day notification
+period prior to their consideration for approval by the PC. The posted
+comments and responses complement these Phase IIA Standards.
+Sincerely,
+Virginia C. Sulzberger (via Angie Nicastro)
+PSS Staff Coordinator
+cheers
+I cannot remember the name but I can get it for you Monday morning?
+Who at EWS is the head?
+Jim
+Jim,
+We have Rebecca Fite on our team working New Market Entry (also working with Nancy Hetrick from Legislative Affairs) as the point for EES.  Rebecca reports to Jason Woodward on my team.
+There is also an EWS new market entry team that is under their (EWS) direction.  I think the two groups are getting better coordinated but I would be interested in what are the issues 
+Please let me know and we'll sort through the details.
+Thanks for the heads-up,
+Evan
+Evan 
+Who is responsible for completing all paperwork for entering a new market?  Is it someone on your team or someone from CEC?  There have been some issues with getting everything coordinated lately and I wanted to make sure that we knew who was on point.
+Jim
+Susan 
+Can you please work with ENA Accounting and others to determine the following to provide to EPSA so they can calculate our Dues 
+1.	Total megawatts of your company's equity ownership as of June 1, 2001 in competitive generation assets operating and under construction in the United States (including PURPA plants) - (probably good to start with Wes Coldwell).
+2.	Total megawatthours of market-priced wholesale and retail sales for the 12 months ending March 31, 2001 (probably just get Linda Lawrence to sum up our monthly sales (I would have a separate total for wholesale financials) and use someone from Evan Hughes shop for physical retail sales).
+Call me to discuss.  We need to get this in by August 18.
+Jim
+Steve 
+Has PR given the go ahead?  Anything else from me needed?
+Jim
+Jim,
+Enclosed is my outlined for the article on the need for an RTO.  I given the outline to Karen Denne and discussed the article with her.  I also gave a copy to Paul Kaufman.  If you have any suggestions, please send them to me.  I will we working on the article next week.
+Steve
+Yes.  I'll get us a conference room on 47.
+Jim
+Wednesday at 10 is fine; are you still at EB4711?
+Rick 
+How about sitting down on Wednesday am (say 10 am) to do this?
+Jim
+Rick,
+As you know we had Chad's evaluation yesterday and I'll be sending you a copy for your records.  I'm also attaching the Performance Improvement Plan and the instructions on how to complete it for your convenience.  Jim Steffes mentioned that he would like to assist in putting the PIP together and he will be contacting you 
+While completing the PIP you are encouraged to consider Chad's input before finalizing the development plan.  The plan should also address the specific performance areas and examples provided in the employee's evaluation. (This form must also be reviewed by legal before presenting.  Please email me a copy before setting-up your meeting with Chad.)
+Please email or call me if you need additional information.
+Sincerely,
+Ivonne Brown
+Associate & Analyst Program
+Ext. 57106
+Linda 
+Please schedule a conference room to hold this.
+Jim
+Wednesday at 10 is fine; are you still at EB4711?
+Rick 
+How about sitting down on Wednesday am (say 10 am) to do this?
+Jim
+Rick,
+As you know we had Chad's evaluation yesterday and I'll be sending you a copy for your records.  I'm also attaching the Performance Improvement Plan and the instructions on how to complete it for your convenience.  Jim Steffes mentioned that he would like to assist in putting the PIP together and he will be contacting you 
+While completing the PIP you are encouraged to consider Chad's input before finalizing the development plan.  The plan should also address the specific performance areas and examples provided in the employee's evaluation. (This form must also be reviewed by legal before presenting.  Please email me a copy before setting-up your meeting with Chad.)
+Please email or call me if you need additional information.
+Sincerely,
+Ivonne Brown
+Associate & Analyst Program
+Ext. 57106
+Sue 
+Do you have a list of the Commissions / Officials that you have discussed these issues with either formally or informally?  It would be good to make sure that we have a running tally.
+Jim
+Next Steps 
+1.	Leverage EES Customers Signing Post August 25 Contracts
+The language in SB78 continues to hold the date for suspending DA as August 25.  EES signed a number of very large contracts that benefit important in-state businesses.  We are trying to establish a strategy around the following segments:
+a)	California Restaurant Association
+b)	CMTA via the Aerospace Industry 
+c)	Wal-Mart.
+We need all of our customers to call (a) the Governor, (b) the key Legislative members, and (c) their trade associations.  Leveraging the trade associations is critical given CMTA's support for the bill.  We can release (very quietly) to influential persons Wal-Mart, Raytheon, and Northrop.
+It is also critical that we try and contact someone from Boeing to get their read of the bill and its impact.  Our understanding is that they have recently signed a deal with another marketer and will be cut out by this Bill.  Any help in communicating with Boeing is critical.
+Please let me know how best to approach the Calif Rest Association.  What should we do?  Is it better to have our customers call?
+I will work up some talking points and phone numbers with Sue Mara to use in these discussions.
+2.	Fight the CPUC on Retroactive Order
+Sue Mara is working through AReM to convince the CPUC that their Proposed Decision would be illegal.  Continue to push on this front 
+Thanks,
+Jim
+Sue 
+What is our current involvement in the URG case?  Do we have a range of potential outcomes for each UDC?
+Jim
+From the attached, it looks like the URG decision is being accelerated.
+Jean 
+Please call Eric to understand the implications of filing or not filing on this issue.
+Jim
+Give me a call (35676).  most of the customer's we are currently engaged with, have very little load behind the non-ERCOT utilities.  however, do not have a feel for future prospects. 
+Question, is this an opportunity to force the utilities to implement pro-dereg measures (i.e., to the PUC, why else would it work behind other utilities and not here As you can see from the comments below, staff at the Texas PUC is considering whether or not certain areas of Texas are ready for competition (the non-ERCOT region 
+Who on your teams do we need to talk to understand the implications of this action?
+Jim
+The Staff of the PUCT has filed a petition to determine whether the market institutions and participants are ready for competition in the Texas portion of SPP (SERC), namely Entergy Gulf States, SWEPCO,  and WTU power regions, copies attached.  Staff has also requested the PUCT to suspend the capacity auction for Entergy and SWEPCO but not for WTU.  The petition requests the PUCT to make the determination at the November 1, 2001, meeting and to suspend the capacity auction at the August 23, 2001, meeting.
+In support of their petition, staff argues that there has been limited participation in the SERC region, based on an "informal survey" of the staff.  Staff also explains that the FERC has not yet approved a RTO for the SERC region (SPP).  Staff is concerned that if auction of capacity results in a low price, this will have a detrimental effect of the affiliated REPs headroom under the price to beat determination as it is all tied to the price of capacity at the auction.  In addition, staff is concerned if Entergy or SWEPCO sells 15% of their capacity and are required to serve 100% of their load.  The staff has not requested a delay in the WTU capacity auction due to the fact that the WTU capacity is located in ERCOT and WTU's relatively small load. 
+In order to prepare for filing comments, if neccessary, Enron Government Affairs would like to know the following:
+1)  Does EES/EWS have signed contracts for physical delivery in Entergy, SWEPCO or  WTU?
+2)  What amount of load do we have contracted in each utility within SPP?
+3)  It appears that SPP will not open and no RTO will be in place on 1/1/02.  Therefore, is EWS prepared to operate in SPP under the existing control area structure?
+Please forward your responses to Thane Twiggs and myself.  Also, please feel free to contact either of us if you have any questions.  Thanks 
+Thane Twiggs	713-853-3199
+Nancy Hetrick	712-366-3399
+Good idea.  Harry is the best to start with.
+Jim
+Jim -- Thought you might want to see what our outside counsel sent (and I did submit an RCR).  Hated to be the bearer of bad news but it looks like our business guys need to find another state, at least for now 
+I thought I would talk to Mr. Kingerski about getting assistance both on following up on NC and on handling the reports for the other states, unless you have other suggestions.
+Susan
+Looks good.  Please make sure that you submitted an RCR 
+If Ed wants more info of this type for other states, I'd like to make sure that we organize our efforts so we don't duplicate too much and deploy the proper resources.
+Thanks,
+Jim
+I would like to have a meeting today at 4pm to review the work that West Power URM has been working on to compare the economic impact of the 4 alternatives 
+It would also be good to get any other feedback from the meetings with SCE and other relevant activities.
+I will ask my assistant Linda Noske to get a call in number and a room on 47.
+Please let Linda Noske know if you will attend.
+Jim
+Please cover this.
+Jim
+SENT ON BEHALF OF LISA MELLENCAMP
+DATE:	Monday, August 13, 2001
+TIME:	5:30 pm
+TOPIC:	Recoupment
+DIAL IN:	800/998-2462
+PASSCODE:	5462908
+PLEASE LET ME KNOW IF YOU CAN PARTICIPATE.
+Linda Simmons
+To make sure that everyone is on the same page, my understanding is that Thane "owns" this issue from top to bottom - Thane needs to make the recommendation about moving forward or not 
+Please keep me in the loop.
+Jim
+FYI!
+Nancy and Thane,
+Thanks for sending this email.  We are in the process of evaluating our appetite for business in SWEPCO and GSU.  We do have load in both of these areas (non in WTU).  The load in SWEPCO is likely to go away in a negotiation process with Rexam.  However, we are running some numbers based on our curves and the prevailing tariff for a normal load shape customer in GSU and SWEPCO.  We are looking at possible negotiating with these utilities to purchase their 15% at reasonable prices so as not to hurt them with a low price to beat and have large stranded costs in the process.  I think the sooner Enron can participate in these markets ahead of competition, the more value there is to take advantage of.  I will let you know what our analysis indicates.  Thanks again for your email.
+-Joe
+The Staff of the PUCT has filed a petition to determine whether the market institutions and participants are ready for competition in the Texas portion of SPP (SERC), namely Entergy Gulf States, SWEPCO,  and WTU power regions, copies attached.  Staff has also requested the PUCT to suspend the capacity auction for Entergy and SWEPCO but not for WTU.  The petition requests the PUCT to make the determination at the November 1, 2001, meeting and to suspend the capacity auction at the August 23, 2001, meeting.
+In support of their petition, staff argues that there has been limited participation in the SERC region, based on an "informal survey" of the staff.  Staff also explains that the FERC has not yet approved a RTO for the SERC region (SPP).  Staff is concerned that if auction of capacity results in a low price, this will have a detrimental effect of the affiliated REPs headroom under the price to beat determination as it is all tied to the price of capacity at the auction.  In addition, staff is concerned if Entergy or SWEPCO sells 15% of their capacity and are required to serve 100% of their load.  The staff has not requested a delay in the WTU capacity auction due to the fact that the WTU capacity is located in ERCOT and WTU's relatively small load. 
+In order to prepare for filing comments, if neccessary, Enron Government Affairs would like to know the following:
+1)  Does EES/EWS have signed contracts for physical delivery in Entergy, SWEPCO or  WTU?
+2)  What amount of load do we have contracted in each utility within SPP?
+3)  It appears that SPP will not open and no RTO will be in place on 1/1/02.  Therefore, is EWS prepared to operate in SPP under the existing control area structure?
+Please forward your responses to Thane Twiggs and myself.  Also, please feel free to contact either of us if you have any questions.  Thanks 
+Thane Twiggs	713-853-3199
+Nancy Hetrick	712-366-3399
+I can't make it, but Sue Mara will cover.
+Jim
+SENT ON BEHALF OF LISA MELLENCAMP
+DATE:	Monday, August 13, 2001
+TIME:	5:30 pm
+TOPIC:	Recoupment
+DIAL IN:	800/998-2462
+PASSCODE:	5462908
+PLEASE LET ME KNOW IF YOU CAN PARTICIPATE.
+Linda Simmons
+Don't worry about the call.
+The conference call described below has been CANCELLED for today due to conflicting schedules.  It will be scheduled at a later date.
+SENT ON BEHALF OF LISA MELLENCAMP
+DATE:	Monday, August 13, 2001
+TIME:	5:30 pm
+TOPIC:	Recoupment
+DIAL IN:	800/998-2462
+PASSCODE:	5462908
+PLEASE LET ME KNOW IF YOU CAN PARTICIPATE.
+Linda Simmons
+Thanks Barbara.  If we need to do anything, please let me knwo.
+JIm
+FYI.
+Barbara,
+Our consultant (Bob Iwanchuck of ENSR) placed a call to Shelby County Pollution Control Division and spoke with David Thorpe.  Shelby County Pollution Control Division has been given authority by the state to issue permits for Shelby county.  Mr. Thorpe believes that our permit will be processed normally and is not subject to the moratorium.  Mr. Thorpe has not yet seen anything official as to how the order will apply.  I'll keep you posted.
+Chris
+I spoke with Chris Booth who works with Ben on the site in Shelby County, TN.  Chris is awaiting an update from their consultant who is speaking with the Dept. of Environment and Conservation.  Chris, Please keep us posted.  Barbara
+Susan 
+Please discuss with Ben (you may want to call Barbara & Christi to see if anyone else has discussed already) and relay importance of this to his future plans to me?  Key question is whether or not we need to be engaging directly with local governments.
+Jim
+- TEXT.htm  
+Please coordinate a meeting with Chad for later this week between Chad and myself.
+Jim
+Jim-
+I would like to take you up on your offer to have a private meeting with you and Rick Shapiro to discuss the different activities that took place in Enron's Government Affairs office in  Austin.  Considering Austin is one of our satellite offices, I think it would greatly benefit your department to get an insider's perspective on the office, its senior management, and the different interactions/complications that took place over my 5 month tenure in Austin 
+While I realize that ordinarily individuals at your level would not solicit the feedback of a 3rd year analyst, I feel that I have relevant information that could help you better access the situation in Austin.
+My extension is 39837.
+,
+CKL 
+Great.  Really appreciate.
+Jim
+Jim,
+I prepared this report for the month of Sept.  Does this format work for you?  If so, Paul will complete it (or have it completed) for the rest of the Western Group.
+Alan 
+2:30 works for me on Thursday.
+Jim
+Thane and I are scheduled to meet with Doug on Thursday from 2:30 to 3:30.  Would you like to meet with all of us?  Doug may have some others sitting in, as well  
+I have a 3:30 on Thursday with Rick, I can ask to move that meeting if that works better for you. Doug needs to leave by 4:00.
+Please advise...Thanks, Jean 
+Jean & Thane 
+Can we have a meeting this week (maybe Thursday at 3:30) to discuss this? 
+Jim 
+We do need a formal plan.  We have been working closely together to identify the issues as they develop and propose solutions. Doug has been providing us with the necessary specific market information.  We have been successful in communicating that information to the new commissioners and Ercot and seeking resolution. The commission is definitely more responsive to market participants that are articulating the issue, providing specific examples and proposing the solution.  Grand-standing is ignored.  Those who show up with complaints but cannot point to specifics are virtually ignored.  Those who show up and complain, but are not participating in the working groups and the daily Ercot phone calls, board meetings, etc. are ignored 
+Doug and I met with the Chairman of PUCT and have had subsequent conversations.  Thane and I also visited with him. 
+Pat Wood made a phone call to Tom Noel and told him to get the Texas market fixed.  (Even though he has bigger things to do in D.C., this is his legacy and he recognizes that if deregulation does not work in Texas, the repercussions could be global 
+Chairman Sibley and Chairman Wolens (of the Texas legislature) are also engaged in market developments.  We have been working with the State Affairs legislative committee and keeping them apprised.  There is an Electric Restructuring Committee hearing scheduled for September 6th or 7th.  The forum is expected to be invited testimony only.  Those currently listed as invitees are PUCT Commissioners and Ercot's Sam Jones and Tom Noel.  The hearing is focused on the pilot and we have an opportunity to provide some probing questions for Wolens to direct to Sam and Tom.  Now that Sibley is not a candidate for Lt. Governor, there is more freedom to open up and ask some difficult questions 
+Thane is in Austin on Friday, but is available by phone.  I will be on a plane to Houston at 8:00 a.m. Can we find another time that works for us to meet? Thane is in an Ercot PRS meeting Friday from 9:30 until 3:00.  I am available after Rick's Friday budget meeting...are you available then?  You are right, we do need a formal plan, Thane has started an initial draft.  Thanks, Jean 
+Jean & Thane 
+Walking out last night, Kevin Presto indicated that there were games being played in ERCOT with the new market rules and prices in certain markets were not reflective of working markets 
+Enron needs to use this situation to quickly get our viewpoints up into the PUCT and ERCOT ISO on what is driving these problems and our proposed fixes 
+If ERCOT goes the way of California - either due to market power or poor market design rules - it will be a bad day for deregulation and for Pat Wood.  As important, the new PUCT Commissioners need some help right now in messaging the market.  Let's get them to support constructive solutions that will make a real difference.
+Jean and Thane, I think that we need a FORMAL PLAN on what to do over the next 3 - 6 months to leverage this situation.  I would like to discuss this with you on Friday am.  I am free at 8am on Friday before Rick's budget meeting.
+Jim 
+Works for me.
+Jim
+All - Agree.  How about Thursday 9:00am (est) conference call?  If this works please reply to Kirsten Bellas and she will set up the call.  Steve  
+Howard, Kathleen, & Steve 
+Can we sit down and discuss our strategies going forward in light of this RD?  I'd like to understand where there are opportunities (both for POLR outsourcing and standard market entry).  I don't think that there will ever be a huge surplus in generation (and there shouldn't be in a competitive market).  Instead of focusing on something the NYPSC can't control, why not work on demand responsiveness?  Better metering technology would certainly help.
+Let me know when a good time would be?
+Jim
+Sarah,
+I've attached an article from today's Megawatt Daily regarding NY's generic energy competition case.  I've also attached a summary of the RD written by Kevin Brocks, our NESPA Counsel.  As you can see, the RD dismisses aggressive migration measures until wholesale markets are functioning better.  Furthermore, the RD states that until supplies increase and markets stabilize, ratepayers must be protected.  In addition, a PSC official is quoted as saying that it "will be another three to four years until there is sufficient supply in the state to allow for workably competitive markets, and that it could be at least 10 years before retail competition is viable 
+Is there anything in the RTO Order or your participation thus far in the mediation process that could refute the claim that it will be 3 or 4 years until there is sufficient supply in NY to allow for workably competitive markets?
+-Kathleen
+MegawattDaily
+New York PSC draft report sees competition in 3-4 years
+New York regulatory staff expects
+comments tomorrow on a recom-mended
+decision about the future of
+competitive power market development
+in the state.
+The recommended decision, issued
+last month by two administrative law
+judges for the state Public Service Com-mission
+and a PSC official (00-M-0504),
+says it will be another three to
+four years until there is sufficient supply
+in the state to allow for workably com-petitive
+markets, and that it could be at
+least 10 years before retail competition
+is viable.
+Two principal problems in transi-tioning
+to a competitive market are
+inelastic supply and demand, both of
+which are inherent in energy markets, the
+proposed decision, issued last month,
+says. Until supply consistently exceeds
+demand by a certain margin, the PSC
+must play a prominent role in the state's
+power markets.
+"Markets characterized by largely
+inelastic supply and demand where
+demand is approaching or is equal to
+supply are not workably competitive and
+will not produce just and reasonable
+rates," the recommended decision says.
+"Until supplies increase, ratepayers
+should be provided some measure of
+protection from those markets. Once
+supply exceeds demand sufficiently to
+eliminate the exercise of excessive mar-ket
+power, the markets can become
+workably competitive and will likely
+produce just and reasonable rates."
+The recommended decision goes on
+to warn, "Unrealistic expectations con-cerning
+the timing of market develop-ment
+(either too long or too short) can
+have serious consequences to the public,
+and can, in the extreme, result in the
+worst of all possible outcomes - the
+creation of an unregulated monopoly.
+"If competition is assumed to
+develop very rapidly and wholesale
+market prices are imposed on customers
+without regulatory intervention and
+from a market that is not workably com-petitive,
+higher prices and rates that do
+not meet the statutory standard of just
+and reasonable are likely. On the other
+hand, if a long transition is assumed and
+significant regulatory control continues
+to be exercised over prices, competition
+and its benefits could be stifled indefi-nitely."
+In March 2000, the PSC initiated
+the proceeding to examine the state's
+progress toward competitive markets. It
+sought information on the difficulties
+that have emerged, lessons learned and
+directions for where to go next.
+The recommended decision says
+that in a competitive market, utilities
+should play no role in providing electric
+or gas service. But before the PSC
+removes a utility from the market, cer-tain
+preconditions must be met, "includ-ing
+a determination that the wholesale
+and retail markets are operating without
+the exercise of market power. As a gen-eral
+matter, the utilities should not be
+removed from any market until multiple
+suppliers offering a variety of products
+are available for the entire customer
+class throughout the utility's service ter-ritory."
+The PSC also should wait for state
+lawmakers or the courts to confirm its
+authority to take such action.
+The recommended decision also
+says that "robust, fully competitive retail
+markets will develop at different times
+for different customer classes."
+The PSC should encourage invest-ment
+in transmission and distribution
+infrastructure for both electricity and gas
+"including, if necessary, ordering the
+franchised utilities to construct any need-ed
+facilities," the recommended decision
+says.
+Although the PSC should restate its
+support for retail competition and pro-ceed
+"with deliberate speed in fostering
+market development," the agency should
+maintain "just and reasonable rates"
+throughout the period of transition to
+competition.
+"We are confident that a flexible
+oversight process that encourages com-petition
+and allows it to develop wherev-er
+the economics can support it will pro-tect
+consumers during the transition, per-mit
+markets to develop freely, and will
+serve the public interest," the recom-mended
+decision says.
+Exceptions to the proposed decision
+are due tomorrow and responses are due
+Aug. 28.
+The judges and the PSC official plan
+to present a final recommended decision
+to the commission this fall. JCS
+I can make it.  Now on my calendar.
+Jim
+SENT ON BEHALF OF LISA MELLENCAMP		
+I would like to reschedule this conference call for 12:00 pm (CST) tomorrow.  Please advise if you can participate.
+Thanks.
+SENT ON BEHALF OF LISA MELLENCAMP
+DATE:	Monday, August 13, 2001
+TIME:	5:30 pm
+TOPIC:	Recoupment
+DIAL IN:	800/998-2462
+PASSCODE:	5462908
+PLEASE LET ME KNOW IF YOU CAN PARTICIPATE.
+Linda Simmons
+Sue 
+My take on this letter is that it is a little too "jumpy".  Any way to help make it a bit more to help Lynch do something different - maybe work from the AReM filing?
+Jim
+Here is the latest letter
+DAC members:
+I need to know as soon as possible if your organizations can sign on to the
+attached letter--it's a shorter, streamlined version of what you saw before.
+Dorothy Rothrock of CMTA boiled down the previous version to the core issues
+that the majority of DAC members appear to support.  As before, please also
+let me know if you cannot sign on to the letter--which will save us
+pestering you with phone calls.  For those of you who aren't signing on to
+any letter because of the language supporting SB 18xx--you don't have to
+call me again because this version still contains that reference. I have
+"starred" the organizations that have already signed on to this version.
+The Edelman team is ready to roll as soon as we hear from you.  Thanks again
+for acting quickly on this.
+Tracy Fairchild
+Senior Account Supervisor
+Edelman Public Relations Worldwide
+tracy.fairchild@edelman.com
+(916) 442-2331
+(916) 447-8509 (fax)
+Thanks for the accounting treatment 
+Probably better to have one payment this year and one payment on Jan2 (charged back to 2001).
+Thanks,
+Jim
+Thanks for the feedback 
+Your model now assumes a modification to the Distribution tariff to include a new rate element.  That may get around the Settlement (although OCA in PA will think that now D is going up and there is no offset in the G rate so consumers are getting screwed because they won't switch 
+Also, can the PaPUC implement this charge and direct the EDCs to transfer the funds to third-party generators?  Seems like that would require legislative changes 
+I like the idea that there should be fixed charge for ICAP - one way to get that number would be to go back to the EDC stranded cost cases and look at their filed testimony - remember if they are earning more from the market than that $ amount, they are overearning on their stranded costs.
+Jim
+In response to the issues:
+1.  I would propose that the "Reliability Tax" modeled after the Gross Receipts and Franchise Tax (GRFT) and would be an additional line item on a utility's bill.  In this way it is not an increase in either T or D and perhaps the waiver would not be required.  (See related comment to issue 4 below).
+2.  The proposal contemplates that the generators get the revenue (this is their "buy-in" to the proposal).  Taking PJM as the model, they currently produce three load forecasts at varying temperatures - one at a "high" temperature, one at a "low" temperature, and one at a designated temperature.  The  proposal would set the obligation at the "high" temperature forecast and the cost-recovery of the ICAP at the "low" temperature forecast (maximizes the MWH charge).  Any over-recovery would be used to pay for system improvements.  Any under-recovery would be used in setting the recovery charge for the following year.  [Conceptually this how it is intended to work.  However, this needs to be thought through in a more detailed level]
+3.  Off hand I don't know what the current ICAP revenues are but I could find out.  As for the proposal, the tax would be determined by the results of the ICAP auction, e.g, PJM would go out for 60,000 MW of ICAP, review the bids, and set the clearing price.  The total "cost" of ICAP (60,000 MW x $X/MW) would be used to set the Tax (MWH charge, using the "low" temperature forecast).
+4.  As a separate line item on the utility's bill and presented as a tax, the state regulators would have as much of a role in this tax as they have (or had) in the GRFT.  I see their biggest issue at this early stage of the strawman is what share of over-recovery do the ratepayers receive.  The argument that the over-recovery go to system improvements and not to the ratepayers is the efficiency improvement in the system 
+Good start. 
+A couple of issues -
+1.	Raising transmission rates for the PA utilities would effectively reduce their Distribution revenues (the Settlements stipulated that if T went up, then D had to come down).  Maybe we could get everyone to agree to a one-time waiver of this and have end-user's bills go up. 
+2.	Where does the $ from the Reliability Tax go?  Toward what purpose?  If generators are not compensated in some manner (maybe a passthrough directly), won't they strongly oppose this model?  We need to propose some reasonable uses of these funds (better metering to enable load curtailment to smaller customers OR maybe pay for an RMR type arrangement).
+3.	What is the current amount of ICAP market revenues today?  What would you recommend as a total tax?
+4.	The Reliability Tax would be FERC jurisdicitional as constructed?  How are the PUCs going to view this?  Will they have a role i setting the $ and the use?
+Jim
+In an email I sent yesterday, I touched on an ICAP proposal I've been thinking about and thought I would expand on it more.
+The political reality of ICAP is that it is here to stay; at least as long as there are energy price caps or retail rate caps.  ICAP is also a most likely outcome by regulators and politico's if energy prices are perceived to be too high (assuming no price caps).  Therefore, we need to come up with a system that is fair and doesn't prejudice any one participant, especially if the participant is us.  The system I have been kicking around is one in which we would concede any trading opportunity in ICAP but would relieve our load servers with the obligation.
+The ISO's (particularly PJM) and others have been stating that ICAP is required for reliability reasons.  While we can argue against this concept and try to convince these folks that operating reserves with a well-run energy market is sufficient for reliability, I don't think we are going to win (it's a battle of perception and, unfortunately, one man's perception is another man's reality).  For this reason ICAP should be the sole purview of the RTO.  The RTO is the one who has all the information on load forecasts and installed resources and is the one who performs the necessary analysis to determine reserve margins and obligations.  In PJM, the staff  would perform all calculations and present the results to the Reliability Committee for approval which would typically be approved unanimously 
+I would propose that the RTO determine the annual ICAP obligation, and then conduct an annual auction for the necessary resources.  I know that Enron does not want the RTO involved in the market, but this would be no different than what the RTO does in a daily LMP market - he receives bids, stacks them, determines the clearing price, and dispatches according to the stack.  It would be the same for the ICAP auction.  The RTO would not be a participant in the market as such and is only the facilitator.  The total cost of ICAP  would then be allocated to the transmission owners based on a pro-rata share of their installed load and recovered from load as a part of their revenue requirements (ideally it would appear as a separate line item on an end users bill and be identified as a "reliability tax" so they would see what it is costing them).
+This proposal, while not perfect would accomplish the following:
+1.  It would satisfy the reliability concerns of the RTO's and politicians,
+2.  It would assess a "tax" on the load for reliability since load is the beneficiary (assuming there is a benefit from ICAP) of reliability,
+3.  It would relieve the LSEs of the burden and obligation of providing ICAP,
+4.  Deficiency penalties would not be required and accompanying deficiency rates would not need to be determined,
+5.  Generators would still receive ICAP income, provided they are selected in the auction,
+6.  Since the ICAP obligation is typically for a period in the future (in PJM, the ICAP requirements approved this year are for the year 2003), the much talked about "price signal"  for new generation is provided.
+7.  It allows the market to set the ICAP and not some artificial deficiency rate,
+8.  Market power issues associated with the existing ICAP markets are eliminated.
+I kept the distribution of this proposal to a limited number to get a feel for this type of proposal.  If you are in general agreement with the concept, I can formalize it and send it to a larger distribution including the commercial folks.  I would, of course, be interested in any comments or feedback you may have and would incorporate those into the document to be distributed to the larger group.  I think a concept of this could be sold to other participants and, after we are satisfied with it, I would solicit it to others outside of Enron to get their support 
+Send me your phone number?
+Jim
+Can you give me the name and phone number of your decorator?
+Thanks.
+I thought we were responding through some other group?
+Jim
+This meeting is tomorrow, but when you head up to Portland -- could you see if there is any interest in responding to this FERC request through WPTF or otherwise? (we have to pay, of course)
+The FERC's June 19th "market mitigation" order provided that parties could file follow-up comments within 60 days with regard to how the market has functioned under the Order and what changes should be made to the mitigation approaches.  The specific language provides as follows:
+_____  
+"8. Mitigation Beyond Summer 2001
+Although we are confident of the efficacy of our West-wide mitigation plan throughout the Summer of 2001, we nonetheless wish to obtain comment for the purpose of revising the mitigation methodology for future periods, if necessary.  Accordingly, we invite interested partes to file with the Commission comments and proposals concerning: (1) any developments, either beneficial or adverse, which have occurred in the Western region spot markets as a result of this order; (2) any difficulties with implementation of the mitigation plan detailed in the order, and the relevant solutions thereto; and, most importantly (3) any alternative market mitigation approaches. In order to provide for timely review and analysis, we will require that parties' comments and proposals be submitted to the Commission within 60 days of the date of issuance of this order."
+_____  
+At tomorrow's WPTF Board meeting we will be discussing the filing of comments, which would be due next Monday, in response to this invitation.  This email is a heads-up that it would be helpful for Board members to begin sending comments and suggestions with regard to the three topics noted above.  Thanks!
+Dan
+Law Offices of Daniel W. Douglass
+5959 Topanga Canyon Blvd.  Suite 244
+Woodland Hills, CA 91367
+Tel:   (818) 596-2201
+Fax:  (818) 346-6502
+douglass@energyattorney.com  
+Thanks.  Appreciate the concern.  Hopefully most of this will be legal time & $ but one never knows.
+Jim
+Just a thought for you - I can assure you,  based on the experience in the Ontario market with other retailers, that the more Enron Direct uses independent sales channels (i.e. direct mail, telemarketing, door to door),  the compliance issues (ie. compliance by the independent sales forces with applicable codes of conduct and consumer /business practices legislation) will mushroom.  It could eat up a lot of regulatory staff time. 
+ok
+We should probably think about a trip to DC (if not next week the following week) to meet with the QG folks and possibly Public Opinion Strategies to discuss our RTO effort and development of messages  
+Please let me know if you're interested in attending this meeting so I can set something up  
+Thanks.
+Before we invite FERC staff to the trading floor, let's set up a gameplan and run by the trading floor - I don't want a dispute with trading after inviting staff down here.
+=20
+Jim
+Linda:
+=20
+You may want to raise the issue of Commissioners and their staffs coming to Houston to visit the trading floor when you visit with them with Frevert later this month.
+=20
+Sarah
+Leslie Lawner, Becky Cantrell and I met with Dan Larcamp at FERC yesterday to discuss the marketing affiliate issue.  He agreed with the latest press reports that the upcoming rulemaking NOPR, expected to be voted out in September, would not make major structural changes to the industry.  The current document is up to the Commission level and the Commissioners are clearly considering the alternatives now.  Larcamp said he expected a broadening of the current market affiliate rules structure to include all corporate entities.  He did specifically mention that the Commission is not comfortable with the link between financial and physical transactions and the possibility for manipulation of market prices in one market (financial) to affect prices in the other market (physical).  He also expects the Commission to blend the gas and power rules, using the best practices of each.  Any NOPR that is issued will of course have comment dates to allow Enron and all industry participants to comment on any proposed rule changes.
+Larcamp indicated that he did not think there were pervasive afilliate discrimination issues in the industry, but said that the Commission needed to act due to the political pressures they got from the Hill, etc.  The El Paso case is top on everyone's mind and is of special concern because it affects the California market, both gas and power.=20
+Larcamp indicated that he is just now learning what a "Pat Wood" Commission is going to want.  He indicated that Wood has closer ties to the producer community than either of the two former Chairmen.  He therefore expects  that the Commission will be responsive to that sector in taking a relook at the affiliate rules.  However, Larcamp did mention that the only meeting that he had previously had on the affiliate issue was with the INGAA group (Joe Hartsoe went with them).  It is not clear whether the producer community has lobbied this issue at the Commissioner level.
+We discussed strategy with Dan, how to let the Commission feel more comfortable with the marketing affiliate issue.  He suggested that he had gained a lot by visiting the trading floors (including Enron's).  He thought the Commissioners and their immediate staffs would benefit from similar visits. =20
+We specifically raised the issue of market prices, and talked about tranportation costs not equalling basis differentials.  We stated that our marketers believed that the prices in the market were determined by market factors in the specific areas of delivery rather than basin costs plus transport costs.  Dan did indicate some agreement with this concept and thought that more education at the Commissioner level would be very worthwhile.
+If you have any questions, call Leslie, Becky or me.=20
+No problem.  Have a good vacation.
+Jim
+Jim, intend to take 8/17, 9/10, 9/14, 9/17 & 9/23-27 off.  Now that it have Kerry on board, he can cover any mtgs over those dates (none anticipated)...let me know if this is OK.  Joan if approved could you please update HR records 
+Mike
+Thanks.  The key, of course, is to create a filing that could not be used against us at FERC on these issues.  I guess that amending the filing is better than withdrawing the filing and re-submitting.  My only thought would be that by withdrawing, PGE provides no trail.
+Jim
+I spoke with Jay Dudley on Friday.  I suggested he contact the FERC staffer on the case to explain that they want to withdraw the request for the native load exemption and will simply have PGE execute a contract with the pipeline.  He will call his attorney at Skadden to find out who that staff person is and then they will amend the application accordingly.  I think it will be fine in the end.
+Not sure how this got through the "process".  Please feel free to call on me if this isn't getting fixed right.  Also, should we just have PGE pull the application and re-file with different terms.
+Also, Becky you should let Amr know and keep track - he can try and quantify. 
+Jim 
+Becky, I put a call into Jay and will help them to work with FERC to modify their application.  I agree that it wouldn't fly anyway.  I just wonder how they filed it in the first place 
+Jim, is this the kind of thing I should be bringing to Amr's attention since  I identified the potential problem initially?  I wouldn't know how to go about quantifying it, but I guess it could be done.  I'm pretty sure FERC will throw out their initial application if it's not modified.
+Leslie 
+Can you coordinate with Jay Dudley at 503-464-8860 on how to change the filing (if at all) on PGE's pipeline issue?  PGE is willing to modify the filing to try and take out the language on Native Load.  They are suggesting that maybe they should sign a contract for the full amount of the capacity (about 170,000 mmcf/d) rather than assume its right.
+The goal should be to have a final decision on next steps before next Friday, Aug 17. 
+Please call me with any questions. 
+Thanks, 
+Jim 
+Steve 
+As Sue highlights below, when people talk about stranded costs ending no later than 3/31/02, they are only speaking about generation-related stranded costs.  Above market costs for QFs will be "collected" from DA customers for some time into the future.  Wanted to make sure that this was clear.
+Jim
+An update from the meeting we had with SCE on August 9:  SCE said that it has TEMPORARILY stopped charging CTC because it doesn't know what to charge for DWR. Meanwhile, it continues to keep track of the dollar flows through the TCBA and the new account set up for DWR.  Once the CPUC decides on the DWR's revenue requirement, SCE expects that it will charge generation-related CTC again.  There is also continuing CTC related to QF contracts that will return (and goes beyond 3/31/02) once QF contracts are above the "market".  SCE is also considering filing a petition with the CPUC to get guidance on all these matters. Once the CPUC rules on SCE"s advice letter approaches, SCE plans to go back and re-bill begining with Jan 18 (it used some different PX credit approaches early on and switched to this approach for bills going out June 4). I didn't ask the question about calculating CTC back to Jan 18.  I guess if the DWR rev req is retroactive and leaves room for CTC, they will bill it.  The other twist I had forgotten about is that they have a one-half cent charge added to the embedded gen rate of 10.27 cents (making it about 10.77 cents) that collects the $400 million that was uncollected while the CPUC played around with a rate design for the three cent surcharge.  The half cent addition is for 12 months.
+I wanted to summarize the conclusions from our meeting on Wednesday, August 8th.  Please let me know if I have misrepresented anything. =20
+Below is a description of four proposals which may help resolve issues associated with PX credits or mitigate Enron's exposure to PX credits.  Steve Swain has the responsibility for evaluating each proposal, and his goal is to have recommendations for EWS/EES management on August 14th. =20
+Current Issues:
+1)  The methodology for calculating PX credits after January 18 is undetermined (SCE and PG&E have implemented different methodologies)
+2)  Applicability of the 1 cent surcharge to direct access customers (PG&E is passing thru to DA customers, SCE is not)
+3)  Impact to Enron if  FERC implements  retroactive changes to the CAL PX clearing prices from Oct 2, 2000 thru January 18th which result in revised PX credits=20
+4)  Recoupment of outstanding PX credits against future payments for T&D
+5)  Uncertainty surrounding future tariffs (CTC or other pass through charges), making it difficult to hedge price risk in forward positions
+6)  Large uncollected receivables from both PG&E and SCE
+The four proposals are as follows:
+SCE Recommended Approach=20
+=09This approach assumes no PX (or PE) credit effective from January 18, 2001 forward.  Mary Lynne and Diann will work with Steve to quantify the =09gross PX receivable (as billed by each utility)  which would  be reversed.   This approach will ensure that only charges for T&D (no =09generation/commodity costs, CTC charges, or surcharges for CDWR, including the 1 cent)  will be applicable to Direct Access customers. =20
+=09Enron would request the following:
+=091) Assurances that no surcharges for CDWR will be passed through to EES or EEMC
+=092) SCE will support our historical PX  credit receivable as an "allowable claim" at a minimum and would provide additional credit support if possible. =20
+=093) PG&E will support Enron's recoupment argument=20
+=094) Both utilities will immediately reinstate the Cumulative Credit Balances on utility bills and agree to a netting arrangement at the utility parent =09level.=20
+=095) Both utilities agree to not adjust the historical PX credits, if/when an adjustment of historical PX clearing prices is mandated by FERC=20
+=09Other consideration:
+=09Ability to hedge price risk in the retail portfolio, without concern re CTC or other surcharge amounts. =20
+PG&E Recommended Approach
+=09This approach assumes the PX calculation methodology effective January 18, 2001 would include an "avoided cost"  component.  This avoided cost =20
+=09component would include, owned generation, QF purchases, actual CDWR purchases for the utility, bilateral purchase contracts, and ISO purchases.  =09This resulting "avoided cost" would be used in lieu of the PX clearing price in the old PX formula through March, 2002.    If the actual CDWR purchase =09costs are not included, then the surcharge (along with the embedded gen costs)  should be included in the calculation. =20
+=09
+=09Enron would request the following:
+=09Same as above
+=09Other Consideration:
+=09Enron  would continue to be exposed to "price" risk attributable to the actions of the utility at a minimum through March, 2002.  This would hamper =09Enron's ability =09to hedge the positions in the retail portfolio.=20
+Hybrid Approach
+=09This approach assumes that the PG&E approach is applicable from January 18, 2001 through September 1, 2001 and that the SCE approach is =09applicable from September 1st forward.   This approach might be necessary as a compromise for both utilities to provide their support of the proposal.=20
+=09Enron would request the following:
+=09Same as SCE and PG&E approach
+=09Other considerations:
+=09Ability to hedge price risk in the retail portfolio, without concern re CTC or other surcharge amounts. =20
+Enron Model=20
+=09This approach assumes we continue to support a market based (NP15 and SP15) calculation methodology for the PX credit.  =20
+=09Enron would request the following:
+=09It is unlikely we would receive any level of cooperation from either PG&E and SCE.   The consensus from legal, regulatory, and EWS commercial is =09the probability of getting this approach approved is low.   However, understanding this amount, at a minimum, can be used to help defend the "value"=09Enron is foregoing in order to reach agreement with the utilities and CPUC.
+=09Other considerations:
+=09This approach would give Enron the ability to hedge "price" risk, but this is somewhat offset with  incremental credit exposure associated with the =09actual collection of the PX credit.
+Again, please let me know if this does not clearly represent what we concluded in Wednesday's meeting.
+Thanks,
+Wanda Curry
+thanks
+It can sometimes be difficult to withdraw a filing, as the Commission actually has to approve the withdrawal. I have seen them refuse to do so, just to be ornery. The amendment may draw less attention, and there won't be anything that can be used as precedent, just something that someone may point to to embarass us, but which we can easily explain.  But in any event, by calling the staff first, I am hoping we get some feel as to how simply this can be done and maybe a withdrawal is in the realm of possibility 
+Thanks.  The key, of course, is to create a filing that could not be used against us at FERC on these issues.  I guess that amending the filing is better than withdrawing the filing and re-submitting.  My only thought would be that by withdrawing, PGE provides no trail.
+Jim
+I spoke with Jay Dudley on Friday.  I suggested he contact the FERC staffer on the case to explain that they want to withdraw the request for the native load exemption and will simply have PGE execute a contract with the pipeline.  He will call his attorney at Skadden to find out who that staff person is and then they will amend the application accordingly.  I think it will be fine in the end.
+Not sure how this got through the "process".  Please feel free to call on me if this isn't getting fixed right.  Also, should we just have PGE pull the application and re-file with different terms.
+Also, Becky you should let Amr know and keep track - he can try and quantify. 
+Jim 
+Becky, I put a call into Jay and will help them to work with FERC to modify their application.  I agree that it wouldn't fly anyway.  I just wonder how they filed it in the first place 
+Jim, is this the kind of thing I should be bringing to Amr's attention since  I identified the potential problem initially?  I wouldn't know how to go about quantifying it, but I guess it could be done.  I'm pretty sure FERC will throw out their initial application if it's not modified.
+Leslie 
+Can you coordinate with Jay Dudley at 503-464-8860 on how to change the filing (if at all) on PGE's pipeline issue?  PGE is willing to modify the filing to try and take out the language on Native Load.  They are suggesting that maybe they should sign a contract for the full amount of the capacity (about 170,000 mmcf/d) rather than assume its right.
+The goal should be to have a final decision on next steps before next Friday, Aug 17. 
+Please call me with any questions. 
+Thanks, 
+Jim 
+Linda -
+Please work up some letters from me to the people in the file ECAR, MAIN, MAPP for my review.  Thanks.
+Jim
+Jim:
+As we discussed and per your request, the attachment entitled ECAR, MAIN, MAPP contains my recommendation and reliability council contacts for replacing me on various committees and panels 
+The attachment entitled Sprint contains information regarding the termination of the Enron cell phone.
+On Wednesday, I will terminate all phone service associated with the Enron Bismarck office 
+Please contact me with any questions.
+The Offsite is more imporant.  Please call Lysa Akin to confirm the date.
+Jim
+No, however, I noticed this is the same day they rescheduled the Government Affairs Offsite in Portland 
+Am I scheduled to attend?
+Jim
+The next meeting of the CAEM Board of Directors will be held on Wednesday,
+September 12, at the Grand Hyatt Hotel in Washington, DC.
+The meeting is being held in conjunction with the third meeting of our DISCO
+of the Future Forum. (Please visit our newly updated website www.caem.org
+for more information on the DISCO Forum.) Following the Board meeting on
+Wednesday, you are invited to join with members of the DISCO Forum for a
+Wednesday evening reception and dinner, including a guest speaker. Board
+members are also invited to join in the substantive session of the DISCO
+Forum on Thursday, September 13.
+Because of an international medical convention ongoing in Washington at the
+same time as our meetings, the Grand Hyatt unfortunately is already booked.
+However, we have reserved a block of rooms at the nearby Wyndham Hotel. To
+reserve one of these rooms, you must inform the Wyndham staff that you are
+part of the CAEM group. If you should decide to arrange lodging at a
+different hotel, please do so quickly as there is limited availability in
+all surrounding hotels. We will be making the Wyndham rooms available to
+members of the DISCO Forum on July 20.
+If you have any questions or require any assistance at all, please contact
+Hope Duncan at 202.739.0134 or Jeff Mangold at 703.729.2710. We are looking
+forward to seeing you on September 12.
+Hotel Information:
+Grand Hyatt Hotel
+1000 H Street NW
+Washington DC 20001
+Phone: 202.582.1234 or 1.800.233.1234
+Fax: 202.637.4781
+Website 
+Wyndham Washington DC
+1400 M Street NW
+Washington, DC 20005
+Phone: 202.429.1700 or 1.877.999.3223
+Fax: 202.785.0786
+Website 
+You on this call?
+Jim
+I wasn't sure if everyone had received this.
+Shelby J. Kelley, Esq.
+Bracewell & Patterson, L.L.P.
+2000 K Street, NW  Suite 500
+Washington, DC 20006-1872
+(202) 828-5859
+skelley@bracepatt.com
+CONFIDENTIALITY NOTE:
+This email message is intended solely for the individual or individuals named above.  It may contain confidential attorney-client privileged information and/or attorney work product.  If the reader of this message is not the intended recipient, you are requested not to read, copy or distribute it or any of the information it contains.  Please delete it immediately and notify the sender by return email or by telephone.  Thank you.
+>> "Peg Moore"  We have scheduled a conference call for tomorrow @10:00am (EST) to discuss various interpretations of Judge Cintron's Discovery Order for purposes of putting together the information that must be submitted Thursday.
+call in #:         1-800-752-1361
+reference:      Peg Moore conference call ID#08130357
+Peg Moore
+Van Ness Feldman, PC
+mam@vnf.com
+202-298-1847
+Becky 
+What's the upside and downside from the Settlement.  My only concern is that FERC is so swamped with issues may be overwhelming.  Where is our business going?
+Jim
+FYI.  Obviously, we would want to participate in any settlement discussions.  Do you see any reason why we would not want to support the motion to establish the settlement procedure?  SRP indicates that the ongoing proceedings would not be delayed. =20
+Attached is a draft motion of Salt River Project to establish a date certain
+for convening a settlement conference under Rule 602, in accordance with the
+settlement package distributed on July 30. Paragraph 8 of the motion will
+list all parties that are in support of this procedural motion.  A company's
+support for the motion IN NO WAY reflects any agreement to support any
+setttlement proposal.  It merely indicates a desire to initiate a parallel
+settlement path without interfering with or delaying FERC's processing of
+the ongoing proceedings. Please reply to all by COB Tuesday in advising
+whether your company would like to be listed.  We intend to file on
+Wednesday early afternoon.  Thank you.
+Energy Advocates LLP
+202-371-9889
+202-371-9025 (fax)
+jlgreene@energyadvocates.com  - rp00-336setmot1.doc  
+Linda 
+Please reschedule until Wednesday.  I have a meeting all afternoon on California.  Tell Mike I apologize greatly.
+Jim
+Sarah & Alan 
+I plan on attending.  Both of you should feel free.  I think that right now we should decline any offer to present unless we can come up with a set of "Guiding Principles" (i.e., prospective market rules, etc.)
+Jim
+As mentioned in a July 31st memo, EPSA will be hosting a one-day roundtable discussion on the issue of market-based rate methods, as well as EPSA's forward-looking position on the subject.  The meeting will begin with lunch at 11:30 a.m., officially start at noon, and end at approximately 5:00 p.m..  Unless the group is too large, the meeting will be held at EPSA's office at 1401 New York Avenue, NW, in Washington, DC.  An agenda will be sent out closer to the meeting.
+We would like to start the meeting with different members' views on the issue and have been approached by member companies who would like to make brief presentations on the topic.  If any Board member company would like to present on the issue, please contact Erin Perrigo at 202-628-8200 by noon on Tuesday, September 4th.  If you would like to attend this meeting and have not already responded, RSVP to Jackie Gallagher at jgallagher@epsa.org.
+Per our discussions yesterday, the following should hopefully be completed before the 2:30 (CST) conference call on Recoupment and the 4:00 (CST) conference call on PX Credit & 1c/kwh Surcharge.
+1.	Bob Williams - Synopsis of 1c/kwh Surcharge
+2.	Sue Mara - Background on CPUC Activity on 1c/kwh Surcharge (to be included in Bob Williams' write-up)
+3.	Dian Huddleson - Plan for Requesting Net Bill Reinstatement
+4.	URM - Analysis of PX Credit Methodology
+5.	Mary Lynne Ruffer - Analysis of Net Bill Amounts
+6.	Jim Steffes - CPUC Legal Analysis
+The goal for today is to have all necessary data to develop our recommendations for how to proceed in these matters so that we can meet with the business heads tomorrow.
+Call In Information -
+2:30 Recoupment
+1-800-998-2462 # 5462908
+4:00 PX Credit & 1c/kwh Surcharge
+To Be Provided By Linda Noske
+Wes & Wade  
+You've probably seen this, but FERC issued this notice for Jurisdictional Public Utilities related to a FASB decision.
+Do you know who the appropriate accounting person for this info? 
+Enclosed: 
+OED-DRAP 
+Docket No. AI01-1-000 
+August 10, 
+2001 
+TO ALL JURISDICTIONAL PUBLIC UTILITIES, LICENSEES, 
+NATURAL GAS COMPANIES, AND OIL PIPELINE COMPANIES 
+SUBJECT:       ACCOUNTING AND REPORTING FOR CERTAIN TYPES OF 
+FINANCIAL INSTRUMENTS AND HEDGING ACTIVITIES 
+INTRODUCTION 
+The Financial Accounting Standards Board has issued three 
+pronouncements affecting the manner in which certain types of 
+financial instruments and hedging activities are measured and 
+reported in the financial statements 
+Please see that attachment. 
+Thank you, 
+Duscha S. Brown 
+Legal Assistant 
+Bracewell & Patterson, L.L.P. 
+2000 K St. NW 
+Washington, D.C. 20006 
+Richard 
+We need to make some decisions very soon (this morning) about Enron's submission of data into the Pacific Northwest ("PNW") refund case.  The data is due at FERC no later than Thursday August 16.
+The key strategic issues in submitting the data to the ALJ include the following 
+1.	Do we exclude bookouts (ie, only physical transactions)?
+It appears that other market participants intend to exclude bookouts.  EPMI should also exclude bookouts given that these transactions never went physical and hence are not appropriate to consider in this case.
+2.	Do we provide only sales transactions or do we include our purchases?
+The ALJ's Order allows parties to include purchases only if the selling party is not an intervenor in this case and hence, our purchase would not be included in the data.  The ALJ wants to limit the amount of data to be provided to ease the workload.  Our initial analysis of some data from other parties is that there will be transaction data irregularities and hence, we should provide all of our relevant sales and purchases.  By having the data in the case, we can dispute any inappropriate transaction and ensure that all of our purchases are included in the calculation of refunds.  This is key for Enron in that our primary defense is that Enron deserves refunds as a purchaser to offset any sales refund amount.
+3.	Do we provide data for all 4 time blocks (through 24 hours, through 7 days, through one month, through 1 year)?
+The ALJ's Order indicates that parties are to provide data for transactions that are not consistent with the initial definition of "spot" - deals less than 24 hours done day ahead or day of.  Our initial recommendation is to provide the data but to retain our arguments that this is not consistent with FERC's Order.  The primary downside of not complying with this element of the data submission request is that we anger the ALJ and end up providing the data anyway after being told directly to comply.  In addition, it is possible that by providing all of the data we could be creating the problem that some economist or competitor could get their hands on the data at a later date and "determine" our trading strategies.  Weighing these risks, I would still recommend to include this data but argue before the ALJ and the FERC the ultimate relevance.
+4.	Do we provide data based on contract date? 
+The ALJ has requested data for contracts that were valid on December 25, 2000 that had physical energy flowing after December 25, 2000 through June 20, 2001.  This would explicitly include Balance of the Month transactions for December 2000 and the associated physical flows. To minimize the hours on these transactions, we intend to enter the transaction date in the data submission to allow for FERC staff to delete inappropriate transactions.
+I will call you this morning 
+Thanks,
+Jim
+Left you off.  Sorry.
+Per our discussions yesterday, the following should hopefully be completed before the 2:30 (CST) conference call on Recoupment and the 4:00 (CST) conference call on PX Credit & 1c/kwh Surcharge.
+1.	Bob Williams - Synopsis of 1c/kwh Surcharge
+2.	Sue Mara - Background on CPUC Activity on 1c/kwh Surcharge (to be included in Bob Williams' write-up)
+3.	Dian Huddleson - Plan for Requesting Net Bill Reinstatement
+4.	URM - Analysis of PX Credit Methodology
+5.	Mary Lynne Ruffer - Analysis of Net Bill Amounts
+6.	Jim Steffes - CPUC Legal Analysis
+The goal for today is to have all necessary data to develop our recommendations for how to proceed in these matters so that we can meet with the business heads tomorrow.
+Call In Information -
+2:30 Recoupment
+1-800-998-2462 # 5462908
+4:00 PX Credit & 1c/kwh Surcharge
+To Be Provided By Linda Noske
+Ginger 
+Please send to Rick's team.
+Jim
+FYI - The report is attached.
+NGI's Daily Gas Price Index 
+published : August 14, 2001
+CAEM Study: Gas Dereg Has Saved Consumers $600B 
+Nearly 20 years of competition in the natural gas market has reduced national energy costs by more than $600 billion, according to a new study issued Monday. 
+This amounts to per-household savings of $5,938 as a result of gas deregulation, which began in the late 1970s with the phased removal of wellhead price ceilings, then graduated to lighter-handed regulation of interstate pipelines and now is focusing on opening up the distribution end, according to the study commissioned by the Center for the Advancement of Energy Markets (CAEM), a non-profit think-tank in Washington, DC. 
+"The nearly 20 years of competition we've experienced in the natural gas industry proves that the right conditions can foster lower costs for consumers and motivate the industry to make investments that benefit the environment, our economy and our national security," said CAEM CEO Ken Malloy. 
+In addition to the cost savings to the public, the study credits deregulation for the rise in the number of gas suppliers at the wholesale and retail levels; a reduction in long-term price fluctuations, although it has triggered more short-term price volatility; greater focus on energy-efficient purchases by customers, making gas the fuel of choice for many; and industry improvements in how its buys, sells and trades gas supplies. In addition, it noted that light-handed regulation of gas pipelines has been a big factor in passing through lower commodity costs to consumers. 
+In short, the study reveals that the gas deregulation skeptics of the 1970s and early 1980s "were wrong by a long shot," according to CAEM. 
+"What we also need to recognize is that we've witnessed a re-distribution of wealth from foreign oil producers to domestic natural gas producers, and that these lower prices have contributed measurably to a more stable inflation rate, lower greenhouse gas emissions and improved our [national] security due to a reduced reliance on imported oil," said Malloy, who formerly was on the staff at FERC and the U.S. Energy Department. 
+The study, entitled "California Here We Come: The Lessons Learned from Natural Gas Deregulation," offers much guidance for the energy markets in the western state: 1) put the right regulatory framework in place, half measures are more dangerous than doing nothing; 2) don't expect results overnight, stay the course; 3) markets do work, and consumers and the environment will be winners under properly executed reform; 4) the costs of change are easier to calculate than the benefits; all the studies about gas deregulation underestimated the benefits; and 5) organized consumer advocates are often very wrong about the impact changes will have on consumers. 
+Steve =20
+I've stopped trying to understand the Utilities in California and what they want - it hurts too much.  But yes, the law allows the Utilities to continue to collect "something" from customers, including DA customers, for QF costs beyond 3/31/02.
+=20
+Jim
+Let me make sure I understand this.  Prior to April 2002, the UDCs want their QF costs to be as low as possible, since this will cause the PX credit to be lower and thus the positive CTC higher.  However, beginning April 2002, they pray for just the opposite -- the greater their QF costs, the more they can collect from DA customers to help pay for the QFs.
+=20
+I truly hope I have misunderstood you, else my brain may explode.
+=20
+=20
+Steve --=20
+As Sue highlights below, when people talk about stranded costs ending no later than 3/31/02, they are only speaking about generation-related stranded costs.  Above market costs for QFs will be "collected" from DA customers for some time into the future.  Wanted to make sure that this was clear.
+Jim=20
+Cc:     Gorny, Vladimir; Bradford, William S.; Kingerski, Harry; Savage, Gordon; Tribolet, Michael=20
+An update from the meeting we had with SCE on August 9:  SCE said that it has TEMPORARILY stopped charging CTC because it doesn't know what to charge for DWR. Meanwhile, it continues to keep track of the dollar flows through the TCBA and the new account set up for DWR.  Once the CPUC decides on the DWR's revenue requirement, SCE expects that it will charge generation-related CTC again.  There is also continuing CTC related to QF contracts that will return (and goes beyond 3/31/02) once QF contracts are above the "market".  SCE is also considering filing a petition with the CPUC to get guidance on all these matters. Once the CPUC rules on SCE"s advice letter approaches, SCE plans to go back and re-bill begining with Jan 18 (it used some different PX credit approaches early on and switched to this approach for bills going out June 4). I didn't ask the question about calculating CTC back to Jan 18.  I guess if the DWR rev req is retroactive and leaves room for CTC, they will bill it.  The other twist I had forgotten about is that they have a one-half cent charge added to the embedded gen rate of 10.27 cents (making it about 10.77 cents) that collects the $400 million that was uncollected while the CPUC played around with a rate design for the three cent surcharge.  The half cent addition is for 12 months.
+Cc:     Gorny, Vladimir; Bradford, William S.=20
+I wanted to summarize the conclusions from our meeting on Wednesday, August 8th.  Please let me know if I have misrepresented anything. =20
+Below is a description of four proposals which may help resolve issues associated with PX credits or mitigate Enron's exposure to PX credits.  Steve Swain has the responsibility for evaluating each proposal, and his goal is to have recommendations for EWS/EES management on August 14th. =20
+Current Issues:=20
+1)  The methodology for calculating PX credits after January 18 is undetermined (SCE and PG&E have implemented different methodologies)
+2)  Applicability of the 1 cent surcharge to direct access customers (PG&E is passing thru to DA customers, SCE is not)=20
+3)  Impact to Enron if  FERC implements  retroactive changes to the CAL PX clearing prices from Oct 2, 2000 thru January 18th which result in revised PX credits=20
+4)  Recoupment of outstanding PX credits against future payments for T&D=20
+5)  Uncertainty surrounding future tariffs (CTC or other pass through charges), making it difficult to hedge price risk in forward positions
+6)  Large uncollected receivables from both PG&E and SCE=20
+The four proposals are as follows:=20
+SCE Recommended Approach=20
+This approach assumes no PX (or PE) credit effective from January 18, 2001 forward.  Mary Lynne and Diann will work with Steve to quantify the  gross PX receivable (as billed by each utility)  which would  be reversed.   This approach will ensure that only charges for T&D (no    generation/commodity costs, CTC charges, or surcharges for CDWR, including the 1 cent)  will be applicable to Direct Access customers. =20
+Enron would request the following:=20
+1) Assurances that no surcharges for CDWR will be passed through to EES or EEMC=20
+2) SCE will support our historical PX  credit receivable as an "allowable claim" at a minimum and would provide additional credit support if possible. =20
+3) PG&E will support Enron's recoupment argument=20
+4) Both utilities will immediately reinstate the Cumulative Credit Balances on utility bills and agree to a netting arrangement at the utility parent   level.=20
+5) Both utilities agree to not adjust the historical PX credits, if/when an adjustment of historical PX clearing prices is mandated by FERC=20
+Other consideration:=20
+Ability to hedge price risk in the retail portfolio, without concern re CTC or other surcharge amounts. =20
+PG&E Recommended Approach=20
+This approach assumes the PX calculation methodology effective January 18, 2001 would include an "avoided cost"  component.  This avoided cost =20
+component would include, owned generation, QF purchases, actual CDWR purchases for the utility, bilateral purchase contracts, and ISO purchases.        This resulting "avoided cost" would be used in lieu of the PX clearing price in the old PX formula through March, 2002.    If the actual CDWR purchase  costs are not included, then the surcharge (along with the embedded gen costs)  should be included in the calculation. =20
+=20
+Enron would request the following:=20
+Same as above=20
+Other Consideration:=20
+Enron  would continue to be exposed to "price" risk attributable to the actions of the utility at a minimum through March, 2002.  This would hamper     Enron's ability         to hedge the positions in the retail portfolio.=20
+Hybrid Approach=20
+This approach assumes that the PG&E approach is applicable from January 18, 2001 through September 1, 2001 and that the SCE approach is         applicable from September 1st forward.   This approach might be necessary as a compromise for both utilities to provide their support of the proposal.=20
+Enron would request the following:=20
+Same as SCE and PG&E approach=20
+Other considerations:=20
+Ability to hedge price risk in the retail portfolio, without concern re CTC or other surcharge amounts. =20
+Enron Model=20
+This approach assumes we continue to support a market based (NP15 and SP15) calculation methodology for the PX credit.  =20
+Enron would request the following:=20
+It is unlikely we would receive any level of cooperation from either PG&E and SCE.   The consensus from legal, regulatory, and EWS commercial is        the probability of getting this approach approved is low.   However, understanding this amount, at a minimum, can be used to help defend the "value"    Enron is foregoing in order to reach agreement with the utilities and CPUC.
+Other considerations:=20
+This approach would give Enron the ability to hedge "price" risk, but this is somewhat offset with  incremental credit exposure associated with the     actual collection of the PX credit.
+Again, please let me know if this does not clearly represent what we concluded in Wednesday's meeting.=20
+Thanks,=20
+Wanda Curry=20
+Ok.  If the FERC team in DC (Donna and Sarah) are ok, let's support this but let's make sure that we have outlined our "needs" and "wants" and "no ways" before going in.  Also, who would cover and can we do this in Houston (guessing most of the parties in town)?
+Jim
+I would say, no downside to supporting implementation of Settlement proceedings.  As one of the customers replied yesterday afternoon: "Count Phelps Dodge Corporation "in" for settlement conferences - possible certainty through settlement is preferable to several years of litigation."  I'd bet that FERC would be thrilled to see a settlement proposal, even one that was contested, given - as you say - that they are swamped with other issues.  With no settlement, any decision they issue that disadvantages one segment is sure to be litigated.  At least with a settlement, they stand a chance of getting something out of the process even though they might not get everything they want.
+Feedback from Janie, presumably cleared by the Desk:  "I am deferring this to you but I don't see any reason we would have any problem with this  either."
+Becky 
+What's the upside and downside from the Settlement.  My only concern is that FERC is so swamped with issues may be overwhelming.  Where is our business going?
+Jim
+FYI.  Obviously, we would want to participate in any settlement discussions.  Do you see any reason why we would not want to support the motion to establish the settlement procedure?  SRP indicates that the ongoing proceedings would not be delayed. =20
+Attached is a draft motion of Salt River Project to establish a date certain
+for convening a settlement conference under Rule 602, in accordance with the
+settlement package distributed on July 30. Paragraph 8 of the motion will
+list all parties that are in support of this procedural motion.  A company's
+support for the motion IN NO WAY reflects any agreement to support any
+setttlement proposal.  It merely indicates a desire to initiate a parallel
+settlement path without interfering with or delaying FERC's processing of
+the ongoing proceedings. Please reply to all by COB Tuesday in advising
+whether your company would like to be listed.  We intend to file on
+Wednesday early afternoon.  Thank you.
+Energy Advocates LLP
+202-371-9889
+202-371-9025 (fax)
+jlgreene@energyadvocates.com  - rp00-336setmot1.doc  
+Jeff 
+Any communications with ElectriCities on virtual direct access?  Maybe another good avenue for ElectriCities to help its members?  Now that direct access is dead in NC, ElectriCities could agree to move new products through their stable channel.
+Jim
+Focus on Electric Deregulation Fades at High Point, N.C., Meeting 
+Jacob McConnico 
+Aug. 10, 2001 
+Knight Ridder Tribune Business News - KRTBN 
+High Point electric utilities officials, city staff and elected leaders plan to spend the next two days talking about power issues ranging from saving residents money to unloading some of the city's debt. The 35th ElectriCities Annual Meeting gets started today with registration from 2 to 7 p.m. in New Bern. The conference shifts into high gear, with daylong meetings, presentations and demonstrations planned for Friday and Saturday. High Point Mayor Arnold Koonce, City Manager Strib Boynton and councilmen Ron Moore and Ron Wilkins will attend the two-day event. 
+Koonce said the annual meeting provides a rare opportunity for High Point officials to meet with leaders from the 50 other cities and towns across the state that run their own power systems. The group meets under the umbrella of ElectriCities, a nonprofit group formed in 1965 to handle many of the issues that arise from municipal power distribution.
+"It's the only time, unless you call a special meeting, that these officials get together in one place," Koonce said. "We get to find out what is happening throughout all of the ElectriCities."
+ElectriCities provides customer service and safety training, emergency and technical assistance, communications, government affairs and legal services to its 51 members. The group also provides management services to the state's two municipal power agencies, N.C. Municipal Power Agency Number 1, which includes High Point and Lexington, and N.C. Eastern Municipal Power Agency.
+Representatives from across the state will attend the meeting, and Moore said he is most interested in learning about progress on restructuring the $5.4 billion debt owed by ElectriCities and its members.
+Moore said it is imperative for Duke Energy Corp. to obtain recertification from the Nuclear Regulatory Commission for the Catawba and McGuire nuclear power plants, which supply power to High Point and other members of ElectriCities. Recertification would allow the plants to operate for an additional 20 years, making it possible for ElectriCities to refinance its debt.
+"I want to learn more about the effects of restructuring our debt on our customers," Moore said. "I want to know where ElectriCities stands on restructuring the debt, and where Duke is on getting this recertification."
+Boynton echoed Moore's sentiments, but said this year's meeting will be a little different than last year's meeting because attendees will not be as worried about the possibility of the state deregulating the power industry.
+"I think deregulation is effectively a dead issue because of the trouble they have had in California," Boynton said. "This meeting, however, is critically important because the electric fund makes up about $80 million of our annual budget. It's the single-largest part of our budget. Most of the decisions are made by ElectriCities, so it is critical for the Council to attend this meeting 
+713-853-9287 
+888-703-0309
+Why is Buxton upset?  This is good for consumers?  What does he want to change his mind and push this forward?  Wouldn't this just lower the prices to his customers?
+Also, this is why we need to be constantly pushing the political message in the states.
+Jim
+FERC Exceeded Jurisdiction With RTO Order - Consumer Grps 
+Aug. 14, 2001 
+Dow Jones Energy Service 
+(This article was originally published Monday) NEW YORK -(Dow Jones)- New England consumer advocates Monday said federal energy regulators overstepped their jurisdiction in ordering the consolidation of the wholesale electricity markets and transmission systems in the northeast U.S. 
+The Federal Energy Commission in mid-July directed operators of the power grids in New York, New England and the Mid-Atlantic to merge, as part of a sweeping series of orders designed to put control of the country's transmission system in independent hands. 
+Federal law allows the Federal Energy Regulatory Commission to require transmission systems to connect, but only at the request of a state regulators, according to a filing made by Maine law firm on behalf of consumer groups, nonprofit energy groups and the attorney general of Massachusetts. 
+"The Commission makes no claim in the New England Order that it is acting at the behest of a state commission or public utility, and is, therefore, without authority to mandate the involuntary combination of the Northeastern RTOs," the groups said in their filing, which asked FERC to reconsider its consolidation decision. 
+FERC should give the three Northeast grid operators a transition period to evolve into three regional transmission organization, or RTOs, with similar market designs, transmission tariffs and governance structures before requiring them to merge, the filing said. 
+The commission directed the operators of the wholesale power grid in New England, New York and the Mid-Atlantic to meet with utilities, generators, trade groups, state regulators and a FERC judge in Washington for 45 days beginning July 19 to outline plans for creating one transmission organization from Washington, D.C., to Maine. The regulators also directed Judge Peter Young to submit recommendation to them 10 days after the conclusion of the talks. 
+The commission ordered the consolidation of the Northeast power grid "at breakneck speed" without studying the technical feasibility of creating one RTO and without analyzing the costs and benefits of merging, the consumer groups said in their filing. 
+Young has directed meeting participants not to discuss the substance of the negotiations, but sources familiar with the talks said the group is outlining a business model describing how to structure a Northeast RTO without filling in the details. Participants have said, for example, that this regional market should have one transmission tariff and one interconnection standard, but haven't defined what that tariff and standard should be. 
+"Many people are very discouraged by the ongoing talks," said Anthony Buxton, an attorney with the Maine law firm that submitted Monday's filing. 
+All 300 meeting participants have been gathering in Washington twice a week and have been working on the issues every day outside of those meetings, Young said. Next week, they will break off into smaller groups and begin meeting every day, according to Young and market participants. 
+The commission was in turmoil when it issued its RTO decision, as evidenced by Chairman Curt Hebert's resignation last week, and should therefore reconsider its order, Buxton said. 
+The consumer groups also asked the commission to allow residential electricity users to have a say in how the unified electricity market in the northeast U.S. will run. Market participants, including consumers, will have an advisory capacity only in this new market and won't be allowed to vote on the rules that govern the market, as they do now, Buxton said. 
+This decision contradicted another one FERC issued in 1996 requiring utilities to open their transmission lines to competitors. In that order, the commission encouraged New England to create an independent system operator to oversee the power grid and to give market participants equal say in determining how this regional transmission system and electricity market would operate 
+The consumer groups that filed Monday are working to galvanize other organizations representing residential customers in New England, Buxton said. 
+"Consumers are going to be at the forefront of a massive attack on FERC for what it's done," Buxton said. 
+-By Kristen McNamara, Dow Jones Newswires; 201-938-2061; kristen.mcna  
+713-853-9287 
+888-703-0309
+Buxton is not a true consumer advocate - I thought that he was the guy who put MECC's together.  We have a relationship with him.  Why not work our magic.
+Jim
+Now Jim - You as one of the three (3) smartest energy people in the world should know, You are dealing with a consumer advocate, Not a brain surgeon.  Have you ever met a consuemr advocate that was happy with anything? Seriously, we will try to neutralize.  Hope all is well. Steve
+Why is Buxton upset?  This is good for consumers?  What does he want to change his mind and push this forward?  Wouldn't this just lower the prices to his customers?
+Also, this is why we need to be constantly pushing the political message in the states.
+Jim
+FERC Exceeded Jurisdiction With RTO Order - Consumer Grps 
+Aug. 14, 2001 
+Dow Jones Energy Service 
+(This article was originally published Monday) NEW YORK -(Dow Jones)- New England consumer advocates Monday said federal energy regulators overstepped their jurisdiction in ordering the consolidation of the wholesale electricity markets and transmission systems in the northeast U.S. 
+The Federal Energy Commission in mid-July directed operators of the power grids in New York, New England and the Mid-Atlantic to merge, as part of a sweeping series of orders designed to put control of the country's transmission system in independent hands. 
+Federal law allows the Federal Energy Regulatory Commission to require transmission systems to connect, but only at the request of a state regulators, according to a filing made by Maine law firm on behalf of consumer groups, nonprofit energy groups and the attorney general of Massachusetts. 
+"The Commission makes no claim in the New England Order that it is acting at the behest of a state commission or public utility, and is, therefore, without authority to mandate the involuntary combination of the Northeastern RTOs," the groups said in their filing, which asked FERC to reconsider its consolidation decision. 
+FERC should give the three Northeast grid operators a transition period to evolve into three regional transmission organization, or RTOs, with similar market designs, transmission tariffs and governance structures before requiring them to merge, the filing said. 
+The commission directed the operators of the wholesale power grid in New England, New York and the Mid-Atlantic to meet with utilities, generators, trade groups, state regulators and a FERC judge in Washington for 45 days beginning July 19 to outline plans for creating one transmission organization from Washington, D.C., to Maine. The regulators also directed Judge Peter Young to submit recommendation to them 10 days after the conclusion of the talks. 
+The commission ordered the consolidation of the Northeast power grid "at breakneck speed" without studying the technical feasibility of creating one RTO and without analyzing the costs and benefits of merging, the consumer groups said in their filing. 
+Young has directed meeting participants not to discuss the substance of the negotiations, but sources familiar with the talks said the group is outlining a business model describing how to structure a Northeast RTO without filling in the details. Participants have said, for example, that this regional market should have one transmission tariff and one interconnection standard, but haven't defined what that tariff and standard should be. 
+"Many people are very discouraged by the ongoing talks," said Anthony Buxton, an attorney with the Maine law firm that submitted Monday's filing. 
+All 300 meeting participants have been gathering in Washington twice a week and have been working on the issues every day outside of those meetings, Young said. Next week, they will break off into smaller groups and begin meeting every day, according to Young and market participants. 
+The commission was in turmoil when it issued its RTO decision, as evidenced by Chairman Curt Hebert's resignation last week, and should therefore reconsider its order, Buxton said. 
+The consumer groups also asked the commission to allow residential electricity users to have a say in how the unified electricity market in the northeast U.S. will run. Market participants, including consumers, will have an advisory capacity only in this new market and won't be allowed to vote on the rules that govern the market, as they do now, Buxton said. 
+This decision contradicted another one FERC issued in 1996 requiring utilities to open their transmission lines to competitors. In that order, the commission encouraged New England to create an independent system operator to oversee the power grid and to give market participants equal say in determining how this regional transmission system and electricity market would operate 
+The consumer groups that filed Monday are working to galvanize other organizations representing residential customers in New England, Buxton said. 
+"Consumers are going to be at the forefront of a massive attack on FERC for what it's done," Buxton said. 
+-By Kristen McNamara, Dow Jones Newswires; 201-938-2061; kristen.mcna  
+713-853-9287 
+888-703-0309
+FYI.  Please keep this confidential.
+Jim
+FYI - RE: your statement this morning about Boeing, Raytheon indicated this morning, that on last Friday's conference call with California Manufacturers & Tech. Assn., Boeing told the lobbing group at CMTA they had to prevail with an 8/31/01 retro date and it was apparent that APS ES was their supplier....CLECA probably has the same marching orders from Boeing if they are still members there 
+I'm taking Sept 3 off - I think it's Labor Day.  Please also note that I am taking off late in September.  Choose the best date to work through for this.
+Jim
+Well, it looks like I have already hit a road block in scheduling this meeting.  Below are some other dates, please review them and let me know which one's will work with your schedules.  Also, this meeting will be held similar to the last budget meeting.  The meeting will be held in Houston and will begin @ 11:00 AM and conclude by 5:00 PM.
+Dates:
+September 3, 4, 5, 6, 7 10, 11, 20, 21
+Please look these dates over and respond to me ASAP!
+Thanks 
+Ginger Dernehl
+Administrative Coordinator
+Global Government Affairs
+Phone# 713-853-7751
+Fax# 713-646-8160
+Rick would like to hold another budget meeting in September.  Please see the dates below and let me know how many of the dates will work for your schedules
+September 25, 26 & 27.
+Please get back with me at your earliest convenience.
+Thanks
+Ginger Dernehl
+Administrative Coordinator
+Global Government Affairs
+Phone# 713-853-7751
+Fax# 713-646-8160
+Pls update my calendar.
+MEMORANDUM
+TO: Regulatory Affairs Committee
+Power Marketing Working Group
+FROM: Jim Steffes, Regulatory Affairs Committee Chair
+Bob Reilley, Power Marketers Working Group Chair
+Julie Simon, Vice President of Policy
+DATE: August 14, 2001
+RE: August 17th Power Marketing Conference Call
+?Friday, 11:30 a.m. (EDT) - NOTE DATE AND TIME
+CHANGE
+Due to the ongoing FERC RTO settlement conferences, we will hold this week's Power Marketers Working Group conference call on Friday, August 17th, at 11:30 A.M. (EDT).  To access the call, dial 1-800-937-6563.  Ask for the Julie Simon/EPSA Call.  An agenda is outlined below.
+August 17, 2001 Conference Call Agenda
+?  California
+?  Rehearing of Refund Order
+?  Draft to follow
+?  California Refund Prehearing Conference
+?  PNW Refund Case
+?  New York
+?  Alliance
+?  NE RTO Settlement Conference
+?  SE RTO Settlement Conference
+?  GISB Meeting
+?  EPSA Legislative & Regulatory Committees Joint Meeting on NAERO
+Legislation: August 20th
+Pls put on my calendar.
+Linda --please calendar.  Also Susan you should attend if possible.
+Please plan on attending a meeting on Thursday, 8/23/01 at 11:30 a.m. to 1:00 p.m. for a presentation by Lloyd Will (location to be announced later).  Lloyd as agreed to present the PJM model of LMP and congestion and how these issues will soon impact the Midwest Markets.
+Additionally, I have invited Mike Roan to present a Midwest RTO update. 
+This will be an excellent opportunity to come up to speed on a series of issues that will have significant impact to our region.
+Lunch to be provided 
+Thanks 
+Oscar Dalton 
+John -
+Can you please get with Sue?
+thx
+I assume you're all over this, Linda.
+On the off chance that you haven't seen it.  Feinstein is asking IEP for comments on her draft legislation that would increase regulation of natural gas, define what just and reasonable rates would be and increase refund power on the electric side.  I think we would have some concerns with her proposal.  If you want to pass along our comments to IEP, just get them to me.
+Ask Linda Noske to schedule some time for us to go over.  I think it's great. 
+Jim
+Jim,
+I am signing up for some correspondence classes to finish off my Bachelors.  I understand that I need to get you to sign off that yes, I am improving my value to Enron by taking them and yes, Enron is aware, and all that other good stuff.  Should I just send everything to you via interoffice?  Or do you want to talk about it in detail?
+Thanks!
+Andy Rodriquez
+Regulatory Affairs - Enron Corp.
+andy.rodriquez@
+713-345-3771 
+Bob 
+Let's discuss today.
+Jim
+Please find attached a 3rd draft of the Joint Stipulation of Issues.  It attempts to reflect the comments of about 20 of the TFG's participants.
+No one has requested a conference call.
+Please keep in mind this is a DRAFT that will be circulated to all parties to EL01-10 tomorrow.  It will no doubt be subject to further negotiation.  While it is highly unlikely that all the parties will reach agreement on a Joint Stipulation by the due date on the procedural schedule(i.e., Thursday, August 16), we nevertheless should make an effort to get it out to the other parties as early as possible tomorrow.
+Accordingly, please propose only those additional revisions that you feel are critical at this time.  If I have not heard from you by 10:00 a.m. EDT tomorrow, August 15, I will go ahead and serve the other parties with the document conspicuously marked "DRAFT".
+(Don't you hate this process?)
+,
+Patricia Fry Godley
+Van Ness Feldman
+(202) 298-1940
+- VANDOC_106417_2.DOC 
+On what case?
+Jim
+Please be aware that the latest draft of the reply brief will be sent out early afternoon tomorrow, along with information about a conference call to take place on Thursday to discuss the brief.  Thanks.
+Jacqueline R. Java
+Bracewell & Patterson, L.L.P.
+2000 K Street, N.W. Suite 500
+Washington, D.C. 20006-1872
+ph: (202) 828-5828
+fax: (202) 857-2124
+Linda -
+Pls work with Brian Redmond's asst to have a meeting with me, him, Jean Ryall, and Becky Cantrell.
+Thx.
+Jim, Brian has been working with Jean Ryall on Texas issues and he assumed she would be the right person for the Pat Wood contact.  He sent her a draft of a letter last night in fact.  (See below).
+The PowerPoint presentation is one that he made to TRRC staff 
+He wants to push on both fronts (Texas and Federal) to get more competition in the state.  Said he would like to get together, but he's out Thursday, Friday, Monday and Tuesday.  Linda can get with his assistant and set something up for late next week if you are available.
+FYI
+Jean,
+Please find the attached letter to Pat Wood as follow up to our meeting last week.  Please modify with your thoughts and resend 
+Also, should we visit with Max Yzagurie at the Texas PUC?
+,
+Brian
+Maybe someone from the Risk Mgmt Working Group would also go?
+Jim
+FYI in case someone wants to attend (maybe to get some customers?).  I am not sure why it is called "Gas Cost Stabilization" (unless that refers to a producer buying a hedge) since some volatility sends necessary price signals.
+The American Gas Association will host a Gas Cost Stabilization Seminar
+on September 20-21, 2001 at AGA, 400 N. Capitol St. NW, Washington, DC.
+Attendees at this day-and-a-half meeting will learn what caused recent
+volatility in natural gas prices and how risk-management tools can
+mitigate gas cost volatility.  Speakers will discuss the risks and
+rewards of various cost-stabilization techniques.  Regulators and
+industry experts will debate regulatory philosophies and practices
+regarding volatility mitigation strategies.  The seminar will appeal to
+regulators, energy service consultants and lawyers, financial and
+investment professionals, supply planners, and gas utility rate and
+regulatory experts. Seats are limited.  Please see the attached agenda
+and registration materials for fees, hotel arrangements and additional
+information.  We look forward to seeing you at this important event.
+Catherine
+Catherine F. Kazzi
+Senior Staff Associate
+Regulatory Affairs
+American Gas Association
+202-824-7233
+ckazzi@aga.org  
+Jeff 
+Please send the invoice to my assistant - Linda Noske - to have her take it through the system.  Her phone number is 713-853-6082.
+Thanks,
+Jim
+Jim,
+In trying to clear up some of our outstanding invoices, I contacted the
+Enron Accounts Payable Department and they have no record of our May invoice
+for $12,500.
+They told me to go ahead and send a copy of the invoice directly to them,
+but it will expedite things if I include on the invoice your Enron company
+name and number and your external identification number. If you could reply
+to this message with that info, I'd appreciate it.
+If I can answer any questions regarding the invoice, or anything else for
+that matter, please don't hesitate to contact me. Thanks.
+,
+Jeff
+Do we want to "represent" EPSA on the Friday panel?
+Jim
+FYI -- see hearing notices below for two hearings in the Barton Subcommittee next week -- Tues. Sept. 11 on siting, rates and reliability and Fri. Sept. 14 on RTOs, open access and federal jurisdiction.  We will contact EPSA since they have been asked to provide a witness for these hearings.  Will work with our internal and external team on messages to get to subcommittee members before each hearing.
+John
+The Subcommittee on Oversight and Investigations has scheduled a hearing for Tuesday, September 11, 2001, at 10:00 a.m., in 2123 Rayburn House Office Building. The hearing is entitled "A Review of Federal Bioterrorism Preparedness Programs from a Public Health Perspective." Witnesses will be by invitation only.
+The Subcommittee on Energy and Air Quality has scheduled a hearing on Tuesday, September 11, 2001, at 2:00 p.m., in 2322 Rayburn House Office Building. This hearing is entitled "Electric Transmission Policy: Siting, Incentive Rates, and Reliability." Witnesses will be by invitation only.
+The Subcommittee on Energy and Air Quality has scheduled a hearing on Friday, September 14, 2001, at 9:30 a.m., in 2123 Rayburn House Office Building. This hearing is entitled "Electric Transmission Policy: Regional Transmission Organizations, Open Access, and Federal Jurisdiction." Witnesses will be by invitation only.
+For the latest scheduling information, please visit 
+The audio of all Committee hearings are broadcast via the Internet. The Committee's webcasting capacity is limited, so please visit <  15 minutes prior to the beginning of the event. The free Real Player is also required. ( <  Please note that Committee markups are not currently broadcast.
+You are currently subscribed to commerce_news5 as: john.shelk@
+To unsubscribe send a blank email to leave-commerce_news5-10417W@docs.house.gov 
+Linda 
+I thought that Ray set up a daily call regarding the CA and Pacific Northwest Refund litigation at FERC?  It's not on my calendar.  Can you please call Bernadette Hawkins to verify and put on my calendar?
+Jim
+Linda 
+Please find out if Gordon, Mary Lynne, and Steve can meet at 2pm to follow-on to our PX Credit discussions?  If it does, please find a room on 47.
+Thanks,
+Jim
+Pls keep sending these.  I just didn' t know the case.
+Jim
+Jim -
+This is the Entergy source/sink case dealing with control areas that is currently before the D.C. Circuit.  The reply brief is due Friday.  I included you in the original message because Christi Nicolay had included you in an email containing some of her initial comments.  Please let me know if you have any other questions, or if you would like to be left off of further emails re: this case. Thanks.
+Jacqueline R. Java
+Bracewell & Patterson, L.L.P.
+2000 K Street, N.W. Suite 500
+Washington, D.C. 20006-1872
+(202) 828-5828
+>>  On what case?
+Jim
+Sent:   Tuesday, August 14, 2001 6:39 PM
+Please be aware that the latest draft of the reply brief will be sent
+out early afternoon tomorrow, along with information about a conference
+call to take place on Thursday to discuss the brief.  Thanks.
+Jacqueline R. Java
+Bracewell & Patterson, L.L.P.
+2000 K Street, N.W. Suite 500
+Washington, D.C. 20006-1872
+ph: (202) 828-5828
+fax: (202) 857-2124
+Here are my comments given my very short review of the NGA Statement.
+18.3.4	Demand Response 	GOOD
+18.5	Improving Energy Transmission	OK	
+talks about "equal access for all suppliers 	even though says "oppose preemption", indicate a willingness to better coordinate
+18.6	Regulatory 
+hard to read if the section on "no preemption of state regulatory authority" is good or bad...we don't argue that our model preempts any authority, only that transmission service is best defined by FERC.
+Jim
+Thane 
+You are probably already aware but if not, Enron holds an interest in Project Cornhusker (a QF in Cleburne).  There are some issues that may develop with the plant related to its ability or inability to meet specific ERCOT guidelines.  Generation Investments is managing this asset and relations with Brazos Co-op. Their primary concern is that Mirant is Brazos Co-op's QSE and may be interested in playing games with the plant through modification of ERCOT rules. 
+Please coordinate with Jean and decide who will call either Rick Hill or Chuck Ward.
+Thanks,
+Jim
+Nothing really - he both had the $ to retire and wanted to spend more time with his family.  No "forcing" out.
+Jim
+So, saw the story about Skilling leaving Enron. What's the story?
+Jennifer -
+I like your #2 and #3 issues for highlighting.  On the issue of fuel diversity, Enron has been somewhat agnostic.  Please draft some comments and share with Tom Hoatson to submit.
+Thank you,
+Jim
+Jim:
+Overall, I do not see any significant problems/omissions in the draft Task Force recommendations  
+My suggestion is to submit a specific, brief and informal response (via a letter or e-mail).  However, if desired, I could certainly draft formal, more extensive comments. 
+Some points for your input:
+1. The recommendations encourage the development and use of coal and nuclear power (albeit with an emphasis on clean coal technologies and safety, respectively). *Does Enron have an issue with advocating these sources among others as components of a diversified fuel strategy?
+2.  Although the role of competition and deregulation in PA's success is acknowledged, there is some language supporting government oversight, for example "...it cannot be assumed that deregulated markets are fully matured and can be left completely free from government oversight.  Responsible stewardship of restructuring is vital to the preservation of workable energy markets and a reliable energy supply *I don't see a problem with this, but wanted to highlight it to you.
+3. The section on natural gas states that as prices are seasonal, consumers are exposed to market fluctuations, but there is no mention of the role of price risk management *I suggest we point out that price risk management tools can play a vital role in mitigating volatility.  Perhaps we want to also send them our recent White Paper on mitigating price risk (attached for your reference  
+Please let me know your thoughts.
+Jennifer
+What was the explicity capacity ($/kw-mo) component by year for PECO in their stranded cost case?  Feel free to call JR.
+Jim
+Jim:
+Below is the response I received from Daniel re: the ICAP component in PECO's stranded costs.  Does this answer your question?  I looked over dockets, etc. before contacting Daniel and hadn't found anything specific to ICAP deficiency charges. 
+Jennifer 
+My contact, JR Rohrbaugh, called back. He says that ICAP was explicitily included in the market value of the plants in the model.  The yearly market value had an energy componet and a capacity componet with the assumption that the capacity was compensation for installed capacity.  This revenue, less incremental cost of running the plants was the annual cash value of the plants which was then present valued.  That number less the book value was the stranded cost of the generation assets.   Hope this helps.  If Jim wants to talk to JR directly I have his number or e-mail.
+Daniel:
+At Jim Steffes' request, I am trying to determine the following - of the
+stranded costs sought by PECO in its original restructuring plan, what
+portion was for installed capacity deficiency charges?  I have read over
+a number of dockets, but haven't found mention of this.  I greatly
+appreciate your assistance.
+Jennifer
+713-345-3550
+Daniel Clearfield, Esq.
+Wolf, Block, Schorr and Solis-Cohen LLP
+212 Locust St., Suite 200
+Harrisburg, PA  17101
+(717) 237-7173
+(717) 237-7161 fax
+Bryan 
+Thanks for the info.  I think that a Section 4 would be good to add - who is on each list in a "major" way?  Sort of your analysis of who is the best company to leverage if we are to work a deal?
+Jim
+JIm:
+Here is the presentation I created with regard to the specific information requested by Steve Kean.  This is what I have accumulated to date.  If anything is left unclear, please let me know before we send it to Steve.
+Thank you,
+Bryan
+I have a call into Jean Ryall to discuss.  Agreed that we need to keep our FERC team in the loop.
+Jim
+Since this matter involves communications directly with Commissioner Wood, should we involve someone from the DC office?  I know they want to be the clearinghouse for high level communications with FERC.  We should also probably alert Hartsoe, just as an FYI.
+Linda - Could you please include Leslie in this meeting if she's available at whatever time you can schedule everybody else.  She is something of a 311 expert and it would be helpful to have her involved in the initial discussion.
+Sent:   Wednesday, August 15, 2001 7:25 AM
+Cc:     Ryall, Jean; Cantrell, Rebecca W.
+Linda -
+Pls work with Brian Redmond's asst to have a meeting with me, him, Jean Ryall, and Becky Cantrell.
+Thx.
+Sent:   Tuesday, August 14, 2001 6:23 PM
+Jim, Brian has been working with Jean Ryall on Texas issues and he assumed she would be the right person for the Pat Wood contact.  He sent her a draft of a letter last night in fact.  (See below).
+The PowerPoint presentation is one that he made to TRRC staff 
+He wants to push on both fronts (Texas and Federal) to get more competition in the state.  Said he would like to get together, but he's out Thursday, Friday, Monday and Tuesday.  Linda can get with his assistant and set something up for late next week if you are available.
+Sent:   Tuesday, August 14, 2001 6:13 PM
+FYI
+Sent:   Monday, August 13, 2001 5:58 PM
+Jean,
+Please find the attached letter to Pat Wood as follow up to our meeting last week.  Please modify with your thoughts and resend 
+Also, should we visit with Max Yzagurie at the Texas PUC?
+,
+Brian
+Bob 
+Please be on the next RCR call to update.  See Ginger for time.
+Jim
+I thought I'd pass this along to the RCR committee - I am going to try to get other participants in the Pacific NW refund case to chip in for Seaborn's fees.  As you know, things are moving quite fast. 
+Bob (cc Dan):
+On August 9th I sent a memo to Dan and Bob re: budget for the Pacific
+Northwest hearing. This included a PNW budget of $87,300 through the end of
+the hearing September 6th. I noted that we had already spent some time on
+PNW issues, including a meeting in Washington, etc. These were outside the
+$87K value.
+Just as an update, and to avoid any surprises, I thought I would provide Bob
+with an update. So far we have spent a total of 206 hours on the Pacific
+Northwest issues, through yesterday night. Needless to say, much of this
+went into drafting the numerous bits of testimony, plus the data analysis of
+the gas/power forwards prices. I also ended up drafting testimony on some
+other issues not originally contemplated, including ripple, etc.
+On that basis, we have gone through $66,575 of the total budget. I just
+wanted to make sure people were OK with this as we still have a very long 9
+days left to go before the hearing concludes next Thursday...and I expect we
+will be very busy the entire time.
+Seabron
+This e-mail, and any attachments thereto, is intended only for use by the
+addressee(s) named herein and may contain legally privileged and/or
+confidential information.  If you are not the intended recipient of this
+e-mail, you are hereby notified that any dissemination, distribution or
+copying of this e-mail, and any attachments thereto, is strictly
+prohibited.
+If you have received this e-mail in error, please immediately notify me at
+(617) 354-0060 and permanently delete the original and any copy of any
+e-mail and any printout thereof.
+Seabron Adamson
+Frontier Economics Inc
+Two Brattle Square
+Cambridge, MA 02138 USA
+Ph:  (617) 354-0060
+Fax: (617) 354-0640
+seabron.adamson@frontier-economics.com
+www.frontier-economics.com
+Shelby J. Kelley, Esq.
+Bracewell & Patterson, L.L.P.
+2000 K Street, NW  Suite 500
+Washington, DC 20006-1872
+(202) 828-5859
+skelley@bracepatt.com
+CONFIDENTIALITY NOTE:
+This email message is intended solely for the individual or individuals
+named above.  It may contain confidential attorney-client privileged
+information and/or attorney work product.  If the reader of this message is
+not the intended recipient, you are requested not to read, copy or
+distribute it or any of the information it contains.  Please delete it
+immediately and notify the sender by return email or by telephone.  Thank
+you.
+Did all of the amendments pass the Appropriations Comm?  When will a new bill get printed?
+Jim
+SBX2 78 (Polanco) passed out of the Assembly Appropriations Committee on a
+party line vote as amended.  I faxed the amendments to Houston and San
+Francisco.
+SBX2 39 (Speier), which grants the CPUC broad authority over generation
+facilities, passed out of the Assembly Energy, Costs and Availability
+Committee.
+SBX2 18 (Burton), which establishes a dedicated rate component, passed out
+of the Assembly Energy, Costs and Availability Committee.
+SBX2 85 (Burton), which prevents the CPUC from adopting rate hikes up to or
+above levels in effect prior to the imposition of 10% rate reduction, passed
+out of the Assembly Energy, Costs and Availability Committee.
+When: Friday, August 17, 2001 4:30 PM-5:30 PM (GMT-06:00) Central Time (US & Canada).
+I have attached a comparison of the revised CDWR Revenue Requirement, along with a comparison with the July 22nd figures.
+* The total DWR dollars decrease $471.5 million over 2001 and 2002, centered in the periods 3Q 2001 and onward.  The "past problem" actually increases by $1.9 billion (1Q & 2Q 2001).
+* PG&E has their share increased $730.1 million over 2002 and 2002, centered in 1Q and 2Q 2001.
+* Edison ends up with a significant decrease of $1.199 billion in 2001 and 2002.
+,
+Michael
+From the attached, it looks like the URG decision is being accelerated.
+From the phone call, there was some trouble opening the attachment.
+Yes.  Also, best to coordinate with Jeff and Sue.
+Jim
+Jim:
+I would be happy to.  Should I work with Scott on this? 
+Jennifer
+Jennifer 
+We have about 3 weeks left of the California legislature (mid-Sept).  Do you think you have the time to follow closely the different bills to make sure that we aren't missing something? 
+Jim 
+Sent:   Thursday, August 16, 2001 5:01 PM 
+The Senate Energy Utilities and Communications Committee will take up the 
+folling items next week pending approval of the Rules Committee: 
+Tuesday, August 21 - 1:30 p.m. 
+Informational Hearing: "A Review of DWR's Electricity Rate Agreement" 
+Wednesday, August 22 - 1:30 p.m. 
+AB 1233 (Pescetti) This bill would prohibit assessment of local transmission 
+rates on natural gas if (a) it is delivered to an end-use customer, (b) it 
+is delivered through a transmission system owned by another entity  that is 
+not interconnected with a local utility transmission system, and (c) it is 
+blended with gas supplies produced from an in-state source for the purposes 
+of achieving a usable thermal rate.  The bill would require the commission 
+to administer this provision in a manner that prohibits any cost shift to 
+core customers resulting from the rate exemption required under the bill. 
+ABX2 14 (Canciamilla) This bill exempts certain natural gas producers, 
+suppliers and transporters from the definition of a public utility as 
+described in Public Utilities Code Sections 216, 222 and 228.  Specifically, 
+this bill; (1) provides that a public utility does not include a gas 
+producer, supplier or transporter if the gas produced is of insufficient 
+quality or heating value to make it acceptable for introduction into the gas 
+line, plant or system of a gas corporation and if the natural gas is not 
+provided for sale to more than five end users, 2)provides that a "gas 
+corporation" does not include a producer, supplier or transporter as defined 
+in item #1 above, 3)provides that a "pipeline corporation" does not include 
+a producer, supplier or transporter as defined in item #1 above (4) 
+establishes that entities covered by the exemption from public utility 
+status as gas suppliers, producers or transporters are subject to 
+jurisdiction of the CPUC with regard to safety, service quality, and 
+consumer protection, and 
+5)requires these exempt entities to apply the public goods charge to end use 
+customers, as applicable. 
+ABX2 30 (Dutra) This bill would amend CPUC act to authorize a public entity 
+to assume from a public utility the work of relocating utilities that 
+relates to a project of the public entity if the public utility defaults on 
+executing utility relocation work under a relocation agreement with the 
+public entity in connection with a transit or transportation capital 
+improvement project, and would authorize the public entity to issue 
+contracts with another qualified entity to conduct the utility relocation 
+work. The bill would require a public utility to reimburse the public entity 
+for the utility's share of the costs of the relocation work in accordance 
+with the relocation agreement with the public entity. 
+Is it possible for everyone to stay on Rick's Staff meeting (10:30 CST) today to discuss our next steps?  I think that may allow us an opportuntity to set up next steps.
+Jim
+Do we have alternative reliability language we can get to DOE/FERC? If not, can we develop rather quickly?
+This note is to report on two electricity legislative developments: the Aug. 2nd introduction of an anti-RTO bill (or at least anti-mandatory RTOs) and on a meeting I had yesterday afternoon with Andy Black, the policy coordinator for Chairman Joe Barton on the House Energy and Air Quality Subcommittee, to discuss their intentions with respect to electricity legislation this Fall.
+1.  H.R. 2814 (Reps. Tom Sawyer (D-OH) and Richard Burr (R-NC))
+On Aug. 2nd (the last day Congress was in session before the August Recess), the above named members of the House Energy and Air Quality Subcommittee introduced H.R. 2814, the Interstate Transmission Act.  The legislation is bad because, among other things, it requires FERC to establish transmission pricing policies that provide incentives for voluntary participation and formation of RTOs, with language prohibiting policies that have the effect of forcing transmitting utilities to join RTOs.  Also objectionable is that the bill would "limit" pancaking but at the same time require FERC to establish a "reasonable transition mechanism or period" for additive charges.  The legislation prohibits FERC from conditioning any order upon a transmitting utility being required to transfer operational control of jurisdictional facilities to an ISO or RTO.  The bill would require that participating transmitting utilities must approve the form, structure and operating entity of any RTO.
+In addition to the RTO language, the bill has the "old" version of the NERC reliability legislation in it.  The bill also has a PUHCA exemption for RTOs, repeals Federal Power Act sec. 203 on the disposition of property and includes the tax changes that IOUs seek for transfers of property to an independent transmission company.
+Barbara Hueter advises that First Energy has its hq in Rep. Sawyer's district.  Rep. Burr is from North Carolina, so perhaps Duke had its utility hat on in working with him.  I am checking into where Duke is on this issue.  Rep. Burr is the Vice Chairman of the House Energy and Commerce Committee and close to Chairman Tauzin -- so his support for this legislation is significant (see Andy Black comment below).
+2.  Andy Black Meeting
+Andy is meeting with various trade associations this month to discuss electricity legislation.  He is only meeting with a few companies on a one-on-one basis -- Enron, Reliant, Dynegy and TXU.  His timing is to have a legislative draft for Chairman Barton to review when Congress returns after Labor Day.  If Chairman Barton approves or makes changes, the draft will be circulated to members of the subcommittee and the public for further comment.  The intent is to mark up an electricity bill this Fall so that if the Senate acts on electricity in its comprehensive energy bill, the issue will be ripe for consideration in a House-Senate conference committee.  Here is a run down of my comments and Andy's comments on specific issues.
+a.   RTOs
+Chairman Barton supports RTOs.  At a minimum, the draft will affirm FERC's authority as the commissioners have requested.  Andy is considering going beyond that to mandate RTO participation.  Not sure he can hold that position in the subcommittee.  He is looking to Enron and others to help them explain and build support for RTOs.  Informed him of our initial informal coalition steps.  However, Andy asked me to look at sec. 3 of the Sawyer-Burr referenced above, which I realized after the meeting is the part that deals with incentive rates and negotiated rates to expand transmission and voluntary RTOs.  I have a call in to Andy to reconcile these statements since the Sawyer-Burr bill is based on voluntary RTOs.  Hopefully, he is thinking of using the incentive and negotiated rate language and NOT the objectionable voluntary RTO aspects.  I will strongly encourage him to "do the right thing" in that regard.
+b.   PUHCA
+The draft will use the Pickering bill (H.R. 1101).  Told Andy about our concerns with the record keeping provisions of that bill.  Will send him our legislative language to clarify these provisions so that they do not open up all of Enron's records -- even those unrelated to transactions with a regulated utility affiliate.
+c.  PURPA
+Prospective repeal.  On back up power, they are thinking of requiring that rates for back up power be just and reasonable until there is retail competition in the state.
+d.   Interconnection
+They have received a proposal from Trigen that Andy says we will like.  I am contacting EPSA to get the details.
+e.   Net Metering
+They are likely to include the Inslee bill to require "net metering."  I explained our concern that the bill's mandate applies to all retail energy suppliers -- including EES -- even though this should only apply to utilities with an obligation to serve; that it does not make sense to mandate it on service providers like EES (per Jim's helpful comments yesterday).  I need to get more information to Andy.
+f.   Transmission Jurisdiction
+Thankfully, Andy is NOT going to use those portions of the bill as reported by subcommittee in the last Congress that gave use heart burn on jurisdiction.  Specifically, the draft will not say FERC does not have jurisdiction over the transportation component of a bundled retail sale -- the draft will not get into the bundled/unbundled issue at all.  The draft will bring munis, co-ops and PMAs under the FERC umbrella for transmission jurisdiction purposes.
+g.   Siting
+On siting, Andy is thinking of some type of mechanism that would give a State one year before federal eminent domain attaches.
+h.   Reliability
+On a negative note, Andy intends to use the latest NERC reliability language because NERC's version has strong support among the Members of the subcommittee and no other alternative has emerged with political support (i.e., not PJM).  I explained our concerns.  He said our best bet is for DoE or FERC to come forward to seek something other than the NERC version.  He said Members eyes glaze over on reliability with everything else on the plate.
+i.   Negawatts
+I raised the absence of negawatts on his issue list.  He said he is open to considering it again, but that there was left over political baggage and unresolved issues from when this was attempted during consideration of the "California bill" earlier this summer.
+Your questions and comments on the any of the above are most welcome.
+Do you want to go to Las Vegas for this trip?
+I love you,
+Jim
+Dear SUMMIT2001 Guest:
+ALSTOM ESCA, the Energy Management and Markets Business unit of ALSTOM,
+would like to invite you and a guest to attend the second annual energy
+summit, SUMMIT2001: The Forum for Power Industry Issues, October 7-9, 2001,
+at the Bellagio in Las Vegas.
+SUMMIT2000 brought energy and government leaders together to discuss a range
+of issues-from technical, to business, to regulatory and legislative.  This
+year, SUMMIT2001 will again spark discussion and initiate dialogue about a
+range of topics, including:
+*	ISOs and RTOs from an organizational, business, and technical
+viewpoint
+*	Retail System Implementations and their financial impact on an
+organization
+*	Emerging technologies and trends
+On behalf of Alain Steven, President and CEO, and the ALSTOM ESCA team, we
+look forward to your participation in this year's event.  Please click on
+the link below for more information as well as to register.
+< 
+Should you have any questions, please feel free to call me at 425-503-4197,
+or just click "reply" to this message.  We look forward to seeing you in Las
+Vegas.
+Sincerely,
+Kerry Ann Donk
+Manager, Public & Media Relations
+ALSTOM ESCA
+- winmail.dat 
+Can we talk about this protest at 3pm (using the last 30 minutes of our call on Market-Power analysis)?  Also, we need to coordinate this activity with some protests that Janine filed in the Ohio PUC about a failure of implementing a fix for the "native load" exception.
+Jim
+Can you get a call in number for 3pm? I want to give to Kerry Stroup and Donna Fulton to discuss AEP NEXT STEPS.  Also in the meeting should be Sarah Novosel, Christi Nicolay, Mike Roan.
+Jim
+Bob & Ray 
+Can each of you please put together a short outline of the (a) timeline, (b) key decision points, and (c) potential outcomes of the decision points for the different refund cases?
+If possible, having this before today's call would be helpful (but I realize that this may be difficult).
+Jim
+Paul & Alyse 
+If we need help, Sarah is interested.  My recollection is that we had filled the slots.  Please let me know.
+Jim
+Jim:
+I've just been added to the Georgetown recruiting team and was part of the 1st round interview team last year.
+Per my conversation with you this evening I would like to participate in the presentation September 18th and/or the 1st rounds on October 8th-9th.  I am a Johns Hopkins University (SAIS) graduate, came throught he Associate organization and am now a Sr. Manager, Business Development in Enron Corp.
+Thanks for the opportunity!
+Sarah-Joy Hunter
+Enron Corporation, Business Development
+#(713)-345-6541
+sarah-joy.hunter@
+RECRUITING SEASON IS UPON US!!
+WE NEED YOUR SUPPORT!
+As you know, employing quality recruits has been a key to Enron's continued growth and success and assisting with this effort is everyone's responsibility.  Therefore, we urge each of you to set aside some dedicated time to make our campus recruiting effort successful.  Clearly, on-campus interviewing is the most critical event, but participation in the outings and presentations is also key to our overall message.
+Below are the dates that we will be on campus:
+Presentation:			Tuesday, Sept 18th, 6:30 - 8:30pm, Carr Barn
+Interviews 
+Reception & 1st Round	Monday-Tuesday, Oct 8th - 9th
+2nd Round			Wednesday, Oct 10th
+Please e-mail me with your availability. 
+Thank you in advance for your support and participation.
+Paul LeBeau/Recruiter (X57588)
+Alyse Herasimchuk/Recruiting Coordinator (57339)
+Linda 
+Please work with Jan.
+Thx,
+Jim
+Bob Williams has asked me to schedule a conference call for Monday, August 20, 2001 regarding the PX Credit Recoupment matter.  Please let me know several different time slots that you are available so that we can schedule this at a convenient time to everyone.  Thank you.
+Jeff 
+Federico is coming to the states to understand how our policymakers deal with the issue of default service.  He is the manager of the Italian default service provider.  Can you please make a presentation next Thursday or Friday about the UI deal?
+Thanks,
+Jim
+Name: Federico
+Surname: Boschi
+Born in Bolgna on 29 December 1963
+Address: Via D'Azeglio n. 63 Bologna Italy
+Zip code: 40124 Italy
+Tel: +39051581275
+Mobile: +393356645158
+Study: Graduated in economics on 1995, Bologna University; Thesis in Industrial
+Economics on: liberalization of the Italian electricity industry.
+Languages:  Italian   mother language
+English   Good
+Spain     sufficient
+Business experience (Most relevant);
+July 2001 as of today
+Company:   Acquirente Unico ( a electricity purchasing agency
+for the whiole Italian captive market)
+Position:   Purchase and sales manager; moreover I'm responsible
+for setting up the risk management office
+July 2000 up to June 2001
+Institution: Autorita' per l'energia elettrice ed il gas (the
+Italian energy regulator)
+Position: officer in the electricity area;
+Main tasks: a) stranded costs recovery mechanism; b) scarce
+import capacity allocation criteria c)wholesale market rules (code of dispatching
+regulation including ancillary services market - including the balancing
+market - and congestion management mechanism).
+March 2000 up to June 2000
+Institution: Ministero dell'Industria
+Position: member of the Minister's technical secretary (advising
+the Minister on energy issues)
+March 1997 up to June 2000
+Company: AMI Imola (a water, gas, electricity and waste disposal
+municipal utility);
+Position: Responsible for strategic planning;
+I also wrote articles on electricity regulation (tariffs, wheeling..) in
+Italy.
+Expectations:
+As I'm responsible for setting up the trading desk and the risk management
+office of Acquirente Unico (that is itself a newly constituted company)
+I would like to improve my knolegde on these issues (resources and skills
+needed and so on); I would like to understand what could be outsourced and
+what kind of incentives it requires.
+I'm so sorry, That's the best I can do as I'm still on holiday 
+Bye 
+Federico
+__________________________________________________________________
+Abbonati a Tiscali!
+Con VoceViva puoi anche ascoltare ed inviare email al telefono.
+Chiama VoceViva all' 892 800 
+A couple questions 
+1.=09Could the company include distribution wires as well, instead of being just a transmission only wires?
+2.=09How many shares would a divesting company get?  Could this be more that 5%?  If so, wouldn't this be over the "control" threshold?
+In general, I fully support this type of action. =20
+Jim=09
+Jim, Sarah and Rick,
+=09The following describes the suggestion that I made in our meeting this morning.  This is a strategy which could only be executed in legislation. =20
+The Problem:
+One of the chief difficulties of forming a Transco are the tax consequences of divestiture of assets. The problem was identified in 1995 when we first started talking about a Transco in the West.   If the parties agree in advance of divesture to combine their assets with others into a new company, the divestiture creates a tax event.  As a result, the Transco's like Alliance or TransConnect have adopted an LLC structure to avoid the tax consequences of formation.  The problem with the LLC form is the reluctance of the owners to surrender all control of their assets to the Managing Member who has "little skin in the game."  Questions have also been raised by opponents about the fiduciary responsibilities of Managing Member.  Are they to look out of the financial interests of the owners (passive and active)?  All these issues came up when we were working with various companies in 1999-2000 on possible pipe/wire companies.
+The Suggestion:
+Create a short window during which utilities could divest their assets into a Transco without facing a tax penalty.  Under such a provision, current owners would be allowed to agree in advance to combine their assets to form a new company without taxes being levied on the spin off, as long as the new company was a transmission only company.  The shareholders of the contributing companies would received publicly traded shares in the new company, so there is no issue of the original company controlling the Transco.  The Federal Treasury is tax neutral, since without the provision the Transco doesn't form.  When the shareholders of Transco sell their shares, the are taxable, if the Transco becomes more valuable, then the benefit accrues to Treasury in taxes on the sale of the stock.  With a two year window, the companies would be faced with a one time opportunity to make the shift and avoid taxes.  This become a trigger for breaking up the vertical integration for which a business case can be made the shareholders of today's owners are better off.
+=09Thanks for listening (reading).
+Steve
+Agree.
+Jim
+I don't think the key to effective legislation to continue the opening of the transmission grid is the authority of FERC to order RTOs in itself.   It is the end state that the we hope the RTO orders can deliver that is key.  It would be a more powerful approach to line up the end state model we want for the grid into legislation - rather than fight for the ability to order formation of RTOs - then fight in settlement over what the RTO structures should be.  We should get into legislation the elimination of the fundamental drivers of discrimination that goes on today and what the utlities are trying to continue into the RTO paradigm.  We want:
+1. Non-discriminatory transmission control operators - translated into real world terms as a single control area and indepdendent Security Coordinators.
+2. A single transmission tariff - or comparable access rules and requirements for all generators and loads.
+If the jurisdictional entities are held to these key requirements - then NERC or EISB which has the "authority" over the non-jurisdictional entities would begin to work in our favor. TLR rules, tagging rules, ATC calculations, redispatch - would have to be applied in the same fashion for marketers, IPPs, IOUs, Coops, Munis, BPA/TVA, etc.
+These are two of the key differences between the gas industry and the electric industry.  Pipelines were separated from LDCs and producers, and there is no native load exception to inter-state pipeline access.
+I think the reliability arguments some may bring up agianst these two fundamental changes are contestable and "winnable".  This should take away the FERC fear of jeopardizing reliability 
+Sarah -
+I can't open this.
+Jim
+- winmail.dat  
+Jeff -
+Sue called on Friday late and had some issue with the research report that was to go out.  She didn't give me any details.  How do we get to her to discuss.
+Jim
+What do you guys think?  My idea is to have a short (10 page) presentation that gives a brief update and then make sure that we understand current positions and current projects?  1 hour max.  The four of us would deliver.
+Jim
+Lets set up a meeting and see how it goes. September is fine. Lets talk next week about format.
+Dave 
+Hope everything finds you well 
+Rick Hill and Chuck Ward called this week on a matter related to Cornhusker.  I had not heard about the potential financial harm from some ERCOT ISO rule changes until this call. 
+This made me think.  It probably makes sense to meet with you and/or your team to make sure that Government Affairs is aligned with your business from a Development, Origination, and Generation Investments perspective 
+I'd like to try and meet at least quarterly to go through your business and to update you on recent regulatory developments.  How about sometime in early September?
+Jim
+Should you be on this service list?
+Jim
+FYI,  here is the restricted service list as of the afternoon of August 18,  2001.  You will note that, although I have left phone, fax, and e-mail in  the listing, I have been completely and impartially ruthless in paring everybody  down to two (2) names per party.  There's no other way to get this   mailing list into manageable size. Where I had to choose between two names, I  generally took the first one.  If there is someone else who should be  substituted (e.g. because he or she is apt to be more prompt about making copies  and distributing them around the office) please let me know who to  substitute.  I'm hoping to file this with Judge Birchman on Monday  - restrlist.wpd 
+Becky  
+Thanks for getting this info.
+Jim
+The Portland office has advised me that they do not sell gas to DWR either.
+no one in the Houston gas side makes any sales-However you need to check with the Portland office-try calling Chris Foster
+good info.
+fyi... one of the partners at Marathon is good friends with Angelides, and although they haven't yet connected, he's passing along some good information 
+He called Phil's office today and was told that he would be out of town
+until Tuesday.  Jim will call back on Tuesday.
+Jim did talk with someone familiar with the bond issuance and he told him
+that the Treasurer was "stuck between a rock and a hard place."   The
+Treasurer's office is aware of the business community's position regarding
+direct access but he said the PUC's hands were tied because AB1x directs the
+PUC to suspend direct access.
+He also told Jim that he had reviewed the correspondence sent from the
+California Chamber and was pleased to see that businesses were willing to
+pay exit fees for past energy purchases but that they were still concerned
+about who would pay for bonds.
+Ultimately, he said that direct access, the Edison bailout and other
+outstanding energy issues would probably be worked out in a political
+compromise.
+I spoke to Sue Mara briefly and told her about the AB1x issue and she said
+she would send to me a 1-page document regarding suspension of direct access
+and the PUC.  Once I receive it, I will forward it on to Jim so he has it
+before he speaks to Phil.
+I told Jim that AB1x does not mandate when the CPUC has to suspend direct
+access.  I also told him that I thought the Treasurer's advisors were being
+very short-sighted about the bond issue since businesses that were denied
+direct access would probably pull out of California and really shrink the
+number of customers left to pay back the bonds.
+Great, Sandra -- thanks!  Was Jim able to place a call to Angelides? thx.
+kd
+[mailto:IMCEANOTES-Sandra+20Yamane+20+3CSYamane+40marathon-com+2Ecom+3E+40EN
+RON@]
+Sent:   Friday, August 17, 2001 4:52 PM
+Karen:
+I spoke with Sue Mara and Tracy Fairchild re: Scott Schmidt.  Scott will
+call Tracy directly and make arrangements to fly to Sacto on Tuesday.
+713-853-9287 
+888-703-0309
+Linda 
+I'd rather not use the first week in October.  I may move my vacation to that week.
+Jim
+Please check the following dates for the budget meeting.  As I'm sure you can tell, I'm still having some scheduling problems.
+October, 1, 2, 8,9,10,11 & 12
+Please let me know at your earliest convenience which dates would work for you.
+Ginger Dernehl
+Administrative Coordinator
+Global Government Affairs
+Phone# 713-853-7751
+Fax# 713-646-8160
+Well, it looks like I have already hit a road block in scheduling this meeting.  Below are some other dates, please review them and let me know which one's will work with your schedules.  Also, this meeting will be held similar to the last budget meeting.  The meeting will be held in Houston and will begin @ 11:00 AM and conclude by 5:00 PM.
+Dates:
+September 3, 4, 5, 6, 7 10, 11, 20, 21
+Please look these dates over and respond to me ASAP!
+Thanks 
+Ginger Dernehl
+Administrative Coordinator
+Global Government Affairs
+Phone# 713-853-7751
+Fax# 713-646-8160
+Rick would like to hold another budget meeting in September.  Please see the dates below and let me know how many of the dates will work for your schedules
+September 25, 26 & 27.
+Please get back with me at your earliest convenience.
+Thanks
+Ginger Dernehl
+Administrative Coordinator
+Global Government Affairs
+Phone# 713-853-7751
+Fax# 713-646-8160
+Susan 
+Can you confirm with the desk?  My recollection is that the combination would make sense?  Also, not sure how this "works" with the testimony we've filed to support natural markets?  Maybe Christi can piece that all together or call TCA and get their read.
+Jim
+Procedurally, can we support as portion of this filing?  I noted that the NYISO argued that PJM should expand West (PJM can export 6500 MW to West Virginia and Ohio) and South (PJM can export 2500 MW to Virginia) vs the 2500 MW to NY.  Can we support their arguement that the scope of the regional RTO that is currently under a mediation proceeding in Wash, be expanded to at least include Virginia (as we have discussed before) and possible Ohio (also considering the First Energy/GPU merger 
+Attached is a summary, prepared by IPPNY, of the recently filed request for rehearing made by the NYISO. I understand that a separate request for rehearing was filed by six of the eight NY tranmission owners. NYSEG and RGE declined to sign on and have not filed any rehearing request. 
+Member Alert #38-2001
+August 15, 2001
+NYISO Argues for RTO Filing Reversal
+The New York Independent System Operator wants the Federal Energy Regulatory Commission (FERC) to rethink its July 12 order creating a northeastern Regional Transmission Organization (RTO) that would include New England, New York, and the PJM region.
+In a filing made earlier this week the NYISO argued that the commission order "ignored important reliability, technical and engineering considerations."
+"Failing to consider these factors could result in serious harm to New York," the NYISO filing says. "The NYISO is therefore submitting this rehearing request in order to ensure that the RTO formation effort does not lose sight of the needs of New York's economy, or the well-being of its citizens."
+The NYISO filing also asserts that the commission made "substantial errors"  regarding "several key legal issues."
+The NYISO asked the commission to:
+? Reverse its decision on the scope and configuration of an RTO.
+? Reverse its determination that the entire northeast is a natural market.
+? Reverse the mandate that there be a single Northeast RTO.
+? Reverse its conclusion that the NYISO isn't independent enough from market participants.
+? Reverse its finding that the NYISO's operational authority, tariff filing rights, congestion management, parallel path                            flow procedures, and inter-regional coordination efforts fall short of RTO standards.
+The NYISO was joined in its Aug. 14 filing by Central Hudson Gas and Electric, Consolidated Edison, Nigara Mohawk Power Corporation, New York State Electric and Gas, Orange and Rockland Utilities, and Rochester Gas and Electric.
+The FERC should clarify that even if the NYISO proposal was deficient in the issue of parallel path flow management and transmission planning that it could still qualify as an RTO because those issues will be resolved by 2004, the NYISO argues.
+The NYISO asked the FERC to either declare it an RTO or permit it to make a compliance filing to fix any deficiencies that would prevent it from reaching RTO status. And finally, the NYISO argues that if FERC continues to insist that there be a single RTO in the northeast, that it should initiate a rulemaking process " so that it may more thoroughly evaluate the technical details, costs, benefits, and implications of various RTO formation operations."
+Currently FERC is conducting a series of hearings on the proposed RTO to outline the issues that have to be addressed.
+FERC's July 12 order is "overly simplistic" and ignores policy mistakes in California that " confirm the need for a more thoughtful approach to RTO issues," the NYISO filing says.
+The RTO FERC wants to impose on the northeast would be "electrically and geographically enormous" and include "a number of severe transmission constraints and dense, electrically complex sub-regions" the filing says.
+" A system of this size and complexity has never been attempted before. It is not known whether such a system could be efficiently operated or whether existing ISO software systems would be capable of managing it," the NYISO filing says.
+FERC ordered the creation of this super-RTO "without any analysis of the challenges, costs, benefits, and other implications of the single RTO/single market model," the NYISO filing says. "It has declined to evaluate seriously available RTO policy alternatives that could be more efficient."
+The NYISO filing also criticizes FERC for insisting that PJM market rules and software be used in this proposed Northeast RTO without assessing how well they will work when applied to New York or the entire Northeast.
+"This is an unduly precipitous approach that should be reconsidered on rehearing," the NYISO filing says.
+The three existing ISOs have already committed to implementing standardized market rules and common transaction-scheduling procedures and other "seams" solutions that would result in all the benefits the RTO is supposed to bring, the NYISO filing says . Dumping these efforts will retard RTO development instead of accelerate it, the NYISO argues.
+The FERC order ignores some of the existing physical constraints in the transmission systems that prevent more power flowing between ISOs, the NYISO filing says. Creation of an RTO will not increase inter-ISO trade and there will continue to be three distinct markets in the northeast, the filing says.
+The NYISO filing also argues that the PJM market the FERC is advocating as the model for the northeast could just as easily be considered a part of the Midwest region.  While PJM can export 2250 megawatts to New York it can export 6500 megawatts to West Virginia and Ohio and 2500 megawatts to Virginia, the filing points out.
+In general, while the commission has asserted that there are four natural electricity markets in the United States, it hasn't spelled out the boundaries, the filing says.
+"This is emblematic of the lack of analytical rigor that characterizes the commission's approach to market definition," the filing says. This approach allows Allegheny Energy and SPP utilities, for example, to choose between two RTOs, while northeastern utilities are not offered a choice, the filing says.
+The NYISO also argued against FERC conclusions that the New York operator could qualify as an RTO because it lacked sufficient size, could not achieve effective scope, and wasn't independent enough from its market participants. " These holdings are unlawful, arbitrary and capricious," the filing says.
+FERC is making an unexplained and sudden departure from the principles it establishing in Order No. 2000 that spelled out what an RTO should be, the filing says.  FERC also denied the NYISO and member systems a chance to modify the NYISO RTO proposal to address the concerns the commission raised, the filing say.
+For more information or to obtain a copy of the NYISO filing contact the IPPNY office at 518-436-3749.
+Diann 
+What's the next step?
+Jim
+Diann Huddleson
+08/17/2001 01:09 PM
+Calvin,  per our discussion,  at the time we returned our commercial customers to utility service earlier this year,  all accounts had accrued credit balances.  PG&E transferred these credits off each account as they were setting them up for utility billing.
+These same accounts are now being returned to direct access.  We began receiving the first DA bills from PG&E earlier this month, all with zero beginning balances.  Enron expects that all credit balances will be reinstated on the respective accounts before the next billing cycle 
+Don't hesitate to contact me if you have any questions regarding this request.   Page me if you need to.  888.740.8480.
+Thanks 
+Diann Huddleson
+Director, Services Group
+713.853.0584
+Diann Huddleson
+08/17/2001 01:17 PM
+Diane,  as we discussed,  at the time we returned our commercial customers to utility service earlier this year,  all accounts had accrued credit balances.  SCE transferred these credits off each account as they were setting them up for utility billing.
+These same accounts are now being returned to direct access.  We began receiving the first DA bills from SCE earlier this month, all with zero beginning balances.  Enron expects that all credit balances will be reinstated on the respective accounts before the next billing cycle 
+Don't hesitate to contact me if you have any questions regarding this request.   Page me if you need to.  888.740.8480.
+Thanks 
+Diann Huddleson
+Director, Services Group
+713.853.0584
+Thanks.
+Jim,
+I gave Karen Denne a printed copy yesterday and asked for her response.  I have not received it yet, so I plan to bug her on Monday.  When I talked to the editor, I found that PacifiCorp had been asked to write an article in favor of RTO, so there is confusion about what to do with my article.  They also have to drum up funds to publish each issue of the magazine, so I sent them to Kaufman, who got me into this.  I will keep you posted.
+Steve
+Steve 
+Has PR given the go ahead?  Anything else from me needed?
+Jim
+Jim,
+Enclosed is my outlined for the article on the need for an RTO.  I given the outline to Karen Denne and discussed the article with her.  I also gave a copy to Paul Kaufman.  If you have any suggestions, please send them to me.  I will we working on the article next week.
+Steve
+thanks.
+Jim
+We are getting this fixed.
+Jeffrey D. (Dan) Watkiss
+Bracewell & Patterson, LLP
+2000 K St., N.W.
+Suite 500
+Washington, D.C.   20006-1872
+(202) 828-5851
+dwatkiss@bracepatt.con
+jdwatkiss@aol.com
+>> "Steffes, James D."  Should you be on this service list?
+Jim
+thanks
+If I don't get a response by noon today, I plan on calling Calvin.
+Diann 
+What's the next step?
+Jim
+Diann Huddleson
+08/17/2001 01:09 PM
+Calvin,  per our discussion,  at the time we returned our commercial customers to utility service earlier this year,  all accounts had accrued credit balances.  PG&E transferred these credits off each account as they were setting them up for utility billing.
+These same accounts are now being returned to direct access.  We began receiving the first DA bills from PG&E earlier this month, all with zero beginning balances.  Enron expects that all credit balances will be reinstated on the respective accounts before the next billing cycle 
+Don't hesitate to contact me if you have any questions regarding this request.   Page me if you need to.  888.740.8480.
+Thanks 
+Diann Huddleson
+Director, Services Group
+713.853.0584
+Diann Huddleson
+08/17/2001 01:17 PM
+Diane,  as we discussed,  at the time we returned our commercial customers to utility service earlier this year,  all accounts had accrued credit balances.  SCE transferred these credits off each account as they were setting them up for utility billing.
+These same accounts are now being returned to direct access.  We began receiving the first DA bills from SCE earlier this month, all with zero beginning balances.  Enron expects that all credit balances will be reinstated on the respective accounts before the next billing cycle 
+Don't hesitate to contact me if you have any questions regarding this request.   Page me if you need to.  888.740.8480.
+Thanks 
+Diann Huddleson
+Director, Services Group
+713.853.0584
+Ok. 
+Christi 
+Please ask each regional RTO heads (all that are being discussed + Mediation) to develop one page memo.  May want a map with current config and a map with FERC model.  Let's plan on doing for September 11 or September 12.  I'll ask Linda Noske to work with Duran's assistant to coordinate.
+Also, let's give info on current Interconnection issues.
+Finally, Christi, maybe you could develop 5 key regulatory issues.
+Jim
+I agree with Sarah.  1 page per RTO, other issues, etc.  I am on vacation Thurs 9/27--Mon. 10/1.  Thanks
+Jim:
+Your proposed format sounds good to me.  It would be very helpful for us to also hear from them what they're doing and where they're going.  In setting up the meeting, if you can schedule it after the first week (September 3-7), that would work better for me.  The Northeast mediation does not end until September 7.
+Thanks
+Sarah
+What do you guys think?  My idea is to have a short (10 page) presentation that gives a brief update and then make sure that we understand current positions and current projects?  1 hour max.  The four of us would deliver.
+Jim
+Lets set up a meeting and see how it goes. September is fine. Lets talk next week about format.
+Dave 
+Hope everything finds you well 
+Rick Hill and Chuck Ward called this week on a matter related to Cornhusker.  I had not heard about the potential financial harm from some ERCOT ISO rule changes until this call. 
+This made me think.  It probably makes sense to meet with you and/or your team to make sure that Government Affairs is aligned with your business from a Development, Origination, and Generation Investments perspective 
+I'd like to try and meet at least quarterly to go through your business and to update you on recent regulatory developments.  How about sometime in early September?
+Jim
+Janine 
+The other thing that I am thinking is that we don't want to file anything at the FERC without a broad coalition.  At the right time (after we understand the facts and our desired outcomes), let's sit down and discuss how to approach FERC.  I think the timing is right to make a cogent, well-defined argument before FERC but we need to sell this to the FERC before the filing and we need to have Enron as a minor player in the fight.  The FERC is looking to help retail markets.
+Jim
+Jim, Let me look into this further.  My concern is that the imbalance provisions are something we may have agreed to in the settlements which would make us look bad should we file a complaint.  Jeff Merola has been working on how we can do physical delivery and how we can address this issue.  I know he thinks it is a roadblock, but not necessarily an insurmountable one.  On the other hand, this is another way to focus on the issue of wanting a PJM-type model and perhaps the next step would be to educate ICC Commissioners and Staff on the problem.  If we approcah it as a need for a PJM - type model, it should not antagonize our efforts of working with ComEd at the moment, since they have said they would like help moving in that direction.
+Linda 
+Can you please pull a copy of the ComEd OATT that would include the calculation of "OPC" mentioned below 
+Janine 
+Doesn't it make sense that we are disadvantaged vis-a-vis their own transmission service and should talk to Donna Fulton about a complaint at FERC?
+Jim
+Jim,
+Per your request, below is an email from Chris Townsend explaining the imbalance program.  I plan to call him to get a better handle on the discount issue, but I think that it is useful that marketers can trade imbalances, but the benefit is premised on there being many suppliers.  More to follow when I return.
+Janine
+Janine 
+As you might recall from the memo summarizing the 1999 Edison DST
+proceeding, the Illinois Commerce Commission essentially "punted" on the
+imbalance issue, instead deferring to FERC.  Attached is the section from
+our memo that discussed the imbalance issue.  It is my recollection that the
+issue of establishing subaccounts was not addressed.  We will try to confirm
+this tomorrow.
+As lawyers, please do not hesitate to call or email if we can be of any
+further assistance.
+ Christopher J. Townsend
+ Piper Marbury Rudnick & Wolfe
+ 203 N. LaSalle Street
+ Chicago, IL 60601
+ (312) 368-4039 (direct line)
+ (312) 630-6300 (direct fax)
+ christopher.townsend@piperrudnick.com

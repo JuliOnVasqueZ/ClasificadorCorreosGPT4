@@ -1,0 +1,212 @@
+- GOre.jpg
+pretty funny.  Hey - we just got upgraded to Windows 2000(sucks) and I lost 
+the screen saver you sent me, do you still have that file?
+PL
+Here is the file.  Sorry it is a day late - teh price desk had some errors in 
+teh file adn I was waiting for them to correct the deals.  Thanks.
+PL
+The location is NBPL/Ventura TP/08NBPL Ventura Transfer PT
+PL
+Dawn C Kenne
+04/04/2001 06:06 PM
+I am still waiting on this.........please help.
+DW
+Dawn C Kenne
+04/02/2001 03:49 PM
+Kam,
+Please provide the pipe, trading zone, and meter/facility for the new 
+location listed below.
+Thanks,
+Dawn
+Chris Walker
+04/02/2001 03:47 PM
+Dawn and Tara,
+Please map the following new location in TEST when you have a chance.
+NBPL - Ventura Transfer Point
+I created a product 14518 in TEST.
+Thanks,
+CW
+3-7533
+thanks for all of your help, it looks like we have found someone internal to 
+the group to fill the need.  I will keep talking with Monica in Portland for 
+July rotation.  Thanks again.
+PL
+Please check your picks for errors.
+Good Luck!
+I got converted to Windows 2000 yesterday, so I believe I need a new file Is that correct?
+PL
+Can you give me a list of the deals that we have currently on APLP  and NIPS 
+- they will both be in the Market CG book.  Patrice is wanting to move these 
+deals to a new curve and we are trying to get a handle on the number of deals 
+that will be effected.  This will be effective for april out.  Thanks.
+PL
+deadline 7 a.m. tomorrow morning.  Send to Eric Groves
+PL
+The Azaleas are blooming and the greens are fast. The Masters are here.  More 
+importantly the Masters pool is back. Sorry for the short notice, but what 
+would a major be without the pool. Please invite others.$20 each. Fill out in 
+Excel and return email the saved file (or hardcopy to me 2986b 
+PLEASE INCLUDE YOUR NAME ON THE ENTRY FORM.
+RULES IN ATTACHED FILE. GOOD LUCK. 
+Your lucky those cans didn't explode and get all over your clothes huh Thanks again, it actually tastes pretty good, but you know my criteria for 
+beer - cold.
+I was just giving you a hard time about the name, that is reason #4761 why it 
+is good to be a man.  Ashley did the same thing with the middle name, that 
+way you keep some of your family.
+We finally got some cold weather here.  I know you guys just got back from a 
+vacation, but were wondering if you might like to join us for a skiing trip 
+to Deer Valley.  We are going Jan 6 - 13th.  The accomodations are paid for, 
+you would just have lift tickets and airfare.  We are staying in a ski in and 
+ski out condo, so we are going to do some grocery shopping and cook.  Jason 
+Tidwell and his girlfriend are coming in on the 6th and leaving on the 9th, 
+so if you want to come in half time, that is cool too.  Just let us know Talk to you soon.
+PL
+deadline 7 a.m. tomorrow morning.  Eric Groves is running it.
+PL
+The Azaleas are blooming and the greens are fast. The Masters are here.  More 
+importantly the Masters pool is back. Sorry for the short notice, but what 
+would a major be without the pool. Please invite others.$20 each. Fill out in 
+Excel and return email the saved file (or hardcopy to me 2986b 
+PLEASE INCLUDE YOUR NAME ON THE ENTRY FORM.
+RULES IN ATTACHED FILE. GOOD LUCK. 
+7 a.m. deadline tomorrow.
+PL
+The Azaleas are blooming and the greens are fast. The Masters are here.  More 
+importantly the Masters pool is back. Sorry for the short notice, but what 
+would a major be without the pool. Please invite others.$20 each. Fill out in 
+Excel and return email the saved file (or hardcopy to me 2986b 
+PLEASE INCLUDE YOUR NAME ON THE ENTRY FORM.
+RULES IN ATTACHED FILE. GOOD LUCK. 
+money and entry due by 7 a.m. tomorrow.
+PL
+The Azaleas are blooming and the greens are fast. The Masters are here.  More 
+importantly the Masters pool is back. Sorry for the short notice, but what 
+would a major be without the pool. Please invite others.$20 each. Fill out in 
+Excel and return email the saved file (or hardcopy to me 2986b 
+PLEASE INCLUDE YOUR NAME ON THE ENTRY FORM.
+RULES IN ATTACHED FILE. GOOD LUCK. 
+Jackson Logan
+04/03/2001 10:47 AM
+Hey,
+I did not know who should get this so, I am emailing it to you.
+Adios,
+JDLIII
+publications on 04/03/2001 10:26:03 AM
+- cgprApr01.pdf
+Attached is the final standings for the pool.  Please verify your score.  We 
+had a little drama for second place, Chuck won the tie breaker due to a total 
+of 158 versus Wolfie's 145(total score was 154).  Special congratulations to 
+Matt Lenhart for bringing up the rear(nice pick on the last game too).  Hope 
+to see you guys next year PL
+sorry it took so long - this is done.
+PL
+we do not get deal tickets from the desk for transportation on a regular 
+basis - very sporadic.
+PL
+FYI - keep an eye out for these.
+PL
+Dawn C Kenne
+04/03/2001 10:55 AM
+Tagg is currently working on a situation where the bridge is creating 
+duplicate deals.  This started yesterday and we contacted the appropriate 
+books to kill the duplicate deal.  Yesterday, there were a total of eight 
+deals duplicating, so far today there are six.  They have narrowed down the 
+problem and Mike Swaim and Oscar Rivera think it should be resolved this 
+afternoon 
+Meanwhile, Oscar is running a query that will let us know the duplicate 
+deals.  He will run this throughout the day and I will e-mail you the deals Listed below in Bold is the duplicate deals from today (two are from late 
+last night).  I have placed the risk book next to the deals.  Please forward 
+this to the appropriate people in your group.  I was not sure who runs the 
+Singapore book, if London could let me know I would appreciate it.
+I will keep you updated on the progress.  Sorry for any inconvenience this 
+may be causing.  Feel free to call me if you would like more information.
+Thanks,
+Dawn
+3-9353
+Dawn, 
+This is the list of duplicate deals. The last 6 on the list are new.
+TAGGDeal EOL Deal CREATED_DTM
+V08631.1 1071187 4/2/2001 8:50:16 AM
+V08706.1 1071472 4/2/2001 8:57:41 AM
+V08946.1 1072217 4/2/2001 9:20:41 AM
+V10071.1 1074401 4/2/2001 1:01:55 PM
+V10070.1 1074402 4/2/2001 1:01:58 PM
+V10056.1 1074392 4/2/2001 1:01:20 PM
+V10085.1 1074425 4/2/2001 1:02:58 PM
+V10092.1 1074428 4/2/2001 1:03:11 PM
+V11230.1 1075175 4/2/2001 10:57:17 PM  Singapore
+V11231.1 1075176 4/2/2001 11:27:31 PM  Singapore
+V11722.1 1077766 4/3/2001 8:53:37 AM  East New York 
+V11724.1 1077768 4/3/2001 8:53:37 AM  G-Daily-Est 
+V11720.1 1077772 4/3/2001 8:53:44 AM  WTI-GW-NXC2  
+V11732.1 1077776 4/3/2001 8:53:55 AM  G-Daily-Est 
+How are things going?  Good I hope.  Give me a call when you get a chance I 
+need to see about getting your phone number so that I can have you cut my 
+mom's grass.  She is in need of a new lawncare service.  You ought to have 
+your number listed so we can get a hold of you.  Thanks.
+PL
+713-853-7376(o)
+281-486-7026(h)
+I apologize for not including the following curve in the original list:
+GDP-Iroquois - $5.80
+It looks like all the other ones are done, is that correct?
+Thanks again.
+PL
+Going with the old hyphen huh???  How corporate of you 
+Hey, we got the beer.  Thanks alot.  Did customs give you a hard time for 
+bringing a bunch of booze back?  Talk to you soon.
+PL
+I meant to email you over the weekend to let you know it was on it's way Just be sure to fill out the matching gifts form.  Please let me know if 
+there is any hold up on that 
+Looks like we will not make it back to Auburn until the fall for football 
+season.  I will give you a call a few weeks before we come in to set up a 
+tour of the raptor center/vet school.  Thanks again for your help in 
+completing this special occasion for my family.
+Talk to you soon.
+PL
+hendrix2@alumni.auburn.edu on 04/02/2001 11:06:25 AM
+Phillip ... wanted to let you know the check arrived this past week and
+I've taken it to accounting for deposit.  We will await the Enron match.
+Thank you again, and especially for thinking about having Enron match the
+family's gifts to this memorial scholarship. That will help it add up in a
+hurry.
+Do you know when you will be in Auburn next?
+sam
+Attached is a file listing all of the curves we had that posted as 0 price 
+for 3/31/01.  We need these pub posted as the same price as the 30th - prices 
+are included in this file.  We need these pub posted ASAP so that we can 
+flash march detail.  Risk does not have authorization to override an existing 
+pub posting, this is why we need your help.  If you have any questions, 
+please give me a shout.  Thanks for your help.
+PL
+3-7376
+got it.
+PL
+I think you guys are doing a great job and are very timely in the requests we 
+submit.  The only area I see for improvement is better follow up on access 
+requests to the systems.  I am very happy with reim requests and general 
+assistance you provide.  Thanks.
+PL
+Dobbs_Shane  > An airplane was about to crash, and there were 5
+ >passengers left, but only 4 parachutes.  The first
+ >passengers, George W. Bush said, I'm President of the
+ >United States, and I have a great responsibility,
+ >being the leader of nearly 300 million people, and a
+ >superpower, etc." So he takes the first parachute,
+ >and jumps out of the plane.
+ >The second passenger, said I'm Antoine Walker, one of
+ >the best NBA Basketball players, and the Boston
+ >Celtics need me, so I can't afford to die.  So he
+ >takes the second parachute, and leaves the plane.
+ >The third passenger, Hillary Clinton, said "I am the
+ >wife of the former President of the United States and
+ >the Senator from New York, and I am the smartest
+ >woman in the world." So she takes the third parachute
+ >and exits the plane.
+ >The fourth passenger, an old man, says to the fifth
+ >passenger, a 10 year old boy scout, "I am old and
+ >frail and I don't have many years left, so as a
+ >Christian gesture and a good deed, I will sacrifice my
+ >life and let you have the last parachute.
+ >The boy scout said, "It's Ok, there's a parachute left
+ >for you.  The world's smartest woman took my backpack."
