@@ -1,3 +1,1 @@
-My apologies for the delay. As you know we have hit some turbulence here at
- Enron
- and I was quite busy.
+we could work through some scenarios hopefully we could find some words to accomodate your concerns. When we last spoke you mentioned the concern here was the possibility that the password may be disclosed from other than a UE source ie Enron. I have talked this issue through with our systems people as to the nature of this exposure. What happens is that the password which is issued to a user is immediately changed after it is received from Enron. Hence the source of the password must be the relevant counterparty. Whether improper use is a result of the counterparty's

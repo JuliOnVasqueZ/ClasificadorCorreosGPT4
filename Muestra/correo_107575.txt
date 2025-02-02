@@ -1,0 +1,1 @@
+| MAY | 42.25 | +1.50 NATURAL GAS OPTIONS | | Closing | Days | Implied ATM | | Month | Price | Left | Volatility | JUN | 4.279 | 18 | 53.83 | JUL | 4.353 | 50 | 54.67 | AUG | 4.425 | 80 | 54.45 | SEP | 4.455 | 113 | 54.21 | OCT | 4.493 | 141 | 55.41 | NOV | 4.673 | 172 | 55.52 | DEC | 4.853 | 204 | 55.01 PHYSICAL POWER PRICES | | High | Low | Average | | | $/MWh | $/MWh | $/MWh

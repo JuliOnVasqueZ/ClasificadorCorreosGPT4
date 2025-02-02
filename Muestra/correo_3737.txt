@@ -1,5 +1,1 @@
-The first coach said, "I'm Joe Paterno. I coached Penn State from 1966
-to
- 2000. I won 300 games, 19 bowl victories, 2 national championships, and
-won
- Coach of the Year 4 times. The people of Pennsylvania think I'm great."
+Jason (et al): We are approaching somewhat of a slow-down in active harvesting development, and therefore it is a prime opportunity to begin hashing out what is required to gather the West Power load data you have previously mentioned. We should get together personally to better organize this initiative, but some things to "prime the pump" are: 1) What are the requisite sites involved? (URLs, etc) 2) What is the frequency of "jobs"? (how often do we scrape the data; once a day, x number of time a day, etc). 3) What is the nature of the data we are

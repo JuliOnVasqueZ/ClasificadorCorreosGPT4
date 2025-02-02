@@ -1,6 +1,1 @@
-The man asks, "Aren't you having any?"  The
-  woman replies, "No.  I  think  I'll
-  just wait for the police >
-  Moral of the story:
-  Women are clever bitches.  Don't mess with
-  them.
+using the codes that you sent me? Do you know the code for Sumas Thanks, Maria NG PRC IF-ELPO/SJ INDEX CIG/RKYMTN INDEX NWPL_ROCKY_M INDEX NW STANF/1ST INDEX KERN/RIVER INDEX PGE/TOPOCK INDEX NGI-SOCAL INDEX PGE/CG INDEX IF-ELPO/PERMIAN INDEX Maria, I don't remember exactly which locations you need the index curves for, but these should give you a start. Let me know which ones, I've left out from your list. Mat Maria, I think that the curve names are the same for index as for basis (which you currently pull), except that you specify the curve type as index instead of basis.

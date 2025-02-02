@@ -1,2 +1,1 @@
-Based on those average prices, the state paid $21 million for the surplus
-power, which it sold for $6.5 million -- $14.5 million less than it cost.
+Location, plant capacity, and of course, the quantity of the outage. So, we need basically the large table as the one you did which lists each plant and the outage for "today" and let's say 1 week in the past. We cannot go in the future because the data gets posted daily for that day only. Then the other table will just summarize the total "Planned" and "Unplanned" by region. A copy of the database is attached. Let me know when you have a chance to start working on it. Thanks Mat Hey, I'm going to give your resume to

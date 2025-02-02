@@ -1,6 +1,1 @@
-Vincent Kaminski
-Managing Director - Research
-Enron Corp.
-1400 Smith Street
-Room EB1962
-Houston, TX 77002-7361
+Diana have a copy of the ISDA master between ENA and Kaiser? If not, here is a summary of some of the Kaiser credit related provisions: 1. $30,000,000 cross default threshold 2. MAC Event of Default - As to Kaiser, a MAC occurs if either an Event of Default occurs under the 2/15/94 Credit Agreement with BankAmerica or its credit rating drops to B- or below by S&P and B3 or below by Moody's. In each case, if they deliver collateral, no Event of Default occurs. 3. Collateral Threshold equal to ENA's Net Exposure which goes to zero if a

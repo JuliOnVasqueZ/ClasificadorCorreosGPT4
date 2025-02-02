@@ -1,2 +1,1 @@
-7. If you've known a guy for more than 24 hours, his sister is off
-limits forever, unless you actually marry her.
+use (Get cycle with most number of days of data) Verify Queries -- Started To Do: Determine how to use all retrieved cycles in NonNullDaysCount query. Prove this approach is workable. hey, haven't read this yet, will try today. Matt, Long time no hear, hope you're doing fine at the new company. Sorry to bother you with this issue again since I know Leo Sommaripa has contacted you already, so I'll be brief and to the point. We have been trying to save a copy of the Database on a CD-R so that we can give it to the client

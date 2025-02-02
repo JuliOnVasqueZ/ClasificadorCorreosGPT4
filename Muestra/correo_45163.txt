@@ -1,0 +1,1 @@
+McAfee.com has seen a large and growing number of computers infected with VBS/VBSWG.Z@MM. This is a MEDIUM ON WATCH RISK virus that is spread via the Windows email program Outlook. The infected email can come from addresses that you recognize, with an attachment named "Mawanella.vbs". The email message can appear as follows:

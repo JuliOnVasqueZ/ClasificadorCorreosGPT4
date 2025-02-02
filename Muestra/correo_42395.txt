@@ -1,0 +1,1 @@
+1. Importance of volatility in financial engineering a. option pricing b. risk management c. legacy software systems

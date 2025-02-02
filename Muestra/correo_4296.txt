@@ -1,17 +1,1 @@
-I've been stuck on trying to get the last figure mentioned in the chapter
-into a
- format that I like.  The problem is the volatility found in the
-regressions is
- on the order of several hundred percent, and so when I plot the historical
-data
- next to a simulated curve over the course of the year, the simulated curve
-tends
- to drift up or down stupidly both in the Jump diffusion and Garch+Jump
-diffusion
- model.  Any suggestions would be accepted with pleasure. I wonder if I
-should
- skip the figure.  It seems a pity to do so however, because otherwise the
-last
- section comes off as a bit of an afterthought, and I would like to present
-a
- practical example.  Again any guidance would be appreciated.
+frame we're facing. However, if we can't do a June swap, then we'll try for a July swap. , Tracy Sara: Please call me or stop by to discuss as they need an answer quickly. I have e-mailed Mark Evans and Justin Boyd about this. Carol St. Clair EB 3889 713-853-3989 (Phone) 713-646-3393 (Fax) carol.st.clair@ Tracy Ngo/ENRON@Xgate 05/23/2001 06:17 PM Carol, West power is looking to do a financial swap with Kaiser Aluminum & Chemical Corporation ("Kaiser Aluminum") whereby Kaiser Aluminium would buy the swap and pay ENA float. Kaiser Aluminum International Inc. ("Kaiser International") has a big market presence

@@ -1,0 +1,1 @@
+Once running, the Trojan attempts to mail the victim's IP Address to the author. When this information is obtained, the author can connect to the infected system via the Internet and steal personal information such as usernames, and passwords. In addition, the Trojan is capable of capturing other vital information such as credit card and bank account numbers.

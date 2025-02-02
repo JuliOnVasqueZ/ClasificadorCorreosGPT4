@@ -1,7 +1,1 @@
-Also, for your information, we have recently set up a special unit to
-coordinate Enron's
-relationships with the universities. The person running this unit is
-Christie Patrick.
-Please, feel free to contact her and give my name as a reference. I shall
-coordinate the meeting
-on May  the 4th with her.
+I think Valerie Mooney (our credit person) and Ed Sacks are still discussing some minor fine tuning of the LOC format. I spoke to Bob Bruce this morning - we're all set on the language in the Schedule to the ISDA, and there is a minor credit/billing issue in Paragraph 13 related to the timing of transfer of interest on collateral that Val will discuss with Ed as well. As far as the EEI goes, the only remaining issue that I'm aware of (aside from finalizing the LOC) is whether we've finished coordinating the Attachment containing the list of prior

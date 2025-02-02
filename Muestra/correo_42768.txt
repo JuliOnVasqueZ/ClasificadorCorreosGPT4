@@ -1,0 +1,1 @@
+| | Month | Price | Left | Volatility | JUL | 4.038 | 13 | 56.23 | AUG | 4.123 | 43 | 57.87 | SEP | 4.171 | 76 | 58.20 | OCT | 4.218 | 104 | 59.10 | NOV | 4.415 | 135 | 59.62 | DEC | 4.612 | 167 | 59.70 PHYSICAL POWER PRICES | | High | Low | Average | | | $/MWh | $/MWh | $/MWh | Cinergy | 58.00 | 51.00 | 53.60 | ECAR | 46.65 | 42.85 | 45.35 | ERCOT | 42.00 | 41.00 | 41.50 |

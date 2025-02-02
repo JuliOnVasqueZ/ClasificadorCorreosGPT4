@@ -1,4 +1,1 @@
-Deb-It looks like I will be coming down to H-town in the next few
- weeks.  My brother (still with Enron-up in Canada) is coming back for a
- visit.  When I get the actual date(s) I will let you know and hopefully
- we can maybe get together for a bite.
+prevent people from messing with what might amount to an index in the future by daisy-chaining themselves? I hope this isn't too late. If you need to reach me, I'm in the London office today and tomorrow. I think the correct approach is to revise the functionality and add a line or two to the description of how limit orders work, an answer in the FAQ section, a line for the 'Failed Transaction' screen and a script for the help desk. I'm thinking of something to the effect of: Once a limit order has been placed by a counterparty, that

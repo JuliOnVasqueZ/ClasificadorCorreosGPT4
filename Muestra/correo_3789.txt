@@ -1,2 +1,1 @@
-9. Bitching about the brand of free beer in a Mate's fridge is
-forbidden.  Gripe at will if the temperature is unsuitable.
+into a read-only file, some commands have become disabled. Specifically, the buttons on the review form that access the compliance, operations, equipment, and staffing forms are not available through the read-only format. I ventured into the programming codes for the commands and found the following string on all four buttons: DoCmd.DoMenuItem acFormBar, acRecordsMenu, acSaveRecord, , acMenuVer70 I temporarily deleted that line from the programming codes for all four and so far have not had any problems with accessing all levels of the database in the CD. Now, I do not know exactly what that string does to the database but

@@ -1,11 +1,1 @@
-CONFIDENTIALITY STATEMENT:  This electronic message contains information
- from the law firm of Tindall & Foster, P.C. and may be confidential or
- privileged.  The information is intended to be for the use of the
-individual
- or entity named above.  If you are not the intended recipient, be aware
-that
- any disclosure, copying, distribution, or use of the contents of this
- message is prohibited.  If you have received this message in error, please
- notify us immediately by reply email or by telephone at (713) 229-8733 and
- delete the material from any computer.
- _____________________________
+still getting calls from Robert and I'm not sure how to handle his request at this point. =20 Please do not confuse this issue with the Batching valve that is currently out of service. Also, do not confuse with Choquettes request to provide pressure over-ride at this point as that can be done to provide steady state pressure with a flow control over-ride without reducing supply pressure dramatically to this interconnect point. (However, there is the concern that if we install pressure control with a flow control over-ride that we put ourselves in the position of reducing this supply pressure

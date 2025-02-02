@@ -1,0 +1,1 @@
+We are very slow in preparing a number of technical documents for you for model reviews. We still hope you will be able to find some time to review our credit models (for our London credit trading) and VaR and option pricing related models.

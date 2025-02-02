@@ -1,2 +1,1 @@
-LOLFUN is a FlowGo newsletter.  For more information on FlowGo or to
-unsubscribe from LOLFUN follow the links below:
+script make the necessary calculation and store the new storage balance each time the pipeline is scraped. Another possibility is to incorporate the ability to do these calculations in the report, while a third option is too keep a spreadsheet with storage balances that queries the database for the daily activity. Lastly, these storage balances could be manual entry points, but would require manual calculation each day (representing a lower level of performance than the existing system for this feature). Timeline This is a necessary feature before transitioning from the current spreadsheets. At a minimum, we need to have temporary

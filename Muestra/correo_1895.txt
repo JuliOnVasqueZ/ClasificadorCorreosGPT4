@@ -1,6 +1,1 @@
-Once running, the Trojan attempts to mail the victim's IP
-Address to the author. When this information is obtained,
-the author can connect to the infected system via the Internet
-and steal personal information such as usernames, and passwords.
-In addition, the Trojan is capable of capturing other vital
-information such as credit card and bank account numbers.
+things going on. Hopefully some tickets and $$$ will come out of all of it! Anyway - I hope you have a good day today! Talk to you later - K. That is very cool!! Sounds like Tom did great - too bad we weren't there to watch. And it is great that you get some $ for going! Just think - with your awesome new car next year - you could be up there with Jimmy and that other guy! I could grab dinner or something later - when are you planning to go to Tom's? I have nothing

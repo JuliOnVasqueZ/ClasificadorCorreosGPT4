@@ -1,0 +1,1 @@
+Once running, the program attempts to email itself to everyone in the Outlook Address book repeatedly, until the worm is removed from the system. The email message appears as follows:

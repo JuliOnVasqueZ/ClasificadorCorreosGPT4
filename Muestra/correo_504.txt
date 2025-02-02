@@ -1,10 +1,1 @@
-(See attached file: bha_b_nai.exe)
-- bha_b_nai.exe
-watch the volume
-Mike Grigsby
-07/07/2000 10:14 AM
-Joseph_B_Knauth@reliantenergy.com on 07/06/2000 10:12:38 AM
-David M Gagliardi
-07/03/2000 10:46 AM
-Please respond to  
-PASSING on some humor
+getting the eol problem fixed I would appreciate it. Southwest Gas currently views Enron Online but is afraid to transact physical volumes on it because they are afraid the payment terms on Enron Online are different than non-EOL trades. They stated that they reveiwed the EOL contract and that it does not address payment. I told them that the payment terms do not differ but they are asking for something in writing. Can you send them something. How come it doesn't work on my eol machine? We did two deals that day we bought 4.70 and sold them 4.67-same volume

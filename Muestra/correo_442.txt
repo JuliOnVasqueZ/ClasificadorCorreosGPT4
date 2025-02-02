@@ -1,8 +1,1 @@
-9:30-11:30am
-    Media Briefing
-    President Clinton will visit South Asia from March
- 20-26th this year, the first visit by a U.S. president to the region in 22
- years. He will visit Bangladesh and perhaps Pakistan, but will spend the
- bulk of his time in India, reflecting the primary objective of this visit-
- to develop a broader, more multi-faceted relationship between the world's
- oldest and the world's largest democracies.
+General Counsel I. Documentation Issues A. Cross-defaults "Specified Transactions" Keep physical and financial trading separate or tie together? B. Calculation of termination amounts Market Quotation or Loss? C. Adequate Assurance provisions D. Credit considerations Recent price volatility - dramatic swings in exposure E. Documents to be delivered Resolutions may tell you more than you need to know Authorized trader lists are a two edged sword F. Dispute resolution mechanisms Waiver of jury trial, arbitration? G. Confidentiality H. Market Disruption Events De Minimis Trading? Tax disruption? Trading limitation - definition I. Market Disruption Fallbacks Get Commercial Input! Postponement Fallback Reference Price

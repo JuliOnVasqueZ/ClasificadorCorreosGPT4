@@ -1,4 +1,1 @@
-8. The minimum amount of time you have to wait for a guy who's running
-late is 5 minutes. Maximum waiting time: 6 minutes. For a girl, you have to
-wait 10 minutes for every point of hotness she scores on the classic 1-10
-scale.
+for their reference but some issues have come up which have to do with programming. Our intention is for the client to keep the database in the CD and to be able to access all the features in it so that there is no need for them to copy it unto a hard drive and possibly modify the data. Since by saving it unto a CD makes the database read-only, there's no problem with keeping the data on the disk intact, and we're even working on a disclaimer to paste on the database The problem is that by making it

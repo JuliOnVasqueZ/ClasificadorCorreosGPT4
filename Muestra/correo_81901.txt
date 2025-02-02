@@ -1,0 +1,1 @@
+BEGIN:VCARD VERSION:2.1 N:Pergher;Gunther FN:Pergher, Gunther ORG:Dow Jones Newswires;News Gathering & Pdn TITLE:Sr Research Analyst TEL;WORK;VOICE:609-520-7067 ADR;WORK:;South Brunswick NJ LABEL;WORK:South Brunswick NJ EMAIL;PREF;INTERNET:Gunther.Pergher@dowjones.com REV:20001121T161855Z END:VCARD

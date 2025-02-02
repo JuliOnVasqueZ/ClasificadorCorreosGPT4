@@ -1,4 +1,1 @@
-What America Means To Me!!! ( New From CuteStuf   > Garden of Life
- Are You Tuned Into Modern Technology?
- Biggest Hug
- <a href Link >
+like Enron. Also, do you have knowledge of specific positions we are trying to fill in ENA? Any info would be helpful. Thanks. Mat Chris, Per our conversation, the following table shows four storage inventories that we need to track/compute/report, etc. Background The west desk currently displays storage balances on several of the morning reports. These balances are not reported by the respective pipelines, however, each day the injections and withdrawals are available. In the past, our excel spreadsheets have tracked the running balances by simply adding the current daily activity to the prior day's balance. As we get validation

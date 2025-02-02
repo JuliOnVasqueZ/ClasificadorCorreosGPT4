@@ -1,0 +1,1 @@
+A more precise calculation of the state's loss is difficult because purchased power is acquired at different times and prices and pooled as a ``portfolio >

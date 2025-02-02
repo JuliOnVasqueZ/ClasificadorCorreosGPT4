@@ -1,2 +1,1 @@
-13. Unless you have signed a lucrative endorsement contract, do not
-appear in public wearing more than one Nike swoosh.
+saving it unto a CD makes the database read-only, there's no problem with keeping the data on the disk intact, and we're even working on a disclaimer to paste on the database The problem is that by making it into a read-only file, some commands have become disabled. Specifically, the buttons on the review form that access the compliance, operations, equipment, and staffing forms are not available through the read-only format. I ventured into the programming codes for the commands and found the following string on all four buttons: DoCmd.DoMenuItem acFormBar, acRecordsMenu, acSaveRecord, , acMenuVer70 I temporarily deleted that line

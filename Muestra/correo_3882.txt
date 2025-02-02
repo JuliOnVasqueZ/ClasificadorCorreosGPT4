@@ -1,3 +1,1 @@
-I forwarded this request to our Product Marketing group. We have had this
-request from other users as well. I will keep you updated on the response.
- 3) We have trouble with latency.
+Silverpeak or put in a wheel going out at Silverpeak(From PV or FC). - Buy transmission from SPP from (www.swoasis.com ) CONTROL TO HILLTOP. ($6.90 on-peak, $3.90 off-peak) - Buy transmission from PAC from MAL2 TO MAL5. ($5.84) - Buy transmission from BPA from HILLTOP TO SNOHO or another Sink. (Account numbers below). We need to bounce this of SNOHO before we send it back in at Malin. THIS SCHEDULE NEEDS TO BE TAGGED OR SIERRA PACIFIC GETS VERY PISSED OFF, THEY ARE NOT USED TO DOING TO MUCH REAL TIME. THERE IS A TEMPLATE FOR THIS SCHEDULE SO IT

@@ -1,3 +1,1 @@
-I RECENTLY PURCHASED A FLORIDA LOTTERY TICKET.  AFTER THE WINNING
-NUMBERS WERE ANNOUNCED, I REALIZED THAT MY NUMBERS WERE DIFFERENT THAN THE
-ONES I MEANT TO PICK.
+whatever reason), but there is some available that can be manually entered. Selecting this option causes ALL points for a given pipeline to be displayed (both normally scraped points AND manually entered points). A cycle of '0' is applied to this data, and it should only show up on reports until valid scrape data becomes available (since the report engine is designed to pull the latest cycle available). You can now add "extra" line items to be stored in the DB...this is to be used when you must enter data for more than one flow type for a given point

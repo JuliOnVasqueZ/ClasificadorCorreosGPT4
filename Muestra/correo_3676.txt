@@ -1,9 +1,1 @@
-Flattered, the man replied, "Oh yes, I agree
-  with you completely!
-  This must be a sign from God!"
- The woman continued, "And
-  look at this, here's another
-  miracle.  My car is completely demolished but
-  this bottle of wine didn't break.
-  Surely God wants us to drink this wine and
-  celebrate our good fortune."
+compared from one chart to the next. If so, Jason can tell you how we'd like them set. Let's also discuss what interactivity we can build into this page. Mat Dave, Hey, I checked out the test chart you did for outages. Nice work! I'm already thinking of many other things we'd like to have. Does this charting tool, allow us to customize the chart features to the extent excel does? Can you manually set the min and max values on the axis? We like some of the charts to have the same axis settings so that the bars can

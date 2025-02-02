@@ -1,3 +1,1 @@
-How are you doing?   I have not seen any of my Tri-City classmates in many
- years.   I think the last time I saw you was at Mark Bayless' wedding
- (85-86?) if my memory is correct.
+Weekly Update on the "NYISO Committees" page of the NYISO web site: Committees ---> Weekly Update or by clicking on the following link: (See attached file: weekly060801.PDF) - weekly060801.PDF Houdini was the first man to fly an airplane solo in Australia. Paul, During testing of the NYISO Deal Upload I noticed that there are many hourly deals in Enpower for the same NYISO Transaction ID. Please tell your guys that if this is going to work there can only be ONE deal in Enpower for EACH NY trans id. __ The testing is almost complete - as it stands now

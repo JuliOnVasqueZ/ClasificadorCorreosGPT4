@@ -1,18 +1,1 @@
-We originally had hoped to have all of the Transactional Data for
- EPMI, as defined in our October 6th email, available for production by
- October 27th.  However, we were also mindful of your expressed expectation
- that any data provided be useful and reliable.  The collection of data you
- requested in the subpoenas is neither kept electronically in the same
- location nor organized as you requested it.  In fact during our review of
- some of the data we found significant errors that called into question the
- methodology by which the data was extracted from existing information.
- When it became apparent that we could not accurately estimate how long it
- would take to get reliable data given the volume of transactions involved,
- we informed you of the problem.  We now understand that if we cannot give
- you a firm date when the balance of the Transactional Data will be
- available, the Commission believes it will have no choice but to seek to
- compel production before the Federal Regulatory Energy Commission
- ("FERC").  We understand the pressure that you must be under to get data
- immediately, but we cannot, at this time, give you another date in the
- immediate future by which we are certain that we will be able to produce
- accurate data.
+added, goods and services," should be added=20 to the definition of Taxes immediately after the word "use Please let me know if you have any questions or need any additional=20 information. , Susan Susan, Can you please take a look at the attached steel master agreement and=20 provide any additional language that you think is necessary (I imagine it=20 should work similar to the paper and pulp master that we discussed). My=20 concern with the steel master is twofold: (i) it will be used for=20 international counterparties; and (ii) the treatment of options in many=20 foreign jurisdictions. Thanks for your

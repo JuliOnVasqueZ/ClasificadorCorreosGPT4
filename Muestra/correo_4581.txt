@@ -1,8 +1,1 @@
-A spokesperson for Enron said the two cultures were able to work easily
-together during negotiations.  According to the company, "The deal fits
-both
-companies exceptionally well.  With Hades' ability to attract and
-retain new customers, we see this as a fabulous growth opportunity for
-millennia to come."  According to several energy industry insiders, Hades'
-high heating demand with very little need for summer air conditioning make
-it a very attractive energy portfolio addition.
+06/06/2001 04:58 PM The following deal confirmations do not contain the product definitions for SP-15 delivery (CAISO) and Palo Verde/Mid Columbia (West Firm) 226189 (SP15) 220051 (SP15) 220052 (SP15) 249547 (PV) 200536 (MidC) Therefore, the amendment will need to contain the definition of CAISO Energy and West Firm Energy. To Rhonda, My bad...It looks like MEGA is assigning ALL of its physical power positions with EPMI to ENA. The attached spreadsheet below has the options in the lower section, which should really be part of the "to be assigned" group. To All, Sorry for the confusion, Wendy Please find attached

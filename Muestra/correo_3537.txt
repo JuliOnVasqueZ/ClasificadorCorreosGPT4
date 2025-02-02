@@ -1,5 +1,1 @@
->I can do all things through Christ which strengthens me.  The road to
-success is not straight. There is a curve called  Failure;  a  loop called
-Confusion; speed bumps called Friends; red lights  called  Enemies;
-caution
->lights called Family.
+and I previously discussed the need to "keep track" of all facilities referenced in a particular order. This relationship allows users to query facility and review data related to an order. For instance, if an order required the upgrade of chlorination facilities at several plants, one could develop a query and report that produced the results of all equipment inspections for the related facilities. This would not be possible (or at least not achieved as easily) without the many to many relationship. So yes, you are giving up functionality, so I would only consider eliminating the table if it would

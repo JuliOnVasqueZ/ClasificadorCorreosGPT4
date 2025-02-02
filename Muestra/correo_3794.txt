@@ -1,3 +1,1 @@
-14. When stumbling upon other guys watching a sporting event, you may
-always ask the score of the game in progress, but you may never ask who's
-playing.
+from the programming codes for all four and so far have not had any problems with accessing all levels of the database in the CD. Now, I do not know exactly what that string does to the database but would much rather find a safer alternative if possible or at least know that the string is not a critical part of the process. If this is something that can be answered right off the bat I'd appreciate it, I realize that this is not a priority anymore so if its something that will consume a extended period of time, let

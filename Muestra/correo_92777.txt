@@ -1,0 +1,1 @@
+03/22/2000 02:59 PM Hi Zimin! Please find attached the RPI model I developed by bootstrapping RPI swaps. The structure of this particular swap is semi/semi Act/365F

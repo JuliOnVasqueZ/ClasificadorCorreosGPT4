@@ -1,7 +1,1 @@
-Human Rules
- <a href="  users click here
-to visit >
- Pink Roses For You
- <a href="  users
-click here to visit >
- Save 50-70% on Term Life Insurance with e-term!
+CASE UnitChar.Fuel_designation WHEN 'Alt' THEN CASE PlantOutage.OutageReason WHEN 'forced' THEN PlantOutage.CapacityOut ELSE 0 END ELSE 0 END ELSE 0 END)/24 AS 'DSW|Alt|forced' FROM LinkServer.Fundamentals.dbo.LkpCalendar_Definitions2 AS Calendar INNER JOIN LinkServer.Fundamentals.dbo.LkpOUT_PlantOutage AS PlantOutage ON Calendar.DateValue BETWEEN PlantOutage.BeginOutageDate AND PlantOutage.EndOutageDate INNER JOIN LinkServer.Fundamentals.dbo.LkpOUT_PlantCharacteristics AS PlantChar ON PlantOutage.PlantID = PlantChar.PlantID INNER JOIN LinkServer.Fundamentals.dbo.LkpOUT_UnitCharacteristics AS UnitChar ON PlantOutage.PlantUnitID = UnitChar.PlantUnitID Where Calendar.DateValue Between @BeginDate AND @EndDate AND PlantOutage.Approved = 'Y' Group By Calendar.DateValue ORDER BY Calendar.DateValue Amanda, Under the Power table in the Plant Outages folder on the fundy website, we have a link for California ISO outages. Please change the link to point to

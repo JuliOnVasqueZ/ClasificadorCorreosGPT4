@@ -1,4 +1,1 @@
-The Mercury News disclosed last week that some power was being sold at a
-loss. But the new figures provide the first indication of just how much
-excess power the state bought in its desperate effort to avoid blackouts >and how cheaply some of that power was sold when it turned out not to be
-needed.
+other takers for the tickets. Thanks! Becky Barclay The Affiliates 333 Clay Street Suite 4820 Houston, Texas 77002 713-658-1177 713-658-1771 (fax) www.affiliates.com Email and phone conversation at the same time! The happy hour tonight is at the Timbewolf near Bissonnet and Kirby. It says 6 pm, but whatever. I'll probably go then. If you guys aren't ready, maybe I'll go and check it out before you guys make the trip Mat David, Here's the information for the Portland database: Machine name: napdx-sql1 user id: gasintranet password: fundamentals The Access database I created is located at: O:\\fundy_ops\west desk\generation database\power_link_database.mdb The qry_curtailments

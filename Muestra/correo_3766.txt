@@ -1,4 +1,1 @@
-NEW FUN PAGE LINKS !
- ______________________________________________________________________
- The Osama Bin Laden Song ( Soooo Funny  > <a href="  users click
-here to visit >
+counterparty for West region locations." Thanks. Mat Abijeet, The balance of month Gas Daily product is called Kern Opal, but all basis and indexes are settled on the NWPL Rocky Mountains product. These should be used for the plasma screen accordingly. Mat David, You may have fixed this already, but please make sure that we filter for the "Y" for "Approved" in our current query that posts to the the GasFundy Site. Thanks. Mat Keith, As requested Mat SELECT DISTINCT Calendar.DateValue As OutageDate, SUM(CASE PlantChar.WSCCRegion WHEN 'DSW' THEN CASE UnitChar.Fuel_designation WHEN 'Alt' THEN CASE PlantOutage.OutageReason WHEN 'forced' THEN PlantOutage.CapacityOut ELSE

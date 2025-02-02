@@ -1,2 +1,1 @@
-The feet said, "We should be Boss as we carry the brain about  and
-  get him to where he wants to go."
+after that. all there! And please feel free to invite others! JB If you need to reach me, my cell phone # is 713-417-8613. (See attached file: pic13648.pcx) Angela, CIG (#42) is almost complete, but we have a few data changes to make: First, for DRN 24906 Big Blue Meter Station, please replace the utilized capacity values of the records with effective date 4/2/01 to 4/8/01 with values below listed from 4/2/01 to 4/8/01 and delete records with effective date 4/21/01. Also, please change all historicals from receipts to deliveries. 39014 39982 32987 44781 41381 41357 40586 Second, for DRN

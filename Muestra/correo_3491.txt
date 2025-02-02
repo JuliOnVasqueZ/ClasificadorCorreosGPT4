@@ -1,5 +1,1 @@
-The state bought 3.5 million megawatt-hours of electricity for July at an
-average price of $118 per megawatt-hour, according to a response Friday by
-the Department of Water Resources to Campbell's inquiry. The state has sold
-178,000 surplus megawatt-hours in July at an average price of $37, the
-department said.
+established HR department like Enron. Also, do you have knowledge of specific positions we are trying to fill in ENA? Any info would be helpful. Thanks. Mat David, This one is very similar to the one you just did. In fact, the data is almost identical. We download power plant outage data from the California ISO website (manual until you guys get some free time to set up an automated scrape). Anyway, the data gets into an Access database of mine in a table with key fields: Date and Res Name. The other fields include Type (planned or unplanned), Owner,

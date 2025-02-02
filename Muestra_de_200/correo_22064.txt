@@ -1,0 +1,1 @@
+Answer - The field Receipt to demarc deffered delivery IS included in a demarc allocation because the transport tied to this storage nomination is physically coming from the field to the market area. (Greg we may not have been clear on this comment on the conference call)

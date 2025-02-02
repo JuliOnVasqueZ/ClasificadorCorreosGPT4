@@ -1,4 +1,1 @@
-I WAS VERY UPSET BECAUSE I MEANT TO PUT DOWN THE NUMBERS THAT WON.
-REALLY >
-  THE INTEGRITY OF THE FLORIDA LOTTERY SYSTEM DEPENDS ON PEOPLE HAVING THE
-NUMBERS THEY INTENDED TO PICK.
+(i.e. the point is reported as both a Receipt and a Delivery). This should normally only have to be done the first time data is entered for that pipe, since the "Previous" data will handle pulling in and displaying (the next time) every flow type stored for every point on the pipe. NOTE: It is set to only allow 1 extra point to be added...this was done to simplify the handling of this feature; I'm open to discussion if you feel there is a need to enter more than one extra point (I see it as a Receipt/Delivery issue...will a

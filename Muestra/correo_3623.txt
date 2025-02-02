@@ -1,4 +1,1 @@
-The brunette was thrilled to be home early. She did a little gardening,
-  spent playtime with her son, and went to bed early.  The redhead was
-  elated to be able to get in a quick workout at the spa before meeting a
-  dinner date.
+up for the 608 Novelty Hill M/S point. Thanks Mat PS. This just reminded me that we need to start scraping that additional PG&E point that we discussed last week. Hello...since I was working to reload some cycle 13 data for Northwest today, it seemed like a good a time as any to take care of these few foreign key violations as well. These 4 points are reported on the Northwest site, but do not appear in our PIPELINE_LOCATION table as of yet (hence the foreign key violation): 458 OWYHEE COMPRESSOR - 3553 611 NORTH DOUGLAS RECEIPT (2001) - 37032

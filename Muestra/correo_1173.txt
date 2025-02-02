@@ -1,2 +1,1 @@
-15. "I am" is reportedly the shortest sentence in the English language.
- Could it be that "I do" is the longest sentence?
+I have met and put together a list of proposed items we would like you elaborate on when you come to visit on Oct-22: 1. How Day-Ahead, Real-Time, and Hour-Ahead markets are cleared. Procedures for Price Revision. The different components involved in SCVC & BME models and how they work. 2. The procedure and rules on how Generators bid in their capacity. 3. Fundamental Impact on NYCA due to the Sep 11 catastrophe. 4. Overview of the proposed NorthEast RTO and NYISO's feeling about where the whole process is headed. 5. Impacts on NY with Ontario's restructuring and impacts with

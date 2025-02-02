@@ -1,12 +1,1 @@
-in Houston. I have a question related to your paper "Fast convolution
- method for VAR
- and VAR gradients". I am wondering if you (or anyone else) have applied
- the "Convolution"
- or "Analytical" VAR method to non-normal distributions.
- We can estimate distributions of the marginals using historical time
- series as you suggest on
- page 3 of the paper, then we would have to assume independence of
- marginals and calculate
- VAR. How different that VAR would be compared to historical VAR based on
- the same time
- series of xi?
+proposal more attractive for Santa Clara, and any questions that you might have. Also, did you receive my indications for the products you were interested in? Thanks, Kim Ward Manager, West Gas Origination 713-853-0685 Some of these are pretty funny. A little blonde humor - 7 Degrees of Blonde.doc From Fuller - Reminds me of the guy who heard that 90% of all accidents happen within five miles of your home.... so he moved. A little blonde humor - 7 Degrees of Blonde.doc Jeff, Got your message this morning and we have refreshed the blend and extent price for you.

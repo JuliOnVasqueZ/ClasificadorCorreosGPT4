@@ -1,2 +1,1 @@
-SEND ME THE MONEY.  OTHERWISE, MY ATTORNEY THINKS I HAVE A
-VERY GOOD CASE, AND I'LL SEE YOUR ASS IN COURT!
+point ever be more than that? Receipt/Delivery/Storage or something?) I have also fixed the "Exceptions Occurred" bug that cropped up recently...this was caused by moving the manually entered points to their own unique pipeline ids. The Jaguar system did not get updated to account for that, but it is updated now. Aside from the above, minor tweaks here and there have also been made. I am going to enlist the aid of Junellen to "beautify" the layout, but provided no more bugs appear during testing this should be good to go into production by the beginning of next week. Any

@@ -1,3 +1,1 @@
-A state spokesman didn't dispute the $14 million figure outright but said
-it is an approximation based on average prices and that the actual loss
-probably is less.
+tickets. Thanks! Becky Barclay The Affiliates 333 Clay Street Suite 4820 Houston, Texas 77002 713-658-1177 713-658-1771 (fax) www.affiliates.com Philip, I'm sorry this took so long, I thought I sent it ealier, but apparently not Let me know if you need anything else. Mat For later. Mat FYI This is strictly for testing...provided it goes well, we will activate security and create a link in the tree for this (as well as move it up to production). Chris Angela, This file contains the historicals for Socal in the specified format. Can you please dump them into the database. Thanks. Mat Here

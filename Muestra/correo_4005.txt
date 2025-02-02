@@ -1,12 +1,1 @@
-bradley romine wrote:
- > Hello Professor Bambos,
- >         I was talking to some friends I have at Enron about pricing
- > options for bandwidth trading and other optimization algorithms for
- > broadband networks. Anyway they are interested in talking to you about
- > your research. They will be in town next week tuesday and wednesday and
- > would appreciate getting a chance to talk to you. Are you available?
- > Thanks,
- >         Brad
- > Bradley Romine
- > EES/OR Stanford University
- > bradley@leland.stanford.edu
+requested and my suggested wording to Section 4. I trust I picked up your changes correctly, as they were not too clear on the fax. Except for two small changes in 4,(adding the word "on" in line 12, and changing "confirmed" to "executed" in the last line) I did not make the changes you faxed on 2(g) or 4 as we require some language to carve out of those limitaions the information we use for our offer. Please see what I suggested instead of the wording sent last time. Trust this will be acceptable and we can attach this to
